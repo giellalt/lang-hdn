@@ -1,4 +1,4 @@
-!!!Free and Open source Finnish analyser gtsvn-fi
+!!!Free and Open source Northern Haida analyser gtsvn-hdn
 
 ;Authors: Divvun and Giellatekno teams, U Alberta, community members
 ;Software version: 2012
@@ -8,7 +8,7 @@
 
 !!!GTSVN-sma
 
-This is free and open source South Sámi morphology.
+This is free and open source Northern Haida morphology.
 
            !!!Northern Haida morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Northern Haida LANGUAGE.
@@ -18,7 +18,7 @@ INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Northern Haida LANGUAGE.
 
 !!Analysis symbols
 ----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
+The morphological analyses of wordforms of Northern Haida are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
