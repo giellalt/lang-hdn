@@ -1,4 +1,33 @@
-$Rev: 81562 $
+$Rev: 81831 $
+Added basic build infrastructure for a CG-based grammar checker. No template
+source file added yet, as this is still pretty experimental.
+
+r81633:
+Copy-paste error introduced scanning of a subdir test that doesn't exist for any
+language but SME. Now corrected.
+
+r81625:
+Reorganised the phonetic build code to better support parallel phonetic
+transcription depending on the source language of loan words and foreign names.
+
+r81597:
+Added check for the availability of 'see' when testing, to avoid bad fails on
+systems without 'see'.
+
+r81592:
+Added config feedback about vislcg3/syntactic parsing status. Added config check
+for the see tool (SubEthaEdit).
+
+r81588:
+Remove copying of the timestamp file for non-maintainers. It breaks the
+automatic merge, and requires a revision-explicit merge for each such language.
+Also added removal of originating language tags - they are only used in TTS.
+
+r81579:
+Added compilation of the remove-orig_lang-tags filter. Sorted the filter
+targets.
+
+r81562:
 Improved and corrected configure feedback for spellers.
 
 r81556:
