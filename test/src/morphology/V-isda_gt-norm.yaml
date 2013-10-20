@@ -1,0 +1,26 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+  
+  Verb - isda - do ok : # 
+     isda+V+Inf: isda
+     isda+V+Hab+Neg+Prs: isdagangqanggan
+     isda+V+Hab+Neg+Prs: isdagangqanggan
+     isda+V+Hab+Neg+Prt: isdagangqangang
+     isda+V+Hab+Neg+Fut: isdagangqangsaang
+     isda+V+Neg+Prs: isdaqanggan
+     isda+V+Neg+Prt: isdaqangang
+     isda+V+Neg+Fut: isdaqangsaang
+     isda+V+Hab+Prs: isdaganggan
+     isda+V+Hab+Prt: isdagangang
+     isda+V+Hab+Fut: isdagangsaang
+     isda+V+Hab+Neg+Prs: isdagangqanggan
+     isda+V+Hab+Neg+Prt: isdagangqangang
+     isda+V+Hab+Neg+Fut: isdagangqangsaang
