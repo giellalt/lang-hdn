@@ -1,4 +1,4 @@
-!!!Free and Open source Northern Haida analyser gtsvn-hdn
+!!!Free and Open source Northern haida analyser gtsvn-hdn
 
 ;Authors: Divvun and Giellatekno teams, U Alberta, community members
 ;Software version: 2012
@@ -6,7 +6,7 @@
 ;SVN Revision: $Revision: 68217 $
 ;SVN Date: $Date: 2013-01-16 11:31:33 +0200 (Wed, 16 Jan 2013) $
 
-!!!GTSVN-sma
+!!!GTSVN-hdn
 
 This is free and open source Northern Haida morphology.
 
@@ -18,7 +18,7 @@ INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Northern Haida LANGUAGE.
 
 !!Analysis symbols
 ----------------
-The morphological analyses of wordforms of Northern Haida are presented
+The morphological analyses of wordforms of UNDEFINED language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
@@ -47,6 +47,7 @@ Question and Focus particles:
 
 Semantics are classified with
 
+Prefix tags
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
