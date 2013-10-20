@@ -2,14 +2,35 @@
 !! ---------------
 !! The UNDEFINED language nouns inflect in cases.
 
-LEXICON Cases
-+N+sg+nom:0     #   ;
-+N+pl+nom:i     #   ;
-+N+sg+loc:as    #   ;
-+N+pl+loc:ias   #   ;
-+N+sg+acc:at    #   ;
-+N+pl+acc:iat   #   ;
-#:0   Nouns   ;
+LEXICON n
++N+Def:%>aay # ;
++N+Indef: # ;
 
-! vim: set ft=xfst-lexc:
+LEXICON XHA
++N+Def:%>ay # ;
++N+Indef: # ;
+
+LEXICON DAALAA
++N+Def:%>y # ;
++N+Indef: # ;
+
+LEXICON DUUS
++N+Def:%>aay # ;
++N+Indef: # ;
+
+LEXICON GWAAHL
++N+Def:%>aay # ;
++N+Indef: # ;
+
+LEXICON SDLAAGWAAL
++N+Def:%>aay # ;
++N+Indef: # ;
+
+LEXICON GATAADAAN
++N+Def:%>aay # ;
++N+Indef: # ;
+
+LEXICON SLOANS
++N+Def:%>gaay # ;
++N+Indef: # ;
 

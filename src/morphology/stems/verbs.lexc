@@ -1,8 +1,16 @@
 !! Verbs
 !! -----
-!! Verbs in UNDEFINED language are actions.
+!! Haida verb stems
 
 LEXICON Verbs
-verb    Persons   ;
+VSTEMS ;
+Box+tsas:tsas PREFVSTEMS ;
+Ani+dla:dla PREFVSTEMS ;
 
-! vim: set ft=xfst-lexc:
+LEXICON VSTEMS
+isda v2 "to do" ;
+khinda v2 "to show" ;
+
+LEXICON PREFVSTEMS
+gang v2 "to carry" ;
+

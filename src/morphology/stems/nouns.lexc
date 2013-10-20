@@ -3,6 +3,14 @@
 !! Nouns in UNDEFINED language are things.
 
 LEXICON Nouns
-noun    Cases   ;
+chiin n "fish"  ;
+gataaw n "fork" ;
 
-! vim: set ft=xfst-lexc:
+xha XHA "dog"  ;
+daalaa DAALA "money"  ;
+duus DUUS "cat"  ;
+gwaahl GWAAHL "bag"  ;
+sdlaagwaal SDLAAGWAAL "spoon"  ;
+gataadaan GATAADAAN "table"  ;
+
+blues SLOANS ;
