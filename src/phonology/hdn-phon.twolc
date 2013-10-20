@@ -19,14 +19,21 @@ Sets
  
 Rules
 
-"Deleting stem-final s in s genitive"
- s:0 <=> Vow s %>: _ ;
+"Final s to j"
+ s:j <=> Vow _ %>: a ;
 
-!€ primus%>s
-!€ primus00
+"h deletion before l in definite"
+ h:0 <=> _ l %>: a ;
 
-!€grís%>s
-!€grís00
 
-!$grís%>s
-!$grís0s
+"w to u in gwaal"
+ w:u <=> _ a: a: l %>: a ;
+
+"a deletion in gwaal 1"
+ a:0 <=> w: _ a: l %>: a ;
+
+"a deletion in gwaal 1"
+ a:0 <=> w: a: _ l %>: a ;
+
+
+!sdlaagwaal:sdlaagulaay
