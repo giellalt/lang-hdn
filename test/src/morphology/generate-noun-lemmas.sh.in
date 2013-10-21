@@ -39,7 +39,7 @@ if [ -z $fsttype ]; then
 fi
 
 ###### Extraction: #######
-${GTCORE}/scripts/extract-lemmas.sh \
+@GTCORE@/scripts/extract-lemmas.sh \
 	$sourcefile "(CmpN/Last)" > $lemmas
 
 ###### Start testing: #######
