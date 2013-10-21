@@ -12,7 +12,6 @@ Tests:
   Verb - isda - do ok : # 
      isda+V+Inf: isda
      isda+V+Hab+Neg+Prs: isdagangqanggan
-     isda+V+Hab+Neg+Prs: isdagangqanggan
      isda+V+Hab+Neg+Prt: isdagangqangang
      isda+V+Hab+Neg+Fut: isdagangqangsaang
      isda+V+Neg+Prs: isdaqanggan
