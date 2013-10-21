@@ -36,18 +36,11 @@ Question and Focus particles:
 
 Semantics are classified with
 
-Prefix tags
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
 
-Morphophonology
----------------
-To represent phonologic variations in word forms we use the following
-symbols in the lexicon files:
-
-And following triggers to control variation
 
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics:
