@@ -29,7 +29,8 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 !! The parts-of-speech are:
  +N +A +Adv +V                                 !!≈
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num !!≈
- +Def +Indef
+ +Def 
+ +Indef
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
@@ -90,38 +91,31 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  +Veh
  +Clth
 
-!! Prefix tags
- Ani+
- Box+ 
+! Prefix tags
+! Ani+
+! Box+ 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
 
+%>
 
-!! Morphophonology
-!! ---------------
-!! To represent phonologic variations in word forms we use the following
-!! symbols in the lexicon files:
- {aä} {oö} {uü}
-
-!! And following triggers to control variation
- {front} {back}
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
-@P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
+! @P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
 
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Nouns   ;
-0   Verbs   ;
-0   Adjectives  ;
-0   Pronouns    ;
-0   Numerals    ;
-0   Prefixes    ;
-0   Postpositions ;
+   Nouns   ;
+   Verbs   ;
+   Adjectives  ;
+   Pronouns    ;
+   Numerals    ;
+   Prefixes    ;
+   Postpositions ;
 
 ! vim: set ft=xfst-lexc:
