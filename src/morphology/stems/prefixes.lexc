@@ -3,8 +3,9 @@
 !! Prefixes in UNDEFINED language are bound to beginning of other words.
 
 LEXICON Prefixes
-nounprefix-     Nouns   ;
-verbprefix-     Verbs   ;
+
+tsas PREFVSTEMS ;
+dla PREFVSTEMS ;
 
 
 ! vim: set ft=xfst-lexc:
