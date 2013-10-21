@@ -4,10 +4,6 @@
 
 LEXICON Verbs
 VSTEMS ;
-!Box+tsas:tsas PREFVSTEMS ; ! Trying without prefix tagging instead
-!Ani+dla:dla PREFVSTEMS ;
-tsas:tsas PREFVSTEMS ;
-dla:dla PREFVSTEMS ;
 
 LEXICON VSTEMS
 isda v2 "to do" ;
