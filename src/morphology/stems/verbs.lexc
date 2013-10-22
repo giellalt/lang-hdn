@@ -5,10 +5,7 @@
 LEXICON Verbs
 VSTEMS ;
 
-LEXICON VSTEMS
-isda v2 "to do" ;
-khinda v2 "to show" ;
+LEXICON Verbs
+táa VB-aa "for S to eat O" ;
 
-LEXICON PREFVSTEMS
-gang v2 "to carry" ;
 
