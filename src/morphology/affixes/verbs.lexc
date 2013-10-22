@@ -2,6 +2,9 @@
 !  ---------------
 !! Haida verb morphology
 
+Multichar_Symbols
++V +Basic +Prs +Neg +Hab +DPast +PHab +SFut +IFut +NFut +3pl +YesNo +Cmd +Qst +PlCmd +IncCmd %> ;
+
 LEXICON VB-aa
 +V+Basic:%> # ;
 +V+Prs:%>gang # ;
@@ -63,20 +66,20 @@ LEXICON VB-aa
 +V+YesNo+3pl+Neg+NFut:%>qwaaqang khasaaqáng # ;
 +V+YesNo+3pl+IFut:%>qwaaqang khasaasdláa # ;
 +V+YesNo+3pl+Neg+IFut:%>qwaaqang khasaasdläqáng # ;
-+V+Question+DPast:%>gaa # ;
-+V+Question+Neg+DPast:%>qaangaa # ;
-+V+Question+3pl+DPast:%>qaawaa # ;
-+V+Question+3pl+Neg+DPast:%>qangqaawaa # ;
-+V+Question+PHab:%>gaangaa # ;
-+V+Question+Neg+PHab:%>qanggaangaa # ;
-+V+Question+3pl+PHab:%>qugaangaa # ;
-+V+Question+3pl+Neg+PHab:%>qangqugaangaa # ;
-+V+Command:%> # ;
-+V+Command+Neg:%>qang # ;
-+V+PluralCommand:%>quu # ;
-+V+PluralCommand+Neg:%>qangquu # ;
-+V+InclusiveCommand:%>tsqan # ;
-+V+InclusiveCommand+Neg:%>qang tsqan # ;
++V+Qst+DPast:%>gaa # ;
++V+Qst+Neg+DPast:%>qaangaa # ;
++V+Qst+3pl+DPast:%>qaawaa # ;
++V+Qst+3pl+Neg+DPast:%>qangqaawaa # ;
++V+Qst+PHab:%>gaangaa # ;
++V+Qst+Neg+PHab:%>qanggaangaa # ;
++V+Qst+3pl+PHab:%>qugaangaa # ;
++V+Qst+3pl+Neg+PHab:%>qangqugaangaa # ;
++V+Cmd:%> # ;
++V+Cmd+Neg:%>qang # ;
++V+PlCmd:%>quu # ;
++V+PlCmd+Neg:%>qangquu # ;
++V+IncCmd:%>tsqan # ;
++V+IncCmd+Neg:%>qang tsqan # ;
 
 LEXICON VB-aal
 +V+Basic:%> # ;
@@ -139,14 +142,14 @@ LEXICON VB-aal
 +V+YesNo+3pl+Neg+NFut:%> # ;
 +V+YesNo+3pl+IFut:%> # ;
 +V+YesNo+3pl+Neg+IFut:%> # ;
-+V+Question+DPast:%> # ;
-+V+Question+Neg+DPast:%> # ;
-+V+Question+3pl+DPast:%> # ;
-+V+Question+3pl+Neg+DPast:%> # ;
-+V+Question+PHab:%> # ;
-+V+Question+Neg+PHab:%> # ;
-+V+Question+3pl+PHab:%> # ;
-+V+Question+3pl+Neg+PHab:%> # ;
++V+Qst+DPast:%> # ;
++V+Qst+Neg+DPast:%> # ;
++V+Qst+3pl+DPast:%> # ;
++V+Qst+3pl+Neg+DPast:%> # ;
++V+Qst+PHab:%> # ;
++V+Qst+Neg+PHab:%> # ;
++V+Qst+3pl+PHab:%> # ;
++V+Qst+3pl+Neg+PHab:%> # ;
 +V+Command:%> # ;
 +V+Command+Neg:%> # ;
 +V+PluralCommand:%> # ;
