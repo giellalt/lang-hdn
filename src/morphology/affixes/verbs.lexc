@@ -3,7 +3,6 @@
 !! Haida verb morphology
 
 
-
 LEXICON VB-aa
 +V+Basic: # ;
 +V+Prs:%>gang # ;
@@ -158,11 +157,6 @@ LEXICON VB-aal
 
 
 
-
-
-LEXICON v2
-+V+Inf: # ;
-+V: ASP ;
 
 LEXICON VB-aa
 VB-aa ;
