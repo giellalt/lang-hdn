@@ -11,6 +11,10 @@ The morphological analyses of wordforms of UNDEFINED language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
+
+Haida has these tags for real, says Jordan.
+
+
 The parts-of-speech are:
 
 The parts of speech are further split up into:
@@ -39,6 +43,18 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
+
+
+
+
+
+
+
+Morphophonology
+---------------
+To represent phonologic variations in word forms we use the following
+symbols in the lexicon files:
+
 
 
 
