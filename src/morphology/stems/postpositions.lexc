@@ -7,3 +7,15 @@ LEXICON Postpositions
 
 aa p "to" ;
 inggw p "on" ;
+dluu p "when" ;
+
+
+LEXICON part
++Prt: # ;
+
+LEXICON Particles
+
+tl’ part ;
+uu part ;
+tlak part ;
+an part ;
