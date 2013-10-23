@@ -100,10 +100,22 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  +V→N +V→V +V→A
  +Der/xxx
 
+
+
 %>
+
+
+
+
+!! Morphophonology
+!! ---------------
+!! To represent phonologic variations in word forms we use the following
+!! symbols in the lexicon files:
+ {aä} {oö} {uü}
 
 !! Haida has these tags for real, says Jordan.
 +V +Basic +Prs +Hab +Neg +DPast +PHab +SFut +IFut +NFut +3pl +YesNo +Cmd +Qst +PlCmd +IncCmd
+
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
