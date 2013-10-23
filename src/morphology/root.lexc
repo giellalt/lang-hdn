@@ -13,18 +13,21 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ========================================================================== !
-! !!            !!!Northern Haida morphological analyser                      !
+! !!            !!!Northern Haida morphological analyser                      
 ! ========================================================================== !
-!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Northern Haida LANGUAGE.
- 
 
 Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! !!Analysis symbols
 !! ----------------
-!! The morphological analyses of wordforms of UNDEFINED language are presented
+!! The morphological analyses of wordforms of Northern Haida are presented
 !! in this system in terms of following symbols.
+
 !! (It is highly suggested to follow existing standards when adding new tags).
+
+
+!! Haida has these tags for real, says Jordan.
++V +Basic +Prs +Hab +Neg +DPast +PHab +SFut +IFut +NFut +3Pl +YesNo +Cmd +Qst +PlCmd +IncCmd
 
 !! The parts-of-speech are:
  +N +A +Adv +V                                 !!≈
@@ -35,27 +38,13 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
-!! The Usage extents are marked using following tags:
+!! The Usage extents are marked using the following tags:
  +Use/Sub   
  +Use/-Spell 
 
-!! The nominals are inflected in the following Case and Number
- +Sg +Du +Pl
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+!! The nominals are inflected in the following Number
+ +Sg +Pl
 
-!! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
-!! The comparative forms are:
- +Comp +Superl
-!! Numerals are classified under:
- +Attr +Card
- +Ord 
-!! Verb moods are:
- +Ind +Prs +Prt +Pot +Cond +Imprt
-!! Verb personal forms are:
- +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
-!! Other verb forms are
- +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
@@ -68,61 +57,11 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 !! Non-dictionary words can be recognised with:
  +Guess
 
-!! Question and Focus particles:
- +Qst +Foc
-
-
-!! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
- +Org
- +Obj
- +Ani
- +Hum
- +Plant
- +Group
- +Time 
- +Txt
- +Route
- +Measr 
- +Wthr
- +Build 
- +Edu
- +Veh
- +Clth
-
-! Prefix tags
-! Ani+
-! Box+ 
-
-!! Derivations are classified under the morphophonetic form of the suffix, the
-!! source and target part-of-speech.
- +V→N +V→V +V→A
- +Der/xxx
-
-
-
 %>
 
 
-
-
-!! Morphophonology
-!! ---------------
-!! To represent phonologic variations in word forms we use the following
-!! symbols in the lexicon files:
- {aä} {oö} {uü}
-
-!! Haida has these tags for real, says Jordan.
-+V +Basic +Prs +Hab +Neg +DPast +PHab +SFut +IFut +NFut +3pl +YesNo +Cmd +Qst +PlCmd +IncCmd
-
-
-!! We have manually optimised the structure of our lexicon using following
-!! flag diacritics to restrict morhpological combinatorics:
-! @P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
-
 LEXICON Root
-!! The word forms in UNDEFINED language start from the lexeme roots of basic
+!! The word forms in Haida start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
    Nouns   ;
    Verbs   ;
@@ -131,5 +70,6 @@ LEXICON Root
    Numerals    ;
    Prefixes    ;
    Postpositions ;
-
-! vim: set ft=xfst-lexc:
+   Particles ;
+   
+   
