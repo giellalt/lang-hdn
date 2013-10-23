@@ -7,78 +7,78 @@
 LEXICON VB-aa
 +V+Basic: # ;
 +V+Prs:%>gang # ;
-+V+Neg+Prs:%>’anggang # ;
++V+Neg+Prs:%>qanggang # ;
 +V+Hab+Prs:%>ganggang # ;
-+V+Hab+Neg+Prs:%>gang’anggang # ;
++V+Hab+Neg+Prs:%>gangqanggang # ;
 +V+DPast:%>gan # ;
-+V+Neg+DPast:%>’anggan # ;
++V+Neg+DPast:%>qanggan # ;
 +V+PHab:%>giinii # ;
-+V+Neg+PHab:%>’anggiinii # ;
++V+Neg+PHab:%>qanggiinii # ;
 +V+SFut:%>saang # ;
-+V+Neg+SFut:%>’angsaang # ;
-+V+NFut:%>’ang% ḵasa’áang # ;
-+V+Neg+NFut:%>’ang% ḵasaa’ánggang # ;
-+V+IFut:%>’ang% ḵasaasdláang # ;
-+V+Neg+IFut:%>’ang% ḵasaasdlä’ánggang # ;
-+V+3Pl+Basic:%>’waa # ;
-+V+3Pl+Prs:%>’waang # ;
-+V+3Pl+Neg+Prs:%>’ang’waang # ;
-+V+3Pl+Hab+Prs:%>gang’waang # ;
-+V+3Pl+Hab+Neg+Prs:%>gang’ang’waang # ;
-+V+3Pl+DPast:%>’wägan # ;
-+V+3Pl+Neg+DPast:%>’ang’wägan # ;
-+V+3Pl+PHab:%>’wägiinii # ;
-+V+3Pl+Neg+PHab:%>’ang’wägiinii # ;
-+V+3Pl+SFut:%>’waasaang # ;
-+V+3Pl+Neg+SFut:%>’ang’waasaang # ;
-+V+3Pl+NFut:%>’waa’ang% ḵasa’áang # ;
-+V+3Pl+Neg+NFut:%>’waa’ang% ḵasaa’ánggang # ;
-+V+3Pl+IFut:%>’waa’ang% ḵasaasdláang # ;
-+V+3Pl+Neg+IFut:%>’waa’ang% ḵasaasdä’ánggang # ;
++V+Neg+SFut:%>qangsaang # ;
++V+NFut:%>qang% khasaqáang # ;
++V+Neg+NFut:%>qang% khasaaqánggang # ;
++V+IFut:%>qang% khasaasdláang # ;
++V+Neg+IFut:%>qang% khasaasdläqánggang # ;
++V+3Pl+Basic:%>qwaa # ;
++V+3Pl+Prs:%>qwaang # ;
++V+3Pl+Neg+Prs:%>qangqwaang # ;
++V+3Pl+Hab+Prs:%>gangqwaang # ;
++V+3Pl+Hab+Neg+Prs:%>gangqangqwaang # ;
++V+3Pl+DPast:%>qwägan # ;
++V+3Pl+Neg+DPast:%>qangqwägan # ;
++V+3Pl+PHab:%>qwägiinii # ;
++V+3Pl+Neg+PHab:%>qangqwägiinii # ;
++V+3Pl+SFut:%>qwaasaang # ;
++V+3Pl+Neg+SFut:%>qangqwaasaang # ;
++V+3Pl+NFut:%>qwaaqang% khasaqáang # ;
++V+3Pl+Neg+NFut:%>qwaaqang% khasaaqánggang # ;
++V+3Pl+IFut:%>qwaaqang% khasaasdláang # ;
++V+3Pl+Neg+IFut:%>qwaaqang% khasaasdäqánggang # ;
 +V+YesNo+Basic: # ;
 +V+YesNo+Prs: # ;
-+V+YesNo+Neg+Prs:%>’ang # ;
++V+YesNo+Neg+Prs:%>qang # ;
 +V+YesNo+Hab+Prs:%>gang # ;
-+V+YesNo+Hab+Neg+Prs:%>gang’ang # ;
++V+YesNo+Hab+Neg+Prs:%>gangqang # ;
 +V+YesNo+DPast:%>gaa # ;
-+V+YesNo+Neg+DPast:%>’aangaa # ;
++V+YesNo+Neg+DPast:%>qaangaa # ;
 +V+YesNo+PHab:%>gaangaa # ;
-+V+YesNo+Neg+PHab:%>’anggaangaa # ;
++V+YesNo+Neg+PHab:%>qanggaangaa # ;
 +V+YesNo+SFut:%>saa # ;
-+V+YesNo+Neg+SFut:%>’angsaa # ;
-+V+YesNo+NFut:%>’ang% ḵasa’áa # ;
-+V+YesNo+Neg+NFut:%>’ang% ḵasaa’áng # ;
-+V+YesNo+IFut:%>’ang% ḵasaasdláa # ;
-+V+YesNo+Neg+IFut:%>’ang% ḵasaasdlä’áng # ;
-+V+YesNo+3Pl+Basic:%>’waa # ;
-+V+YesNo+3Pl+Prs:%>’waa # ;
-+V+YesNo+3Pl+Neg+Prs:%>’ang’waa # ;
-+V+YesNo+3Pl+Hab+Prs:%>gang’waa # ;
-+V+YesNo+3Pl+Hab+Neg+Prs:%>gang’ang’waa # ;
-+V+YesNo+3Pl+DPast:%>’aawaa # ;
-+V+YesNo+3Pl+Neg+DPast:%>’ang’aawaa # ;
-+V+YesNo+3Pl+PHab:%>’ugaangaa # ;
-+V+YesNo+3Pl+Neg+PHab:%>’ang’ugaangaa # ;
-+V+YesNo+3Pl+SFut:%>’waasaa # ;
-+V+YesNo+3Pl+Neg+SFut:%>’ang’waasaa # ;
-+V+YesNo+3Pl+NFut:%>’waa’ang% ḵasa’áa # ;
-+V+YesNo+3Pl+Neg+NFut:%>’waa’ang% ḵasaa’áng # ;
-+V+YesNo+3Pl+IFut:%>’waa’ang% ḵasaasdláa # ;
-+V+YesNo+3Pl+Neg+IFut:%>’waa’ang% ḵasaasdlä’áng # ;
++V+YesNo+Neg+SFut:%>qangsaa # ;
++V+YesNo+NFut:%>qang% khasaqáa # ;
++V+YesNo+Neg+NFut:%>qang% khasaaqáng # ;
++V+YesNo+IFut:%>qang% khasaasdláa # ;
++V+YesNo+Neg+IFut:%>qang% khasaasdläqáng # ;
++V+YesNo+3Pl+Basic:%>qwaa # ;
++V+YesNo+3Pl+Prs:%>qwaa # ;
++V+YesNo+3Pl+Neg+Prs:%>qangqwaa # ;
++V+YesNo+3Pl+Hab+Prs:%>gangqwaa # ;
++V+YesNo+3Pl+Hab+Neg+Prs:%>gangqangqwaa # ;
++V+YesNo+3Pl+DPast:%>qaawaa # ;
++V+YesNo+3Pl+Neg+DPast:%>qangqaawaa # ;
++V+YesNo+3Pl+PHab:%>qugaangaa # ;
++V+YesNo+3Pl+Neg+PHab:%>qangqugaangaa # ;
++V+YesNo+3Pl+SFut:%>qwaasaa # ;
++V+YesNo+3Pl+Neg+SFut:%>qangqwaasaa # ;
++V+YesNo+3Pl+NFut:%>qwaaqang% khasaqáa # ;
++V+YesNo+3Pl+Neg+NFut:%>qwaaqang% khasaaqáng # ;
++V+YesNo+3Pl+IFut:%>qwaaqang% khasaasdláa # ;
++V+YesNo+3Pl+Neg+IFut:%>qwaaqang% khasaasdläqáng # ;
 +V+Qst+DPast:%>gaa # ;
-+V+Qst+Neg+DPast:%>’aangaa # ;
-+V+Qst+3Pl+DPast:%>’aawaa # ;
-+V+Qst+3Pl+Neg+DPast:%>’ang’aawaa # ;
++V+Qst+Neg+DPast:%>qaangaa # ;
++V+Qst+3Pl+DPast:%>qaawaa # ;
++V+Qst+3Pl+Neg+DPast:%>qangqaawaa # ;
 +V+Qst+PHab:%>gaangaa # ;
-+V+Qst+Neg+PHab:%>’anggaangaa # ;
-+V+Qst+3Pl+PHab:%>’ugaangaa # ;
-+V+Qst+3Pl+Neg+PHab:%>’ang’ugaangaa # ;
++V+Qst+Neg+PHab:%>qanggaangaa # ;
++V+Qst+3Pl+PHab:%>qugaangaa # ;
++V+Qst+3Pl+Neg+PHab:%>qangqugaangaa # ;
 +V+Cmd: # ;
-+V+Cmd+Neg:%>’ang # ;
-+V+PlCmd:%>’uu # ;
-+V+PlCmd+Neg:%>’ang’uu # ;
-+V+IncCmd:%>ts’an # ;
-+V+IncCmd+Neg:%>’ang% ts’an # ;
++V+Cmd+Neg:%>qang # ;
++V+PlCmd:%>quu # ;
++V+PlCmd+Neg:%>qangquu # ;
++V+IncCmd:%>tsqan # ;
++V+IncCmd+Neg:%>qang% tsqan # ;
 
 LEXICON VB-aal
 +V+Basic: # ;
@@ -194,7 +194,7 @@ VB-aa ;
 LEXICON VB-ang
 VB-aa ;
 
-LEXICON VB-a’ä
+LEXICON VB-aqä
 VB-aa ;
 
 LEXICON VB-as
@@ -246,7 +246,7 @@ NEG ;
 
 
 LEXICON NEG
-+Neg:%>’ang TNS ;
++Neg:%>qang TNS ;
 TNS ;
  
 LEXICON TNS 
