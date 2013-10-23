@@ -164,6 +164,81 @@ LEXICON v2
 +V+Inf:%> # ;
 +V: ASP ;
 
+LEXICON VB-aa
++V: # ;
+
+LEXICON VB-aahl
++V: # ;
+
+LEXICON VB-aal
++V: # ;
+
+LEXICON VB-aan
++V: # ;
+
+LEXICON VB-aang
++V: # ;
+
+LEXICON VB-ad
++V: # ;
+
+LEXICON VB-ah
++V: # ;
+
+LEXICON VB-ahl
++V: # ;
+
+LEXICON VB-an
++V: # ;
+
+LEXICON VB-ang
++V: # ;
+
+LEXICON VB-aqä
++V: # ;
+
+LEXICON VB-as
++V: # ;
+
+LEXICON VB-eehl
++V: # ;
+
+LEXICON VB-i
++V: # ;
+
+LEXICON VB-ii
++V: # ;
+
+LEXICON VB-iid
++V: # ;
+
+LEXICON VB-iihl
++V: # ;
+
+LEXICON VB-ing
++V: # ;
+
+LEXICON VB-is
++V: # ;
+
+LEXICON VB-ud
++V: # ;
+
+LEXICON VB-ung
++V: # ;
+
+LEXICON VB-uu
++V: # ;
+
+LEXICON VB-uuhl
++V: # ;
+
+LEXICON VB-ä
++V: # ;
+
+LEXICON VN-in
++V: # ;
+
 
 LEXICON ASP
 +Hab:%>gang NEG ;
