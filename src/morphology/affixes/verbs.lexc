@@ -2,6 +2,163 @@
 !  ---------------
 !! Haida verb morphology
 
+
+
+LEXICON VB-aa
++V+Basic:%> # ;
++V+Prs:%>gang # ;
++V+Neg+Prs:%>qanggang # ;
++V+Hab+Prs:%>ganggang # ;
++V+Hab+Neg+Prs:%>gangqanggang # ;
++V+DPast:%>gan # ;
++V+Neg+DPast:%>qanggan # ;
++V+PHab:%>giinii # ;
++V+Neg+PHab:%>qanggiinii # ;
++V+SFut:%>saang # ;
++V+Neg+SFut:%>qangsaang # ;
++V+NFut:%>qang khasaqáang # ; 
++V+Neg+NFut:%>qang khasaaqánggang # ;
++V+IFut:%>qang khasaasdláang # ;
++V+Neg+IFut:%>qang khasaasdläqánggang # ;
++V+3pl+Basic:%>qwaa # ;
++V+3pl+Prs:%>qwaang # ;
++V+3pl+Neg+Prs:%>qangqwaang # ;
++V+3pl+Hab+Prs:%>gangqwaang # ;
++V+3pl+Hab+Neg+Prs:%>gangqangqwaang # ;
++V+3pl+DPast:%>qwägan # ;
++V+3pl+Neg+DPast:%>qangqwägan # ;
++V+3pl+PHab:%>qwägiinii # ;
++V+3pl+Neg+PHab:%>qangqwägiinii # ;
++V+3pl+SFut:%>qwaasaang # ;
++V+3pl+Neg+SFut:%>qangqwaasaang # ;
++V+3pl+NFut:%>qwaaqang khasaqáang # ; 
++V+3pl+Neg+NFut:%>qwaaqang khasaaqánggang # ;
++V+3pl+IFut:%>qwaaqang khasaasdláang # ;
++V+3pl+Neg+IFut:%>qwaaqang khasaasdäqánggang # ;
++V+YesNo+Basic:%> # ;
++V+YesNo+Prs:%> # ;
++V+YesNo+Neg+Prs:%>qang # ;
++V+YesNo+Hab+Prs:%>gang # ;
++V+YesNo+Hab+Neg+Prs:%>gangqang # ;
++V+YesNo+DPast:%>gaa # ;
++V+YesNo+Neg+DPast:%>qaangaa # ;
++V+YesNo+PHab:%>gaangaa # ;
++V+YesNo+Neg+PHab:%>qanggaangaa # ;
++V+YesNo+SFut:%>saa # ;
++V+YesNo+Neg+SFut:%>qangsaa # ;
++V+YesNo+NFut:%>qang khasaqáa # ; 
++V+YesNo+Neg+NFut:%>qang khasaaqáng # ;
++V+YesNo+IFut:%>qang khasaasdláa # ;
++V+YesNo+Neg+IFut:%>qang khasaasdläqáng # ;
++V+YesNo+3pl+Basic:%>qwaa # ;
++V+YesNo+3pl+Prs:%>qwaa # ;
++V+YesNo+3pl+Neg+Prs:%>qangqwaa # ;
++V+YesNo+3pl+Hab+Prs:%>gangqwaa # ;
++V+YesNo+3pl+Hab+Neg+Prs:%>gangqangqwaa # ;
++V+YesNo+3pl+DPast:%>qaawaa # ;
++V+YesNo+3pl+Neg+DPast:%>qangqaawaa # ;
++V+YesNo+3pl+PHab:%>qugaangaa # ;
++V+YesNo+3pl+Neg+PHab:%>qangqugaangaa # ;
++V+YesNo+3pl+SFut:%>qwaasaa # ;
++V+YesNo+3pl+Neg+SFut:%>qangqwaasaa # ;
++V+YesNo+3pl+NFut:%>qwaaqang khasaqáa # ; 
++V+YesNo+3pl+Neg+NFut:%>qwaaqang khasaaqáng # ;
++V+YesNo+3pl+IFut:%>qwaaqang khasaasdláa # ;
++V+YesNo+3pl+Neg+IFut:%>qwaaqang khasaasdläqáng # ;
++V+Qst+DPast:%>gaa # ;
++V+Qst+Neg+DPast:%>qaangaa # ;
++V+Qst+3pl+DPast:%>qaawaa # ;
++V+Qst+3pl+Neg+DPast:%>qangqaawaa # ;
++V+Qst+PHab:%>gaangaa # ;
++V+Qst+Neg+PHab:%>qanggaangaa # ;
++V+Qst+3pl+PHab:%>qugaangaa # ;
++V+Qst+3pl+Neg+PHab:%>qangqugaangaa # ;
++V+Cmd:%> # ;
++V+Cmd+Neg:%>qang # ;
++V+PlCmd:%>quu # ;
++V+PlCmd+Neg:%>qangquu # ;
++V+IncCmd:%>tsqan # ;
++V+IncCmd+Neg:%>qang tsqan # ;
+
+LEXICON VB-aal
++V+Basic:%> # ;
++V+Prs:%> # ;
++V+Neg+Prs:%> # ;
++V+Hab+Prs:%> # ;
++V+Hab+Neg+Prs:%> # ;
++V+DPast:%> # ;
++V+Neg+DPast:%> # ;
++V+PHab:%> # ;
++V+Neg+PHab:%> # ;
++V+SFut:%> # ;
++V+Neg+SFut:%> # ;
++V+NFut:%> # ; 
++V+Neg+NFut:%> # ;
++V+IFut:%> # ;
++V+Neg+IFut:%> # ;
++V+3pl+Basic:%> # ;
++V+3pl+Prs:%> # ;
++V+3pl+Neg+Prs:%> # ;
++V+3pl+Hab+Prs:%> # ;
++V+3pl+Hab+Neg+Prs:%> # ;
++V+3pl+DPast:%> # ;
++V+3pl+Neg+DPast:%> # ;
++V+3pl+PHab:%> # ;
++V+3pl+Neg+PHab:%> # ;
++V+3pl+SFut:%> # ;
++V+3pl+Neg+SFut:%> # ;
++V+3pl+NFut:%> # ; 
++V+3pl+Neg+NFut:%> # ;
++V+3pl+IFut:%> # ;
++V+3pl+Neg+IFut:%> # ;
++V+YesNo+Basic:%> # ;
++V+YesNo+Prs:%> # ;
++V+YesNo+Neg+Prs:%> # ;
++V+YesNo+Hab+Prs:%> # ;
++V+YesNo+Hab+Neg+Prs:%> # ;
++V+YesNo+DPast:%> # ;
++V+YesNo+Neg+DPast:%> # ;
++V+YesNo+PHab:%> # ;
++V+YesNo+Neg+PHab:%> # ;
++V+YesNo+SFut:%> # ;
++V+YesNo+Neg+SFut:%> # ;
++V+YesNo+NFut:%> # ; 
++V+YesNo+Neg+NFut:%> # ;
++V+YesNo+IFut:%> # ;
++V+YesNo+Neg+IFut:%> # ;
++V+YesNo+3pl+Basic:%> # ;
++V+YesNo+3pl+Prs:%> # ;
++V+YesNo+3pl+Neg+Prs:%> # ;
++V+YesNo+3pl+Hab+Prs:%> # ;
++V+YesNo+3pl+Hab+Neg+Prs:%> # ;
++V+YesNo+3pl+DPast:%> # ;
++V+YesNo+3pl+Neg+DPast:%> # ;
++V+YesNo+3pl+PHab:%> # ;
++V+YesNo+3pl+Neg+PHab:%> # ;
++V+YesNo+3pl+SFut:%> # ;
++V+YesNo+3pl+Neg+SFut:%> # ;
++V+YesNo+3pl+NFut:%> # ; 
++V+YesNo+3pl+Neg+NFut:%> # ;
++V+YesNo+3pl+IFut:%> # ;
++V+YesNo+3pl+Neg+IFut:%> # ;
++V+Qst+DPast:%> # ;
++V+Qst+Neg+DPast:%> # ;
++V+Qst+3pl+DPast:%> # ;
++V+Qst+3pl+Neg+DPast:%> # ;
++V+Qst+PHab:%> # ;
++V+Qst+Neg+PHab:%> # ;
++V+Qst+3pl+PHab:%> # ;
++V+Qst+3pl+Neg+PHab:%> # ;
++V+Command:%> # ;
++V+Command+Neg:%> # ;
++V+PluralCommand:%> # ;
++V+PluralCommand+Neg:%> # ;
++V+InclusiveCommand:%> # ;
++V+InclusiveCommand+Neg:%> # ;
+
+
+
+=======
 Multichar_Symbols
 +V +Basic +Prs +Neg +Hab +DPast +PHab +SFut +IFut +NFut +3pl +YesNo +Cmd +Qst +PlCmd +IncCmd %> ;
 
@@ -156,6 +313,7 @@ LEXICON VB-aal
 +V+PluralCommand+Neg:%> # ;
 +V+InclusiveCommand:%> # ;
 +V+InclusiveCommand+Neg:%> # ;
+
 
 
 
