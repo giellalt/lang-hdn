@@ -4,6 +4,39 @@
 
 
 LEXICON VB-aa
++V:      Neg-1 ;
++V:      Hab-1 ;
++V:      3Pl-1 ;
++V:      Finals-1 ;
++V:      # ;
+
+LEXICON Neg-1
++Neg:%>qang # ;
++Neg:%>qang Hab-1 ;
++Neg:%>qang 3Pl-1 ;
++Neg:%>qang Finals-1 ;
+
+LEXICON Hab-1
++Hab:%>gang # ;
++Hab:%>gang 3Pl-1 ;
++Hab:%>gang Finals-1 ;
+
+LEXICON 3Pl-1
++3Pl:%>qwaa # ;
++3Pl:%>qwä Finals-1 ;
+
+LEXICON Finals-1
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++IPast:%>gaan # ;
+
+LEXICON OldJunk
 +V+Basic: # ;
 +V+Prs:%>gang # ;
 +V+Neg+Prs:%>qanggang # ;
