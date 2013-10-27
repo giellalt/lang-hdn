@@ -6,28 +6,38 @@ LEXICON v2
 VB-aa ;   ! Jordan! This is ad hoc... t.
 
 LEXICON VB-aa
-+V:      Neg-1 ;
-+V:      Hab-1 ;
-+V:      3Pl-1 ;
-+V:      Finals-1 ;
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-A ;
 +V:      # ;
 
-LEXICON Neg-1
+LEXICON Neg
 +Neg:%>qang # ;
-+Neg:%>qang Hab-1 ;
-+Neg:%>qang 3Pl-1 ;
-+Neg:%>qang Finals-1 ;
++Neg:%>qang Hab-gang ;
++Neg:%>qang 3Pl ;
++Neg:%>qang Finals-A ;
 
-LEXICON Hab-1
+LEXICON Hab-gang
 +Hab:%>gang # ;
-+Hab:%>gang 3Pl-1 ;
-+Hab:%>gang Finals-1 ;
++Hab:%>gang 3Pl ;
++Hab:%>gang Finals-A ;
 
-LEXICON 3Pl-1
+LEXICON Hab-hyphen-gang
++Hab:%>zgang # ;
++Hab:%>zgang 3Pl ;
++Hab:%>zgang Finals-A ;
+
+LEXICON Hab-ang
++Hab:%>gang # ;
++Hab:%>gang 3Pl ;
++Hab:%>gang Finals-A ;
+
+LEXICON 3Pl
 +3Pl:%>qwaa # ;
-+3Pl:%>qwä Finals-1 ;
++3Pl:%>qwä Finals-A ;
 
-LEXICON Finals-1
+LEXICON Finals-A
 +Prs:%>gang # ;
 +DPast:%>gan # ;
 +PHab:%>giinii # ;
@@ -36,7 +46,85 @@ LEXICON Finals-1
 +IFut:%>qang% khasaasdláang # ;
 +PlCmd:%>quu # ;
 +IncCmd:%>tsqan # ;
++Evid:%>gaa # ;
 +IPast:%>gaan # ;
+
+LEXICON Finals-B
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-C
++Prs:%>zgang # ;
++DPast:%>zgan # ;
++PHab:%>zgiinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-D
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>gaa # ;
++IPast:%>gaan # ;
+
+LEXICON Finals-E
++Prs:%>ang # ;
++DPast:%>an # ;
++PHab:%>iinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-F
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-G
++Prs:%>ng # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>yaa # ;
++IPast:%>yaan # ;
+
+
+
+
+
 
 LEXICON OldJunk
 +V+Basic: # ;
