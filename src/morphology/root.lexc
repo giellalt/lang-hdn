@@ -27,7 +27,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 !! Haida has these tags for real, says Jordan.
-+V +Basic +Prs +Hab +Neg +DPast +PHab +SFut +IFut +NFut +3Pl +YesNo +Cmd +Qst +PlCmd +IncCmd
++V +Basic +Prs +Hab +Neg +DPast +PHab +SFut +IFut +NFut +3Pl +YesNo +Cmd +Qst +PlCmd +IncCmd +Evid
 
 !! The parts-of-speech are:
  +N +A +Adv +V                                 !!≈

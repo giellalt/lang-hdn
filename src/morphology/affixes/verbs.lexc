@@ -2,8 +2,6 @@
 !  ---------------
 !! Haida verb morphology
 
-LEXICON v2
-VB-aa ;   ! Jordan! This is ad hoc... t.
 
 LEXICON VB-aa
 +V:      Neg ;
@@ -11,6 +9,179 @@ LEXICON VB-aa
 +V:      3Pl ;
 +V:      Finals-A ;
 +V:      # ;
+
+LEXICON VB-aal
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-aan
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V:      # ;
+
+LEXICON VB-aang
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-ah
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-D ;
++V:      # ;
+
+LEXICON VB-i
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-A ;
++V:      # ;
+
+LEXICON VB-iid
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V:      # ;
+
+LEXICON VB-aahl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-ad
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V:      # ;
+
+LEXICON VB-an
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V:      # ;
+
+LEXICON VB-ang
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-eehl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-ii
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-A ;
++V:      # ;
+
+LEXICON VB-in
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V:      # ;
+
+LEXICON VB-ing
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-ud
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V:      # ;
+
+LEXICON VB-ung
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-uu
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-F ;
++V:      # ;
+
+LEXICON VB-ä
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-G ;
++V:      # ;
+
+LEXICON VB-aqä
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-G ;
++V:      # ;
+
+LEXICON VB-ahl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-as
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V:      # ;
+
+LEXICON VB-iihl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+LEXICON VB-is
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V:      # ;
+
+LEXICON VB-uuhl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V:      # ;
+
+
+
+
+
 
 LEXICON Neg
 +Neg:%>qang # ;
