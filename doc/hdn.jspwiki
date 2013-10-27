@@ -10,68 +10,37 @@
 
 This is free and open source Northern Haida morphology.
 
-           !!!Northern Haida morphological analyser                      !
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Northern Haida LANGUAGE.
-
+           !!!Northern Haida morphological analyser                      
 
  !!!Multichar_Symbols definitions
 
 !!Analysis symbols
 ----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
+The morphological analyses of wordforms of Northern Haida are presented
 in this system in terms of following symbols.
+
 (It is highly suggested to follow existing standards when adding new tags).
 
 
 Haida has these tags for real, says Jordan.
 
-
 The parts-of-speech are:
 
 The parts of speech are further split up into:
 
-The Usage extents are marked using following tags:
+The Usage extents are marked using the following tags:
 
-The nominals are inflected in the following Case and Number
+The nominals are inflected in the following Number
 
-The possession is marked as such:
-The comparative forms are:
-Numerals are classified under:
-Verb moods are:
-Verb personal forms are:
-Other verb forms are
 
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
 Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 
-Question and Focus particles:
 
 
-Semantics are classified with
-
-
-Derivations are classified under the morphophonetic form of the suffix, the
-source and target part-of-speech.
-
-
-
-
-
-
-
-Morphophonology
----------------
-To represent phonologic variations in word forms we use the following
-symbols in the lexicon files:
-
-
-
-
-We have manually optimised the structure of our lexicon using following
-flag diacritics to restrict morhpological combinatorics:
-
-The word forms in UNDEFINED language start from the lexeme roots of basic
+The word forms in Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
 
