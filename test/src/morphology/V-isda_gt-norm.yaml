@@ -10,16 +10,16 @@ Config:
 Tests:
   
   Verb - isdä - do ok : # 
-     isda+V+Inf: isda
-     isda+V+Hab+Neg+Prs: isdagangqanggan
-     isda+V+Hab+Neg+Prt: isdagangqangang
-     isda+V+Hab+Neg+Fut: isdagangqangsaang
-     isda+V+Neg+Prs: isdaqanggan
-     isda+V+Neg+Prt: isdaqangang
-     isda+V+Neg+Fut: isdaqangsaang
-     isda+V+Hab+Prs: isdaganggan
-     isda+V+Hab+Prt: isdagangang
-     isda+V+Hab+Fut: isdagangsaang
-     isda+V+Hab+Neg+Prs: isdagangqanggan
-     isda+V+Hab+Neg+Prt: isdagangqangang
-     isda+V+Hab+Neg+Fut: isdagangqangsaang
+     isdä+V+Inf: isdä
+     isdä+V+Hab+Neg+Prs: isdägangqanggan
+     isdä+V+Hab+Neg+Prt: isdägangqangang
+     isdä+V+Hab+Neg+Fut: isdägangqangsaang
+     isdä+V+Neg+Prs: isdäqanggan
+     isdä+V+Neg+Prt: isdäqangang
+     isdä+V+Neg+Fut: isdäqangsaang
+     isdä+V+Hab+Prs: isdäganggan
+     isdä+V+Hab+Prt: isdägangang
+     isdä+V+Hab+Fut: isdägangsaang
+     isdä+V+Hab+Neg+Prs: isdägangqanggan
+     isdä+V+Hab+Neg+Prt: isdägangqangang
+     isdä+V+Hab+Neg+Fut: isdägangqangsaang
