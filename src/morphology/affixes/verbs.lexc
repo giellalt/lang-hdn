@@ -3,184 +3,205 @@
 !! Haida verb morphology
 
 
+! Finals-A
+
 LEXICON VB-aa
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-A ;
-+V:      # ;
-
-LEXICON VB-aal
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-aan
-+V:      Neg ;
-+V:      Hab-zgang ;
-+V:      3Pl ;
-+V:      Finals-C ;
-+V:      # ;
-
-LEXICON VB-aang
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-ah
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-D ;
-+V:      # ;
++V+Inf:      # ;
 
 LEXICON VB-i
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-A ;
-+V:      # ;
-
-LEXICON VB-iid
-+V:      Neg ;
-+V:      Hab-ang ;
-+V:      3Pl ;
-+V:      Finals-E ;
-+V:      # ;
-
-LEXICON VB-aahl
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-ad
-+V:      Neg ;
-+V:      Hab-ang ;
-+V:      3Pl ;
-+V:      Finals-E ;
-+V:      # ;
-
-LEXICON VB-an
-+V:      Neg ;
-+V:      Hab-zgang ;
-+V:      3Pl ;
-+V:      Finals-C ;
-+V:      # ;
-
-LEXICON VB-ang
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-eehl
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-B ;
-+V:      # ;
++V+Inf:      # ;
 
 LEXICON VB-ii
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-A ;
-+V:      # ;
++V+Inf:      # ;
 
-LEXICON VB-in
-+V:      Neg ;
-+V:      Hab-zgang ;
-+V:      3Pl ;
-+V:      Finals-C ;
-+V:      # ;
+
+! Finals-B
 
 LEXICON VB-ing
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-B ;
-+V:      # ;
++V+Inf:      # ;
 
-LEXICON VB-ud
+LEXICON VB-aal
 +V:      Neg ;
-+V:      Hab-ang ;
++V:      Hab-gang ;
 +V:      3Pl ;
-+V:      Finals-E ;
-+V:      # ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-aang 
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-aahl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-ang
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-eehl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
 
 LEXICON VB-ung
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-uu
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-F ;
-+V:      # ;
-
-LEXICON VB-ä
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-G ;
-+V:      # ;
-
-LEXICON VB-aqä
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-G ;
-+V:      # ;
++V+Inf:      # ;
 
 LEXICON VB-ahl
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-as
-+V:      Neg ;
-+V:      Hab-ang ;
-+V:      3Pl ;
-+V:      Finals-E ;
-+V:      # ;
++V+Inf:      # ;
 
 LEXICON VB-iihl
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-B ;
-+V:      # ;
-
-LEXICON VB-is
-+V:      Neg ;
-+V:      Hab-ang ;
-+V:      3Pl ;
-+V:      Finals-E ;
-+V:      # ;
++V+Inf:      # ;
 
 LEXICON VB-uuhl
 +V:      Neg ;
 +V:      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-B ;
-+V:      # ;
++V+Inf:      # ;
 
 
 
+! Finals-C
 
+LEXICON VB-aan
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V+Inf:      # ;
+
+LEXICON VB-an
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V+Inf:      # ;
+
+LEXICON VB-in
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V+Inf:      # ;
+
+
+! Finals-D
+
+LEXICON VB-ah
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-D ;
++V+Inf:      # ;
+
+
+! Finals-E
+
+LEXICON VB-iid
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-ad
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-ud
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-as
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-is
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+
+! Finals-F
+
+LEXICON VB-uu
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-F ;
++V+Inf:      # ;
+
+
+! Finals-G
+
+LEXICON VB-ä
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-G ;
++V+Inf:      # ;
+
+LEXICON VB-aqä
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-G ;
++V+Inf:      # ;
+
+
+! Intermediates
 
 
 LEXICON Neg
@@ -207,6 +228,9 @@ LEXICON Hab-ang
 LEXICON 3Pl
 +3Pl:%>qwaa # ;
 +3Pl:%>qwä Finals-G ;
+
+
+! Finals
 
 LEXICON Finals-A
 +Prs:%>gang # ;
@@ -373,160 +397,9 @@ LEXICON OldJunk
 +V+IncCmd:%>tsqan # ;
 +V+IncCmd+Neg:%>qang% tsqan # ;
 
-LEXICON VB-aal
-+V+Basic: # ;
-+V+Prs: # ;
-+V+Neg+Prs: # ;
-+V+Hab+Prs: # ;
-+V+Hab+Neg+Prs: # ;
-+V+DPast: # ;
-+V+Neg+DPast: # ;
-+V+PHab: # ;
-+V+Neg+PHab: # ;
-+V+SFut: # ;
-+V+Neg+SFut: # ;
-+V+NFut: # ;
-+V+Neg+NFut: # ;
-+V+IFut: # ;
-+V+Neg+IFut: # ;
-+V+3Pl+Basic: # ;
-+V+3Pl+Prs: # ;
-+V+3Pl+Neg+Prs: # ;
-+V+3Pl+Hab+Prs: # ;
-+V+3Pl+Hab+Neg+Prs: # ;
-+V+3Pl+DPast: # ;
-+V+3Pl+Neg+DPast: # ;
-+V+3Pl+PHab: # ;
-+V+3Pl+Neg+PHab: # ;
-+V+3Pl+SFut: # ;
-+V+3Pl+Neg+SFut: # ;
-+V+3Pl+NFut: # ;
-+V+3Pl+Neg+NFut: # ;
-+V+3Pl+IFut: # ;
-+V+3Pl+Neg+IFut: # ;
-+V+YesNo+Basic: # ;
-+V+YesNo+Prs: # ;
-+V+YesNo+Neg+Prs: # ;
-+V+YesNo+Hab+Prs: # ;
-+V+YesNo+Hab+Neg+Prs: # ;
-+V+YesNo+DPast: # ;
-+V+YesNo+Neg+DPast: # ;
-+V+YesNo+PHab: # ;
-+V+YesNo+Neg+PHab: # ;
-+V+YesNo+SFut: # ;
-+V+YesNo+Neg+SFut: # ;
-+V+YesNo+NFut: # ;
-+V+YesNo+Neg+NFut: # ;
-+V+YesNo+IFut: # ;
-+V+YesNo+Neg+IFut: # ;
-+V+YesNo+3Pl+Basic: # ;
-+V+YesNo+3Pl+Prs: # ;
-+V+YesNo+3Pl+Neg+Prs: # ;
-+V+YesNo+3Pl+Hab+Prs: # ;
-+V+YesNo+3Pl+Hab+Neg+Prs: # ;
-+V+YesNo+3Pl+DPast: # ;
-+V+YesNo+3Pl+Neg+DPast: # ;
-+V+YesNo+3Pl+PHab: # ;
-+V+YesNo+3Pl+Neg+PHab: # ;
-+V+YesNo+3Pl+SFut: # ;
-+V+YesNo+3Pl+Neg+SFut: # ;
-+V+YesNo+3Pl+NFut: # ;
-+V+YesNo+3Pl+Neg+NFut: # ;
-+V+YesNo+3Pl+IFut: # ;
-+V+YesNo+3Pl+Neg+IFut: # ;
-+V+Qst+DPast: # ;
-+V+Qst+Neg+DPast: # ;
-+V+Qst+3Pl+DPast: # ;
-+V+Qst+3Pl+Neg+DPast: # ;
-+V+Qst+PHab: # ;
-+V+Qst+Neg+PHab: # ;
-+V+Qst+3Pl+PHab: # ;
-+V+Qst+3Pl+Neg+PHab: # ;
-+V+Command: # ;
-+V+Command+Neg: # ;
-+V+PluralCommand: # ;
-+V+PluralCommand+Neg: # ;
-+V+InclusiveCommand: # ;
-+V+InclusiveCommand+Neg: # ;
 
 
-
-
-LEXICON VB-aa
-VB-aa ;
-
-LEXICON VB-aahl
-VB-aa ;
-
-LEXICON VB-aal
-VB-aa ;
-
-LEXICON VB-aan
-VB-aa ;
-
-LEXICON VB-aang
-VB-aa ;
-
-LEXICON VB-ad
-VB-aa ;
-
-LEXICON VB-ah
-VB-aa ;
-
-LEXICON VB-ahl
-VB-aa ;
-
-LEXICON VB-an
-VB-aa ;
-
-LEXICON VB-ang
-VB-aa ;
-
-LEXICON VB-aqä
-VB-aa ;
-
-LEXICON VB-as
-VB-aa ;
-
-LEXICON VB-eehl
-VB-aa ;
-
-LEXICON VB-i
-VB-aa ;
-
-LEXICON VB-ii
-VB-aa ;
-
-LEXICON VB-iid
-VB-aa ;
-
-LEXICON VB-iihl
-VB-aa ;
-
-LEXICON VB-ing
-VB-aa ;
-
-LEXICON VB-is
-VB-aa ;
-
-LEXICON VB-ud
-VB-aa ;
-
-LEXICON VB-ung
-VB-aa ;
-
-LEXICON VB-uu
-VB-aa ;
-
-LEXICON VB-uuhl
-VB-aa ;
-
-LEXICON VB-ä
-VB-aa ;
-
-LEXICON VN-in
-VB-aa ;
-
+! Even older junk
 
 LEXICON ASP
 +Hab:%>gang NEG ;
@@ -542,3 +415,159 @@ LEXICON TNS
 +Prt:%>ang # ;
 +Fut:%>saang # ;
 
+
+
+! LEXICON VB-aal
+! +V+Basic: # ;
+! +V+Prs: # ;
+! +V+Neg+Prs: # ;
+! +V+Hab+Prs: # ;
+! +V+Hab+Neg+Prs: # ;
+! +V+DPast: # ;
+! +V+Neg+DPast: # ;
+! +V+PHab: # ;
+! +V+Neg+PHab: # ;
+! +V+SFut: # ;
+! +V+Neg+SFut: # ;
+! +V+NFut: # ;
+! +V+Neg+NFut: # ;
+! +V+IFut: # ;
+! +V+Neg+IFut: # ;
+! +V+3Pl+Basic: # ;
+! +V+3Pl+Prs: # ;
+! +V+3Pl+Neg+Prs: # ;
+! +V+3Pl+Hab+Prs: # ;
+! +V+3Pl+Hab+Neg+Prs: # ;
+! +V+3Pl+DPast: # ;
+! +V+3Pl+Neg+DPast: # ;
+! +V+3Pl+PHab: # ;
+! +V+3Pl+Neg+PHab: # ;
+! +V+3Pl+SFut: # ;
+! +V+3Pl+Neg+SFut: # ;
+! +V+3Pl+NFut: # ;
+! +V+3Pl+Neg+NFut: # ;
+! +V+3Pl+IFut: # ;
+! +V+3Pl+Neg+IFut: # ;
+! +V+YesNo+Basic: # ;
+! +V+YesNo+Prs: # ;
+! +V+YesNo+Neg+Prs: # ;
+! +V+YesNo+Hab+Prs: # ;
+! +V+YesNo+Hab+Neg+Prs: # ;
+! +V+YesNo+DPast: # ;
+! +V+YesNo+Neg+DPast: # ;
+! +V+YesNo+PHab: # ;
+! +V+YesNo+Neg+PHab: # ;
+! +V+YesNo+SFut: # ;
+! +V+YesNo+Neg+SFut: # ;
+! +V+YesNo+NFut: # ;
+! +V+YesNo+Neg+NFut: # ;
+! +V+YesNo+IFut: # ;
+! +V+YesNo+Neg+IFut: # ;
+! +V+YesNo+3Pl+Basic: # ;
+! +V+YesNo+3Pl+Prs: # ;
+! +V+YesNo+3Pl+Neg+Prs: # ;
+! +V+YesNo+3Pl+Hab+Prs: # ;
+! +V+YesNo+3Pl+Hab+Neg+Prs: # ;
+! +V+YesNo+3Pl+DPast: # ;
+! +V+YesNo+3Pl+Neg+DPast: # ;
+! +V+YesNo+3Pl+PHab: # ;
+! +V+YesNo+3Pl+Neg+PHab: # ;
+! +V+YesNo+3Pl+SFut: # ;
+! +V+YesNo+3Pl+Neg+SFut: # ;
+! +V+YesNo+3Pl+NFut: # ;
+! +V+YesNo+3Pl+Neg+NFut: # ;
+! +V+YesNo+3Pl+IFut: # ;
+! +V+YesNo+3Pl+Neg+IFut: # ;
+! +V+Qst+DPast: # ;
+! +V+Qst+Neg+DPast: # ;
+! +V+Qst+3Pl+DPast: # ;
+! +V+Qst+3Pl+Neg+DPast: # ;
+! +V+Qst+PHab: # ;
+! +V+Qst+Neg+PHab: # ;
+! +V+Qst+3Pl+PHab: # ;
+! +V+Qst+3Pl+Neg+PHab: # ;
+! +V+Command: # ;
+! +V+Command+Neg: # ;
+! +V+PluralCommand: # ;
+! +V+PluralCommand+Neg: # ;
+! +V+InclusiveCommand: # ;
+! +V+InclusiveCommand+Neg: # ;
+
+
+
+! 
+! LEXICON VB-aa
+! VB-aa ;
+! 
+! LEXICON VB-aahl
+! VB-aa ;
+! 
+! LEXICON VB-aal
+! VB-aa ;
+! 
+! LEXICON VB-aan
+! VB-aa ;
+! 
+! LEXICON VB-aang
+! VB-aa ;
+! 
+! LEXICON VB-ad
+! VB-aa ;
+! 
+! LEXICON VB-ah
+! VB-aa ;
+! 
+! LEXICON VB-ahl
+! VB-aa ;
+! 
+! LEXICON VB-an
+! VB-aa ;
+! 
+! LEXICON VB-ang
+! VB-aa ;
+! 
+! LEXICON VB-aqä
+! VB-aa ;
+! 
+! LEXICON VB-as
+! VB-aa ;
+! 
+! LEXICON VB-eehl
+! VB-aa ;
+! 
+! LEXICON VB-i
+! VB-aa ;
+! 
+! LEXICON VB-ii
+! VB-aa ;
+! 
+! LEXICON VB-iid
+! VB-aa ;
+! 
+! LEXICON VB-iihl
+! VB-aa ;
+! 
+! LEXICON VB-ing
+! VB-aa ;
+! 
+! LEXICON VB-is
+! VB-aa ;
+! 
+! LEXICON VB-ud
+! VB-aa ;
+! 
+! LEXICON VB-ung
+! VB-aa ;
+! 
+! LEXICON VB-uu
+! VB-aa ;
+! 
+! LEXICON VB-uuhl
+! VB-aa ;
+! 
+! LEXICON VB-ä
+! VB-aa ;
+! 
+! LEXICON VN-in
+! VB-aa ;
+! 
