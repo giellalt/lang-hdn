@@ -1,0 +1,25 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+  
+  Verb - táa - ok : # 
+     táa+V+Inf: táa
+     táa+V+Neg: táaqang
+     táa+V+Neg+Hab: táaqangqang
+     táa+V+Neg+3Pl+Prs: táaqangqangqwaa
+     táa+V+Neg+3Pl+Dpast: táaqangqangqwaa
+     táa+V+Neg+3Pl+PHab: táaqangqangqwaa
+     táa+V+Neg+3Pl+SFut: táaqangqangqwaa
+     táa+V+Neg+3Pl+NFut: táaqangqangqwaa
+     táa+V+Neg+3Pl+IFut: táaqangqangqwaa
+     táa+V+Neg+3Pl+PlCmd: táaqangqangqwaa
+     táa+V+Neg+3Pl+IncCmd: táaqangqangqwaa
+     táa+V+Neg+3Pl+Evid: táaqangqangqwaa
+     táa+V+Neg+3Pl+IPast: táaqangqangqwaa
