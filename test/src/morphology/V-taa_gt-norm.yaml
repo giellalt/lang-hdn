@@ -18,8 +18,6 @@ Tests:
      táa+V+DPast: táagan
      táa+V+PHab: táagiinii
      táa+V+SFut: táasaang
-     táa+V+NFut: táaqang khasaqáang
-     táa+V+IFut: táaqang khasaasdláang
      táa+V+PlCmd: táaquu
      táa+V+IncCmd: táatsqan
      táa+V+Evid: táagaa
@@ -29,8 +27,6 @@ Tests:
      táa+V+Neg+DPast: táaqangan
      táa+V+Neg+PHab: táaqanggiinii
      táa+V+Neg+SFut: táaqangsaang
-     táa+V+Neg+NFut: táaqang khasaaqánggang
-     táa+V+Neg+IFut: táaqang khasaasdläqánggang
      táa+V+Neg+PlCmd: táaqangquu
      táa+V+Neg+IncCmd: táaqangtsqan
      táa+V+Neg+Evid: táaqaangaa
@@ -38,15 +34,11 @@ Tests:
 
      táa+V+Hab+Prs: táaganggang
      táa+V+Hab+SFut: táagangsaang
-     táa+V+Hab+NFut: táagangang khasaqáang
-     táa+V+Hab+IFut: táagangang khasaasdláang
      táa+V+Hab+Evid: táagaangaa
      táa+V+Hab+IPast: táagaangaan
 
      táa+V+Hab+Neg+Prs: táagangqanggang
      táa+V+Hab+Neg+SFut: táagangqangsaang
-     táa+V+Hab+Neg+NFut: táagangang khasaaqánggang
-     táa+V+Hab+Neg+IFut: táagangang khasaasdläqánggang
      táa+V+Hab+Neg+Evid: táaqanggaangaa
      táa+V+Hab+Neg+IPast: táaqanggaangaan
 
@@ -54,8 +46,6 @@ Tests:
      táa+V+3Pl+DPast: táaqwägan
      táa+V+3Pl+PHab: táaqwägiinii
      táa+V+3Pl+SFut: táaqwaasaang
-     táa+V+3Pl+NFut: táaqwaaqang khasaqáang
-     táa+V+3Pl+IFut: táaqwaaqang khasaasdláang
      táa+V+3Pl+Evid: táaqaawaa
      táa+V+3Pl+IPast: táaqaawaan
 
@@ -64,23 +54,41 @@ Tests:
      táa+V+Neg+3Pl+DPast: táaqangqwägan
      táa+V+Neg+3Pl+PHab: táaqangqwägiinii
      táa+V+Neg+3Pl+SFut: táaqangqwaasaang
-     táa+V+Neg+3Pl+NFut: táaqwaaqang khasaaqánggang
-     táa+V+Neg+3Pl+IFut: táaqwaaqang khasaasdläqánggang
      táa+V+Neg+3Pl+Evid: táaqangqaawaa
      táa+V+Neg+3Pl+IPast: táaqangqaawaan
 
      táa+V+Hab+3Pl: táagangqwaa
      táa+V+Hab+3Pl+Prs: táagangqwaang
      táa+V+Hab+3Pl+SFut: táagangqwaasaang
-     táa+V+Hab+3Pl+NFut: táagangqwaaqang khasaqáang
-     táa+V+Hab+3Pl+IFut: táagangqwaaqang khasaasdláang
      táa+V+Hab+3Pl+Evid: táaqwägaangaa
      táa+V+Hab+3Pl+IPast: táaqwägaangaan
 
      táa+V+Hab+Neg+3Pl: táagangqangqwaa
      táa+V+Hab+Neg+3Pl+Prs: táagangqangqwaang
      táa+V+Hab+Neg+3Pl+SFut: táagangqangqwaasaang
-     táa+V+Hab+Neg+3Pl+NFut: táagangqwaaqang khasaaqánggang
-     táa+V+Hab+Neg+3Pl+IFut: táagangqwaaqang khasaasdläqánggang
      táa+V+Hab+Neg+3Pl+Evid: táaqangqwägaangaa
      táa+V+Hab+Neg+3Pl+IPast: táawangqwägaangaan
+     
+     táa+V+NFut: táaqang khasaqáang
+     táa+V+IFut: táaqang khasaasdláang
+     
+     táa+V+Neg+NFut: táaqang khasaaqánggang
+     táa+V+Neg+IFut: táaqang khasaasdläqánggang
+
+     táa+V+Hab+NFut: táagangang khasaqáang
+     táa+V+Hab+IFut: táagangang khasaasdláang
+
+     táa+V+Hab+Neg+NFut: táagangang khasaaqánggang
+     táa+V+Hab+Neg+IFut: táagangang khasaasdläqánggang
+
+     táa+V+3Pl+NFut: táaqwaaqang khasaqáang
+     táa+V+3Pl+IFut: táaqwaaqang khasaasdláang
+
+     táa+V+Neg+3Pl+NFut: táaqwaaqang khasaaqánggang
+     táa+V+Neg+3Pl+IFut: táaqwaaqang khasaasdläqánggang
+
+     táa+V+Hab+3Pl+NFut: táagangqwaaqang khasaqáang
+     táa+V+Hab+3Pl+IFut: táagangqwaaqang khasaasdláang
+
+     táa+V+Hab+Neg+3Pl+NFut: táagangqwaaqang khasaaqánggang
+     táa+V+Hab+Neg+3Pl+IFut: táagangqwaaqang khasaasdläqánggang
