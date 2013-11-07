@@ -36,4 +36,7 @@ Rules
  a:0 <=> w: a: _ l %>: a ;
 
 
+!"g deletion on the suffix border"
+!g:0 <=> _ %>: g ;
+
 !sdlaagwaal:sdlaagulaay

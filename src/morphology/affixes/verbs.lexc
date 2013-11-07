@@ -206,14 +206,24 @@ LEXICON VB-aqä
 
 LEXICON Neg
 +Neg:%>qang # ;
-+Neg:%>qang Hab-gang ;
+!+Neg:%>qang Hab-gang ; ! +Neg+Hab?
 +Neg:%>qang 3Pl ;
 +Neg:%>qang Finals-A ;
 
++Neg+DPast:%>qangan # ; ! trond typo ?
++Neg+Evid:%>qaangaa # ; ! trond
++Neg+IPast:%>qaangaan # ; ! trond
+ 
 LEXICON Hab-gang
 +Hab:%>gang # ;
 +Hab:%>gang 3Pl ;
 +Hab:%>gang Finals-A ;
++Hab+Evid:%>gaangaa # ;
++Hab+IPast:%>gaangaan # ;
++Hab+Neg+Prs:%>gangqanggang # ;
++Hab+Neg+SFut:%>gangqangsaang # ;
++Hab+Neg+Evid:%>qanggaangaa # ;
++Hab+Neg+IPast:%>qanggaangaan # ;
 
 LEXICON Hab-hyphen-gang
 +Hab:%>zgang # ;
@@ -224,17 +234,23 @@ LEXICON Hab-ang
 +Hab:%>gang # ;
 +Hab:%>gang 3Pl ;
 +Hab:%>gang Finals-A ;
++Hab+3Pl+Evid:%>qwägaangaa # ;
 
 LEXICON 3Pl
 +3Pl:%>qwaa # ;
-+3Pl:%>qwä Finals-G ;
++3Pl:%>qwä Finals-G ; ! ??
++3Pl+Evid:%>qaawaa # ;
++3Pl+Prs:%>qwaang # ;
++3Pl+SFut:%>qwaasaang # ;
++3Pl+IPast:%>qaawaan # ;
 
 
 ! Finals
 
 LEXICON Finals-A
 +Prs:%>gang # ;
-+DPast:%>gan # ;
++DPast:%>gan # ; ! typo ?
+!+DPast:%>an # ;   ! typo ?
 +PHab:%>giinii # ;
 +SFut:%>saang # ;
 +NFut:%>qang% khasaqáang # ;
