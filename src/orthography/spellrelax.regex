@@ -13,6 +13,9 @@
 q (->) ' , # apostroph
 q (->) ’ , # right single quot
 q (->) ʼ , # letter apostroph
+k h (->) k , # no line below, or fontstyle underline
+g h (->) g , # no line below, or fontstyle underline
+x h (->) x , # no line below, or fontstyle underline
 k h (->) ḵ , # 0331 macron below
 g h (->) g̱ , # 0331 macron below
 x h (->) x̱ , # 0331 macron below
