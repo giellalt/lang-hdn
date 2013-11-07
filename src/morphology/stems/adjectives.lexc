@@ -3,6 +3,8 @@
 !! Adjectives in UNDEFINED language describe things.
 
 LEXICON Adjectives
-adjective    Comparisons   ;
+ghadáang Comparisons "white"  ;
+sgíidang Comparisons "red" ;
+hlgahls Comparisons "black" ;
+khuntlutl Comparisons "yellow" ;
 
-! vim: set ft=xfst-lexc:
