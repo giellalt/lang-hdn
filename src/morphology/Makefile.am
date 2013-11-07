@@ -26,10 +26,10 @@ GT_LEXC_SRCS=\
 			 stems/nouns.lexc \
 			 stems/prefixes.lexc \
 			 stems/postpositions.lexc \
-			 stems/verbs.lexc
+			 stems/verbs.lexc \
+			 stems/numerals.lexc \
+			 affixes/adjectives.lexc 
 #			 stems/pronouns.lexc \
-#			 stems/numerals.lexc \
-#			 affixes/adjectives.lexc \
 #			 affixes/propernouns.lexc \
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=
