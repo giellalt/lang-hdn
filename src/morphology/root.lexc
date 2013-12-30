@@ -13,8 +13,10 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ========================================================================== !
-! !!            !!!Northern Haida morphological analyser                      
+!                Northern Haida morphological analyser                      
 ! ========================================================================== !
+
+!! This file shows the Haida multichar symbols and initial lexica.
 
 Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
@@ -27,35 +29,84 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 !! Haida has these tags for real, says Jordan.
-+V +Basic +Prs +Hab +Neg +DPast +PHab +SFut +IFut +NFut +3Pl +YesNo +Cmd +Qst +PlCmd +IncCmd +Evid
++V	    !!= * @CODE@ = 
++Basic  !!= * @CODE@ = 
++Prs    !!= * @CODE@ = 
++Hab    !!= * @CODE@ = 
++Neg    !!= * @CODE@ = 
++DPast  !!= * @CODE@ = 
++PHab   !!= * @CODE@ = 
++SFut   !!= * @CODE@ = 
++IFut   !!= * @CODE@ = 
++NFut   !!= * @CODE@ = 
++3Pl    !!= * @CODE@ = 
++YesNo  !!= * @CODE@ = 
++Cmd    !!= * @CODE@ = 
++Qst    !!= * @CODE@ = 
++PlCmd  !!= * @CODE@ = 
++IncCmd !!= * @CODE@ = 
++Evid   !!= * @CODE@ = 
 
-!! The parts-of-speech are:
- +N +A +Adv +V                                 !!≈
- +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num !!≈
- +Def 
- +Indef
+!! The parts-of-speech could perhaps also be (remove irrelevant):
+
++N	    !!= * @CODE@ =
++A	    !!= * @CODE@ =
++Adv    !!= * @CODE@ =
++Pron   !!= * @CODE@ =
++CS	    !!= * @CODE@ =
++CC	    !!= * @CODE@ =
++Adp    !!= * @CODE@ =
++Po	    !!= * @CODE@ =
++Pr	    !!= * @CODE@ =
++Interj !!= * @CODE@ =
++Pcle   !!= * @CODE@ =
++Num    !!= * @CODE@ =
+
++Def  !!= * @CODE@ =
++Indef !!= * @CODE@ =
 
 !! The parts of speech are further split up into:
- +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+
++Prop   !!= * @CODE@ =
++Pers   !!= * @CODE@ =
++Dem    !!= * @CODE@ =
++Interr !!= * @CODE@ =
++Refl   !!= * @CODE@ =
++Recipr !!= * @CODE@ =
++Rel    !!= * @CODE@ =
++Indef  !!= * @CODE@ =
 
 !! The Usage extents are marked using the following tags:
- +Use/Sub   
- +Use/-Spell 
+ +Use/Sub     !!= * @CODE@ = Substandard forms
+ +Use/-Spell  !!= * @CODE@ = Not included in speller
 
 !! The nominals are inflected in the following Number
- +Sg +Pl
+
++Sg
++Pl
 
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+
++ABBR !!= * @CODE@ = Abbreviations
++ACR  !!= * @CODE@ = Acronyms
+
+ 
 !! Special symbols are classified with:
-+CLB +PUNCT +LEFT +RIGHT
++CLB   !!= * @CODE@ = Clause boundary symbols
++PUNCT !!= * @CODE@ = Other punctuation marks
++LEFT  !!= * @CODE@ = Left part of paired symbols
++RIGHT !!= * @CODE@ = Right part of paired symbols
+
 !! The verbs are syntactically split according to transitivity:
- +TV +IV
++TV !!= * @CODE@ 
++IV !!= * @CODE@ 
+
 !! Special multiword units are analysed with:
- +Multi
+ +Multi !!= * @CODE@ 
+
 !! Non-dictionary words can be recognised with:
- +Guess
+ +Guess !!= * @CODE@ 
 
 %>
 
@@ -66,7 +117,7 @@ LEXICON Root
    Nouns   ;
    Verbs   ;
    Adjectives  ;
-   Pronouns    ;
+!   Pronouns    ;
    Numerals    ;
    Prefixes    ;
    Postpositions ;

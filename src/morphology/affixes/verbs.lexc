@@ -225,6 +225,10 @@ LEXICON Hab-gang
 +Hab+Neg+Evid:%>qanggaangaa # ;
 +Hab+Neg+IPast:%>qanggaangaan # ;
 
+LEXICON Hab-zgang ! This must be checked ??!
+:z Hab-gang ;
+
+
 LEXICON Hab-hyphen-gang
 +Hab:%>zgang # ;
 +Hab:%>zgang 3Pl ;
@@ -584,6 +588,6 @@ LEXICON TNS
 ! LEXICON VB-ä
 ! VB-aa ;
 ! 
-! LEXICON VN-in
-! VB-aa ;
-! 
+LEXICON VN-in
+VB-aa ;
+ 
