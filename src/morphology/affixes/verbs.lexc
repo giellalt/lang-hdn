@@ -13,11 +13,7 @@ LEXICON VB-aa
 +V+Inf:      # ;
 
 LEXICON VB-i
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-A ;
-+V+Inf:      # ;
+VB-aa ; ! awaiting work
 
 LEXICON VB-ii
 +V:      Neg ;
