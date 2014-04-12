@@ -16,6 +16,7 @@ Sets
  Vow = a e i o u y æ ø å 
        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;
  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ;
+ Sgm = Vow Cns ;
  
 Rules
 
@@ -35,6 +36,18 @@ Rules
 "a deletion in gwaal 1"
  a:0 <=> w: a: _ l %>: a ;
 
+! Vowel harmony
+
+"Vowel harmony"
+ ä:a <=> _ %>: a ;
+ 
+! Destressing
+
+"Destressing rule"
+ Vx:Vy <=> [á|é|í|ó|ú] [Sgm:* | %>: ] %>: [Sgm:* | %>: ] _ ;
+ 	where Vx in ( á é í ó ú )
+ 	      Vy in ( a e i o u )
+ 	      matched ;
 
 !"g deletion on the suffix border"
 !g:0 <=> _ %>: g ;
