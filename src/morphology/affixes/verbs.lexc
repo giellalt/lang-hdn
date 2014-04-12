@@ -3,31 +3,111 @@
 !! Haida verb morphology
 
 
-! Finals-A
 
 LEXICON VB-aa
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-A ;
-+V+Inf:      # ;
++V+Inf: # ;
++V: aaHABLEX ;
++V: aaNegLEX ;
++V: aaEvidLEX ;
++V: aa3PLLEX ;
++V: aaFinalsLEX ;
++V+IFut:%>qang% khasaasdláang # ;
+
+LEXICON aaHABLEX
++Hab:%>gáng # ;
++Hab:%>gáng angNegLEX ;
++Hab:%>gáng angFinalsLEX ;
++Hab+Neg+NFut:%>gangang% khasaaqánggang # ;
++NFut:%>qang% khasaqáang # ;
++Hab:%>gáng ang3PLLEX ;
+          
+LEXICON aaEvidLEX 
++3Pl+Evid:%>qaawaa # ;
++Evid:%>gaa # ;
++Hab+3Pl+Evid:%>qwägaangaa # ;
++Hab+Evid:%>gaangaa # ;
++Hab+Neg+3Pl+Evid:%>qangqwägaangaa # ;
++Hab+Neg+Evid:%>qanggaangaa # ;
++Neg+3Pl+Evid:%>qangqaawaa # ;
++Neg+Evid:%>qaangaa # ;
+
++3Pl+IPast:%>qaawaan # ;
++Hab+3Pl+IPast:%>qwägaangaan # ;
++Hab+IPast:%>gaangaan # ;
++Hab+Neg+3Pl+IPast:%>qangqwägaangaan # ;
++Hab+Neg+IPast:%>qanggaangaan # ;
++IPast:%>gaan # ;
++Neg+3Pl+IPast:%>qangqaawaan # ;
++Neg+IPast:%>qaangaan # ;
+            
+LEXICON angNegLEX 
+aaNegLEX ; ! well, identical
+
+LEXICON aaNegLEX 
++Neg:%>qang # ;
++Neg:%>qang ang3PLLEX ;
++Neg:%>qang angFinalsLEX ;
++Neg+NFut:%>qang% khasaaqánggang # ;
++Neg+IFut:%>qang% khasaasdläqánggang # ;
+
+LEXICON ang3PLLEX 
+aa3PLLEX ; ! well, identical
+
+LEXICON aa3PLLEX 
++3Pl:%>qwaa # ;
++3Pl:%>qwä qwaFinalsLEX ;
++3Pl+SFut:%>qwaasaang # ;
+
+LEXICON qwaFinalsLEX
++Prs:%>ang # ;
++DPast:%>gan # ; 
++PHab:%>giinii # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
+
+LEXICON angFinalsLEX
++Prs:%>gang # ;
++DPast:%>gan # ; 
++PHab:%>giinii # ;
++SFut:%>saang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++IPast:%>aan # ;
+
+LEXICON aaFinalsLEX
++Prs:%>gang # ;
++DPast:%>gan # ; 
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++IPast:%>gaan # ;
+
+
+! Finals-A
+
+!LEXICON VB-aa
+!+V:      Neg ;
+!+V:      Hab-gang ;
+!+V:      3Pl ;
+!+V:      Finals-A ;
+!+V+Inf:      # ;
 
 LEXICON VB-i
 VB-aa ; ! awaiting work
 
 LEXICON VB-ii
-+V:      Neg ;
-+V:      Hab-gang ;
-+V:      3Pl ;
-+V:      Finals-A ;
-+V+Inf:      # ;
+VB-aa ; ! awaiting work
 
 
 ! Finals-B
 
 LEXICON VB-ing
 +V:      Neg ;
-+V:      Hab-gang ;
++V:%^A2Y      Hab-gang ;
 +V:      3Pl ;
 +V:      Finals-B ;
 +V+Inf:      # ;
@@ -211,6 +291,7 @@ LEXICON Neg
 +Neg+IPast:%>qaangaan # ; ! trond
  
 LEXICON Hab-gang
+3Pl ;
 +Hab:%>gang # ;
 +Hab:%>gang 3Pl ;
 +Hab:%>gang Finals-A ;
