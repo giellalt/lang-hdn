@@ -42,6 +42,9 @@ Haida has these tags for real, says Jordan.
  * +IncCmd  = 
  * +Evid    = 
 
+ * +Aux    = for khasa
+ * +Fut    = for the mainverb linked to khasa (rather +ConFut?)
+
 The parts-of-speech could perhaps also be (remove irrelevant):
 
  * +N	     =
