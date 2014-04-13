@@ -1,0 +1,35 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - khasa - will CHECK : #
+     khasa+V+NFut: khasaqáang
+     khasa+V+IFut: khasaasdláang
+     
+     khasa+V+Neg+NFut: khasaaqánggang
+     khasa+V+Neg+IFut: khasaasdläqánggang
+     
+     khasa+V+Hab+NFut: khasaqáang
+     khasa+V+Hab+IFut: khasaasdláang
+     
+     khasa+V+Hab+Neg+NFut: khasaaqánggang
+     khasa+V+Hab+Neg+IFut: khasaasdläqánggang
+     
+     khasa+V+3Pl+NFut: khasaqáang
+     khasa+V+3Pl+IFut: khasaasdláang
+     
+     khasa+V+Neg+3Pl+NFut: khasaaqánggang
+     khasa+V+Neg+3Pl+IFut: khasaasdläqánggang
+     
+     khasa+V+Hab+3Pl+NFut: khasaqáang
+     khasa+V+Hab+3Pl+IFut: khasaasdláang
+     
+     khasa+V+Hab+Neg+3Pl+NFut: khasaaqánggang
+     khasa+V+Hab+Neg+3Pl+IFut: khasaasdläqánggang
