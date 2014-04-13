@@ -2,6 +2,24 @@
 !  ---------------
 !! Haida verb morphology
 
+LEXICON AUX
+
++V+Aux+3Pl+IFut:khasaasdláang			    # ;
++V+Aux+3Pl+NFut:khasaqáang				    # ;
++V+Aux+Hab+3Pl+IFut:khasaasdláang		    # ;
++V+Aux+Hab+3Pl+NFut:khasaqáang			    # ;
++V+Aux+Hab+IFut:khasaasdláang			    # ;
++V+Aux+Hab+NFut:khasaqáang				    # ;
++V+Aux+Hab+Neg+3Pl+IFut:khasaasdläqánggang  # ;
++V+Aux+Hab+Neg+3Pl+NFut:khasaaqánggang	    # ;
++V+Aux+Hab+Neg+IFut:khasaasdläqánggang	    # ;
++V+Aux+Hab+Neg+NFut:khasaaqánggang		    # ;
++V+Aux+IFut:khasaasdláang				    # ;
++V+Aux+NFut:khasaqáang					    # ;
++V+Aux+Neg+3Pl+IFut:khasaasdläqánggang	    # ;
++V+Aux+Neg+3Pl+NFut:khasaaqánggang		    # ;
++V+Aux+Neg+IFut:khasaasdläqánggang		    # ;
++V+Aux+Neg+NFut:khasaaqánggang			    # ;
 
 
 LEXICON VB-aa
@@ -11,13 +29,13 @@ LEXICON VB-aa
 +V: aaEvidLEX ;
 +V: aa3PLLEX ;
 +V: aaFinalsLEX ;
-+V+IFut:%>qang% khasaasdláang # ;
++V+Fut:%>qang # ;
 
 LEXICON aaHABLEX
 +Hab:%>gáng # ;
 +Hab:%>gáng angNegLEX ;
 +Hab:%>gáng angFinalsLEX ;
-+Hab+Neg+NFut:%>gangang% khasaaqánggang # ;
++Hab+Neg+Fut:%>gangang # ;
 +NFut:%>qang% khasaqáang # ;
 +Hab:%>gáng ang3PLLEX ;
           
@@ -47,8 +65,7 @@ LEXICON aaNegLEX
 +Neg:%>qang # ;
 +Neg:%>qang ang3PLLEX ;
 +Neg:%>qang angFinalsLEX ;
-+Neg+NFut:%>qang% khasaaqánggang # ;
-+Neg+IFut:%>qang% khasaasdläqánggang # ;
++Neg+Fut:%>qang # ;
 
 LEXICON ang3PLLEX 
 aa3PLLEX ; ! well, identical
@@ -62,7 +79,7 @@ LEXICON qwaFinalsLEX
 +Prs:%>ang # ;
 +DPast:%>gan # ; 
 +PHab:%>giinii # ;
-+IFut:%>qang% khasaasdláang # ;
++Fut:%>qang # ;
 +PlCmd:%>quu # ;
 +IncCmd:%>tsqan # ;
 
@@ -71,7 +88,7 @@ LEXICON angFinalsLEX
 +DPast:%>gan # ; 
 +PHab:%>giinii # ;
 +SFut:%>saang # ;
-+IFut:%>qang% khasaasdláang # ;
++Fut:%>qang # ;
 +PlCmd:%>quu # ;
 +IncCmd:%>tsqan # ;
 +IPast:%>aan # ;
@@ -81,7 +98,7 @@ LEXICON aaFinalsLEX
 +DPast:%>gan # ; 
 +PHab:%>giinii # ;
 +SFut:%>saang # ;
-+NFut:%>qang% khasaqáang # ;
++Fut:%>qang # ;
 +PlCmd:%>quu # ;
 +IncCmd:%>tsqan # ;
 +IPast:%>gaan # ;
