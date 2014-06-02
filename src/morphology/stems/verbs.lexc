@@ -1,0 +1,118 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright á 2000-2010 The University of Tromsá
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@hum.uit.no
+
+! ========================================================================== !
+!!                           !!! Haida verb morphology                  
+! ========================================================================== !
+
+
+!! Haida
+
+LEXICON Verbs
+
+aada CLASS-A-STEM-1 "for S to fish with a net, to seine" ;
+aada:aadá CLASS-A-STEM-2 "for S to fish with a net, to seine" ;
+aada:aadáa CLASS-A-STEM-3 "for S to fish with a net, to seine" ;
+aadáa CLASS-AA "for S to have lace or netting on it" ;
+agángaang CLASS-AANG "for S to try to outdo X  said of a person or town" ;
+gatáa CLASS-AA "for S to eat" ;
+dah CLASS-AH "for S to trade for, buy O (in measure amount) (with X1) (for X2) in a single transaction" ;
+!chíigang
+dlán CLASS-AN-STEM-1 "for S to wash O, rinse O" ;
+dlán:dláan CLASS-AN-STEM-2 "for S to wash O, rinse O" ;
+dlán CLASS-AN-STEM-1 "for S to wash their private parts" ;
+dlán:dláan CLASS-AN-STEM-2 "for S to wash their private parts" ;
+dándas CLASS-AS-STEM-1 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
+dándas:dándáij CLASS-AS-STEM-2 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
+dándas:dándaj CLASS-AS-STEM-3 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
+dándas CLASS-AS-STEM-1 "for S to hook X with a gaffhook, to hook X with a hook and line" ;
+dándas:dándáij CLASS-AS-STEM-2 "for S to hook X with a gaffhook, to hook X with a hook and line" ;
+dándas:dándaj CLASS-AS-STEM-3 "for S to hook X with a gaffhook, to hook X with a hook and line" ;
+dándas CLASS-AS-STEM-1 "for S to hook into X with a gaffhook or hook and line" ;
+dándas:dándáij CLASS-AS-STEM-2 "for S to hook into X with a gaffhook or hook and line" ;
+dándas:dándaj CLASS-AS-STEM-3 "for S to hook into X with a gaffhook or hook and line" ;
+díigud CLASS-UD-STEM-1 "for S to bum food" ;
+díigud:dáigwiid CLASS-UD-STEM-2 "for S to bum food" ;
+!gayéed CLASS-EED "to V accidentally, to happen to V" ;
+!gisíid CLASS-IID "for S to yak (about X2)" ;
+hlgihl CLASS-IHL-STEM-1 "for S to spin or twist O together (with X1) (into X2)" ;
+hlgihl:hlgál CLASS-IHL-STEM-2 "for S to spin or twist O together (with X1) (into X2)" ;
+hlgihl:hlgáel CLASS-IHL-STEM-3 "for S to spin or twist O together (with X1) (into X2)" ;
+hlgihl CLASS-IHL-STEM-1 "for S to make a O  said of a line or rope" ;
+hlgihl:hlgál CLASS-IHL-STEM-2 "for S to make a O  said of a line or rope" ;
+hlgihl:hlgáel CLASS-IHL-STEM-3 "for S to make a O  said of a line or rope" ;
+hláanáe%.eehlda CLASS-A-STEM-1 "for S to crouch down" ;
+hláanáe%.eehlda:hláanáe%.eehldá CLASS-A-STEM-2 "for S to crouch down" ;
+hláanáe%.eehlda:hláanáe%.eehldáa CLASS-A-STEM-3 "for S to crouch down" ;
+!chíigang
+dlán CLASS-AN-STEM-1 "for S to wash O, rinse O" ;
+dlán:dláan CLASS-AN-STEM-2 "for S to wash O, rinse O" ;
+dlán CLASS-AN-STEM-1 "for S to wash their private parts" ;
+dlán:dláan CLASS-AN-STEM-2 "for S to wash their private parts" ;
+hltanée%.eehl CLASS-EEHL-STEM-1 "for S to thaw out" ;
+hltanée%.eehl:hltanáe%.eel CLASS-EEHL-STEM-2 "for S to thaw out" ;
+jadahlgwáay CLASS-AAY "for S to shoot a hole in C (sg)" ;
+k'ajúu CLASS-UU-STEM-1 "for S to sing (X), play (X)" ;
+k'ajúu:k'ajáaw CLASS-UU-STEM-2 "for S to sing (X), play (X)" ;
+k'ajúu CLASS-UU-STEM-1 "for S to tiresomely say, repeat X over and over" ;
+k'ajúu:k'ajáaw CLASS-UU-STEM-2 "for S to tiresomely say, repeat X over and over" ;
+k'ajúu CLASS-UU-STEM-1 "for S (dog) to pant with eagerness or happiness" ;
+k'ajúu:k'ajáaw CLASS-UU-STEM-2 "for S (dog) to pant with eagerness or happiness" ;
+k'ajúu CLASS-UU-STEM-1 "for S to sing for themselves before dying" ;
+k'ajúu:k'ajáaw CLASS-UU-STEM-2 "for S to sing for themselves before dying" ;
+kus CLASS-US-STEM-1 "for S to stab O  said of stabbing a person, not a body part" ;
+kus:kuj CLASS-US-STEM-2 "for S to stab O  said of stabbing a person, not a body part" ;
+kus:kwáij CLASS-US-STEM-3 "for S to stab O  said of stabbing a person, not a body part" ;
+kus CLASS-US-STEM-1 "for S to stab X  said of stabbing a person or a body part" ;
+kus:kuj CLASS-US-STEM-2 "for S to stab X  said of stabbing a person or a body part" ;
+kus:kwáij CLASS-US-STEM-3 "for S to stab X  said of stabbing a person or a body part" ;
+kyáambda% ín CLASS-IN-STEM-1 "for S to go to set up camp in location" ;
+kyáambda% ín:kyáambda% áen CLASS-IN-STEM-2 "for S to go to set up camp in location" ;
+!káa.ayd
+!kíl is
+!kúnid
+náanee CLASS-EE "for S to use the word `náanaa`  said of small children only" ;
+!níihl
+skyáahl CLASS-AAHL-STEM-1 "for S to be lucky  said of a man or of hunting/fishing tools (but not a gun)" ;
+skyáahl:skyáal CLASS-AAHL-STEM-2 "for S to be lucky  said of a man or of hunting/fishing tools (but not a gun)" ;
+st'i CLASS-I "for S to hurt, be sick, be sore" ;
+st'i CLASS-I "for X to have a headache" ;
+st'i CLASS-I "for S to feel bad (over X)" ;
+st'i CLASS-I "for S to be angry at X, be resentful over X" ;
+st'i CLASS-I "for S to be angry over X copying everything that S does" ;
+st'i CLASS-I "for S to make X mad, angry" ;
+sánaaw CLASS-AAW "for S (pl) to sniff at X" ;
+!sçalad
+!sçál
+!sçáw
+!t'ahlgúuhl
+!ta kún
+!tla çu
+xadáal CLASS-AAL "for S to go, come very very slowly (in direction)  said of a vehicle or the occupants of a vehicle" ;
+xadáal CLASS-AAL "for S to slowly become X" ;
+!xál ñáat'e.ehl
+áljahl CLASS-AHL-STEM-1 "for S to try their best on X" ;
+áljahl:áljal CLASS-AHL-STEM-2 "for S to try their best on X" ;
+áljahl:áljáal CLASS-AHL-STEM-3 "for S to try their best on X" ;
+!çíihlgii
+!ñ'usägúng
+!ñ'íinaan
+!ñe.e
+!ñáaguhl
+!ñáy
+!ñíiya
+!ñíiyä
+!ñíng
+!ñínyaang
+
