@@ -1,0 +1,165 @@
+!! YAML file for Class CLASS_IN_STEM_1 verbs
+     ín+V+SINGULAR+IMPERATIVE: kyáambda ín kyáambda
+     ín+V+IMMEDIATE+PRESENT: kyáambda ín.ga kyáambda
+     ín+V+INTERROGATIVE+SIMPLE+PRESENT: kyáambda ín kyáambda
+     ín+V+SIMPLE+PRESENT: kyáambda ín.gang kyáambda
+     ín+V+DIRECT+PAST: kyáambda ín.gan kyáambda
+     ín+V+RELATIVE: kyáambda íns kyáambda
+     ín+V+NON_FACTIVE: kyáambda ínang kyáambda
+     ín+V+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín.gang kyáambda
+     ín+V+PRESENT+HABITUAL: kyáambda ín.ganggang kyáambda
+     ín+V+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gangang kyáambda
+     ín+V+DIRECT+PAST+HABITUAL: kyáambda ín.giinii kyáambda
+     ín+V+INTERROGATIVE+PAST+HABITUAL: kyáambda ín.gaangaa kyáambda
+     ín+V+INDIRECT+PAST+HABITUAL: kyáambda ín.gaangaan kyáambda
+     ín+V+INTERROGATIVE+FUTURE+LONG: kyáambda ínäsaa kyáambda
+     ín+V+INTERROGATIVE+FUTURE+SHORT: kyáambda ínäs kyáambda
+     ín+V+SIMPLE+FUTURE: kyáambda ínäsaang kyáambda
+     ín+V+IMMEDIATE+FUTURE: kyáambda ínäsga kyáambda
+     ín+V+RELATIVE+FUTURE: kyáambda ínäsaas kyáambda
+     ín+V+FUTURE+NON_FACTIVE: kyáambda ínäsaa.ang kyáambda
+     ín+V+INTERROGATIVE+NEAR+FUTURE: kyáambda ínang ñasa'áa kyáambda
+     ín+V+NEAR+FUTURE: kyáambda ínang ñasa'áang kyáambda
+     ín+V+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ínang ñasaasdláa kyáambda
+     ín+V+VERYNEAR+FUTURE: kyáambda ínang ñasaasdláang kyáambda
+     ín+V+BIASED+IMMEDIATE+PRESENT: kyáambda ín'uuj kyáambda
+     ín+V+BIASED+SIMPLE+PRESENT: kyáambda ín'uujang kyáambda
+     ín+V+RESIGNED_OBLIGATION: kyáambda ínäsaa'uujang kyáambda
+     ín+V+BIASED+INTERROGATIVE+PRESENT: kyáambda ín'us kyáambda
+     ín+V+BIASED+INTERROGATIVE+PAST: kyáambda ín'ujaa kyáambda
+     ín+V+BIASED+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'uujaangaa kyáambda
+     ín+V+BIASED+INTERROGATIVE+FUTURE: kyáambda ínäsaa'us kyáambda
+     ín+V+CERTAIN+FUTURE: kyáambda ínäsaa'ahlans kyáambda
+     ín+V+FUTURE+REFLEXIVE+INTERROGATIVE: kyáambda ínäseehl kyáambda
+     ín+V+PLURAL+IMPERATIVE: kyáambda ín'uu kyáambda
+     ín+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: kyáambda ín'waa kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: kyáambda ín'waa kyáambda
+     ín+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: kyáambda ín'waang kyáambda
+     ín+V+3rd_PERSON_PLURAL+DIRECT+PAST: kyáambda ín'wägan kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: kyáambda ín'aawaa kyáambda
+     ín+V+3rd_PERSON_PLURAL+INDIRECT+PAST: kyáambda ín'aawaan kyáambda
+     ín+V+3rd_PERSON_PLURAL+RELATIVE: kyáambda ín'waas kyáambda
+     ín+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: kyáambda ín'aawaas kyáambda
+     ín+V+3rd_PERSON_PLURAL+NON_FACTIVE: kyáambda ín'waa.ang kyáambda
+     ín+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: kyáambda ín'aawaa.ang kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín.gang'waa kyáambda
+     ín+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kyáambda ín.gang'waang kyáambda
+     ín+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gang'waa.ang kyáambda
+     ín+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: kyáambda ín'wägiinii kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'wägaangaa kyáambda
+     ín+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: kyáambda ín'wägaangaan kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: kyáambda ín'waaäsaa kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: kyáambda ín'waaäs kyáambda
+     ín+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: kyáambda ín'waaäsaang kyáambda
+     ín+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kyáambda ín'waaäsga kyáambda
+     ín+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kyáambda ín'waaäsaas kyáambda
+     ín+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kyáambda ín'waaäsaa.ang kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kyáambda ín'waa.ang ñasa'áa kyáambda
+     ín+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kyáambda ín'waa.ang ñasa'áang kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdláa kyáambda
+     ín+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdláang kyáambda
+     ín+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kyáambda ín'waa'uuj kyáambda
+     ín+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kyáambda ín'waa'uujang kyáambda
+     ín+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kyáambda ín'waaäsaa'uujang kyáambda
+     ín+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: kyáambda ín'waa'us kyáambda
+     ín+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: kyáambda ín'waa'ujaa kyáambda
+     ín+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'waa'uujaangaa kyáambda
+     ín+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: kyáambda ín'waaäsaa'us kyáambda
+     ín+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: kyáambda ín'waa'ahlanggang kyáambda
+     ín+V+3rd_PERSON_PLURAL+CERTAIN+PAST: kyáambda ín'waa'ahlanggan kyáambda
+     ín+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: kyáambda ín'waa'ahlanggiinii kyáambda
+     ín+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: kyáambda ín'waaäsaa'ahlans kyáambda
+     ín+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: kyáambda ín'waa'ahlans kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: kyáambda ín'aawaa'ahlang kyáambda
+     ín+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kyáambda ín'aawaa'ahlanggaa kyáambda
+     ín+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kyáambda ín'aawaa'ahlanggang kyáambda
+     ín+V+3rd_PERSON_PLURAL+REFLEXIVE: kyáambda ín'waa'ahl kyáambda
+     ín+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kyáambda ín'waaäseehl kyáambda
+     ín+V+NEGATIVE+SINGULAR+IMPERATIVE: kyáambda ín'ang kyáambda
+     ín+V+NEGATIVE+IMMEDIATE+PRESENT: kyáambda ín'angga kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: kyáambda ín'ang kyáambda
+     ín+V+NEGATIVE+SIMPLE+PRESENT: kyáambda ín'anggang kyáambda
+     ín+V+NEGATIVE+DIRECT+PAST: kyáambda ín'anggan kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+PAST: kyáambda ín'aangaa kyáambda
+     ín+V+NEGATIVE+INDIRECT+PAST: kyáambda ín'aangaan kyáambda
+     ín+V+NEGATIVE+RELATIVE: kyáambda ín'ans kyáambda
+     ín+V+NEGATIVE+RELATIVE+EVIDENTIAL: kyáambda ín'aangaas kyáambda
+     ín+V+NEGATIVE+NON_FACTIVE: kyáambda ín'angang kyáambda
+     ín+V+NEGATIVE+PAST+NON_FACTIVE: kyáambda ín'aangaa.ang kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín'anggang kyáambda
+     ín+V+NEGATIVE+PRESENT+HABITUAL: kyáambda ín.gang'anggang kyáambda
+     ín+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gang'angang kyáambda
+     ín+V+NEGATIVE+DIRECT+PAST+HABITUAL: kyáambda ín'anggiinii kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'anggaangaa kyáambda
+     ín+V+NEGATIVE+INDIRECT+PAST+HABITUAL: kyáambda ín'anggaangaan kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: kyáambda ín'angäsaa kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: kyáambda ín'angäs kyáambda
+     ín+V+NEGATIVE+SIMPLE+FUTURE: kyáambda ín'angäsaang kyáambda
+     ín+V+NEGATIVE+IMMEDIATE+FUTURE: kyáambda ín'angäsga kyáambda
+     ín+V+NEGATIVE+RELATIVE+FUTURE: kyáambda ín'angäsaas kyáambda
+     ín+V+NEGATIVE+FUTURE+NON_FACTIVE: kyáambda ín'angäsaa.ang kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kyáambda ínang ñasaa'áng kyáambda
+     ín+V+NEGATIVE+NEAR+FUTURE: kyáambda ínang ñasaa'ánggang kyáambda
+     ín+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ínang ñasaasdlä'áng kyáambda
+     ín+V+NEGATIVE+VERYNEAR+FUTURE: kyáambda ínang ñasaasdlä'ánggang kyáambda
+     ín+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: kyáambda ín'ang'uuj kyáambda
+     ín+V+NEGATIVE+BIASED+SIMPLE+PRESENT: kyáambda ín'ang'uujang kyáambda
+     ín+V+NEGATIVE+RESIGNED_OBLIGATION: kyáambda ín'angäsaa'uujang kyáambda
+     ín+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: kyáambda ín'ang'us kyáambda
+     ín+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: kyáambda ín'ang'ujaa kyáambda
+     ín+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'ang'uujaangaa kyáambda
+     ín+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: kyáambda ín'angäsaa'us kyáambda
+     ín+V+NEGATIVE+CERTAIN+PRESENT: kyáambda ín'aang'ahlanggang kyáambda
+     ín+V+NEGATIVE+CERTAIN+PAST: kyáambda ín'aang'ahlanggan kyáambda
+     ín+V+NEGATIVE+CERTAIN+PAST+HABITUAL: kyáambda ín'aang'ahlanggiinii kyáambda
+     ín+V+NEGATIVE+CERTAIN+FUTURE: kyáambda ín'angäsaa'ahlans kyáambda
+     ín+V+NEGATIVE+CERTAIN+RELATIVE: kyáambda ín'aang'ahlans kyáambda
+     ín+V+NEGATIVE+INTENSIVE+PAST: kyáambda ín'aangaa'ahlang kyáambda
+     ín+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kyáambda ín'aangaa'ahlanggaa kyáambda
+     ín+V+NEGATIVE+COUNTERFACTUAL+PRESENT: kyáambda ín'aangaa'ahlanggang kyáambda
+     ín+V+NEGATIVE+REFLEXIVE: kyáambda ín'aang'ahl kyáambda
+     ín+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: kyáambda ín'angäseehl kyáambda
+     ín+V+NEGATIVE+PLURAL+IMPERATIVE: kyáambda ín'ang'uu kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: kyáambda ín'ang'waa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: kyáambda ín'ang'waa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: kyáambda ín'ang'waang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: kyáambda ín'ang'wägan kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: kyáambda ín'ang'aawaa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: kyáambda ín'ang'aawaan kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: kyáambda ín'ang'waas kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: kyáambda ín'ang'aawaas kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: kyáambda ín'ang'waa.ang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: kyáambda ín'ang'aawaa.ang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín.gang'ang'waa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kyáambda ín.gang'ang'waang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gang'ang'waa.ang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: kyáambda ín'ang'wägiinii kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'ang'wägaangaa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: kyáambda ín'ang'wägaangaan kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: kyáambda ín'ang'waaäsaa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: kyáambda ín'ang'waaäs kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: kyáambda ín'ang'waaäsaang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kyáambda ín'ang'waaäsga kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kyáambda ín'ang'waaäsaas kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kyáambda ín'ang'waaäsaa.ang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kyáambda ín'waa.ang ñasaa'áng kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kyáambda ín'waa.ang ñasaa'ánggang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdlä'áng kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdlä'ánggang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kyáambda ín'ang'waa'uuj kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kyáambda ín'ang'waa'uujang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kyáambda ín'ang'waaäsaa'uujang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: kyáambda ín'ang'waa'us kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: kyáambda ín'ang'waa'ujaa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'ang'waa'uujaangaa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: kyáambda ín'ang'waaäsaa'us kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: kyáambda ín'ang'waa'ahlanggang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: kyáambda ín'ang'waa'ahlanggan kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: kyáambda ín'ang'waa'ahlanggiinii kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: kyáambda ín'ang'waaäsaa'ahlans kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: kyáambda ín'ang'waa'ahlans kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: kyáambda ín'ang'aawaa'ahlang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kyáambda ín'ang'aawaa'ahlanggaa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kyáambda ín'ang'aawaa'ahlanggang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: kyáambda ín'ang'waa'ahl kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kyáambda ín'ang'waaäseehl kyáambda

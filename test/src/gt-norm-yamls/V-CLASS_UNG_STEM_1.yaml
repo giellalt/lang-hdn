@@ -1,0 +1,165 @@
+!! YAML file for Class CLASS_UNG_STEM_1 verbs
+     ñ'usägúng+V+SINGULAR+IMPERATIVE: ñ'usägúng
+     ñ'usägúng+V+IMMEDIATE+PRESENT: ñ'usägúngga
+     ñ'usägúng+V+INTERROGATIVE+SIMPLE+PRESENT: ñ'usägúng
+     ñ'usägúng+V+SIMPLE+PRESENT: ñ'usägúnggang
+     ñ'usägúng+V+DIRECT+PAST: ñ'usägúnggan
+     ñ'usägúng+V+RELATIVE: ñ'usägúngs
+     ñ'usägúng+V+NON_FACTIVE: ñ'usägúngang
+     ñ'usägúng+V+INTERROGATIVE+PRESENT+HABITUAL: ñ'usägúnggang
+     ñ'usägúng+V+PRESENT+HABITUAL: ñ'usägúngganggang
+     ñ'usägúng+V+PRESENT+HABITUAL+NON_FACTIVE: ñ'usägúnggangang
+     ñ'usägúng+V+DIRECT+PAST+HABITUAL: ñ'usägúnggiinii
+     ñ'usägúng+V+INTERROGATIVE+PAST+HABITUAL: ñ'usägúnggaangaa
+     ñ'usägúng+V+INDIRECT+PAST+HABITUAL: ñ'usägúnggaangaan
+     ñ'usägúng+V+INTERROGATIVE+FUTURE+LONG: ñ'usägúngäsaa
+     ñ'usägúng+V+INTERROGATIVE+FUTURE+SHORT: ñ'usägúngäs
+     ñ'usägúng+V+SIMPLE+FUTURE: ñ'usägúngäsaang
+     ñ'usägúng+V+IMMEDIATE+FUTURE: ñ'usägúngäsga
+     ñ'usägúng+V+RELATIVE+FUTURE: ñ'usägúngäsaas
+     ñ'usägúng+V+FUTURE+NON_FACTIVE: ñ'usägúngäsaa.ang
+     ñ'usägúng+V+INTERROGATIVE+NEAR+FUTURE: ñ'usägúngang ñasa'áa
+     ñ'usägúng+V+NEAR+FUTURE: ñ'usägúngang ñasa'áang
+     ñ'usägúng+V+INTERROGATIVE+VERYNEAR+FUTURE: ñ'usägúngang ñasaasdláa
+     ñ'usägúng+V+VERYNEAR+FUTURE: ñ'usägúngang ñasaasdláang
+     ñ'usägúng+V+BIASED+IMMEDIATE+PRESENT: ñ'usägúng'uuj
+     ñ'usägúng+V+BIASED+SIMPLE+PRESENT: ñ'usägúng'uujang
+     ñ'usägúng+V+RESIGNED_OBLIGATION: ñ'usägúngäsaa'uujang
+     ñ'usägúng+V+BIASED+INTERROGATIVE+PRESENT: ñ'usägúng'us
+     ñ'usägúng+V+BIASED+INTERROGATIVE+PAST: ñ'usägúng'ujaa
+     ñ'usägúng+V+BIASED+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'uujaangaa
+     ñ'usägúng+V+BIASED+INTERROGATIVE+FUTURE: ñ'usägúngäsaa'us
+     ñ'usägúng+V+CERTAIN+FUTURE: ñ'usägúngäsaa'ahlans
+     ñ'usägúng+V+FUTURE+REFLEXIVE+INTERROGATIVE: ñ'usägúngäseehl
+     ñ'usägúng+V+PLURAL+IMPERATIVE: ñ'usägúng'uu
+     ñ'usägúng+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: ñ'usägúng'waa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: ñ'usägúng'waa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: ñ'usägúng'waang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+DIRECT+PAST: ñ'usägúng'wägan
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: ñ'usägúng'aawaa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INDIRECT+PAST: ñ'usägúng'aawaan
+     ñ'usägúng+V+3rd_PERSON_PLURAL+RELATIVE: ñ'usägúng'waas
+     ñ'usägúng+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: ñ'usägúng'aawaas
+     ñ'usägúng+V+3rd_PERSON_PLURAL+NON_FACTIVE: ñ'usägúng'waa.ang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: ñ'usägúng'aawaa.ang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: ñ'usägúnggang'waa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: ñ'usägúnggang'waang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: ñ'usägúnggang'waa.ang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: ñ'usägúng'wägiinii
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'wägaangaa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: ñ'usägúng'wägaangaan
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: ñ'usägúng'waaäsaa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: ñ'usägúng'waaäs
+     ñ'usägúng+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: ñ'usägúng'waaäsaang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: ñ'usägúng'waaäsga
+     ñ'usägúng+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: ñ'usägúng'waaäsaas
+     ñ'usägúng+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: ñ'usägúng'waaäsaa.ang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ñ'usägúng'waa.ang ñasa'áa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+NEAR+FUTURE: ñ'usägúng'waa.ang ñasa'áang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ñ'usägúng'waa.ang ñasaasdláa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ñ'usägúng'waa.ang ñasaasdláang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: ñ'usägúng'waa'uuj
+     ñ'usägúng+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: ñ'usägúng'waa'uujang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: ñ'usägúng'waaäsaa'uujang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: ñ'usägúng'waa'us
+     ñ'usägúng+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: ñ'usägúng'waa'ujaa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'waa'uujaangaa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: ñ'usägúng'waaäsaa'us
+     ñ'usägúng+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: ñ'usägúng'waa'ahlanggang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+CERTAIN+PAST: ñ'usägúng'waa'ahlanggan
+     ñ'usägúng+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: ñ'usägúng'waa'ahlanggiinii
+     ñ'usägúng+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: ñ'usägúng'waaäsaa'ahlans
+     ñ'usägúng+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: ñ'usägúng'waa'ahlans
+     ñ'usägúng+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: ñ'usägúng'aawaa'ahlang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñ'usägúng'aawaa'ahlanggaa
+     ñ'usägúng+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñ'usägúng'aawaa'ahlanggang
+     ñ'usägúng+V+3rd_PERSON_PLURAL+REFLEXIVE: ñ'usägúng'waa'ahl
+     ñ'usägúng+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñ'usägúng'waaäseehl
+     ñ'usägúng+V+NEGATIVE+SINGULAR+IMPERATIVE: ñ'usägúng'ang
+     ñ'usägúng+V+NEGATIVE+IMMEDIATE+PRESENT: ñ'usägúng'angga
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: ñ'usägúng'ang
+     ñ'usägúng+V+NEGATIVE+SIMPLE+PRESENT: ñ'usägúng'anggang
+     ñ'usägúng+V+NEGATIVE+DIRECT+PAST: ñ'usägúng'anggan
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+PAST: ñ'usägúng'aangaa
+     ñ'usägúng+V+NEGATIVE+INDIRECT+PAST: ñ'usägúng'aangaan
+     ñ'usägúng+V+NEGATIVE+RELATIVE: ñ'usägúng'ans
+     ñ'usägúng+V+NEGATIVE+RELATIVE+EVIDENTIAL: ñ'usägúng'aangaas
+     ñ'usägúng+V+NEGATIVE+NON_FACTIVE: ñ'usägúng'angang
+     ñ'usägúng+V+NEGATIVE+PAST+NON_FACTIVE: ñ'usägúng'aangaa.ang
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: ñ'usägúng'anggang
+     ñ'usägúng+V+NEGATIVE+PRESENT+HABITUAL: ñ'usägúnggang'anggang
+     ñ'usägúng+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: ñ'usägúnggang'angang
+     ñ'usägúng+V+NEGATIVE+DIRECT+PAST+HABITUAL: ñ'usägúng'anggiinii
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'anggaangaa
+     ñ'usägúng+V+NEGATIVE+INDIRECT+PAST+HABITUAL: ñ'usägúng'anggaangaan
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: ñ'usägúng'angäsaa
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: ñ'usägúng'angäs
+     ñ'usägúng+V+NEGATIVE+SIMPLE+FUTURE: ñ'usägúng'angäsaang
+     ñ'usägúng+V+NEGATIVE+IMMEDIATE+FUTURE: ñ'usägúng'angäsga
+     ñ'usägúng+V+NEGATIVE+RELATIVE+FUTURE: ñ'usägúng'angäsaas
+     ñ'usägúng+V+NEGATIVE+FUTURE+NON_FACTIVE: ñ'usägúng'angäsaa.ang
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: ñ'usägúngang ñasaa'áng
+     ñ'usägúng+V+NEGATIVE+NEAR+FUTURE: ñ'usägúngang ñasaa'ánggang
+     ñ'usägúng+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ñ'usägúngang ñasaasdlä'áng
+     ñ'usägúng+V+NEGATIVE+VERYNEAR+FUTURE: ñ'usägúngang ñasaasdlä'ánggang
+     ñ'usägúng+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: ñ'usägúng'ang'uuj
+     ñ'usägúng+V+NEGATIVE+BIASED+SIMPLE+PRESENT: ñ'usägúng'ang'uujang
+     ñ'usägúng+V+NEGATIVE+RESIGNED_OBLIGATION: ñ'usägúng'angäsaa'uujang
+     ñ'usägúng+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: ñ'usägúng'ang'us
+     ñ'usägúng+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: ñ'usägúng'ang'ujaa
+     ñ'usägúng+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'ang'uujaangaa
+     ñ'usägúng+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: ñ'usägúng'angäsaa'us
+     ñ'usägúng+V+NEGATIVE+CERTAIN+PRESENT: ñ'usägúng'aang'ahlanggang
+     ñ'usägúng+V+NEGATIVE+CERTAIN+PAST: ñ'usägúng'aang'ahlanggan
+     ñ'usägúng+V+NEGATIVE+CERTAIN+PAST+HABITUAL: ñ'usägúng'aang'ahlanggiinii
+     ñ'usägúng+V+NEGATIVE+CERTAIN+FUTURE: ñ'usägúng'angäsaa'ahlans
+     ñ'usägúng+V+NEGATIVE+CERTAIN+RELATIVE: ñ'usägúng'aang'ahlans
+     ñ'usägúng+V+NEGATIVE+INTENSIVE+PAST: ñ'usägúng'aangaa'ahlang
+     ñ'usägúng+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñ'usägúng'aangaa'ahlanggaa
+     ñ'usägúng+V+NEGATIVE+COUNTERFACTUAL+PRESENT: ñ'usägúng'aangaa'ahlanggang
+     ñ'usägúng+V+NEGATIVE+REFLEXIVE: ñ'usägúng'aang'ahl
+     ñ'usägúng+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: ñ'usägúng'angäseehl
+     ñ'usägúng+V+NEGATIVE+PLURAL+IMPERATIVE: ñ'usägúng'ang'uu
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: ñ'usägúng'ang'waa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: ñ'usägúng'ang'waa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: ñ'usägúng'ang'waang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: ñ'usägúng'ang'wägan
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: ñ'usägúng'ang'aawaa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: ñ'usägúng'ang'aawaan
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: ñ'usägúng'ang'waas
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: ñ'usägúng'ang'aawaas
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: ñ'usägúng'ang'waa.ang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: ñ'usägúng'ang'aawaa.ang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: ñ'usägúnggang'ang'waa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: ñ'usägúnggang'ang'waang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: ñ'usägúnggang'ang'waa.ang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: ñ'usägúng'ang'wägiinii
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'ang'wägaangaa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: ñ'usägúng'ang'wägaangaan
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: ñ'usägúng'ang'waaäsaa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: ñ'usägúng'ang'waaäs
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: ñ'usägúng'ang'waaäsaang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: ñ'usägúng'ang'waaäsga
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: ñ'usägúng'ang'waaäsaas
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: ñ'usägúng'ang'waaäsaa.ang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ñ'usägúng'waa.ang ñasaa'áng
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: ñ'usägúng'waa.ang ñasaa'ánggang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ñ'usägúng'waa.ang ñasaasdlä'áng
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ñ'usägúng'waa.ang ñasaasdlä'ánggang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: ñ'usägúng'ang'waa'uuj
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: ñ'usägúng'ang'waa'uujang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: ñ'usägúng'ang'waaäsaa'uujang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: ñ'usägúng'ang'waa'us
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: ñ'usägúng'ang'waa'ujaa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: ñ'usägúng'ang'waa'uujaangaa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: ñ'usägúng'ang'waaäsaa'us
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: ñ'usägúng'ang'waa'ahlanggang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: ñ'usägúng'ang'waa'ahlanggan
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: ñ'usägúng'ang'waa'ahlanggiinii
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: ñ'usägúng'ang'waaäsaa'ahlans
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: ñ'usägúng'ang'waa'ahlans
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: ñ'usägúng'ang'aawaa'ahlang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñ'usägúng'ang'aawaa'ahlanggaa
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñ'usägúng'ang'aawaa'ahlanggang
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñ'usägúng'ang'waa'ahl
+     ñ'usägúng+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñ'usägúng'ang'waaäseehl
