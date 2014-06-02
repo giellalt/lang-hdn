@@ -1,0 +1,190 @@
+!! YAML file for Class AA verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+  Verb - gatáa - eat : # Ordinary AA verb - full paradigm
+
+     gatáa+V+IMMEDIATE+PRESENT : gatáaga
+     gatáa+V+INTERROGATIVE+SIMPLE+PRESENT : gatáa
+     gatáa+V+SIMPLE+PRESENT : gatáagang
+     gatáa+V+DIRECT+PAST : gatáagan
+     gatáa+V+INTERROGATIVE+PAST : gatáagaa
+     gatáa+V+INDIRECT+PAST : gatáagaan
+     gatáa+V+RELATIVE : gatáas
+     gatáa+V+RELATIVE+EVIDENTIAL : gatáagaas
+     gatáa+V+NON_FACTIVE : gatáa.ang
+     gatáa+V+PAST+NON_FACTIVE : gatáagaa.ang
+     gatáa+V+INTERROGATIVE+PRESENT+HABITUAL : gatáagang
+     gatáa+V+PRESENT+HABITUAL : gatáaganggang
+     gatáa+V+PRESENT+HABITUAL+NON_FACTIVE : gatáagangang
+     gatáa+V+DIRECT+PAST+HABITUAL : gatáagiinii
+     gatáa+V+INTERROGATIVE+PAST+HABITUAL : gatáagaangaa
+     gatáa+V+INDIRECT+PAST+HABITUAL : gatáagaangaan
+     gatáa+V+INTERROGATIVE+FUTURE+LONG : gatáaäsaa
+     gatáa+V+INTERROGATIVE+FUTURE+SHORT : gatáaäs
+     gatáa+V+SIMPLE+FUTURE : gatáaäsaang
+     gatáa+V+IMMEDIATE+FUTURE : gatáaäsga
+     gatáa+V+RELATIVE+FUTURE : gatáaäsaas
+     gatáa+V+FUTURE+NON_FACTIVE : gatáaäsaa.ang
+     gatáa+V+INTERROGATIVE+NEAR+FUTURE : gatáa.ang ñasa'áa
+     gatáa+V+NEAR+FUTURE : gatáa.ang ñasa'áang
+     gatáa+V+INTERROGATIVE+VERYNEAR+FUTURE : gatáa.ang ñasaasdláa
+     gatáa+V+VERY+NEAR+FUTURE : gatáa.ang ñasaasdláang
+     gatáa+V+BIASED+IMMEDIATE+PRESENT : gatáa'uuj
+     gatáa+V+BIASED+SIMPLE+PRESENT : gatáa'uujang
+     gatáa+V+RESIGNED_OBLIGATION : gatáaäsaa'uujang
+     gatáa+V+BIASED+INTERROGATIVE+PRESENT : gatáa'us
+     gatáa+V+BIASED+INTERROGATIVE+PAST : gatáa'ujaa
+     gatáa+V+BIASED+INTERROGATIVE+PAST+HABITUAL : gatáa'uujaangaa
+     gatáa+V+BIASED+INTERROGATIVE+FUTURE : gatáaäsaa'us
+     gatáa+V+CERTAIN+PRESENT : gatáa'ahlanggang
+     gatáa+V+CERTAIN+PAST : gatáa'ahlanggan
+     gatáa+V+CERTAIN+PAST+HABITUAL : gatáa'ahlanggiinii
+     gatáa+V+CERTAIN+FUTURE : gatáaäsaa'ahlans
+     gatáa+V+CERTAIN_RELATIVE : gatáa'ahlans
+     gatáa+V+INTENSIVE+PAST : gatáagaa'ahlang
+     gatáa+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE : gatáagaa'ahlanggaa
+     gatáa+V+COUNTERFACTUAL+PRESENT : gatáagaa'ahlanggang
+     gatáa+V+REFLEXIVE : gatáa'ahl
+     gatáa+V+FUTURE+REFLEXIVE+INTERROGATIVE : gatáaäseehl
+     gatáa+V+PLURAL+IMPERATIVE : gatáa'uu
+     gatáa+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT : gatáa'waa
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT : gatáa'waa
+     gatáa+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT : gatáa'waang
+     gatáa+V+3rd_PERSON_PLURAL+DIRECT+PAST : gatáa'wägan
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST : gatáa'aawaa
+     gatáa+V+3rd_PERSON_PLURAL+INDIRECT+PAST : gatáa'aawaan
+     gatáa+V+3rd_PERSON_PLURAL+RELATIVE : gatáa'waas
+     gatáa+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL : gatáa'aawaas
+     gatáa+V+3rd_PERSON_PLURAL+NON_FACTIVE : gatáa'waa.ang
+     gatáa+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE : gatáa'aawaa.ang
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL : gatáagang'waa
+     gatáa+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL : gatáagang'waang
+     gatáa+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE : gatáagang'waa.ang
+     gatáa+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL : gatáa'wägiinii
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL : gatáa'wägaangaa
+     gatáa+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL : gatáa'wägaangaan
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG : gatáa'waaäsaa
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT : gatáa'waaäs
+     gatáa+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE : gatáa'waaäsaang
+     gatáa+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE : gatáa'waaäsga
+     gatáa+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE : gatáa'waaäsaas
+     gatáa+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE : gatáa'waaäsaa.ang
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE : gatáa'waa.ang ñasa'áa
+     gatáa+V+3rd_PERSON_PLURAL+NEAR+FUTURE : gatáa'waa.ang ñasa'áang
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE : gatáa'waa.ang ñasaasdláa
+     gatáa+V+3rd_PERSON_PLURAL+VERY+NEAR+FUTURE : gatáa'waa.ang ñasaasdláang
+     gatáa+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT : gatáa'waa'uuj
+     gatáa+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT : gatáa'waa'uujang
+     gatáa+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION : gatáa'waaäsaa'uujang
+     gatáa+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT : gatáa'waa'us
+     gatáa+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST : gatáa'waa'ujaa
+     gatáa+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL : gatáa'waa'uujaangaa
+     gatáa+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE : gatáa'waaäsaa'us
+     gatáa+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT : gatáa'waa'ahlanggang
+     gatáa+V+3rd_PERSON_PLURAL+CERTAIN+PAST : gatáa'waa'ahlanggan
+     gatáa+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL : gatáa'waa'ahlanggiinii
+     gatáa+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE : gatáa'waaäsaa'ahlans
+     gatáa+V+3rd_PERSON_PLURAL+CERTAIN_RELATIVE : gatáa'waa'ahlans
+     gatáa+V+3rd_PERSON_PLURAL+INTENSIVE+PAST : gatáa'aawaa'ahlang
+     gatáa+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE : gatáa'aawaa'ahlanggaa
+     gatáa+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT : gatáa'aawaa'ahlanggang
+     gatáa+V+3rd_PERSON_PLURAL+REFLEXIVE : gatáa'waa'ahl
+     gatáa+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE : gatáa'waaäseehl
+     gatáa+V+NEGATIVE+SINGULAR+IMPERATIVE : gatáa'ang
+     gatáa+V+NEGATIVE+IMMEDIATE+PRESENT : gatáa'angga
+     gatáa+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT : gatáa'ang
+     gatáa+V+NEGATIVE+SIMPLE+PRESENT : gatáa'anggang
+     gatáa+V+NEGATIVE+DIRECT+PAST : gatáa'anggan
+     gatáa+V+NEGATIVE+INTERROGATIVE+PAST : gatáa'aangaa
+     gatáa+V+NEGATIVE+INDIRECT+PAST : gatáa'aangaan
+     gatáa+V+NEGATIVE+RELATIVE : gatáa'ans
+     gatáa+V+NEGATIVE+RELATIVE+EVIDENTIAL : gatáa'aangaas
+     gatáa+V+NEGATIVE+NON_FACTIVE : gatáa'angang
+     gatáa+V+NEGATIVE+PAST+NON_FACTIVE : gatáa'aangaa.ang
+     gatáa+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL : gatáa'anggang
+     gatáa+V+NEGATIVE+PRESENT+HABITUAL : gatáagang'anggang
+     gatáa+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE : gatáagang'angang
+     gatáa+V+NEGATIVE+DIRECT+PAST+HABITUAL : gatáa'anggiinii
+     gatáa+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL : gatáa'anggaangaa
+     gatáa+V+NEGATIVE+INDIRECT+PAST+HABITUAL : gatáa'anggaangaan
+     gatáa+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG : gatáa'angäsaa
+     gatáa+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT : gatáa'angäs
+     gatáa+V+NEGATIVE+SIMPLE+FUTURE : gatáa'angäsaang
+     gatáa+V+NEGATIVE+IMMEDIATE+FUTURE : gatáa'angäsga
+     gatáa+V+NEGATIVE+RELATIVE+FUTURE : gatáa'angäsaas
+     gatáa+V+NEGATIVE+FUTURE+NON_FACTIVE : gatáa'angäsaa.ang
+     gatáa+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE : gatáa.ang ñasaa'áng
+     gatáa+V+NEGATIVE+NEAR+FUTURE : gatáa.ang ñasaa'ánggang
+     gatáa+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE : gatáa.ang ñasaasdlä'áng
+     gatáa+V+NEGATIVE+VERYNEAR+FUTURE : gatáa.ang ñasaasdlä'ánggang
+     gatáa+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT : gatáa'ang'uuj
+     gatáa+V+NEGATIVE+BIASED+SIMPLE+PRESENT : gatáa'ang'uujang
+     gatáa+V+NEGATIVE+RESIGNED_OBLIGATION : gatáa'angäsaa'uujang
+     gatáa+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT : gatáa'ang'us
+     gatáa+V+NEGATIVE+BIASED+INTERROGATIVE+PAST : gatáa'ang'ujaa
+     gatáa+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL : gatáa'ang'uujaangaa
+     gatáa+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE : gatáa'angäsaa'us
+     gatáa+V+NEGATIVE+CERTAIN+PRESENT : gatáa'aang'ahlanggang
+     gatáa+V+NEGATIVE+CERTAIN+PAST : gatáa'aang'ahlanggan
+     gatáa+V+NEGATIVE+CERTAIN+PAST+HABITUAL : gatáa'aang'ahlanggiinii
+     gatáa+V+NEGATIVE+CERTAIN+FUTURE : gatáa'angäsaa'ahlans
+     gatáa+V+NEGATIVE+CERTAIN_RELATIVE : gatáa'aang'ahlans
+     gatáa+V+NEGATIVE+INTENSIVE+PAST : gatáa'aangaa'ahlang
+     gatáa+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE : gatáa'aangaa'ahlanggaa
+     gatáa+V+NEGATIVE+COUNTERFACTUAL+PRESENT : gatáa'aangaa'ahlanggang
+     gatáa+V+NEGATIVE+REFLEXIVE : gatáa'aang'ahl
+     gatáa+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE : gatáa'angäseehl
+     gatáa+V+NEGATIVE+PLURAL+IMPERATIVE : gatáa'ang'uu
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT : gatáa'ang'waa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT : gatáa'ang'waa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT : gatáa'ang'waang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST : gatáa'ang'wägan
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST : gatáa'ang'aawaa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST : gatáa'ang'aawaan
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE : gatáa'ang'waas
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL : gatáa'ang'aawaas
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE : gatáa'ang'waa.ang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE : gatáa'ang'aawaa.ang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL : gatáagang'ang'waa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL : gatáagang'ang'waang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE : gatáagang'ang'waa.ang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL : gatáa'ang'wägiinii
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL : gatáa'ang'wägaangaa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL : gatáa'ang'wägaangaan
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG : gatáa'ang'waaäsaa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT : gatáa'ang'waaäs
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE : gatáa'ang'waaäsaang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE : gatáa'ang'waaäsga
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE : gatáa'ang'waaäsaas
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE : gatáa'ang'waaäsaa.ang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE : gatáa'waa.ang ñasaa'áng
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE : gatáa'waa.ang ñasaa'ánggang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE : gatáa'waa.ang ñasaasdlä'áng
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+VERY+NEAR+FUTURE : gatáa'waa.ang ñasaasdlä'ánggang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT : gatáa'ang'waa'uuj
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT : gatáa'ang'waa'uujang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION : gatáa'ang'waaäsaa'uujang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT : gatáa'ang'waa'us
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST : gatáa'ang'waa'ujaa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL : gatáa'ang'waa'uujaangaa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE : gatáa'ang'waaäsaa'us
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT : gatáa'ang'waa'ahlanggang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST : gatáa'ang'waa'ahlanggan
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL : gatáa'ang'waa'ahlanggiinii
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE : gatáa'ang'waaäsaa'ahlans
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN_RELATIVE : gatáa'ang'waa'ahlans
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST : gatáa'ang'aawaa'ahlang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE : gatáa'ang'aawaa'ahlanggaa
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT : gatáa'ang'aawaa'ahlanggang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE : gatáa'ang'waa'ahl
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE : gatáa'ang'waaäseehl
