@@ -4,8 +4,9 @@
 
 LEXICON Prefixes
 
-tsas PREFVSTEMS ;
-dla PREFVSTEMS ;
+!-tsas PREFVSTEMS ;
+!-dla PREFVSTEMS ;
 
+ # ; 
 
 ! vim: set ft=xfst-lexc:
