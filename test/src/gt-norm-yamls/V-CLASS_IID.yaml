@@ -1,0 +1,177 @@
+!! YAML file for Class CLASS_IID verbs
+     gisíid+V+SINGULAR+IMPERATIVE: gisíid
+     gisíid+V+IMMEDIATE+PRESENT: gisíida
+     gisíid+V+INTERROGATIVE+SIMPLE+PRESENT: gisíid
+     gisíid+V+SIMPLE+PRESENT: gisíidang
+     gisíid+V+DIRECT+PAST: gisíidan
+     gisíid+V+INTERROGATIVE+PAST: gisíidaa
+     gisíid+V+INDIRECT+PAST: gisíidaan
+     gisíid+V+RELATIVE: gisíids
+     gisíid+V+RELATIVE+EVIDENTIAL: gisíidaas
+     gisíid+V+NON_FACTIVE: gisíidang
+     gisíid+V+PAST+NON_FACTIVE: gisíidaa.ang
+     gisíid+V+INTERROGATIVE+PRESENT+HABITUAL: gisíidang
+     gisíid+V+PRESENT+HABITUAL: gisíidanggang
+     gisíid+V+PRESENT+HABITUAL+NON_FACTIVE: gisíidangang
+     gisíid+V+DIRECT+PAST+HABITUAL: gisíidiinii
+     gisíid+V+INTERROGATIVE+PAST+HABITUAL: gisíidaangaa
+     gisíid+V+INDIRECT+PAST+HABITUAL: gisíidaangaan
+     gisíid+V+INTERROGATIVE+FUTURE+LONG: gisíidäsaa
+     gisíid+V+INTERROGATIVE+FUTURE+SHORT: gisíidäs
+     gisíid+V+SIMPLE+FUTURE: gisíidäsaang
+     gisíid+V+IMMEDIATE+FUTURE: gisíidäsga
+     gisíid+V+RELATIVE+FUTURE: gisíidäsaas
+     gisíid+V+FUTURE+NON_FACTIVE: gisíidäsaa.ang
+     gisíid+V+INTERROGATIVE+NEAR+FUTURE: gisíidang ñasa'áa
+     gisíid+V+NEAR+FUTURE: gisíidang ñasa'áang
+     gisíid+V+INTERROGATIVE+VERYNEAR+FUTURE: gisíidang ñasaasdláa
+     gisíid+V+VERYNEAR+FUTURE: gisíidang ñasaasdláang
+     gisíid+V+BIASED+IMMEDIATE+PRESENT: gisíid'uuj
+     gisíid+V+BIASED+SIMPLE+PRESENT: gisíid'uujang
+     gisíid+V+RESIGNED_OBLIGATION: gisíidäsaa'uujang
+     gisíid+V+BIASED+INTERROGATIVE+PRESENT: gisíid'us
+     gisíid+V+BIASED+INTERROGATIVE+PAST: gisíid'ujaa
+     gisíid+V+BIASED+INTERROGATIVE+PAST+HABITUAL: gisíid'uujaangaa
+     gisíid+V+BIASED+INTERROGATIVE+FUTURE: gisíidäsaa'us
+     gisíid+V+CERTAIN+PRESENT: gisíid'ahlanggang
+     gisíid+V+CERTAIN+PAST: gisíid'ahlanggan
+     gisíid+V+CERTAIN+PAST+HABITUAL: gisíid'ahlanggiinii
+     gisíid+V+CERTAIN+FUTURE: gisíidäsaa'ahlans
+     gisíid+V+CERTAIN+RELATIVE: gisíid'ahlans
+     gisíid+V+INTENSIVE+PAST: gisíidaa'ahlang
+     gisíid+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: gisíidaa'ahlanggaa
+     gisíid+V+COUNTERFACTUAL+PRESENT: gisíidaa'ahlanggang
+     gisíid+V+REFLEXIVE: gisíid'ahl
+     gisíid+V+FUTURE+REFLEXIVE+INTERROGATIVE: gisíidäseehl
+     gisíid+V+PLURAL+IMPERATIVE: gisíid'uu
+     gisíid+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: gisíid'waa
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: gisíid'waa
+     gisíid+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: gisíid'waang
+     gisíid+V+3rd_PERSON_PLURAL+DIRECT+PAST: gisíid'wägan
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: gisíid'aawaa
+     gisíid+V+3rd_PERSON_PLURAL+INDIRECT+PAST: gisíid'aawaan
+     gisíid+V+3rd_PERSON_PLURAL+RELATIVE: gisíid'waas
+     gisíid+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: gisíid'aawaas
+     gisíid+V+3rd_PERSON_PLURAL+NON_FACTIVE: gisíid'waa.ang
+     gisíid+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: gisíid'aawaa.ang
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: gisíidang'waa
+     gisíid+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: gisíidang'waang
+     gisíid+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: gisíidang'waa.ang
+     gisíid+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: gisíid'wägiinii
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: gisíid'wägaangaa
+     gisíid+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: gisíid'wägaangaan
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: gisíid'waaäsaa
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: gisíid'waaäs
+     gisíid+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: gisíid'waaäsaang
+     gisíid+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gisíid'waaäsga
+     gisíid+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gisíid'waaäsaas
+     gisíid+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gisíid'waaäsaa.ang
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gisíid'waa.ang ñasa'áa
+     gisíid+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gisíid'waa.ang ñasa'áang
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdláa
+     gisíid+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdláang
+     gisíid+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gisíid'waa'uuj
+     gisíid+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gisíid'waa'uujang
+     gisíid+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gisíid'waaäsaa'uujang
+     gisíid+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: gisíid'waa'us
+     gisíid+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: gisíid'waa'ujaa
+     gisíid+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: gisíid'waa'uujaangaa
+     gisíid+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: gisíid'waaäsaa'us
+     gisíid+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: gisíid'waa'ahlanggang
+     gisíid+V+3rd_PERSON_PLURAL+CERTAIN+PAST: gisíid'waa'ahlanggan
+     gisíid+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: gisíid'waa'ahlanggiinii
+     gisíid+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: gisíid'waaäsaa'ahlans
+     gisíid+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: gisíid'waa'ahlans
+     gisíid+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: gisíid'aawaa'ahlang
+     gisíid+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: gisíid'aawaa'ahlanggaa
+     gisíid+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: gisíid'aawaa'ahlanggang
+     gisíid+V+3rd_PERSON_PLURAL+REFLEXIVE: gisíid'waa'ahl
+     gisíid+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: gisíid'waaäseehl
+     gisíid+V+NEGATIVE+SINGULAR+IMPERATIVE: gisíid'ang
+     gisíid+V+NEGATIVE+IMMEDIATE+PRESENT: gisíid'angga
+     gisíid+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: gisíid'ang
+     gisíid+V+NEGATIVE+SIMPLE+PRESENT: gisíid'anggang
+     gisíid+V+NEGATIVE+DIRECT+PAST: gisíid'anggan
+     gisíid+V+NEGATIVE+INTERROGATIVE+PAST: gisíid'aangaa
+     gisíid+V+NEGATIVE+INDIRECT+PAST: gisíid'aangaan
+     gisíid+V+NEGATIVE+RELATIVE: gisíid'ans
+     gisíid+V+NEGATIVE+RELATIVE+EVIDENTIAL: gisíid'aangaas
+     gisíid+V+NEGATIVE+NON_FACTIVE: gisíid'angang
+     gisíid+V+NEGATIVE+PAST+NON_FACTIVE: gisíid'aangaa.ang
+     gisíid+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: gisíid'anggang
+     gisíid+V+NEGATIVE+PRESENT+HABITUAL: gisíidang'anggang
+     gisíid+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: gisíidang'angang
+     gisíid+V+NEGATIVE+DIRECT+PAST+HABITUAL: gisíid'anggiinii
+     gisíid+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: gisíid'anggaangaa
+     gisíid+V+NEGATIVE+INDIRECT+PAST+HABITUAL: gisíid'anggaangaan
+     gisíid+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: gisíid'angäsaa
+     gisíid+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: gisíid'angäs
+     gisíid+V+NEGATIVE+SIMPLE+FUTURE: gisíid'angäsaang
+     gisíid+V+NEGATIVE+IMMEDIATE+FUTURE: gisíid'angäsga
+     gisíid+V+NEGATIVE+RELATIVE+FUTURE: gisíid'angäsaas
+     gisíid+V+NEGATIVE+FUTURE+NON_FACTIVE: gisíid'angäsaa.ang
+     gisíid+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gisíidang ñasaa'áng
+     gisíid+V+NEGATIVE+NEAR+FUTURE: gisíidang ñasaa'ánggang
+     gisíid+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gisíidang ñasaasdlä'áng
+     gisíid+V+NEGATIVE+VERYNEAR+FUTURE: gisíidang ñasaasdlä'ánggang
+     gisíid+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: gisíid'ang'uuj
+     gisíid+V+NEGATIVE+BIASED+SIMPLE+PRESENT: gisíid'ang'uujang
+     gisíid+V+NEGATIVE+RESIGNED_OBLIGATION: gisíid'angäsaa'uujang
+     gisíid+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: gisíid'ang'us
+     gisíid+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: gisíid'ang'ujaa
+     gisíid+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: gisíid'ang'uujaangaa
+     gisíid+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: gisíid'angäsaa'us
+     gisíid+V+NEGATIVE+CERTAIN+PRESENT: gisíid'aang'ahlanggang
+     gisíid+V+NEGATIVE+CERTAIN+PAST: gisíid'aang'ahlanggan
+     gisíid+V+NEGATIVE+CERTAIN+PAST+HABITUAL: gisíid'aang'ahlanggiinii
+     gisíid+V+NEGATIVE+CERTAIN+FUTURE: gisíid'angäsaa'ahlans
+     gisíid+V+NEGATIVE+CERTAIN+RELATIVE: gisíid'aang'ahlans
+     gisíid+V+NEGATIVE+INTENSIVE+PAST: gisíid'aangaa'ahlang
+     gisíid+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: gisíid'aangaa'ahlanggaa
+     gisíid+V+NEGATIVE+COUNTERFACTUAL+PRESENT: gisíid'aangaa'ahlanggang
+     gisíid+V+NEGATIVE+REFLEXIVE: gisíid'aang'ahl
+     gisíid+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: gisíid'angäseehl
+     gisíid+V+NEGATIVE+PLURAL+IMPERATIVE: gisíid'ang'uu
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: gisíid'ang'waa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: gisíid'ang'waa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: gisíid'ang'waang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: gisíid'ang'wägan
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: gisíid'ang'aawaa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: gisíid'ang'aawaan
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: gisíid'ang'waas
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: gisíid'ang'aawaas
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: gisíid'ang'waa.ang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: gisíid'ang'aawaa.ang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: gisíidang'ang'waa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: gisíidang'ang'waang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: gisíidang'ang'waa.ang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: gisíid'ang'wägiinii
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: gisíid'ang'wägaangaa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: gisíid'ang'wägaangaan
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: gisíid'ang'waaäsaa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: gisíid'ang'waaäs
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: gisíid'ang'waaäsaang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gisíid'ang'waaäsga
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gisíid'ang'waaäsaas
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gisíid'ang'waaäsaa.ang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gisíid'waa.ang ñasaa'áng
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gisíid'waa.ang ñasaa'ánggang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdlä'áng
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdlä'ánggang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gisíid'ang'waa'uuj
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gisíid'ang'waa'uujang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gisíid'ang'waaäsaa'uujang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: gisíid'ang'waa'us
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: gisíid'ang'waa'ujaa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: gisíid'ang'waa'uujaangaa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: gisíid'ang'waaäsaa'us
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: gisíid'ang'waa'ahlanggang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: gisíid'ang'waa'ahlanggan
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: gisíid'ang'waa'ahlanggiinii
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: gisíid'ang'waaäsaa'ahlans
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: gisíid'ang'waa'ahlans
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: gisíid'ang'aawaa'ahlang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: gisíid'ang'aawaa'ahlanggaa
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: gisíid'ang'aawaa'ahlanggang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: gisíid'ang'waa'ahl
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: gisíid'ang'waaäseehl
