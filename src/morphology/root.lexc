@@ -29,26 +29,36 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 !! Haida has these tags for real, says Jordan.
-+V	    !!= * @CODE@ = 
-+Basic  !!= * @CODE@ = 
-+Prs    !!= * @CODE@ = 
-+Hab    !!= * @CODE@ = 
-+Neg    !!= * @CODE@ = 
-+DPast  !!= * @CODE@ = 
-+PHab   !!= * @CODE@ = 
-+SFut   !!= * @CODE@ = 
-+IFut   !!= * @CODE@ = 
-+NFut   !!= * @CODE@ = 
-+3Pl    !!= * @CODE@ = 
-+YesNo  !!= * @CODE@ = 
-+Cmd    !!= * @CODE@ = 
-+Qst    !!= * @CODE@ = 
-+PlCmd  !!= * @CODE@ = 
-+IncCmd !!= * @CODE@ = 
-+Evid   !!= * @CODE@ = 
-
-+Aux   !!= * @CODE@ = for khasa
-+Fut   !!= * @CODE@ = for the mainverb linked to khasa (rather +ConFut?)
++V	!!= * @CODE@ = 
++NEGATIVE	!!= * @CODE@ = 
++3rd_PERSON_Plural	!!= * @CODE@ = 
++INTERROGATIVE	!!= * @CODE@ = 
++FUTURE	!!= * @CODE@ = 
++PAST	!!= * @CODE@ = 
++PRESENT	!!= * @CODE@ = 
++HABITUAL	!!= * @CODE@ = 
++BIASED	!!= * @CODE@ = 
++CERTAIN	!!= * @CODE@ = 
++SIMPLE	!!= * @CODE@ = 
++RELATIVE	!!= * @CODE@ = 
++NON_FACTIVE	!!= * @CODE@ = 
++IMMEDIATE	!!= * @CODE@ = 
++VERYNEAR	!!= * @CODE@ = 
++REFLEXIVE	!!= * @CODE@ = 
++NEAR	!!= * @CODE@ = 
++INDIRECT	!!= * @CODE@ = 
++DIRECT	!!= * @CODE@ = 
++SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	!!= * @CODE@ = 
++SHORT	!!= * @CODE@ = 
++RESIGNED_OBLIGATION	!!= * @CODE@ = 
++LONG	!!= * @CODE@ =
++INTENSIVE	!!= * @CODE@ = 
++IMPERATIVE	!!= * @CODE@ = 
++EVIDENTIAL	!!= * @CODE@ = 
++COUNTERFACTUAL	!!= * @CODE@ = 
++SINGULAR	!!= * @CODE@ = 
++Plural	!!= * @CODE@ = 
++PLURAL	!!= * @CODE@ = 
 
 !! The parts-of-speech could perhaps also be (remove irrelevant):
 
@@ -117,13 +127,13 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 LEXICON Root
 !! The word forms in Haida start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-   Prefixes    ;
-   Nouns   ;
+!!   Prefixes    ;
+!!   Nouns   ;
    Verbs   ;
-   Adjectives  ;
-!   Pronouns    ;
-   Numerals    ;
-   Postpositions ;
-   Particles ;
+!!   Adjectives  ;
+!!   Pronouns    ;
+!!   Numerals    ;
+!!   Postpositions ;
+!!   Particles ;
    
    
