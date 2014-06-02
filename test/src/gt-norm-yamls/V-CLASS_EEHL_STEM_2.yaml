@@ -1,0 +1,25 @@
+!! YAML file for Class CLASS_EEHL_STEM_2 verbs
+     hltanée.eehl+V+IMMEDIATE+PRESENT: hltanée.eelga
+     hltanée.eehl+V+SIMPLE+PRESENT: hltanée.eelgang
+     hltanée.eehl+V+DIRECT+PAST: hltanée.eelgan
+     hltanée.eehl+V+INTERROGATIVE+PAST: hltanée.eelaa
+     hltanée.eehl+V+INDIRECT+PAST: hltanée.eelaan
+     hltanée.eehl+V+RELATIVE+EVIDENTIAL: hltanée.eelaas
+     hltanée.eehl+V+PAST+NON_FACTIVE: hltanée.eelaa.ang
+     hltanée.eehl+V+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eelgang
+     hltanée.eehl+V+PRESENT+HABITUAL: hltanée.eelganggang
+     hltanée.eehl+V+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgangang
+     hltanée.eehl+V+DIRECT+PAST+HABITUAL: hltanée.eelgiinii
+     hltanée.eehl+V+INTERROGATIVE+PAST+HABITUAL: hltanée.eelgaangaa
+     hltanée.eehl+V+INDIRECT+PAST+HABITUAL: hltanée.eelgaangaan
+     hltanée.eehl+V+INTENSIVE+PAST: hltanée.eelaa'ahlang
+     hltanée.eehl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: hltanée.eelaa'ahlanggaa
+     hltanée.eehl+V+COUNTERFACTUAL+PRESENT: hltanée.eelaa'ahlanggang
+     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eelgang'waa
+     hltanée.eehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hltanée.eelgang'waang
+     hltanée.eehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgang'waa.ang
+     hltanée.eehl+V+NEGATIVE+PRESENT+HABITUAL: hltanée.eelgang'anggang
+     hltanée.eehl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgang'angang
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eelgang'ang'waa
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hltanée.eelgang'ang'waang
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgang'ang'waa.ang
