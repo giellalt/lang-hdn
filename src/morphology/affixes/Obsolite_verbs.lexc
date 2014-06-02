@@ -1,0 +1,687 @@
+!! Verb inflection
+!  ---------------
+!! Haida verb morphology
+
+LEXICON AUX
+
++V+Aux+3Pl+IFut:khasaasdláang			    # ;
++V+Aux+3Pl+NFut:khasaqáang				    # ;
++V+Aux+Hab+3Pl+IFut:khasaasdláang		    # ;
++V+Aux+Hab+3Pl+NFut:khasaqáang			    # ;
++V+Aux+Hab+IFut:khasaasdláang			    # ;
++V+Aux+Hab+NFut:khasaqáang				    # ;
++V+Aux+Hab+Neg+3Pl+IFut:khasaasdläqánggang  # ;
++V+Aux+Hab+Neg+3Pl+NFut:khasaaqánggang	    # ;
++V+Aux+Hab+Neg+IFut:khasaasdläqánggang	    # ;
++V+Aux+Hab+Neg+NFut:khasaaqánggang		    # ;
++V+Aux+IFut:khasaasdláang				    # ;
++V+Aux+NFut:khasaqáang					    # ;
++V+Aux+Neg+3Pl+IFut:khasaasdläqánggang	    # ;
++V+Aux+Neg+3Pl+NFut:khasaaqánggang		    # ;
++V+Aux+Neg+IFut:khasaasdläqánggang		    # ;
++V+Aux+Neg+NFut:khasaaqánggang			    # ;
+
+
+LEXICON VB-aa
++V+Inf: # ;
++V: aaHABLEX ;
++V: aaNegLEX ;
++V: aaEvidLEX ;
++V: aa3PLLEX ;
++V: aaFinalsLEX ;
++V+Fut:%>qang # ;
+
+LEXICON aaHABLEX
++Hab:%>gáng # ;
++Hab:%>gáng angNegLEX ;
++Hab:%>gáng angFinalsLEX ;
++Hab+Neg+Fut:%>gangang # ;
++NFut:%>qang% khasaqáang # ;
++Hab:%>gáng ang3PLLEX ;
+          
+LEXICON aaEvidLEX 
++3Pl+Evid:%>qaawaa # ;
++Evid:%>gaa # ;
++Hab+3Pl+Evid:%>qwägaangaa # ;
++Hab+Evid:%>gaangaa # ;
++Hab+Neg+3Pl+Evid:%>qangqwägaangaa # ;
++Hab+Neg+Evid:%>qanggaangaa # ;
++Neg+3Pl+Evid:%>qangqaawaa # ;
++Neg+Evid:%>qaangaa # ;
+
++3Pl+IPast:%>qaawaan # ;
++Hab+3Pl+IPast:%>qwägaangaan # ;
++Hab+IPast:%>gaangaan # ;
++Hab+Neg+3Pl+IPast:%>qangqwägaangaan # ;
++Hab+Neg+IPast:%>qanggaangaan # ;
++IPast:%>gaan # ;
++Neg+3Pl+IPast:%>qangqaawaan # ;
++Neg+IPast:%>qaangaan # ;
+            
+LEXICON angNegLEX 
+aaNegLEX ; ! well, identical
+
+LEXICON aaNegLEX 
++Neg:%>qang # ;
++Neg:%>qang ang3PLLEX ;
++Neg:%>qang angFinalsLEX ;
++Neg+Fut:%>qang # ;
+
+LEXICON ang3PLLEX 
+aa3PLLEX ; ! well, identical
+
+LEXICON aa3PLLEX 
++3Pl:%>qwaa # ;
++3Pl:%>qwä qwaFinalsLEX ;
++3Pl+SFut:%>qwaasaang # ;
+
+LEXICON qwaFinalsLEX
++Prs:%>ang # ;
++DPast:%>gan # ; 
++PHab:%>giinii # ;
++Fut:%>qang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
+
+LEXICON angFinalsLEX
++Prs:%>gang # ;
++DPast:%>gan # ; 
++PHab:%>giinii # ;
++SFut:%>saang # ;
++Fut:%>qang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++IPast:%>aan # ;
+
+LEXICON aaFinalsLEX
++Prs:%>gang # ;
++DPast:%>gan # ; 
++PHab:%>giinii # ;
++SFut:%>saang # ;
++Fut:%>qang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++IPast:%>gaan # ;
+
+
+! Finals-A
+
+!LEXICON VB-aa
+!+V:      Neg ;
+!+V:      Hab-gang ;
+!+V:      3Pl ;
+!+V:      Finals-A ;
+!+V+Inf:      # ;
+
+LEXICON VB-i
+VB-aa ; ! awaiting work
+
+LEXICON VB-ii
+VB-aa ; ! awaiting work
+
+
+! Finals-B
+
+LEXICON VB-ing
++V:      Neg ;
++V:%^A2Y      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-aal
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-aang 
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-aahl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-ang
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-eehl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+
+LEXICON VB-ung
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-ahl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-iihl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+LEXICON VB-uuhl
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-B ;
++V+Inf:      # ;
+
+
+
+! Finals-C
+
+LEXICON VB-aan
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V+Inf:      # ;
+
+LEXICON VB-an
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V+Inf:      # ;
+
+LEXICON VB-in
++V:      Neg ;
++V:      Hab-zgang ;
++V:      3Pl ;
++V:      Finals-C ;
++V+Inf:      # ;
+
+
+! Finals-D
+
+LEXICON VB-ah
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-D ;
++V+Inf:      # ;
+
+
+! Finals-E
+
+LEXICON VB-iid
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-ad
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-ud
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-as
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+LEXICON VB-is
++V:      Neg ;
++V:      Hab-ang ;
++V:      3Pl ;
++V:      Finals-E ;
++V+Inf:      # ;
+
+
+! Finals-F
+
+LEXICON VB-uu
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-F ;
++V+Inf:      # ;
+
+
+! Finals-G
+
+LEXICON VB-ä
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-G ;
++V+Inf:      # ;
+
+LEXICON VB-aqä
++V:      Neg ;
++V:      Hab-gang ;
++V:      3Pl ;
++V:      Finals-G ;
++V+Inf:      # ;
+
+
+! Intermediates
+
+
+LEXICON Neg
++Neg:%>qang # ;
+!+Neg:%>qang Hab-gang ; ! +Neg+Hab?
++Neg:%>qang 3Pl ;
++Neg:%>qang Finals-A ;
+
++Neg+DPast:%>qangan # ; ! trond typo ?
++Neg+Evid:%>qaangaa # ; ! trond
++Neg+IPast:%>qaangaan # ; ! trond
+ 
+LEXICON Hab-gang
+3Pl ;
++Hab:%>gang # ;
++Hab:%>gang 3Pl ;
++Hab:%>gang Finals-A ;
++Hab+Evid:%>gaangaa # ;
++Hab+IPast:%>gaangaan # ;
++Hab+Neg+Prs:%>gangqanggang # ;
++Hab+Neg+SFut:%>gangqangsaang # ;
++Hab+Neg+Evid:%>qanggaangaa # ;
++Hab+Neg+IPast:%>qanggaangaan # ;
+
+LEXICON Hab-zgang ! This must be checked ??!
+:z Hab-gang ;
+
+
+LEXICON Hab-hyphen-gang
++Hab:%>zgang # ;
++Hab:%>zgang 3Pl ;
++Hab:%>zgang Finals-A ;
+
+LEXICON Hab-ang
++Hab:%>gang # ;
++Hab:%>gang 3Pl ;
++Hab:%>gang Finals-A ;
++Hab+3Pl+Evid:%>qwägaangaa # ;
+
+LEXICON 3Pl
++3Pl:%>qwaa # ;
++3Pl:%>qwä Finals-G ; ! ??
++3Pl+Evid:%>qaawaa # ;
++3Pl+Prs:%>qwaang # ;
++3Pl+SFut:%>qwaasaang # ;
++3Pl+IPast:%>qaawaan # ;
+
+
+! Finals
+
+LEXICON Finals-A
++Prs:%>gang # ;
++DPast:%>gan # ; ! typo ?
+!+DPast:%>an # ;   ! typo ?
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>gaa # ;
++IPast:%>gaan # ;
+
+LEXICON Finals-B
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-C
++Prs:%>zgang # ;
++DPast:%>zgan # ;
++PHab:%>zgiinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-D
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>gaa # ;
++IPast:%>gaan # ;
+
+LEXICON Finals-E
++Prs:%>ang # ;
++DPast:%>an # ;
++PHab:%>iinii # ;
++SFut:%>saang # ;
++NFut:%>ang% khasaqáang # ;
++IFut:%>ang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-F
++Prs:%>gang # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>aa # ;
++IPast:%>aan # ;
+
+LEXICON Finals-G
++Prs:%>ng # ;
++DPast:%>gan # ;
++PHab:%>giinii # ;
++SFut:%>saang # ;
++NFut:%>qang% khasaqáang # ;
++IFut:%>qang% khasaasdláang # ;
++PlCmd:%>quu # ;
++IncCmd:%>tsqan # ;
++Evid:%>yaa # ;
++IPast:%>yaan # ;
+
+
+
+
+
+
+LEXICON OldJunk
++V+Basic: # ;
++V+Prs:%>gang # ;
++V+Neg+Prs:%>qanggang # ;
++V+Hab+Prs:%>ganggang # ;
++V+Hab+Neg+Prs:%>gangqanggang # ;
++V+DPast:%>gan # ;
++V+Neg+DPast:%>qanggan # ;
++V+PHab:%>giinii # ;
++V+Neg+PHab:%>qanggiinii # ;
++V+SFut:%>saang # ;
++V+Neg+SFut:%>qangsaang # ;
++V+NFut:%>qang% khasaqáang # ;
++V+Neg+NFut:%>qang% khasaaqánggang # ;
++V+IFut:%>qang% khasaasdláang # ;
++V+Neg+IFut:%>qang% khasaasdläqánggang # ;
++V+3Pl+Basic:%>qwaa # ;
++V+3Pl+Prs:%>qwaang # ;
++V+3Pl+Neg+Prs:%>qangqwaang # ;
++V+3Pl+Hab+Prs:%>gangqwaang # ;
++V+3Pl+Hab+Neg+Prs:%>gangqangqwaang # ;
++V+3Pl+DPast:%>qwägan # ;
++V+3Pl+Neg+DPast:%>qangqwägan # ;
++V+3Pl+PHab:%>qwägiinii # ;
++V+3Pl+Neg+PHab:%>qangqwägiinii # ;
++V+3Pl+SFut:%>qwaasaang # ;
++V+3Pl+Neg+SFut:%>qangqwaasaang # ;
++V+3Pl+NFut:%>qwaaqang% khasaqáang # ;
++V+3Pl+Neg+NFut:%>qwaaqang% khasaaqánggang # ;
++V+3Pl+IFut:%>qwaaqang% khasaasdláang # ;
++V+3Pl+Neg+IFut:%>qwaaqang% khasaasdäqánggang # ;
++V+YesNo+Basic: # ;
++V+YesNo+Prs: # ;
++V+YesNo+Neg+Prs:%>qang # ;
++V+YesNo+Hab+Prs:%>gang # ;
++V+YesNo+Hab+Neg+Prs:%>gangqang # ;
++V+YesNo+DPast:%>gaa # ;
++V+YesNo+Neg+DPast:%>qaangaa # ;
++V+YesNo+PHab:%>gaangaa # ;
++V+YesNo+Neg+PHab:%>qanggaangaa # ;
++V+YesNo+SFut:%>saa # ;
++V+YesNo+Neg+SFut:%>qangsaa # ;
++V+YesNo+NFut:%>qang% khasaqáa # ;
++V+YesNo+Neg+NFut:%>qang% khasaaqáng # ;
++V+YesNo+IFut:%>qang% khasaasdláa # ;
++V+YesNo+Neg+IFut:%>qang% khasaasdläqáng # ;
++V+YesNo+3Pl+Basic:%>qwaa # ;
++V+YesNo+3Pl+Prs:%>qwaa # ;
++V+YesNo+3Pl+Neg+Prs:%>qangqwaa # ;
++V+YesNo+3Pl+Hab+Prs:%>gangqwaa # ;
++V+YesNo+3Pl+Hab+Neg+Prs:%>gangqangqwaa # ;
++V+YesNo+3Pl+DPast:%>qaawaa # ;
++V+YesNo+3Pl+Neg+DPast:%>qangqaawaa # ;
++V+YesNo+3Pl+PHab:%>qugaangaa # ;
++V+YesNo+3Pl+Neg+PHab:%>qangqugaangaa # ;
++V+YesNo+3Pl+SFut:%>qwaasaa # ;
++V+YesNo+3Pl+Neg+SFut:%>qangqwaasaa # ;
++V+YesNo+3Pl+NFut:%>qwaaqang% khasaqáa # ;
++V+YesNo+3Pl+Neg+NFut:%>qwaaqang% khasaaqáng # ;
++V+YesNo+3Pl+IFut:%>qwaaqang% khasaasdláa # ;
++V+YesNo+3Pl+Neg+IFut:%>qwaaqang% khasaasdläqáng # ;
++V+Qst+DPast:%>gaa # ;
++V+Qst+Neg+DPast:%>qaangaa # ;
++V+Qst+3Pl+DPast:%>qaawaa # ;
++V+Qst+3Pl+Neg+DPast:%>qangqaawaa # ;
++V+Qst+PHab:%>gaangaa # ;
++V+Qst+Neg+PHab:%>qanggaangaa # ;
++V+Qst+3Pl+PHab:%>qugaangaa # ;
++V+Qst+3Pl+Neg+PHab:%>qangqugaangaa # ;
++V+Cmd: # ;
++V+Cmd+Neg:%>qang # ;
++V+PlCmd:%>quu # ;
++V+PlCmd+Neg:%>qangquu # ;
++V+IncCmd:%>tsqan # ;
++V+IncCmd+Neg:%>qang% tsqan # ;
+
+
+
+! Even older junk
+
+LEXICON ASP
++Hab:%>gang NEG ;
+NEG ;
+
+
+LEXICON NEG
++Neg:%>qang TNS ;
+TNS ;
+ 
+LEXICON TNS 
++Prs:%>gan # ;
++Prt:%>ang # ;
++Fut:%>saang # ;
+
+
+
+! LEXICON VB-aal
+! +V+Basic: # ;
+! +V+Prs: # ;
+! +V+Neg+Prs: # ;
+! +V+Hab+Prs: # ;
+! +V+Hab+Neg+Prs: # ;
+! +V+DPast: # ;
+! +V+Neg+DPast: # ;
+! +V+PHab: # ;
+! +V+Neg+PHab: # ;
+! +V+SFut: # ;
+! +V+Neg+SFut: # ;
+! +V+NFut: # ;
+! +V+Neg+NFut: # ;
+! +V+IFut: # ;
+! +V+Neg+IFut: # ;
+! +V+3Pl+Basic: # ;
+! +V+3Pl+Prs: # ;
+! +V+3Pl+Neg+Prs: # ;
+! +V+3Pl+Hab+Prs: # ;
+! +V+3Pl+Hab+Neg+Prs: # ;
+! +V+3Pl+DPast: # ;
+! +V+3Pl+Neg+DPast: # ;
+! +V+3Pl+PHab: # ;
+! +V+3Pl+Neg+PHab: # ;
+! +V+3Pl+SFut: # ;
+! +V+3Pl+Neg+SFut: # ;
+! +V+3Pl+NFut: # ;
+! +V+3Pl+Neg+NFut: # ;
+! +V+3Pl+IFut: # ;
+! +V+3Pl+Neg+IFut: # ;
+! +V+YesNo+Basic: # ;
+! +V+YesNo+Prs: # ;
+! +V+YesNo+Neg+Prs: # ;
+! +V+YesNo+Hab+Prs: # ;
+! +V+YesNo+Hab+Neg+Prs: # ;
+! +V+YesNo+DPast: # ;
+! +V+YesNo+Neg+DPast: # ;
+! +V+YesNo+PHab: # ;
+! +V+YesNo+Neg+PHab: # ;
+! +V+YesNo+SFut: # ;
+! +V+YesNo+Neg+SFut: # ;
+! +V+YesNo+NFut: # ;
+! +V+YesNo+Neg+NFut: # ;
+! +V+YesNo+IFut: # ;
+! +V+YesNo+Neg+IFut: # ;
+! +V+YesNo+3Pl+Basic: # ;
+! +V+YesNo+3Pl+Prs: # ;
+! +V+YesNo+3Pl+Neg+Prs: # ;
+! +V+YesNo+3Pl+Hab+Prs: # ;
+! +V+YesNo+3Pl+Hab+Neg+Prs: # ;
+! +V+YesNo+3Pl+DPast: # ;
+! +V+YesNo+3Pl+Neg+DPast: # ;
+! +V+YesNo+3Pl+PHab: # ;
+! +V+YesNo+3Pl+Neg+PHab: # ;
+! +V+YesNo+3Pl+SFut: # ;
+! +V+YesNo+3Pl+Neg+SFut: # ;
+! +V+YesNo+3Pl+NFut: # ;
+! +V+YesNo+3Pl+Neg+NFut: # ;
+! +V+YesNo+3Pl+IFut: # ;
+! +V+YesNo+3Pl+Neg+IFut: # ;
+! +V+Qst+DPast: # ;
+! +V+Qst+Neg+DPast: # ;
+! +V+Qst+3Pl+DPast: # ;
+! +V+Qst+3Pl+Neg+DPast: # ;
+! +V+Qst+PHab: # ;
+! +V+Qst+Neg+PHab: # ;
+! +V+Qst+3Pl+PHab: # ;
+! +V+Qst+3Pl+Neg+PHab: # ;
+! +V+Command: # ;
+! +V+Command+Neg: # ;
+! +V+PluralCommand: # ;
+! +V+PluralCommand+Neg: # ;
+! +V+InclusiveCommand: # ;
+! +V+InclusiveCommand+Neg: # ;
+
+
+
+! 
+! LEXICON VB-aa
+! VB-aa ;
+! 
+! LEXICON VB-aahl
+! VB-aa ;
+! 
+! LEXICON VB-aal
+! VB-aa ;
+! 
+! LEXICON VB-aan
+! VB-aa ;
+! 
+! LEXICON VB-aang
+! VB-aa ;
+! 
+! LEXICON VB-ad
+! VB-aa ;
+! 
+! LEXICON VB-ah
+! VB-aa ;
+! 
+! LEXICON VB-ahl
+! VB-aa ;
+! 
+! LEXICON VB-an
+! VB-aa ;
+! 
+! LEXICON VB-ang
+! VB-aa ;
+! 
+! LEXICON VB-aqä
+! VB-aa ;
+! 
+! LEXICON VB-as
+! VB-aa ;
+! 
+! LEXICON VB-eehl
+! VB-aa ;
+! 
+! LEXICON VB-i
+! VB-aa ;
+! 
+! LEXICON VB-ii
+! VB-aa ;
+! 
+! LEXICON VB-iid
+! VB-aa ;
+! 
+! LEXICON VB-iihl
+! VB-aa ;
+! 
+! LEXICON VB-ing
+! VB-aa ;
+! 
+! LEXICON VB-is
+! VB-aa ;
+! 
+! LEXICON VB-ud
+! VB-aa ;
+! 
+! LEXICON VB-ung
+! VB-aa ;
+! 
+! LEXICON VB-uu
+! VB-aa ;
+! 
+! LEXICON VB-uuhl
+! VB-aa ;
+! 
+! LEXICON VB-ä
+! VB-aa ;
+! 
+LEXICON VN-in
+VB-aa ;
+ 
