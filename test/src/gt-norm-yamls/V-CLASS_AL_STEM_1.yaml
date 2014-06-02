@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AL_STEM_1 verbs
+# YAML file for Class CLASS_AL_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AL_STEM_1
+
      sçál+V+SINGULAR+IMPERATIVE: sçál
      sçál+V+IMMEDIATE+PRESENT: sçálga
      sçál+V+INTERROGATIVE+SIMPLE+PRESENT: sçál

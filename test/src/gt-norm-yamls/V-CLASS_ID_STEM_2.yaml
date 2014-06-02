@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_ID_STEM_2 verbs
+# YAML file for Class CLASS_ID_STEM_2 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_ID_STEM_2
+
      kúnid+V+IMMEDIATE+PRESENT: kúniida
      kúnid+V+SIMPLE+PRESENT: kúniidang
      kúnid+V+DIRECT+PAST: kúniidan

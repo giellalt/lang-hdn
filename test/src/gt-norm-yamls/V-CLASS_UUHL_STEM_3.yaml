@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_UUHL_STEM_3 verbs
+# YAML file for Class CLASS_UUHL_STEM_3 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_UUHL_STEM_3
+
      t'ahlgúuhl+V+INTERROGATIVE+PAST: t'ahlgwáalaa
      t'ahlgúuhl+V+INDIRECT+PAST: t'ahlgwáalaan
      t'ahlgúuhl+V+RELATIVE+EVIDENTIAL: t'ahlgwáalaas

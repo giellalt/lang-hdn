@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_US_STEM_1 verbs
+# YAML file for Class CLASS_US_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_US_STEM_1
+
      kus+V+SINGULAR+IMPERATIVE: kus
      kus+V+INTERROGATIVE+SIMPLE+PRESENT: kus
      kus+V+RELATIVE: kuss

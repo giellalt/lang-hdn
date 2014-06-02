@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AL_STEM_2 verbs
+# YAML file for Class CLASS_AL_STEM_2 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AL_STEM_2
+
      sçál+V+INTERROGATIVE+PAST: sçáalaa
      sçál+V+INDIRECT+PAST: sçáalaan
      sçál+V+RELATIVE+EVIDENTIAL: sçáalaas
