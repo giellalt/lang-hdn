@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_UN_STEM_1 verbs
+# YAML file for Class CLASS_UN_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_UN_STEM_1
+
      kún+V+SINGULAR+IMPERATIVE: ta kún0 ta
      kún+V+IMMEDIATE+PRESENT: ta kún.ga ta
      kún+V+INTERROGATIVE+SIMPLE+PRESENT: ta kún0 ta

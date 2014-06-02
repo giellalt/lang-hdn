@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_E.EHL_STEM_2 verbs
+# YAML file for Class CLASS_E.EHL_STEM_2 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_E.EHL_STEM_2
+
      ñáat'e.ehl+V+SINGULAR+IMPERATIVE: xál ñáat'eehl xál
      ñáat'e.ehl+V+IMMEDIATE+PRESENT: xál ñáat'eehlga xál
      ñáat'e.ehl+V+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl xál

@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_IIHL_STEM_1 verbs
+# YAML file for Class CLASS_IIHL_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_IIHL_STEM_1
+
      níihl+V+SINGULAR+IMPERATIVE: níihl
      níihl+V+INTERROGATIVE+SIMPLE+PRESENT: níihl
      níihl+V+RELATIVE: níihls

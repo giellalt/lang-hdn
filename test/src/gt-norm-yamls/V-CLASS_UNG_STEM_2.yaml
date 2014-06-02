@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_UNG_STEM_2 verbs
+# YAML file for Class CLASS_UNG_STEM_2 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_UNG_STEM_2
+
      ñ'usägúng+V+INTERROGATIVE+PAST: ñ'usägwáangaa
      ñ'usägúng+V+INDIRECT+PAST: ñ'usägwáangaan
      ñ'usägúng+V+RELATIVE+EVIDENTIAL: ñ'usägwáangaas

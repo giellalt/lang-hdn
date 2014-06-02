@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_IS_STEM_1 verbs
+# YAML file for Class CLASS_IS_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_IS_STEM_1
+
      is+V+SINGULAR+IMPERATIVE: kíl is kíl
      is+V+INTERROGATIVE+SIMPLE+PRESENT: kíl is kíl
      is+V+RELATIVE: kíl iss kíl

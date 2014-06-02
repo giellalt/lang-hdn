@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AAW verbs
+# YAML file for Class CLASS_AAW verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AAW
+
      sánaaw+V+SINGULAR+IMPERATIVE: sánaaw
      sánaaw+V+IMMEDIATE+PRESENT: sánaawga
      sánaaw+V+INTERROGATIVE+SIMPLE+PRESENT: sánaaw

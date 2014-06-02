@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_A_STEM_3 verbs
+# YAML file for Class CLASS_A_STEM_3 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_A_STEM_3
+
      ñíiya+V+SINGULAR+IMPERATIVE: ñíiyaa
      ñíiya+V+IMMEDIATE+PRESENT: ñíiyaa
      ñíiya+V+INTERROGATIVE+SIMPLE+PRESENT: ñíiyaa

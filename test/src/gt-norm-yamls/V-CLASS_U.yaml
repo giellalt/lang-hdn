@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_U verbs
+# YAML file for Class CLASS_U verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_U
+
      çu+V+SINGULAR+IMPERATIVE: tla çu tla
      çu+V+IMMEDIATE+PRESENT: tla çuga tla
      çu+V+INTERROGATIVE+SIMPLE+PRESENT: tla çu tla

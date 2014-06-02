@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AS_STEM_3 verbs
+# YAML file for Class CLASS_AS_STEM_3 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AS_STEM_3
+
      dándas+V+INTERROGATIVE+PAST: dándajaa
      dándas+V+INDIRECT+PAST: dándajaan
      dándas+V+RELATIVE+EVIDENTIAL: dándajaas
