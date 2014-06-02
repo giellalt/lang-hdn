@@ -1,4 +1,4 @@
-!! YAML file for Class AA verbs
+! LEXICON CLASS_AA
 
 gatáa+V+SINGULAR+IMPERATIVE: gatáa
 : gatáaga                          gatáa+V+IMMEDIATE+PRESENT
