@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_IN_STEM_1 verbs
+# YAML file for Class CLASS_IN_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_IN_STEM_1
+
      ín+V+SINGULAR+IMPERATIVE: kyáambda ín kyáambda
      ín+V+IMMEDIATE+PRESENT: kyáambda ín.ga kyáambda
      ín+V+INTERROGATIVE+SIMPLE+PRESENT: kyáambda ín kyáambda

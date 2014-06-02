@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_EEHL_STEM_1 verbs
+# YAML file for Class CLASS_EEHL_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_EEHL_STEM_1
+
      hltanée.eehl+V+SINGULAR+IMPERATIVE: hltanée.eehl
      hltanée.eehl+V+INTERROGATIVE+SIMPLE+PRESENT: hltanée.eehl
      hltanée.eehl+V+RELATIVE: hltanée.eehls

@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_UHL_STEM_2 verbs
+# YAML file for Class CLASS_UHL_STEM_2 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_UHL_STEM_2
+
      ñáaguhl+V+IMMEDIATE+PRESENT: ñáagulga
      ñáaguhl+V+SIMPLE+PRESENT: ñáagulgang
      ñáaguhl+V+DIRECT+PAST: ñáagulgan

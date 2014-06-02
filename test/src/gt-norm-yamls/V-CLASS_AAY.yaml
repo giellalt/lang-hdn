@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AAY verbs
+# YAML file for Class CLASS_AAY verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AAY
+
      jadahlgwáay+V+SINGULAR+IMPERATIVE: jadahlgwáay
      jadahlgwáay+V+IMMEDIATE+PRESENT: jadahlgwáayga
      jadahlgwáay+V+INTERROGATIVE+SIMPLE+PRESENT: jadahlgwáay

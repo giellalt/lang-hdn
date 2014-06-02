@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AYD verbs
+# YAML file for Class CLASS_AYD verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AYD
+
      káa.ayd+V+SINGULAR+IMPERATIVE: káa.ayd
      káa.ayd+V+IMMEDIATE+PRESENT: káa.ayda
      káa.ayd+V+INTERROGATIVE+SIMPLE+PRESENT: káa.ayd

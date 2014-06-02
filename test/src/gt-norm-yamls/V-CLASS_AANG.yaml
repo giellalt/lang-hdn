@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_AANG verbs
+# YAML file for Class CLASS_AANG verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_AANG
+
      ñínyaang+V+SINGULAR+IMPERATIVE: ñínyaang
      ñínyaang+V+IMMEDIATE+PRESENT: ñínyaangga
      ñínyaang+V+INTERROGATIVE+SIMPLE+PRESENT: ñínyaang

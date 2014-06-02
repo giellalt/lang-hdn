@@ -1,4 +1,18 @@
-!! YAML file for Class CLASS_UNG_STEM_1 verbs
+# YAML file for Class CLASS_UNG_STEM_1 verbs
+
+Config:
+ hfst:
+  Gen: ../../../src/generator-gt-norm.hfst
+  Morph: ../../../src/analyser-gt-norm.hfst
+ xerox:
+  Gen: ../../../src/generator-gt-norm.xfst
+  Morph: ../../../src/analyser-gt-norm.xfst
+  App: lookup
+
+Tests:
+
+    # CLASS_UNG_STEM_1
+
      ñ'usägúng+V+SINGULAR+IMPERATIVE: ñ'usägúng
      ñ'usägúng+V+IMMEDIATE+PRESENT: ñ'usägúngga
      ñ'usägúng+V+INTERROGATIVE+SIMPLE+PRESENT: ñ'usägúng
