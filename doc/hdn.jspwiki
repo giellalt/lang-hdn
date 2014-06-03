@@ -24,26 +24,36 @@ in this system in terms of following symbols.
 
 
 Haida has these tags for real, says Jordan.
- * +V	     = 
- * +Basic   = 
- * +Prs     = 
- * +Hab     = 
- * +Neg     = 
- * +DPast   = 
- * +PHab    = 
- * +SFut    = 
- * +IFut    = 
- * +NFut    = 
- * +3Pl     = 
- * +YesNo   = 
- * +Cmd     = 
- * +Qst     = 
- * +PlCmd   = 
- * +IncCmd  = 
- * +Evid    = 
-
- * +Aux    = for khasa
- * +Fut    = for the mainverb linked to khasa (rather +ConFut?)
+ * +V	 = 
+ * +NEGATIVE	 = 
+ * +3rd_PERSON_Plural	 = 
+ * +INTERROGATIVE	 = 
+ * +FUTURE	 = 
+ * +PAST	 = 
+ * +PRESENT	 = 
+ * +HABITUAL	 = 
+ * +BIASED	 = 
+ * +CERTAIN	 = 
+ * +SIMPLE	 = 
+ * +RELATIVE	 = 
+ * +NON_FACTIVE	 = 
+ * +IMMEDIATE	 = 
+ * +VERYNEAR	 = 
+ * +REFLEXIVE	 = 
+ * +NEAR	 = 
+ * +INDIRECT	 = 
+ * +DIRECT	 = 
+ * +SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	 = 
+ * +SHORT	 = 
+ * +RESIGNED_OBLIGATION	 = 
+ * +LONG	 =
+ * +INTENSIVE	 = 
+ * +IMPERATIVE	 = 
+ * +EVIDENTIAL	 = 
+ * +COUNTERFACTUAL	 = 
+ * +SINGULAR	 = 
+ * +Plural	 = 
+ * +PLURAL	 = 
 
 The parts-of-speech could perhaps also be (remove irrelevant):
 
@@ -107,5 +117,12 @@ Non-dictionary words can be recognised with:
 
 The word forms in Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+  Prefixes    ;
+  Nouns   ;
+  Adjectives  ;
+  Pronouns    ;
+  Numerals    ;
+  Postpositions ;
+  Particles ;
 
 
