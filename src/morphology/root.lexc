@@ -95,8 +95,8 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! The nominals are inflected in the following Number
 
-+Sg
-+Pl
++Sg   !!= * @CODE@ =
++Pl   !!= * @CODE@ =
 
 
 ! Abbreviated words are classified with:
@@ -127,13 +127,13 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 LEXICON Root
 !! The word forms in Haida start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-!!   Prefixes    ;
-!!   Nouns   ;
-   Verbs   ;
-!!   Adjectives  ;
-!!   Pronouns    ;
-!!   Numerals    ;
-!!   Postpositions ;
-!!   Particles ;
+!   Prefixes    ;
+!   Nouns   ;
+  Verbs   ;    !!= * @CODE@ 
+!   Adjectives  ;
+!   Pronouns    ;
+!   Numerals    ;
+!   Postpositions ;
+!   Particles ;
    
    
