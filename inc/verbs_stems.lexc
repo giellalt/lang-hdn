@@ -3501,7 +3501,7 @@ gúnsdayaa CLASS-AA "for S to be considered to last a long time, for S to be tir
 gúnts'uldang CLASS-ANG-STEM-1 "for S to fin very slowly [said of salmon only]" ;
 gúnts'uldang:gúnts'uldaang CLASS-ANG-STEM-2 "for S to fin very slowly [said of salmon only]" ;
 
-gúuhl CLASS-UUHl-STEM-1 "for S to be in love with X, infatuated with X" ;
+gúuhl CLASS-UUHL-STEM-1 "for S to be in love with X, infatuated with X" ;
 gúuhl:gúl CLASS-UUHL-STEM-2 "for S to be in love with X, infatuated with X" ;
 gúuhl:gwáal CLASS-UUHL-STEM-3 "for S to be in love with X, infatuated with X" ;
 
@@ -10758,7 +10758,7 @@ INS% skúna:INS% skúnáa CLASS-A-STEM-3 "for S to clean, work at cleaning C" ;
 
 INS% skúnayaa CLASS-AA "for S to have been cleaned, cleaned up" ;
 
-INS% sk'úuhl CLASS-UUHl-STEM-1 "for S to make C watertight, waterproof, plug the holes in C" ;
+INS% sk'úuhl CLASS-UUHL-STEM-1 "for S to make C watertight, waterproof, plug the holes in C" ;
 INS% sk'úuhl:INS% sk'úl CLASS-UUHL-STEM-2 "for S to make C watertight, waterproof, plug the holes in C" ;
 INS% sk'úuhl:INS% sk'wáal CLASS-UUHL-STEM-3 "for S to make C watertight, waterproof, plug the holes in C" ;
 
@@ -12224,7 +12224,7 @@ jáadgal% da%.a:jáadgal% da%.áa CLASS-A-STEM-3 "for S to have female clanmates
 
 jáadgalaa CLASS-AA "for S (pl) to be clanmates of X" ;
 
-jáagä% gúuhl CLASS-UUHl-STEM-1 "for S to be in love" ;
+jáagä% gúuhl CLASS-UUHL-STEM-1 "for S to be in love" ;
 jáagä% gúuhl:jáagä% gúl CLASS-UUHL-STEM-2 "for S to be in love" ;
 jáagä% gúuhl:jáagä% gwáal CLASS-UUHL-STEM-3 "for S to be in love" ;
 
@@ -22104,7 +22104,7 @@ skúnada CLASS-A-STEM-1 "for S to keep C clean" ;
 skúnada:skúnadä CLASS-A-STEM-2 "for S to keep C clean" ;
 skúnada:skúnadáa CLASS-A-STEM-3 "for S to keep C clean" ;
 
-sk'úuhl CLASS-UUHl-STEM-1 "for S to be watertight, waterproof" ;
+sk'úuhl CLASS-UUHL-STEM-1 "for S to be watertight, waterproof" ;
 sk'úuhl:sk'úl CLASS-UUHL-STEM-2 "for S to be watertight, waterproof" ;
 sk'úuhl:sk'wáal CLASS-UUHL-STEM-3 "for S to be watertight, waterproof" ;
 
@@ -24196,7 +24196,7 @@ tahl% skáawsda:tahl% skáawsdáa CLASS-A-STEM-3 "for S to bounce off of X [said
 tahl% skáa%.unang CLASS-ANG-STEM-1 "for S (sg) {skáa} to bounce and roll [said of a ball only]" ;
 tahl% skáa%.unang:tahl% skáa%.unaang CLASS-ANG-STEM-2 "for S (sg) {skáa} to bounce and roll [said of a ball only]" ;
 
-t'ahlgúuhl CLASS-UUHl-STEM-1 "for S to put or wrap O around their shoulders" ;
+t'ahlgúuhl CLASS-UUHL-STEM-1 "for S to put or wrap O around their shoulders" ;
 t'ahlgúuhl:t'ahlgúl CLASS-UUHL-STEM-2 "for S to put or wrap O around their shoulders" ;
 t'ahlgúuhl:t'ahlgwáal CLASS-UUHL-STEM-3 "for S to put or wrap O around their shoulders" ;
 
@@ -25779,8 +25779,8 @@ tl'a'uhlda:tl'a'uhldáa CLASS-A-STEM-3 "for S to be closed in death [said of one
 tl'a'úldang CLASS-ANG-STEM-1 "for S to blink both eyes slowly" ;
 tl'a'úldang:tl'a'úldaang CLASS-ANG-STEM-2 "for S to blink both eyes slowly" ;
 
-tla'únhl CLASS-UNHL-STEM-1 "V seven times" ;
-tla'únhl:tla'únal CLASS-UNHL-STEM-2 "V seven times" ;
+!! tla'únhl CLASS-UNHL-STEM-1 "V seven times" ;
+!! tla'únhl:tla'únal CLASS-UNHL-STEM-2 "V seven times" ;
 
 tl'awíi CLASS-II-STEM-1 "for S (sg) {tl'a} to fall through the air" ;
 tl'awíi:tl'awáay CLASS-II-STEM-2 "for S (sg) {tl'a} to fall through the air" ;
@@ -26723,7 +26723,7 @@ ts'ándäga:ts'ándägáa CLASS-A-STEM-3 "for S to make a thundering sound" ;
 
 ts'áng% gagáa CLASS-AA "for S to be toothless [said of people only]" ;
 
-ts'áng% sk'úuhl CLASS-UUHl-STEM-1 "for S to be tightly woven" ;
+ts'áng% sk'úuhl CLASS-UUHL-STEM-1 "for S to be tightly woven" ;
 ts'áng% sk'úuhl:ts'áng% sk'úl CLASS-UUHL-STEM-2 "for S to be tightly woven" ;
 ts'áng% sk'úuhl:ts'áng% sk'wáal CLASS-UUHL-STEM-3 "for S to be tightly woven" ;
 
@@ -29650,8 +29650,8 @@ yuwa CLASS-A-STEM-1 "for S to have their legs extended or stretched out (in dire
 yuwa:yuwä CLASS-A-STEM-2 "for S to have their legs extended or stretched out (in direction)" ;
 yuwa:yuwáa CLASS-A-STEM-3 "for S to have their legs extended or stretched out (in direction)" ;
 
-(cl)% tla'únhl CLASS-UNHL-STEM-1 "for S to be six in number" ;
-(cl)% tla'únhl:(cl)% tla'únal CLASS-UNHL-STEM-2 "for S to be six in number" ;
+!! (cl)% tla'únhl CLASS-UNHL-STEM-1 "for S to be six in number" ;
+!! (cl)% tla'únhl:(cl)% tla'únal CLASS-UNHL-STEM-2 "for S to be six in number" ;
 
 (cl)% tláahl CLASS-AAHL-STEM-1 "for S to be ten in number" ;
 (cl)% tláahl:(cl)% tláal CLASS-AAHL-STEM-2 "for S to be ten in number" ;
