@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_ID_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_ID_STEM_2
+  Verb - kúniida - ENGLISH : # CLASS_ID_STEM_2
 
      kúnid+V+IMMEDIATE+PRESENT: kúniida
      kúnid+V+SIMPLE+PRESENT: kúniidang
@@ -47,3 +45,4 @@ Tests:
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kúniidang'ang'waa
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kúniidang'ang'waang
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'ang'waa.ang
+
