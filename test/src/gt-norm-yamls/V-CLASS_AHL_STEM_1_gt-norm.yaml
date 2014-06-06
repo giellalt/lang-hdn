@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AHL_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AHL_STEM_1
+  Verb - áljahl - ENGLISH : # CLASS_AHL_STEM_1
 
      áljahl+V+SINGULAR+IMPERATIVE: áljahl
      áljahl+V+INTERROGATIVE+SIMPLE+PRESENT: áljahl
@@ -151,3 +149,4 @@ Tests:
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: áljahl'ang'aawaa'ahlanggang
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: áljahl'ang'waa'ahl
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: áljahl'ang'waaäseehl
+
