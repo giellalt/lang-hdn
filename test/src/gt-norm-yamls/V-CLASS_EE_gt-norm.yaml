@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_EE verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_EE
+  Verb - náanee - ENGLISH : # CLASS_EE
 
      náanee+V+SINGULAR+IMPERATIVE: náanee
      náanee+V+IMMEDIATE+PRESENT: náaneega
@@ -189,3 +187,4 @@ Tests:
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: náanee'ang'aawaa'ahlanggang
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: náanee'ang'waa'ahl
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: náanee'ang'waaäseehl
+
