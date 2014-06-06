@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_U verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_U
+  Verb - tla - ENGLISH : # CLASS_U
 
      çu+V+SINGULAR+IMPERATIVE: tla çu tla
      çu+V+IMMEDIATE+PRESENT: tla çuga tla
@@ -189,3 +187,4 @@ Tests:
      çu+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla çu'áng'aawaa'ahlanggang tla
      çu+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: tla çu'áng'waa'ahl tla
      çu+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'áng'waaäseehl tla
+
