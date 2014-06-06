@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UNG_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UNG_STEM_2
+  Verb - ñ'usägwáangaa - ENGLISH : # CLASS_UNG_STEM_2
 
      ñ'usägúng+V+INTERROGATIVE+PAST: ñ'usägwáangaa
      ñ'usägúng+V+INDIRECT+PAST: ñ'usägwáangaan
@@ -25,3 +23,4 @@ Tests:
      ñ'usägúng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñ'usägwáangaa'ahlanggaa
      ñ'usägúng+V+COUNTERFACTUAL+PRESENT: ñ'usägwáangaa'ahlanggang
      ñ'usägúng+V+REFLEXIVE: ñ'usägwáang'ahl
+
