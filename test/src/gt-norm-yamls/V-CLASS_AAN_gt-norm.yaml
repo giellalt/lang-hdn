@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AAN verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AAN
+  Verb - ñ'íinaan - ENGLISH : # CLASS_AAN
 
      ñ'íinaan+V+SINGULAR+IMPERATIVE: ñ'íinaan
      ñ'íinaan+V+IMMEDIATE+PRESENT: ñ'íinaan.ga
@@ -189,3 +187,4 @@ Tests:
      ñ'íinaan+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñ'íinaan'ang'aawaa'ahlanggang
      ñ'íinaan+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñ'íinaan'ang'waa'ahl
      ñ'íinaan+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñ'íinaan'ang'waaäseehl
+
