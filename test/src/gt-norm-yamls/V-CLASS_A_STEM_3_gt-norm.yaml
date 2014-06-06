@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_A_STEM_3 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_A_STEM_3
+  Verb - ñíiyaa - ENGLISH : # CLASS_A_STEM_3
 
      ñíiya+V+SINGULAR+IMPERATIVE: ñíiyaa
      ñíiya+V+IMMEDIATE+PRESENT: ñíiyaa
@@ -54,3 +52,4 @@ Tests:
      ñíiya+V+NEGATIVE+NEAR+FUTURE: ñíiyaa.ang ñasaa'ánggang
      ñíiya+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ñíiyaa.ang ñasaasdlä'áng
      ñíiya+V+NEGATIVE+VERYNEAR+FUTURE: ñíiyaa.ang ñasaasdlä'ánggang
+
