@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AAW verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AAW
+  Verb - sánaaw - ENGLISH : # CLASS_AAW
 
      sánaaw+V+SINGULAR+IMPERATIVE: sánaaw
      sánaaw+V+IMMEDIATE+PRESENT: sánaawga
@@ -189,3 +187,4 @@ Tests:
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sánaaw'ang'aawaa'ahlanggang
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sánaaw'ang'waa'ahl
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'ang'waaäseehl
+
