@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AY_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AY_STEM_2
+  Verb - ñáayaa - ENGLISH : # CLASS_AY_STEM_2
 
      ñáy+V+INTERROGATIVE+PAST: ñáayaa
      ñáy+V+INDIRECT+PAST: ñáayaan
@@ -25,3 +23,4 @@ Tests:
      ñáy+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñáayaa'ahlanggaa
      ñáy+V+COUNTERFACTUAL+PRESENT: ñáayaa'ahlanggang
      ñáy+V+REFLEXIVE: ñáay'ahl
+
