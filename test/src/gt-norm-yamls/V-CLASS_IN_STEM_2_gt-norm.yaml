@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_IN_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_IN_STEM_2
+  Verb - kyáambda - ENGLISH : # CLASS_IN_STEM_2
 
      ín+V+INTERROGATIVE+PAST: kyáambda éenaa kyáambda
      ín+V+INDIRECT+PAST: kyáambda éenaan kyáambda
@@ -25,3 +23,4 @@ Tests:
      ín+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kyáambda éenaa'ahlanggaa kyáambda
      ín+V+COUNTERFACTUAL+PRESENT: kyáambda éenaa'ahlanggang kyáambda
      ín+V+REFLEXIVE: kyáambda éen'ahl kyáambda
+
