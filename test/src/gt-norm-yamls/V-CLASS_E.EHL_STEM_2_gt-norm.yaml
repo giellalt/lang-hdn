@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_E.EHL_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_E.EHL_STEM_2
+  Verb - xál - ENGLISH : # CLASS_E.EHL_STEM_2
 
      ñáat'e.ehl+V+SINGULAR+IMPERATIVE: xál ñáat'eehl xál
      ñáat'e.ehl+V+IMMEDIATE+PRESENT: xál ñáat'eehlga xál
@@ -177,3 +175,4 @@ Tests:
      ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'ang'aawaa'ahlanggang xál
      ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: xál ñáat'eehl'ang'waa'ahl xál
      ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'ang'waaäseehl xál
+
