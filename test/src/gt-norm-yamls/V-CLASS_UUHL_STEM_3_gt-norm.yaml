@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UUHL_STEM_3 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UUHL_STEM_3
+  Verb - t'ahlgwáalaa - ENGLISH : # CLASS_UUHL_STEM_3
 
      t'ahlgúuhl+V+INTERROGATIVE+PAST: t'ahlgwáalaa
      t'ahlgúuhl+V+INDIRECT+PAST: t'ahlgwáalaan
@@ -25,3 +23,4 @@ Tests:
      t'ahlgúuhl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: t'ahlgwáalaa'ahlanggaa
      t'ahlgúuhl+V+COUNTERFACTUAL+PRESENT: t'ahlgwáalaa'ahlanggang
      t'ahlgúuhl+V+REFLEXIVE: t'ahlgwáal'ahl
+
