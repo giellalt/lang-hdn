@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UHL_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UHL_STEM_1
+  Verb - ñáaguhl - ENGLISH : # CLASS_UHL_STEM_1
 
      ñáaguhl+V+SINGULAR+IMPERATIVE: ñáaguhl
      ñáaguhl+V+INTERROGATIVE+SIMPLE+PRESENT: ñáaguhl
@@ -151,3 +149,4 @@ Tests:
      ñáaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñáaguhl'ang'aawaa'ahlanggang
      ñáaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñáaguhl'ang'waa'ahl
      ñáaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñáaguhl'ang'waaäseehl
+
