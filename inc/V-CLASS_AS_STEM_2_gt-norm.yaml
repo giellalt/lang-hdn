@@ -1,0 +1,45 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - dándiija - ENGLISH : # CLASS_AS_STEM_2
+
+     dándas+V+IMMEDIATE+PRESENT: dándiija
+     dándas+V+SIMPLE+PRESENT: dándiijang
+     dándas+V+DIRECT+PAST: dándiijan
+     dándas+V+NON_FACTIVE: dándiijang
+     dándas+V+INTERROGATIVE+PRESENT+HABITUAL: dándiijang
+     dándas+V+PRESENT+HABITUAL: dándiijanggang
+     dándas+V+PRESENT+HABITUAL+NON_FACTIVE: dándiijangang
+     dándas+V+DIRECT+PAST+HABITUAL: dándiijiinii
+     dándas+V+INTERROGATIVE+PAST+HABITUAL: dándiijaangaa
+     dándas+V+INDIRECT+PAST+HABITUAL: dándiijaangaan
+     dándas+V+INTERROGATIVE+NEAR+FUTURE: dándiijang ñasa'áa
+     dándas+V+NEAR+FUTURE: dándiijang ñasa'áang
+     dándas+V+INTERROGATIVE+VERYNEAR+FUTURE: dándiijang ñasaasdláa
+     dándas+V+VERYNEAR+FUTURE: dándiijang ñasaasdláang
+     dándas+V+CERTAIN+PRESENT: dándiij'ahlanggang
+     dándas+V+CERTAIN+PAST: dándiij'ahlanggan
+     dándas+V+CERTAIN+PAST+HABITUAL: dándiij'ahlanggiinii
+     dándas+V+CERTAIN+RELATIVE: dándiij'ahlans
+     dándas+V+REFLEXIVE: dándiij'ahl
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: dándiijang'waa
+     dándas+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: dándiijang'waang
+     dándas+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: dándiijang'waa.ang
+     dándas+V+NEGATIVE+PRESENT+HABITUAL: dándiijang'anggang
+     dándas+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: dándiijang'angang
+     dándas+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: dándiijang ñasaa'áng
+     dándas+V+NEGATIVE+NEAR+FUTURE: dándiijang ñasaa'ánggang
+     dándas+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: dándiijang ñasaasdlä'áng
+     dándas+V+NEGATIVE+VERYNEAR+FUTURE: dándiijang ñasaasdlä'ánggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: dándiijang'ang'waa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: dándiijang'ang'waang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: dándiijang'ang'waa.ang
+

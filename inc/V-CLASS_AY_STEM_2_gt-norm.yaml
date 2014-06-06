@@ -1,0 +1,26 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - ñáayaa - ENGLISH : # CLASS_AY_STEM_2
+
+     ñáy+V+INTERROGATIVE+PAST: ñáayaa
+     ñáy+V+INDIRECT+PAST: ñáayaan
+     ñáy+V+RELATIVE+EVIDENTIAL: ñáayaas
+     ñáy+V+PAST+NON_FACTIVE: ñáayaa.ang
+     ñáy+V+CERTAIN+PRESENT: ñáay'ahlanggang
+     ñáy+V+CERTAIN+PAST: ñáay'ahlanggan
+     ñáy+V+CERTAIN+PAST+HABITUAL: ñáay'ahlanggiinii
+     ñáy+V+CERTAIN+RELATIVE: ñáay'ahlans
+     ñáy+V+INTENSIVE+PAST: ñáayaa'ahlang
+     ñáy+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñáayaa'ahlanggaa
+     ñáy+V+COUNTERFACTUAL+PRESENT: ñáayaa'ahlanggang
+     ñáy+V+REFLEXIVE: ñáay'ahl
+

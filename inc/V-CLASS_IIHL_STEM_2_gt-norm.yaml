@@ -1,0 +1,40 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - nílga - ENGLISH : # CLASS_IIHL_STEM_2
+
+     níihl+V+IMMEDIATE+PRESENT: nílga
+     níihl+V+SIMPLE+PRESENT: nílgang
+     níihl+V+DIRECT+PAST: nílgan
+     níihl+V+NON_FACTIVE: níl.ang
+     níihl+V+INTERROGATIVE+PRESENT+HABITUAL: nílgang
+     níihl+V+PRESENT+HABITUAL: nílganggang
+     níihl+V+PRESENT+HABITUAL+NON_FACTIVE: nílgangang
+     níihl+V+DIRECT+PAST+HABITUAL: nílgiinii
+     níihl+V+INTERROGATIVE+PAST+HABITUAL: nílgaangaa
+     níihl+V+INDIRECT+PAST+HABITUAL: nílgaangaan
+     níihl+V+INTERROGATIVE+NEAR+FUTURE: nílang ñasa'áa
+     níihl+V+NEAR+FUTURE: nílang ñasa'áang
+     níihl+V+INTERROGATIVE+VERYNEAR+FUTURE: nílang ñasaasdláa
+     níihl+V+VERYNEAR+FUTURE: nílang ñasaasdláang
+     níihl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: nílgang'waa
+     níihl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: nílgang'waang
+     níihl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: nílgang'waa.ang
+     níihl+V+NEGATIVE+PRESENT+HABITUAL: nílgang'anggang
+     níihl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: nílgang'angang
+     níihl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: nílang ñasaa'áng
+     níihl+V+NEGATIVE+NEAR+FUTURE: nílang ñasaa'ánggang
+     níihl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: nílang ñasaasdlä'áng
+     níihl+V+NEGATIVE+VERYNEAR+FUTURE: nílang ñasaasdlä'ánggang
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: nílgang'ang'waa
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: nílgang'ang'waang
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: nílgang'ang'waa.ang
+

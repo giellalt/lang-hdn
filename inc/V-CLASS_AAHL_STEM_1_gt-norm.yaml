@@ -1,0 +1,166 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - skyáahl - ENGLISH : # CLASS_AAHL_STEM_1
+
+     skyáahl+V+SINGULAR+IMPERATIVE: skyáahl
+     skyáahl+V+INTERROGATIVE+SIMPLE+PRESENT: skyáahl
+     skyáahl+V+RELATIVE: skyáahls
+     skyáahl+V+NON_FACTIVE: skyáahlang
+     skyáahl+V+INTERROGATIVE+FUTURE+LONG: skyáahläsaa
+     skyáahl+V+INTERROGATIVE+FUTURE+SHORT: skyáahläs
+     skyáahl+V+SIMPLE+FUTURE: skyáahläsaang
+     skyáahl+V+IMMEDIATE+FUTURE: skyáahläsga
+     skyáahl+V+RELATIVE+FUTURE: skyáahläsaas
+     skyáahl+V+FUTURE+NON_FACTIVE: skyáahläsaa.ang
+     skyáahl+V+INTERROGATIVE+NEAR+FUTURE: skyáahlang ñasa'áa
+     skyáahl+V+NEAR+FUTURE: skyáahlang ñasa'áang
+     skyáahl+V+INTERROGATIVE+VERYNEAR+FUTURE: skyáahlang ñasaasdláa
+     skyáahl+V+VERYNEAR+FUTURE: skyáahlang ñasaasdláang
+     skyáahl+V+BIASED+IMMEDIATE+PRESENT: skyáahl'uuj
+     skyáahl+V+BIASED+SIMPLE+PRESENT: skyáahl'uujang
+     skyáahl+V+RESIGNED_OBLIGATION: skyáahläsaa'uujang
+     skyáahl+V+BIASED+INTERROGATIVE+PRESENT: skyáahl'us
+     skyáahl+V+BIASED+INTERROGATIVE+PAST: skyáahl'ujaa
+     skyáahl+V+BIASED+INTERROGATIVE+PAST+HABITUAL: skyáahl'uujaangaa
+     skyáahl+V+BIASED+INTERROGATIVE+FUTURE: skyáahläsaa'us
+     skyáahl+V+CERTAIN+PRESENT: skyáahl'ahlanggang
+     skyáahl+V+CERTAIN+PAST: skyáahl'ahlanggan
+     skyáahl+V+CERTAIN+PAST+HABITUAL: skyáahl'ahlanggiinii
+     skyáahl+V+CERTAIN+FUTURE: skyáahläsaa'ahlans
+     skyáahl+V+CERTAIN+RELATIVE: skyáahl'ahlans
+     skyáahl+V+REFLEXIVE: skyáahl'ahl
+     skyáahl+V+FUTURE+REFLEXIVE+INTERROGATIVE: skyáahläseehl
+     skyáahl+V+PLURAL+IMPERATIVE: skyáahl'uu
+     skyáahl+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: skyáahl'waa
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: skyáahl'waa
+     skyáahl+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: skyáahl'waang
+     skyáahl+V+3rd_PERSON_PLURAL+DIRECT+PAST: skyáahl'wägan
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: skyáahl'aawaa
+     skyáahl+V+3rd_PERSON_PLURAL+INDIRECT+PAST: skyáahl'aawaan
+     skyáahl+V+3rd_PERSON_PLURAL+RELATIVE: skyáahl'waas
+     skyáahl+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: skyáahl'aawaas
+     skyáahl+V+3rd_PERSON_PLURAL+NON_FACTIVE: skyáahl'waa.ang
+     skyáahl+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: skyáahl'aawaa.ang
+     skyáahl+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: skyáahl'wägiinii
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: skyáahl'wägaangaa
+     skyáahl+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: skyáahl'wägaangaan
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: skyáahl'waaäsaa
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: skyáahl'waaäs
+     skyáahl+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: skyáahl'waaäsaang
+     skyáahl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: skyáahl'waaäsga
+     skyáahl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: skyáahl'waaäsaas
+     skyáahl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: skyáahl'waaäsaa.ang
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: skyáahl'waa.ang ñasa'áa
+     skyáahl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: skyáahl'waa.ang ñasa'áang
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: skyáahl'waa.ang ñasaasdláa
+     skyáahl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: skyáahl'waa.ang ñasaasdláang
+     skyáahl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: skyáahl'waa'uuj
+     skyáahl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: skyáahl'waa'uujang
+     skyáahl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: skyáahl'waaäsaa'uujang
+     skyáahl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: skyáahl'waa'us
+     skyáahl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: skyáahl'waa'ujaa
+     skyáahl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: skyáahl'waa'uujaangaa
+     skyáahl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: skyáahl'waaäsaa'us
+     skyáahl+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: skyáahl'waa'ahlanggang
+     skyáahl+V+3rd_PERSON_PLURAL+CERTAIN+PAST: skyáahl'waa'ahlanggan
+     skyáahl+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: skyáahl'waa'ahlanggiinii
+     skyáahl+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: skyáahl'waaäsaa'ahlans
+     skyáahl+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: skyáahl'waa'ahlans
+     skyáahl+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: skyáahl'aawaa'ahlang
+     skyáahl+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: skyáahl'aawaa'ahlanggaa
+     skyáahl+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: skyáahl'aawaa'ahlanggang
+     skyáahl+V+3rd_PERSON_PLURAL+REFLEXIVE: skyáahl'waa'ahl
+     skyáahl+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: skyáahl'waaäseehl
+     skyáahl+V+NEGATIVE+SINGULAR+IMPERATIVE: skyáahl'ang
+     skyáahl+V+NEGATIVE+IMMEDIATE+PRESENT: skyáahl'angga
+     skyáahl+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: skyáahl'ang
+     skyáahl+V+NEGATIVE+SIMPLE+PRESENT: skyáahl'anggang
+     skyáahl+V+NEGATIVE+DIRECT+PAST: skyáahl'anggan
+     skyáahl+V+NEGATIVE+INTERROGATIVE+PAST: skyáahl'aangaa
+     skyáahl+V+NEGATIVE+INDIRECT+PAST: skyáahl'aangaan
+     skyáahl+V+NEGATIVE+RELATIVE: skyáahl'ans
+     skyáahl+V+NEGATIVE+RELATIVE+EVIDENTIAL: skyáahl'aangaas
+     skyáahl+V+NEGATIVE+NON_FACTIVE: skyáahl'angang
+     skyáahl+V+NEGATIVE+PAST+NON_FACTIVE: skyáahl'aangaa.ang
+     skyáahl+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: skyáahl'anggang
+     skyáahl+V+NEGATIVE+DIRECT+PAST+HABITUAL: skyáahl'anggiinii
+     skyáahl+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: skyáahl'anggaangaa
+     skyáahl+V+NEGATIVE+INDIRECT+PAST+HABITUAL: skyáahl'anggaangaan
+     skyáahl+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: skyáahl'angäsaa
+     skyáahl+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: skyáahl'angäs
+     skyáahl+V+NEGATIVE+SIMPLE+FUTURE: skyáahl'angäsaang
+     skyáahl+V+NEGATIVE+IMMEDIATE+FUTURE: skyáahl'angäsga
+     skyáahl+V+NEGATIVE+RELATIVE+FUTURE: skyáahl'angäsaas
+     skyáahl+V+NEGATIVE+FUTURE+NON_FACTIVE: skyáahl'angäsaa.ang
+     skyáahl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: skyáahlang ñasaa'áng
+     skyáahl+V+NEGATIVE+NEAR+FUTURE: skyáahlang ñasaa'ánggang
+     skyáahl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: skyáahlang ñasaasdlä'áng
+     skyáahl+V+NEGATIVE+VERYNEAR+FUTURE: skyáahlang ñasaasdlä'ánggang
+     skyáahl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: skyáahl'ang'uuj
+     skyáahl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: skyáahl'ang'uujang
+     skyáahl+V+NEGATIVE+RESIGNED_OBLIGATION: skyáahl'angäsaa'uujang
+     skyáahl+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: skyáahl'ang'us
+     skyáahl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: skyáahl'ang'ujaa
+     skyáahl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: skyáahl'ang'uujaangaa
+     skyáahl+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: skyáahl'angäsaa'us
+     skyáahl+V+NEGATIVE+CERTAIN+PRESENT: skyáahl'aang'ahlanggang
+     skyáahl+V+NEGATIVE+CERTAIN+PAST: skyáahl'aang'ahlanggan
+     skyáahl+V+NEGATIVE+CERTAIN+PAST+HABITUAL: skyáahl'aang'ahlanggiinii
+     skyáahl+V+NEGATIVE+CERTAIN+FUTURE: skyáahl'angäsaa'ahlans
+     skyáahl+V+NEGATIVE+CERTAIN+RELATIVE: skyáahl'aang'ahlans
+     skyáahl+V+NEGATIVE+INTENSIVE+PAST: skyáahl'aangaa'ahlang
+     skyáahl+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: skyáahl'aangaa'ahlanggaa
+     skyáahl+V+NEGATIVE+COUNTERFACTUAL+PRESENT: skyáahl'aangaa'ahlanggang
+     skyáahl+V+NEGATIVE+REFLEXIVE: skyáahl'aang'ahl
+     skyáahl+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: skyáahl'angäseehl
+     skyáahl+V+NEGATIVE+PLURAL+IMPERATIVE: skyáahl'ang'uu
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: skyáahl'ang'waa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: skyáahl'ang'waa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: skyáahl'ang'waang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: skyáahl'ang'wägan
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: skyáahl'ang'aawaa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: skyáahl'ang'aawaan
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: skyáahl'ang'waas
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: skyáahl'ang'aawaas
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: skyáahl'ang'waa.ang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: skyáahl'ang'aawaa.ang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: skyáahl'ang'wägiinii
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: skyáahl'ang'wägaangaa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: skyáahl'ang'wägaangaan
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: skyáahl'ang'waaäsaa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: skyáahl'ang'waaäs
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: skyáahl'ang'waaäsaang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: skyáahl'ang'waaäsga
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: skyáahl'ang'waaäsaas
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: skyáahl'ang'waaäsaa.ang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: skyáahl'waa.ang ñasaa'áng
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: skyáahl'waa.ang ñasaa'ánggang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: skyáahl'waa.ang ñasaasdlä'áng
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: skyáahl'waa.ang ñasaasdlä'ánggang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: skyáahl'ang'waa'uuj
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: skyáahl'ang'waa'uujang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: skyáahl'ang'waaäsaa'uujang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: skyáahl'ang'waa'us
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: skyáahl'ang'waa'ujaa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: skyáahl'ang'waa'uujaangaa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: skyáahl'ang'waaäsaa'us
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: skyáahl'ang'waa'ahlanggang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: skyáahl'ang'waa'ahlanggan
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: skyáahl'ang'waa'ahlanggiinii
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: skyáahl'ang'waaäsaa'ahlans
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: skyáahl'ang'waa'ahlans
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: skyáahl'ang'aawaa'ahlang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: skyáahl'ang'aawaa'ahlanggaa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: skyáahl'ang'aawaa'ahlanggang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: skyáahl'ang'waa'ahl
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: skyáahl'ang'waaäseehl
+

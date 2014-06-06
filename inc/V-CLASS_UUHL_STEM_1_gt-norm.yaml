@@ -1,0 +1,152 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - t'ahlgúuhl - ENGLISH : # CLASS_UUHL_STEM_1
+
+     t'ahlgúuhl+V+SINGULAR+IMPERATIVE: t'ahlgúuhl
+     t'ahlgúuhl+V+INTERROGATIVE+SIMPLE+PRESENT: t'ahlgúuhl
+     t'ahlgúuhl+V+RELATIVE: t'ahlgúuhls
+     t'ahlgúuhl+V+INTERROGATIVE+FUTURE+LONG: t'ahlgúuhläsaa
+     t'ahlgúuhl+V+INTERROGATIVE+FUTURE+SHORT: t'ahlgúuhläs
+     t'ahlgúuhl+V+SIMPLE+FUTURE: t'ahlgúuhläsaang
+     t'ahlgúuhl+V+IMMEDIATE+FUTURE: t'ahlgúuhläsga
+     t'ahlgúuhl+V+RELATIVE+FUTURE: t'ahlgúuhläsaas
+     t'ahlgúuhl+V+FUTURE+NON_FACTIVE: t'ahlgúuhläsaa.ang
+     t'ahlgúuhl+V+BIASED+IMMEDIATE+PRESENT: t'ahlgúuhl'uuj
+     t'ahlgúuhl+V+BIASED+SIMPLE+PRESENT: t'ahlgúuhl'uujang
+     t'ahlgúuhl+V+RESIGNED_OBLIGATION: t'ahlgúuhläsaa'uujang
+     t'ahlgúuhl+V+BIASED+INTERROGATIVE+PRESENT: t'ahlgúuhl'us
+     t'ahlgúuhl+V+BIASED+INTERROGATIVE+PAST: t'ahlgúuhl'ujaa
+     t'ahlgúuhl+V+BIASED+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'uujaangaa
+     t'ahlgúuhl+V+BIASED+INTERROGATIVE+FUTURE: t'ahlgúuhläsaa'us
+     t'ahlgúuhl+V+CERTAIN+FUTURE: t'ahlgúuhläsaa'ahlans
+     t'ahlgúuhl+V+FUTURE+REFLEXIVE+INTERROGATIVE: t'ahlgúuhläseehl
+     t'ahlgúuhl+V+PLURAL+IMPERATIVE: t'ahlgúuhl'uu
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: t'ahlgúuhl'waa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: t'ahlgúuhl'waa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: t'ahlgúuhl'waang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+DIRECT+PAST: t'ahlgúuhl'wägan
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: t'ahlgúuhl'aawaa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INDIRECT+PAST: t'ahlgúuhl'aawaan
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+RELATIVE: t'ahlgúuhl'waas
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: t'ahlgúuhl'aawaas
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+NON_FACTIVE: t'ahlgúuhl'waa.ang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: t'ahlgúuhl'aawaa.ang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: t'ahlgúuhl'wägiinii
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'wägaangaa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: t'ahlgúuhl'wägaangaan
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: t'ahlgúuhl'waaäsaa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: t'ahlgúuhl'waaäs
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: t'ahlgúuhl'waaäsaang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: t'ahlgúuhl'waaäsga
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: t'ahlgúuhl'waaäsaas
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: t'ahlgúuhl'waaäsaa.ang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasa'áa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasa'áang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdláa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdláang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: t'ahlgúuhl'waa'uuj
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: t'ahlgúuhl'waa'uujang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: t'ahlgúuhl'waaäsaa'uujang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: t'ahlgúuhl'waa'us
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: t'ahlgúuhl'waa'ujaa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'waa'uujaangaa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: t'ahlgúuhl'waaäsaa'us
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: t'ahlgúuhl'waa'ahlanggang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+CERTAIN+PAST: t'ahlgúuhl'waa'ahlanggan
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: t'ahlgúuhl'waa'ahlanggiinii
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: t'ahlgúuhl'waaäsaa'ahlans
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: t'ahlgúuhl'waa'ahlans
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: t'ahlgúuhl'aawaa'ahlang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: t'ahlgúuhl'aawaa'ahlanggaa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: t'ahlgúuhl'aawaa'ahlanggang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+REFLEXIVE: t'ahlgúuhl'waa'ahl
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: t'ahlgúuhl'waaäseehl
+     t'ahlgúuhl+V+NEGATIVE+SINGULAR+IMPERATIVE: t'ahlgúuhl'ang
+     t'ahlgúuhl+V+NEGATIVE+IMMEDIATE+PRESENT: t'ahlgúuhl'angga
+     t'ahlgúuhl+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: t'ahlgúuhl'ang
+     t'ahlgúuhl+V+NEGATIVE+SIMPLE+PRESENT: t'ahlgúuhl'anggang
+     t'ahlgúuhl+V+NEGATIVE+DIRECT+PAST: t'ahlgúuhl'anggan
+     t'ahlgúuhl+V+NEGATIVE+INTERROGATIVE+PAST: t'ahlgúuhl'aangaa
+     t'ahlgúuhl+V+NEGATIVE+INDIRECT+PAST: t'ahlgúuhl'aangaan
+     t'ahlgúuhl+V+NEGATIVE+RELATIVE: t'ahlgúuhl'ans
+     t'ahlgúuhl+V+NEGATIVE+RELATIVE+EVIDENTIAL: t'ahlgúuhl'aangaas
+     t'ahlgúuhl+V+NEGATIVE+NON_FACTIVE: t'ahlgúuhl'angang
+     t'ahlgúuhl+V+NEGATIVE+PAST+NON_FACTIVE: t'ahlgúuhl'aangaa.ang
+     t'ahlgúuhl+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: t'ahlgúuhl'anggang
+     t'ahlgúuhl+V+NEGATIVE+DIRECT+PAST+HABITUAL: t'ahlgúuhl'anggiinii
+     t'ahlgúuhl+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'anggaangaa
+     t'ahlgúuhl+V+NEGATIVE+INDIRECT+PAST+HABITUAL: t'ahlgúuhl'anggaangaan
+     t'ahlgúuhl+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: t'ahlgúuhl'angäsaa
+     t'ahlgúuhl+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: t'ahlgúuhl'angäs
+     t'ahlgúuhl+V+NEGATIVE+SIMPLE+FUTURE: t'ahlgúuhl'angäsaang
+     t'ahlgúuhl+V+NEGATIVE+IMMEDIATE+FUTURE: t'ahlgúuhl'angäsga
+     t'ahlgúuhl+V+NEGATIVE+RELATIVE+FUTURE: t'ahlgúuhl'angäsaas
+     t'ahlgúuhl+V+NEGATIVE+FUTURE+NON_FACTIVE: t'ahlgúuhl'angäsaa.ang
+     t'ahlgúuhl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: t'ahlgúuhl'ang'uuj
+     t'ahlgúuhl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: t'ahlgúuhl'ang'uujang
+     t'ahlgúuhl+V+NEGATIVE+RESIGNED_OBLIGATION: t'ahlgúuhl'angäsaa'uujang
+     t'ahlgúuhl+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: t'ahlgúuhl'ang'us
+     t'ahlgúuhl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: t'ahlgúuhl'ang'ujaa
+     t'ahlgúuhl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'ang'uujaangaa
+     t'ahlgúuhl+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: t'ahlgúuhl'angäsaa'us
+     t'ahlgúuhl+V+NEGATIVE+CERTAIN+PRESENT: t'ahlgúuhl'aang'ahlanggang
+     t'ahlgúuhl+V+NEGATIVE+CERTAIN+PAST: t'ahlgúuhl'aang'ahlanggan
+     t'ahlgúuhl+V+NEGATIVE+CERTAIN+PAST+HABITUAL: t'ahlgúuhl'aang'ahlanggiinii
+     t'ahlgúuhl+V+NEGATIVE+CERTAIN+FUTURE: t'ahlgúuhl'angäsaa'ahlans
+     t'ahlgúuhl+V+NEGATIVE+CERTAIN+RELATIVE: t'ahlgúuhl'aang'ahlans
+     t'ahlgúuhl+V+NEGATIVE+INTENSIVE+PAST: t'ahlgúuhl'aangaa'ahlang
+     t'ahlgúuhl+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: t'ahlgúuhl'aangaa'ahlanggaa
+     t'ahlgúuhl+V+NEGATIVE+COUNTERFACTUAL+PRESENT: t'ahlgúuhl'aangaa'ahlanggang
+     t'ahlgúuhl+V+NEGATIVE+REFLEXIVE: t'ahlgúuhl'aang'ahl
+     t'ahlgúuhl+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: t'ahlgúuhl'angäseehl
+     t'ahlgúuhl+V+NEGATIVE+PLURAL+IMPERATIVE: t'ahlgúuhl'ang'uu
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: t'ahlgúuhl'ang'waa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: t'ahlgúuhl'ang'waa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: t'ahlgúuhl'ang'waang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: t'ahlgúuhl'ang'wägan
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: t'ahlgúuhl'ang'aawaa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: t'ahlgúuhl'ang'aawaan
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: t'ahlgúuhl'ang'waas
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: t'ahlgúuhl'ang'aawaas
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: t'ahlgúuhl'ang'waa.ang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: t'ahlgúuhl'ang'aawaa.ang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: t'ahlgúuhl'ang'wägiinii
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'ang'wägaangaa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: t'ahlgúuhl'ang'wägaangaan
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: t'ahlgúuhl'ang'waaäsaa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: t'ahlgúuhl'ang'waaäs
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: t'ahlgúuhl'ang'waaäsaang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: t'ahlgúuhl'ang'waaäsga
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: t'ahlgúuhl'ang'waaäsaas
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: t'ahlgúuhl'ang'waaäsaa.ang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaa'áng
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaa'ánggang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdlä'áng
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdlä'ánggang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: t'ahlgúuhl'ang'waa'uuj
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: t'ahlgúuhl'ang'waa'uujang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: t'ahlgúuhl'ang'waaäsaa'uujang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: t'ahlgúuhl'ang'waa'us
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: t'ahlgúuhl'ang'waa'ujaa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: t'ahlgúuhl'ang'waa'uujaangaa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: t'ahlgúuhl'ang'waaäsaa'us
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: t'ahlgúuhl'ang'waa'ahlanggang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: t'ahlgúuhl'ang'waa'ahlanggan
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: t'ahlgúuhl'ang'waa'ahlanggiinii
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: t'ahlgúuhl'ang'waaäsaa'ahlans
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: t'ahlgúuhl'ang'waa'ahlans
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: t'ahlgúuhl'ang'aawaa'ahlang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: t'ahlgúuhl'ang'aawaa'ahlanggaa
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: t'ahlgúuhl'ang'aawaa'ahlanggang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: t'ahlgúuhl'ang'waa'ahl
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: t'ahlgúuhl'ang'waaäseehl
+

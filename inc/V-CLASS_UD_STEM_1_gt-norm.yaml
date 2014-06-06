@@ -1,0 +1,156 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - díigud - ENGLISH : # CLASS_UD_STEM_1
+
+     díigud+V+SINGULAR+IMPERATIVE: díigud
+     díigud+V+INTERROGATIVE+SIMPLE+PRESENT: díigud
+     díigud+V+INTERROGATIVE+PAST: díigudaa
+     díigud+V+INDIRECT+PAST: díigudaan
+     díigud+V+RELATIVE: díiguds
+     díigud+V+RELATIVE+EVIDENTIAL: díigudaas
+     díigud+V+PAST+NON_FACTIVE: díigudaa.ang
+     díigud+V+INTERROGATIVE+FUTURE+LONG: díigudäsaa
+     díigud+V+INTERROGATIVE+FUTURE+SHORT: díigudäs
+     díigud+V+SIMPLE+FUTURE: díigudäsaang
+     díigud+V+IMMEDIATE+FUTURE: díigudäsga
+     díigud+V+RELATIVE+FUTURE: díigudäsaas
+     díigud+V+FUTURE+NON_FACTIVE: díigudäsaa.ang
+     díigud+V+BIASED+IMMEDIATE+PRESENT: díigud'uuj
+     díigud+V+BIASED+SIMPLE+PRESENT: díigud'uujang
+     díigud+V+RESIGNED_OBLIGATION: díigudäsaa'uujang
+     díigud+V+BIASED+INTERROGATIVE+PRESENT: díigud'us
+     díigud+V+BIASED+INTERROGATIVE+PAST: díigud'ujaa
+     díigud+V+BIASED+INTERROGATIVE+PAST+HABITUAL: díigud'uujaangaa
+     díigud+V+BIASED+INTERROGATIVE+FUTURE: díigudäsaa'us
+     díigud+V+CERTAIN+FUTURE: díigudäsaa'ahlans
+     díigud+V+FUTURE+REFLEXIVE+INTERROGATIVE: díigudäseehl
+     díigud+V+PLURAL+IMPERATIVE: díigud'uu
+     díigud+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: díigud'waa
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: díigud'waa
+     díigud+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: díigud'waang
+     díigud+V+3rd_PERSON_PLURAL+DIRECT+PAST: díigud'wägan
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: díigud'aawaa
+     díigud+V+3rd_PERSON_PLURAL+INDIRECT+PAST: díigud'aawaan
+     díigud+V+3rd_PERSON_PLURAL+RELATIVE: díigud'waas
+     díigud+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: díigud'aawaas
+     díigud+V+3rd_PERSON_PLURAL+NON_FACTIVE: díigud'waa.ang
+     díigud+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: díigud'aawaa.ang
+     díigud+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: díigud'wägiinii
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: díigud'wägaangaa
+     díigud+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: díigud'wägaangaan
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: díigud'waaäsaa
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: díigud'waaäs
+     díigud+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: díigud'waaäsaang
+     díigud+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: díigud'waaäsga
+     díigud+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: díigud'waaäsaas
+     díigud+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: díigud'waaäsaa.ang
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: díigud'waa.ang ñasa'áa
+     díigud+V+3rd_PERSON_PLURAL+NEAR+FUTURE: díigud'waa.ang ñasa'áang
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdláa
+     díigud+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdláang
+     díigud+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: díigud'waa'uuj
+     díigud+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: díigud'waa'uujang
+     díigud+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: díigud'waaäsaa'uujang
+     díigud+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: díigud'waa'us
+     díigud+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: díigud'waa'ujaa
+     díigud+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: díigud'waa'uujaangaa
+     díigud+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: díigud'waaäsaa'us
+     díigud+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: díigud'waa'ahlanggang
+     díigud+V+3rd_PERSON_PLURAL+CERTAIN+PAST: díigud'waa'ahlanggan
+     díigud+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: díigud'waa'ahlanggiinii
+     díigud+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: díigud'waaäsaa'ahlans
+     díigud+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: díigud'waa'ahlans
+     díigud+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: díigud'aawaa'ahlang
+     díigud+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: díigud'aawaa'ahlanggaa
+     díigud+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: díigud'aawaa'ahlanggang
+     díigud+V+3rd_PERSON_PLURAL+REFLEXIVE: díigud'waa'ahl
+     díigud+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: díigud'waaäseehl
+     díigud+V+NEGATIVE+SINGULAR+IMPERATIVE: díigud'ang
+     díigud+V+NEGATIVE+IMMEDIATE+PRESENT: díigud'angga
+     díigud+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: díigud'ang
+     díigud+V+NEGATIVE+SIMPLE+PRESENT: díigud'anggang
+     díigud+V+NEGATIVE+DIRECT+PAST: díigud'anggan
+     díigud+V+NEGATIVE+INTERROGATIVE+PAST: díigud'aangaa
+     díigud+V+NEGATIVE+INDIRECT+PAST: díigud'aangaan
+     díigud+V+NEGATIVE+RELATIVE: díigud'ans
+     díigud+V+NEGATIVE+RELATIVE+EVIDENTIAL: díigud'aangaas
+     díigud+V+NEGATIVE+NON_FACTIVE: díigud'angang
+     díigud+V+NEGATIVE+PAST+NON_FACTIVE: díigud'aangaa.ang
+     díigud+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: díigud'anggang
+     díigud+V+NEGATIVE+DIRECT+PAST+HABITUAL: díigud'anggiinii
+     díigud+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: díigud'anggaangaa
+     díigud+V+NEGATIVE+INDIRECT+PAST+HABITUAL: díigud'anggaangaan
+     díigud+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: díigud'angäsaa
+     díigud+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: díigud'angäs
+     díigud+V+NEGATIVE+SIMPLE+FUTURE: díigud'angäsaang
+     díigud+V+NEGATIVE+IMMEDIATE+FUTURE: díigud'angäsga
+     díigud+V+NEGATIVE+RELATIVE+FUTURE: díigud'angäsaas
+     díigud+V+NEGATIVE+FUTURE+NON_FACTIVE: díigud'angäsaa.ang
+     díigud+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: díigud'ang'uuj
+     díigud+V+NEGATIVE+BIASED+SIMPLE+PRESENT: díigud'ang'uujang
+     díigud+V+NEGATIVE+RESIGNED_OBLIGATION: díigud'angäsaa'uujang
+     díigud+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: díigud'ang'us
+     díigud+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: díigud'ang'ujaa
+     díigud+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: díigud'ang'uujaangaa
+     díigud+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: díigud'angäsaa'us
+     díigud+V+NEGATIVE+CERTAIN+PRESENT: díigud'aang'ahlanggang
+     díigud+V+NEGATIVE+CERTAIN+PAST: díigud'aang'ahlanggan
+     díigud+V+NEGATIVE+CERTAIN+PAST+HABITUAL: díigud'aang'ahlanggiinii
+     díigud+V+NEGATIVE+CERTAIN+FUTURE: díigud'angäsaa'ahlans
+     díigud+V+NEGATIVE+CERTAIN+RELATIVE: díigud'aang'ahlans
+     díigud+V+NEGATIVE+INTENSIVE+PAST: díigud'aangaa'ahlang
+     díigud+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: díigud'aangaa'ahlanggaa
+     díigud+V+NEGATIVE+COUNTERFACTUAL+PRESENT: díigud'aangaa'ahlanggang
+     díigud+V+NEGATIVE+REFLEXIVE: díigud'aang'ahl
+     díigud+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: díigud'angäseehl
+     díigud+V+NEGATIVE+PLURAL+IMPERATIVE: díigud'ang'uu
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: díigud'ang'waa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: díigud'ang'waa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: díigud'ang'waang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: díigud'ang'wägan
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: díigud'ang'aawaa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: díigud'ang'aawaan
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: díigud'ang'waas
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: díigud'ang'aawaas
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: díigud'ang'waa.ang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: díigud'ang'aawaa.ang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: díigud'ang'wägiinii
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: díigud'ang'wägaangaa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: díigud'ang'wägaangaan
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: díigud'ang'waaäsaa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: díigud'ang'waaäs
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: díigud'ang'waaäsaang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: díigud'ang'waaäsga
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: díigud'ang'waaäsaas
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: díigud'ang'waaäsaa.ang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: díigud'waa.ang ñasaa'áng
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: díigud'waa.ang ñasaa'ánggang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdlä'áng
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdlä'ánggang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: díigud'ang'waa'uuj
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: díigud'ang'waa'uujang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: díigud'ang'waaäsaa'uujang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: díigud'ang'waa'us
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: díigud'ang'waa'ujaa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: díigud'ang'waa'uujaangaa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: díigud'ang'waaäsaa'us
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: díigud'ang'waa'ahlanggang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: díigud'ang'waa'ahlanggan
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: díigud'ang'waa'ahlanggiinii
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: díigud'ang'waaäsaa'ahlans
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: díigud'ang'waa'ahlans
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: díigud'ang'aawaa'ahlang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: díigud'ang'aawaa'ahlanggaa
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: díigud'ang'aawaa'ahlanggang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: díigud'ang'waa'ahl
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: díigud'ang'waaäseehl
+

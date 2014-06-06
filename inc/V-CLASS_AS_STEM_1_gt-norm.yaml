@@ -1,0 +1,152 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - dándas - ENGLISH : # CLASS_AS_STEM_1
+
+     dándas+V+SINGULAR+IMPERATIVE: dándas
+     dándas+V+INTERROGATIVE+SIMPLE+PRESENT: dándas
+     dándas+V+RELATIVE: dándass
+     dándas+V+INTERROGATIVE+FUTURE+LONG: dándasäsaa
+     dándas+V+INTERROGATIVE+FUTURE+SHORT: dándasäs
+     dándas+V+SIMPLE+FUTURE: dándasäsaang
+     dándas+V+IMMEDIATE+FUTURE: dándasäsga
+     dándas+V+RELATIVE+FUTURE: dándasäsaas
+     dándas+V+FUTURE+NON_FACTIVE: dándasäsaa.ang
+     dándas+V+BIASED+IMMEDIATE+PRESENT: dándas'uuj
+     dándas+V+BIASED+SIMPLE+PRESENT: dándas'uujang
+     dándas+V+RESIGNED_OBLIGATION: dándasäsaa'uujang
+     dándas+V+BIASED+INTERROGATIVE+PRESENT: dándas'us
+     dándas+V+BIASED+INTERROGATIVE+PAST: dándas'ujaa
+     dándas+V+BIASED+INTERROGATIVE+PAST+HABITUAL: dándas'uujaangaa
+     dándas+V+BIASED+INTERROGATIVE+FUTURE: dándasäsaa'us
+     dándas+V+CERTAIN+FUTURE: dándasäsaa'ahlans
+     dándas+V+FUTURE+REFLEXIVE+INTERROGATIVE: dándasäseehl
+     dándas+V+PLURAL+IMPERATIVE: dándas'uu
+     dándas+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: dándas'waa
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: dándas'waa
+     dándas+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: dándas'waang
+     dándas+V+3rd_PERSON_PLURAL+DIRECT+PAST: dándas'wägan
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: dándas'aawaa
+     dándas+V+3rd_PERSON_PLURAL+INDIRECT+PAST: dándas'aawaan
+     dándas+V+3rd_PERSON_PLURAL+RELATIVE: dándas'waas
+     dándas+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: dándas'aawaas
+     dándas+V+3rd_PERSON_PLURAL+NON_FACTIVE: dándas'waa.ang
+     dándas+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: dándas'aawaa.ang
+     dándas+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: dándas'wägiinii
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: dándas'wägaangaa
+     dándas+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: dándas'wägaangaan
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: dándas'waaäsaa
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: dándas'waaäs
+     dándas+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: dándas'waaäsaang
+     dándas+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dándas'waaäsga
+     dándas+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dándas'waaäsaas
+     dándas+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dándas'waaäsaa.ang
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dándas'waa.ang ñasa'áa
+     dándas+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dándas'waa.ang ñasa'áang
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdláa
+     dándas+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdláang
+     dándas+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dándas'waa'uuj
+     dándas+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dándas'waa'uujang
+     dándas+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dándas'waaäsaa'uujang
+     dándas+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: dándas'waa'us
+     dándas+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: dándas'waa'ujaa
+     dándas+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: dándas'waa'uujaangaa
+     dándas+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: dándas'waaäsaa'us
+     dándas+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: dándas'waa'ahlanggang
+     dándas+V+3rd_PERSON_PLURAL+CERTAIN+PAST: dándas'waa'ahlanggan
+     dándas+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: dándas'waa'ahlanggiinii
+     dándas+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: dándas'waaäsaa'ahlans
+     dándas+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: dándas'waa'ahlans
+     dándas+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: dándas'aawaa'ahlang
+     dándas+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dándas'aawaa'ahlanggaa
+     dándas+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dándas'aawaa'ahlanggang
+     dándas+V+3rd_PERSON_PLURAL+REFLEXIVE: dándas'waa'ahl
+     dándas+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dándas'waaäseehl
+     dándas+V+NEGATIVE+SINGULAR+IMPERATIVE: dándas'ang
+     dándas+V+NEGATIVE+IMMEDIATE+PRESENT: dándas'angga
+     dándas+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: dándas'ang
+     dándas+V+NEGATIVE+SIMPLE+PRESENT: dándas'anggang
+     dándas+V+NEGATIVE+DIRECT+PAST: dándas'anggan
+     dándas+V+NEGATIVE+INTERROGATIVE+PAST: dándas'aangaa
+     dándas+V+NEGATIVE+INDIRECT+PAST: dándas'aangaan
+     dándas+V+NEGATIVE+RELATIVE: dándas'ans
+     dándas+V+NEGATIVE+RELATIVE+EVIDENTIAL: dándas'aangaas
+     dándas+V+NEGATIVE+NON_FACTIVE: dándas'angang
+     dándas+V+NEGATIVE+PAST+NON_FACTIVE: dándas'aangaa.ang
+     dándas+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: dándas'anggang
+     dándas+V+NEGATIVE+DIRECT+PAST+HABITUAL: dándas'anggiinii
+     dándas+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: dándas'anggaangaa
+     dándas+V+NEGATIVE+INDIRECT+PAST+HABITUAL: dándas'anggaangaan
+     dándas+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: dándas'angäsaa
+     dándas+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: dándas'angäs
+     dándas+V+NEGATIVE+SIMPLE+FUTURE: dándas'angäsaang
+     dándas+V+NEGATIVE+IMMEDIATE+FUTURE: dándas'angäsga
+     dándas+V+NEGATIVE+RELATIVE+FUTURE: dándas'angäsaas
+     dándas+V+NEGATIVE+FUTURE+NON_FACTIVE: dándas'angäsaa.ang
+     dándas+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: dándas'ang'uuj
+     dándas+V+NEGATIVE+BIASED+SIMPLE+PRESENT: dándas'ang'uujang
+     dándas+V+NEGATIVE+RESIGNED_OBLIGATION: dándas'angäsaa'uujang
+     dándas+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: dándas'ang'us
+     dándas+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: dándas'ang'ujaa
+     dándas+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: dándas'ang'uujaangaa
+     dándas+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: dándas'angäsaa'us
+     dándas+V+NEGATIVE+CERTAIN+PRESENT: dándas'aang'ahlanggang
+     dándas+V+NEGATIVE+CERTAIN+PAST: dándas'aang'ahlanggan
+     dándas+V+NEGATIVE+CERTAIN+PAST+HABITUAL: dándas'aang'ahlanggiinii
+     dándas+V+NEGATIVE+CERTAIN+FUTURE: dándas'angäsaa'ahlans
+     dándas+V+NEGATIVE+CERTAIN+RELATIVE: dándas'aang'ahlans
+     dándas+V+NEGATIVE+INTENSIVE+PAST: dándas'aangaa'ahlang
+     dándas+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dándas'aangaa'ahlanggaa
+     dándas+V+NEGATIVE+COUNTERFACTUAL+PRESENT: dándas'aangaa'ahlanggang
+     dándas+V+NEGATIVE+REFLEXIVE: dándas'aang'ahl
+     dándas+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: dándas'angäseehl
+     dándas+V+NEGATIVE+PLURAL+IMPERATIVE: dándas'ang'uu
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: dándas'ang'waa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: dándas'ang'waa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: dándas'ang'waang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: dándas'ang'wägan
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: dándas'ang'aawaa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: dándas'ang'aawaan
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: dándas'ang'waas
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: dándas'ang'aawaas
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: dándas'ang'waa.ang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: dándas'ang'aawaa.ang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: dándas'ang'wägiinii
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: dándas'ang'wägaangaa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: dándas'ang'wägaangaan
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: dándas'ang'waaäsaa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: dándas'ang'waaäs
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: dándas'ang'waaäsaang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dándas'ang'waaäsga
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dándas'ang'waaäsaas
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dándas'ang'waaäsaa.ang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dándas'waa.ang ñasaa'áng
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dándas'waa.ang ñasaa'ánggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdlä'áng
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdlä'ánggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dándas'ang'waa'uuj
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dándas'ang'waa'uujang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dándas'ang'waaäsaa'uujang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: dándas'ang'waa'us
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: dándas'ang'waa'ujaa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: dándas'ang'waa'uujaangaa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: dándas'ang'waaäsaa'us
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: dándas'ang'waa'ahlanggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: dándas'ang'waa'ahlanggan
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: dándas'ang'waa'ahlanggiinii
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: dándas'ang'waaäsaa'ahlans
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: dándas'ang'waa'ahlans
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: dándas'ang'aawaa'ahlang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dándas'ang'aawaa'ahlanggaa
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dándas'ang'aawaa'ahlanggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: dándas'ang'waa'ahl
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dándas'ang'waaäseehl
+

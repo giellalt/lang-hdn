@@ -1,0 +1,149 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - ñeegan - ENGLISH : # CLASS_E.E_STEM_2
+
+     ñe.e+V+DIRECT+PAST: ñeegan
+     ñe.e+V+INTERROGATIVE+PRESENT+HABITUAL: ñeegang
+     ñe.e+V+PRESENT+HABITUAL: ñeeganggang
+     ñe.e+V+PRESENT+HABITUAL+NON_FACTIVE: ñeegangang
+     ñe.e+V+DIRECT+PAST+HABITUAL: ñeegiinii
+     ñe.e+V+INTERROGATIVE+PAST+HABITUAL: ñeegaangaa
+     ñe.e+V+INDIRECT+PAST+HABITUAL: ñeegaangaan
+     ñe.e+V+PLURAL+IMPERATIVE: ñee'uu
+     ñe.e+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: ñee'waa
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: ñee'waa
+     ñe.e+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: ñee'waang
+     ñe.e+V+3rd_PERSON_PLURAL+DIRECT+PAST: ñee'wägan
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: ñee'aawaa
+     ñe.e+V+3rd_PERSON_PLURAL+INDIRECT+PAST: ñee'aawaan
+     ñe.e+V+3rd_PERSON_PLURAL+RELATIVE: ñee'waas
+     ñe.e+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: ñee'aawaas
+     ñe.e+V+3rd_PERSON_PLURAL+NON_FACTIVE: ñee'waa.ang
+     ñe.e+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: ñee'aawaa.ang
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: ñeegang'waa
+     ñe.e+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: ñeegang'waang
+     ñe.e+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: ñeegang'waa.ang
+     ñe.e+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: ñee'wägiinii
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: ñee'wägaangaa
+     ñe.e+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: ñee'wägaangaan
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: ñee'waaäsaa
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: ñee'waaäs
+     ñe.e+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: ñee'waaäsaang
+     ñe.e+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: ñee'waaäsga
+     ñe.e+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: ñee'waaäsaas
+     ñe.e+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: ñee'waaäsaa.ang
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ñee'waa.ang ñasa'áa
+     ñe.e+V+3rd_PERSON_PLURAL+NEAR+FUTURE: ñee'waa.ang ñasa'áang
+     ñe.e+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ñee'waa.ang ñasaasdláa
+     ñe.e+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ñee'waa.ang ñasaasdláang
+     ñe.e+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: ñee'waa'uuj
+     ñe.e+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: ñee'waa'uujang
+     ñe.e+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: ñee'waaäsaa'uujang
+     ñe.e+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: ñee'waa'us
+     ñe.e+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: ñee'waa'ujaa
+     ñe.e+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: ñee'waa'uujaangaa
+     ñe.e+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: ñee'waaäsaa'us
+     ñe.e+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: ñee'waa'ahlanggang
+     ñe.e+V+3rd_PERSON_PLURAL+CERTAIN+PAST: ñee'waa'ahlanggan
+     ñe.e+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: ñee'waa'ahlanggiinii
+     ñe.e+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: ñee'waaäsaa'ahlans
+     ñe.e+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: ñee'waa'ahlans
+     ñe.e+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: ñee'aawaa'ahlang
+     ñe.e+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñee'aawaa'ahlanggaa
+     ñe.e+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñee'aawaa'ahlanggang
+     ñe.e+V+3rd_PERSON_PLURAL+REFLEXIVE: ñee'waa'ahl
+     ñe.e+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñee'waaäseehl
+     ñe.e+V+NEGATIVE+SINGULAR+IMPERATIVE: ñee'ang
+     ñe.e+V+NEGATIVE+IMMEDIATE+PRESENT: ñee'angga
+     ñe.e+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: ñee'ang
+     ñe.e+V+NEGATIVE+SIMPLE+PRESENT: ñee'anggang
+     ñe.e+V+NEGATIVE+DIRECT+PAST: ñee'anggan
+     ñe.e+V+NEGATIVE+INTERROGATIVE+PAST: ñee'aangaa
+     ñe.e+V+NEGATIVE+INDIRECT+PAST: ñee'aangaan
+     ñe.e+V+NEGATIVE+RELATIVE: ñee'ans
+     ñe.e+V+NEGATIVE+RELATIVE+EVIDENTIAL: ñee'aangaas
+     ñe.e+V+NEGATIVE+NON_FACTIVE: ñee'angang
+     ñe.e+V+NEGATIVE+PAST+NON_FACTIVE: ñee'aangaa.ang
+     ñe.e+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: ñee'anggang
+     ñe.e+V+NEGATIVE+PRESENT+HABITUAL: ñeegang'anggang
+     ñe.e+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: ñeegang'angang
+     ñe.e+V+NEGATIVE+DIRECT+PAST+HABITUAL: ñee'anggiinii
+     ñe.e+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: ñee'anggaangaa
+     ñe.e+V+NEGATIVE+INDIRECT+PAST+HABITUAL: ñee'anggaangaan
+     ñe.e+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: ñee'angäsaa
+     ñe.e+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: ñee'angäs
+     ñe.e+V+NEGATIVE+SIMPLE+FUTURE: ñee'angäsaang
+     ñe.e+V+NEGATIVE+IMMEDIATE+FUTURE: ñee'angäsga
+     ñe.e+V+NEGATIVE+RELATIVE+FUTURE: ñee'angäsaas
+     ñe.e+V+NEGATIVE+FUTURE+NON_FACTIVE: ñee'angäsaa.ang
+     ñe.e+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: ñee'ang'uuj
+     ñe.e+V+NEGATIVE+BIASED+SIMPLE+PRESENT: ñee'ang'uujang
+     ñe.e+V+NEGATIVE+RESIGNED_OBLIGATION: ñee'angäsaa'uujang
+     ñe.e+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: ñee'ang'us
+     ñe.e+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: ñee'ang'ujaa
+     ñe.e+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: ñee'ang'uujaangaa
+     ñe.e+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: ñee'angäsaa'us
+     ñe.e+V+NEGATIVE+CERTAIN+PRESENT: ñee'aang'ahlanggang
+     ñe.e+V+NEGATIVE+CERTAIN+PAST: ñee'aang'ahlanggan
+     ñe.e+V+NEGATIVE+CERTAIN+PAST+HABITUAL: ñee'aang'ahlanggiinii
+     ñe.e+V+NEGATIVE+CERTAIN+FUTURE: ñee'angäsaa'ahlans
+     ñe.e+V+NEGATIVE+CERTAIN+RELATIVE: ñee'aang'ahlans
+     ñe.e+V+NEGATIVE+INTENSIVE+PAST: ñee'aangaa'ahlang
+     ñe.e+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñee'aangaa'ahlanggaa
+     ñe.e+V+NEGATIVE+COUNTERFACTUAL+PRESENT: ñee'aangaa'ahlanggang
+     ñe.e+V+NEGATIVE+REFLEXIVE: ñee'aang'ahl
+     ñe.e+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: ñee'angäseehl
+     ñe.e+V+NEGATIVE+PLURAL+IMPERATIVE: ñee'ang'uu
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: ñee'ang'waa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: ñee'ang'waa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: ñee'ang'waang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: ñee'ang'wägan
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: ñee'ang'aawaa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: ñee'ang'aawaan
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: ñee'ang'waas
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: ñee'ang'aawaas
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: ñee'ang'waa.ang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: ñee'ang'aawaa.ang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: ñeegang'ang'waa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: ñeegang'ang'waang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: ñeegang'ang'waa.ang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: ñee'ang'wägiinii
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: ñee'ang'wägaangaa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: ñee'ang'wägaangaan
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: ñee'ang'waaäsaa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: ñee'ang'waaäs
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: ñee'ang'waaäsaang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: ñee'ang'waaäsga
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: ñee'ang'waaäsaas
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: ñee'ang'waaäsaa.ang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ñee'waa.ang ñasaa'áng
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: ñee'waa.ang ñasaa'ánggang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ñee'waa.ang ñasaasdlä'áng
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ñee'waa.ang ñasaasdlä'ánggang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: ñee'ang'waa'uuj
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: ñee'ang'waa'uujang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: ñee'ang'waaäsaa'uujang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: ñee'ang'waa'us
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: ñee'ang'waa'ujaa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: ñee'ang'waa'uujaangaa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: ñee'ang'waaäsaa'us
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: ñee'ang'waa'ahlanggang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: ñee'ang'waa'ahlanggan
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: ñee'ang'waa'ahlanggiinii
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: ñee'ang'waaäsaa'ahlans
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: ñee'ang'waa'ahlans
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: ñee'ang'aawaa'ahlang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñee'ang'aawaa'ahlanggaa
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñee'ang'aawaa'ahlanggang
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñee'ang'waa'ahl
+     ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñee'ang'waaäseehl
+

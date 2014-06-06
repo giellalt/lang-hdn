@@ -1,0 +1,26 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - chíigaangaa - ENGLISH : # CLASS_ANG_STEM_2
+
+     chíigang+V+INTERROGATIVE+PAST: chíigaangaa
+     chíigang+V+INDIRECT+PAST: chíigaangaan
+     chíigang+V+RELATIVE+EVIDENTIAL: chíigaangaas
+     chíigang+V+PAST+NON_FACTIVE: chíigaangaa.ang
+     chíigang+V+CERTAIN+PRESENT: chíigaang'ahlanggang
+     chíigang+V+CERTAIN+PAST: chíigaang'ahlanggan
+     chíigang+V+CERTAIN+PAST+HABITUAL: chíigaang'ahlanggiinii
+     chíigang+V+CERTAIN+RELATIVE: chíigaang'ahlans
+     chíigang+V+INTENSIVE+PAST: chíigaangaa'ahlang
+     chíigang+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: chíigaangaa'ahlanggaa
+     chíigang+V+COUNTERFACTUAL+PRESENT: chíigaangaa'ahlanggang
+     chíigang+V+REFLEXIVE: chíigaang'ahl
+
