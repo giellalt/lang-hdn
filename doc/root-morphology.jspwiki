@@ -79,6 +79,8 @@ The Usage extents are marked using the following tags:
 
 The nominals are inflected in the following Number
 
+ * +Sg    =
+ * +Pl    =
 
 
 
@@ -106,12 +108,6 @@ Non-dictionary words can be recognised with:
 
 The word forms in Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
-  Prefixes    ;
-  Nouns   ;
-  Adjectives  ;
-  Pronouns    ;
-  Numerals    ;
-  Postpositions ;
-  Particles ;
+ *   Verbs   ;     
 
 
