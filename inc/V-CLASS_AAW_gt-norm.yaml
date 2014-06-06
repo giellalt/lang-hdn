@@ -1,0 +1,190 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - sánaaw - ENGLISH : # CLASS_AAW
+
+     sánaaw+V+SINGULAR+IMPERATIVE: sánaaw
+     sánaaw+V+IMMEDIATE+PRESENT: sánaawga
+     sánaaw+V+INTERROGATIVE+SIMPLE+PRESENT: sánaaw
+     sánaaw+V+SIMPLE+PRESENT: sánaawgang
+     sánaaw+V+DIRECT+PAST: sánaawgan
+     sánaaw+V+INTERROGATIVE+PAST: sánaawgaa
+     sánaaw+V+INDIRECT+PAST: sánaawaan
+     sánaaw+V+RELATIVE: sánaaws
+     sánaaw+V+RELATIVE+EVIDENTIAL: sánaawaas
+     sánaaw+V+NON_FACTIVE: sánaaw.ang
+     sánaaw+V+PAST+NON_FACTIVE: sánaawaa.ang
+     sánaaw+V+INTERROGATIVE+PRESENT+HABITUAL: sánaawgang
+     sánaaw+V+PRESENT+HABITUAL: sánaawganggang
+     sánaaw+V+PRESENT+HABITUAL+NON_FACTIVE: sánaawgangang
+     sánaaw+V+DIRECT+PAST+HABITUAL: sánaawgiinii
+     sánaaw+V+INTERROGATIVE+PAST+HABITUAL: sánaawgaangaa
+     sánaaw+V+INDIRECT+PAST+HABITUAL: sánaawgaangaan
+     sánaaw+V+INTERROGATIVE+FUTURE+LONG: sánaawäsaa
+     sánaaw+V+INTERROGATIVE+FUTURE+SHORT: sánaawäs
+     sánaaw+V+SIMPLE+FUTURE: sánaawäsaang
+     sánaaw+V+IMMEDIATE+FUTURE: sánaawäsga
+     sánaaw+V+RELATIVE+FUTURE: sánaawäsaas
+     sánaaw+V+FUTURE+NON_FACTIVE: sánaawäsaa.ang
+     sánaaw+V+INTERROGATIVE+NEAR+FUTURE: sánaawang ñasa'áa
+     sánaaw+V+NEAR+FUTURE: sánaawang ñasa'áang
+     sánaaw+V+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang ñasaasdláa
+     sánaaw+V+VERYNEAR+FUTURE: sánaawang ñasaasdláang
+     sánaaw+V+BIASED+IMMEDIATE+PRESENT: sánaaw'uuj
+     sánaaw+V+BIASED+SIMPLE+PRESENT: sánaaw'uujang
+     sánaaw+V+RESIGNED_OBLIGATION: sánaawäsaa'uujang
+     sánaaw+V+BIASED+INTERROGATIVE+PRESENT: sánaaw'us
+     sánaaw+V+BIASED+INTERROGATIVE+PAST: sánaaw'ujaa
+     sánaaw+V+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'uujaangaa
+     sánaaw+V+BIASED+INTERROGATIVE+FUTURE: sánaawäsaa'us
+     sánaaw+V+CERTAIN+PRESENT: sánaaw'ahlanggang
+     sánaaw+V+CERTAIN+PAST: sánaaw'ahlanggan
+     sánaaw+V+CERTAIN+PAST+HABITUAL: sánaaw'ahlanggiinii
+     sánaaw+V+CERTAIN+FUTURE: sánaawäsaa'ahlans
+     sánaaw+V+CERTAIN+RELATIVE: sánaaw'ahlans
+     sánaaw+V+INTENSIVE+PAST: sánaawaa'ahlang
+     sánaaw+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaawaa'ahlanggaa
+     sánaaw+V+COUNTERFACTUAL+PRESENT: sánaawaa'ahlanggang
+     sánaaw+V+REFLEXIVE: sánaaw'ahl
+     sánaaw+V+FUTURE+REFLEXIVE+INTERROGATIVE: sánaawäseehl
+     sánaaw+V+PLURAL+IMPERATIVE: sánaaw'uu
+     sánaaw+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sánaaw'waa
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sánaaw'waa
+     sánaaw+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sánaaw'waang
+     sánaaw+V+3rd_PERSON_PLURAL+DIRECT+PAST: sánaaw'wägan
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sánaaw'aawaa
+     sánaaw+V+3rd_PERSON_PLURAL+INDIRECT+PAST: sánaaw'aawaan
+     sánaaw+V+3rd_PERSON_PLURAL+RELATIVE: sánaaw'waas
+     sánaaw+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sánaaw'aawaas
+     sánaaw+V+3rd_PERSON_PLURAL+NON_FACTIVE: sánaaw'waa.ang
+     sánaaw+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sánaaw'aawaa.ang
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sánaawgang'waa
+     sánaaw+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sánaawgang'waang
+     sánaaw+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sánaawgang'waa.ang
+     sánaaw+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sánaaw'wägiinii
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sánaaw'wägaangaa
+     sánaaw+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sánaaw'wägaangaan
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sánaaw'waaäsaa
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sánaaw'waaäs
+     sánaaw+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sánaaw'waaäsaang
+     sánaaw+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sánaaw'waaäsga
+     sánaaw+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sánaaw'waaäsaas
+     sánaaw+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sánaaw'waaäsaa.ang
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang ñasa'áa
+     sánaaw+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang ñasa'áang
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdláa
+     sánaaw+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdláang
+     sánaaw+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sánaaw'waa'uuj
+     sánaaw+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sánaaw'waa'uujang
+     sánaaw+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sánaaw'waaäsaa'uujang
+     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sánaaw'waa'us
+     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sánaaw'waa'ujaa
+     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'waa'uujaangaa
+     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sánaaw'waaäsaa'us
+     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sánaaw'waa'ahlanggang
+     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+PAST: sánaaw'waa'ahlanggan
+     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sánaaw'waa'ahlanggiinii
+     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sánaaw'waaäsaa'ahlans
+     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sánaaw'waa'ahlans
+     sánaaw+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: sánaaw'aawaa'ahlang
+     sánaaw+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaaw'aawaa'ahlanggaa
+     sánaaw+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sánaaw'aawaa'ahlanggang
+     sánaaw+V+3rd_PERSON_PLURAL+REFLEXIVE: sánaaw'waa'ahl
+     sánaaw+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'waaäseehl
+     sánaaw+V+NEGATIVE+SINGULAR+IMPERATIVE: sánaaw'ang
+     sánaaw+V+NEGATIVE+IMMEDIATE+PRESENT: sánaaw'angga
+     sánaaw+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: sánaaw'ang
+     sánaaw+V+NEGATIVE+SIMPLE+PRESENT: sánaaw'anggang
+     sánaaw+V+NEGATIVE+DIRECT+PAST: sánaaw'anggan
+     sánaaw+V+NEGATIVE+INTERROGATIVE+PAST: sánaaw'aangaa
+     sánaaw+V+NEGATIVE+INDIRECT+PAST: sánaaw'aangaan
+     sánaaw+V+NEGATIVE+RELATIVE: sánaaw'ans
+     sánaaw+V+NEGATIVE+RELATIVE+EVIDENTIAL: sánaaw'aangaas
+     sánaaw+V+NEGATIVE+NON_FACTIVE: sánaaw'angang
+     sánaaw+V+NEGATIVE+PAST+NON_FACTIVE: sánaaw'aangaa.ang
+     sánaaw+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: sánaaw'anggang
+     sánaaw+V+NEGATIVE+PRESENT+HABITUAL: sánaawgang'anggang
+     sánaaw+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sánaawgang'angang
+     sánaaw+V+NEGATIVE+DIRECT+PAST+HABITUAL: sánaaw'anggiinii
+     sánaaw+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: sánaaw'anggaangaa
+     sánaaw+V+NEGATIVE+INDIRECT+PAST+HABITUAL: sánaaw'anggaangaan
+     sánaaw+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: sánaaw'angäsaa
+     sánaaw+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: sánaaw'angäs
+     sánaaw+V+NEGATIVE+SIMPLE+FUTURE: sánaaw'angäsaang
+     sánaaw+V+NEGATIVE+IMMEDIATE+FUTURE: sánaaw'angäsga
+     sánaaw+V+NEGATIVE+RELATIVE+FUTURE: sánaaw'angäsaas
+     sánaaw+V+NEGATIVE+FUTURE+NON_FACTIVE: sánaaw'angäsaa.ang
+     sánaaw+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sánaawang ñasaa'áng
+     sánaaw+V+NEGATIVE+NEAR+FUTURE: sánaawang ñasaa'ánggang
+     sánaaw+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang ñasaasdlä'áng
+     sánaaw+V+NEGATIVE+VERYNEAR+FUTURE: sánaawang ñasaasdlä'ánggang
+     sánaaw+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sánaaw'ang'uuj
+     sánaaw+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sánaaw'ang'uujang
+     sánaaw+V+NEGATIVE+RESIGNED_OBLIGATION: sánaaw'angäsaa'uujang
+     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: sánaaw'ang'us
+     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: sánaaw'ang'ujaa
+     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'ang'uujaangaa
+     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: sánaaw'angäsaa'us
+     sánaaw+V+NEGATIVE+CERTAIN+PRESENT: sánaaw'aang'ahlanggang
+     sánaaw+V+NEGATIVE+CERTAIN+PAST: sánaaw'aang'ahlanggan
+     sánaaw+V+NEGATIVE+CERTAIN+PAST+HABITUAL: sánaaw'aang'ahlanggiinii
+     sánaaw+V+NEGATIVE+CERTAIN+FUTURE: sánaaw'angäsaa'ahlans
+     sánaaw+V+NEGATIVE+CERTAIN+RELATIVE: sánaaw'aang'ahlans
+     sánaaw+V+NEGATIVE+INTENSIVE+PAST: sánaaw'aangaa'ahlang
+     sánaaw+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaaw'aangaa'ahlanggaa
+     sánaaw+V+NEGATIVE+COUNTERFACTUAL+PRESENT: sánaaw'aangaa'ahlanggang
+     sánaaw+V+NEGATIVE+REFLEXIVE: sánaaw'aang'ahl
+     sánaaw+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'angäseehl
+     sánaaw+V+NEGATIVE+PLURAL+IMPERATIVE: sánaaw'ang'uu
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sánaaw'ang'waa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sánaaw'ang'waa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sánaaw'ang'waang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: sánaaw'ang'wägan
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sánaaw'ang'aawaa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: sánaaw'ang'aawaan
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: sánaaw'ang'waas
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sánaaw'ang'aawaas
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: sánaaw'ang'waa.ang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sánaaw'ang'aawaa.ang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sánaawgang'ang'waa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sánaawgang'ang'waang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sánaawgang'ang'waa.ang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sánaaw'ang'wägiinii
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sánaaw'ang'wägaangaa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sánaaw'ang'wägaangaan
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sánaaw'ang'waaäsaa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sánaaw'ang'waaäs
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sánaaw'ang'waaäsaang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sánaaw'ang'waaäsga
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sánaaw'ang'waaäsaas
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sánaaw'ang'waaäsaa.ang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang ñasaa'áng
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang ñasaa'ánggang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdlä'áng
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdlä'ánggang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sánaaw'ang'waa'uuj
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sánaaw'ang'waa'uujang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sánaaw'ang'waaäsaa'uujang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sánaaw'ang'waa'us
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sánaaw'ang'waa'ujaa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'ang'waa'uujaangaa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sánaaw'ang'waaäsaa'us
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sánaaw'ang'waa'ahlanggang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: sánaaw'ang'waa'ahlanggan
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sánaaw'ang'waa'ahlanggiinii
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sánaaw'ang'waaäsaa'ahlans
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sánaaw'ang'waa'ahlans
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: sánaaw'ang'aawaa'ahlang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaaw'ang'aawaa'ahlanggaa
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sánaaw'ang'aawaa'ahlanggang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sánaaw'ang'waa'ahl
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'ang'waaäseehl
+

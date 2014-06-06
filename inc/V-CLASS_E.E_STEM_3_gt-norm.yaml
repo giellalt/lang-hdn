@@ -1,0 +1,55 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - ñe.ée - ENGLISH : # CLASS_E.E_STEM_3
+
+     ñe.e+V+SINGULAR+IMPERATIVE: ñe.ée
+     ñe.e+V+IMMEDIATE+PRESENT: ñe.ée
+     ñe.e+V+INTERROGATIVE+SIMPLE+PRESENT: ñe.ée
+     ñe.e+V+SIMPLE+PRESENT: ñe.éeng
+     ñe.e+V+INTERROGATIVE+PAST: ñe.éeyaa
+     ñe.e+V+INDIRECT+PAST: ñe.éeyaan
+     ñe.e+V+RELATIVE: ñe.ées
+     ñe.e+V+RELATIVE+EVIDENTIAL: ñe.éeyaas
+     ñe.e+V+NON_FACTIVE: ñe.ée.ang
+     ñe.e+V+PAST+NON_FACTIVE: ñe.éeyaa.ang
+     ñe.e+V+INTERROGATIVE+FUTURE+LONG: ñe.éeäsaa
+     ñe.e+V+INTERROGATIVE+FUTURE+SHORT: ñe.éeäs
+     ñe.e+V+SIMPLE+FUTURE: ñe.éeäsaang
+     ñe.e+V+IMMEDIATE+FUTURE: ñe.éeäsga
+     ñe.e+V+RELATIVE+FUTURE: ñe.éeäsaas
+     ñe.e+V+FUTURE+NON_FACTIVE: ñe.éeäsaa.ang
+     ñe.e+V+INTERROGATIVE+NEAR+FUTURE: ñe.ée.ang ñasa'áa
+     ñe.e+V+NEAR+FUTURE: ñe.ée.ang ñasa'áang
+     ñe.e+V+INTERROGATIVE+VERYNEAR+FUTURE: ñe.ée.ang ñasaasdláa
+     ñe.e+V+VERYNEAR+FUTURE: ñe.ée.ang ñasaasdláang
+     ñe.e+V+BIASED+IMMEDIATE+PRESENT: ñe.ée'uuj
+     ñe.e+V+BIASED+SIMPLE+PRESENT: ñe.ée'uujang
+     ñe.e+V+RESIGNED_OBLIGATION: ñe.éeäsaa'uujang
+     ñe.e+V+BIASED+INTERROGATIVE+PRESENT: ñe.ée'us
+     ñe.e+V+BIASED+INTERROGATIVE+PAST: ñe.ée'ujaa
+     ñe.e+V+BIASED+INTERROGATIVE+PAST+HABITUAL: ñe.ée'uujaangaa
+     ñe.e+V+BIASED+INTERROGATIVE+FUTURE: ñe.éeäsaa'us
+     ñe.e+V+CERTAIN+PRESENT: ñe.ée'ahlanggang
+     ñe.e+V+CERTAIN+PAST: ñe.ée'ahlanggan
+     ñe.e+V+CERTAIN+PAST+HABITUAL: ñe.ée'ahlanggiinii
+     ñe.e+V+CERTAIN+FUTURE: ñe.éeäsaa'ahlans
+     ñe.e+V+CERTAIN+RELATIVE: ñe.ée'ahlans
+     ñe.e+V+INTENSIVE+PAST: ñe.éeyaa'ahlang
+     ñe.e+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñe.éeyaa'ahlanggaa
+     ñe.e+V+COUNTERFACTUAL+PRESENT: ñe.éeyaa'ahlanggang
+     ñe.e+V+REFLEXIVE: ñe.ée'ahl
+     ñe.e+V+FUTURE+REFLEXIVE+INTERROGATIVE: ñe.éeäseehl
+     ñe.e+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: ñe.ée.ang ñasaa'áng
+     ñe.e+V+NEGATIVE+NEAR+FUTURE: ñe.ée.ang ñasaa'ánggang
+     ñe.e+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ñe.ée.ang ñasaasdlä'áng
+     ñe.e+V+NEGATIVE+VERYNEAR+FUTURE: ñe.ée.ang ñasaasdlä'ánggang
+

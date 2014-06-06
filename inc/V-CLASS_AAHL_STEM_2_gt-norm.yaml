@@ -1,0 +1,38 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - skyáalga - ENGLISH : # CLASS_AAHL_STEM_2
+
+     skyáahl+V+IMMEDIATE+PRESENT: skyáalga
+     skyáahl+V+SIMPLE+PRESENT: skyáalgang
+     skyáahl+V+DIRECT+PAST: skyáalgan
+     skyáahl+V+INTERROGATIVE+PAST: skyáalaa
+     skyáahl+V+INDIRECT+PAST: skyáalaan
+     skyáahl+V+RELATIVE+EVIDENTIAL: skyáalaas
+     skyáahl+V+PAST+NON_FACTIVE: skyáalaa.ang
+     skyáahl+V+INTERROGATIVE+PRESENT+HABITUAL: skyáalgang
+     skyáahl+V+PRESENT+HABITUAL: skyáalganggang
+     skyáahl+V+PRESENT+HABITUAL+NON_FACTIVE: skyáalgangang
+     skyáahl+V+DIRECT+PAST+HABITUAL: skyáalgiinii
+     skyáahl+V+INTERROGATIVE+PAST+HABITUAL: skyáalgaangaa
+     skyáahl+V+INDIRECT+PAST+HABITUAL: skyáalgaangaan
+     skyáahl+V+INTENSIVE+PAST: skyáalaa'ahlang
+     skyáahl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: skyáalaa'ahlanggaa
+     skyáahl+V+COUNTERFACTUAL+PRESENT: skyáalaa'ahlanggang
+     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: skyáalgang'waa
+     skyáahl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: skyáalgang'waang
+     skyáahl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: skyáalgang'waa.ang
+     skyáahl+V+NEGATIVE+PRESENT+HABITUAL: skyáalgang'anggang
+     skyáahl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: skyáalgang'angang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: skyáalgang'ang'waa
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: skyáalgang'ang'waang
+     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: skyáalgang'ang'waa.ang
+
