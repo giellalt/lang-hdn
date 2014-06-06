@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AL_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AL_STEM_1
+  Verb - sçál - ENGLISH : # CLASS_AL_STEM_1
 
      sçál+V+SINGULAR+IMPERATIVE: sçál
      sçál+V+IMMEDIATE+PRESENT: sçálga
@@ -177,3 +175,4 @@ Tests:
      sçál+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sçál'ang'aawaa'ahlanggang
      sçál+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sçál'ang'waa'ahl
      sçál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sçál'ang'waaäseehl
+
