@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AY_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AY_STEM_1
+  Verb - ñáy - ENGLISH : # CLASS_AY_STEM_1
 
      ñáy+V+SINGULAR+IMPERATIVE: ñáy
      ñáy+V+IMMEDIATE+PRESENT: ñáyga
@@ -177,3 +175,4 @@ Tests:
      ñáy+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñáy'ang'aawaa'ahlanggang
      ñáy+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñáy'ang'waa'ahl
      ñáy+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñáy'ang'waaäseehl
+
