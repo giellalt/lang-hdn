@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AW_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AW_STEM_2
+  Verb - sçáawaa - ENGLISH : # CLASS_AW_STEM_2
 
      sçáw+V+INTERROGATIVE+PAST: sçáawaa
      sçáw+V+INDIRECT+PAST: sçáawaan
@@ -25,3 +23,4 @@ Tests:
      sçáw+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçáawaa'ahlanggaa
      sçáw+V+COUNTERFACTUAL+PRESENT: sçáawaa'ahlanggang
      sçáw+V+REFLEXIVE: sçáaw'ahl
+
