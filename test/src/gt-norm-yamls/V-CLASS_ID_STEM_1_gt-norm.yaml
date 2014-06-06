@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_ID_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_ID_STEM_1
+  Verb - kúnid - ENGLISH : # CLASS_ID_STEM_1
 
      kúnid+V+SINGULAR+IMPERATIVE: kúnid
      kúnid+V+INTERROGATIVE+SIMPLE+PRESENT: kúnid
@@ -155,3 +153,4 @@ Tests:
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kúnid'ang'aawaa'ahlanggang
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: kúnid'ang'waa'ahl
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kúnid'ang'waaäseehl
+
