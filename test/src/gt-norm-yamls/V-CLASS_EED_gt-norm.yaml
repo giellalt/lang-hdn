@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_EED verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_EED
+  Verb - gayéed - ENGLISH : # CLASS_EED
 
      gayéed+V+SINGULAR+IMPERATIVE: gayéed
      gayéed+V+IMMEDIATE+PRESENT: gayéedga
@@ -189,3 +187,4 @@ Tests:
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: gayéed'ang'aawaa'ahlanggang
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: gayéed'ang'waa'ahl
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: gayéed'ang'waaäseehl
+
