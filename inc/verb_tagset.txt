@@ -1,0 +1,31 @@
+N    Short	CamelCase	JL
+7040 +V		+V		+V
+3520 +Neg	+Negative	+NEGATIVE
+3440 +Pl3	+3Pl		+3rd_PERSON_Plural
+2080 +Interrog	+Interrogative	+INTERROGATIVE
+2080 +Fut	+Future		+FUTURE
+1920 +Past	+Past		+PAST
+1760 +Pres	+Present	+PRESENT
+1280 +Hab	+Habitual	+HABITUAL
+ 960 +Bias	+Biased		+BIASED
+ 800 +Crt	+Certain	+CERTAIN
+ 640 +Simple	+Simple		+SIMPLE
+ 640 +Rel	+Relative	+RELATIVE
+ 640 +NFact	+NonFactive	+NON_FACTIVE
+ 480 +Imm	+Immediate	+IMMEDIATE
+ 320 +VNear	+VeryNear	+VERYNEAR
+ 320 +Refl	+Reflexive	+REFLEXIVE
+ 320 +Near	+Near		+NEAR
+ 320 +Indirect	+Indirect	+INDIRECT
+ 320 +Direct	+Direct		+DIRECT
+ 160 +Persist	+Persist	+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE
+ 160 +Short	+Short		+SHORT
+ 160 +ResOblig	+ResignedObligation	+RESIGNED_OBLIGATION
+ 160 +Long	+Long			+LONG
+ 160 +Intense	+Intensive		+INTENSIVE
+ 160 +Imp	+Imperative		+IMPERATIVE
+ 160 +Evid	+Evidential		+EVIDENTIAL
+ 160 +CFactual	+CounterFactual		+COUNTERFACTUAL
+  80 +Sg	+Singular		+SINGULAR
+  40 +Pl	+Plural			+Plural
+  40 +Pl	+Plural			+PLURAL
