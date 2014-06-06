@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_A_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_A_STEM_2
+  Verb - ñíiyägan - ENGLISH : # CLASS_A_STEM_2
 
      ñíiyä+V+DIRECT+PAST: ñíiyägan
      ñíiyä+V+INTERROGATIVE+PRESENT+HABITUAL: ñíiyägang
@@ -148,3 +146,4 @@ Tests:
      ñíiyä+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñíiyä'ang'aawaa'ahlanggang
      ñíiyä+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñíiyä'ang'waa'ahl
      ñíiyä+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñíiyä'ang'waaäseehl
+
