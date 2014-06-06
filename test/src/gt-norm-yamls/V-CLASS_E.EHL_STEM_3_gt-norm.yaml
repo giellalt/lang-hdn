@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_E.EHL_STEM_3 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_E.EHL_STEM_3
+  Verb - xál - ENGLISH : # CLASS_E.EHL_STEM_3
 
      ñáat'e.ehl+V+INTERROGATIVE+PAST: xál ñáat'eelaa xál
      ñáat'e.ehl+V+INDIRECT+PAST: xál ñáat'eelaan xál
@@ -25,3 +23,4 @@ Tests:
      ñáat'e.ehl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eelaa'ahlanggaa xál
      ñáat'e.ehl+V+COUNTERFACTUAL+PRESENT: xál ñáat'eelaa'ahlanggang xál
      ñáat'e.ehl+V+REFLEXIVE: xál ñáat'eel'ahl xál
+
