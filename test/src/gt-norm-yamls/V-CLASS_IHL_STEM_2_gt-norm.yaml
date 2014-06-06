@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_IHL_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_IHL_STEM_2
+  Verb - hlgílga - ENGLISH : # CLASS_IHL_STEM_2
 
      hlgihl+V+IMMEDIATE+PRESENT: hlgílga
      hlgihl+V+SIMPLE+PRESENT: hlgílgang
@@ -39,3 +37,4 @@ Tests:
      hlgihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hlgílgang'ang'waa
      hlgihl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hlgílgang'ang'waang
      hlgihl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hlgílgang'ang'waa.ang
+
