@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AAL verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AAL
+  Verb - xadáal - ENGLISH : # CLASS_AAL
 
      xadáal+V+SINGULAR+IMPERATIVE: xadáal
      xadáal+V+IMMEDIATE+PRESENT: xadáalga
@@ -189,3 +187,4 @@ Tests:
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xadáal'ang'aawaa'ahlanggang
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: xadáal'ang'waa'ahl
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xadáal'ang'waaäseehl
+
