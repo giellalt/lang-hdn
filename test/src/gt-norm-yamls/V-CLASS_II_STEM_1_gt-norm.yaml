@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_II_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_II_STEM_1
+  Verb - çíihlgii - ENGLISH : # CLASS_II_STEM_1
 
      çíihlgii+V+SINGULAR+IMPERATIVE: çíihlgii
      çíihlgii+V+IMMEDIATE+PRESENT: çíihlgiiga
@@ -177,3 +175,4 @@ Tests:
      çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: çíihlgii'ang'aawaa'ahlanggang
      çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: çíihlgii'ang'waa'ahl
      çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: çíihlgii'ang'waaäseehl
+
