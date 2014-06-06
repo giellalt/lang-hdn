@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_IN_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_IN_STEM_1
+  Verb - kyáambda - ENGLISH : # CLASS_IN_STEM_1
 
      ín+V+SINGULAR+IMPERATIVE: kyáambda ín kyáambda
      ín+V+IMMEDIATE+PRESENT: kyáambda ín.ga kyáambda
@@ -177,3 +175,4 @@ Tests:
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kyáambda ín'ang'aawaa'ahlanggang kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: kyáambda ín'ang'waa'ahl kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kyáambda ín'ang'waaäseehl kyáambda
+
