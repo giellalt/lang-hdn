@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UD_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UD_STEM_2
+  Verb - díigwiida - ENGLISH : # CLASS_UD_STEM_2
 
      díigud+V+IMMEDIATE+PRESENT: díigwiida
      díigud+V+SIMPLE+PRESENT: díigwiidang
@@ -47,3 +45,4 @@ Tests:
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: díigwiidang'ang'waa
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: díigwiidang'ang'waang
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: díigwiidang'ang'waa.ang
+
