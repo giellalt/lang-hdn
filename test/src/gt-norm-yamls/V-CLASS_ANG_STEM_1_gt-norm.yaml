@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_ANG_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_ANG_STEM_1
+  Verb - chíigang - ENGLISH : # CLASS_ANG_STEM_1
 
      chíigang+V+SINGULAR+IMPERATIVE: chíigang
      chíigang+V+IMMEDIATE+PRESENT: chíigangga
@@ -177,3 +175,4 @@ Tests:
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: chíigang'ang'aawaa'ahlanggang
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: chíigang'ang'waa'ahl
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: chíigang'ang'waaäseehl
+
