@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_US_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_US_STEM_1
+  Verb - kus - ENGLISH : # CLASS_US_STEM_1
 
      kus+V+SINGULAR+IMPERATIVE: kus
      kus+V+INTERROGATIVE+SIMPLE+PRESENT: kus
@@ -151,3 +149,4 @@ Tests:
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kus'ang'aawaa'ahlanggang
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: kus'ang'waa'ahl
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kus'ang'waaäseehl
+
