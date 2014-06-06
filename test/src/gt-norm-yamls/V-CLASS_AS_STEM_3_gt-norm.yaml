@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AS_STEM_3 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AS_STEM_3
+  Verb - dándajaa - ENGLISH : # CLASS_AS_STEM_3
 
      dándas+V+INTERROGATIVE+PAST: dándajaa
      dándas+V+INDIRECT+PAST: dándajaan
@@ -20,3 +18,4 @@ Tests:
      dándas+V+INTENSIVE+PAST: dándajaa'ahlang
      dándas+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dándajaa'ahlanggaa
      dándas+V+COUNTERFACTUAL+PRESENT: dándajaa'ahlanggang
+
