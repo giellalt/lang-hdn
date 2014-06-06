@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AS_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AS_STEM_1
+  Verb - dándas - ENGLISH : # CLASS_AS_STEM_1
 
      dándas+V+SINGULAR+IMPERATIVE: dándas
      dándas+V+INTERROGATIVE+SIMPLE+PRESENT: dándas
@@ -151,3 +149,4 @@ Tests:
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dándas'ang'aawaa'ahlanggang
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: dándas'ang'waa'ahl
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dándas'ang'waaäseehl
+
