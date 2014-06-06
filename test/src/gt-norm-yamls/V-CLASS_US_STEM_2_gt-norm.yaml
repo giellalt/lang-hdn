@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_US_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_US_STEM_2
+  Verb - kuja - ENGLISH : # CLASS_US_STEM_2
 
      kus+V+IMMEDIATE+PRESENT: kuja
      kus+V+SIMPLE+PRESENT: kujang
@@ -44,3 +42,4 @@ Tests:
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujang'ang'waa
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujang'ang'waang
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujang'ang'waa.ang
+
