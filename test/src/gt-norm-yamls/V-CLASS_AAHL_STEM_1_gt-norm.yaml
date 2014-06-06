@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AAHL_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AAHL_STEM_1
+  Verb - skyáahl - ENGLISH : # CLASS_AAHL_STEM_1
 
      skyáahl+V+SINGULAR+IMPERATIVE: skyáahl
      skyáahl+V+INTERROGATIVE+SIMPLE+PRESENT: skyáahl
@@ -165,3 +163,4 @@ Tests:
      skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: skyáahl'ang'aawaa'ahlanggang
      skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: skyáahl'ang'waa'ahl
      skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: skyáahl'ang'waaäseehl
+
