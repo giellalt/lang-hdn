@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_IS_STEM_3 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_IS_STEM_3
+  Verb - kíl - ENGLISH : # CLASS_IS_STEM_3
 
      is+V+INTERROGATIVE+PAST: kíl ijaa kíl
      is+V+INDIRECT+PAST: kíl ijaan kíl
@@ -20,3 +18,4 @@ Tests:
      is+V+INTENSIVE+PAST: kíl ijaa'ahlang kíl
      is+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kíl ijaa'ahlanggaa kíl
      is+V+COUNTERFACTUAL+PRESENT: kíl ijaa'ahlanggang kíl
+
