@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_IS_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_IS_STEM_2
+  Verb - kíl - ENGLISH : # CLASS_IS_STEM_2
 
      is+V+IMMEDIATE+PRESENT: kíl íija kíl
      is+V+SIMPLE+PRESENT: kíl íijang kíl
@@ -44,3 +42,4 @@ Tests:
      is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kíl íijang'ang'waa kíl
      is+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kíl íijang'ang'waang kíl
      is+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'ang'waa.ang kíl
+
