@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_E.E_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_E.E_STEM_2
+  Verb - ñeegan - ENGLISH : # CLASS_E.E_STEM_2
 
      ñe.e+V+DIRECT+PAST: ñeegan
      ñe.e+V+INTERROGATIVE+PRESENT+HABITUAL: ñeegang
@@ -148,3 +146,4 @@ Tests:
      ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ñee'ang'aawaa'ahlanggang
      ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ñee'ang'waa'ahl
      ñe.e+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ñee'ang'waaäseehl
+
