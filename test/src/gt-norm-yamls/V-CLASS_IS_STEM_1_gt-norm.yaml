@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_IS_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_IS_STEM_1
+  Verb - kíl - ENGLISH : # CLASS_IS_STEM_1
 
      is+V+SINGULAR+IMPERATIVE: kíl is kíl
      is+V+INTERROGATIVE+SIMPLE+PRESENT: kíl is kíl
@@ -151,3 +149,4 @@ Tests:
      is+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kíl is'ang'aawaa'ahlanggang kíl
      is+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: kíl is'ang'waa'ahl kíl
      is+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kíl is'ang'waaäseehl kíl
+
