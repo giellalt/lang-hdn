@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UN_STEM_1 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UN_STEM_1
+  Verb - ta - ENGLISH : # CLASS_UN_STEM_1
 
      kún+V+SINGULAR+IMPERATIVE: ta kún0 ta
      kún+V+IMMEDIATE+PRESENT: ta kún.ga ta
@@ -177,3 +175,4 @@ Tests:
      kún+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: ta kún'ang'aawaa'ahlanggang ta
      kún+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: ta kún'ang'waa'ahl ta
      kún+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: ta kún'ang'waaäseehl ta
+
