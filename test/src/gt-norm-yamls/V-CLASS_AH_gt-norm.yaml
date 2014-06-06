@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_AH verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_AH
+  Verb - dah - ENGLISH : # CLASS_AH
 
      dah+V+SINGULAR+IMPERATIVE: dah
      dah+V+IMMEDIATE+PRESENT: dahga
@@ -189,3 +187,4 @@ Tests:
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dah'ang'aawaa'ahlanggang
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: dah'ang'waa'ahl
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dah'ang'waaäseehl
+
