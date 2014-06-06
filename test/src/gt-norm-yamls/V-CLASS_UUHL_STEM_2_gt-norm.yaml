@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UUHL_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UUHL_STEM_2
+  Verb - t'ahlgúlga - ENGLISH : # CLASS_UUHL_STEM_2
 
      t'ahlgúuhl+V+IMMEDIATE+PRESENT: t'ahlgúlga
      t'ahlgúuhl+V+SIMPLE+PRESENT: t'ahlgúlgang
@@ -39,3 +37,4 @@ Tests:
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: t'ahlgúlgang'ang'waa
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: t'ahlgúlgang'ang'waang
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: t'ahlgúlgang'ang'waa.ang
+
