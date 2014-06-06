@@ -1,17 +1,15 @@
-# YAML file for Class CLASS_UN_STEM_2 verbs
-
 Config:
- hfst:
-  Gen: ../../../src/generator-gt-norm.hfst
-  Morph: ../../../src/analyser-gt-norm.hfst
- xerox:
-  Gen: ../../../src/generator-gt-norm.xfst
-  Morph: ../../../src/analyser-gt-norm.xfst
-  App: lookup
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
 
 Tests:
 
-    # CLASS_UN_STEM_2
+  Verb - ta - ENGLISH : # CLASS_UN_STEM_2
 
      kún+V+INTERROGATIVE+PAST: ta kwáanaa ta
      kún+V+INDIRECT+PAST: ta kwáanaan ta
@@ -25,3 +23,4 @@ Tests:
      kún+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ta kwáanaa'ahlanggaa ta
      kún+V+COUNTERFACTUAL+PRESENT: ta kwáanaa'ahlanggang ta
      kún+V+REFLEXIVE: ta kwáan'ahl ta
+
