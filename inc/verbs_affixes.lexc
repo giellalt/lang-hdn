@@ -1,5 +1,3 @@
-
-
 LEXICON CLASS-AA
 +V+SINGULAR+IMPERATIVE: # ;
 +V+IMMEDIATE+PRESENT:ga # ;
@@ -5199,7 +5197,8 @@ LEXICON CLASS-UU-STEM-2
 +V+NEGATIVE+VERYNEAR+FUTURE:ang% ñasaasdlä'ánggang # ;
 
 LEXICON CLASS-A-STEM-1
-:!% nothing% goes% here # ;
+!% nothing% goes% here
+# ;
 
 LEXICON CLASS-A-STEM-2
 +V+DIRECT+PAST:gan # ;
@@ -5746,7 +5745,8 @@ LEXICON CLASS-AS-STEM-3
 +V+COUNTERFACTUAL+PRESENT:aa'ahlanggang # ;
 
 LEXICON CLASS-E.E-STEM-1
-:!% nothing% goes% here # ;
+!% nothing% goes% here # ;
+# ;
 
 LEXICON CLASS-E.E-STEM-2
 +V+DIRECT+PAST:gan # ;
@@ -5929,7 +5929,8 @@ LEXICON CLASS-E.E-STEM-3
 +V+NEGATIVE+VERYNEAR+FUTURE:%.ang% ñasaasdlä'ánggang # ;
 
 LEXICON CLASS-E.EHL-STEM-1
-:!% Nothing% goes% in% here # ;
+!% Nothing% goes% in% here # ;
+# ;
 
 LEXICON CLASS-E.EHL-STEM-2
 +V+SINGULAR+IMPERATIVE: # ;
@@ -7204,5 +7205,5 @@ LEXICON CLASS-UUHL-STEM-3
 +V+REFLEXIVE:'ahl # ;
 
 
-:!!!!!!!!!!!% únhl% % CLASS-UNHL-STEM-1 # ;
-:!!!!!!!!!!!% % :% únal% % CLASS-UNHL-STEM-2 # ;
+!!!!!!!!!!!% únhl% % CLASS-UNHL-STEM-1 # ;
+!!!!!!!!!!!% % :% únal% % CLASS-UNHL-STEM-2 # ;
