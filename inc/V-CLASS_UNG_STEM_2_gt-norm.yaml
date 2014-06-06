@@ -1,0 +1,26 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - ñ'usägwáangaa - ENGLISH : # CLASS_UNG_STEM_2
+
+     ñ'usägúng+V+INTERROGATIVE+PAST: ñ'usägwáangaa
+     ñ'usägúng+V+INDIRECT+PAST: ñ'usägwáangaan
+     ñ'usägúng+V+RELATIVE+EVIDENTIAL: ñ'usägwáangaas
+     ñ'usägúng+V+PAST+NON_FACTIVE: ñ'usägwáangaa.ang
+     ñ'usägúng+V+CERTAIN+PRESENT: ñ'usägwáang'ahlanggang
+     ñ'usägúng+V+CERTAIN+PAST: ñ'usägwáang'ahlanggan
+     ñ'usägúng+V+CERTAIN+PAST+HABITUAL: ñ'usägwáang'ahlanggiinii
+     ñ'usägúng+V+CERTAIN+RELATIVE: ñ'usägwáang'ahlans
+     ñ'usägúng+V+INTENSIVE+PAST: ñ'usägwáangaa'ahlang
+     ñ'usägúng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñ'usägwáangaa'ahlanggaa
+     ñ'usägúng+V+COUNTERFACTUAL+PRESENT: ñ'usägwáangaa'ahlanggang
+     ñ'usägúng+V+REFLEXIVE: ñ'usägwáang'ahl
+

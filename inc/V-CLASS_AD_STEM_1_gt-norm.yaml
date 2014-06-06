@@ -1,0 +1,156 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - sçalad - ENGLISH : # CLASS_AD_STEM_1
+
+     sçalad+V+SINGULAR+IMPERATIVE: sçalad
+     sçalad+V+INTERROGATIVE+SIMPLE+PRESENT: sçalad
+     sçalad+V+INTERROGATIVE+PAST: sçaladáa
+     sçalad+V+INDIRECT+PAST: sçaladáan
+     sçalad+V+RELATIVE: sçalads
+     sçalad+V+RELATIVE+EVIDENTIAL: sçaladáas
+     sçalad+V+PAST+NON_FACTIVE: sçaladáa.ang
+     sçalad+V+INTERROGATIVE+FUTURE+LONG: sçaladäsáa
+     sçalad+V+INTERROGATIVE+FUTURE+SHORT: sçaladäs
+     sçalad+V+SIMPLE+FUTURE: sçaladäsáang
+     sçalad+V+IMMEDIATE+FUTURE: sçaladäsga
+     sçalad+V+RELATIVE+FUTURE: sçaladäsáas
+     sçalad+V+FUTURE+NON_FACTIVE: sçaladäsáa.ang
+     sçalad+V+BIASED+IMMEDIATE+PRESENT: sçalad'úuj
+     sçalad+V+BIASED+SIMPLE+PRESENT: sçalad'úujang
+     sçalad+V+RESIGNED_OBLIGATION: sçaladäsáa'uujang
+     sçalad+V+BIASED+INTERROGATIVE+PRESENT: sçalad'us
+     sçalad+V+BIASED+INTERROGATIVE+PAST: sçalad'ujáa
+     sçalad+V+BIASED+INTERROGATIVE+PAST+HABITUAL: sçalad'áujaangaa
+     sçalad+V+BIASED+INTERROGATIVE+FUTURE: sçaladäsáa'us
+     sçalad+V+CERTAIN+FUTURE: sçaladäsáa'ahlans
+     sçalad+V+FUTURE+REFLEXIVE+INTERROGATIVE: sçaladäséehl
+     sçalad+V+PLURAL+IMPERATIVE: sçalad'úu
+     sçalad+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sçalad'wáa
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sçalad'wáa
+     sçalad+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sçalad'wáang
+     sçalad+V+3rd_PERSON_PLURAL+DIRECT+PAST: sçalad'wägán
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sçalad'áawaa
+     sçalad+V+3rd_PERSON_PLURAL+INDIRECT+PAST: sçalad'áawaan
+     sçalad+V+3rd_PERSON_PLURAL+RELATIVE: sçalad'wáas
+     sçalad+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sçalad'áawaas
+     sçalad+V+3rd_PERSON_PLURAL+NON_FACTIVE: sçalad'wáa.ang
+     sçalad+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sçalad'áawaa.ang
+     sçalad+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sçalad'wägíinii
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sçalad'wägáangaa
+     sçalad+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sçalad'wägáangaan
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sçalad'wáaäsaa
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sçalad'wáaäs
+     sçalad+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sçalad'wáaäsaang
+     sçalad+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sçalad'wáaäsga
+     sçalad+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sçalad'wáaäsaas
+     sçalad+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sçalad'wáaäsaa.ang
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sçalad'wáa.ang ñasa'áa
+     sçalad+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sçalad'wáa.ang ñasa'áang
+     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sçalad'wáa.ang ñasaasdláa
+     sçalad+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sçalad'wáa.ang ñasaasdláang
+     sçalad+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sçalad'wáa'uuj
+     sçalad+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sçalad'wáa'uujang
+     sçalad+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sçalad'wáaäsaa'uujang
+     sçalad+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sçalad'wáa'us
+     sçalad+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sçalad'wáa'ujaa
+     sçalad+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sçalad'wáa'uujaangaa
+     sçalad+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sçalad'wáaäsaa'us
+     sçalad+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sçalad'wáa'ahlanggang
+     sçalad+V+3rd_PERSON_PLURAL+CERTAIN+PAST: sçalad'wáa'ahlanggan
+     sçalad+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sçalad'wáa'ahlanggiinii
+     sçalad+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sçalad'wáaäsaa'ahlans
+     sçalad+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sçalad'wáa'ahlans
+     sçalad+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: sçalad'áawaa'ahlang
+     sçalad+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçalad'áawaa'ahlanggaa
+     sçalad+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sçalad'áawaa'ahlanggang
+     sçalad+V+3rd_PERSON_PLURAL+REFLEXIVE: sçalad'wáa'ahl
+     sçalad+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sçalad'wáaäseehl
+     sçalad+V+NEGATIVE+SINGULAR+IMPERATIVE: sçalad'áng
+     sçalad+V+NEGATIVE+IMMEDIATE+PRESENT: sçalad'ángga
+     sçalad+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: sçalad'áng
+     sçalad+V+NEGATIVE+SIMPLE+PRESENT: sçalad'ánggang
+     sçalad+V+NEGATIVE+DIRECT+PAST: sçalad'ánggan
+     sçalad+V+NEGATIVE+INTERROGATIVE+PAST: sçalad'áangaa
+     sçalad+V+NEGATIVE+INDIRECT+PAST: sçalad'áangaan
+     sçalad+V+NEGATIVE+RELATIVE: sçalad'áns
+     sçalad+V+NEGATIVE+RELATIVE+EVIDENTIAL: sçalad'áangaas
+     sçalad+V+NEGATIVE+NON_FACTIVE: sçalad'angáng
+     sçalad+V+NEGATIVE+PAST+NON_FACTIVE: sçalad'áangaa.ang
+     sçalad+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: sçalad'ánggang
+     sçalad+V+NEGATIVE+DIRECT+PAST+HABITUAL: sçalad'ánggiinii
+     sçalad+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: sçalad'ánggaangaa
+     sçalad+V+NEGATIVE+INDIRECT+PAST+HABITUAL: sçalad'ánggaangaan
+     sçalad+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: sçalad'ángäsaa
+     sçalad+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: sçalad'ángäs
+     sçalad+V+NEGATIVE+SIMPLE+FUTURE: sçalad'ángäsaang
+     sçalad+V+NEGATIVE+IMMEDIATE+FUTURE: sçalad'ángäsga
+     sçalad+V+NEGATIVE+RELATIVE+FUTURE: sçalad'ángäsaas
+     sçalad+V+NEGATIVE+FUTURE+NON_FACTIVE: sçalad'ángäsaa.ang
+     sçalad+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sçalad'áng'uuj
+     sçalad+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sçalad'áng'uujang
+     sçalad+V+NEGATIVE+RESIGNED_OBLIGATION: sçalad'ángäsaa'uujang
+     sçalad+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: sçalad'áng'us
+     sçalad+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: sçalad'áng'ujaa
+     sçalad+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: sçalad'áng'uujaangaa
+     sçalad+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: sçalad'ángäsaa'us
+     sçalad+V+NEGATIVE+CERTAIN+PRESENT: sçalad'áang'ahlanggang
+     sçalad+V+NEGATIVE+CERTAIN+PAST: sçalad'áang'ahlanggan
+     sçalad+V+NEGATIVE+CERTAIN+PAST+HABITUAL: sçalad'áang'ahlanggiinii
+     sçalad+V+NEGATIVE+CERTAIN+FUTURE: sçalad'ángäsaa'ahlans
+     sçalad+V+NEGATIVE+CERTAIN+RELATIVE: sçalad'áang'ahlans
+     sçalad+V+NEGATIVE+INTENSIVE+PAST: sçalad'áangaa'ahlang
+     sçalad+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçalad'áangaa'ahlanggaa
+     sçalad+V+NEGATIVE+COUNTERFACTUAL+PRESENT: sçalad'áangaa'ahlanggang
+     sçalad+V+NEGATIVE+REFLEXIVE: sçalad'áang'ahl
+     sçalad+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: sçalad'ángäseehl
+     sçalad+V+NEGATIVE+PLURAL+IMPERATIVE: sçalad'áng'uu
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sçalad'áng'waa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sçalad'áng'waa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sçalad'áng'waang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: sçalad'áng'wägan
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sçalad'áng'aawaa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: sçalad'áng'aawaan
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: sçalad'áng'waas
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sçalad'áng'aawaas
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: sçalad'áng'waa.ang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sçalad'áng'aawaa.ang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sçalad'áng'wägiinii
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sçalad'áng'wägaangaa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sçalad'áng'wägaangaan
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sçalad'áng'waaäsaa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sçalad'áng'waaäs
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sçalad'áng'waaäsaang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sçalad'áng'waaäsga
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sçalad'áng'waaäsaas
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sçalad'áng'waaäsaa.ang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sçalad'wáa.ang ñasaa'áng
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sçalad'wáa.ang ñasaa'ánggang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sçalad'wáa.ang ñasaasdlä'áng
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sçalad'wáa.ang ñasaasdlä'ánggang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sçalad'áng'waa'uuj
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sçalad'áng'waa'uujang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sçalad'áng'waaäsaa'uujang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sçalad'áng'waa'us
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sçalad'áng'waa'ujaa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sçalad'áng'waa'uujaangaa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sçalad'áng'waaäsaa'us
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sçalad'áng'waa'ahlanggang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: sçalad'áng'waa'ahlanggan
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sçalad'áng'waa'ahlanggiinii
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sçalad'áng'waaäsaa'ahlans
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sçalad'áng'waa'ahlans
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: sçalad'áng'aawaa'ahlang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçalad'áng'aawaa'ahlanggaa
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sçalad'áng'aawaa'ahlanggang
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sçalad'áng'waa'ahl
+     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sçalad'áng'waaäseehl
+

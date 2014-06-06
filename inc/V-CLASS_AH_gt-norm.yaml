@@ -1,0 +1,190 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - dah - ENGLISH : # CLASS_AH
+
+     dah+V+SINGULAR+IMPERATIVE: dah
+     dah+V+IMMEDIATE+PRESENT: dahga
+     dah+V+INTERROGATIVE+SIMPLE+PRESENT: dah
+     dah+V+SIMPLE+PRESENT: dahgang
+     dah+V+DIRECT+PAST: dahgan
+     dah+V+INTERROGATIVE+PAST: dahgaa
+     dah+V+INDIRECT+PAST: dahgaan
+     dah+V+RELATIVE: dahs
+     dah+V+RELATIVE+EVIDENTIAL: dahgaas
+     dah+V+NON_FACTIVE: dahang
+     dah+V+PAST+NON_FACTIVE: dahgaa.ang
+     dah+V+INTERROGATIVE+PRESENT+HABITUAL: dahgang
+     dah+V+PRESENT+HABITUAL: dahganggang
+     dah+V+PRESENT+HABITUAL+NON_FACTIVE: dahgangang
+     dah+V+DIRECT+PAST+HABITUAL: dahgiinii
+     dah+V+INTERROGATIVE+PAST+HABITUAL: dahgaangaa
+     dah+V+INDIRECT+PAST+HABITUAL: dahgaangaan
+     dah+V+INTERROGATIVE+FUTURE+LONG: dahäsaa
+     dah+V+INTERROGATIVE+FUTURE+SHORT: dahäs
+     dah+V+SIMPLE+FUTURE: dahäsaang
+     dah+V+IMMEDIATE+FUTURE: dahäsga
+     dah+V+RELATIVE+FUTURE: dahäsaas
+     dah+V+FUTURE+NON_FACTIVE: dahäsaa.ang
+     dah+V+INTERROGATIVE+NEAR+FUTURE: dahang ñasa'áa
+     dah+V+NEAR+FUTURE: dahang ñasa'áang
+     dah+V+INTERROGATIVE+VERYNEAR+FUTURE: dahang ñasaasdláa
+     dah+V+VERYNEAR+FUTURE: dahang ñasaasdláang
+     dah+V+BIASED+IMMEDIATE+PRESENT: dah'uuj
+     dah+V+BIASED+SIMPLE+PRESENT: dah'uujang
+     dah+V+RESIGNED_OBLIGATION: dahäsaa'uujang
+     dah+V+BIASED+INTERROGATIVE+PRESENT: dah'us
+     dah+V+BIASED+INTERROGATIVE+PAST: dah'ujaa
+     dah+V+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'uujaangaa
+     dah+V+BIASED+INTERROGATIVE+FUTURE: dahäsaa'us
+     dah+V+CERTAIN+PRESENT: dah'ahlanggang
+     dah+V+CERTAIN+PAST: dah'ahlanggan
+     dah+V+CERTAIN+PAST+HABITUAL: dah'ahlanggiinii
+     dah+V+CERTAIN+FUTURE: dahäsaa'ahlans
+     dah+V+CERTAIN+RELATIVE: dah'ahlans
+     dah+V+INTENSIVE+PAST: dahgaa'ahlang
+     dah+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dahgaa'ahlanggaa
+     dah+V+COUNTERFACTUAL+PRESENT: dahgaa'ahlanggang
+     dah+V+REFLEXIVE: dah'ahl
+     dah+V+FUTURE+REFLEXIVE+INTERROGATIVE: dahäseehl
+     dah+V+PLURAL+IMPERATIVE: dah'uu
+     dah+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: dah'waa
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: dah'waa
+     dah+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: dah'waang
+     dah+V+3rd_PERSON_PLURAL+DIRECT+PAST: dah'wägan
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: dah'aawaa
+     dah+V+3rd_PERSON_PLURAL+INDIRECT+PAST: dah'aawaan
+     dah+V+3rd_PERSON_PLURAL+RELATIVE: dah'waas
+     dah+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: dah'aawaas
+     dah+V+3rd_PERSON_PLURAL+NON_FACTIVE: dah'waa.ang
+     dah+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: dah'aawaa.ang
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: dahgang'waa
+     dah+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: dahgang'waang
+     dah+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: dahgang'waa.ang
+     dah+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: dah'wägiinii
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: dah'wägaangaa
+     dah+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: dah'wägaangaan
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: dah'waaäsaa
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: dah'waaäs
+     dah+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: dah'waaäsaang
+     dah+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dah'waaäsga
+     dah+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dah'waaäsaas
+     dah+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dah'waaäsaa.ang
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'waa.ang ñasa'áa
+     dah+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'waa.ang ñasa'áang
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'waa.ang ñasaasdláa
+     dah+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'waa.ang ñasaasdláang
+     dah+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dah'waa'uuj
+     dah+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dah'waa'uujang
+     dah+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dah'waaäsaa'uujang
+     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: dah'waa'us
+     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: dah'waa'ujaa
+     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'waa'uujaangaa
+     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: dah'waaäsaa'us
+     dah+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: dah'waa'ahlanggang
+     dah+V+3rd_PERSON_PLURAL+CERTAIN+PAST: dah'waa'ahlanggan
+     dah+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: dah'waa'ahlanggiinii
+     dah+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: dah'waaäsaa'ahlans
+     dah+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: dah'waa'ahlans
+     dah+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: dah'aawaa'ahlang
+     dah+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dah'aawaa'ahlanggaa
+     dah+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dah'aawaa'ahlanggang
+     dah+V+3rd_PERSON_PLURAL+REFLEXIVE: dah'waa'ahl
+     dah+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dah'waaäseehl
+     dah+V+NEGATIVE+SINGULAR+IMPERATIVE: dah'ang
+     dah+V+NEGATIVE+IMMEDIATE+PRESENT: dah'angga
+     dah+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: dah'ang
+     dah+V+NEGATIVE+SIMPLE+PRESENT: dah'anggang
+     dah+V+NEGATIVE+DIRECT+PAST: dah'anggan
+     dah+V+NEGATIVE+INTERROGATIVE+PAST: dah'aangaa
+     dah+V+NEGATIVE+INDIRECT+PAST: dah'aangaan
+     dah+V+NEGATIVE+RELATIVE: dah'ans
+     dah+V+NEGATIVE+RELATIVE+EVIDENTIAL: dah'aangaas
+     dah+V+NEGATIVE+NON_FACTIVE: dah'angang
+     dah+V+NEGATIVE+PAST+NON_FACTIVE: dah'aangaa.ang
+     dah+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: dah'anggang
+     dah+V+NEGATIVE+PRESENT+HABITUAL: dahgang'anggang
+     dah+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: dahgang'angang
+     dah+V+NEGATIVE+DIRECT+PAST+HABITUAL: dah'anggiinii
+     dah+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: dah'anggaangaa
+     dah+V+NEGATIVE+INDIRECT+PAST+HABITUAL: dah'anggaangaan
+     dah+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: dah'angäsaa
+     dah+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: dah'angäs
+     dah+V+NEGATIVE+SIMPLE+FUTURE: dah'angäsaang
+     dah+V+NEGATIVE+IMMEDIATE+FUTURE: dah'angäsga
+     dah+V+NEGATIVE+RELATIVE+FUTURE: dah'angäsaas
+     dah+V+NEGATIVE+FUTURE+NON_FACTIVE: dah'angäsaa.ang
+     dah+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: dah.ang ñasaa'áng
+     dah+V+NEGATIVE+NEAR+FUTURE: dah.ang ñasaa'ánggang
+     dah+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: dah.ang ñasaasdlä'áng
+     dah+V+NEGATIVE+VERYNEAR+FUTURE: dah.ang ñasaasdlä'ánggang
+     dah+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: dah'ang'uuj
+     dah+V+NEGATIVE+BIASED+SIMPLE+PRESENT: dah'ang'uujang
+     dah+V+NEGATIVE+RESIGNED_OBLIGATION: dah'angäsaa'uujang
+     dah+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: dah'ang'us
+     dah+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: dah'ang'ujaa
+     dah+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'ang'uujaangaa
+     dah+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: dah'angäsaa'us
+     dah+V+NEGATIVE+CERTAIN+PRESENT: dah'aang'ahlanggang
+     dah+V+NEGATIVE+CERTAIN+PAST: dah'aang'ahlanggan
+     dah+V+NEGATIVE+CERTAIN+PAST+HABITUAL: dah'aang'ahlanggiinii
+     dah+V+NEGATIVE+CERTAIN+FUTURE: dah'angäsaa'ahlans
+     dah+V+NEGATIVE+CERTAIN+RELATIVE: dah'aang'ahlans
+     dah+V+NEGATIVE+INTENSIVE+PAST: dah'aangaa'ahlang
+     dah+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dah'aangaa'ahlanggaa
+     dah+V+NEGATIVE+COUNTERFACTUAL+PRESENT: dah'aangaa'ahlanggang
+     dah+V+NEGATIVE+REFLEXIVE: dah'aang'ahl
+     dah+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: dah'angäseehl
+     dah+V+NEGATIVE+PLURAL+IMPERATIVE: dah'ang'uu
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: dah'ang'waa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: dah'ang'waa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: dah'ang'waang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: dah'ang'wägan
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: dah'ang'aawaa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: dah'ang'aawaan
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: dah'ang'waas
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: dah'ang'aawaas
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: dah'ang'waa.ang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: dah'ang'aawaa.ang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: dahgang'ang'waa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: dahgang'ang'waang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: dahgang'ang'waa.ang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: dah'ang'wägiinii
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: dah'ang'wägaangaa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: dah'ang'wägaangaan
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: dah'ang'waaäsaa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: dah'ang'waaäs
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: dah'ang'waaäsaang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dah'ang'waaäsga
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dah'ang'waaäsaas
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dah'ang'waaäsaa.ang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'waa.ang ñasaa'áng
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'waa.ang ñasaa'ánggang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'waa.ang ñasaasdlä'áng
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'waa.ang ñasaasdlä'ánggang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dah'ang'waa'uuj
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dah'ang'waa'uujang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dah'ang'waaäsaa'uujang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: dah'ang'waa'us
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: dah'ang'waa'ujaa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'ang'waa'uujaangaa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: dah'ang'waaäsaa'us
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: dah'ang'waa'ahlanggang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: dah'ang'waa'ahlanggan
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: dah'ang'waa'ahlanggiinii
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: dah'ang'waaäsaa'ahlans
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: dah'ang'waa'ahlans
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: dah'ang'aawaa'ahlang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dah'ang'aawaa'ahlanggaa
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dah'ang'aawaa'ahlanggang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: dah'ang'waa'ahl
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dah'ang'waaäseehl
+

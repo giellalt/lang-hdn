@@ -1,0 +1,21 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - kíl - ENGLISH : # CLASS_IS_STEM_3
+
+     is+V+INTERROGATIVE+PAST: kíl ijaa kíl
+     is+V+INDIRECT+PAST: kíl ijaan kíl
+     is+V+RELATIVE+EVIDENTIAL: kíl ijaas kíl
+     is+V+PAST+NON_FACTIVE: kíl ijaa.ang kíl
+     is+V+INTENSIVE+PAST: kíl ijaa'ahlang kíl
+     is+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kíl ijaa'ahlanggaa kíl
+     is+V+COUNTERFACTUAL+PRESENT: kíl ijaa'ahlanggang kíl
+

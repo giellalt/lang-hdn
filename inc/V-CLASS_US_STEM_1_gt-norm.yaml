@@ -1,0 +1,152 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Verb - kus - ENGLISH : # CLASS_US_STEM_1
+
+     kus+V+SINGULAR+IMPERATIVE: kus
+     kus+V+INTERROGATIVE+SIMPLE+PRESENT: kus
+     kus+V+RELATIVE: kuss
+     kus+V+INTERROGATIVE+FUTURE+LONG: kusäsaa
+     kus+V+INTERROGATIVE+FUTURE+SHORT: kusäs
+     kus+V+SIMPLE+FUTURE: kusäsaang
+     kus+V+IMMEDIATE+FUTURE: kusäsga
+     kus+V+RELATIVE+FUTURE: kusäsaas
+     kus+V+FUTURE+NON_FACTIVE: kusäsaa.ang
+     kus+V+BIASED+IMMEDIATE+PRESENT: kus'uuj
+     kus+V+BIASED+SIMPLE+PRESENT: kus'uujang
+     kus+V+RESIGNED_OBLIGATION: kusäsaa'uujang
+     kus+V+BIASED+INTERROGATIVE+PRESENT: kus'us
+     kus+V+BIASED+INTERROGATIVE+PAST: kus'ujaa
+     kus+V+BIASED+INTERROGATIVE+PAST+HABITUAL: kus'uujaangaa
+     kus+V+BIASED+INTERROGATIVE+FUTURE: kusäsaa'us
+     kus+V+CERTAIN+FUTURE: kusäsaa'ahlans
+     kus+V+FUTURE+REFLEXIVE+INTERROGATIVE: kusäseehl
+     kus+V+PLURAL+IMPERATIVE: kus'uu
+     kus+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: kus'waa
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: kus'waa
+     kus+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: kus'waang
+     kus+V+3rd_PERSON_PLURAL+DIRECT+PAST: kus'wägan
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: kus'aawaa
+     kus+V+3rd_PERSON_PLURAL+INDIRECT+PAST: kus'aawaan
+     kus+V+3rd_PERSON_PLURAL+RELATIVE: kus'waas
+     kus+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: kus'aawaas
+     kus+V+3rd_PERSON_PLURAL+NON_FACTIVE: kus'waa.ang
+     kus+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: kus'aawaa.ang
+     kus+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: kus'wägiinii
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: kus'wägaangaa
+     kus+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: kus'wägaangaan
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: kus'waaäsaa
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: kus'waaäs
+     kus+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: kus'waaäsaang
+     kus+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kus'waaäsga
+     kus+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kus'waaäsaas
+     kus+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kus'waaäsaa.ang
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kus'waa.ang ñasa'áa
+     kus+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kus'waa.ang ñasa'áang
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kus'waa.ang ñasaasdláa
+     kus+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kus'waa.ang ñasaasdláang
+     kus+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kus'waa'uuj
+     kus+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kus'waa'uujang
+     kus+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kus'waaäsaa'uujang
+     kus+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: kus'waa'us
+     kus+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: kus'waa'ujaa
+     kus+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: kus'waa'uujaangaa
+     kus+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: kus'waaäsaa'us
+     kus+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: kus'waa'ahlanggang
+     kus+V+3rd_PERSON_PLURAL+CERTAIN+PAST: kus'waa'ahlanggan
+     kus+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: kus'waa'ahlanggiinii
+     kus+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: kus'waaäsaa'ahlans
+     kus+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: kus'waa'ahlans
+     kus+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: kus'aawaa'ahlang
+     kus+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kus'aawaa'ahlanggaa
+     kus+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kus'aawaa'ahlanggang
+     kus+V+3rd_PERSON_PLURAL+REFLEXIVE: kus'waa'ahl
+     kus+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kus'waaäseehl
+     kus+V+NEGATIVE+SINGULAR+IMPERATIVE: kus'ang
+     kus+V+NEGATIVE+IMMEDIATE+PRESENT: kus'angga
+     kus+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: kus'ang
+     kus+V+NEGATIVE+SIMPLE+PRESENT: kus'anggang
+     kus+V+NEGATIVE+DIRECT+PAST: kus'anggan
+     kus+V+NEGATIVE+INTERROGATIVE+PAST: kus'aangaa
+     kus+V+NEGATIVE+INDIRECT+PAST: kus'aangaan
+     kus+V+NEGATIVE+RELATIVE: kus'ans
+     kus+V+NEGATIVE+RELATIVE+EVIDENTIAL: kus'aangaas
+     kus+V+NEGATIVE+NON_FACTIVE: kus'angang
+     kus+V+NEGATIVE+PAST+NON_FACTIVE: kus'aangaa.ang
+     kus+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: kus'anggang
+     kus+V+NEGATIVE+DIRECT+PAST+HABITUAL: kus'anggiinii
+     kus+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: kus'anggaangaa
+     kus+V+NEGATIVE+INDIRECT+PAST+HABITUAL: kus'anggaangaan
+     kus+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: kus'angäsaa
+     kus+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: kus'angäs
+     kus+V+NEGATIVE+SIMPLE+FUTURE: kus'angäsaang
+     kus+V+NEGATIVE+IMMEDIATE+FUTURE: kus'angäsga
+     kus+V+NEGATIVE+RELATIVE+FUTURE: kus'angäsaas
+     kus+V+NEGATIVE+FUTURE+NON_FACTIVE: kus'angäsaa.ang
+     kus+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: kus'ang'uuj
+     kus+V+NEGATIVE+BIASED+SIMPLE+PRESENT: kus'ang'uujang
+     kus+V+NEGATIVE+RESIGNED_OBLIGATION: kus'angäsaa'uujang
+     kus+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: kus'ang'us
+     kus+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: kus'ang'ujaa
+     kus+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: kus'ang'uujaangaa
+     kus+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: kus'angäsaa'us
+     kus+V+NEGATIVE+CERTAIN+PRESENT: kus'aang'ahlanggang
+     kus+V+NEGATIVE+CERTAIN+PAST: kus'aang'ahlanggan
+     kus+V+NEGATIVE+CERTAIN+PAST+HABITUAL: kus'aang'ahlanggiinii
+     kus+V+NEGATIVE+CERTAIN+FUTURE: kus'angäsaa'ahlans
+     kus+V+NEGATIVE+CERTAIN+RELATIVE: kus'aang'ahlans
+     kus+V+NEGATIVE+INTENSIVE+PAST: kus'aangaa'ahlang
+     kus+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kus'aangaa'ahlanggaa
+     kus+V+NEGATIVE+COUNTERFACTUAL+PRESENT: kus'aangaa'ahlanggang
+     kus+V+NEGATIVE+REFLEXIVE: kus'aang'ahl
+     kus+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: kus'angäseehl
+     kus+V+NEGATIVE+PLURAL+IMPERATIVE: kus'ang'uu
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: kus'ang'waa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: kus'ang'waa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: kus'ang'waang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: kus'ang'wägan
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: kus'ang'aawaa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: kus'ang'aawaan
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: kus'ang'waas
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: kus'ang'aawaas
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: kus'ang'waa.ang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: kus'ang'aawaa.ang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: kus'ang'wägiinii
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: kus'ang'wägaangaa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: kus'ang'wägaangaan
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: kus'ang'waaäsaa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: kus'ang'waaäs
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: kus'ang'waaäsaang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kus'ang'waaäsga
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kus'ang'waaäsaas
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kus'ang'waaäsaa.ang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kus'waa.ang ñasaa'áng
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kus'waa.ang ñasaa'ánggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kus'waa.ang ñasaasdlä'áng
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kus'waa.ang ñasaasdlä'ánggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kus'ang'waa'uuj
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kus'ang'waa'uujang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kus'ang'waaäsaa'uujang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: kus'ang'waa'us
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: kus'ang'waa'ujaa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: kus'ang'waa'uujaangaa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: kus'ang'waaäsaa'us
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: kus'ang'waa'ahlanggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: kus'ang'waa'ahlanggan
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: kus'ang'waa'ahlanggiinii
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: kus'ang'waaäsaa'ahlans
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: kus'ang'waa'ahlans
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: kus'ang'aawaa'ahlang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kus'ang'aawaa'ahlanggaa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: kus'ang'aawaa'ahlanggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: kus'ang'waa'ahl
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: kus'ang'waaäseehl
+
