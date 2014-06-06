@@ -18,7 +18,11 @@ Sets
  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ;
  Sgm = Vow Cns ;
  
+ 
 !! !!!Rules
+
+Rules
+
 
 "Final s to j"
 !! __@RULENAME@__
@@ -50,7 +54,7 @@ Sets
 ! Destressing
 
 "Destressing rule"
-!! __@RULENAME@__
+!! __@RULENAME@__ 
  Vx:Vy <=> [á|é|í|ó|ú] [Sgm:* | %>: ] %>: [Sgm:* | %>: ] _ ;
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )
