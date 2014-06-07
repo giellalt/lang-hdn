@@ -9,182 +9,182 @@ Config:
 
 Tests:
 
-  Verb - tla - ENGLISH : # CLASS_U
+  Verb - tla çu - ENGLISH : # CLASS_U
 
-     çu+V+SINGULAR+IMPERATIVE: tla çu tla
-     çu+V+IMMEDIATE+PRESENT: tla çuga tla
-     çu+V+INTERROGATIVE+SIMPLE+PRESENT: tla çu tla
-     çu+V+SIMPLE+PRESENT: tla çugáng tla
-     çu+V+DIRECT+PAST: tla çugán tla
-     çu+V+INTERROGATIVE+PAST: tla çuyáa tla
-     çu+V+INDIRECT+PAST: tla çuyáan tla
-     çu+V+RELATIVE: tla çus tla
-     çu+V+RELATIVE+EVIDENTIAL: tla çuyáas tla
-     çu+V+NON_FACTIVE: tla çuáng tla
-     çu+V+PAST+NON_FACTIVE: tla çuyáa.ang tla
-     çu+V+INTERROGATIVE+PRESENT+HABITUAL: tla çugáng tla
-     çu+V+PRESENT+HABITUAL: tla çugánggang tla
-     çu+V+PRESENT+HABITUAL+NON_FACTIVE: tla çugángang tla
-     çu+V+DIRECT+PAST+HABITUAL: tla çugíinii tla
-     çu+V+INTERROGATIVE+PAST+HABITUAL: tla çugáangaa tla
-     çu+V+INDIRECT+PAST+HABITUAL: tla çugáangaan tla
-     çu+V+INTERROGATIVE+FUTURE+LONG: tla çuäsáa tla
-     çu+V+INTERROGATIVE+FUTURE+SHORT: tla çuäs tla
-     çu+V+SIMPLE+FUTURE: tla çuäsáang tla
-     çu+V+IMMEDIATE+FUTURE: tla çuäsga tla
-     çu+V+RELATIVE+FUTURE: tla çuäsáas tla
-     çu+V+FUTURE+NON_FACTIVE: tla çuäsáa.ang tla
-     çu+V+INTERROGATIVE+NEAR+FUTURE: tla çuáng ñasa'áa tla
-     çu+V+NEAR+FUTURE: tla çuáng ñasa'áang tla
-     çu+V+INTERROGATIVE+VERYNEAR+FUTURE: tla çuáng ñasaasdláa tla
-     çu+V+VERYNEAR+FUTURE: tla çuáng ñasaasdláang tla
-     çu+V+BIASED+IMMEDIATE+PRESENT: tla çu'úuj tla
-     çu+V+BIASED+SIMPLE+PRESENT: tla çu'úujang tla
-     çu+V+RESIGNED_OBLIGATION: tla çuäsáa'uujang tla
-     çu+V+BIASED+INTERROGATIVE+PRESENT: tla çu'us tla
-     çu+V+BIASED+INTERROGATIVE+PAST: tla çu'ujáa tla
-     çu+V+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'úujaangaa tla
-     çu+V+BIASED+INTERROGATIVE+FUTURE: tla çuäsáa'us tla
-     çu+V+CERTAIN+PRESENT: tla çu'ahlánggang tla
-     çu+V+CERTAIN+PAST: tla çu'ahlánggan tla
-     çu+V+CERTAIN+PAST+HABITUAL: tla çu'ahlánggiinii tla
-     çu+V+CERTAIN+FUTURE: tla çuäsáa'ahlans tla
-     çu+V+CERTAIN+RELATIVE: tla çu'ahláns tla
-     çu+V+INTENSIVE+PAST: tla çuyáa'ahlang tla
-     çu+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çuyáa'ahlanggaa tla
-     çu+V+COUNTERFACTUAL+PRESENT: tla çuyáa'ahlanggang tla
-     çu+V+REFLEXIVE: tla çu'ahl tla
-     çu+V+FUTURE+REFLEXIVE+INTERROGATIVE: tla çuäséehl tla
-     çu+V+PLURAL+IMPERATIVE: tla çu'úu tla
-     çu+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: tla çu'wáa tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: tla çu'wáa tla
-     çu+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: tla çu'wáang tla
-     çu+V+3rd_PERSON_PLURAL+DIRECT+PAST: tla çu'wägán tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: tla çu'áawaa tla
-     çu+V+3rd_PERSON_PLURAL+INDIRECT+PAST: tla çu'áawaan tla
-     çu+V+3rd_PERSON_PLURAL+RELATIVE: tla çu'wáas tla
-     çu+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: tla çu'áawaas tla
-     çu+V+3rd_PERSON_PLURAL+NON_FACTIVE: tla çu'wáa.ang tla
-     çu+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: tla çu'áawaa.ang tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: tla çugáng'waa tla
-     çu+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: tla çugáng'waang tla
-     çu+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: tla çugáng'waa.ang tla
-     çu+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: tla çu'wägíinii tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: tla çu'wägáangaa tla
-     çu+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: tla çu'wägáangaan tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: tla çu'wáaäsaa tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: tla çu'wáaäs tla
-     çu+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: tla çu'wáaäsaang tla
-     çu+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: tla çu'wáaäsga tla
-     çu+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: tla çu'wáaäsaas tla
-     çu+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: tla çu'wáaäsaa.ang tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: tla çu'wáa.ang ñasa'áa tla
-     çu+V+3rd_PERSON_PLURAL+NEAR+FUTURE: tla çu'wáa.ang ñasa'áang tla
-     çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdláa tla
-     çu+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdláang tla
-     çu+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: tla çu'wáa'uuj tla
-     çu+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: tla çu'wáa'uujang tla
-     çu+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: tla çu'wáaäsaa'uujang tla
-     çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: tla çu'wáa'us tla
-     çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: tla çu'wáa'ujaa tla
-     çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'wáa'uujaangaa tla
-     çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: tla çu'wáaäsaa'us tla
-     çu+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: tla çu'wáa'ahlanggang tla
-     çu+V+3rd_PERSON_PLURAL+CERTAIN+PAST: tla çu'wáa'ahlanggan tla
-     çu+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: tla çu'wáa'ahlanggiinii tla
-     çu+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: tla çu'wáaäsaa'ahlans tla
-     çu+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: tla çu'wáa'ahlans tla
-     çu+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: tla çu'áawaa'ahlang tla
-     çu+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çu'áawaa'ahlanggaa tla
-     çu+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla çu'áawaa'ahlanggang tla
-     çu+V+3rd_PERSON_PLURAL+REFLEXIVE: tla çu'wáa'ahl tla
-     çu+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'wáaäseehl tla
-     çu+V+NEGATIVE+SINGULAR+IMPERATIVE: tla çu'áng tla
-     çu+V+NEGATIVE+IMMEDIATE+PRESENT: tla çu'ángga tla
-     çu+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: tla çu'áng tla
-     çu+V+NEGATIVE+SIMPLE+PRESENT: tla çu'ánggang tla
-     çu+V+NEGATIVE+DIRECT+PAST: tla çu'ánggan tla
-     çu+V+NEGATIVE+INTERROGATIVE+PAST: tla çu'áangaa tla
-     çu+V+NEGATIVE+INDIRECT+PAST: tla çu'áangaan tla
-     çu+V+NEGATIVE+RELATIVE: tla çu'áns tla
-     çu+V+NEGATIVE+RELATIVE+EVIDENTIAL: tla çu'áangaas tla
-     çu+V+NEGATIVE+NON_FACTIVE: tla çu'ángang tla
-     çu+V+NEGATIVE+PAST+NON_FACTIVE: tla çu'áangaa.ang tla
-     çu+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: tla çu'ánggang tla
-     çu+V+NEGATIVE+PRESENT+HABITUAL: tla çugáng'anggang tla
-     çu+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: tla çugáng'angang tla
-     çu+V+NEGATIVE+DIRECT+PAST+HABITUAL: tla çu'ánggiinii tla
-     çu+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: tla çu'ánggaangaa tla
-     çu+V+NEGATIVE+INDIRECT+PAST+HABITUAL: tla çu'ánggaangaan tla
-     çu+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: tla çu'ángäsaa tla
-     çu+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: tla çu'ángäs tla
-     çu+V+NEGATIVE+SIMPLE+FUTURE: tla çu'ángäsaang tla
-     çu+V+NEGATIVE+IMMEDIATE+FUTURE: tla çu'ángäsga tla
-     çu+V+NEGATIVE+RELATIVE+FUTURE: tla çu'ángäsaas tla
-     çu+V+NEGATIVE+FUTURE+NON_FACTIVE: tla çu'ángäsaa.ang tla
-     çu+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: tla çuáng ñasaa'áng tla
-     çu+V+NEGATIVE+NEAR+FUTURE: tla çuáng ñasaa'ánggang tla
-     çu+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: tla çuáng ñasaasdlä'áng tla
-     çu+V+NEGATIVE+VERYNEAR+FUTURE: tla çuáng ñasaasdlä'ánggang tla
-     çu+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: tla çu'áng'uuj tla
-     çu+V+NEGATIVE+BIASED+SIMPLE+PRESENT: tla çu'áng'uujang tla
-     çu+V+NEGATIVE+RESIGNED_OBLIGATION: tla çu'ángäsaa'uujang tla
-     çu+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: tla çu'áng'us tla
-     çu+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: tla çu'áng'ujaa tla
-     çu+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'áng'uujaangaa tla
-     çu+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: tla çu'ángäsaa'us tla
-     çu+V+NEGATIVE+CERTAIN+PRESENT: tla çu'áang'ahlanggang tla
-     çu+V+NEGATIVE+CERTAIN+PAST: tla çu'áang'ahlanggan tla
-     çu+V+NEGATIVE+CERTAIN+PAST+HABITUAL: tla çu'áang'ahlanggiinii tla
-     çu+V+NEGATIVE+CERTAIN+FUTURE: tla çu'ángäsaa'ahlans tla
-     çu+V+NEGATIVE+CERTAIN+RELATIVE: tla çu'áang'ahlans tla
-     çu+V+NEGATIVE+INTENSIVE+PAST: tla çu'áangaa'ahlang tla
-     çu+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çu'áangaa'ahlanggaa tla
-     çu+V+NEGATIVE+COUNTERFACTUAL+PRESENT: tla çu'áangaa'ahlanggang tla
-     çu+V+NEGATIVE+REFLEXIVE: tla çu'áang'ahl tla
-     çu+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'ángäseehl tla
-     çu+V+NEGATIVE+PLURAL+IMPERATIVE: tla çu'áng'uu tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: tla çu'áng'waa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: tla çu'áng'waa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: tla çu'áng'waang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: tla çu'áng'wägan tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: tla çu'áng'aawaa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: tla çu'áng'aawaan tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: tla çu'áng'waas tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: tla çu'áng'aawaas tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: tla çu'áng'waa.ang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: tla çu'áng'aawaa.ang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: tla çugáng'ang'waa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: tla çugáng'ang'waang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: tla çugáng'ang'waa.ang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: tla çu'áng'wägiinii tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: tla çu'áng'wägaangaa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: tla çu'áng'wägaangaan tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: tla çu'áng'waaäsaa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: tla çu'áng'waaäs tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: tla çu'áng'waaäsaang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: tla çu'áng'waaäsga tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: tla çu'áng'waaäsaas tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: tla çu'áng'waaäsaa.ang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: tla çu'wáa.ang ñasaa'áng tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: tla çu'wáa.ang ñasaa'ánggang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdlä'áng tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdlä'ánggang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: tla çu'áng'waa'uuj tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: tla çu'áng'waa'uujang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: tla çu'áng'waaäsaa'uujang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: tla çu'áng'waa'us tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: tla çu'áng'waa'ujaa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'áng'waa'uujaangaa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: tla çu'áng'waaäsaa'us tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: tla çu'áng'waa'ahlanggang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: tla çu'áng'waa'ahlanggan tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: tla çu'áng'waa'ahlanggiinii tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: tla çu'áng'waaäsaa'ahlans tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: tla çu'áng'waa'ahlans tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: tla çu'áng'aawaa'ahlang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çu'áng'aawaa'ahlanggaa tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla çu'áng'aawaa'ahlanggang tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: tla çu'áng'waa'ahl tla
-     çu+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'áng'waaäseehl tla
+     tla çu+V+SINGULAR+IMPERATIVE: tla çu
+     tla çu+V+IMMEDIATE+PRESENT: tla çuga
+     tla çu+V+INTERROGATIVE+SIMPLE+PRESENT: tla çu
+     tla çu+V+SIMPLE+PRESENT: tla çugáng
+     tla çu+V+DIRECT+PAST: tla çugán
+     tla çu+V+INTERROGATIVE+PAST: tla çuyáa
+     tla çu+V+INDIRECT+PAST: tla çuyáan
+     tla çu+V+RELATIVE: tla çus
+     tla çu+V+RELATIVE+EVIDENTIAL: tla çuyáas
+     tla çu+V+NON_FACTIVE: tla çuáng
+     tla çu+V+PAST+NON_FACTIVE: tla çuyáa.ang
+     tla çu+V+INTERROGATIVE+PRESENT+HABITUAL: tla çugáng
+     tla çu+V+PRESENT+HABITUAL: tla çugánggang
+     tla çu+V+PRESENT+HABITUAL+NON_FACTIVE: tla çugángang
+     tla çu+V+DIRECT+PAST+HABITUAL: tla çugíinii
+     tla çu+V+INTERROGATIVE+PAST+HABITUAL: tla çugáangaa
+     tla çu+V+INDIRECT+PAST+HABITUAL: tla çugáangaan
+     tla çu+V+INTERROGATIVE+FUTURE+LONG: tla çuäsáa
+     tla çu+V+INTERROGATIVE+FUTURE+SHORT: tla çuäs
+     tla çu+V+SIMPLE+FUTURE: tla çuäsáang
+     tla çu+V+IMMEDIATE+FUTURE: tla çuäsga
+     tla çu+V+RELATIVE+FUTURE: tla çuäsáas
+     tla çu+V+FUTURE+NON_FACTIVE: tla çuäsáa.ang
+     tla çu+V+INTERROGATIVE+NEAR+FUTURE: tla çuáng ñasa'áa
+     tla çu+V+NEAR+FUTURE: tla çuáng ñasa'áang
+     tla çu+V+INTERROGATIVE+VERYNEAR+FUTURE: tla çuáng ñasaasdláa
+     tla çu+V+VERYNEAR+FUTURE: tla çuáng ñasaasdláang
+     tla çu+V+BIASED+IMMEDIATE+PRESENT: tla çu'úuj
+     tla çu+V+BIASED+SIMPLE+PRESENT: tla çu'úujang
+     tla çu+V+RESIGNED_OBLIGATION: tla çuäsáa'uujang
+     tla çu+V+BIASED+INTERROGATIVE+PRESENT: tla çu'us
+     tla çu+V+BIASED+INTERROGATIVE+PAST: tla çu'ujáa
+     tla çu+V+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'úujaangaa
+     tla çu+V+BIASED+INTERROGATIVE+FUTURE: tla çuäsáa'us
+     tla çu+V+CERTAIN+PRESENT: tla çu'ahlánggang
+     tla çu+V+CERTAIN+PAST: tla çu'ahlánggan
+     tla çu+V+CERTAIN+PAST+HABITUAL: tla çu'ahlánggiinii
+     tla çu+V+CERTAIN+FUTURE: tla çuäsáa'ahlans
+     tla çu+V+CERTAIN+RELATIVE: tla çu'ahláns
+     tla çu+V+INTENSIVE+PAST: tla çuyáa'ahlang
+     tla çu+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çuyáa'ahlanggaa
+     tla çu+V+COUNTERFACTUAL+PRESENT: tla çuyáa'ahlanggang
+     tla çu+V+REFLEXIVE: tla çu'ahl
+     tla çu+V+FUTURE+REFLEXIVE+INTERROGATIVE: tla çuäséehl
+     tla çu+V+PLURAL+IMPERATIVE: tla çu'úu
+     tla çu+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: tla çu'wáa
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: tla çu'wáa
+     tla çu+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: tla çu'wáang
+     tla çu+V+3rd_PERSON_PLURAL+DIRECT+PAST: tla çu'wägán
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: tla çu'áawaa
+     tla çu+V+3rd_PERSON_PLURAL+INDIRECT+PAST: tla çu'áawaan
+     tla çu+V+3rd_PERSON_PLURAL+RELATIVE: tla çu'wáas
+     tla çu+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: tla çu'áawaas
+     tla çu+V+3rd_PERSON_PLURAL+NON_FACTIVE: tla çu'wáa.ang
+     tla çu+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: tla çu'áawaa.ang
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: tla çugáng'waa
+     tla çu+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: tla çugáng'waang
+     tla çu+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: tla çugáng'waa.ang
+     tla çu+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: tla çu'wägíinii
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: tla çu'wägáangaa
+     tla çu+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: tla çu'wägáangaan
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: tla çu'wáaäsaa
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: tla çu'wáaäs
+     tla çu+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: tla çu'wáaäsaang
+     tla çu+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: tla çu'wáaäsga
+     tla çu+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: tla çu'wáaäsaas
+     tla çu+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: tla çu'wáaäsaa.ang
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: tla çu'wáa.ang ñasa'áa
+     tla çu+V+3rd_PERSON_PLURAL+NEAR+FUTURE: tla çu'wáa.ang ñasa'áang
+     tla çu+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdláa
+     tla çu+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdláang
+     tla çu+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: tla çu'wáa'uuj
+     tla çu+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: tla çu'wáa'uujang
+     tla çu+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: tla çu'wáaäsaa'uujang
+     tla çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: tla çu'wáa'us
+     tla çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: tla çu'wáa'ujaa
+     tla çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'wáa'uujaangaa
+     tla çu+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: tla çu'wáaäsaa'us
+     tla çu+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: tla çu'wáa'ahlanggang
+     tla çu+V+3rd_PERSON_PLURAL+CERTAIN+PAST: tla çu'wáa'ahlanggan
+     tla çu+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: tla çu'wáa'ahlanggiinii
+     tla çu+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: tla çu'wáaäsaa'ahlans
+     tla çu+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: tla çu'wáa'ahlans
+     tla çu+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: tla çu'áawaa'ahlang
+     tla çu+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çu'áawaa'ahlanggaa
+     tla çu+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla çu'áawaa'ahlanggang
+     tla çu+V+3rd_PERSON_PLURAL+REFLEXIVE: tla çu'wáa'ahl
+     tla çu+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'wáaäseehl
+     tla çu+V+NEGATIVE+SINGULAR+IMPERATIVE: tla çu'áng
+     tla çu+V+NEGATIVE+IMMEDIATE+PRESENT: tla çu'ángga
+     tla çu+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: tla çu'áng
+     tla çu+V+NEGATIVE+SIMPLE+PRESENT: tla çu'ánggang
+     tla çu+V+NEGATIVE+DIRECT+PAST: tla çu'ánggan
+     tla çu+V+NEGATIVE+INTERROGATIVE+PAST: tla çu'áangaa
+     tla çu+V+NEGATIVE+INDIRECT+PAST: tla çu'áangaan
+     tla çu+V+NEGATIVE+RELATIVE: tla çu'áns
+     tla çu+V+NEGATIVE+RELATIVE+EVIDENTIAL: tla çu'áangaas
+     tla çu+V+NEGATIVE+NON_FACTIVE: tla çu'ángang
+     tla çu+V+NEGATIVE+PAST+NON_FACTIVE: tla çu'áangaa.ang
+     tla çu+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: tla çu'ánggang
+     tla çu+V+NEGATIVE+PRESENT+HABITUAL: tla çugáng'anggang
+     tla çu+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: tla çugáng'angang
+     tla çu+V+NEGATIVE+DIRECT+PAST+HABITUAL: tla çu'ánggiinii
+     tla çu+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: tla çu'ánggaangaa
+     tla çu+V+NEGATIVE+INDIRECT+PAST+HABITUAL: tla çu'ánggaangaan
+     tla çu+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: tla çu'ángäsaa
+     tla çu+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: tla çu'ángäs
+     tla çu+V+NEGATIVE+SIMPLE+FUTURE: tla çu'ángäsaang
+     tla çu+V+NEGATIVE+IMMEDIATE+FUTURE: tla çu'ángäsga
+     tla çu+V+NEGATIVE+RELATIVE+FUTURE: tla çu'ángäsaas
+     tla çu+V+NEGATIVE+FUTURE+NON_FACTIVE: tla çu'ángäsaa.ang
+     tla çu+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: tla çuáng ñasaa'áng
+     tla çu+V+NEGATIVE+NEAR+FUTURE: tla çuáng ñasaa'ánggang
+     tla çu+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: tla çuáng ñasaasdlä'áng
+     tla çu+V+NEGATIVE+VERYNEAR+FUTURE: tla çuáng ñasaasdlä'ánggang
+     tla çu+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: tla çu'áng'uuj
+     tla çu+V+NEGATIVE+BIASED+SIMPLE+PRESENT: tla çu'áng'uujang
+     tla çu+V+NEGATIVE+RESIGNED_OBLIGATION: tla çu'ángäsaa'uujang
+     tla çu+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: tla çu'áng'us
+     tla çu+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: tla çu'áng'ujaa
+     tla çu+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'áng'uujaangaa
+     tla çu+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: tla çu'ángäsaa'us
+     tla çu+V+NEGATIVE+CERTAIN+PRESENT: tla çu'áang'ahlanggang
+     tla çu+V+NEGATIVE+CERTAIN+PAST: tla çu'áang'ahlanggan
+     tla çu+V+NEGATIVE+CERTAIN+PAST+HABITUAL: tla çu'áang'ahlanggiinii
+     tla çu+V+NEGATIVE+CERTAIN+FUTURE: tla çu'ángäsaa'ahlans
+     tla çu+V+NEGATIVE+CERTAIN+RELATIVE: tla çu'áang'ahlans
+     tla çu+V+NEGATIVE+INTENSIVE+PAST: tla çu'áangaa'ahlang
+     tla çu+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çu'áangaa'ahlanggaa
+     tla çu+V+NEGATIVE+COUNTERFACTUAL+PRESENT: tla çu'áangaa'ahlanggang
+     tla çu+V+NEGATIVE+REFLEXIVE: tla çu'áang'ahl
+     tla çu+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'ángäseehl
+     tla çu+V+NEGATIVE+PLURAL+IMPERATIVE: tla çu'áng'uu
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: tla çu'áng'waa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: tla çu'áng'waa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: tla çu'áng'waang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: tla çu'áng'wägan
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: tla çu'áng'aawaa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: tla çu'áng'aawaan
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: tla çu'áng'waas
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: tla çu'áng'aawaas
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: tla çu'áng'waa.ang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: tla çu'áng'aawaa.ang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: tla çugáng'ang'waa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: tla çugáng'ang'waang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: tla çugáng'ang'waa.ang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: tla çu'áng'wägiinii
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: tla çu'áng'wägaangaa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: tla çu'áng'wägaangaan
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: tla çu'áng'waaäsaa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: tla çu'áng'waaäs
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: tla çu'áng'waaäsaang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: tla çu'áng'waaäsga
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: tla çu'áng'waaäsaas
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: tla çu'áng'waaäsaa.ang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: tla çu'wáa.ang ñasaa'áng
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: tla çu'wáa.ang ñasaa'ánggang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdlä'áng
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: tla çu'wáa.ang ñasaasdlä'ánggang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: tla çu'áng'waa'uuj
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: tla çu'áng'waa'uujang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: tla çu'áng'waaäsaa'uujang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: tla çu'áng'waa'us
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: tla çu'áng'waa'ujaa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: tla çu'áng'waa'uujaangaa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: tla çu'áng'waaäsaa'us
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: tla çu'áng'waa'ahlanggang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: tla çu'áng'waa'ahlanggan
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: tla çu'áng'waa'ahlanggiinii
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: tla çu'áng'waaäsaa'ahlans
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: tla çu'áng'waa'ahlans
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: tla çu'áng'aawaa'ahlang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla çu'áng'aawaa'ahlanggaa
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla çu'áng'aawaa'ahlanggang
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: tla çu'áng'waa'ahl
+     tla çu+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla çu'áng'waaäseehl
 
