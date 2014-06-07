@@ -9,18 +9,18 @@ Config:
 
 Tests:
 
-  Verb - xál - ENGLISH : # CLASS_E.EHL_STEM_3
+  Verb - xál ñáat'e.ehl - ENGLISH : # CLASS_E.EHL_STEM_3
 
-     ñáat'e.ehl+V+INTERROGATIVE+PAST: xál ñáat'eelaa xál
-     ñáat'e.ehl+V+INDIRECT+PAST: xál ñáat'eelaan xál
-     ñáat'e.ehl+V+RELATIVE+EVIDENTIAL: xál ñáat'eelaas xál
-     ñáat'e.ehl+V+PAST+NON_FACTIVE: xál ñáat'eelaa.ang xál
-     ñáat'e.ehl+V+CERTAIN+PRESENT: xál ñáat'eel'ahlanggang xál
-     ñáat'e.ehl+V+CERTAIN+PAST: xál ñáat'eel'ahlanggan xál
-     ñáat'e.ehl+V+CERTAIN+PAST+HABITUAL: xál ñáat'eel'ahlanggiinii xál
-     ñáat'e.ehl+V+CERTAIN+RELATIVE: xál ñáat'eel'ahlans xál
-     ñáat'e.ehl+V+INTENSIVE+PAST: xál ñáat'eelaa'ahlang xál
-     ñáat'e.ehl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eelaa'ahlanggaa xál
-     ñáat'e.ehl+V+COUNTERFACTUAL+PRESENT: xál ñáat'eelaa'ahlanggang xál
-     ñáat'e.ehl+V+REFLEXIVE: xál ñáat'eel'ahl xál
+     xál ñáat'e.ehl+V+INTERROGATIVE+PAST: xál ñáat'eelaa
+     xál ñáat'e.ehl+V+INDIRECT+PAST: xál ñáat'eelaan
+     xál ñáat'e.ehl+V+RELATIVE+EVIDENTIAL: xál ñáat'eelaas
+     xál ñáat'e.ehl+V+PAST+NON_FACTIVE: xál ñáat'eelaa.ang
+     xál ñáat'e.ehl+V+CERTAIN+PRESENT: xál ñáat'eel'ahlanggang
+     xál ñáat'e.ehl+V+CERTAIN+PAST: xál ñáat'eel'ahlanggan
+     xál ñáat'e.ehl+V+CERTAIN+PAST+HABITUAL: xál ñáat'eel'ahlanggiinii
+     xál ñáat'e.ehl+V+CERTAIN+RELATIVE: xál ñáat'eel'ahlans
+     xál ñáat'e.ehl+V+INTENSIVE+PAST: xál ñáat'eelaa'ahlang
+     xál ñáat'e.ehl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eelaa'ahlanggaa
+     xál ñáat'e.ehl+V+COUNTERFACTUAL+PRESENT: xál ñáat'eelaa'ahlanggang
+     xál ñáat'e.ehl+V+REFLEXIVE: xál ñáat'eel'ahl
 
