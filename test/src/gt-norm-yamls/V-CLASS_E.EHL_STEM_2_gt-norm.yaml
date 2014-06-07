@@ -9,170 +9,170 @@ Config:
 
 Tests:
 
-  Verb - xál - ENGLISH : # CLASS_E.EHL_STEM_2
+  Verb - xál ñáat'e.ehl - ENGLISH : # CLASS_E.EHL_STEM_2
 
-     ñáat'e.ehl+V+SINGULAR+IMPERATIVE: xál ñáat'eehl xál
-     ñáat'e.ehl+V+IMMEDIATE+PRESENT: xál ñáat'eehlga xál
-     ñáat'e.ehl+V+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl xál
-     ñáat'e.ehl+V+SIMPLE+PRESENT: xál ñáat'eehlgang xál
-     ñáat'e.ehl+V+DIRECT+PAST: xál ñáat'eehlgan xál
-     ñáat'e.ehl+V+RELATIVE: xál ñáat'eehls xál
-     ñáat'e.ehl+V+NON_FACTIVE: xál ñáat'eehlang xál
-     ñáat'e.ehl+V+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang xál
-     ñáat'e.ehl+V+PRESENT+HABITUAL: xál ñáat'eehlganggang xál
-     ñáat'e.ehl+V+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgangang xál
-     ñáat'e.ehl+V+DIRECT+PAST+HABITUAL: xál ñáat'eehlgiinii xál
-     ñáat'e.ehl+V+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehlgaangaa xál
-     ñáat'e.ehl+V+INDIRECT+PAST+HABITUAL: xál ñáat'eehlgaangaan xál
-     ñáat'e.ehl+V+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehläsaa xál
-     ñáat'e.ehl+V+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehläs xál
-     ñáat'e.ehl+V+SIMPLE+FUTURE: xál ñáat'eehläsaang xál
-     ñáat'e.ehl+V+IMMEDIATE+FUTURE: xál ñáat'eehläsga xál
-     ñáat'e.ehl+V+RELATIVE+FUTURE: xál ñáat'eehläsaas xál
-     ñáat'e.ehl+V+FUTURE+NON_FACTIVE: xál ñáat'eehläsaa.ang xál
-     ñáat'e.ehl+V+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehlang ñasa'áa xál
-     ñáat'e.ehl+V+NEAR+FUTURE: xál ñáat'eehlang ñasa'áang xál
-     ñáat'e.ehl+V+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdláa xál
-     ñáat'e.ehl+V+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdláang xál
-     ñáat'e.ehl+V+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'uuj xál
-     ñáat'e.ehl+V+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'uujang xál
-     ñáat'e.ehl+V+RESIGNED_OBLIGATION: xál ñáat'eehläsaa'uujang xál
-     ñáat'e.ehl+V+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'us xál
-     ñáat'e.ehl+V+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'ujaa xál
-     ñáat'e.ehl+V+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'uujaangaa xál
-     ñáat'e.ehl+V+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehläsaa'us xál
-     ñáat'e.ehl+V+CERTAIN+FUTURE: xál ñáat'eehläsaa'ahlans xál
-     ñáat'e.ehl+V+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehläseehl xál
-     ñáat'e.ehl+V+PLURAL+IMPERATIVE: xál ñáat'eehl'uu xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xál ñáat'eehl'waa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'waa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xál ñáat'eehl'waang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+DIRECT+PAST: xál ñáat'eehl'wägan xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xál ñáat'eehl'aawaa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST: xál ñáat'eehl'aawaan xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE: xál ñáat'eehl'waas xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xál ñáat'eehl'aawaas xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+NON_FACTIVE: xál ñáat'eehl'waa.ang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xál ñáat'eehl'aawaa.ang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang'waa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xál ñáat'eehlgang'waang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgang'waa.ang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xál ñáat'eehl'wägiinii xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'wägaangaa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xál ñáat'eehl'wägaangaan xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehl'waaäsaa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehl'waaäs xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xál ñáat'eehl'waaäsaang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xál ñáat'eehl'waaäsga xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xál ñáat'eehl'waaäsaas xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xál ñáat'eehl'waaäsaa.ang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasa'áa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasa'áang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdláa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdláang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'waa'uuj xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'waa'uujang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xál ñáat'eehl'waaäsaa'uujang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'waa'us xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'waa'ujaa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'waa'uujaangaa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehl'waaäsaa'us xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xál ñáat'eehl'waa'ahlanggang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST: xál ñáat'eehl'waa'ahlanggan xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xál ñáat'eehl'waa'ahlanggiinii xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xál ñáat'eehl'waaäsaa'ahlans xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xál ñáat'eehl'waa'ahlans xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: xál ñáat'eehl'aawaa'ahlang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eehl'aawaa'ahlanggaa xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'aawaa'ahlanggang xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+REFLEXIVE: xál ñáat'eehl'waa'ahl xál
-     ñáat'e.ehl+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'waaäseehl xál
-     ñáat'e.ehl+V+NEGATIVE+SINGULAR+IMPERATIVE: xál ñáat'eehl'ang xál
-     ñáat'e.ehl+V+NEGATIVE+IMMEDIATE+PRESENT: xál ñáat'eehl'angga xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'ang xál
-     ñáat'e.ehl+V+NEGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'anggang xál
-     ñáat'e.ehl+V+NEGATIVE+DIRECT+PAST: xál ñáat'eehl'anggan xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+PAST: xál ñáat'eehl'aangaa xál
-     ñáat'e.ehl+V+NEGATIVE+INDIRECT+PAST: xál ñáat'eehl'aangaan xál
-     ñáat'e.ehl+V+NEGATIVE+RELATIVE: xál ñáat'eehl'ans xál
-     ñáat'e.ehl+V+NEGATIVE+RELATIVE+EVIDENTIAL: xál ñáat'eehl'aangaas xál
-     ñáat'e.ehl+V+NEGATIVE+NON_FACTIVE: xál ñáat'eehl'angang xál
-     ñáat'e.ehl+V+NEGATIVE+PAST+NON_FACTIVE: xál ñáat'eehl'aangaa.ang xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehl'anggang xál
-     ñáat'e.ehl+V+NEGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang'anggang xál
-     ñáat'e.ehl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgang'angang xál
-     ñáat'e.ehl+V+NEGATIVE+DIRECT+PAST+HABITUAL: xál ñáat'eehl'anggiinii xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'anggaangaa xál
-     ñáat'e.ehl+V+NEGATIVE+INDIRECT+PAST+HABITUAL: xál ñáat'eehl'anggaangaan xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehl'angäsaa xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehl'angäs xál
-     ñáat'e.ehl+V+NEGATIVE+SIMPLE+FUTURE: xál ñáat'eehl'angäsaang xál
-     ñáat'e.ehl+V+NEGATIVE+IMMEDIATE+FUTURE: xál ñáat'eehl'angäsga xál
-     ñáat'e.ehl+V+NEGATIVE+RELATIVE+FUTURE: xál ñáat'eehl'angäsaas xál
-     ñáat'e.ehl+V+NEGATIVE+FUTURE+NON_FACTIVE: xál ñáat'eehl'angäsaa.ang xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehlang ñasaa'áng xál
-     ñáat'e.ehl+V+NEGATIVE+NEAR+FUTURE: xál ñáat'eehlang ñasaa'ánggang xál
-     ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdlä'áng xál
-     ñáat'e.ehl+V+NEGATIVE+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdlä'ánggang xál
-     ñáat'e.ehl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'ang'uuj xál
-     ñáat'e.ehl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'ang'uujang xál
-     ñáat'e.ehl+V+NEGATIVE+RESIGNED_OBLIGATION: xál ñáat'eehl'angäsaa'uujang xál
-     ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'ang'us xál
-     ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'ang'ujaa xál
-     ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'ang'uujaangaa xál
-     ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehl'angäsaa'us xál
-     ñáat'e.ehl+V+NEGATIVE+CERTAIN+PRESENT: xál ñáat'eehl'aang'ahlanggang xál
-     ñáat'e.ehl+V+NEGATIVE+CERTAIN+PAST: xál ñáat'eehl'aang'ahlanggan xál
-     ñáat'e.ehl+V+NEGATIVE+CERTAIN+PAST+HABITUAL: xál ñáat'eehl'aang'ahlanggiinii xál
-     ñáat'e.ehl+V+NEGATIVE+CERTAIN+FUTURE: xál ñáat'eehl'angäsaa'ahlans xál
-     ñáat'e.ehl+V+NEGATIVE+CERTAIN+RELATIVE: xál ñáat'eehl'aang'ahlans xál
-     ñáat'e.ehl+V+NEGATIVE+INTENSIVE+PAST: xál ñáat'eehl'aangaa'ahlang xál
-     ñáat'e.ehl+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eehl'aangaa'ahlanggaa xál
-     ñáat'e.ehl+V+NEGATIVE+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'aangaa'ahlanggang xál
-     ñáat'e.ehl+V+NEGATIVE+REFLEXIVE: xál ñáat'eehl'aang'ahl xál
-     ñáat'e.ehl+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'angäseehl xál
-     ñáat'e.ehl+V+NEGATIVE+PLURAL+IMPERATIVE: xál ñáat'eehl'ang'uu xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xál ñáat'eehl'ang'waa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'ang'waa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xál ñáat'eehl'ang'waang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: xál ñáat'eehl'ang'wägan xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xál ñáat'eehl'ang'aawaa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: xál ñáat'eehl'ang'aawaan xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: xál ñáat'eehl'ang'waas xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xál ñáat'eehl'ang'aawaas xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: xál ñáat'eehl'ang'waa.ang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xál ñáat'eehl'ang'aawaa.ang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang'ang'waa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xál ñáat'eehlgang'ang'waang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgang'ang'waa.ang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xál ñáat'eehl'ang'wägiinii xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'ang'wägaangaa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xál ñáat'eehl'ang'wägaangaan xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehl'ang'waaäsaa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehl'ang'waaäs xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xál ñáat'eehl'ang'waaäsaang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xál ñáat'eehl'ang'waaäsga xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xál ñáat'eehl'ang'waaäsaas xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xál ñáat'eehl'ang'waaäsaa.ang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaa'áng xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaa'ánggang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdlä'áng xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdlä'ánggang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'ang'waa'uuj xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'ang'waa'uujang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xál ñáat'eehl'ang'waaäsaa'uujang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'ang'waa'us xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'ang'waa'ujaa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'ang'waa'uujaangaa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehl'ang'waaäsaa'us xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xál ñáat'eehl'ang'waa'ahlanggang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: xál ñáat'eehl'ang'waa'ahlanggan xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xál ñáat'eehl'ang'waa'ahlanggiinii xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xál ñáat'eehl'ang'waaäsaa'ahlans xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xál ñáat'eehl'ang'waa'ahlans xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: xál ñáat'eehl'ang'aawaa'ahlang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eehl'ang'aawaa'ahlanggaa xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'ang'aawaa'ahlanggang xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: xál ñáat'eehl'ang'waa'ahl xál
-     ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'ang'waaäseehl xál
+     xál ñáat'e.ehl+V+SINGULAR+IMPERATIVE: xál ñáat'eehl
+     xál ñáat'e.ehl+V+IMMEDIATE+PRESENT: xál ñáat'eehlga
+     xál ñáat'e.ehl+V+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl
+     xál ñáat'e.ehl+V+SIMPLE+PRESENT: xál ñáat'eehlgang
+     xál ñáat'e.ehl+V+DIRECT+PAST: xál ñáat'eehlgan
+     xál ñáat'e.ehl+V+RELATIVE: xál ñáat'eehls
+     xál ñáat'e.ehl+V+NON_FACTIVE: xál ñáat'eehlang
+     xál ñáat'e.ehl+V+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang
+     xál ñáat'e.ehl+V+PRESENT+HABITUAL: xál ñáat'eehlganggang
+     xál ñáat'e.ehl+V+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgangang
+     xál ñáat'e.ehl+V+DIRECT+PAST+HABITUAL: xál ñáat'eehlgiinii
+     xál ñáat'e.ehl+V+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehlgaangaa
+     xál ñáat'e.ehl+V+INDIRECT+PAST+HABITUAL: xál ñáat'eehlgaangaan
+     xál ñáat'e.ehl+V+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehläsaa
+     xál ñáat'e.ehl+V+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehläs
+     xál ñáat'e.ehl+V+SIMPLE+FUTURE: xál ñáat'eehläsaang
+     xál ñáat'e.ehl+V+IMMEDIATE+FUTURE: xál ñáat'eehläsga
+     xál ñáat'e.ehl+V+RELATIVE+FUTURE: xál ñáat'eehläsaas
+     xál ñáat'e.ehl+V+FUTURE+NON_FACTIVE: xál ñáat'eehläsaa.ang
+     xál ñáat'e.ehl+V+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehlang ñasa'áa
+     xál ñáat'e.ehl+V+NEAR+FUTURE: xál ñáat'eehlang ñasa'áang
+     xál ñáat'e.ehl+V+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdláa
+     xál ñáat'e.ehl+V+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdláang
+     xál ñáat'e.ehl+V+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'uuj
+     xál ñáat'e.ehl+V+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'uujang
+     xál ñáat'e.ehl+V+RESIGNED_OBLIGATION: xál ñáat'eehläsaa'uujang
+     xál ñáat'e.ehl+V+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'us
+     xál ñáat'e.ehl+V+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'ujaa
+     xál ñáat'e.ehl+V+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'uujaangaa
+     xál ñáat'e.ehl+V+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehläsaa'us
+     xál ñáat'e.ehl+V+CERTAIN+FUTURE: xál ñáat'eehläsaa'ahlans
+     xál ñáat'e.ehl+V+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehläseehl
+     xál ñáat'e.ehl+V+PLURAL+IMPERATIVE: xál ñáat'eehl'uu
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xál ñáat'eehl'waa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'waa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xál ñáat'eehl'waang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+DIRECT+PAST: xál ñáat'eehl'wägan
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xál ñáat'eehl'aawaa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST: xál ñáat'eehl'aawaan
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE: xál ñáat'eehl'waas
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xál ñáat'eehl'aawaas
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+NON_FACTIVE: xál ñáat'eehl'waa.ang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xál ñáat'eehl'aawaa.ang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang'waa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xál ñáat'eehlgang'waang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgang'waa.ang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xál ñáat'eehl'wägiinii
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'wägaangaa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xál ñáat'eehl'wägaangaan
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehl'waaäsaa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehl'waaäs
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xál ñáat'eehl'waaäsaang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xál ñáat'eehl'waaäsga
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xál ñáat'eehl'waaäsaas
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xál ñáat'eehl'waaäsaa.ang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasa'áa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasa'áang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdláa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdláang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'waa'uuj
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'waa'uujang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xál ñáat'eehl'waaäsaa'uujang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'waa'us
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'waa'ujaa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'waa'uujaangaa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehl'waaäsaa'us
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xál ñáat'eehl'waa'ahlanggang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST: xál ñáat'eehl'waa'ahlanggan
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xál ñáat'eehl'waa'ahlanggiinii
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xál ñáat'eehl'waaäsaa'ahlans
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xál ñáat'eehl'waa'ahlans
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: xál ñáat'eehl'aawaa'ahlang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eehl'aawaa'ahlanggaa
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'aawaa'ahlanggang
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+REFLEXIVE: xál ñáat'eehl'waa'ahl
+     xál ñáat'e.ehl+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'waaäseehl
+     xál ñáat'e.ehl+V+NEGATIVE+SINGULAR+IMPERATIVE: xál ñáat'eehl'ang
+     xál ñáat'e.ehl+V+NEGATIVE+IMMEDIATE+PRESENT: xál ñáat'eehl'angga
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'ang
+     xál ñáat'e.ehl+V+NEGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'anggang
+     xál ñáat'e.ehl+V+NEGATIVE+DIRECT+PAST: xál ñáat'eehl'anggan
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+PAST: xál ñáat'eehl'aangaa
+     xál ñáat'e.ehl+V+NEGATIVE+INDIRECT+PAST: xál ñáat'eehl'aangaan
+     xál ñáat'e.ehl+V+NEGATIVE+RELATIVE: xál ñáat'eehl'ans
+     xál ñáat'e.ehl+V+NEGATIVE+RELATIVE+EVIDENTIAL: xál ñáat'eehl'aangaas
+     xál ñáat'e.ehl+V+NEGATIVE+NON_FACTIVE: xál ñáat'eehl'angang
+     xál ñáat'e.ehl+V+NEGATIVE+PAST+NON_FACTIVE: xál ñáat'eehl'aangaa.ang
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehl'anggang
+     xál ñáat'e.ehl+V+NEGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang'anggang
+     xál ñáat'e.ehl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgang'angang
+     xál ñáat'e.ehl+V+NEGATIVE+DIRECT+PAST+HABITUAL: xál ñáat'eehl'anggiinii
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'anggaangaa
+     xál ñáat'e.ehl+V+NEGATIVE+INDIRECT+PAST+HABITUAL: xál ñáat'eehl'anggaangaan
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehl'angäsaa
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehl'angäs
+     xál ñáat'e.ehl+V+NEGATIVE+SIMPLE+FUTURE: xál ñáat'eehl'angäsaang
+     xál ñáat'e.ehl+V+NEGATIVE+IMMEDIATE+FUTURE: xál ñáat'eehl'angäsga
+     xál ñáat'e.ehl+V+NEGATIVE+RELATIVE+FUTURE: xál ñáat'eehl'angäsaas
+     xál ñáat'e.ehl+V+NEGATIVE+FUTURE+NON_FACTIVE: xál ñáat'eehl'angäsaa.ang
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehlang ñasaa'áng
+     xál ñáat'e.ehl+V+NEGATIVE+NEAR+FUTURE: xál ñáat'eehlang ñasaa'ánggang
+     xál ñáat'e.ehl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdlä'áng
+     xál ñáat'e.ehl+V+NEGATIVE+VERYNEAR+FUTURE: xál ñáat'eehlang ñasaasdlä'ánggang
+     xál ñáat'e.ehl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'ang'uuj
+     xál ñáat'e.ehl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'ang'uujang
+     xál ñáat'e.ehl+V+NEGATIVE+RESIGNED_OBLIGATION: xál ñáat'eehl'angäsaa'uujang
+     xál ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'ang'us
+     xál ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'ang'ujaa
+     xál ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'ang'uujaangaa
+     xál ñáat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehl'angäsaa'us
+     xál ñáat'e.ehl+V+NEGATIVE+CERTAIN+PRESENT: xál ñáat'eehl'aang'ahlanggang
+     xál ñáat'e.ehl+V+NEGATIVE+CERTAIN+PAST: xál ñáat'eehl'aang'ahlanggan
+     xál ñáat'e.ehl+V+NEGATIVE+CERTAIN+PAST+HABITUAL: xál ñáat'eehl'aang'ahlanggiinii
+     xál ñáat'e.ehl+V+NEGATIVE+CERTAIN+FUTURE: xál ñáat'eehl'angäsaa'ahlans
+     xál ñáat'e.ehl+V+NEGATIVE+CERTAIN+RELATIVE: xál ñáat'eehl'aang'ahlans
+     xál ñáat'e.ehl+V+NEGATIVE+INTENSIVE+PAST: xál ñáat'eehl'aangaa'ahlang
+     xál ñáat'e.ehl+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eehl'aangaa'ahlanggaa
+     xál ñáat'e.ehl+V+NEGATIVE+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'aangaa'ahlanggang
+     xál ñáat'e.ehl+V+NEGATIVE+REFLEXIVE: xál ñáat'eehl'aang'ahl
+     xál ñáat'e.ehl+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'angäseehl
+     xál ñáat'e.ehl+V+NEGATIVE+PLURAL+IMPERATIVE: xál ñáat'eehl'ang'uu
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xál ñáat'eehl'ang'waa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xál ñáat'eehl'ang'waa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xál ñáat'eehl'ang'waang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: xál ñáat'eehl'ang'wägan
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xál ñáat'eehl'ang'aawaa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: xál ñáat'eehl'ang'aawaan
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: xál ñáat'eehl'ang'waas
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xál ñáat'eehl'ang'aawaas
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: xál ñáat'eehl'ang'waa.ang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xál ñáat'eehl'ang'aawaa.ang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xál ñáat'eehlgang'ang'waa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xál ñáat'eehlgang'ang'waang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xál ñáat'eehlgang'ang'waa.ang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xál ñáat'eehl'ang'wägiinii
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'ang'wägaangaa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xál ñáat'eehl'ang'wägaangaan
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xál ñáat'eehl'ang'waaäsaa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xál ñáat'eehl'ang'waaäs
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xál ñáat'eehl'ang'waaäsaang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xál ñáat'eehl'ang'waaäsga
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xál ñáat'eehl'ang'waaäsaas
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xál ñáat'eehl'ang'waaäsaa.ang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaa'áng
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaa'ánggang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdlä'áng
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xál ñáat'eehl'waa.ang ñasaasdlä'ánggang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xál ñáat'eehl'ang'waa'uuj
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xál ñáat'eehl'ang'waa'uujang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xál ñáat'eehl'ang'waaäsaa'uujang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xál ñáat'eehl'ang'waa'us
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xál ñáat'eehl'ang'waa'ujaa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xál ñáat'eehl'ang'waa'uujaangaa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xál ñáat'eehl'ang'waaäsaa'us
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xál ñáat'eehl'ang'waa'ahlanggang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: xál ñáat'eehl'ang'waa'ahlanggan
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xál ñáat'eehl'ang'waa'ahlanggiinii
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xál ñáat'eehl'ang'waaäsaa'ahlans
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xál ñáat'eehl'ang'waa'ahlans
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: xál ñáat'eehl'ang'aawaa'ahlang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál ñáat'eehl'ang'aawaa'ahlanggaa
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál ñáat'eehl'ang'aawaa'ahlanggang
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: xál ñáat'eehl'ang'waa'ahl
+     xál ñáat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál ñáat'eehl'ang'waaäseehl
 
