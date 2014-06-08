@@ -1,11 +1,10 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! ./haida_stems_2014-06-07_190937.lexc
 ! Generated Sat Jun  7 19:09:40 2014
 !
 ! by C:\Users\Jordan\Desktop\Haida Projects\Haida FST\LEXC Generator\gen_haida_lexc.pl
 ! from .//haida_rhymes%.dat and .//verb-index-4.sf
 
-LEXICON Verbs
+LEXICON Verbs !!= @CODE@
 
 aada CLASS-A-STEM-1 "for S to fish with a net, to seine" ;
 aada:aadä CLASS-A-STEM-2 "for S to fish with a net, to seine" ;
@@ -170,7 +169,7 @@ awéeda:awéedáa CLASS-A-STEM-3 "for S to address O as mother `awáa`" ;
 
 áljahl CLASS-AHL-STEM-1 "for S to try their best on X" ;
 áljahl:áljál CLASS-AHL-STEM-2 "for S to try their best on X" ;
-áljahl:áljáal CLASS-AHL-STEM-3 "for S to try their best on X" ;
+áljahl:áljaal CLASS-AHL-STEM-3 "for S to try their best on X" ;
 
 álsdla CLASS-A-STEM-1 "for S to try their best on O, go at O harder than ever" ;
 álsdla:álsdlä CLASS-A-STEM-2 "for S to try their best on O, go at O harder than ever" ;
