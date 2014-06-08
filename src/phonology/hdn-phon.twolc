@@ -1,7 +1,8 @@
-!! =================================== !
-!! The Northern Haida morphophonological/twolc rules file !
-!! =================================== !
+! =================================== !
+!! !!!The Northern Haida morphophonological/twolc rules file 
+! =================================== !
 
+!! !! Alphabet
 Alphabet
  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç '
@@ -11,15 +12,17 @@ Alphabet
 
  %>:0 ;		!!= * @CODE@ affix boundary
 
+!! !! Sets
+
 Sets
 
- Vow = a e i o u y æ ø å 
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;
- Cns = b c d f g h j k l m n p q r s t v w x z ð þ ;
- Sgm = Vow Cns ;
+ Vow = a e i o u y æ ø å  !!= * @CODE@
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ; !!= @CODE@
+ Cns = b c d f g h j k l m n p q r s t v w x z ð þ ; !!= * @CODE@
+ Sgm = Vow Cns ; !!= * @CODE@
  
  
-!! !!!Rules
+!! !!Rules
 
 Rules
 
@@ -41,7 +44,7 @@ Rules
 !! __@RULENAME@__
  a:0 <=> w: _ a: l %>: a ;
 
-"a deletion in gwaal 1"
+"a deletion in gwaal 2"
 !! __@RULENAME@__
  a:0 <=> w: a: _ l %>: a ;
 
