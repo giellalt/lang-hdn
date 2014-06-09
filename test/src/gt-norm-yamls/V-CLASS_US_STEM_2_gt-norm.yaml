@@ -12,34 +12,34 @@ Tests:
   Verb - kus - ENGLISH : # CLASS_US_STEM_2
 
      kus+V+IMMEDIATE+PRESENT: kuja
-     kus+V+SIMPLE+PRESENT: kujang
-     kus+V+DIRECT+PAST: kujan
-     kus+V+NON_FACTIVE: kujang
-     kus+V+INTERROGATIVE+PRESENT+HABITUAL: kujang
-     kus+V+PRESENT+HABITUAL: kujanggang
-     kus+V+PRESENT+HABITUAL+NON_FACTIVE: kujangang
-     kus+V+DIRECT+PAST+HABITUAL: kujiinii
-     kus+V+INTERROGATIVE+PAST+HABITUAL: kujaangaa
-     kus+V+INDIRECT+PAST+HABITUAL: kujaangaan
-     kus+V+INTERROGATIVE+NEAR+FUTURE: kujang ñasa'áa
-     kus+V+NEAR+FUTURE: kujang ñasa'áang
-     kus+V+INTERROGATIVE+VERYNEAR+FUTURE: kujang ñasaasdláa
-     kus+V+VERYNEAR+FUTURE: kujang ñasaasdláang
-     kus+V+CERTAIN+PRESENT: kuj'ahlanggang
-     kus+V+CERTAIN+PAST: kuj'ahlanggan
-     kus+V+CERTAIN+PAST+HABITUAL: kuj'ahlanggiinii
-     kus+V+CERTAIN+RELATIVE: kuj'ahlans
+     kus+V+SIMPLE+PRESENT: kujáng
+     kus+V+DIRECT+PAST: kuján
+     kus+V+NON_FACTIVE: kujáng
+     kus+V+INTERROGATIVE+PRESENT+HABITUAL: kujáng
+     kus+V+PRESENT+HABITUAL: kujánggang
+     kus+V+PRESENT+HABITUAL+NON_FACTIVE: kujángang
+     kus+V+DIRECT+PAST+HABITUAL: kujíinii
+     kus+V+INTERROGATIVE+PAST+HABITUAL: kujáangaa
+     kus+V+INDIRECT+PAST+HABITUAL: kujáangaan
+     kus+V+INTERROGATIVE+NEAR+FUTURE: kujáng ñasa'áa
+     kus+V+NEAR+FUTURE: kujáng ñasa'áang
+     kus+V+INTERROGATIVE+VERYNEAR+FUTURE: kujáng ñasaasdláa
+     kus+V+VERYNEAR+FUTURE: kujáng ñasaasdláang
+     kus+V+CERTAIN+PRESENT: kuj'ahlánggang
+     kus+V+CERTAIN+PAST: kuj'ahlánggan
+     kus+V+CERTAIN+PAST+HABITUAL: kuj'ahlánggiinii
+     kus+V+CERTAIN+RELATIVE: kuj'ahláns
      kus+V+REFLEXIVE: kuj'ahl
-     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujang'waa
-     kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujang'waang
-     kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujang'waa.ang
-     kus+V+NEGATIVE+PRESENT+HABITUAL: kujang'anggang
-     kus+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kujang'angang
-     kus+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kujang ñasaa'áng
-     kus+V+NEGATIVE+NEAR+FUTURE: kujang ñasaa'ánggang
-     kus+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kujang ñasaasdlä'áng
-     kus+V+NEGATIVE+VERYNEAR+FUTURE: kujang ñasaasdlä'ánggang
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujang'ang'waa
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujang'ang'waang
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujang'ang'waa.ang
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujáng'waa
+     kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujáng'waang
+     kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujáng'waa.ang
+     kus+V+NEGATIVE+PRESENT+HABITUAL: kujáng'anggang
+     kus+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kujáng'angang
+     kus+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kujáng ñasaa'áng
+     kus+V+NEGATIVE+NEAR+FUTURE: kujáng ñasaa'ánggang
+     kus+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kujáng ñasaasdlä'áng
+     kus+V+NEGATIVE+VERYNEAR+FUTURE: kujáng ñasaasdlä'ánggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujáng'ang'waa
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujáng'ang'waang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujáng'ang'waa.ang
 
