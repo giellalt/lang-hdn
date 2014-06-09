@@ -1,0 +1,33 @@
+
+
+There are several conventions for writing Northern Haida.
+
+This document contains an overview over the differences between
+the various orthographic conventions.
+
+
+|| Ph || EM  || ES || ANLC || SHIP || Br 
+| x    | c    | c   | x     | x     | x 
+| ɢ̥    | G    | r   | ĝ     | ǥ     | gh
+| k'   | k'   | k'  | kk    | kk    | kk
+| qʰ   | q    | q   | ḵ     | ḵ     | q 
+| qʼ   | q'   | q'  | ḵ'    | ḵ'    | qq 
+| lˀ   | 'l   | 'l  | ll    | ll    | ll
+| mˀ   | 'm   | 'm  | mm    | mm    | mm  
+| nˀ   | 'n   | 'n  | nn    | nn    | nn   
+| pʼ   | p'   | p'  | –     | –     | –    
+| ʕ	   | r    | r   | ǥ     | –     | gh
+| tʼ   | t'   | t'  | tt    | tt    | tt   
+| t͡ɬ ʼ | tl'  | tl' | ttl   | ttl   | ttl
+| ħ	   | x    | x   | x̱     | –     | – 
+| χ	   | X    | x   | x̂     | x̱     | xh 
+| ʔ    | 7    | 7   | '     | '     | '
+
+
+Abbreviation for orthographies:
+* Ph = Underlying phoneme
+* EM = Enrico Masset, 
+* ES = Enrico Skidegate, 
+* ANLC = Alaska Native Language Center,
+* SHIP = Skidegate Haida Immersion Program
+* Br = Robert Bringhurst
