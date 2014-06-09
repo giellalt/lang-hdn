@@ -2,7 +2,7 @@
 !! !!!The Northern Haida morphophonological/twolc rules file 
 ! =================================== !
 
-!! !! Alphabet
+!! !!Alphabet
 Alphabet
  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' .
@@ -11,10 +11,10 @@ Alphabet
  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
 
  %>:0 	!!= * @CODE@ affix boundary
- %^WS:0    !!= * @CODE@ white space
+ %^WS:0    !!= * @CODE@ white space dummy
 ;
 
-!! !! Sets
+!! !!Sets
 
 Sets
 
@@ -34,36 +34,35 @@ Rules
 
 
 !"Final s to j"
-!!! rulename
+! rulename
 ! s:j <=> Vow _ %>: a ;
 !
 !"h deletion before l in definite"
-!!! rulename
+! rulename
 ! h:0 <=> _ l %>: a ;
 !
 !
 !"w to u in gwaal"
-!!! rulename
+! rulename
 ! w:u <=> _ a: a: l %>: a ;
 !
 !"a deletion in gwaal 1"
-!!! rulename
+! rulename
 ! a:0 <=> w: _ a: l %>: a ;
 !
 !"a deletion in gwaal 2"
-!!! rulename
+! rulename
 ! a:0 <=> w: a: _ l %>: a ;
 !
-!! Vowel harmony
 !
 !"Vowel harmony"
-!!! rulename
+! rulename
 ! ä:a <=> _ %>: a ;
  
 ! Destressing
 
 "Destressing rule"
-!! __@RULENAME@__ 
+!! __@RULENAME@__ - a general rule
 Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:* ( %>: ) Sgm:* ( %>: ) _  ;
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )

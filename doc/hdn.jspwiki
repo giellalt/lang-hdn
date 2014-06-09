@@ -159,6 +159,8 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-AD-STEM-2 
 
+
+
  LEXICON CLASS-AL-STEM-1 
 
  LEXICON CLASS-AL-STEM-2 
@@ -168,53 +170,72 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-AN-STEM-2 
 
+
  LEXICON CLASS-ANG-STEM-1 
 
  LEXICON CLASS-ANG-STEM-2 
+
+
 
  LEXICON CLASS-AW-STEM-1 
 
  LEXICON CLASS-AW-STEM-2 
 
+
  LEXICON CLASS-AY-STEM-1 
 
  LEXICON CLASS-AY-STEM-2 
+
+
 
  LEXICON CLASS-EEHL-STEM-1 
 
  LEXICON CLASS-EEHL-STEM-2 
 
+
  LEXICON CLASS-ID-STEM-1 
 
  LEXICON CLASS-ID-STEM-2 
+
+
+
 
  LEXICON CLASS-II-STEM-1 
 
  LEXICON CLASS-II-STEM-2 
 
+
+
  LEXICON CLASS-IN-STEM-1 
 
  LEXICON CLASS-IN-STEM-2 
+
 
  LEXICON CLASS-ING-STEM-1 
 
  LEXICON CLASS-ING-STEM-2 
 
+
  LEXICON CLASS-UD-STEM-1 
 
  LEXICON CLASS-UD-STEM-2 
+
 
  LEXICON CLASS-UN-STEM-1 
 
  LEXICON CLASS-UN-STEM-2 
 
+
  LEXICON CLASS-UNG-STEM-1 
 
  LEXICON CLASS-UNG-STEM-2 
 
+
+
  LEXICON CLASS-UU-STEM-1   
 
  LEXICON CLASS-UU-STEM-2  
+
 
  LEXICON CLASS-A-STEM-1  
 
@@ -222,11 +243,14 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-A-STEM-3 
 
+
+
  LEXICON CLASS-AHL-STEM-1 
 
  LEXICON CLASS-AHL-STEM-2 
 
  LEXICON CLASS-AHL-STEM-3 
+
 
  LEXICON CLASS-AS-STEM-1 
 
@@ -234,11 +258,14 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-AS-STEM-3 
 
+
+
  LEXICON CLASS-E.E-STEM-1 
 
  LEXICON CLASS-E.E-STEM-2 
 
  LEXICON CLASS-E.E-STEM-3 
+
 
  LEXICON CLASS-E.EHL-STEM-1 
 
@@ -246,11 +273,13 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-E.EHL-STEM-3 
 
+
  LEXICON CLASS-IHL-STEM-1 
 
  LEXICON CLASS-IHL-STEM-2 
 
  LEXICON CLASS-IHL-STEM-3 
+
 
  LEXICON CLASS-IIHL-STEM-1 
 
@@ -258,11 +287,13 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-IIHL-STEM-3 
 
+
  LEXICON CLASS-IS-STEM-1 
 
  LEXICON CLASS-IS-STEM-2 
 
  LEXICON CLASS-IS-STEM-3 
+
 
  LEXICON CLASS-UHL-STEM-1 
 
@@ -270,11 +301,13 @@ word classes, or optionally from prefixes:
 
  LEXICON CLASS-UHL-STEM-3 
 
+
  LEXICON CLASS-US-STEM-1 
 
  LEXICON CLASS-US-STEM-2 
 
  LEXICON CLASS-US-STEM-3 
+
 
  LEXICON CLASS-UUHL-STEM-1 
 
@@ -285,45 +318,33 @@ word classes, or optionally from prefixes:
 
 !!!The Northern Haida morphophonological/twolc rules file 
 
-Alphabet
+!!Alphabet
 
 
- *  %>:0 ;		 affix boundary
+ *  %>:0 	 affix boundary
+ *  %^WS:0     white space dummy
 
-Sets
+!!Sets
 
 
  *  Vow = a e i o u y æ ø å  
-        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ; 
- *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ; 
- *  Sgm = Vow Cns ; 
+        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+ *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ç ý ñ ; 
+ *  Sgm = Vow Cns Orth ; 
+
 
 
 !!Rules
 
 
 
-__Final s to j__
-
-__h deletion before l in definite__
 
 
-__w to u in gwaal__
-
-__a deletion in gwaal 1__
-
-__a deletion in gwaal 2__
-
-
-__Vowel harmony__
-
-
-__Destressing rule__ 
+__Destressing rule__ - a general rule
 
 
 
  LEXICON Verbs 
-
 
 
 
