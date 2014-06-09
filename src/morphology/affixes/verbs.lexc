@@ -1179,10 +1179,10 @@ LEXICON CLASS-AH !!= @CODE@
 +V+NEGATIVE+IMMEDIATE+FUTURE:%>'ángäsga # ;
 +V+NEGATIVE+RELATIVE+FUTURE:%>'ángäsaas # ;
 +V+NEGATIVE+FUTURE+NON_FACTIVE:%>'ángäsaa%.ang # ;
-+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE:%>%.áng% %^WSñasaa'áng # ;
-+V+NEGATIVE+NEAR+FUTURE:%>%.áng% %^WSñasaa'ánggang # ;
-+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE:%>%.áng% %^WSñasaasdlä'áng # ;
-+V+NEGATIVE+VERYNEAR+FUTURE:%>%.áng% %^WSñasaasdlä'ánggang # ;
++V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE:%>áng% %^WSñasaa'áng # ;
++V+NEGATIVE+NEAR+FUTURE:%>áng% %^WSñasaa'ánggang # ;
++V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE:%>áng% %^WSñasaasdlä'áng # ;
++V+NEGATIVE+VERYNEAR+FUTURE:%>áng% %^WSñasaasdlä'ánggang # ;
 +V+NEGATIVE+BIASED+IMMEDIATE+PRESENT:%>'áng'uuj # ;
 +V+NEGATIVE+BIASED+SIMPLE+PRESENT:%>'áng'uujang # ;
 +V+NEGATIVE+RESIGNED_OBLIGATION:%>'ángäsaa'uujang # ;
