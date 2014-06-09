@@ -10,55 +10,60 @@ Alphabet
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
 
- %>:0 ;		!!= * @CODE@ affix boundary
+ %>:0 	!!= * @CODE@ affix boundary
+ %^WS:0    !!= * @CODE@ white space
+;
 
 !! !! Sets
 
 Sets
 
  Vow = a e i o u y æ ø å  !!= * @CODE@
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ; !!= @CODE@
- Cns = b c d f g h j k l m n p q r s t v w x z ð þ ; !!= * @CODE@
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; !!= @CODE@
+ Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ç ý ñ ; !!= * @CODE@
  Sgm = Vow Cns ; !!= * @CODE@
  
- 
+Definitions 
+
+ WS = :* %^WS:0  :* ; 
+  
 !! !!Rules
 
 Rules
 
 
-"Final s to j"
-!! __@RULENAME@__
- s:j <=> Vow _ %>: a ;
-
-"h deletion before l in definite"
-!! __@RULENAME@__
- h:0 <=> _ l %>: a ;
-
-
-"w to u in gwaal"
-!! __@RULENAME@__
- w:u <=> _ a: a: l %>: a ;
-
-"a deletion in gwaal 1"
-!! __@RULENAME@__
- a:0 <=> w: _ a: l %>: a ;
-
-"a deletion in gwaal 2"
-!! __@RULENAME@__
- a:0 <=> w: a: _ l %>: a ;
-
-! Vowel harmony
-
-"Vowel harmony"
-!! __@RULENAME@__
- ä:a <=> _ %>: a ;
+!"Final s to j"
+!!! rulename
+! s:j <=> Vow _ %>: a ;
+!
+!"h deletion before l in definite"
+!!! rulename
+! h:0 <=> _ l %>: a ;
+!
+!
+!"w to u in gwaal"
+!!! rulename
+! w:u <=> _ a: a: l %>: a ;
+!
+!"a deletion in gwaal 1"
+!!! rulename
+! a:0 <=> w: _ a: l %>: a ;
+!
+!"a deletion in gwaal 2"
+!!! rulename
+! a:0 <=> w: a: _ l %>: a ;
+!
+!! Vowel harmony
+!
+!"Vowel harmony"
+!!! rulename
+! ä:a <=> _ %>: a ;
  
 ! Destressing
 
 "Destressing rule"
 !! __@RULENAME@__ 
- Vx:Vy <=> [á|é|í|ó|ú] [Sgm:* | %>: ] %>: [Sgm:* | %>: ] _ ;
+Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:* ( %>: ) Sgm:* ( %>: ) _  ;
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )
  	      matched ;
