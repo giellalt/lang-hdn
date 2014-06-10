@@ -7313,7 +7313,7 @@ hlçeeláa CLASS-AA "for S to have had a single hole dug in it" ;
 
 hlçe%.ehl CLASS-E.EHL-STEM-1 "for S to dig a single hole in C" ;
 hlçe%.ehl:hlçeehl CLASS-E.EHL-STEM-2 "for S to dig a single hole in C" ;
-hlçe%.ehl:hlçe%.él CLASS-E.EHL-STEM-3 "for S to dig a single hole in C" ;
+hlçe%.ehl:hlçe%.éel CLASS-E.EHL-STEM-3 "for S to dig a single hole in C" ;
 !hlçe%.ehl:hlçe%.éel CLASS-E.EHL-STEM-4 "for S to dig a single hole in C" ;
 
 hlçi% cangala CLASS-A-STEM-1 "for S to dig X fast" ;
@@ -7500,7 +7500,7 @@ hlkeeláa CLASS-AA "for S to have had a single hole drilled in it" ;
 
 hlke%.ehl CLASS-E.EHL-STEM-1 "for S to drill a single hole in C" ;
 hlke%.ehl:hlkeehl CLASS-E.EHL-STEM-2 "for S to drill a single hole in C" ;
-hlke%.ehl:hlke%.él CLASS-E.EHL-STEM-3 "for S to drill a single hole in C" ;
+hlke%.ehl:hlke%.éel CLASS-E.EHL-STEM-3 "for S to drill a single hole in C" ;
 !hlke%.ehl:hlke%.éel CLASS-E.EHL-STEM-4 "for S to drill a single hole in C" ;
 
 hlk'i% çisga CLASS-A-STEM-1 "for S to fail to wear X out [said of a dress, pants or coat]" ;
@@ -16866,7 +16866,7 @@ kyúuyayaa CLASS-AA "for S (pl) to have been tied on (in location)" ;
 
 ñ'e%.ehl CLASS-E.EHL-STEM-1 "for S to cut a single hole in C with a knife" ;
 ñ'e%.ehl:ñ'eehl CLASS-E.EHL-STEM-2 "for S to cut a single hole in C with a knife" ;
-ñ'e%.ehl:ñ'e%.él CLASS-E.EHL-STEM-3 "for S to cut a single hole in C with a knife" ;
+ñ'e%.ehl:ñ'e%.éel CLASS-E.EHL-STEM-3 "for S to cut a single hole in C with a knife" ;
 !ñ'e%.ehl:ñ'e%.éel CLASS-E.EHL-STEM-4 "for S to cut a single hole in C with a knife" ;
 
 ñée% da%.a CLASS-A-STEM-1 "for S to have a brother-in-law" ;
@@ -27508,7 +27508,7 @@ xál% ñ'áak'ulee%.eehl:xál% ñ'áak'ulee%.éel CLASS-EEHL-STEM-2 "for S to ha
 
 xál% ñáat'e%.ehl CLASS-E.EHL-STEM-1 "for S to boil over [said of the contents of a pot]" ;
 xál% ñáat'e%.ehl:xál% ñáat'eehl CLASS-E.EHL-STEM-2 "for S to boil over [said of the contents of a pot]" ;
-xál% ñáat'e%.ehl:xál% ñáat'e%.él CLASS-E.EHL-STEM-3 "for S to boil over [said of the contents of a pot]" ;
+xál% ñáat'e%.ehl:xál% ñáat'e%.éel CLASS-E.EHL-STEM-3 "for S to boil over [said of the contents of a pot]" ;
 !xál% ñáat'e%.ehl:xál% ñáat'e%.éel CLASS-E.EHL-STEM-4 "for S to boil over [said of the contents of a pot]" ;
 
 xál% ñ'álud CLASS-UD-STEM-1 "for S to get moldy from the heat" ;
@@ -29277,7 +29277,7 @@ xyáang% sgáajuuhlda:xyáang% sgáajuuhldáa CLASS-A-STEM-3 "for S (sg) to have
 
 ýe%.ehl CLASS-E.EHL-STEM-1 "for S to saw a single hole in C" ;
 ýe%.ehl:ýeehl CLASS-E.EHL-STEM-2 "for S to saw a single hole in C" ;
-ýe%.ehl:ýe%.él CLASS-E.EHL-STEM-3 "for S to saw a single hole in C" ;
+ýe%.ehl:ýe%.éel CLASS-E.EHL-STEM-3 "for S to saw a single hole in C" ;
 !ýe%.ehl:ýe%.éel CLASS-E.EHL-STEM-4 "for S to saw a single hole in C" ;
 
 ýi CLASS-I "for S to gring O up, grind O to pieces" ;
