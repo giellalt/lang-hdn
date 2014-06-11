@@ -1,0 +1,1671 @@
+PRE1 !xál
+PRE2 'lagagáa ~
+PRE1 'láa
+PRE2 'láa.ad ~
+PRE1 'láadiyaa
+PRE1 'láaganang
+PRE2 'láaganang ña
+PRE1 'láanaa
+PRE1 'láanuu
+PRE1 'wa
+PRE1 'wagä
+PRE1 'wáa
+PRE1 'wáadaa
+PRE1 'wáahlaa
+PRE1 'wáajaaw
+PRE1 'wáayaadä
+PRE1 CLSF
+PRE2 Chíij Git'anée
+PRE1 Git'áns
+PRE1 INS
+PRE2 INS CLSF
+PRE2 INS ça
+PRE2 INS çáandangee
+PRE2 INS ún
+PRE1 K'udáagws
+PRE1 K'udéeg
+PRE2 Kyáanuu Salíi
+PRE1 N
+PRE1 NP
+PRE1 NUMBER
+PRE1 QUANT
+PRE2 Sahgwáa Git'anée
+PRE1 Sdast'a
+PRE2 Sgidáa Ñáw
+PRE1 Stl'ang
+PRE2 Stl'ang 'Láanaas
+PRE2 Stl'áng 'Láanaas
+PRE1 Sçajúugaahl
+PRE2 Sçajúugaahl 'Láanaas
+PRE1 Tlagadáad
+PRE1 Ts'aahl
+PRE1 UNIT
+PRE1 V
+PRE1 X
+PRE1 Yahgw
+PRE1 Yáats'
+PRE1 agáng
+PRE2 agáng çáandangee
+PRE1 ak'aanáa
+PRE1 aláan
+PRE1 an
+PRE1 aw
+PRE1 báadaa
+PRE1 bíid
+PRE2 búud tlaahláa
+PRE1 cha
+PRE1 chaa
+PRE1 chaaw
+PRE1 chagánsaan
+PRE1 chan
+PRE1 chiyä
+PRE1 chán
+PRE1 chánaang
+PRE2 chíigaang gudä
+PRE2 chíigang gudä
+PRE1 da
+PRE2 da k'usgad
+PRE2 da çuuhlä
+PRE2 da çuwáansdla
+PRE2 da çwa'áaw
+PRE2 da únaaw
+PRE2 da únwaansdla
+PRE1 da.a
+PRE1 daa
+PRE1 dadáal
+PRE1 daguyée.eehl
+PRE1 dagw
+PRE1 dah
+PRE1 dahl
+PRE1 dasgad
+PRE1 daçangä
+PRE1 di.íng
+PRE1 dla'áaw
+PRE1 dla.agad
+PRE1 dlaa
+PRE1 dlaagad
+PRE1 dlagä
+PRE1 dlajúu
+PRE1 dlasdlä
+PRE1 dlat'as
+PRE1 dláay
+PRE1 dláayä
+PRE1 dlán
+PRE1 du.úng
+PRE1 dáa
+PRE1 dáadä
+PRE1 dáal
+PRE1 dáalaa
+PRE1 dáan
+PRE1 dáang
+PRE1 dáayang
+PRE1 dáaçangad
+PRE1 dáaçangiid
+PRE1 dáng
+PRE1 dánggad
+PRE1 dánguhlä
+PRE1 dánsgad
+PRE1 dúu
+PRE1 dúun
+PRE1 ga
+PRE2 ga 'láagä
+PRE2 ga sçagáang
+PRE1 gab
+PRE1 gatáa
+PRE1 gi
+PRE1 gid
+PRE1 gid'ahl
+PRE1 gidalä
+PRE1 gigugä
+PRE1 gihlgahl
+PRE1 giidä
+PRE1 gijgad
+PRE1 gijgíihlda
+PRE1 gin
+PRE2 gin sñ'at'adáa
+PRE1 gist'ä
+PRE1 gisúu
+PRE1 giwahl
+PRE1 gu
+PRE2 gu ga
+PRE1 gud
+PRE1 gudaawhl
+PRE1 gudahla.áa
+PRE1 gudahldä
+PRE1 gudáang
+PRE1 gudáng
+PRE1 gudúu
+PRE1 gugä
+PRE1 gujáang
+PRE1 guláa
+PRE1 gunsdláa
+PRE1 guwä
+PRE1 gwáan
+PRE1 gwáawa
+PRE1 gya'ándä
+PRE1 gyaa
+PRE1 gyaahlándä
+PRE1 gyaaláa
+PRE1 gyaanáa
+PRE1 gyahsdla
+PRE1 gyahsdlä
+PRE1 gyuudáan
+PRE1 gyáa
+PRE2 gyáa dah
+PRE2 gyáa sahl
+PRE2 gyáa t'aahl
+PRE2 gyáa çadúu
+PRE1 gyáadä
+PRE1 gyáajuug
+PRE1 gyáak'uyang
+PRE1 gyúu
+PRE1 gyúudaang
+PRE1 gáwdä
+PRE1 gíi
+PRE1 gíihlä
+PRE1 gíinang
+PRE1 gíit'wa
+PRE1 gín
+PRE1 gíng
+PRE2 gíng ináa
+PRE1 gúul
+PRE1 gúusuu
+PRE1 gúusuuhlalaa
+PRE1 hat'án
+PRE1 hit'áadä
+PRE1 hlangä
+PRE1 hldán
+PRE1 hlgahl
+PRE1 hlgún
+PRE1 hlk'i
+PRE1 hlk'id
+PRE1 hlk'yáan
+PRE1 hlk'yáaw
+PRE1 hlk'ún
+PRE1 hlki
+PRE1 hlku
+PRE1 hlkwiida
+PRE1 hlkwiidä
+PRE1 hlkáay
+PRE1 hltah
+PRE1 hltahl
+PRE1 hltaht'agúng
+PRE1 hltánhlk'ä
+PRE1 hláay
+PRE1 hlángä
+PRE1 hlçahl
+PRE1 hlçahlwä
+PRE1 hlçi
+PRE1 hlçu
+PRE1 hlçáa
+PRE1 hlçáan
+PRE1 hlñ'a
+PRE1 hlñ'ut'úu
+PRE1 hlñ'ín
+PRE1 hlñáam
+PRE1 háadä
+PRE1 háagaang
+PRE1 híiluu
+PRE1 híldang
+PRE1 ihlíidang
+PRE1 ináa
+PRE2 ináa çat'ahl
+PRE1 is
+PRE2 is dluunáang
+PRE1 isdáal
+PRE1 isdä
+PRE1 ja
+PRE2 ja kíl
+PRE2 ja ñíng
+PRE1 jaa
+PRE2 jaa xilándä
+PRE1 jad
+PRE1 jad'wä
+PRE1 jagíi.a
+PRE1 jahl
+PRE1 jangaa
+PRE1 juunáan
+PRE1 juuyáay
+PRE1 jáad
+PRE1 jáad'anaa
+PRE1 jáadgal
+PRE1 jáagä
+PRE1 jáam
+PRE1 jáasä
+PRE1 júu
+PRE1 júugä
+PRE1 k'a
+PRE1 k'a.áat'ä
+PRE1 k'aa
+PRE1 k'ad
+PRE1 k'adangáa
+PRE1 k'adlägáa
+PRE1 k'adáang
+PRE1 k'ah
+PRE1 k'ajáaw
+PRE1 k'ajúu
+PRE1 k'asgad
+PRE1 k'asgíid
+PRE1 k'i
+PRE1 k'ihl
+PRE1 k'ihlä
+PRE1 k'its'ä
+PRE1 k'u
+PRE1 k'ud
+PRE1 k'udlán
+PRE1 k'udä
+PRE1 k'ugwdáng
+PRE1 k'ujgw
+PRE1 k'ut'ahl
+PRE1 k'uyáang
+PRE1 k'uyáng
+PRE1 k'wáay
+PRE1 k'wáayan
+PRE1 k'wíi
+PRE1 k'wíidä
+PRE1 k'yáaluu
+PRE1 k'yáang
+PRE1 k'áaw
+PRE1 k'án
+PRE1 k'ánhlahl
+PRE1 k'áw
+PRE1 k'áywaal
+PRE1 k'íng
+PRE1 k'úug
+PRE1 k'úugä
+PRE1 kagan
+PRE1 ki
+PRE1 kid
+PRE1 kid'wä
+PRE1 kidgad
+PRE1 kihl
+PRE2 kihl náang
+PRE1 kihldáang
+PRE1 kihlgadáang
+PRE1 kihlgulä
+PRE1 kilúu
+PRE1 kingáa
+PRE1 kit'ajáa
+PRE2 kit'as ~
+PRE1 ku
+PRE1 kus
+PRE1 kusad
+PRE1 kusadáng
+PRE1 kuu
+PRE1 kuwä
+PRE1 kwah
+PRE1 kwáan
+PRE1 kya.a
+PRE1 kyah
+PRE1 kyáa
+PRE1 kyáagaang
+PRE1 kyáambda
+PRE1 kyúu
+PRE1 káa.aydä
+PRE1 kám
+PRE1 kíihlahl
+PRE1 kíihljaaw
+PRE1 kíilaa
+PRE1 kíl
+PRE2 kíl hldán
+PRE2 kíl súu
+PRE1 kíluhlä
+PRE2 kín dúu
+PRE1 kíndaang
+PRE1 kíndä
+PRE1 kíng
+PRE1 kíngwaang
+PRE1 kún
+PRE1 kúnhlalandä
+PRE1 kúugaa
+PRE1 lableed
+PRE1 láam
+PRE1 láamgaa
+PRE1 lóo.o
+PRE1 masmúus
+PRE1 máasdas
+PRE1 na
+PRE2 na tlaahláa
+PRE1 na.áng
+PRE1 naa
+PRE1 naawhlä
+PRE1 nan
+PRE1 nats'ä
+PRE1 ngáa
+PRE1 ngáay
+PRE1 náadä
+PRE1 náan
+PRE1 náang
+PRE1 náangisälang
+PRE1 páabaa
+PRE1 s'áadä
+PRE1 saa
+PRE1 sagä
+PRE1 sahl
+PRE1 sak'ä
+PRE1 sasä
+PRE1 satáw
+PRE1 sda
+PRE1 sdahla
+PRE1 sdahlä
+PRE1 sdaláa
+PRE1 sdlagw
+PRE1 sdíihl
+PRE1 sgadáang
+PRE1 sgi
+PRE1 sgid
+PRE1 sgidä
+PRE1 sginguhl
+PRE1 sgujúu
+PRE1 sgunáa
+PRE1 sgwah
+PRE1 sgyáalaa
+PRE2 sgánsgunaa hlçahl
+PRE1 sgíilaa
+PRE1 sgíndä
+PRE1 sgún
+PRE1 sgún.gwdang
+PRE1 sgúnwalä
+PRE1 sgúusiid
+PRE1 sk'alda
+PRE1 sk'as
+PRE1 sk'wah
+PRE1 sk'ál
+PRE1 sk'álda
+PRE1 sk'ángad
+PRE1 sk'ánhlaaw
+PRE1 sk'áws
+PRE1 sk'índä
+PRE1 sk'ínggaang
+PRE1 skahl
+PRE1 skas
+PRE1 skayáadä
+PRE1 skidä
+PRE1 skihl
+PRE1 skis
+PRE2 skis guwä
+PRE2 skis ñáa
+PRE1 skyáadä
+PRE1 skyáanaa
+PRE1 skyúu
+PRE1 skáa
+PRE1 skáak'adaangaa
+PRE1 skáawnang
+PRE1 skál
+PRE1 skándä
+PRE1 skánts'alaang
+PRE1 skíi
+PRE1 skínts'ä
+PRE1 skún
+PRE1 st'a
+PRE1 st'i
+PRE1 st'igahl
+PRE1 st'álaa
+PRE1 st'íi
+PRE2 st'íi ñéeng
+PRE1 sta
+PRE1 stl'a
+PRE1 stl'uu
+PRE1 stl'uuhl
+PRE1 stla
+PRE1 stlan
+PRE1 stluwán
+PRE1 stlán
+PRE1 stáw
+PRE1 sáa
+PRE1 sáagaa
+PRE1 sáal
+PRE1 sáan
+PRE1 sáanangaa
+PRE1 sáandlaan
+PRE1 sáanä
+PRE1 sáaw
+PRE1 sáawaan
+PRE1 sálda
+PRE1 sáldä
+PRE1 sán
+PRE1 sándiigaa
+PRE1 sáng
+PRE2 sáng 'lagáa
+PRE2 sáng 'láa
+PRE2 sáng /
+PRE1 sángaang
+PRE1 sángangee
+PRE1 sánggaa
+PRE1 sánggä
+PRE1 sángya
+PRE1 sáns
+PRE1 sánst'ä
+PRE1 sçaa
+PRE1 sçaayláangaa
+PRE1 sçaláang
+PRE1 sçanä
+PRE1 sçat'as
+PRE1 sçat'sä
+PRE1 sçats'ä
+PRE2 sçats'ä da
+PRE2 sçats'ä dáng
+PRE2 sçats'ä sñu
+PRE1 sçi
+PRE1 sçid
+PRE1 sçidáng
+PRE1 sçuluwáa
+PRE1 sçwáanaa
+PRE1 sçáa
+PRE1 sçáadang
+PRE1 sçáan
+PRE1 sçáaw
+PRE1 sçáay
+PRE1 sçál
+PRE1 sçán
+PRE1 sçáw
+PRE1 sçáygä
+PRE1 sçáyhla
+PRE1 sçáyhlä
+PRE1 sçíl
+PRE1 sçíw
+PRE1 sçúnggaa.aa
+PRE1 síigaa
+PRE1 sñ'a
+PRE1 sñ'ad
+PRE1 sñ'ihl
+PRE1 sñ'áwaan
+PRE1 sñ'ín
+PRE1 sñu
+PRE1 sñáan
+PRE1 sñáang
+PRE1 sñál
+PRE1 súgaa
+PRE1 súu
+PRE1 súub
+PRE1 súudä
+PRE1 t'a
+PRE2 t'a skáawnang
+PRE2 t'a'áaw guwä
+PRE1 t'aa
+PRE1 t'ad
+PRE1 t'agúng
+PRE1 t'ak'an
+PRE1 t'am
+PRE2 t'at'i.idsiyáa ~
+PRE1 t'áahlaa
+PRE1 t'áalaa
+PRE1 t'áangahl
+PRE1 t'áangal
+PRE1 t'áas
+PRE1 t'án
+PRE1 t'ánsgad
+PRE1 t'éel
+PRE1 ta
+PRE2 ta aláan
+PRE2 ta da
+PRE2 ta gíng
+PRE2 ta kíl
+PRE2 ta sahl
+PRE2 ta súudä
+PRE2 ta tl'ándä
+PRE2 ta tl'íi
+PRE2 ta ñ'áalaang
+PRE2 ta ýáng
+PRE1 tadä
+PRE1 tahl
+PRE1 tang
+PRE1 taw
+PRE1 tii
+PRE1 tiyáang
+PRE1 tiyä
+PRE1 tl'a
+PRE1 tl'ah
+PRE1 tl'ak'ä
+PRE1 tl'ast'ä
+PRE1 tl'áang
+PRE1 tl'ánts'uud
+PRE1 tl'ánu
+PRE1 tl'íi
+PRE1 tl'úudaangaa
+PRE1 tla
+PRE2 tla chaa
+PRE2 tla júugä
+PRE2 tla skúnagahl
+PRE2 tla ça
+PRE2 tla çad'wä
+PRE2 tla çu
+PRE2 tla ýáng
+PRE1 tlaawhlä
+PRE1 tlagas
+PRE1 tlagw
+PRE1 tlagwdáng
+PRE1 tlagáng
+PRE1 tlagä
+PRE2 tlagä k'wíidaa
+PRE1 tlah
+PRE1 tlask'ud
+PRE1 tluwä
+PRE1 tláahlahl
+PRE1 tláajuu
+PRE1 tláal
+PRE1 tláalaay
+PRE1 tláasgad
+PRE1 tláawaa
+PRE1 tláng
+PRE1 tlúu
+PRE2 tlúu tláay
+PRE2 tlúu çut'íisaa
+PRE1 ts'a
+PRE1 ts'a.an
+PRE1 ts'a.án
+PRE1 ts'aa
+PRE1 ts'adä
+PRE1 ts'ah
+PRE1 ts'ahl
+PRE1 ts'at'as
+PRE2 ts'at'as dáng
+PRE1 ts'áa
+PRE1 ts'áanuu
+PRE1 ts'ál
+PRE1 ts'áng
+PRE2 ts'áng tlaahláa
+PRE1 ts'ánguhl
+PRE1 ts'úu
+PRE1 tsaa
+PRE1 tsiyä
+PRE1 táa
+PRE1 táagaa
+PRE1 táan
+PRE1 táanaa
+PRE1 táanaa.aa
+PRE1 táayaa
+PRE1 tál
+PRE2 tám hl'áan
+PRE1 táng
+PRE1 táw
+PRE1 táwk'a
+PRE1 táwk'aa
+PRE1 táwk'aan
+PRE1 tíi
+PRE1 wah
+PRE1 wahl
+PRE1 waswan
+PRE1 xa
+PRE1 xahl
+PRE1 xanagalä
+PRE1 xangahl
+PRE1 xangalä
+PRE1 xi
+PRE1 xid
+PRE1 xidä
+PRE1 xu
+PRE1 xud
+PRE1 xudä
+PRE1 xwaadúu
+PRE1 xwíi
+PRE1 xyáahl
+PRE1 xyáang
+PRE1 xáahldä
+PRE1 xáahlts'uu
+PRE1 xáamdä
+PRE1 xál
+PRE1 xálsgad
+PRE1 xálsgiid
+PRE2 xáwsda ñ'uhldä
+PRE1 xáy
+PRE1 xíl
+PRE1 xúndä
+PRE1 ya'áats'
+PRE1 ya'áaw
+PRE1 yah
+PRE1 yahgwdáng
+PRE1 yáa
+PRE1 yáadgaang
+PRE1 yáan
+PRE1 yáang
+PRE1 Ýaadláa
+PRE1 áahljuu
+PRE1 áahljuwaay
+PRE1 áahljuwee
+PRE1 áanii
+PRE1 áng
+PRE1 ça
+PRE1 çaa
+PRE1 çaayhldáa
+PRE1 çad
+PRE2 çad ñ'uhldä
+PRE1 çad'wä
+PRE1 çadaa
+PRE1 çadgáa
+PRE2 çadgáats'aaw t'áahl
+PRE1 çadwä
+PRE1 çadä
+PRE1 çagán
+PRE1 çagánjuu
+PRE1 çahlä
+PRE1 çaláng
+PRE1 çalánsdlaa
+PRE1 ças
+PRE1 çasä
+PRE1 çat'án
+PRE1 çatl'aa
+PRE1 çatl'ä
+PRE1 çayáaw
+PRE1 çayúu
+PRE1 çi
+PRE2 çida ~
+PRE1 çu
+PRE1 çud
+PRE1 çudä
+PRE1 çugä
+PRE1 çuhlahl
+PRE1 çuláang
+PRE1 çung
+PRE1 çwáang
+PRE1 çwíi
+PRE1 çwíihlgahl
+PRE1 çáal
+PRE1 çáalgaa
+PRE1 çáam
+PRE1 çáan
+PRE1 çáandang
+PRE1 çáandangee
+PRE1 çáayuu
+PRE1 çál
+PRE1 çálun
+PRE1 çán
+PRE1 çándl
+PRE1 çándä
+PRE1 çáw
+PRE1 çáywä
+PRE1 çíid
+PRE1 çúng
+PRE1 çúuduu
+PRE1 íinaa
+PRE1 íisaan
+PRE1 íits'ahl
+PRE1 ñ'a
+PRE1 ñ'aa
+PRE1 ñ'aad
+PRE1 ñ'aahl
+PRE1 ñ'ahl
+PRE1 ñ'ahljúu
+PRE2 ñ'alángud ~
+PRE2 ñ'alángudaa ~
+PRE1 ñ'i
+PRE1 ñ'idä
+PRE1 ñ'ii
+PRE1 ñ'iyáa
+PRE1 ñ'iyáagang
+PRE1 ñ'u
+PRE2 ñ'u chaa
+PRE1 ñ'ud
+PRE1 ñ'udä
+PRE1 ñ'uhldáa
+PRE1 ñ'uhldä
+PRE1 ñ'ul
+PRE1 ñ'ulúu
+PRE1 ñ'unanáng
+PRE1 ñ'usáang
+PRE1 ñ'wáang
+PRE1 ñ'wáant'uugä
+PRE1 ñ'wíi
+PRE1 ñ'áa
+PRE1 ñ'áalang
+PRE1 ñ'áamdäga
+PRE1 ñ'áangahlt'ajaay
+PRE1 ñ'áas
+PRE1 ñ'áasdä
+PRE1 ñ'áaw
+PRE1 ñ'álud
+PRE1 ñ'álwiid
+PRE1 ñ'ándä
+PRE1 ñ'áng
+PRE1 ñ'áw
+PRE1 ñ'áwaang
+PRE1 ñ'íi
+PRE2 ñ'íi gún
+PRE1 ñ'íigaa
+PRE1 ñ'íinaang
+PRE1 ñ'íit'as
+PRE1 ñ'íits'iid
+PRE1 ñ'íiyid
+PRE1 ñ'ín
+PRE1 ñ'índä
+PRE1 ñ'úl
+PRE1 ña
+PRE2 ña sgún
+PRE2 ña sán
+PRE1 ñadä
+PRE1 ñagan
+PRE1 ñagán
+PRE2 ñagán 'yáan
+PRE1 ñagándä
+PRE1 ñahl
+PRE1 ñas
+PRE1 ñasa.a
+PRE1 ñasaa
+PRE1 ñasán
+PRE1 ñat'úu
+PRE1 ñe.egáay
+PRE1 ñee
+PRE1 ñeegée
+PRE1 ñeh
+PRE1 ñi
+PRE1 ñu
+PRE1 ñu.áan
+PRE1 ñunaa
+PRE1 ñuuhlä
+PRE1 ñuyáadä
+PRE1 ñwa.án
+PRE1 ñwah
+PRE1 ñwahjuwée
+PRE1 ñwiiga
+PRE1 ñáa
+PRE1 ñáahlii
+PRE1 ñáajaaw
+PRE1 ñáajuu
+PRE1 ñán
+PRE1 ñáng
+PRE1 ñánga
+PRE1 ñángä
+PRE1 ñáw
+PRE1 ñáy
+PRE1 ñée
+PRE1 ñéeng
+PRE1 ñéenggee
+PRE1 ñíi
+PRE1 ñíidad
+PRE1 ñíiduu
+PRE1 ñíihlgaa
+PRE1 ñíiya
+PRE1 ñíiyä
+PRE1 ñíng
+PRE1 ñúunaang
+PRE1 ñúunang
+PRE1 ún
+PRE1 únsad
+PRE1 ýa
+PRE2 ýa chaa
+PRE1 ýaa
+PRE1 ýaad
+PRE1 ýaadas
+PRE1 ýagw
+PRE1 ýagwdáng
+PRE1 ýahl
+PRE1 ýahldä
+PRE1 ýas
+PRE2 ýas ñáa
+PRE1 ýee
+PRE1 ýi
+PRE1 ýáa.ad'wä
+PRE1 ýáadä
+PRE1 ýáldaang
+PRE1 ýáng
+PRE2 ýáng tla
+PRE1 ýánggä
+PRE1 ýángul
+PRE1 ýángw
+PRE1 ýángwaal
+PRE2 ýánjaangw t'áahl
+PRE1 ýánts'ä
+PRE1 ýáw
+PRE1 ýáwälaa
+PRE1 ýáy
+PRE1 ýíihl
+PRE1 ýíl
+PRE1 ýúudaang
+PRE1 ýúugaang
+POST1 ijáa
+POST1 ijáa'ahlang
+POST1 ijáa'ahlanggaa
+POST1 ijáa'ahlanggang
+POST1 ijáa.ang
+POST1 ijáan
+POST1 ijáas
+POST1 is
+POST1 is'angáng
+POST1 is'ujáa
+POST1 is'us
+POST1 is'wáa
+POST1 is'wáa'ahl
+POST1 is'wáa'ahlanggan
+POST1 is'wáa'ahlanggang
+POST1 is'wáa'ahlanggiinii
+POST1 is'wáa'ahlans
+POST1 is'wáa'ujaa
+POST1 is'wáa'us
+POST1 is'wáa'uuj
+POST1 is'wáa'uujaangaa
+POST1 is'wáa'uujang
+POST1 is'wáa.ang
+POST2 is'wáa.ang ñasa'áa
+POST2 is'wáa.ang ñasa'áang
+POST2 is'wáa.ang ñasaa'áng
+POST2 is'wáa.ang ñasaa'ánggang
+POST2 is'wáa.ang ñasaasdláa
+POST2 is'wáa.ang ñasaasdláang
+POST2 is'wáa.ang ñasaasdlä'áng
+POST2 is'wáa.ang ñasaasdlä'ánggang
+POST1 is'wáang
+POST1 is'wáas
+POST1 is'wáaäs
+POST1 is'wáaäsaa
+POST1 is'wáaäsaa'ahlans
+POST1 is'wáaäsaa'us
+POST1 is'wáaäsaa'uujang
+POST1 is'wáaäsaa.ang
+POST1 is'wáaäsaang
+POST1 is'wáaäsaas
+POST1 is'wáaäseehl
+POST1 is'wáaäsga
+POST1 is'wägáangaa
+POST1 is'wägáangaan
+POST1 is'wägán
+POST1 is'wägíinii
+POST1 is'áang'ahl
+POST1 is'áang'ahlanggan
+POST1 is'áang'ahlanggang
+POST1 is'áang'ahlanggiinii
+POST1 is'áang'ahlans
+POST1 is'áangaa
+POST1 is'áangaa'ahlang
+POST1 is'áangaa'ahlanggaa
+POST1 is'áangaa'ahlanggang
+POST1 is'áangaa.ang
+POST1 is'áangaan
+POST1 is'áangaas
+POST1 is'áawaa
+POST1 is'áawaa'ahlang
+POST1 is'áawaa'ahlanggaa
+POST1 is'áawaa'ahlanggang
+POST1 is'áawaa.ang
+POST1 is'áawaan
+POST1 is'áawaas
+POST1 is'áng
+POST1 is'áng'aawaa
+POST1 is'áng'aawaa'ahlang
+POST1 is'áng'aawaa'ahlanggaa
+POST1 is'áng'aawaa'ahlanggang
+POST1 is'áng'aawaa.ang
+POST1 is'áng'aawaan
+POST1 is'áng'aawaas
+POST1 is'áng'ujaa
+POST1 is'áng'us
+POST1 is'áng'uu
+POST1 is'áng'uuj
+POST1 is'áng'uujaangaa
+POST1 is'áng'uujang
+POST1 is'áng'waa
+POST1 is'áng'waa'ahl
+POST1 is'áng'waa'ahlanggan
+POST1 is'áng'waa'ahlanggang
+POST1 is'áng'waa'ahlanggiinii
+POST1 is'áng'waa'ahlans
+POST1 is'áng'waa'ujaa
+POST1 is'áng'waa'us
+POST1 is'áng'waa'uuj
+POST1 is'áng'waa'uujaangaa
+POST1 is'áng'waa'uujang
+POST1 is'áng'waa.ang
+POST1 is'áng'waang
+POST1 is'áng'waas
+POST1 is'áng'waaäs
+POST1 is'áng'waaäsaa
+POST1 is'áng'waaäsaa'ahlans
+POST1 is'áng'waaäsaa'us
+POST1 is'áng'waaäsaa'uujang
+POST1 is'áng'waaäsaa.ang
+POST1 is'áng'waaäsaang
+POST1 is'áng'waaäsaas
+POST1 is'áng'waaäseehl
+POST1 is'áng'waaäsga
+POST1 is'áng'wägaangaa
+POST1 is'áng'wägaangaan
+POST1 is'áng'wägan
+POST1 is'áng'wägiinii
+POST1 is'ángga
+POST1 is'ánggaangaa
+POST1 is'ánggaangaan
+POST1 is'ánggan
+POST1 is'ánggang
+POST1 is'ánggiinii
+POST1 is'ángäs
+POST1 is'ángäsaa
+POST1 is'ángäsaa'ahlans
+POST1 is'ángäsaa'us
+POST1 is'ángäsaa'uujang
+POST1 is'ángäsaa.ang
+POST1 is'ángäsaang
+POST1 is'ángäsaas
+POST1 is'ángäseehl
+POST1 is'ángäsga
+POST1 is'áns
+POST1 is'úu
+POST1 is'úuj
+POST1 is'úujaangaa
+POST1 is'úujang
+POST1 iss
+POST1 isäs
+POST1 isäsga
+POST1 isäsáa
+POST1 isäsáa'ahlans
+POST1 isäsáa'us
+POST1 isäsáa'uujang
+POST1 isäsáa.ang
+POST1 isäsáang
+POST1 isäsáas
+POST1 isäséehl
+POST1 kwáan'ahl
+POST1 kwáan'ahlanggan
+POST1 kwáan'ahlanggang
+POST1 kwáan'ahlanggiinii
+POST1 kwáan'ahlans
+POST1 kwáanaa
+POST1 kwáanaa'ahlang
+POST1 kwáanaa'ahlanggaa
+POST1 kwáanaa'ahlanggang
+POST1 kwáanaa.ang
+POST1 kwáanaan
+POST1 kwáanaas
+POST1 kún
+POST1 kún'aang'ahl
+POST1 kún'aang'ahlanggan
+POST1 kún'aang'ahlanggang
+POST1 kún'aang'ahlanggiinii
+POST1 kún'aang'ahlans
+POST1 kún'aangaa
+POST1 kún'aangaa'ahlang
+POST1 kún'aangaa'ahlanggaa
+POST1 kún'aangaa'ahlanggang
+POST1 kún'aangaa.ang
+POST1 kún'aangaan
+POST1 kún'aangaas
+POST1 kún'aawaa
+POST1 kún'aawaa'ahlang
+POST1 kún'aawaa'ahlanggaa
+POST1 kún'aawaa'ahlanggang
+POST1 kún'aawaa.ang
+POST1 kún'aawaan
+POST1 kún'aawaas
+POST1 kún'ang
+POST1 kún'ang'aawaa
+POST1 kún'ang'aawaa'ahlang
+POST1 kún'ang'aawaa'ahlanggaa
+POST1 kún'ang'aawaa'ahlanggang
+POST1 kún'ang'aawaa.ang
+POST1 kún'ang'aawaan
+POST1 kún'ang'aawaas
+POST1 kún'ang'ujaa
+POST1 kún'ang'us
+POST1 kún'ang'uu
+POST1 kún'ang'uuj
+POST1 kún'ang'uujaangaa
+POST1 kún'ang'uujang
+POST1 kún'ang'waa
+POST1 kún'ang'waa'ahl
+POST1 kún'ang'waa'ahlanggan
+POST1 kún'ang'waa'ahlanggang
+POST1 kún'ang'waa'ahlanggiinii
+POST1 kún'ang'waa'ahlans
+POST1 kún'ang'waa'ujaa
+POST1 kún'ang'waa'us
+POST1 kún'ang'waa'uuj
+POST1 kún'ang'waa'uujaangaa
+POST1 kún'ang'waa'uujang
+POST1 kún'ang'waa.ang
+POST1 kún'ang'waang
+POST1 kún'ang'waas
+POST1 kún'ang'waaäs
+POST1 kún'ang'waaäsaa
+POST1 kún'ang'waaäsaa'ahlans
+POST1 kún'ang'waaäsaa'us
+POST1 kún'ang'waaäsaa'uujang
+POST1 kún'ang'waaäsaa.ang
+POST1 kún'ang'waaäsaang
+POST1 kún'ang'waaäsaas
+POST1 kún'ang'waaäseehl
+POST1 kún'ang'waaäsga
+POST1 kún'ang'wägaangaa
+POST1 kún'ang'wägaangaan
+POST1 kún'ang'wägan
+POST1 kún'ang'wägiinii
+POST1 kún'angang
+POST1 kún'angga
+POST1 kún'anggaangaa
+POST1 kún'anggaangaan
+POST1 kún'anggan
+POST1 kún'anggang
+POST1 kún'anggiinii
+POST1 kún'angäs
+POST1 kún'angäsaa
+POST1 kún'angäsaa'ahlans
+POST1 kún'angäsaa'us
+POST1 kún'angäsaa'uujang
+POST1 kún'angäsaa.ang
+POST1 kún'angäsaang
+POST1 kún'angäsaas
+POST1 kún'angäseehl
+POST1 kún'angäsga
+POST1 kún'ans
+POST1 kún'ujaa
+POST1 kún'us
+POST1 kún'uu
+POST1 kún'uuj
+POST1 kún'uujaangaa
+POST1 kún'uujang
+POST1 kún'waa
+POST1 kún'waa'ahl
+POST1 kún'waa'ahlanggan
+POST1 kún'waa'ahlanggang
+POST1 kún'waa'ahlanggiinii
+POST1 kún'waa'ahlans
+POST1 kún'waa'ujaa
+POST1 kún'waa'us
+POST1 kún'waa'uuj
+POST1 kún'waa'uujaangaa
+POST1 kún'waa'uujang
+POST1 kún'waa.ang
+POST2 kún'waa.ang ñasa'áa
+POST2 kún'waa.ang ñasa'áang
+POST2 kún'waa.ang ñasaa'áng
+POST2 kún'waa.ang ñasaa'ánggang
+POST2 kún'waa.ang ñasaasdláa
+POST2 kún'waa.ang ñasaasdláang
+POST2 kún'waa.ang ñasaasdlä'áng
+POST2 kún'waa.ang ñasaasdlä'ánggang
+POST1 kún'waang
+POST1 kún'waas
+POST1 kún'waaäs
+POST1 kún'waaäsaa
+POST1 kún'waaäsaa'ahlans
+POST1 kún'waaäsaa'us
+POST1 kún'waaäsaa'uujang
+POST1 kún'waaäsaa.ang
+POST1 kún'waaäsaang
+POST1 kún'waaäsaas
+POST1 kún'waaäseehl
+POST1 kún'waaäsga
+POST1 kún'wägaangaa
+POST1 kún'wägaangaan
+POST1 kún'wägan
+POST1 kún'wägiinii
+POST1 kún.ga
+POST1 kún.gaangaa
+POST1 kún.gaangaan
+POST1 kún.gan
+POST1 kún.gang
+POST1 kún.gang'ang'waa
+POST1 kún.gang'ang'waa.ang
+POST1 kún.gang'ang'waang
+POST1 kún.gang'angang
+POST1 kún.gang'anggang
+POST1 kún.gang'waa
+POST1 kún.gang'waa.ang
+POST1 kún.gang'waang
+POST1 kún.gangang
+POST1 kún.ganggang
+POST1 kún.giinii
+POST1 kúnang
+POST2 kúnang ñasa'áa
+POST2 kúnang ñasa'áang
+POST2 kúnang ñasaa'áng
+POST2 kúnang ñasaa'ánggang
+POST2 kúnang ñasaasdláa
+POST2 kúnang ñasaasdláang
+POST2 kúnang ñasaasdlä'áng
+POST2 kúnang ñasaasdlä'ánggang
+POST1 kúns
+POST1 kúnäs
+POST1 kúnäsaa
+POST1 kúnäsaa'ahlans
+POST1 kúnäsaa'us
+POST1 kúnäsaa'uujang
+POST1 kúnäsaa.ang
+POST1 kúnäsaang
+POST1 kúnäsaas
+POST1 kúnäseehl
+POST1 kúnäsga
+POST1 çu
+POST1 çu'ahl
+POST1 çu'ahlánggan
+POST1 çu'ahlánggang
+POST1 çu'ahlánggiinii
+POST1 çu'ahláns
+POST1 çu'angáng
+POST1 çu'ujáa
+POST1 çu'us
+POST1 çu'wáa
+POST1 çu'wáa'ahl
+POST1 çu'wáa'ahlanggan
+POST1 çu'wáa'ahlanggang
+POST1 çu'wáa'ahlanggiinii
+POST1 çu'wáa'ahlans
+POST1 çu'wáa'ujaa
+POST1 çu'wáa'us
+POST1 çu'wáa'uuj
+POST1 çu'wáa'uujaangaa
+POST1 çu'wáa'uujang
+POST1 çu'wáa.ang
+POST2 çu'wáa.ang ñasa'áa
+POST2 çu'wáa.ang ñasa'áang
+POST2 çu'wáa.ang ñasaa'áng
+POST2 çu'wáa.ang ñasaa'ánggang
+POST2 çu'wáa.ang ñasaasdláa
+POST2 çu'wáa.ang ñasaasdláang
+POST2 çu'wáa.ang ñasaasdlä'áng
+POST2 çu'wáa.ang ñasaasdlä'ánggang
+POST1 çu'wáang
+POST1 çu'wáas
+POST1 çu'wáaäs
+POST1 çu'wáaäsaa
+POST1 çu'wáaäsaa'ahlans
+POST1 çu'wáaäsaa'us
+POST1 çu'wáaäsaa'uujang
+POST1 çu'wáaäsaa.ang
+POST1 çu'wáaäsaang
+POST1 çu'wáaäsaas
+POST1 çu'wáaäseehl
+POST1 çu'wáaäsga
+POST1 çu'wägáangaa
+POST1 çu'wägáangaan
+POST1 çu'wägán
+POST1 çu'wägíinii
+POST1 çu'áang'ahl
+POST1 çu'áang'ahlanggan
+POST1 çu'áang'ahlanggang
+POST1 çu'áang'ahlanggiinii
+POST1 çu'áang'ahlans
+POST1 çu'áangaa
+POST1 çu'áangaa'ahlang
+POST1 çu'áangaa'ahlanggaa
+POST1 çu'áangaa'ahlanggang
+POST1 çu'áangaa.ang
+POST1 çu'áangaan
+POST1 çu'áangaas
+POST1 çu'áawaa
+POST1 çu'áawaa'ahlang
+POST1 çu'áawaa'ahlanggaa
+POST1 çu'áawaa'ahlanggang
+POST1 çu'áawaa.ang
+POST1 çu'áawaan
+POST1 çu'áawaas
+POST1 çu'áng
+POST1 çu'áng'aawaa
+POST1 çu'áng'aawaa'ahlang
+POST1 çu'áng'aawaa'ahlanggaa
+POST1 çu'áng'aawaa'ahlanggang
+POST1 çu'áng'aawaa.ang
+POST1 çu'áng'aawaan
+POST1 çu'áng'aawaas
+POST1 çu'áng'ujaa
+POST1 çu'áng'us
+POST1 çu'áng'uu
+POST1 çu'áng'uuj
+POST1 çu'áng'uujaangaa
+POST1 çu'áng'uujang
+POST1 çu'áng'waa
+POST1 çu'áng'waa'ahl
+POST1 çu'áng'waa'ahlanggan
+POST1 çu'áng'waa'ahlanggang
+POST1 çu'áng'waa'ahlanggiinii
+POST1 çu'áng'waa'ahlans
+POST1 çu'áng'waa'ujaa
+POST1 çu'áng'waa'us
+POST1 çu'áng'waa'uuj
+POST1 çu'áng'waa'uujaangaa
+POST1 çu'áng'waa'uujang
+POST1 çu'áng'waa.ang
+POST1 çu'áng'waang
+POST1 çu'áng'waas
+POST1 çu'áng'waaäs
+POST1 çu'áng'waaäsaa
+POST1 çu'áng'waaäsaa'ahlans
+POST1 çu'áng'waaäsaa'us
+POST1 çu'áng'waaäsaa'uujang
+POST1 çu'áng'waaäsaa.ang
+POST1 çu'áng'waaäsaang
+POST1 çu'áng'waaäsaas
+POST1 çu'áng'waaäseehl
+POST1 çu'áng'waaäsga
+POST1 çu'áng'wägaangaa
+POST1 çu'áng'wägaangaan
+POST1 çu'áng'wägan
+POST1 çu'áng'wägiinii
+POST1 çu'ángga
+POST1 çu'ánggaangaa
+POST1 çu'ánggaangaan
+POST1 çu'ánggan
+POST1 çu'ánggang
+POST1 çu'ánggiinii
+POST1 çu'ángäs
+POST1 çu'ángäsaa
+POST1 çu'ángäsaa'ahlans
+POST1 çu'ángäsaa'us
+POST1 çu'ángäsaa'uujang
+POST1 çu'ángäsaa.ang
+POST1 çu'ángäsaang
+POST1 çu'ángäsaas
+POST1 çu'ángäseehl
+POST1 çu'ángäsga
+POST1 çu'áns
+POST1 çu'úu
+POST1 çu'úuj
+POST1 çu'úujaangaa
+POST1 çu'úujang
+POST1 çuga
+POST1 çugáangaa
+POST1 çugáangaan
+POST1 çugán
+POST1 çugáng
+POST1 çugáng'ang'waa
+POST1 çugáng'ang'waa.ang
+POST1 çugáng'ang'waang
+POST1 çugáng'angang
+POST1 çugáng'anggang
+POST1 çugáng'waa
+POST1 çugáng'waa.ang
+POST1 çugáng'waang
+POST1 çugángang
+POST1 çugánggang
+POST1 çugíinii
+POST1 çus
+POST1 çuyáa
+POST1 çuyáa'ahlang
+POST1 çuyáa'ahlanggaa
+POST1 çuyáa'ahlanggang
+POST1 çuyáa.ang
+POST1 çuyáan
+POST1 çuyáas
+POST1 çuáng
+POST2 çuáng ñasa'áa
+POST2 çuáng ñasa'áang
+POST2 çuáng ñasaa'áng
+POST2 çuáng ñasaa'ánggang
+POST2 çuáng ñasaasdláa
+POST2 çuáng ñasaasdláang
+POST2 çuáng ñasaasdlä'áng
+POST2 çuáng ñasaasdlä'ánggang
+POST1 çuäs
+POST1 çuäsga
+POST1 çuäsáa
+POST1 çuäsáa'ahlans
+POST1 çuäsáa'us
+POST1 çuäsáa'uujang
+POST1 çuäsáa.ang
+POST1 çuäsáang
+POST1 çuäsáas
+POST1 çuäséehl
+POST1 éen'ahl
+POST1 éen'ahlanggan
+POST1 éen'ahlanggang
+POST1 éen'ahlanggiinii
+POST1 éen'ahlans
+POST1 éenaa
+POST1 éenaa'ahlang
+POST1 éenaa'ahlanggaa
+POST1 éenaa'ahlanggang
+POST1 éenaa.ang
+POST1 éenaan
+POST1 éenaas
+POST1 íij'ahl
+POST1 íij'ahlanggan
+POST1 íij'ahlanggang
+POST1 íij'ahlanggiinii
+POST1 íij'ahlans
+POST1 íija
+POST1 íijaangaa
+POST1 íijaangaan
+POST1 íijan
+POST1 íijang
+POST2 íijang ñasa'áa
+POST2 íijang ñasa'áang
+POST2 íijang ñasaa'áng
+POST2 íijang ñasaa'ánggang
+POST2 íijang ñasaasdláa
+POST2 íijang ñasaasdláang
+POST2 íijang ñasaasdlä'áng
+POST2 íijang ñasaasdlä'ánggang
+POST1 íijang'ang'waa
+POST1 íijang'ang'waa.ang
+POST1 íijang'ang'waang
+POST1 íijang'angang
+POST1 íijang'anggang
+POST1 íijang'waa
+POST1 íijang'waa.ang
+POST1 íijang'waang
+POST1 íijangang
+POST1 íijanggang
+POST1 íijiinii
+POST1 ín
+POST1 ín'aang'ahl
+POST1 ín'aang'ahlanggan
+POST1 ín'aang'ahlanggang
+POST1 ín'aang'ahlanggiinii
+POST1 ín'aang'ahlans
+POST1 ín'aangaa
+POST1 ín'aangaa'ahlang
+POST1 ín'aangaa'ahlanggaa
+POST1 ín'aangaa'ahlanggang
+POST1 ín'aangaa.ang
+POST1 ín'aangaan
+POST1 ín'aangaas
+POST1 ín'aawaa
+POST1 ín'aawaa'ahlang
+POST1 ín'aawaa'ahlanggaa
+POST1 ín'aawaa'ahlanggang
+POST1 ín'aawaa.ang
+POST1 ín'aawaan
+POST1 ín'aawaas
+POST1 ín'ang
+POST1 ín'ang'aawaa
+POST1 ín'ang'aawaa'ahlang
+POST1 ín'ang'aawaa'ahlanggaa
+POST1 ín'ang'aawaa'ahlanggang
+POST1 ín'ang'aawaa.ang
+POST1 ín'ang'aawaan
+POST1 ín'ang'aawaas
+POST1 ín'ang'ujaa
+POST1 ín'ang'us
+POST1 ín'ang'uu
+POST1 ín'ang'uuj
+POST1 ín'ang'uujaangaa
+POST1 ín'ang'uujang
+POST1 ín'ang'waa
+POST1 ín'ang'waa'ahl
+POST1 ín'ang'waa'ahlanggan
+POST1 ín'ang'waa'ahlanggang
+POST1 ín'ang'waa'ahlanggiinii
+POST1 ín'ang'waa'ahlans
+POST1 ín'ang'waa'ujaa
+POST1 ín'ang'waa'us
+POST1 ín'ang'waa'uuj
+POST1 ín'ang'waa'uujaangaa
+POST1 ín'ang'waa'uujang
+POST1 ín'ang'waa.ang
+POST1 ín'ang'waang
+POST1 ín'ang'waas
+POST1 ín'ang'waaäs
+POST1 ín'ang'waaäsaa
+POST1 ín'ang'waaäsaa'ahlans
+POST1 ín'ang'waaäsaa'us
+POST1 ín'ang'waaäsaa'uujang
+POST1 ín'ang'waaäsaa.ang
+POST1 ín'ang'waaäsaang
+POST1 ín'ang'waaäsaas
+POST1 ín'ang'waaäseehl
+POST1 ín'ang'waaäsga
+POST1 ín'ang'wägaangaa
+POST1 ín'ang'wägaangaan
+POST1 ín'ang'wägan
+POST1 ín'ang'wägiinii
+POST1 ín'angang
+POST1 ín'angga
+POST1 ín'anggaangaa
+POST1 ín'anggaangaan
+POST1 ín'anggan
+POST1 ín'anggang
+POST1 ín'anggiinii
+POST1 ín'angäs
+POST1 ín'angäsaa
+POST1 ín'angäsaa'ahlans
+POST1 ín'angäsaa'us
+POST1 ín'angäsaa'uujang
+POST1 ín'angäsaa.ang
+POST1 ín'angäsaang
+POST1 ín'angäsaas
+POST1 ín'angäseehl
+POST1 ín'angäsga
+POST1 ín'ans
+POST1 ín'ujaa
+POST1 ín'us
+POST1 ín'uu
+POST1 ín'uuj
+POST1 ín'uujaangaa
+POST1 ín'uujang
+POST1 ín'waa
+POST1 ín'waa'ahl
+POST1 ín'waa'ahlanggan
+POST1 ín'waa'ahlanggang
+POST1 ín'waa'ahlanggiinii
+POST1 ín'waa'ahlans
+POST1 ín'waa'ujaa
+POST1 ín'waa'us
+POST1 ín'waa'uuj
+POST1 ín'waa'uujaangaa
+POST1 ín'waa'uujang
+POST1 ín'waa.ang
+POST2 ín'waa.ang ñasa'áa
+POST2 ín'waa.ang ñasa'áang
+POST2 ín'waa.ang ñasaa'áng
+POST2 ín'waa.ang ñasaa'ánggang
+POST2 ín'waa.ang ñasaasdláa
+POST2 ín'waa.ang ñasaasdláang
+POST2 ín'waa.ang ñasaasdlä'áng
+POST2 ín'waa.ang ñasaasdlä'ánggang
+POST1 ín'waang
+POST1 ín'waas
+POST1 ín'waaäs
+POST1 ín'waaäsaa
+POST1 ín'waaäsaa'ahlans
+POST1 ín'waaäsaa'us
+POST1 ín'waaäsaa'uujang
+POST1 ín'waaäsaa.ang
+POST1 ín'waaäsaang
+POST1 ín'waaäsaas
+POST1 ín'waaäseehl
+POST1 ín'waaäsga
+POST1 ín'wägaangaa
+POST1 ín'wägaangaan
+POST1 ín'wägan
+POST1 ín'wägiinii
+POST1 ín.ga
+POST1 ín.gaangaa
+POST1 ín.gaangaan
+POST1 ín.gan
+POST1 ín.gang
+POST1 ín.gang'ang'waa
+POST1 ín.gang'ang'waa.ang
+POST1 ín.gang'ang'waang
+POST1 ín.gang'angang
+POST1 ín.gang'anggang
+POST1 ín.gang'waa
+POST1 ín.gang'waa.ang
+POST1 ín.gang'waang
+POST1 ín.gangang
+POST1 ín.ganggang
+POST1 ín.giinii
+POST1 ínang
+POST2 ínang ñasa'áa
+POST2 ínang ñasa'áang
+POST2 ínang ñasaa'áng
+POST2 ínang ñasaa'ánggang
+POST2 ínang ñasaasdláa
+POST2 ínang ñasaasdláang
+POST2 ínang ñasaasdlä'áng
+POST2 ínang ñasaasdlä'ánggang
+POST1 íns
+POST1 ínäs
+POST1 ínäsaa
+POST1 ínäsaa'ahlans
+POST1 ínäsaa'us
+POST1 ínäsaa'uujang
+POST1 ínäsaa.ang
+POST1 ínäsaang
+POST1 ínäsaas
+POST1 ínäseehl
+POST1 ínäsga
+POST1 ñasa'áa
+POST1 ñasa'áang
+POST1 ñasaa'áng
+POST1 ñasaa'ánggang
+POST1 ñasaasdláa
+POST1 ñasaasdláang
+POST1 ñasaasdlä'áng
+POST1 ñasaasdlä'ánggang
+POST1 ñáat'e.eel'ahl
+POST1 ñáat'e.eel'ahlanggan
+POST1 ñáat'e.eel'ahlanggang
+POST1 ñáat'e.eel'ahlanggiinii
+POST1 ñáat'e.eel'ahlans
+POST1 ñáat'e.eelaa
+POST1 ñáat'e.eelaa'ahlang
+POST1 ñáat'e.eelaa'ahlanggaa
+POST1 ñáat'e.eelaa'ahlanggang
+POST1 ñáat'e.eelaa.ang
+POST1 ñáat'e.eelaan
+POST1 ñáat'e.eelaas
+POST1 ñáat'eehl
+POST1 ñáat'eehl'aang'ahl
+POST1 ñáat'eehl'aang'ahlanggan
+POST1 ñáat'eehl'aang'ahlanggang
+POST1 ñáat'eehl'aang'ahlanggiinii
+POST1 ñáat'eehl'aang'ahlans
+POST1 ñáat'eehl'aangaa
+POST1 ñáat'eehl'aangaa'ahlang
+POST1 ñáat'eehl'aangaa'ahlanggaa
+POST1 ñáat'eehl'aangaa'ahlanggang
+POST1 ñáat'eehl'aangaa.ang
+POST1 ñáat'eehl'aangaan
+POST1 ñáat'eehl'aangaas
+POST1 ñáat'eehl'aawaa
+POST1 ñáat'eehl'aawaa'ahlang
+POST1 ñáat'eehl'aawaa'ahlanggaa
+POST1 ñáat'eehl'aawaa'ahlanggang
+POST1 ñáat'eehl'aawaa.ang
+POST1 ñáat'eehl'aawaan
+POST1 ñáat'eehl'aawaas
+POST1 ñáat'eehl'ang
+POST1 ñáat'eehl'ang'aawaa
+POST1 ñáat'eehl'ang'aawaa'ahlang
+POST1 ñáat'eehl'ang'aawaa'ahlanggaa
+POST1 ñáat'eehl'ang'aawaa'ahlanggang
+POST1 ñáat'eehl'ang'aawaa.ang
+POST1 ñáat'eehl'ang'aawaan
+POST1 ñáat'eehl'ang'aawaas
+POST1 ñáat'eehl'ang'ujaa
+POST1 ñáat'eehl'ang'us
+POST1 ñáat'eehl'ang'uu
+POST1 ñáat'eehl'ang'uuj
+POST1 ñáat'eehl'ang'uujaangaa
+POST1 ñáat'eehl'ang'uujang
+POST1 ñáat'eehl'ang'waa
+POST1 ñáat'eehl'ang'waa'ahl
+POST1 ñáat'eehl'ang'waa'ahlanggan
+POST1 ñáat'eehl'ang'waa'ahlanggang
+POST1 ñáat'eehl'ang'waa'ahlanggiinii
+POST1 ñáat'eehl'ang'waa'ahlans
+POST1 ñáat'eehl'ang'waa'ujaa
+POST1 ñáat'eehl'ang'waa'us
+POST1 ñáat'eehl'ang'waa'uuj
+POST1 ñáat'eehl'ang'waa'uujaangaa
+POST1 ñáat'eehl'ang'waa'uujang
+POST1 ñáat'eehl'ang'waa.ang
+POST1 ñáat'eehl'ang'waang
+POST1 ñáat'eehl'ang'waas
+POST1 ñáat'eehl'ang'waaäs
+POST1 ñáat'eehl'ang'waaäsaa
+POST1 ñáat'eehl'ang'waaäsaa'ahlans
+POST1 ñáat'eehl'ang'waaäsaa'us
+POST1 ñáat'eehl'ang'waaäsaa'uujang
+POST1 ñáat'eehl'ang'waaäsaa.ang
+POST1 ñáat'eehl'ang'waaäsaang
+POST1 ñáat'eehl'ang'waaäsaas
+POST1 ñáat'eehl'ang'waaäseehl
+POST1 ñáat'eehl'ang'waaäsga
+POST1 ñáat'eehl'ang'wägaangaa
+POST1 ñáat'eehl'ang'wägaangaan
+POST1 ñáat'eehl'ang'wägan
+POST1 ñáat'eehl'ang'wägiinii
+POST1 ñáat'eehl'angang
+POST1 ñáat'eehl'angga
+POST1 ñáat'eehl'anggaangaa
+POST1 ñáat'eehl'anggaangaan
+POST1 ñáat'eehl'anggan
+POST1 ñáat'eehl'anggang
+POST1 ñáat'eehl'anggiinii
+POST1 ñáat'eehl'angäs
+POST1 ñáat'eehl'angäsaa
+POST1 ñáat'eehl'angäsaa'ahlans
+POST1 ñáat'eehl'angäsaa'us
+POST1 ñáat'eehl'angäsaa'uujang
+POST1 ñáat'eehl'angäsaa.ang
+POST1 ñáat'eehl'angäsaang
+POST1 ñáat'eehl'angäsaas
+POST1 ñáat'eehl'angäseehl
+POST1 ñáat'eehl'angäsga
+POST1 ñáat'eehl'ans
+POST1 ñáat'eehl'ujaa
+POST1 ñáat'eehl'us
+POST1 ñáat'eehl'uu
+POST1 ñáat'eehl'uuj
+POST1 ñáat'eehl'uujaangaa
+POST1 ñáat'eehl'uujang
+POST1 ñáat'eehl'waa
+POST1 ñáat'eehl'waa'ahl
+POST1 ñáat'eehl'waa'ahlanggan
+POST1 ñáat'eehl'waa'ahlanggang
+POST1 ñáat'eehl'waa'ahlanggiinii
+POST1 ñáat'eehl'waa'ahlans
+POST1 ñáat'eehl'waa'ujaa
+POST1 ñáat'eehl'waa'us
+POST1 ñáat'eehl'waa'uuj
+POST1 ñáat'eehl'waa'uujaangaa
+POST1 ñáat'eehl'waa'uujang
+POST1 ñáat'eehl'waa.ang
+POST2 ñáat'eehl'waa.ang ñasa'áa
+POST2 ñáat'eehl'waa.ang ñasa'áang
+POST2 ñáat'eehl'waa.ang ñasaa'áng
+POST2 ñáat'eehl'waa.ang ñasaa'ánggang
+POST2 ñáat'eehl'waa.ang ñasaasdláa
+POST2 ñáat'eehl'waa.ang ñasaasdláang
+POST2 ñáat'eehl'waa.ang ñasaasdlä'áng
+POST2 ñáat'eehl'waa.ang ñasaasdlä'ánggang
+POST1 ñáat'eehl'waang
+POST1 ñáat'eehl'waas
+POST1 ñáat'eehl'waaäs
+POST1 ñáat'eehl'waaäsaa
+POST1 ñáat'eehl'waaäsaa'ahlans
+POST1 ñáat'eehl'waaäsaa'us
+POST1 ñáat'eehl'waaäsaa'uujang
+POST1 ñáat'eehl'waaäsaa.ang
+POST1 ñáat'eehl'waaäsaang
+POST1 ñáat'eehl'waaäsaas
+POST1 ñáat'eehl'waaäseehl
+POST1 ñáat'eehl'waaäsga
+POST1 ñáat'eehl'wägaangaa
+POST1 ñáat'eehl'wägaangaan
+POST1 ñáat'eehl'wägan
+POST1 ñáat'eehl'wägiinii
+POST1 ñáat'eehlang
+POST2 ñáat'eehlang ñasa'áa
+POST2 ñáat'eehlang ñasa'áang
+POST2 ñáat'eehlang ñasaa'áng
+POST2 ñáat'eehlang ñasaa'ánggang
+POST2 ñáat'eehlang ñasaasdláa
+POST2 ñáat'eehlang ñasaasdláang
+POST2 ñáat'eehlang ñasaasdlä'áng
+POST2 ñáat'eehlang ñasaasdlä'ánggang
+POST1 ñáat'eehlga
+POST1 ñáat'eehlgaangaa
+POST1 ñáat'eehlgaangaan
+POST1 ñáat'eehlgan
+POST1 ñáat'eehlgang
+POST1 ñáat'eehlgang'ang'waa
+POST1 ñáat'eehlgang'ang'waa.ang
+POST1 ñáat'eehlgang'ang'waang
+POST1 ñáat'eehlgang'angang
+POST1 ñáat'eehlgang'anggang
+POST1 ñáat'eehlgang'waa
+POST1 ñáat'eehlgang'waa.ang
+POST1 ñáat'eehlgang'waang
+POST1 ñáat'eehlgangang
+POST1 ñáat'eehlganggang
+POST1 ñáat'eehlgiinii
+POST1 ñáat'eehls
+POST1 ñáat'eehläs
+POST1 ñáat'eehläsaa
+POST1 ñáat'eehläsaa'ahlans
+POST1 ñáat'eehläsaa'us
+POST1 ñáat'eehläsaa'uujang
+POST1 ñáat'eehläsaa.ang
+POST1 ñáat'eehläsaang
+POST1 ñáat'eehläsaas
+POST1 ñáat'eehläseehl
+POST1 ñáat'eehläsga
