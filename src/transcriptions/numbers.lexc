@@ -38,9 +38,10 @@ TEENST ;		! 11000-19999
 ONEST ;			! 2000-9999
 tåvsene:1 THOUSAND ;	! 1000-1999
 UNDERTHOUSAND ;		! 100-999
-TENS ;			! 20-99
+!TENS ;			! 20-99
 TEENS ;			! 10-19
 ONES ;			! 1-9
+TEN ;  !10-
 
 LEXICON HUNDREDSM
 nîso:2  CUODIM ;
@@ -233,61 +234,71 @@ LEXICON HUNDRED
 LEXICON CUODAAT
 :%0%0%.    ENDLEX ;
 
+LEXICON TEN
+låhkede:%0%. ENDLEX ;
+tláalaay% : TENS ;
+tláahl% :%0 ENDLEX ;
+
+
 LEXICON TENS
 mitâtaht:1%0 ENDLEX ;
 låhkede:1%0%. ENDLEX ;
-nîs:2 TEN ;
-nistomi:3 TEN ;
-nemi:4 TEN ;
-nîyânanomi:5 TEN ;
-nikotwâsomi:6 TEN ;
-tepakohpimi:7 TEN ;
-ayinânewomi:8 TEN ;
-kekâmitâtahtomi:9 TEN ;
+sdáng:2 ENDLEX ;
+hlçúnahl:3 ENDLEX ;
+stánsang:4 ENDLEX ;
+tléehl:5 ENDLEX ;
+tla'únhl:6 ENDLEX ;
+jagwaa:7 ENDLEX ;
+sdáansaangaa:8 ENDLEX ;
+tláahl% sçwáansang% gúu:9 ENDLEX ;
+sdáng:2 ONESTONEXT ;
+hlçúnahl:3 ONESTONEXT ;
+stánsang:4 ONESTONEXT ;
+tléehl:5 ONESTONEXT ;
+tla'únhl:6 ONESTONEXT ;
+jagwaa:7 ONESTONEXT ;
+sdáansaangaa:8 ONESTONEXT ;
+tláahl% sçwáansang% gúu:9 ONESTONEXT ;
 
-LEXICON TEN
-låhkede:%0%. ENDLEX ;
-tanaw% : ONESTONEXT ;
-tanaw% :%0 ENDLEX ;
 
 LEXICON ONESTONEXT
-peyakosâp:1 ENDLEX ;
-nîsosâp:2 ENDLEX ;
-nistosâp:3 ENDLEX ;
-newosâp:4 ENDLEX ;
-niyânanosâp:5 ENDLEX ;
-nikotwâsosâp:6 ENDLEX ;
-tepakohposâp:7 ENDLEX ;
-ayinânewosâp:8 ENDLEX ;
-kekâmitâtahtosâp:9 ENDLEX ;
+'wáagä% sçwáansang:1 ENDLEX ;
+'wáagä% sdáng:2 ENDLEX ;
+'wáagä% hlçúnahl:3 ENDLEX ;
+'wáagä% stánsang:4 ENDLEX ;
+'wáagä% tléehl:5 ENDLEX ;
+'wáagä% tla'únhl:6 ENDLEX ;
+'wáagä% jagwaa:7 ENDLEX ;
+'wáagä% sdáansaangaa:8 ENDLEX ;
+'wáagä% tláahl% sçwáansang% gúu:9 ENDLEX ;
 
 
 
 LEXICON TEENS
-peyakosâp:11 ENDLEX ;
-nîsosâp:12 ENDLEX ;
-nistosâp:13 ENDLEX ;
-newosâp:14 ENDLEX ;
-niyânanosâp:15 ENDLEX ;
-nikotwâsosâp:16 ENDLEX ;
-tepakohposâp:17 ENDLEX ;
-ayinânewosâp:18 ENDLEX ;
-kekâmitâtahtosâp:19 ENDLEX ;
+tláahl% 'wáagä% sçwáansang:11 ENDLEX ;
+tláahl% 'wáagä% sdáng:12 ENDLEX ;
+tláahl% 'wáagä% hlçúnahl:13 ENDLEX ;
+tláahl% 'wáagä% stánsang:14 ENDLEX ;
+tláahl% 'wáagä% tléehl:15 ENDLEX ;
+tláahl% 'wáagä% tla'únhl:16 ENDLEX ;
+tláahl% 'wáagä% jagwaa:17 ENDLEX ;
+tláahl% 'wáagä% sdáansaangaa:18 ENDLEX ;
+tláahl% 'wáagä% tláahl% sçwáansang% gúu:19 ENDLEX ;
 
 LEXICON ONES
 CARDINAL ;
 ORDINAL ;
 
 LEXICON CARDINAL
-peyak:1 ENDLEX ;
-nîso:2 ENDLEX ;
-nisto:3 ENDLEX ;
-newo:4 ENDLEX ;
-niyânan:5 ENDLEX ;
-nikotwâsik:6 ENDLEX ;
-tepakohp:7 ENDLEX ;
-ayinânew:8 ENDLEX ;
-kekâmitâtaht:9 ENDLEX ;
+sçwáansang:1 ENDLEX ;
+sdáng:2 ENDLEX ;
+hlçúnahl:3 ENDLEX ;
+stánsang:4 ENDLEX ;
+tléehl:5 ENDLEX ;
+tla'únhl:6 ENDLEX ;
+jagwaa:7 ENDLEX ;
+sdáandaangaa:8 ENDLEX ;
+tláahl% sçwáansang% gúu:9 ENDLEX ;
 
 LEXICON ORDINAL
 voestes:1%.     ENDLEX ;
