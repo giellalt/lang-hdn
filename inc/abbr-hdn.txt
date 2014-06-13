@@ -12,20 +12,14 @@ PREVERBS
 'wáahlaa
 'wáajaaw
 'wáayaadä
-CLSF
 Git'áns
 K'udáagws
 K'udéeg
-N
-NP
-NUMBER
-QUANT
 Sdast'a
 Stl'ang
 Sçajúugaahl
 Tlagadáad
 Ts'aahl
-UNIT
 V
 X
 Yahgw
@@ -437,6 +431,7 @@ t'áangahl
 t'áangal
 t'áas
 t'án
+t'áng
 t'ánsgad
 t'éel
 ta
@@ -724,7 +719,6 @@ sáng 'lagáa
 sáng 'láa
 ga 'láagä
 ñagán 'yáan
-sáng /
 Chíij Git'anée
 Sahgwáa Git'anée
 Kyáanuu Salíi
@@ -778,14 +772,6 @@ na tlaahláa
 ts'áng tlaahláa
 tlúu tláay
 jaa xilándä
-'lagagáa ~
-'láa.ad ~
-du.ungáa ~
-kit'as ~
-t'at'i.idsiyáa ~
-çida ~
-ñ'alángud ~
-ñ'alángudaa ~
 Sgidáa Ñáw
 tla ça
 tla çad'wä
