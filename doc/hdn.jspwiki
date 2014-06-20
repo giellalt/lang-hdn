@@ -26,7 +26,7 @@ in this system in terms of following symbols.
 Haida has these tags for real, says Jordan.
  * +V	 = 
  * +NEGATIVE	 = 
- * +3rd_PERSON_Plural	 = 
+ * +3rd_PERSON_PLURAL	 = 
  * +INTERROGATIVE	 = 
  * +FUTURE	 = 
  * +PAST	 = 
@@ -52,7 +52,6 @@ Haida has these tags for real, says Jordan.
  * +EVIDENTIAL	 = 
  * +COUNTERFACTUAL	 = 
  * +SINGULAR	 = 
- * +Plural	 = 
  * +PLURAL	 = 
 
 The parts-of-speech could perhaps also be (remove irrelevant):
