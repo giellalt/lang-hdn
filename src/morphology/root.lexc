@@ -31,7 +31,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 !! Haida has these tags for real, says Jordan.
 +V	!!= * @CODE@ = 
 +NEGATIVE	!!= * @CODE@ = 
-+3rd_PERSON_Plural	!!= * @CODE@ = 
++3rd_PERSON_PLURAL	!!= * @CODE@ = 
 +INTERROGATIVE	!!= * @CODE@ = 
 +FUTURE	!!= * @CODE@ = 
 +PAST	!!= * @CODE@ = 
@@ -57,7 +57,6 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +EVIDENTIAL	!!= * @CODE@ = 
 +COUNTERFACTUAL	!!= * @CODE@ = 
 +SINGULAR	!!= * @CODE@ = 
-+Plural	!!= * @CODE@ = 
 +PLURAL	!!= * @CODE@ = 
 
 !! The parts-of-speech could perhaps also be (remove irrelevant):
