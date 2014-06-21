@@ -36,12 +36,15 @@ Rules
 !"Final s to j"
 ! rulename
 ! s:j <=> Vow _ %>: a ;
-!
-!"h deletion before l in definite"
+
+"h deletion in hl stems before long a, g"
 ! rulename
-! h:0 <=> _ l %>: a ;
-!
-!
+ h:0 <=> \:e _ l %>: [ :á | :a ] :a; ! as in CLASS-AAHL-STEM
+         \:e _ l %>:   :g;           ! as in CLASS-AAHL-STEM
+! Please check the \:e restriction after CLASS-E.EHL-STEM has been merged in the
+! same way as CLASS-AAHL-STEM - it might be that it isn't required - only now
+! because of the multiple E.E stem entries.
+
 !"w to u in gwaal"
 ! rulename
 ! w:u <=> _ a: a: l %>: a ;
