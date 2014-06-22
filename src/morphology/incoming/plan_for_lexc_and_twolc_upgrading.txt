@@ -1,0 +1,28 @@
+Plan for upgrading Haida stems/verbs.lexc
+
+Generate the lexc file from the dictionary database with a single stem form for each lemma
+
+gatáa CLASS-AA "to eat"
+
+Then in each continuation lexicon, append a morphophoneme that indicates the conjugation class of the verb.  This will be used to trigger the correct allomorph of the following endings.
+
+LEXICON CLASS-AA
+ˆCC22  ENDINGS;
+
+
+In the affixes file, mark each ending with one of seven morphophonemes which will trigger appropriate changes in the preceding verb stem.
+
+LEXICON ENDINGS
++V+SINGULAR+IMPERATIVE:%>%^END1 # ;
++V+SIMPLE+PRESENT:%>%^END2gáng # ;
+
+In twolc, then, we have rules which spell out what happens when the conjugation-class morphophoneme combines with the Endings morphophonemes.
+
+!! __@RULENAME@__ changes stem final ad into íid before Endings of Set 2 
+a:í d:i :d ˆCC22:0 <=> _ %^END2:0
+
+%^END2:0 g:0 <=> ^CL22:0 _  
+
+
+
+  
