@@ -1,4 +1,4 @@
-TYPE 1 ENDINGS
+TYPE 1 ENDINGS (^ENDA)
 
 These endings have a single invariant form that attaches to all verb stems.
 They require the following stem forms:
@@ -130,7 +130,7 @@ Stem 2 for A, E.E and E.EHL verbs
 
 ===================================================================================================
 
-TYPE 2 ENDINGS
+TYPE 2 ENDINGS (^ENDB)
 
 These endings have three different forms:
 
@@ -157,12 +157,12 @@ Use Stem 2 for AAHL, AD, EEHL, ID, UD, A, AHL, AS, E.E, E.EHL, IHL, IIHL, IS, UH
 +V+NEGATIVE+PRESENT+HABITUAL:%>gáng'anggang # ;
 +V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE:%>gáng'angang # ;
 +V+PRESENT+HABITUAL:%>gánggang # ;
-+V+PRESENT+HABITUAL+NON_FACTIVE:%>gángang # ;
++V+PRESENT+HABITUAL+NON_FACTIVE:%>gangáng # ;
 
 
 ====================================================================================================
 
-TYPE 3 ENDINGS
+TYPE 3 ENDINGS (^ENDC)
 
 These endings have a single invariant form used with all verbs.
 
@@ -194,7 +194,7 @@ Use Stem 3 for A and E.E verbs
 
 ===================================================================================================
 
-TYPE 4 ENDINGS
+TYPE 4 ENDINGS (^ENDD)
 
 These endings have a single invariant form used with all verbs.
 
@@ -212,7 +212,7 @@ Use Stem 3 for A, AHL, E.E, E.EHL, IHL, IIHL, UHL and UUHL verbs
 
 ====================================================================================================
 
-TYPE 5 ENDINGS
+TYPE 5 ENDINGS (^ENDE)
 
 These endings have three different forms:
 
@@ -235,13 +235,13 @@ Use Stem 3 with IIHL, UHL, AHL, AS, E.EHL, IHL, IS, US, UUHL, A and E.E verbs
 
 ================================================================================================
 
-TYPE 6 ENDINGS
+TYPE 6 ENDINGS (^ENDF)
 
 These endings have four forms:
 
-Form 1 starts with ga/gá
-Form 2 starts with a/á -- after a stem ending in -d or -s
-Form 3 starts with .ga/.gá -- after a stem ending in -n
+Form 1 starts with ga
+Form 2 starts with a -- after a stem ending in -d or -s
+Form 3 starts with .ga -- after a stem ending in -n
 Form 4 starts with nothing -- after a stem ending in short -a (NOT -aa)
 
 For variable stem verbs:
@@ -253,9 +253,28 @@ Use Stem 3 with A verbs
 +V+IMMEDIATE+PRESENT:%>ga # ;
 +V+SIMPLE+PRESENT:%>gáng # ;
 
+=============================================================================
+
+TYPE 7 ENDINGS (^ENDG)
+
+These endings have four forms:
+
+Form 1 starts with gá
+Form 2 starts with á -- after a stem ending in -d or -s
+Form 3 starts with .gá -- after a stem ending in -n
+Form 4 starts with nothing -- after a stem ending in short -a (NOT -aa)
+
+For variable stem verbs:
+
+Use Stem 1 with AN, IN, UN, AL, ANG, AW, AY, II, ING, UNG and UU verbs
+Use Stem 2 with AD, AS, ID, IS, UD, US, AAHL, AHL, E.E, E.EHL, EEHL, IHL, IIHL, UHL and UUHL verbs
+Use Stem 3 with A verbs
+
++V+SIMPLE+PRESENT:%>gáng # ;
+
 ================================================================================================
 
-TYPE 7 ENDINGS
+TYPE 8 ENDINGS (^ENDH)
 
 These endings have two forms:
 
@@ -280,4 +299,3 @@ Use Stem 3 with A and E.E verbs
 +V+VERYNEAR+FUTURE:%>áng% %^WSñasaasdláang # ; 
 
 ================================================================================================
-cd ..
