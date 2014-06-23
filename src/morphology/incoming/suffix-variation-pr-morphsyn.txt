@@ -251,7 +251,6 @@ Use Stem 2 with AD, AS, ID, IS, UD, US, AAHL, AHL, E.E, E.EHL, EEHL, IHL, IIHL, 
 Use Stem 3 with A verbs
 
 +V+IMMEDIATE+PRESENT:%>ga # ;
-+V+SIMPLE+PRESENT:%>gáng # ;
 
 =============================================================================
 
