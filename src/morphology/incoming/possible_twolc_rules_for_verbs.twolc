@@ -463,3 +463,53 @@ u:w u:a  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !! __@RULENAME@__ úuhl changes to wáal at the end of an UUHL stem verb when it is followed by an ending belonging to Set D or E
 
 ú:w u:á  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+
+
+====================================================================================================
+
+!! Rules for generating the correct allomorphs of the verb endings
+
+!! __@RULENAME@__ g at the start of an ending belonging to Set B will be dropped when the preceding verb stem ends in d or s, namely an EED, IID, AD, ID, UD, AS, IS or US stem verb
+
+%^ENDB:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ 
+
+!! __@RULENAME@__ a period is inserted before a Set B ending that starts with g when it follows a verb stem ending in n, namely an AAN, AN, IN or UN stem verb
+
+%^ENDB:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ 
+
+!! __@RULENAME@__ g is inserted at the start of an ending belonging to Set E when the preceding verb stem belongs to Class AA, AH, EE or I
+
+%^ENDE:0  :g <=> [ %^ccAA:0 | %^ccAH:0 | %^ccEE:0 | %^ccI:0 ] %>:0 _ 
+
+!! __@RULENAME@__ y is inserted at the start of an ending belonging to Set E when the preceding verb stem belongs to Class A, EXE or U
+
+%^ENDE:0  :y <=> [ %^ccA:0 | %^ccEXE:0 | %^ccU:0 ] %>:0 _ 
+
+!! __@RULENAME@__ g at the start of an ending belonging to Set F will be dropped when the preceding verb stem ends in d or s, namely an EED, IID, AD, ID, UD, AS, IS or US stem verb
+
+%^ENDF:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ 
+
+!! __@RULENAME@__ a period is inserted before a Set F ending that starts with g when it follows a verb stem ending in n, namely an AAN, AN, IN or UN stem verb
+
+%^ENDF:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ 
+
+!! __@RULENAME@__ ga at the start of an ending belonging to Set F will be dropped following an A stem verb
+
+%^ENDF:0 g:0 a:0 <=> %^ccA:0 %>:0 _ 
+
+!! __@RULENAME@__ g at the start of an ending belonging to Set G will be dropped when the preceding verb stem ends in d or s, namely an EED, IID, AD, ID, UD, AS, IS or US stem verb
+
+%^ENDG:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ 
+
+!! __@RULENAME@__ a period is inserted before a Set G ending that starts with g when it follows a verb stem ending in n, namely an AAN, AN, IN or UN stem verb
+
+%^ENDG:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ 
+
+!! __@RULENAME@__ gá at the start of an ending belonging to Set G will be dropped following an A stem verb
+
+%^ENDG:0 g:0 á:0 <=> %^ccA:0 %>:0 _ 
+
+!! __@RULENAME@__ a period is inserted before a Set H ending that starts with á when it follows a verb stem from Class A or AA
+
+%^ENDH:0  :%. <=> [ %^ccA:0 | %^ccAA:0 ] %>:0 _ 
+
