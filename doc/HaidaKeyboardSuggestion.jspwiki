@@ -10,6 +10,16 @@ for occasional typing.
 |  a  |  s  |  d  |  k̲  |  g  |  h  |  j  |  k  |  l  |  -      
 |  x̂  |  x  |  c  |  x̲  |  b  |  n  |  m  |  -  |  -  |  -      
 
+The replaced letters ''q, r, f, z, v'' are accessed by 
+holding down the alt key and pressing the respective key.
+
+Test versions of this keyboard fro Macintosh may be downloaded, cf.
+[Haida kayboard|https://victorio.uit.no/langtech/trunk/keyboards/layouts/hdn/].
+
+The two files in the hdn folder must be copied to {{~/Library/Keyboard Layouts}}.
+Thereafter go to Control Panel > Keylayout > Meyboard input method.
+
+Press the '+' button, and Haida should be on the list (under H).
 
 
 !!Haida keyboard layout with Haida letters on level 3, 4
@@ -20,4 +30,6 @@ for occasional typing.
 * x̂ = alt r
 * ĝ = alt q
 
+This keyboard will function for occacional typing of Haida text. 
+It has not been implemented.
 
