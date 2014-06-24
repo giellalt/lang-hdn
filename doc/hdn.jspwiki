@@ -24,6 +24,10 @@ in this system in terms of following symbols.
 
 
 Haida has these tags for real, says Jordan.
+
+ * CL+  =  Classifyer for numerals
+
+
  * +V	 = 
  * +NEGATIVE	 = 
  * +3rd_PERSON_PLURAL	 = 
@@ -57,8 +61,6 @@ Haida has these tags for real, says Jordan.
 The parts-of-speech could perhaps also be (remove irrelevant):
 
  * +N	     =
- * +A	     =
- * +Adv     =
  * +Pron    =
  * +CS	     =
  * +CC	     =
@@ -121,6 +123,9 @@ word classes, or optionally from prefixes:
  *   Verbs   ;     
 
 
+
+
+
  LEXICON CLASS-AA 
 
 
@@ -152,6 +157,9 @@ word classes, or optionally from prefixes:
  LEXICON CLASS-AAHL-STEM-1 
 
  LEXICON CLASS-AAHL-STEM-2 
+
+
+ !LEXICON CLASS-AAHL-STEM-2 
 
 
  LEXICON CLASS-AD-STEM-1 
@@ -339,11 +347,15 @@ word classes, or optionally from prefixes:
 
 
 
+
+
 __Destressing rule__ - a general rule
 
 
 
- LEXICON Verbs 
+ LEXICON Verbstems 
+
+
 
 
 
