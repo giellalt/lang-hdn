@@ -19,7 +19,7 @@ Test versions of this keyboard fro Macintosh may be downloaded, cf.
 The two files in the hdn folder must be copied to {{~/Library/Keyboard Layouts}}.
 Thereafter go to Control Panel > Keylayout > Meyboard input method.
 
-Press the '+' button, and Haida should be on the list (under H).
+Press the '+' button, and Haida should be under the entry "Other".
 
 
 !!Haida keyboard layout with Haida letters on level 3, 4
@@ -30,6 +30,6 @@ Press the '+' button, and Haida should be on the list (under H).
 * x̂ = alt r
 * ĝ = alt q
 
-This keyboard will function for occacional typing of Haida text. 
-It has not been implemented.
+This keyboard will function for occasional typing of Haida text. 
+It has not been implemented yet.
 
