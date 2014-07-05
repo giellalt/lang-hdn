@@ -13,10 +13,6 @@ in this system in terms of following symbols.
 
 
 Haida has these tags for real, says Jordan.
-
- * CL+  =  Classifyer for numerals
-
-
  * +V	 = 
  * +NEGATIVE	 = 
  * +3rd_PERSON_PLURAL	 = 
@@ -50,6 +46,8 @@ Haida has these tags for real, says Jordan.
 The parts-of-speech could perhaps also be (remove irrelevant):
 
  * +N	     =
+ * +A	     =
+ * +Adv     =
  * +Pron    =
  * +CS	     =
  * +CC	     =
