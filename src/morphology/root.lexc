@@ -13,7 +13,7 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ========================================================================== !
-!                Northern Haida morphological analyser                      
+!                Northern Haida morphological analyser
 ! ========================================================================== !
 
 !! This file shows the Haida multichar symbols and initial lexica.
@@ -29,35 +29,35 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 !! Haida has these tags for real, says Jordan.
-+V	!!= * @CODE@ = 
-+NEGATIVE	!!= * @CODE@ = 
-+3rd_PERSON_PLURAL	!!= * @CODE@ = 
-+INTERROGATIVE	!!= * @CODE@ = 
-+FUTURE	!!= * @CODE@ = 
-+PAST	!!= * @CODE@ = 
-+PRESENT	!!= * @CODE@ = 
-+HABITUAL	!!= * @CODE@ = 
-+BIASED	!!= * @CODE@ = 
-+CERTAIN	!!= * @CODE@ = 
-+SIMPLE	!!= * @CODE@ = 
-+RELATIVE	!!= * @CODE@ = 
-+NON_FACTIVE	!!= * @CODE@ = 
-+IMMEDIATE	!!= * @CODE@ = 
-+VERYNEAR	!!= * @CODE@ = 
-+REFLEXIVE	!!= * @CODE@ = 
-+NEAR	!!= * @CODE@ = 
-+INDIRECT	!!= * @CODE@ = 
-+DIRECT	!!= * @CODE@ = 
-+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	!!= * @CODE@ = 
-+SHORT	!!= * @CODE@ = 
-+RESIGNED_OBLIGATION	!!= * @CODE@ = 
++V	!!= * @CODE@ =
++NEGATIVE	!!= * @CODE@ =
++3rd_PERSON_PLURAL	!!= * @CODE@ =
++INTERROGATIVE	!!= * @CODE@ =
++FUTURE	!!= * @CODE@ =
++PAST	!!= * @CODE@ =
++PRESENT	!!= * @CODE@ =
++HABITUAL	!!= * @CODE@ =
++BIASED	!!= * @CODE@ =
++CERTAIN	!!= * @CODE@ =
++SIMPLE	!!= * @CODE@ =
++RELATIVE	!!= * @CODE@ =
++NON_FACTIVE	!!= * @CODE@ =
++IMMEDIATE	!!= * @CODE@ =
++VERYNEAR	!!= * @CODE@ =
++REFLEXIVE	!!= * @CODE@ =
++NEAR	!!= * @CODE@ =
++INDIRECT	!!= * @CODE@ =
++DIRECT	!!= * @CODE@ =
++SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	!!= * @CODE@ =
++SHORT	!!= * @CODE@ =
++RESIGNED_OBLIGATION	!!= * @CODE@ =
 +LONG	!!= * @CODE@ =
-+INTENSIVE	!!= * @CODE@ = 
-+IMPERATIVE	!!= * @CODE@ = 
-+EVIDENTIAL	!!= * @CODE@ = 
-+COUNTERFACTUAL	!!= * @CODE@ = 
-+SINGULAR	!!= * @CODE@ = 
-+PLURAL	!!= * @CODE@ = 
++INTENSIVE	!!= * @CODE@ =
++IMPERATIVE	!!= * @CODE@ =
++EVIDENTIAL	!!= * @CODE@ =
++COUNTERFACTUAL	!!= * @CODE@ =
++SINGULAR	!!= * @CODE@ =
++PLURAL	!!= * @CODE@ =
 
 !! The parts-of-speech could perhaps also be (remove irrelevant):
 
@@ -104,7 +104,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +ABBR !!= * @CODE@ = Abbreviations
 +ACR  !!= * @CODE@ = Acronyms
 
- 
+
 !! Special symbols are classified with:
 +CLB   !!= * @CODE@ = Clause boundary symbols
 +PUNCT !!= * @CODE@ = Other punctuation marks
@@ -112,14 +112,14 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +RIGHT !!= * @CODE@ = Right part of paired symbols
 
 !! The verbs are syntactically split according to transitivity:
-+TV !!= * @CODE@ 
-+IV !!= * @CODE@ 
++TV !!= * @CODE@
++IV !!= * @CODE@
 
 !! Special multiword units are analysed with:
- +Multi !!= * @CODE@ 
+ +Multi !!= * @CODE@
 
 !! Non-dictionary words can be recognised with:
- +Guess !!= * @CODE@ 
+ +Guess !!= * @CODE@
 
 %>
 
@@ -129,11 +129,11 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
 !   Prefixes    ;
 !   Nouns   ;
-  Verbs   ;    !!= * @CODE@ 
+  Verbs   ;    !!= * @CODE@
 !   Adjectives  ;
 !   Pronouns    ;
 !   Numerals    ;
 !   Postpositions ;
 !   Particles ;
-   
-   
+
+
