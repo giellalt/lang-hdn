@@ -13,35 +13,35 @@ in this system in terms of following symbols.
 
 
 Haida has these tags for real, says Jordan.
- * +V	 = 
- * +NEGATIVE	 = 
- * +3rd_PERSON_PLURAL	 = 
- * +INTERROGATIVE	 = 
- * +FUTURE	 = 
- * +PAST	 = 
- * +PRESENT	 = 
- * +HABITUAL	 = 
- * +BIASED	 = 
- * +CERTAIN	 = 
- * +SIMPLE	 = 
- * +RELATIVE	 = 
- * +NON_FACTIVE	 = 
- * +IMMEDIATE	 = 
- * +VERYNEAR	 = 
- * +REFLEXIVE	 = 
- * +NEAR	 = 
- * +INDIRECT	 = 
- * +DIRECT	 = 
- * +SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	 = 
- * +SHORT	 = 
- * +RESIGNED_OBLIGATION	 = 
+ * +V	 =
+ * +NEGATIVE	 =
+ * +3rd_PERSON_PLURAL	 =
+ * +INTERROGATIVE	 =
+ * +FUTURE	 =
+ * +PAST	 =
+ * +PRESENT	 =
+ * +HABITUAL	 =
+ * +BIASED	 =
+ * +CERTAIN	 =
+ * +SIMPLE	 =
+ * +RELATIVE	 =
+ * +NON_FACTIVE	 =
+ * +IMMEDIATE	 =
+ * +VERYNEAR	 =
+ * +REFLEXIVE	 =
+ * +NEAR	 =
+ * +INDIRECT	 =
+ * +DIRECT	 =
+ * +SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	 =
+ * +SHORT	 =
+ * +RESIGNED_OBLIGATION	 =
  * +LONG	 =
- * +INTENSIVE	 = 
- * +IMPERATIVE	 = 
- * +EVIDENTIAL	 = 
- * +COUNTERFACTUAL	 = 
- * +SINGULAR	 = 
- * +PLURAL	 = 
+ * +INTENSIVE	 =
+ * +IMPERATIVE	 =
+ * +EVIDENTIAL	 =
+ * +COUNTERFACTUAL	 =
+ * +SINGULAR	 =
+ * +PLURAL	 =
 
 The parts-of-speech could perhaps also be (remove irrelevant):
 
@@ -94,19 +94,19 @@ Special symbols are classified with:
  * +RIGHT  = Right part of paired symbols
 
 The verbs are syntactically split according to transitivity:
- * +TV  
- * +IV  
+ * +TV 
+ * +IV 
 
 Special multiword units are analysed with:
- *  +Multi  
+ *  +Multi 
 
 Non-dictionary words can be recognised with:
- *  +Guess  
+ *  +Guess 
 
 
 
 The word forms in Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
- *   Verbs   ;     
+ *   Verbs   ;    
 
 
