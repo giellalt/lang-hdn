@@ -1,0 +1,803 @@
+!xál
+'láa
+'láadiyaa
+'láaganang
+'láanaa
+'láanuu
+'wa
+'wagä
+'wáa
+'wáadaa
+'wáahlaa
+'wáajaaw
+'wáayaadä
+CLSF
+Git'áns
+K'udáagws
+K'udéeg
+N
+NP
+NUMBER
+QUANT
+Sdast'a
+Stl'ang
+Sçajúugaahl
+Tlagadáad
+Ts'aahl
+UNIT
+V
+X
+Yahgw
+Yáats'
+agáng
+ak'aanáa
+aláan
+an
+aw
+báadaa
+bíid
+cha
+chaa
+chaaw
+chagánsaan
+chan
+chiyä
+chán
+chánaang
+da
+da.a
+daa
+dadáal
+daguyée.eehl
+dagw
+dah
+dahl
+dasgad
+daçangä
+di.íng
+dla'áaw
+dla.agad
+dlaa
+dlaagad
+dlagä
+dlajúu
+dlasdlä
+dlat'as
+dláay
+dláayä
+dlán
+du.úng
+dáa
+dáadä
+dáal
+dáalaa
+dáan
+dáang
+dáayang
+dáaçangad
+dáaçangiid
+dáng
+dánggad
+dánguhlä
+dánsgad
+dúu
+dúun
+ga
+gab
+gatáa
+gi
+gid
+gid'ahl
+gidalä
+gigugä
+gihlgahl
+giidä
+gijgad
+gijgíihlda
+gin
+gist'ä
+gisúu
+giwahl
+gu
+gud
+gudaawhl
+gudahla.áa
+gudahldä
+gudáang
+gudáng
+gudúu
+gugä
+gujáang
+guláa
+gunsdláa
+guwä
+gwáan
+gwáawa
+gya'ándä
+gyaa
+gyaahlándä
+gyaaláa
+gyaanáa
+gyahsdla
+gyahsdlä
+gyuudáan
+gyáa
+gyáadä
+gyáajuug
+gyáak'uyang
+gyúu
+gyúudaang
+gáwdä
+gíi
+gíihlä
+gíinang
+gíit'wa
+gín
+gíng
+gúul
+gúusuu
+gúusuuhlalaa
+hat'án
+hit'áadä
+hlangä
+hldán
+hlgahl
+hlgún
+hlk'i
+hlk'id
+hlk'yáan
+hlk'yáaw
+hlk'ún
+hlki
+hlku
+hlkwiida
+hlkwiidä
+hlkáay
+hltah
+hltahl
+hltaht'agúng
+hltánhlk'ä
+hláay
+hlángä
+hlçahl
+hlçahlwä
+hlçi
+hlçu
+hlçáa
+hlçáan
+hlñ'a
+hlñ'ut'úu
+hlñ'ín
+hlñáam
+háadä
+háagaang
+híiluu
+híldang
+ihlíidang
+ináa
+is
+isdáal
+isdä
+ja
+jaa
+jad
+jad'wä
+jagíi.a
+jahl
+jangaa
+juunáan
+juuyáay
+jáad
+jáad'anaa
+jáadgal
+jáagä
+jáam
+jáasä
+júu
+júugä
+k'a
+k'a.áat'ä
+k'aa
+k'ad
+k'adangáa
+k'adlägáa
+k'adáang
+k'ah
+k'ajáaw
+k'ajúu
+k'asgad
+k'asgíid
+k'i
+k'ihl
+k'ihlä
+k'its'ä
+k'u
+k'ud
+k'udlán
+k'udä
+k'ugwdáng
+k'ujgw
+k'ut'ahl
+k'uyáang
+k'uyáng
+k'wáay
+k'wáayan
+k'wíi
+k'wíidä
+k'yáaluu
+k'yáang
+k'áaw
+k'án
+k'ánhlahl
+k'áw
+k'áywaal
+k'íng
+k'úug
+k'úugä
+kagan
+ki
+kid
+kid'wä
+kidgad
+kihl
+kihldáang
+kihlgadáang
+kihlgulä
+kilúu
+kingáa
+kit'ajáa
+ku
+kus
+kusad
+kusadáng
+kuu
+kuwä
+kwah
+kwáan
+kya.a
+kyah
+kyáa
+kyáagaang
+kyáambda
+kyúu
+káa.aydä
+kám
+kíihlahl
+kíihljaaw
+kíilaa
+kíl
+kíluhlä
+kíndaang
+kíndä
+kíng
+kíngwaang
+kún
+kúnhlalandä
+kúugaa
+lableed
+láam
+láamgaa
+lóo.o
+masmúus
+máasdas
+na
+na.áng
+naa
+naawhlä
+nan
+nats'ä
+ngáa
+ngáay
+náadä
+náan
+náang
+náangisälang
+páabaa
+s'áadä
+saa
+sagä
+sahl
+sak'ä
+sasä
+satáw
+sda
+sdahla
+sdahlä
+sdaláa
+sdlagw
+sdíihl
+sgadáang
+sgi
+sgid
+sgidä
+sginguhl
+sgujúu
+sgunáa
+sgwah
+sgyáalaa
+sgíilaa
+sgíndä
+sgún
+sgún.gwdang
+sgúnwalä
+sgúusiid
+sk'alda
+sk'as
+sk'wah
+sk'ál
+sk'álda
+sk'ángad
+sk'ánhlaaw
+sk'áws
+sk'índä
+sk'ínggaang
+skahl
+skas
+skayáadä
+skidä
+skihl
+skis
+skyáadä
+skyáanaa
+skyúu
+skáa
+skáak'adaangaa
+skáawnang
+skál
+skándä
+skánts'alaang
+skíi
+skínts'ä
+skún
+st'a
+st'i
+st'igahl
+st'álaa
+st'íi
+sta
+stl'a
+stl'uu
+stl'uuhl
+stla
+stlan
+stluwán
+stlán
+stáw
+sáa
+sáagaa
+sáal
+sáan
+sáanangaa
+sáandlaan
+sáanä
+sáaw
+sáawaan
+sálda
+sáldä
+sán
+sándiigaa
+sáng
+sángaang
+sángangee
+sánggaa
+sánggä
+sángya
+sáns
+sánst'ä
+sçaa
+sçaayláangaa
+sçaláang
+sçanä
+sçat'as
+sçat'sä
+sçats'ä
+sçi
+sçid
+sçidáng
+sçuluwáa
+sçwáanaa
+sçáa
+sçáadang
+sçáan
+sçáaw
+sçáay
+sçál
+sçán
+sçáw
+sçáygä
+sçáyhla
+sçáyhlä
+sçíl
+sçíw
+sçúnggaa.aa
+síigaa
+sñ'a
+sñ'ad
+sñ'ihl
+sñ'áwaan
+sñ'ín
+sñu
+sñáan
+sñáang
+sñál
+súgaa
+súu
+súub
+súudä
+t'a
+t'aa
+t'ad
+t'agúng
+t'ak'an
+t'am
+t'áahlaa
+t'áalaa
+t'áangahl
+t'áangal
+t'áas
+t'án
+t'áng
+t'ánsgad
+t'éel
+ta
+tadä
+tahl
+tang
+taw
+tii
+tiyáang
+tiyä
+tl'a
+tl'ah
+tl'ak'ä
+tl'ast'ä
+tl'áang
+tl'ánts'uud
+tl'ánu
+tl'íi
+tl'úudaangaa
+tla
+tlaawhlä
+tlagas
+tlagw
+tlagwdáng
+tlagáng
+tlagä
+tlah
+tlask'ud
+tluwä
+tláahlahl
+tláajuu
+tláal
+tláalaay
+tláasgad
+tláawaa
+tláng
+tlúu
+ts'a
+ts'a.an
+ts'a.án
+ts'aa
+ts'adä
+ts'ah
+ts'ahl
+ts'at'as
+ts'áa
+ts'áanuu
+ts'ál
+ts'áng
+ts'ánguhl
+ts'úu
+tsaa
+tsiyä
+táa
+táagaa
+táan
+táanaa
+táanaa.aa
+táayaa
+tál
+táng
+táw
+táwk'a
+táwk'aa
+táwk'aan
+tíi
+wah
+wahl
+waswan
+xa
+xahl
+xanagalä
+xangahl
+xangalä
+xi
+xid
+xidä
+xu
+xud
+xudä
+xwaadúu
+xwíi
+xyáahl
+xyáang
+xáahldä
+xáahlts'uu
+xáamdä
+xál
+xálsgad
+xálsgiid
+xáy
+xíl
+xúndä
+ya'áats'
+ya'áaw
+yah
+yahgwdáng
+yáa
+yáadgaang
+yáan
+yáang
+Ýaadláa
+áahljuu
+áahljuwaay
+áahljuwee
+áanii
+áng
+ça
+çaa
+çaayhldáa
+çad
+çad'wä
+çadaa
+çadgáa
+çadwä
+çadä
+çagán
+çagánjuu
+çahlä
+çaláng
+çalánsdlaa
+ças
+çasä
+çat'án
+çatl'aa
+çatl'ä
+çayáaw
+çayúu
+çi
+çu
+çud
+çudä
+çugä
+çuhlahl
+çuláang
+çung
+çwáang
+çwíi
+çwíihlgahl
+çáal
+çáalgaa
+çáam
+çáan
+çáandang
+çáandangee
+çáayuu
+çál
+çálun
+çán
+çándl
+çándä
+çáw
+çáywä
+çíid
+çúng
+çúuduu
+íinaa
+íisaan
+íits'ahl
+ñ'a
+ñ'aa
+ñ'aad
+ñ'aahl
+ñ'ahl
+ñ'ahljúu
+ñ'i
+ñ'idä
+ñ'ii
+ñ'iyáa
+ñ'iyáagang
+ñ'u
+ñ'ud
+ñ'udä
+ñ'uhldáa
+ñ'uhldä
+ñ'ul
+ñ'ulúu
+ñ'unanáng
+ñ'usáang
+ñ'wáang
+ñ'wáant'uugä
+ñ'wíi
+ñ'áa
+ñ'áalang
+ñ'áamdäga
+ñ'áangahlt'ajaay
+ñ'áas
+ñ'áasdä
+ñ'áaw
+ñ'álud
+ñ'álwiid
+ñ'ándä
+ñ'áng
+ñ'áw
+ñ'áwaang
+ñ'íi
+ñ'íigaa
+ñ'íinaang
+ñ'íit'as
+ñ'íits'iid
+ñ'íiyid
+ñ'ín
+ñ'índä
+ñ'úl
+ña
+ñadä
+ñagan
+ñagán
+ñagándä
+ñahl
+ñas
+ñasa.a
+ñasaa
+ñasán
+ñat'úu
+ñe.egáay
+ñee
+ñeegée
+ñeh
+ñi
+ñu
+ñu.áan
+ñunaa
+ñuuhlä
+ñuyáadä
+ñwa.án
+ñwah
+ñwahjuwée
+ñwiiga
+ñáa
+ñáahlii
+ñáajaaw
+ñáajuu
+ñán
+ñáng
+ñánga
+ñángä
+ñáw
+ñáy
+ñée
+ñéeng
+ñéenggee
+ñíi
+ñíidad
+ñíiduu
+ñíihlgaa
+ñíiya
+ñíiyä
+ñíng
+ñúunaang
+ñúunang
+ún
+únsad
+ýa
+ýaa
+ýaad
+ýaadas
+ýagw
+ýagwdáng
+ýahl
+ýahldä
+ýas
+ýee
+ýi
+ýáa.ad'wä
+ýáadä
+ýáldaang
+ýáng
+ýánggä
+ýángul
+ýángw
+ýángwaal
+ýánts'ä
+ýáw
+ýáwälaa
+ýáy
+ýíihl
+ýíl
+ýúudaang
+ýúugaang
+Stl'ang 'Láanaas
+Stl'áng 'Láanaas
+Sçajúugaahl 'Láanaas
+sáng 'lagáa
+sáng 'láa
+ga 'láagä
+ñagán 'yáan
+sáng /
+Chíij Git'anée
+Sahgwáa Git'anée
+Kyáanuu Salíi
+ta aláan
+tla chaa
+ñ'u chaa
+ýa chaa
+sçats'ä da
+ta da
+gyáa dah
+is dluunáang
+sçats'ä dáng
+ts'at'as dáng
+kín dúu
+gu ga
+chíigaang gudä
+chíigang gudä
+skis guwä
+t'a'áaw guwä
+ta gíng
+ñ'íi gún
+tám hl'áan
+kíl hldán
+sgánsgunaa hlçahl
+gíng ináa
+tla júugä
+da k'usgad
+tlagä k'wíidaa
+ja kíl
+ta kíl
+kihl náang
+gyáa sahl
+ta sahl
+ña sgún
+t'a skáawnang
+tla skúnagahl
+ña sán
+ga sçagáang
+gin sñ'at'adáa
+sçats'ä sñu
+kíl súu
+ta súudä
+gyáa t'aahl
+çadgáats'aaw t'áahl
+ýánjaangw t'áahl
+ta tl'ándä
+ta tl'íi
+ýáng tla
+búud tlaahláa
+na tlaahláa
+ts'áng tlaahláa
+tlúu tláay
+jaa xilándä
+Sgidáa Ñáw
+tla ça
+tla çad'wä
+gyáa çadúu
+ináa çat'ahl
+tla çu
+tlúu çut'íisaa
+da çuuhlä
+da çuwáansdla
+da çwa'áaw
+agáng çáandangee
+xáwsda ñ'uhldä
+çad ñ'uhldä
+ta ñ'áalaang
+'láaganang ña
+skis ñáa
+ýas ñáa
+st'íi ñéeng
+ja ñíng
+da únaaw
+da únwaansdla
+ta ýáng
+tla ýáng
