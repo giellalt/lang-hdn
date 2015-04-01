@@ -259,16 +259,16 @@ LEXICON ONESTONEXT
 
 
 
-!LEXICON TEENS
-!tláahl% 'wáagä% sçwáansang:11 ENDLEX ;
-!tláahl% 'wáagä% sdáng:12 ENDLEX ;
-!tláahl% 'wáagä% hlçúnahl:13 ENDLEX ;
-!tláahl% 'wáagä% stánsang:14 ENDLEX ;
-!tláahl% 'wáagä% tléehl:15 ENDLEX ;
-!tláahl% 'wáagä% tla'únhl:16 ENDLEX ;
-!tláahl% 'wáagä% jagwaa:17 ENDLEX ;
-!tláahl% 'wáagä% sdáansaangaa:18 ENDLEX ;
-!tláahl% 'wáagä% tláahl% sçwáansang% gúu:19 ENDLEX ;
+LEXICON TEENS
+tláahl% 'wáagä% sçwáansang:11 ENDLEX ;
+tláahl% 'wáagä% sdáng:12 ENDLEX ;
+tláahl% 'wáagä% hlçúnahl:13 ENDLEX ;
+tláahl% 'wáagä% stánsang:14 ENDLEX ;
+tláahl% 'wáagä% tléehl:15 ENDLEX ;
+tláahl% 'wáagä% tla'únhl:16 ENDLEX ;
+tláahl% 'wáagä% jagwaa:17 ENDLEX ;
+tláahl% 'wáagä% sdáansaangaa:18 ENDLEX ;
+tláahl% 'wáagä% tláahl% sçwáansang% gúu:19 ENDLEX ;
 
 LEXICON ONES
 CARDINAL ;
