@@ -30,6 +30,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! Haida has these tags for real, says Jordan.
 +V	!!= * @CODE@ =
++N	    !!= * @CODE@ =
 +NEGATIVE	!!= * @CODE@ =
 +3rd_PERSON_PLURAL	!!= * @CODE@ =
 +INTERROGATIVE	!!= * @CODE@ =
@@ -59,9 +60,23 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +SINGULAR	!!= * @CODE@ =
 +PLURAL	!!= * @CODE@ =
 
+
+!! The pre-verb classifiers
+
+ CL/Shape+ !!= * @CODE@ = 
+ CL/Manner+ !!= * @CODE@ = 
+ CL/Human+ !!= * @CODE@ = 
+ CL/Descriptive+ !!= * @CODE@ = 
+ CL/Sound+ !!= * @CODE@ = 
+ CL/Color+ !!= * @CODE@ = 
+
+
+
+
+
+
 !! The parts-of-speech could perhaps also be (remove irrelevant):
 
-+N	    !!= * @CODE@ =
 +A	    !!= * @CODE@ =
 +Adv    !!= * @CODE@ =
 +Pron   !!= * @CODE@ =
@@ -157,6 +172,7 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
 !   Prefixes    ;
 !   Nouns   ;
+ CLASSIFIERS ;
   Verbs   ;    !!= * @CODE@
 !   Adjectives  ;
 !   Pronouns    ;
