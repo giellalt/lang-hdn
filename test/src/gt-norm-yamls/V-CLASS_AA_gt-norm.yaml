@@ -34,10 +34,10 @@ Tests:
      gatáa+V+IMMEDIATE+FUTURE: gatáaäsga
      gatáa+V+RELATIVE+FUTURE: gatáaäsaas
      gatáa+V+FUTURE+NON_FACTIVE: gatáaäsaa.ang
-     gatáa+V+INTERROGATIVE+NEAR+FUTURE: gatáa.ang ñasa'áa
-     gatáa+V+NEAR+FUTURE: gatáa.ang ñasa'áang
-     gatáa+V+INTERROGATIVE+VERYNEAR+FUTURE: gatáa.ang ñasaasdláa
-     gatáa+V+VERYNEAR+FUTURE: gatáa.ang ñasaasdláang
+     gatáa+V+INTERROGATIVE+NEAR+FUTURE: gatáa.ang k̲asa'áa
+     gatáa+V+NEAR+FUTURE: gatáa.ang k̲asa'áang
+     gatáa+V+INTERROGATIVE+VERYNEAR+FUTURE: gatáa.ang k̲asaasdláa
+     gatáa+V+VERYNEAR+FUTURE: gatáa.ang k̲asaasdláang
      gatáa+V+BIASED+IMMEDIATE+PRESENT: gatáa'uuj
      gatáa+V+BIASED+SIMPLE+PRESENT: gatáa'uujang
      gatáa+V+RESIGNED_OBLIGATION: gatáaäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      gatáa+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gatáa'waaäsga
      gatáa+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gatáa'waaäsaas
      gatáa+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gatáa'waaäsaa.ang
-     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gatáa'waa.ang ñasa'áa
-     gatáa+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gatáa'waa.ang ñasa'áang
-     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gatáa'waa.ang ñasaasdláa
-     gatáa+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gatáa'waa.ang ñasaasdláang
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gatáa'waa.ang k̲asa'áa
+     gatáa+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gatáa'waa.ang k̲asa'áang
+     gatáa+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gatáa'waa.ang k̲asaasdláa
+     gatáa+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gatáa'waa.ang k̲asaasdláang
      gatáa+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gatáa'waa'uuj
      gatáa+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gatáa'waa'uujang
      gatáa+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gatáa'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      gatáa+V+NEGATIVE+IMMEDIATE+FUTURE: gatáa'angäsga
      gatáa+V+NEGATIVE+RELATIVE+FUTURE: gatáa'angäsaas
      gatáa+V+NEGATIVE+FUTURE+NON_FACTIVE: gatáa'angäsaa.ang
-     gatáa+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gatáa.ang ñasaa'áng
-     gatáa+V+NEGATIVE+NEAR+FUTURE: gatáa.ang ñasaa'ánggang
-     gatáa+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gatáa.ang ñasaasdlä'áng
-     gatáa+V+NEGATIVE+VERYNEAR+FUTURE: gatáa.ang ñasaasdlä'ánggang
+     gatáa+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gatáa.ang k̲asaa'áng
+     gatáa+V+NEGATIVE+NEAR+FUTURE: gatáa.ang k̲asaa'ánggang
+     gatáa+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gatáa.ang k̲asaasdlä'áng
+     gatáa+V+NEGATIVE+VERYNEAR+FUTURE: gatáa.ang k̲asaasdlä'ánggang
      gatáa+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: gatáa'ang'uuj
      gatáa+V+NEGATIVE+BIASED+SIMPLE+PRESENT: gatáa'ang'uujang
      gatáa+V+NEGATIVE+RESIGNED_OBLIGATION: gatáa'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gatáa'ang'waaäsga
      gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gatáa'ang'waaäsaas
      gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gatáa'ang'waaäsaa.ang
-     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gatáa'waa.ang ñasaa'áng
-     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gatáa'waa.ang ñasaa'ánggang
-     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gatáa'waa.ang ñasaasdlä'áng
-     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gatáa'waa.ang ñasaasdlä'ánggang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gatáa'waa.ang k̲asaa'áng
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gatáa'waa.ang k̲asaa'ánggang
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gatáa'waa.ang k̲asaasdlä'áng
+     gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gatáa'waa.ang k̲asaasdlä'ánggang
      gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gatáa'ang'waa'uuj
      gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gatáa'ang'waa'uujang
      gatáa+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gatáa'ang'waaäsaa'uujang

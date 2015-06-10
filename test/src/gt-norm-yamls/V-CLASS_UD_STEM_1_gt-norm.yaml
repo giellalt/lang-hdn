@@ -53,10 +53,10 @@ Tests:
      díigud+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: díigud'waaäsga
      díigud+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: díigud'waaäsaas
      díigud+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: díigud'waaäsaa.ang
-     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: díigud'waa.ang ñasa'áa
-     díigud+V+3rd_PERSON_PLURAL+NEAR+FUTURE: díigud'waa.ang ñasa'áang
-     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdláa
-     díigud+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdláang
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: díigud'waa.ang k̲asa'áa
+     díigud+V+3rd_PERSON_PLURAL+NEAR+FUTURE: díigud'waa.ang k̲asa'áang
+     díigud+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: díigud'waa.ang k̲asaasdláa
+     díigud+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: díigud'waa.ang k̲asaasdláang
      díigud+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: díigud'waa'uuj
      díigud+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: díigud'waa'uujang
      díigud+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: díigud'waaäsaa'uujang
@@ -132,10 +132,10 @@ Tests:
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: díigud'ang'waaäsga
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: díigud'ang'waaäsaas
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: díigud'ang'waaäsaa.ang
-     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: díigud'waa.ang ñasaa'áng
-     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: díigud'waa.ang ñasaa'ánggang
-     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdlä'áng
-     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: díigud'waa.ang ñasaasdlä'ánggang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: díigud'waa.ang k̲asaa'áng
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: díigud'waa.ang k̲asaa'ánggang
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: díigud'waa.ang k̲asaasdlä'áng
+     díigud+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: díigud'waa.ang k̲asaasdlä'ánggang
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: díigud'ang'waa'uuj
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: díigud'ang'waa'uujang
      díigud+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: díigud'ang'waaäsaa'uujang

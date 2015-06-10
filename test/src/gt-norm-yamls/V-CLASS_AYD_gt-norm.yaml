@@ -34,10 +34,10 @@ Tests:
      káa.ayd+V+IMMEDIATE+FUTURE: káa.aydäsga
      káa.ayd+V+RELATIVE+FUTURE: káa.aydäsaas
      káa.ayd+V+FUTURE+NON_FACTIVE: káa.aydäsaa.ang
-     káa.ayd+V+INTERROGATIVE+NEAR+FUTURE: káa.aydang ñasa'áa
-     káa.ayd+V+NEAR+FUTURE: káa.aydang ñasa'áang
-     káa.ayd+V+INTERROGATIVE+VERYNEAR+FUTURE: káa.aydang ñasaasdláa
-     káa.ayd+V+VERYNEAR+FUTURE: káa.aydang ñasaasdláang
+     káa.ayd+V+INTERROGATIVE+NEAR+FUTURE: káa.aydang k̲asa'áa
+     káa.ayd+V+NEAR+FUTURE: káa.aydang k̲asa'áang
+     káa.ayd+V+INTERROGATIVE+VERYNEAR+FUTURE: káa.aydang k̲asaasdláa
+     káa.ayd+V+VERYNEAR+FUTURE: káa.aydang k̲asaasdláang
      káa.ayd+V+BIASED+IMMEDIATE+PRESENT: káa.ayd'uuj
      káa.ayd+V+BIASED+SIMPLE+PRESENT: káa.ayd'uujang
      káa.ayd+V+RESIGNED_OBLIGATION: káa.aydäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      káa.ayd+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: káa.ayd'waaäsga
      káa.ayd+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: káa.ayd'waaäsaas
      káa.ayd+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: káa.ayd'waaäsaa.ang
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: káa.ayd'waa.ang ñasa'áa
-     káa.ayd+V+3rd_PERSON_PLURAL+NEAR+FUTURE: káa.ayd'waa.ang ñasa'áang
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: káa.ayd'waa.ang ñasaasdláa
-     káa.ayd+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: káa.ayd'waa.ang ñasaasdláang
+     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: káa.ayd'waa.ang k̲asa'áa
+     káa.ayd+V+3rd_PERSON_PLURAL+NEAR+FUTURE: káa.ayd'waa.ang k̲asa'áang
+     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdláa
+     káa.ayd+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdláang
      káa.ayd+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: káa.ayd'waa'uuj
      káa.ayd+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: káa.ayd'waa'uujang
      káa.ayd+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: káa.ayd'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      káa.ayd+V+NEGATIVE+IMMEDIATE+FUTURE: káa.ayd'angäsga
      káa.ayd+V+NEGATIVE+RELATIVE+FUTURE: káa.ayd'angäsaas
      káa.ayd+V+NEGATIVE+FUTURE+NON_FACTIVE: káa.ayd'angäsaa.ang
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: káa.aydang ñasaa'áng
-     káa.ayd+V+NEGATIVE+NEAR+FUTURE: káa.aydang ñasaa'ánggang
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: káa.aydang ñasaasdlä'áng
-     káa.ayd+V+NEGATIVE+VERYNEAR+FUTURE: káa.aydang ñasaasdlä'ánggang
+     káa.ayd+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: káa.aydang k̲asaa'áng
+     káa.ayd+V+NEGATIVE+NEAR+FUTURE: káa.aydang k̲asaa'ánggang
+     káa.ayd+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: káa.aydang k̲asaasdlä'áng
+     káa.ayd+V+NEGATIVE+VERYNEAR+FUTURE: káa.aydang k̲asaasdlä'ánggang
      káa.ayd+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: káa.ayd'ang'uuj
      káa.ayd+V+NEGATIVE+BIASED+SIMPLE+PRESENT: káa.ayd'ang'uujang
      káa.ayd+V+NEGATIVE+RESIGNED_OBLIGATION: káa.ayd'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: káa.ayd'ang'waaäsga
      káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: káa.ayd'ang'waaäsaas
      káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: káa.ayd'ang'waaäsaa.ang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: káa.ayd'waa.ang ñasaa'áng
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: káa.ayd'waa.ang ñasaa'ánggang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: káa.ayd'waa.ang ñasaasdlä'áng
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: káa.ayd'waa.ang ñasaasdlä'ánggang
+     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: káa.ayd'waa.ang k̲asaa'áng
+     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: káa.ayd'waa.ang k̲asaa'ánggang
+     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdlä'áng
+     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdlä'ánggang
      káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: káa.ayd'ang'waa'uuj
      káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: káa.ayd'ang'waa'uujang
      káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: káa.ayd'ang'waaäsaa'uujang

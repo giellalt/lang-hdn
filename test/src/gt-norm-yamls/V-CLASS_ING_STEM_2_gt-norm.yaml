@@ -9,18 +9,18 @@ Config:
 
 Tests:
 
-  Verb - ñíng - ENGLISH : # CLASS_ING_STEM_2
+  Verb - k̲íng - ENGLISH : # CLASS_ING_STEM_2
 
-     ñíng+V+INTERROGATIVE+PAST: ñéengaa
-     ñíng+V+INDIRECT+PAST: ñéengaan
-     ñíng+V+RELATIVE+EVIDENTIAL: ñéengaas
-     ñíng+V+PAST+NON_FACTIVE: ñéengaa.ang
-     ñíng+V+CERTAIN+PRESENT: ñéeng'ahlanggang
-     ñíng+V+CERTAIN+PAST: ñéeng'ahlanggan
-     ñíng+V+CERTAIN+PAST+HABITUAL: ñéeng'ahlanggiinii
-     ñíng+V+CERTAIN+RELATIVE: ñéeng'ahlans
-     ñíng+V+INTENSIVE+PAST: ñéengaa'ahlang
-     ñíng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñéengaa'ahlanggaa
-     ñíng+V+COUNTERFACTUAL+PRESENT: ñéengaa'ahlanggang
-     ñíng+V+REFLEXIVE: ñéeng'ahl
+     k̲íng+V+INTERROGATIVE+PAST: k̲éengaa
+     k̲íng+V+INDIRECT+PAST: k̲éengaan
+     k̲íng+V+RELATIVE+EVIDENTIAL: k̲éengaas
+     k̲íng+V+PAST+NON_FACTIVE: k̲éengaa.ang
+     k̲íng+V+CERTAIN+PRESENT: k̲éeng'ahlanggang
+     k̲íng+V+CERTAIN+PAST: k̲éeng'ahlanggan
+     k̲íng+V+CERTAIN+PAST+HABITUAL: k̲éeng'ahlanggiinii
+     k̲íng+V+CERTAIN+RELATIVE: k̲éeng'ahlans
+     k̲íng+V+INTENSIVE+PAST: k̲éengaa'ahlang
+     k̲íng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲éengaa'ahlanggaa
+     k̲íng+V+COUNTERFACTUAL+PRESENT: k̲éengaa'ahlanggang
+     k̲íng+V+REFLEXIVE: k̲éeng'ahl
 

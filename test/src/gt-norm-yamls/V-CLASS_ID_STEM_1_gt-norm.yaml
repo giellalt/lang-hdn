@@ -53,10 +53,10 @@ Tests:
      kúnid+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kúnid'waaäsga
      kúnid+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kúnid'waaäsaas
      kúnid+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kúnid'waaäsaa.ang
-     kúnid+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kúnid'waa.ang ñasa'áa
-     kúnid+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kúnid'waa.ang ñasa'áang
-     kúnid+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kúnid'waa.ang ñasaasdláa
-     kúnid+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kúnid'waa.ang ñasaasdláang
+     kúnid+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kúnid'waa.ang k̲asa'áa
+     kúnid+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kúnid'waa.ang k̲asa'áang
+     kúnid+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kúnid'waa.ang k̲asaasdláa
+     kúnid+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kúnid'waa.ang k̲asaasdláang
      kúnid+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kúnid'waa'uuj
      kúnid+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kúnid'waa'uujang
      kúnid+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kúnid'waaäsaa'uujang
@@ -132,10 +132,10 @@ Tests:
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kúnid'ang'waaäsga
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kúnid'ang'waaäsaas
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kúnid'ang'waaäsaa.ang
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kúnid'waa.ang ñasaa'áng
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kúnid'waa.ang ñasaa'ánggang
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kúnid'waa.ang ñasaasdlä'áng
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kúnid'waa.ang ñasaasdlä'ánggang
+     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kúnid'waa.ang k̲asaa'áng
+     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kúnid'waa.ang k̲asaa'ánggang
+     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kúnid'waa.ang k̲asaasdlä'áng
+     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kúnid'waa.ang k̲asaasdlä'ánggang
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kúnid'ang'waa'uuj
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kúnid'ang'waa'uujang
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kúnid'ang'waaäsaa'uujang

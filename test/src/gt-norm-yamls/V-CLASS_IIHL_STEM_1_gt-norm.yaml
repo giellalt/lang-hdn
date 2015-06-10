@@ -49,10 +49,10 @@ Tests:
      níihl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: níihl'waaäsga
      níihl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: níihl'waaäsaas
      níihl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: níihl'waaäsaa.ang
-     níihl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: níihl'waa.ang ñasa'áa
-     níihl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: níihl'waa.ang ñasa'áang
-     níihl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: níihl'waa.ang ñasaasdláa
-     níihl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: níihl'waa.ang ñasaasdláang
+     níihl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: níihl'waa.ang k̲asa'áa
+     níihl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: níihl'waa.ang k̲asa'áang
+     níihl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: níihl'waa.ang k̲asaasdláa
+     níihl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: níihl'waa.ang k̲asaasdláang
      níihl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: níihl'waa'uuj
      níihl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: níihl'waa'uujang
      níihl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: níihl'waaäsaa'uujang
@@ -128,10 +128,10 @@ Tests:
      níihl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: níihl'ang'waaäsga
      níihl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: níihl'ang'waaäsaas
      níihl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: níihl'ang'waaäsaa.ang
-     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: níihl'waa.ang ñasaa'áng
-     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: níihl'waa.ang ñasaa'ánggang
-     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: níihl'waa.ang ñasaasdlä'áng
-     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: níihl'waa.ang ñasaasdlä'ánggang
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: níihl'waa.ang k̲asaa'áng
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: níihl'waa.ang k̲asaa'ánggang
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: níihl'waa.ang k̲asaasdlä'áng
+     níihl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: níihl'waa.ang k̲asaasdlä'ánggang
      níihl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: níihl'ang'waa'uuj
      níihl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: níihl'ang'waa'uujang
      níihl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: níihl'ang'waaäsaa'uujang

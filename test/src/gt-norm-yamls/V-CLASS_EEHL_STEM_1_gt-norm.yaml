@@ -21,10 +21,10 @@ Tests:
      hltanée.eehl+V+IMMEDIATE+FUTURE: hltanée.eehläsga
      hltanée.eehl+V+RELATIVE+FUTURE: hltanée.eehläsaas
      hltanée.eehl+V+FUTURE+NON_FACTIVE: hltanée.eehläsaa.ang
-     hltanée.eehl+V+INTERROGATIVE+NEAR+FUTURE: hltanée.eehlang ñasa'áa
-     hltanée.eehl+V+NEAR+FUTURE: hltanée.eehlang ñasa'áang
-     hltanée.eehl+V+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehlang ñasaasdláa
-     hltanée.eehl+V+VERYNEAR+FUTURE: hltanée.eehlang ñasaasdláang
+     hltanée.eehl+V+INTERROGATIVE+NEAR+FUTURE: hltanée.eehlang k̲asa'áa
+     hltanée.eehl+V+NEAR+FUTURE: hltanée.eehlang k̲asa'áang
+     hltanée.eehl+V+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdláa
+     hltanée.eehl+V+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdláang
      hltanée.eehl+V+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'uuj
      hltanée.eehl+V+BIASED+SIMPLE+PRESENT: hltanée.eehl'uujang
      hltanée.eehl+V+RESIGNED_OBLIGATION: hltanée.eehläsaa'uujang
@@ -59,10 +59,10 @@ Tests:
      hltanée.eehl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: hltanée.eehl'waaäsga
      hltanée.eehl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: hltanée.eehl'waaäsaas
      hltanée.eehl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: hltanée.eehl'waaäsaa.ang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: hltanée.eehl'waa.ang ñasa'áa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: hltanée.eehl'waa.ang ñasa'áang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehl'waa.ang ñasaasdláa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: hltanée.eehl'waa.ang ñasaasdláang
+     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asa'áa
+     hltanée.eehl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asa'áang
+     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdláa
+     hltanée.eehl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdláang
      hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'waa'uuj
      hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: hltanée.eehl'waa'uujang
      hltanée.eehl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: hltanée.eehl'waaäsaa'uujang
@@ -101,10 +101,10 @@ Tests:
      hltanée.eehl+V+NEGATIVE+IMMEDIATE+FUTURE: hltanée.eehl'angäsga
      hltanée.eehl+V+NEGATIVE+RELATIVE+FUTURE: hltanée.eehl'angäsaas
      hltanée.eehl+V+NEGATIVE+FUTURE+NON_FACTIVE: hltanée.eehl'angäsaa.ang
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: hltanée.eehlang ñasaa'áng
-     hltanée.eehl+V+NEGATIVE+NEAR+FUTURE: hltanée.eehlang ñasaa'ánggang
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehlang ñasaasdlä'áng
-     hltanée.eehl+V+NEGATIVE+VERYNEAR+FUTURE: hltanée.eehlang ñasaasdlä'ánggang
+     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: hltanée.eehlang k̲asaa'áng
+     hltanée.eehl+V+NEGATIVE+NEAR+FUTURE: hltanée.eehlang k̲asaa'ánggang
+     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdlä'áng
+     hltanée.eehl+V+NEGATIVE+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdlä'ánggang
      hltanée.eehl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'ang'uuj
      hltanée.eehl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: hltanée.eehl'ang'uujang
      hltanée.eehl+V+NEGATIVE+RESIGNED_OBLIGATION: hltanée.eehl'angäsaa'uujang
@@ -142,10 +142,10 @@ Tests:
      hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: hltanée.eehl'ang'waaäsga
      hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: hltanée.eehl'ang'waaäsaas
      hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: hltanée.eehl'ang'waaäsaa.ang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: hltanée.eehl'waa.ang ñasaa'áng
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: hltanée.eehl'waa.ang ñasaa'ánggang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehl'waa.ang ñasaasdlä'áng
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: hltanée.eehl'waa.ang ñasaasdlä'ánggang
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asaa'áng
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asaa'ánggang
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdlä'áng
+     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdlä'ánggang
      hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'ang'waa'uuj
      hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: hltanée.eehl'ang'waa'uujang
      hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: hltanée.eehl'ang'waaäsaa'uujang

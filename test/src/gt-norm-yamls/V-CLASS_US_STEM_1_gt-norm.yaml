@@ -49,10 +49,10 @@ Tests:
      kus+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kus'wáaäsga
      kus+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kus'wáaäsaas
      kus+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kus'wáaäsaa.ang
-     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kus'wáa.ang ñasa'áa
-     kus+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kus'wáa.ang ñasa'áang
-     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kus'wáa.ang ñasaasdláa
-     kus+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kus'wáa.ang ñasaasdláang
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kus'wáa.ang k̲asa'áa
+     kus+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kus'wáa.ang k̲asa'áang
+     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kus'wáa.ang k̲asaasdláa
+     kus+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kus'wáa.ang k̲asaasdláang
      kus+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kus'wáa'uuj
      kus+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kus'wáa'uujang
      kus+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kus'wáaäsaa'uujang
@@ -128,10 +128,10 @@ Tests:
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kus'áng'waaäsga
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kus'áng'waaäsaas
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kus'áng'waaäsaa.ang
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kus'wáa.ang ñasaa'áng
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kus'wáa.ang ñasaa'ánggang
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kus'wáa.ang ñasaasdlä'áng
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kus'wáa.ang ñasaasdlä'ánggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kus'wáa.ang k̲asaa'áng
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kus'wáa.ang k̲asaa'ánggang
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kus'wáa.ang k̲asaasdlä'áng
+     kus+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kus'wáa.ang k̲asaasdlä'ánggang
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kus'áng'waa'uuj
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kus'áng'waa'uujang
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kus'áng'waaäsaa'uujang

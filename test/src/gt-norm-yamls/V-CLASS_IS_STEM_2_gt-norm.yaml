@@ -21,10 +21,10 @@ Tests:
      kíl is+V+DIRECT+PAST+HABITUAL: kíl íijiinii
      kíl is+V+INTERROGATIVE+PAST+HABITUAL: kíl íijaangaa
      kíl is+V+INDIRECT+PAST+HABITUAL: kíl íijaangaan
-     kíl is+V+INTERROGATIVE+NEAR+FUTURE: kíl íijang ñasa'áa
-     kíl is+V+NEAR+FUTURE: kíl íijang ñasa'áang
-     kíl is+V+INTERROGATIVE+VERYNEAR+FUTURE: kíl íijang ñasaasdláa
-     kíl is+V+VERYNEAR+FUTURE: kíl íijang ñasaasdláang
+     kíl is+V+INTERROGATIVE+NEAR+FUTURE: kíl íijang k̲asa'áa
+     kíl is+V+NEAR+FUTURE: kíl íijang k̲asa'áang
+     kíl is+V+INTERROGATIVE+VERYNEAR+FUTURE: kíl íijang k̲asaasdláa
+     kíl is+V+VERYNEAR+FUTURE: kíl íijang k̲asaasdláang
      kíl is+V+CERTAIN+PRESENT: kíl íij'ahlanggang
      kíl is+V+CERTAIN+PAST: kíl íij'ahlanggan
      kíl is+V+CERTAIN+PAST+HABITUAL: kíl íij'ahlanggiinii
@@ -35,10 +35,10 @@ Tests:
      kíl is+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'waa.ang
      kíl is+V+NEGATIVE+PRESENT+HABITUAL: kíl íijang'anggang
      kíl is+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'angang
-     kíl is+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kíl íijang ñasaa'áng
-     kíl is+V+NEGATIVE+NEAR+FUTURE: kíl íijang ñasaa'ánggang
-     kíl is+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kíl íijang ñasaasdlä'áng
-     kíl is+V+NEGATIVE+VERYNEAR+FUTURE: kíl íijang ñasaasdlä'ánggang
+     kíl is+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kíl íijang k̲asaa'áng
+     kíl is+V+NEGATIVE+NEAR+FUTURE: kíl íijang k̲asaa'ánggang
+     kíl is+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kíl íijang k̲asaasdlä'áng
+     kíl is+V+NEGATIVE+VERYNEAR+FUTURE: kíl íijang k̲asaasdlä'ánggang
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kíl íijang'ang'waa
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kíl íijang'ang'waang
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'ang'waa.ang

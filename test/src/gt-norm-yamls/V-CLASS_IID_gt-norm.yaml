@@ -34,10 +34,10 @@ Tests:
      gisíid+V+IMMEDIATE+FUTURE: gisíidäsga
      gisíid+V+RELATIVE+FUTURE: gisíidäsaas
      gisíid+V+FUTURE+NON_FACTIVE: gisíidäsaa.ang
-     gisíid+V+INTERROGATIVE+NEAR+FUTURE: gisíidang ñasa'áa
-     gisíid+V+NEAR+FUTURE: gisíidang ñasa'áang
-     gisíid+V+INTERROGATIVE+VERYNEAR+FUTURE: gisíidang ñasaasdláa
-     gisíid+V+VERYNEAR+FUTURE: gisíidang ñasaasdláang
+     gisíid+V+INTERROGATIVE+NEAR+FUTURE: gisíidang k̲asa'áa
+     gisíid+V+NEAR+FUTURE: gisíidang k̲asa'áang
+     gisíid+V+INTERROGATIVE+VERYNEAR+FUTURE: gisíidang k̲asaasdláa
+     gisíid+V+VERYNEAR+FUTURE: gisíidang k̲asaasdláang
      gisíid+V+BIASED+IMMEDIATE+PRESENT: gisíid'uuj
      gisíid+V+BIASED+SIMPLE+PRESENT: gisíid'uujang
      gisíid+V+RESIGNED_OBLIGATION: gisíidäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      gisíid+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gisíid'waaäsga
      gisíid+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gisíid'waaäsaas
      gisíid+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gisíid'waaäsaa.ang
-     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gisíid'waa.ang ñasa'áa
-     gisíid+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gisíid'waa.ang ñasa'áang
-     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdláa
-     gisíid+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdláang
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gisíid'waa.ang k̲asa'áa
+     gisíid+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gisíid'waa.ang k̲asa'áang
+     gisíid+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gisíid'waa.ang k̲asaasdláa
+     gisíid+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gisíid'waa.ang k̲asaasdláang
      gisíid+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gisíid'waa'uuj
      gisíid+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gisíid'waa'uujang
      gisíid+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gisíid'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      gisíid+V+NEGATIVE+IMMEDIATE+FUTURE: gisíid'angäsga
      gisíid+V+NEGATIVE+RELATIVE+FUTURE: gisíid'angäsaas
      gisíid+V+NEGATIVE+FUTURE+NON_FACTIVE: gisíid'angäsaa.ang
-     gisíid+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gisíidang ñasaa'áng
-     gisíid+V+NEGATIVE+NEAR+FUTURE: gisíidang ñasaa'ánggang
-     gisíid+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gisíidang ñasaasdlä'áng
-     gisíid+V+NEGATIVE+VERYNEAR+FUTURE: gisíidang ñasaasdlä'ánggang
+     gisíid+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gisíidang k̲asaa'áng
+     gisíid+V+NEGATIVE+NEAR+FUTURE: gisíidang k̲asaa'ánggang
+     gisíid+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gisíidang k̲asaasdlä'áng
+     gisíid+V+NEGATIVE+VERYNEAR+FUTURE: gisíidang k̲asaasdlä'ánggang
      gisíid+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: gisíid'ang'uuj
      gisíid+V+NEGATIVE+BIASED+SIMPLE+PRESENT: gisíid'ang'uujang
      gisíid+V+NEGATIVE+RESIGNED_OBLIGATION: gisíid'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gisíid'ang'waaäsga
      gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gisíid'ang'waaäsaas
      gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gisíid'ang'waaäsaa.ang
-     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gisíid'waa.ang ñasaa'áng
-     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gisíid'waa.ang ñasaa'ánggang
-     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdlä'áng
-     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gisíid'waa.ang ñasaasdlä'ánggang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gisíid'waa.ang k̲asaa'áng
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gisíid'waa.ang k̲asaa'ánggang
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gisíid'waa.ang k̲asaasdlä'áng
+     gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gisíid'waa.ang k̲asaasdlä'ánggang
      gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gisíid'ang'waa'uuj
      gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gisíid'ang'waa'uujang
      gisíid+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gisíid'ang'waaäsaa'uujang

@@ -9,47 +9,47 @@ Config:
 
 Tests:
 
-  Verb - ñíiya - ENGLISH : # CLASS_A_STEM_3
+  Verb - k̲íiya - ENGLISH : # CLASS_A_STEM_3
 
-     ñíiya+V+SINGULAR+IMPERATIVE: ñíiyaa
-     ñíiya+V+IMMEDIATE+PRESENT: ñíiyaa
-     ñíiya+V+INTERROGATIVE+SIMPLE+PRESENT: ñíiyaa
-     ñíiya+V+SIMPLE+PRESENT: ñíiyaang
-     ñíiya+V+INTERROGATIVE+PAST: ñíiyaayaa
-     ñíiya+V+INDIRECT+PAST: ñíiyaayaan
-     ñíiya+V+RELATIVE: ñíiyaas
-     ñíiya+V+RELATIVE+EVIDENTIAL: ñíiyaayaas
-     ñíiya+V+NON_FACTIVE: ñíiyaa.ang
-     ñíiya+V+PAST+NON_FACTIVE: ñíiyaayaa.ang
-     ñíiya+V+INTERROGATIVE+FUTURE+LONG: ñíiyaaäsaa
-     ñíiya+V+INTERROGATIVE+FUTURE+SHORT: ñíiyaaäs
-     ñíiya+V+SIMPLE+FUTURE: ñíiyaaäsaang
-     ñíiya+V+IMMEDIATE+FUTURE: ñíiyaaäsga
-     ñíiya+V+RELATIVE+FUTURE: ñíiyaaäsaas
-     ñíiya+V+FUTURE+NON_FACTIVE: ñíiyaaäsaa.ang
-     ñíiya+V+INTERROGATIVE+NEAR+FUTURE: ñíiyaa.ang ñasa'áa
-     ñíiya+V+NEAR+FUTURE: ñíiyaa.ang ñasa'áang
-     ñíiya+V+INTERROGATIVE+VERYNEAR+FUTURE: ñíiyaa.ang ñasaasdláa
-     ñíiya+V+VERYNEAR+FUTURE: ñíiyaa.ang ñasaasdláang
-     ñíiya+V+BIASED+IMMEDIATE+PRESENT: ñíiyaa'uuj
-     ñíiya+V+BIASED+SIMPLE+PRESENT: ñíiyaa'uujang
-     ñíiya+V+RESIGNED_OBLIGATION: ñíiyaaäsaa'uujang
-     ñíiya+V+BIASED+INTERROGATIVE+PRESENT: ñíiyaa'us
-     ñíiya+V+BIASED+INTERROGATIVE+PAST: ñíiyaa'ujaa
-     ñíiya+V+BIASED+INTERROGATIVE+PAST+HABITUAL: ñíiyaa'uujaangaa
-     ñíiya+V+BIASED+INTERROGATIVE+FUTURE: ñíiyaaäsaa'us
-     ñíiya+V+CERTAIN+PRESENT: ñíiyaa'ahlanggang
-     ñíiya+V+CERTAIN+PAST: ñíiyaa'ahlanggan
-     ñíiya+V+CERTAIN+PAST+HABITUAL: ñíiyaa'ahlanggiinii
-     ñíiya+V+CERTAIN+FUTURE: ñíiyaaäsaa'ahlans
-     ñíiya+V+CERTAIN+RELATIVE: ñíiyaa'ahlans
-     ñíiya+V+INTENSIVE+PAST: ñíiyaayaa'ahlang
-     ñíiya+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñíiyaayaa'ahlanggaa
-     ñíiya+V+COUNTERFACTUAL+PRESENT: ñíiyaayaa'ahlanggang
-     ñíiya+V+REFLEXIVE: ñíiyaa'ahl
-     ñíiya+V+FUTURE+REFLEXIVE+INTERROGATIVE: ñíiyaaäseehl
-     ñíiya+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: ñíiyaa.ang ñasaa'áng
-     ñíiya+V+NEGATIVE+NEAR+FUTURE: ñíiyaa.ang ñasaa'ánggang
-     ñíiya+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ñíiyaa.ang ñasaasdlä'áng
-     ñíiya+V+NEGATIVE+VERYNEAR+FUTURE: ñíiyaa.ang ñasaasdlä'ánggang
+     k̲íiya+V+SINGULAR+IMPERATIVE: k̲íiyaa
+     k̲íiya+V+IMMEDIATE+PRESENT: k̲íiyaa
+     k̲íiya+V+INTERROGATIVE+SIMPLE+PRESENT: k̲íiyaa
+     k̲íiya+V+SIMPLE+PRESENT: k̲íiyaang
+     k̲íiya+V+INTERROGATIVE+PAST: k̲íiyaayaa
+     k̲íiya+V+INDIRECT+PAST: k̲íiyaayaan
+     k̲íiya+V+RELATIVE: k̲íiyaas
+     k̲íiya+V+RELATIVE+EVIDENTIAL: k̲íiyaayaas
+     k̲íiya+V+NON_FACTIVE: k̲íiyaa.ang
+     k̲íiya+V+PAST+NON_FACTIVE: k̲íiyaayaa.ang
+     k̲íiya+V+INTERROGATIVE+FUTURE+LONG: k̲íiyaaäsaa
+     k̲íiya+V+INTERROGATIVE+FUTURE+SHORT: k̲íiyaaäs
+     k̲íiya+V+SIMPLE+FUTURE: k̲íiyaaäsaang
+     k̲íiya+V+IMMEDIATE+FUTURE: k̲íiyaaäsga
+     k̲íiya+V+RELATIVE+FUTURE: k̲íiyaaäsaas
+     k̲íiya+V+FUTURE+NON_FACTIVE: k̲íiyaaäsaa.ang
+     k̲íiya+V+INTERROGATIVE+NEAR+FUTURE: k̲íiyaa.ang k̲asa'áa
+     k̲íiya+V+NEAR+FUTURE: k̲íiyaa.ang k̲asa'áang
+     k̲íiya+V+INTERROGATIVE+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdláa
+     k̲íiya+V+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdláang
+     k̲íiya+V+BIASED+IMMEDIATE+PRESENT: k̲íiyaa'uuj
+     k̲íiya+V+BIASED+SIMPLE+PRESENT: k̲íiyaa'uujang
+     k̲íiya+V+RESIGNED_OBLIGATION: k̲íiyaaäsaa'uujang
+     k̲íiya+V+BIASED+INTERROGATIVE+PRESENT: k̲íiyaa'us
+     k̲íiya+V+BIASED+INTERROGATIVE+PAST: k̲íiyaa'ujaa
+     k̲íiya+V+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲íiyaa'uujaangaa
+     k̲íiya+V+BIASED+INTERROGATIVE+FUTURE: k̲íiyaaäsaa'us
+     k̲íiya+V+CERTAIN+PRESENT: k̲íiyaa'ahlanggang
+     k̲íiya+V+CERTAIN+PAST: k̲íiyaa'ahlanggan
+     k̲íiya+V+CERTAIN+PAST+HABITUAL: k̲íiyaa'ahlanggiinii
+     k̲íiya+V+CERTAIN+FUTURE: k̲íiyaaäsaa'ahlans
+     k̲íiya+V+CERTAIN+RELATIVE: k̲íiyaa'ahlans
+     k̲íiya+V+INTENSIVE+PAST: k̲íiyaayaa'ahlang
+     k̲íiya+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲íiyaayaa'ahlanggaa
+     k̲íiya+V+COUNTERFACTUAL+PRESENT: k̲íiyaayaa'ahlanggang
+     k̲íiya+V+REFLEXIVE: k̲íiyaa'ahl
+     k̲íiya+V+FUTURE+REFLEXIVE+INTERROGATIVE: k̲íiyaaäseehl
+     k̲íiya+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k̲íiyaa.ang k̲asaa'áng
+     k̲íiya+V+NEGATIVE+NEAR+FUTURE: k̲íiyaa.ang k̲asaa'ánggang
+     k̲íiya+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdlä'áng
+     k̲íiya+V+NEGATIVE+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdlä'ánggang
 

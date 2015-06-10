@@ -9,170 +9,170 @@ Config:
 
 Tests:
 
-  Verb - çíihlgii - ENGLISH : # CLASS_II_STEM_1
+  Verb - g̲íihlgii - ENGLISH : # CLASS_II_STEM_1
 
-     çíihlgii+V+SINGULAR+IMPERATIVE: çíihlgii
-     çíihlgii+V+IMMEDIATE+PRESENT: çíihlgiiga
-     çíihlgii+V+INTERROGATIVE+SIMPLE+PRESENT: çíihlgii
-     çíihlgii+V+SIMPLE+PRESENT: çíihlgiigang
-     çíihlgii+V+DIRECT+PAST: çíihlgiigan
-     çíihlgii+V+RELATIVE: çíihlgiis
-     çíihlgii+V+NON_FACTIVE: çíihlgiiang
-     çíihlgii+V+INTERROGATIVE+PRESENT+HABITUAL: çíihlgiigang
-     çíihlgii+V+PRESENT+HABITUAL: çíihlgiiganggang
-     çíihlgii+V+PRESENT+HABITUAL+NON_FACTIVE: çíihlgiigangang
-     çíihlgii+V+DIRECT+PAST+HABITUAL: çíihlgiigiinii
-     çíihlgii+V+INTERROGATIVE+PAST+HABITUAL: çíihlgiigaangaa
-     çíihlgii+V+INDIRECT+PAST+HABITUAL: çíihlgiigaangaan
-     çíihlgii+V+INTERROGATIVE+FUTURE+LONG: çíihlgiiäsaa
-     çíihlgii+V+INTERROGATIVE+FUTURE+SHORT: çíihlgiiäs
-     çíihlgii+V+SIMPLE+FUTURE: çíihlgiiäsaang
-     çíihlgii+V+IMMEDIATE+FUTURE: çíihlgiiäsga
-     çíihlgii+V+RELATIVE+FUTURE: çíihlgiiäsaas
-     çíihlgii+V+FUTURE+NON_FACTIVE: çíihlgiiäsaa.ang
-     çíihlgii+V+INTERROGATIVE+NEAR+FUTURE: çíihlgiiang ñasa'áa
-     çíihlgii+V+NEAR+FUTURE: çíihlgiiang ñasa'áang
-     çíihlgii+V+INTERROGATIVE+VERYNEAR+FUTURE: çíihlgiiang ñasaasdláa
-     çíihlgii+V+VERYNEAR+FUTURE: çíihlgiiang ñasaasdláang
-     çíihlgii+V+BIASED+IMMEDIATE+PRESENT: çíihlgii'uuj
-     çíihlgii+V+BIASED+SIMPLE+PRESENT: çíihlgii'uujang
-     çíihlgii+V+RESIGNED_OBLIGATION: çíihlgiiäsaa'uujang
-     çíihlgii+V+BIASED+INTERROGATIVE+PRESENT: çíihlgii'us
-     çíihlgii+V+BIASED+INTERROGATIVE+PAST: çíihlgii'ujaa
-     çíihlgii+V+BIASED+INTERROGATIVE+PAST+HABITUAL: çíihlgii'uujaangaa
-     çíihlgii+V+BIASED+INTERROGATIVE+FUTURE: çíihlgiiäsaa'us
-     çíihlgii+V+CERTAIN+FUTURE: çíihlgiiäsaa'ahlans
-     çíihlgii+V+FUTURE+REFLEXIVE+INTERROGATIVE: çíihlgiiäseehl
-     çíihlgii+V+PLURAL+IMPERATIVE: çíihlgii'uu
-     çíihlgii+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: çíihlgii'waa
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: çíihlgii'waa
-     çíihlgii+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: çíihlgii'waang
-     çíihlgii+V+3rd_PERSON_PLURAL+DIRECT+PAST: çíihlgii'wägan
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: çíihlgii'aawaa
-     çíihlgii+V+3rd_PERSON_PLURAL+INDIRECT+PAST: çíihlgii'aawaan
-     çíihlgii+V+3rd_PERSON_PLURAL+RELATIVE: çíihlgii'waas
-     çíihlgii+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: çíihlgii'aawaas
-     çíihlgii+V+3rd_PERSON_PLURAL+NON_FACTIVE: çíihlgii'waa.ang
-     çíihlgii+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: çíihlgii'aawaa.ang
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: çíihlgiigang'waa
-     çíihlgii+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: çíihlgiigang'waang
-     çíihlgii+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: çíihlgiigang'waa.ang
-     çíihlgii+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: çíihlgii'wägiinii
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: çíihlgii'wägaangaa
-     çíihlgii+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: çíihlgii'wägaangaan
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: çíihlgii'waaäsaa
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: çíihlgii'waaäs
-     çíihlgii+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: çíihlgii'waaäsaang
-     çíihlgii+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: çíihlgii'waaäsga
-     çíihlgii+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: çíihlgii'waaäsaas
-     çíihlgii+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: çíihlgii'waaäsaa.ang
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: çíihlgii'waa.ang ñasa'áa
-     çíihlgii+V+3rd_PERSON_PLURAL+NEAR+FUTURE: çíihlgii'waa.ang ñasa'áang
-     çíihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: çíihlgii'waa.ang ñasaasdláa
-     çíihlgii+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: çíihlgii'waa.ang ñasaasdláang
-     çíihlgii+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: çíihlgii'waa'uuj
-     çíihlgii+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: çíihlgii'waa'uujang
-     çíihlgii+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: çíihlgii'waaäsaa'uujang
-     çíihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: çíihlgii'waa'us
-     çíihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: çíihlgii'waa'ujaa
-     çíihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: çíihlgii'waa'uujaangaa
-     çíihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: çíihlgii'waaäsaa'us
-     çíihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: çíihlgii'waa'ahlanggang
-     çíihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PAST: çíihlgii'waa'ahlanggan
-     çíihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: çíihlgii'waa'ahlanggiinii
-     çíihlgii+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: çíihlgii'waaäsaa'ahlans
-     çíihlgii+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: çíihlgii'waa'ahlans
-     çíihlgii+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: çíihlgii'aawaa'ahlang
-     çíihlgii+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: çíihlgii'aawaa'ahlanggaa
-     çíihlgii+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: çíihlgii'aawaa'ahlanggang
-     çíihlgii+V+3rd_PERSON_PLURAL+REFLEXIVE: çíihlgii'waa'ahl
-     çíihlgii+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: çíihlgii'waaäseehl
-     çíihlgii+V+NEGATIVE+SINGULAR+IMPERATIVE: çíihlgii'ang
-     çíihlgii+V+NEGATIVE+IMMEDIATE+PRESENT: çíihlgii'angga
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: çíihlgii'ang
-     çíihlgii+V+NEGATIVE+SIMPLE+PRESENT: çíihlgii'anggang
-     çíihlgii+V+NEGATIVE+DIRECT+PAST: çíihlgii'anggan
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+PAST: çíihlgii'aangaa
-     çíihlgii+V+NEGATIVE+INDIRECT+PAST: çíihlgii'aangaan
-     çíihlgii+V+NEGATIVE+RELATIVE: çíihlgii'ans
-     çíihlgii+V+NEGATIVE+RELATIVE+EVIDENTIAL: çíihlgii'aangaas
-     çíihlgii+V+NEGATIVE+NON_FACTIVE: çíihlgii'angang
-     çíihlgii+V+NEGATIVE+PAST+NON_FACTIVE: çíihlgii'aangaa.ang
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: çíihlgii'anggang
-     çíihlgii+V+NEGATIVE+PRESENT+HABITUAL: çíihlgiigang'anggang
-     çíihlgii+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: çíihlgiigang'angang
-     çíihlgii+V+NEGATIVE+DIRECT+PAST+HABITUAL: çíihlgii'anggiinii
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: çíihlgii'anggaangaa
-     çíihlgii+V+NEGATIVE+INDIRECT+PAST+HABITUAL: çíihlgii'anggaangaan
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: çíihlgii'angäsaa
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: çíihlgii'angäs
-     çíihlgii+V+NEGATIVE+SIMPLE+FUTURE: çíihlgii'angäsaang
-     çíihlgii+V+NEGATIVE+IMMEDIATE+FUTURE: çíihlgii'angäsga
-     çíihlgii+V+NEGATIVE+RELATIVE+FUTURE: çíihlgii'angäsaas
-     çíihlgii+V+NEGATIVE+FUTURE+NON_FACTIVE: çíihlgii'angäsaa.ang
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: çíihlgiiang ñasaa'áng
-     çíihlgii+V+NEGATIVE+NEAR+FUTURE: çíihlgiiang ñasaa'ánggang
-     çíihlgii+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: çíihlgiiang ñasaasdlä'áng
-     çíihlgii+V+NEGATIVE+VERYNEAR+FUTURE: çíihlgiiang ñasaasdlä'ánggang
-     çíihlgii+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: çíihlgii'ang'uuj
-     çíihlgii+V+NEGATIVE+BIASED+SIMPLE+PRESENT: çíihlgii'ang'uujang
-     çíihlgii+V+NEGATIVE+RESIGNED_OBLIGATION: çíihlgii'angäsaa'uujang
-     çíihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: çíihlgii'ang'us
-     çíihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: çíihlgii'ang'ujaa
-     çíihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: çíihlgii'ang'uujaangaa
-     çíihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: çíihlgii'angäsaa'us
-     çíihlgii+V+NEGATIVE+CERTAIN+PRESENT: çíihlgii'aang'ahlanggang
-     çíihlgii+V+NEGATIVE+CERTAIN+PAST: çíihlgii'aang'ahlanggan
-     çíihlgii+V+NEGATIVE+CERTAIN+PAST+HABITUAL: çíihlgii'aang'ahlanggiinii
-     çíihlgii+V+NEGATIVE+CERTAIN+FUTURE: çíihlgii'angäsaa'ahlans
-     çíihlgii+V+NEGATIVE+CERTAIN+RELATIVE: çíihlgii'aang'ahlans
-     çíihlgii+V+NEGATIVE+INTENSIVE+PAST: çíihlgii'aangaa'ahlang
-     çíihlgii+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: çíihlgii'aangaa'ahlanggaa
-     çíihlgii+V+NEGATIVE+COUNTERFACTUAL+PRESENT: çíihlgii'aangaa'ahlanggang
-     çíihlgii+V+NEGATIVE+REFLEXIVE: çíihlgii'aang'ahl
-     çíihlgii+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: çíihlgii'angäseehl
-     çíihlgii+V+NEGATIVE+PLURAL+IMPERATIVE: çíihlgii'ang'uu
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: çíihlgii'ang'waa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: çíihlgii'ang'waa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: çíihlgii'ang'waang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: çíihlgii'ang'wägan
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: çíihlgii'ang'aawaa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: çíihlgii'ang'aawaan
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: çíihlgii'ang'waas
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: çíihlgii'ang'aawaas
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: çíihlgii'ang'waa.ang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: çíihlgii'ang'aawaa.ang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: çíihlgiigang'ang'waa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: çíihlgiigang'ang'waang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: çíihlgiigang'ang'waa.ang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: çíihlgii'ang'wägiinii
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: çíihlgii'ang'wägaangaa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: çíihlgii'ang'wägaangaan
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: çíihlgii'ang'waaäsaa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: çíihlgii'ang'waaäs
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: çíihlgii'ang'waaäsaang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: çíihlgii'ang'waaäsga
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: çíihlgii'ang'waaäsaas
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: çíihlgii'ang'waaäsaa.ang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: çíihlgii'waa.ang ñasaa'áng
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: çíihlgii'waa.ang ñasaa'ánggang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: çíihlgii'waa.ang ñasaasdlä'áng
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: çíihlgii'waa.ang ñasaasdlä'ánggang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: çíihlgii'ang'waa'uuj
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: çíihlgii'ang'waa'uujang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: çíihlgii'ang'waaäsaa'uujang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: çíihlgii'ang'waa'us
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: çíihlgii'ang'waa'ujaa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: çíihlgii'ang'waa'uujaangaa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: çíihlgii'ang'waaäsaa'us
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: çíihlgii'ang'waa'ahlanggang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: çíihlgii'ang'waa'ahlanggan
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: çíihlgii'ang'waa'ahlanggiinii
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: çíihlgii'ang'waaäsaa'ahlans
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: çíihlgii'ang'waa'ahlans
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: çíihlgii'ang'aawaa'ahlang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: çíihlgii'ang'aawaa'ahlanggaa
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: çíihlgii'ang'aawaa'ahlanggang
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: çíihlgii'ang'waa'ahl
-     çíihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: çíihlgii'ang'waaäseehl
+     g̲íihlgii+V+SINGULAR+IMPERATIVE: g̲íihlgii
+     g̲íihlgii+V+IMMEDIATE+PRESENT: g̲íihlgiiga
+     g̲íihlgii+V+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii
+     g̲íihlgii+V+SIMPLE+PRESENT: g̲íihlgiigang
+     g̲íihlgii+V+DIRECT+PAST: g̲íihlgiigan
+     g̲íihlgii+V+RELATIVE: g̲íihlgiis
+     g̲íihlgii+V+NON_FACTIVE: g̲íihlgiiang
+     g̲íihlgii+V+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgiigang
+     g̲íihlgii+V+PRESENT+HABITUAL: g̲íihlgiiganggang
+     g̲íihlgii+V+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigangang
+     g̲íihlgii+V+DIRECT+PAST+HABITUAL: g̲íihlgiigiinii
+     g̲íihlgii+V+INTERROGATIVE+PAST+HABITUAL: g̲íihlgiigaangaa
+     g̲íihlgii+V+INDIRECT+PAST+HABITUAL: g̲íihlgiigaangaan
+     g̲íihlgii+V+INTERROGATIVE+FUTURE+LONG: g̲íihlgiiäsaa
+     g̲íihlgii+V+INTERROGATIVE+FUTURE+SHORT: g̲íihlgiiäs
+     g̲íihlgii+V+SIMPLE+FUTURE: g̲íihlgiiäsaang
+     g̲íihlgii+V+IMMEDIATE+FUTURE: g̲íihlgiiäsga
+     g̲íihlgii+V+RELATIVE+FUTURE: g̲íihlgiiäsaas
+     g̲íihlgii+V+FUTURE+NON_FACTIVE: g̲íihlgiiäsaa.ang
+     g̲íihlgii+V+INTERROGATIVE+NEAR+FUTURE: g̲íihlgiiang k̲asa'áa
+     g̲íihlgii+V+NEAR+FUTURE: g̲íihlgiiang k̲asa'áang
+     g̲íihlgii+V+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdláa
+     g̲íihlgii+V+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdláang
+     g̲íihlgii+V+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'uuj
+     g̲íihlgii+V+BIASED+SIMPLE+PRESENT: g̲íihlgii'uujang
+     g̲íihlgii+V+RESIGNED_OBLIGATION: g̲íihlgiiäsaa'uujang
+     g̲íihlgii+V+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'us
+     g̲íihlgii+V+BIASED+INTERROGATIVE+PAST: g̲íihlgii'ujaa
+     g̲íihlgii+V+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'uujaangaa
+     g̲íihlgii+V+BIASED+INTERROGATIVE+FUTURE: g̲íihlgiiäsaa'us
+     g̲íihlgii+V+CERTAIN+FUTURE: g̲íihlgiiäsaa'ahlans
+     g̲íihlgii+V+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgiiäseehl
+     g̲íihlgii+V+PLURAL+IMPERATIVE: g̲íihlgii'uu
+     g̲íihlgii+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: g̲íihlgii'waa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii'waa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: g̲íihlgii'waang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+DIRECT+PAST: g̲íihlgii'wägan
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: g̲íihlgii'aawaa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INDIRECT+PAST: g̲íihlgii'aawaan
+     g̲íihlgii+V+3rd_PERSON_PLURAL+RELATIVE: g̲íihlgii'waas
+     g̲íihlgii+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: g̲íihlgii'aawaas
+     g̲íihlgii+V+3rd_PERSON_PLURAL+NON_FACTIVE: g̲íihlgii'waa.ang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: g̲íihlgii'aawaa.ang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgiigang'waa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: g̲íihlgiigang'waang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigang'waa.ang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: g̲íihlgii'wägiinii
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'wägaangaa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: g̲íihlgii'wägaangaan
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: g̲íihlgii'waaäsaa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: g̲íihlgii'waaäs
+     g̲íihlgii+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: g̲íihlgii'waaäsaang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: g̲íihlgii'waaäsga
+     g̲íihlgii+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: g̲íihlgii'waaäsaas
+     g̲íihlgii+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: g̲íihlgii'waaäsaa.ang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asa'áa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asa'áang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdláa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdláang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'waa'uuj
+     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: g̲íihlgii'waa'uujang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: g̲íihlgii'waaäsaa'uujang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'waa'us
+     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: g̲íihlgii'waa'ujaa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'waa'uujaangaa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: g̲íihlgii'waaäsaa'us
+     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: g̲íihlgii'waa'ahlanggang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PAST: g̲íihlgii'waa'ahlanggan
+     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: g̲íihlgii'waa'ahlanggiinii
+     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: g̲íihlgii'waaäsaa'ahlans
+     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: g̲íihlgii'waa'ahlans
+     g̲íihlgii+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: g̲íihlgii'aawaa'ahlang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgii'aawaa'ahlanggaa
+     g̲íihlgii+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: g̲íihlgii'aawaa'ahlanggang
+     g̲íihlgii+V+3rd_PERSON_PLURAL+REFLEXIVE: g̲íihlgii'waa'ahl
+     g̲íihlgii+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgii'waaäseehl
+     g̲íihlgii+V+NEGATIVE+SINGULAR+IMPERATIVE: g̲íihlgii'ang
+     g̲íihlgii+V+NEGATIVE+IMMEDIATE+PRESENT: g̲íihlgii'angga
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii'ang
+     g̲íihlgii+V+NEGATIVE+SIMPLE+PRESENT: g̲íihlgii'anggang
+     g̲íihlgii+V+NEGATIVE+DIRECT+PAST: g̲íihlgii'anggan
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+PAST: g̲íihlgii'aangaa
+     g̲íihlgii+V+NEGATIVE+INDIRECT+PAST: g̲íihlgii'aangaan
+     g̲íihlgii+V+NEGATIVE+RELATIVE: g̲íihlgii'ans
+     g̲íihlgii+V+NEGATIVE+RELATIVE+EVIDENTIAL: g̲íihlgii'aangaas
+     g̲íihlgii+V+NEGATIVE+NON_FACTIVE: g̲íihlgii'angang
+     g̲íihlgii+V+NEGATIVE+PAST+NON_FACTIVE: g̲íihlgii'aangaa.ang
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgii'anggang
+     g̲íihlgii+V+NEGATIVE+PRESENT+HABITUAL: g̲íihlgiigang'anggang
+     g̲íihlgii+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigang'angang
+     g̲íihlgii+V+NEGATIVE+DIRECT+PAST+HABITUAL: g̲íihlgii'anggiinii
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'anggaangaa
+     g̲íihlgii+V+NEGATIVE+INDIRECT+PAST+HABITUAL: g̲íihlgii'anggaangaan
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: g̲íihlgii'angäsaa
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: g̲íihlgii'angäs
+     g̲íihlgii+V+NEGATIVE+SIMPLE+FUTURE: g̲íihlgii'angäsaang
+     g̲íihlgii+V+NEGATIVE+IMMEDIATE+FUTURE: g̲íihlgii'angäsga
+     g̲íihlgii+V+NEGATIVE+RELATIVE+FUTURE: g̲íihlgii'angäsaas
+     g̲íihlgii+V+NEGATIVE+FUTURE+NON_FACTIVE: g̲íihlgii'angäsaa.ang
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: g̲íihlgiiang k̲asaa'áng
+     g̲íihlgii+V+NEGATIVE+NEAR+FUTURE: g̲íihlgiiang k̲asaa'ánggang
+     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdlä'áng
+     g̲íihlgii+V+NEGATIVE+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdlä'ánggang
+     g̲íihlgii+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'ang'uuj
+     g̲íihlgii+V+NEGATIVE+BIASED+SIMPLE+PRESENT: g̲íihlgii'ang'uujang
+     g̲íihlgii+V+NEGATIVE+RESIGNED_OBLIGATION: g̲íihlgii'angäsaa'uujang
+     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'ang'us
+     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: g̲íihlgii'ang'ujaa
+     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'ang'uujaangaa
+     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: g̲íihlgii'angäsaa'us
+     g̲íihlgii+V+NEGATIVE+CERTAIN+PRESENT: g̲íihlgii'aang'ahlanggang
+     g̲íihlgii+V+NEGATIVE+CERTAIN+PAST: g̲íihlgii'aang'ahlanggan
+     g̲íihlgii+V+NEGATIVE+CERTAIN+PAST+HABITUAL: g̲íihlgii'aang'ahlanggiinii
+     g̲íihlgii+V+NEGATIVE+CERTAIN+FUTURE: g̲íihlgii'angäsaa'ahlans
+     g̲íihlgii+V+NEGATIVE+CERTAIN+RELATIVE: g̲íihlgii'aang'ahlans
+     g̲íihlgii+V+NEGATIVE+INTENSIVE+PAST: g̲íihlgii'aangaa'ahlang
+     g̲íihlgii+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgii'aangaa'ahlanggaa
+     g̲íihlgii+V+NEGATIVE+COUNTERFACTUAL+PRESENT: g̲íihlgii'aangaa'ahlanggang
+     g̲íihlgii+V+NEGATIVE+REFLEXIVE: g̲íihlgii'aang'ahl
+     g̲íihlgii+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgii'angäseehl
+     g̲íihlgii+V+NEGATIVE+PLURAL+IMPERATIVE: g̲íihlgii'ang'uu
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: g̲íihlgii'ang'waa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii'ang'waa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: g̲íihlgii'ang'waang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: g̲íihlgii'ang'wägan
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: g̲íihlgii'ang'aawaa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: g̲íihlgii'ang'aawaan
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: g̲íihlgii'ang'waas
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: g̲íihlgii'ang'aawaas
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: g̲íihlgii'ang'waa.ang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: g̲íihlgii'ang'aawaa.ang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgiigang'ang'waa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: g̲íihlgiigang'ang'waang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigang'ang'waa.ang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: g̲íihlgii'ang'wägiinii
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'ang'wägaangaa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: g̲íihlgii'ang'wägaangaan
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: g̲íihlgii'ang'waaäsaa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: g̲íihlgii'ang'waaäs
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: g̲íihlgii'ang'waaäsaang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: g̲íihlgii'ang'waaäsga
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: g̲íihlgii'ang'waaäsaas
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: g̲íihlgii'ang'waaäsaa.ang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asaa'áng
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asaa'ánggang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdlä'áng
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdlä'ánggang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'ang'waa'uuj
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: g̲íihlgii'ang'waa'uujang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: g̲íihlgii'ang'waaäsaa'uujang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'ang'waa'us
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: g̲íihlgii'ang'waa'ujaa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'ang'waa'uujaangaa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: g̲íihlgii'ang'waaäsaa'us
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: g̲íihlgii'ang'waa'ahlanggang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: g̲íihlgii'ang'waa'ahlanggan
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: g̲íihlgii'ang'waa'ahlanggiinii
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: g̲íihlgii'ang'waaäsaa'ahlans
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: g̲íihlgii'ang'waa'ahlans
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: g̲íihlgii'ang'aawaa'ahlang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgii'ang'aawaa'ahlanggaa
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: g̲íihlgii'ang'aawaa'ahlanggang
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: g̲íihlgii'ang'waa'ahl
+     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgii'ang'waaäseehl
 

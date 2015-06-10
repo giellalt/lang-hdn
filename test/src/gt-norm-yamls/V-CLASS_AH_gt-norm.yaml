@@ -34,10 +34,10 @@ Tests:
      dah+V+IMMEDIATE+FUTURE: dahäsga
      dah+V+RELATIVE+FUTURE: dahäsáas
      dah+V+FUTURE+NON_FACTIVE: dahäsáa.ang
-     dah+V+INTERROGATIVE+NEAR+FUTURE: daháng ñasa'áa
-     dah+V+NEAR+FUTURE: daháng ñasa'áang
-     dah+V+INTERROGATIVE+VERYNEAR+FUTURE: daháng ñasaasdláa
-     dah+V+VERYNEAR+FUTURE: daháng ñasaasdláang
+     dah+V+INTERROGATIVE+NEAR+FUTURE: daháng k̲asa'áa
+     dah+V+NEAR+FUTURE: daháng k̲asa'áang
+     dah+V+INTERROGATIVE+VERYNEAR+FUTURE: daháng k̲asaasdláa
+     dah+V+VERYNEAR+FUTURE: daháng k̲asaasdláang
      dah+V+BIASED+IMMEDIATE+PRESENT: dah'úuj
      dah+V+BIASED+SIMPLE+PRESENT: dah'úujang
      dah+V+RESIGNED_OBLIGATION: dahäsáa'uujang
@@ -78,10 +78,10 @@ Tests:
      dah+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dah'wáaäsga
      dah+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dah'wáaäsaas
      dah+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dah'wáaäsaa.ang
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'wáa.ang ñasa'áa
-     dah+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'wáa.ang ñasa'áang
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'wáa.ang ñasaasdláa
-     dah+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'wáa.ang ñasaasdláang
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'wáa.ang k̲asa'áa
+     dah+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'wáa.ang k̲asa'áang
+     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdláa
+     dah+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdláang
      dah+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dah'wáa'uuj
      dah+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dah'wáa'uujang
      dah+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dah'wáaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      dah+V+NEGATIVE+IMMEDIATE+FUTURE: dah'ángäsga
      dah+V+NEGATIVE+RELATIVE+FUTURE: dah'ángäsaas
      dah+V+NEGATIVE+FUTURE+NON_FACTIVE: dah'ángäsaa.ang
-     dah+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: daháng ñasaa'áng
-     dah+V+NEGATIVE+NEAR+FUTURE: daháng ñasaa'ánggang
-     dah+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: daháng ñasaasdlä'áng
-     dah+V+NEGATIVE+VERYNEAR+FUTURE: daháng ñasaasdlä'ánggang
+     dah+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: daháng k̲asaa'áng
+     dah+V+NEGATIVE+NEAR+FUTURE: daháng k̲asaa'ánggang
+     dah+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: daháng k̲asaasdlä'áng
+     dah+V+NEGATIVE+VERYNEAR+FUTURE: daháng k̲asaasdlä'ánggang
      dah+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: dah'áng'uuj
      dah+V+NEGATIVE+BIASED+SIMPLE+PRESENT: dah'áng'uujang
      dah+V+NEGATIVE+RESIGNED_OBLIGATION: dah'ángäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dah'áng'waaäsga
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dah'áng'waaäsaas
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dah'áng'waaäsaa.ang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'wáa.ang ñasaa'áng
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'wáa.ang ñasaa'ánggang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'wáa.ang ñasaasdlä'áng
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'wáa.ang ñasaasdlä'ánggang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'wáa.ang k̲asaa'áng
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'wáa.ang k̲asaa'ánggang
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdlä'áng
+     dah+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdlä'ánggang
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dah'áng'waa'uuj
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dah'áng'waa'uujang
      dah+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dah'áng'waaäsaa'uujang

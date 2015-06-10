@@ -34,10 +34,10 @@ Tests:
      sánaaw+V+IMMEDIATE+FUTURE: sánaawäsga
      sánaaw+V+RELATIVE+FUTURE: sánaawäsaas
      sánaaw+V+FUTURE+NON_FACTIVE: sánaawäsaa.ang
-     sánaaw+V+INTERROGATIVE+NEAR+FUTURE: sánaawang ñasa'áa
-     sánaaw+V+NEAR+FUTURE: sánaawang ñasa'áang
-     sánaaw+V+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang ñasaasdláa
-     sánaaw+V+VERYNEAR+FUTURE: sánaawang ñasaasdláang
+     sánaaw+V+INTERROGATIVE+NEAR+FUTURE: sánaawang k̲asa'áa
+     sánaaw+V+NEAR+FUTURE: sánaawang k̲asa'áang
+     sánaaw+V+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang k̲asaasdláa
+     sánaaw+V+VERYNEAR+FUTURE: sánaawang k̲asaasdláang
      sánaaw+V+BIASED+IMMEDIATE+PRESENT: sánaaw'uuj
      sánaaw+V+BIASED+SIMPLE+PRESENT: sánaaw'uujang
      sánaaw+V+RESIGNED_OBLIGATION: sánaawäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      sánaaw+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sánaaw'waaäsga
      sánaaw+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sánaaw'waaäsaas
      sánaaw+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sánaaw'waaäsaa.ang
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang ñasa'áa
-     sánaaw+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang ñasa'áang
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdláa
-     sánaaw+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdláang
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang k̲asa'áa
+     sánaaw+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang k̲asa'áang
+     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdláa
+     sánaaw+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdláang
      sánaaw+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sánaaw'waa'uuj
      sánaaw+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sánaaw'waa'uujang
      sánaaw+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sánaaw'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      sánaaw+V+NEGATIVE+IMMEDIATE+FUTURE: sánaaw'angäsga
      sánaaw+V+NEGATIVE+RELATIVE+FUTURE: sánaaw'angäsaas
      sánaaw+V+NEGATIVE+FUTURE+NON_FACTIVE: sánaaw'angäsaa.ang
-     sánaaw+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sánaawang ñasaa'áng
-     sánaaw+V+NEGATIVE+NEAR+FUTURE: sánaawang ñasaa'ánggang
-     sánaaw+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang ñasaasdlä'áng
-     sánaaw+V+NEGATIVE+VERYNEAR+FUTURE: sánaawang ñasaasdlä'ánggang
+     sánaaw+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sánaawang k̲asaa'áng
+     sánaaw+V+NEGATIVE+NEAR+FUTURE: sánaawang k̲asaa'ánggang
+     sánaaw+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang k̲asaasdlä'áng
+     sánaaw+V+NEGATIVE+VERYNEAR+FUTURE: sánaawang k̲asaasdlä'ánggang
      sánaaw+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sánaaw'ang'uuj
      sánaaw+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sánaaw'ang'uujang
      sánaaw+V+NEGATIVE+RESIGNED_OBLIGATION: sánaaw'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sánaaw'ang'waaäsga
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sánaaw'ang'waaäsaas
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sánaaw'ang'waaäsaa.ang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang ñasaa'áng
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang ñasaa'ánggang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdlä'áng
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang ñasaasdlä'ánggang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang k̲asaa'áng
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang k̲asaa'ánggang
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdlä'áng
+     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdlä'ánggang
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sánaaw'ang'waa'uuj
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sánaaw'ang'waa'uujang
      sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sánaaw'ang'waaäsaa'uujang

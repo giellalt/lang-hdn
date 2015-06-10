@@ -9,170 +9,170 @@ Config:
 
 Tests:
 
-  Verb - sçál - ENGLISH : # CLASS_AL_STEM_1
+  Verb - sg̲ál - ENGLISH : # CLASS_AL_STEM_1
 
-     sçál+V+SINGULAR+IMPERATIVE: sçál
-     sçál+V+IMMEDIATE+PRESENT: sçálga
-     sçál+V+INTERROGATIVE+SIMPLE+PRESENT: sçál
-     sçál+V+SIMPLE+PRESENT: sçálgang
-     sçál+V+DIRECT+PAST: sçálgan
-     sçál+V+RELATIVE: sçáls
-     sçál+V+NON_FACTIVE: sçálang
-     sçál+V+INTERROGATIVE+PRESENT+HABITUAL: sçálgang
-     sçál+V+PRESENT+HABITUAL: sçálganggang
-     sçál+V+PRESENT+HABITUAL+NON_FACTIVE: sçálgangang
-     sçál+V+DIRECT+PAST+HABITUAL: sçálgiinii
-     sçál+V+INTERROGATIVE+PAST+HABITUAL: sçálgaangaa
-     sçál+V+INDIRECT+PAST+HABITUAL: sçálgaangaan
-     sçál+V+INTERROGATIVE+FUTURE+LONG: sçáläsaa
-     sçál+V+INTERROGATIVE+FUTURE+SHORT: sçáläs
-     sçál+V+SIMPLE+FUTURE: sçáläsaang
-     sçál+V+IMMEDIATE+FUTURE: sçáläsga
-     sçál+V+RELATIVE+FUTURE: sçáläsaas
-     sçál+V+FUTURE+NON_FACTIVE: sçáläsaa.ang
-     sçál+V+INTERROGATIVE+NEAR+FUTURE: sçálang ñasa'áa
-     sçál+V+NEAR+FUTURE: sçálang ñasa'áang
-     sçál+V+INTERROGATIVE+VERYNEAR+FUTURE: sçálang ñasaasdláa
-     sçál+V+VERYNEAR+FUTURE: sçálang ñasaasdláang
-     sçál+V+BIASED+IMMEDIATE+PRESENT: sçál'uuj
-     sçál+V+BIASED+SIMPLE+PRESENT: sçál'uujang
-     sçál+V+RESIGNED_OBLIGATION: sçáläsaa'uujang
-     sçál+V+BIASED+INTERROGATIVE+PRESENT: sçál'us
-     sçál+V+BIASED+INTERROGATIVE+PAST: sçál'ujaa
-     sçál+V+BIASED+INTERROGATIVE+PAST+HABITUAL: sçál'uujaangaa
-     sçál+V+BIASED+INTERROGATIVE+FUTURE: sçáläsaa'us
-     sçál+V+CERTAIN+FUTURE: sçáläsaa'ahlans
-     sçál+V+FUTURE+REFLEXIVE+INTERROGATIVE: sçáläseehl
-     sçál+V+PLURAL+IMPERATIVE: sçál'uu
-     sçál+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sçál'waa
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sçál'waa
-     sçál+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sçál'waang
-     sçál+V+3rd_PERSON_PLURAL+DIRECT+PAST: sçál'wägan
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sçál'aawaa
-     sçál+V+3rd_PERSON_PLURAL+INDIRECT+PAST: sçál'aawaan
-     sçál+V+3rd_PERSON_PLURAL+RELATIVE: sçál'waas
-     sçál+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sçál'aawaas
-     sçál+V+3rd_PERSON_PLURAL+NON_FACTIVE: sçál'waa.ang
-     sçál+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sçál'aawaa.ang
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sçálgang'waa
-     sçál+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sçálgang'waang
-     sçál+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sçálgang'waa.ang
-     sçál+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sçál'wägiinii
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sçál'wägaangaa
-     sçál+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sçál'wägaangaan
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sçál'waaäsaa
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sçál'waaäs
-     sçál+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sçál'waaäsaang
-     sçál+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sçál'waaäsga
-     sçál+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sçál'waaäsaas
-     sçál+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sçál'waaäsaa.ang
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sçál'waa.ang ñasa'áa
-     sçál+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sçál'waa.ang ñasa'áang
-     sçál+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sçál'waa.ang ñasaasdláa
-     sçál+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sçál'waa.ang ñasaasdláang
-     sçál+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sçál'waa'uuj
-     sçál+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sçál'waa'uujang
-     sçál+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sçál'waaäsaa'uujang
-     sçál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sçál'waa'us
-     sçál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sçál'waa'ujaa
-     sçál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sçál'waa'uujaangaa
-     sçál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sçál'waaäsaa'us
-     sçál+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sçál'waa'ahlanggang
-     sçál+V+3rd_PERSON_PLURAL+CERTAIN+PAST: sçál'waa'ahlanggan
-     sçál+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sçál'waa'ahlanggiinii
-     sçál+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sçál'waaäsaa'ahlans
-     sçál+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sçál'waa'ahlans
-     sçál+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: sçál'aawaa'ahlang
-     sçál+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçál'aawaa'ahlanggaa
-     sçál+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sçál'aawaa'ahlanggang
-     sçál+V+3rd_PERSON_PLURAL+REFLEXIVE: sçál'waa'ahl
-     sçál+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sçál'waaäseehl
-     sçál+V+NEGATIVE+SINGULAR+IMPERATIVE: sçál'ang
-     sçál+V+NEGATIVE+IMMEDIATE+PRESENT: sçál'angga
-     sçál+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: sçál'ang
-     sçál+V+NEGATIVE+SIMPLE+PRESENT: sçál'anggang
-     sçál+V+NEGATIVE+DIRECT+PAST: sçál'anggan
-     sçál+V+NEGATIVE+INTERROGATIVE+PAST: sçál'aangaa
-     sçál+V+NEGATIVE+INDIRECT+PAST: sçál'aangaan
-     sçál+V+NEGATIVE+RELATIVE: sçál'ans
-     sçál+V+NEGATIVE+RELATIVE+EVIDENTIAL: sçál'aangaas
-     sçál+V+NEGATIVE+NON_FACTIVE: sçál'angang
-     sçál+V+NEGATIVE+PAST+NON_FACTIVE: sçál'aangaa.ang
-     sçál+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: sçál'anggang
-     sçál+V+NEGATIVE+PRESENT+HABITUAL: sçálgang'anggang
-     sçál+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sçálgang'angang
-     sçál+V+NEGATIVE+DIRECT+PAST+HABITUAL: sçál'anggiinii
-     sçál+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: sçál'anggaangaa
-     sçál+V+NEGATIVE+INDIRECT+PAST+HABITUAL: sçál'anggaangaan
-     sçál+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: sçál'angäsaa
-     sçál+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: sçál'angäs
-     sçál+V+NEGATIVE+SIMPLE+FUTURE: sçál'angäsaang
-     sçál+V+NEGATIVE+IMMEDIATE+FUTURE: sçál'angäsga
-     sçál+V+NEGATIVE+RELATIVE+FUTURE: sçál'angäsaas
-     sçál+V+NEGATIVE+FUTURE+NON_FACTIVE: sçál'angäsaa.ang
-     sçál+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sçálang ñasaa'áng
-     sçál+V+NEGATIVE+NEAR+FUTURE: sçálang ñasaa'ánggang
-     sçál+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sçálang ñasaasdlä'áng
-     sçál+V+NEGATIVE+VERYNEAR+FUTURE: sçálang ñasaasdlä'ánggang
-     sçál+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sçál'ang'uuj
-     sçál+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sçál'ang'uujang
-     sçál+V+NEGATIVE+RESIGNED_OBLIGATION: sçál'angäsaa'uujang
-     sçál+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: sçál'ang'us
-     sçál+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: sçál'ang'ujaa
-     sçál+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: sçál'ang'uujaangaa
-     sçál+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: sçál'angäsaa'us
-     sçál+V+NEGATIVE+CERTAIN+PRESENT: sçál'aang'ahlanggang
-     sçál+V+NEGATIVE+CERTAIN+PAST: sçál'aang'ahlanggan
-     sçál+V+NEGATIVE+CERTAIN+PAST+HABITUAL: sçál'aang'ahlanggiinii
-     sçál+V+NEGATIVE+CERTAIN+FUTURE: sçál'angäsaa'ahlans
-     sçál+V+NEGATIVE+CERTAIN+RELATIVE: sçál'aang'ahlans
-     sçál+V+NEGATIVE+INTENSIVE+PAST: sçál'aangaa'ahlang
-     sçál+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçál'aangaa'ahlanggaa
-     sçál+V+NEGATIVE+COUNTERFACTUAL+PRESENT: sçál'aangaa'ahlanggang
-     sçál+V+NEGATIVE+REFLEXIVE: sçál'aang'ahl
-     sçál+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: sçál'angäseehl
-     sçál+V+NEGATIVE+PLURAL+IMPERATIVE: sçál'ang'uu
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sçál'ang'waa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sçál'ang'waa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sçál'ang'waang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: sçál'ang'wägan
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sçál'ang'aawaa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: sçál'ang'aawaan
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: sçál'ang'waas
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sçál'ang'aawaas
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: sçál'ang'waa.ang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sçál'ang'aawaa.ang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sçálgang'ang'waa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sçálgang'ang'waang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sçálgang'ang'waa.ang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sçál'ang'wägiinii
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sçál'ang'wägaangaa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sçál'ang'wägaangaan
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sçál'ang'waaäsaa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sçál'ang'waaäs
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sçál'ang'waaäsaang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sçál'ang'waaäsga
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sçál'ang'waaäsaas
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sçál'ang'waaäsaa.ang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sçál'waa.ang ñasaa'áng
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sçál'waa.ang ñasaa'ánggang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sçál'waa.ang ñasaasdlä'áng
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sçál'waa.ang ñasaasdlä'ánggang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sçál'ang'waa'uuj
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sçál'ang'waa'uujang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sçál'ang'waaäsaa'uujang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sçál'ang'waa'us
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sçál'ang'waa'ujaa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sçál'ang'waa'uujaangaa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sçál'ang'waaäsaa'us
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sçál'ang'waa'ahlanggang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: sçál'ang'waa'ahlanggan
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sçál'ang'waa'ahlanggiinii
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sçál'ang'waaäsaa'ahlans
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sçál'ang'waa'ahlans
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: sçál'ang'aawaa'ahlang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçál'ang'aawaa'ahlanggaa
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sçál'ang'aawaa'ahlanggang
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sçál'ang'waa'ahl
-     sçál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sçál'ang'waaäseehl
+     sg̲ál+V+SINGULAR+IMPERATIVE: sg̲ál
+     sg̲ál+V+IMMEDIATE+PRESENT: sg̲álga
+     sg̲ál+V+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál
+     sg̲ál+V+SIMPLE+PRESENT: sg̲álgang
+     sg̲ál+V+DIRECT+PAST: sg̲álgan
+     sg̲ál+V+RELATIVE: sg̲áls
+     sg̲ál+V+NON_FACTIVE: sg̲álang
+     sg̲ál+V+INTERROGATIVE+PRESENT+HABITUAL: sg̲álgang
+     sg̲ál+V+PRESENT+HABITUAL: sg̲álganggang
+     sg̲ál+V+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgangang
+     sg̲ál+V+DIRECT+PAST+HABITUAL: sg̲álgiinii
+     sg̲ál+V+INTERROGATIVE+PAST+HABITUAL: sg̲álgaangaa
+     sg̲ál+V+INDIRECT+PAST+HABITUAL: sg̲álgaangaan
+     sg̲ál+V+INTERROGATIVE+FUTURE+LONG: sg̲áläsaa
+     sg̲ál+V+INTERROGATIVE+FUTURE+SHORT: sg̲áläs
+     sg̲ál+V+SIMPLE+FUTURE: sg̲áläsaang
+     sg̲ál+V+IMMEDIATE+FUTURE: sg̲áläsga
+     sg̲ál+V+RELATIVE+FUTURE: sg̲áläsaas
+     sg̲ál+V+FUTURE+NON_FACTIVE: sg̲áläsaa.ang
+     sg̲ál+V+INTERROGATIVE+NEAR+FUTURE: sg̲álang k̲asa'áa
+     sg̲ál+V+NEAR+FUTURE: sg̲álang k̲asa'áang
+     sg̲ál+V+INTERROGATIVE+VERYNEAR+FUTURE: sg̲álang k̲asaasdláa
+     sg̲ál+V+VERYNEAR+FUTURE: sg̲álang k̲asaasdláang
+     sg̲ál+V+BIASED+IMMEDIATE+PRESENT: sg̲ál'uuj
+     sg̲ál+V+BIASED+SIMPLE+PRESENT: sg̲ál'uujang
+     sg̲ál+V+RESIGNED_OBLIGATION: sg̲áläsaa'uujang
+     sg̲ál+V+BIASED+INTERROGATIVE+PRESENT: sg̲ál'us
+     sg̲ál+V+BIASED+INTERROGATIVE+PAST: sg̲ál'ujaa
+     sg̲ál+V+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'uujaangaa
+     sg̲ál+V+BIASED+INTERROGATIVE+FUTURE: sg̲áläsaa'us
+     sg̲ál+V+CERTAIN+FUTURE: sg̲áläsaa'ahlans
+     sg̲ál+V+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲áläseehl
+     sg̲ál+V+PLURAL+IMPERATIVE: sg̲ál'uu
+     sg̲ál+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sg̲ál'waa
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál'waa
+     sg̲ál+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sg̲ál'waang
+     sg̲ál+V+3rd_PERSON_PLURAL+DIRECT+PAST: sg̲ál'wägan
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sg̲ál'aawaa
+     sg̲ál+V+3rd_PERSON_PLURAL+INDIRECT+PAST: sg̲ál'aawaan
+     sg̲ál+V+3rd_PERSON_PLURAL+RELATIVE: sg̲ál'waas
+     sg̲ál+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sg̲ál'aawaas
+     sg̲ál+V+3rd_PERSON_PLURAL+NON_FACTIVE: sg̲ál'waa.ang
+     sg̲ál+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sg̲ál'aawaa.ang
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sg̲álgang'waa
+     sg̲ál+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sg̲álgang'waang
+     sg̲ál+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgang'waa.ang
+     sg̲ál+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sg̲ál'wägiinii
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sg̲ál'wägaangaa
+     sg̲ál+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sg̲ál'wägaangaan
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sg̲ál'waaäsaa
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sg̲ál'waaäs
+     sg̲ál+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sg̲ál'waaäsaang
+     sg̲ál+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sg̲ál'waaäsga
+     sg̲ál+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sg̲ál'waaäsaas
+     sg̲ál+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sg̲ál'waaäsaa.ang
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sg̲ál'waa.ang k̲asa'áa
+     sg̲ál+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sg̲ál'waa.ang k̲asa'áang
+     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdláa
+     sg̲ál+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdláang
+     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sg̲ál'waa'uuj
+     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sg̲ál'waa'uujang
+     sg̲ál+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sg̲ál'waaäsaa'uujang
+     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sg̲ál'waa'us
+     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sg̲ál'waa'ujaa
+     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'waa'uujaangaa
+     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sg̲ál'waaäsaa'us
+     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sg̲ál'waa'ahlanggang
+     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+PAST: sg̲ál'waa'ahlanggan
+     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sg̲ál'waa'ahlanggiinii
+     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sg̲ál'waaäsaa'ahlans
+     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sg̲ál'waa'ahlans
+     sg̲ál+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: sg̲ál'aawaa'ahlang
+     sg̲ál+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲ál'aawaa'ahlanggaa
+     sg̲ál+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sg̲ál'aawaa'ahlanggang
+     sg̲ál+V+3rd_PERSON_PLURAL+REFLEXIVE: sg̲ál'waa'ahl
+     sg̲ál+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲ál'waaäseehl
+     sg̲ál+V+NEGATIVE+SINGULAR+IMPERATIVE: sg̲ál'ang
+     sg̲ál+V+NEGATIVE+IMMEDIATE+PRESENT: sg̲ál'angga
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál'ang
+     sg̲ál+V+NEGATIVE+SIMPLE+PRESENT: sg̲ál'anggang
+     sg̲ál+V+NEGATIVE+DIRECT+PAST: sg̲ál'anggan
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+PAST: sg̲ál'aangaa
+     sg̲ál+V+NEGATIVE+INDIRECT+PAST: sg̲ál'aangaan
+     sg̲ál+V+NEGATIVE+RELATIVE: sg̲ál'ans
+     sg̲ál+V+NEGATIVE+RELATIVE+EVIDENTIAL: sg̲ál'aangaas
+     sg̲ál+V+NEGATIVE+NON_FACTIVE: sg̲ál'angang
+     sg̲ál+V+NEGATIVE+PAST+NON_FACTIVE: sg̲ál'aangaa.ang
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: sg̲ál'anggang
+     sg̲ál+V+NEGATIVE+PRESENT+HABITUAL: sg̲álgang'anggang
+     sg̲ál+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgang'angang
+     sg̲ál+V+NEGATIVE+DIRECT+PAST+HABITUAL: sg̲ál'anggiinii
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: sg̲ál'anggaangaa
+     sg̲ál+V+NEGATIVE+INDIRECT+PAST+HABITUAL: sg̲ál'anggaangaan
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: sg̲ál'angäsaa
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: sg̲ál'angäs
+     sg̲ál+V+NEGATIVE+SIMPLE+FUTURE: sg̲ál'angäsaang
+     sg̲ál+V+NEGATIVE+IMMEDIATE+FUTURE: sg̲ál'angäsga
+     sg̲ál+V+NEGATIVE+RELATIVE+FUTURE: sg̲ál'angäsaas
+     sg̲ál+V+NEGATIVE+FUTURE+NON_FACTIVE: sg̲ál'angäsaa.ang
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sg̲álang k̲asaa'áng
+     sg̲ál+V+NEGATIVE+NEAR+FUTURE: sg̲álang k̲asaa'ánggang
+     sg̲ál+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sg̲álang k̲asaasdlä'áng
+     sg̲ál+V+NEGATIVE+VERYNEAR+FUTURE: sg̲álang k̲asaasdlä'ánggang
+     sg̲ál+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sg̲ál'ang'uuj
+     sg̲ál+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sg̲ál'ang'uujang
+     sg̲ál+V+NEGATIVE+RESIGNED_OBLIGATION: sg̲ál'angäsaa'uujang
+     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: sg̲ál'ang'us
+     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: sg̲ál'ang'ujaa
+     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'ang'uujaangaa
+     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: sg̲ál'angäsaa'us
+     sg̲ál+V+NEGATIVE+CERTAIN+PRESENT: sg̲ál'aang'ahlanggang
+     sg̲ál+V+NEGATIVE+CERTAIN+PAST: sg̲ál'aang'ahlanggan
+     sg̲ál+V+NEGATIVE+CERTAIN+PAST+HABITUAL: sg̲ál'aang'ahlanggiinii
+     sg̲ál+V+NEGATIVE+CERTAIN+FUTURE: sg̲ál'angäsaa'ahlans
+     sg̲ál+V+NEGATIVE+CERTAIN+RELATIVE: sg̲ál'aang'ahlans
+     sg̲ál+V+NEGATIVE+INTENSIVE+PAST: sg̲ál'aangaa'ahlang
+     sg̲ál+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲ál'aangaa'ahlanggaa
+     sg̲ál+V+NEGATIVE+COUNTERFACTUAL+PRESENT: sg̲ál'aangaa'ahlanggang
+     sg̲ál+V+NEGATIVE+REFLEXIVE: sg̲ál'aang'ahl
+     sg̲ál+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲ál'angäseehl
+     sg̲ál+V+NEGATIVE+PLURAL+IMPERATIVE: sg̲ál'ang'uu
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sg̲ál'ang'waa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál'ang'waa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sg̲ál'ang'waang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: sg̲ál'ang'wägan
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sg̲ál'ang'aawaa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: sg̲ál'ang'aawaan
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: sg̲ál'ang'waas
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sg̲ál'ang'aawaas
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: sg̲ál'ang'waa.ang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sg̲ál'ang'aawaa.ang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sg̲álgang'ang'waa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sg̲álgang'ang'waang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgang'ang'waa.ang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sg̲ál'ang'wägiinii
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sg̲ál'ang'wägaangaa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sg̲ál'ang'wägaangaan
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sg̲ál'ang'waaäsaa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sg̲ál'ang'waaäs
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sg̲ál'ang'waaäsaang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sg̲ál'ang'waaäsga
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sg̲ál'ang'waaäsaas
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sg̲ál'ang'waaäsaa.ang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sg̲ál'waa.ang k̲asaa'áng
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sg̲ál'waa.ang k̲asaa'ánggang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdlä'áng
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdlä'ánggang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sg̲ál'ang'waa'uuj
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sg̲ál'ang'waa'uujang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sg̲ál'ang'waaäsaa'uujang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sg̲ál'ang'waa'us
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sg̲ál'ang'waa'ujaa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'ang'waa'uujaangaa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sg̲ál'ang'waaäsaa'us
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sg̲ál'ang'waa'ahlanggang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: sg̲ál'ang'waa'ahlanggan
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sg̲ál'ang'waa'ahlanggiinii
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sg̲ál'ang'waaäsaa'ahlans
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sg̲ál'ang'waa'ahlans
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: sg̲ál'ang'aawaa'ahlang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲ál'ang'aawaa'ahlanggaa
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sg̲ál'ang'aawaa'ahlanggang
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sg̲ál'ang'waa'ahl
+     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲ál'ang'waaäseehl
 

@@ -21,10 +21,10 @@ Tests:
      kus+V+DIRECT+PAST+HABITUAL: kujíinii
      kus+V+INTERROGATIVE+PAST+HABITUAL: kujáangaa
      kus+V+INDIRECT+PAST+HABITUAL: kujáangaan
-     kus+V+INTERROGATIVE+NEAR+FUTURE: kujáng ñasa'áa
-     kus+V+NEAR+FUTURE: kujáng ñasa'áang
-     kus+V+INTERROGATIVE+VERYNEAR+FUTURE: kujáng ñasaasdláa
-     kus+V+VERYNEAR+FUTURE: kujáng ñasaasdláang
+     kus+V+INTERROGATIVE+NEAR+FUTURE: kujáng k̲asa'áa
+     kus+V+NEAR+FUTURE: kujáng k̲asa'áang
+     kus+V+INTERROGATIVE+VERYNEAR+FUTURE: kujáng k̲asaasdláa
+     kus+V+VERYNEAR+FUTURE: kujáng k̲asaasdláang
      kus+V+CERTAIN+PRESENT: kuj'ahlánggang
      kus+V+CERTAIN+PAST: kuj'ahlánggan
      kus+V+CERTAIN+PAST+HABITUAL: kuj'ahlánggiinii
@@ -35,10 +35,10 @@ Tests:
      kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujáng'waa.ang
      kus+V+NEGATIVE+PRESENT+HABITUAL: kujáng'anggang
      kus+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kujáng'angang
-     kus+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kujáng ñasaa'áng
-     kus+V+NEGATIVE+NEAR+FUTURE: kujáng ñasaa'ánggang
-     kus+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kujáng ñasaasdlä'áng
-     kus+V+NEGATIVE+VERYNEAR+FUTURE: kujáng ñasaasdlä'ánggang
+     kus+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kujáng k̲asaa'áng
+     kus+V+NEGATIVE+NEAR+FUTURE: kujáng k̲asaa'ánggang
+     kus+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kujáng k̲asaasdlä'áng
+     kus+V+NEGATIVE+VERYNEAR+FUTURE: kujáng k̲asaasdlä'ánggang
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujáng'ang'waa
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujáng'ang'waang
      kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujáng'ang'waa.ang

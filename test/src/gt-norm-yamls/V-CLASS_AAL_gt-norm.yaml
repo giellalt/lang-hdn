@@ -34,10 +34,10 @@ Tests:
      xadáal+V+IMMEDIATE+FUTURE: xadáaläsga
      xadáal+V+RELATIVE+FUTURE: xadáaläsaas
      xadáal+V+FUTURE+NON_FACTIVE: xadáaläsaa.ang
-     xadáal+V+INTERROGATIVE+NEAR+FUTURE: xadáalang ñasa'áa
-     xadáal+V+NEAR+FUTURE: xadáalang ñasa'áang
-     xadáal+V+INTERROGATIVE+VERYNEAR+FUTURE: xadáalang ñasaasdláa
-     xadáal+V+VERYNEAR+FUTURE: xadáalang ñasaasdláang
+     xadáal+V+INTERROGATIVE+NEAR+FUTURE: xadáalang k̲asa'áa
+     xadáal+V+NEAR+FUTURE: xadáalang k̲asa'áang
+     xadáal+V+INTERROGATIVE+VERYNEAR+FUTURE: xadáalang k̲asaasdláa
+     xadáal+V+VERYNEAR+FUTURE: xadáalang k̲asaasdláang
      xadáal+V+BIASED+IMMEDIATE+PRESENT: xadáal'uuj
      xadáal+V+BIASED+SIMPLE+PRESENT: xadáal'uujang
      xadáal+V+RESIGNED_OBLIGATION: xadáaläsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      xadáal+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xadáal'waaäsga
      xadáal+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xadáal'waaäsaas
      xadáal+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xadáal'waaäsaa.ang
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xadáal'waa.ang ñasa'áa
-     xadáal+V+3rd_PERSON_PLURAL+NEAR+FUTURE: xadáal'waa.ang ñasa'áang
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xadáal'waa.ang ñasaasdláa
-     xadáal+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xadáal'waa.ang ñasaasdláang
+     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xadáal'waa.ang k̲asa'áa
+     xadáal+V+3rd_PERSON_PLURAL+NEAR+FUTURE: xadáal'waa.ang k̲asa'áang
+     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdláa
+     xadáal+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdláang
      xadáal+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xadáal'waa'uuj
      xadáal+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xadáal'waa'uujang
      xadáal+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xadáal'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      xadáal+V+NEGATIVE+IMMEDIATE+FUTURE: xadáal'angäsga
      xadáal+V+NEGATIVE+RELATIVE+FUTURE: xadáal'angäsaas
      xadáal+V+NEGATIVE+FUTURE+NON_FACTIVE: xadáal'angäsaa.ang
-     xadáal+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: xadáalang ñasaa'áng
-     xadáal+V+NEGATIVE+NEAR+FUTURE: xadáalang ñasaa'ánggang
-     xadáal+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: xadáalang ñasaasdlä'áng
-     xadáal+V+NEGATIVE+VERYNEAR+FUTURE: xadáalang ñasaasdlä'ánggang
+     xadáal+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: xadáalang k̲asaa'áng
+     xadáal+V+NEGATIVE+NEAR+FUTURE: xadáalang k̲asaa'ánggang
+     xadáal+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: xadáalang k̲asaasdlä'áng
+     xadáal+V+NEGATIVE+VERYNEAR+FUTURE: xadáalang k̲asaasdlä'ánggang
      xadáal+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: xadáal'ang'uuj
      xadáal+V+NEGATIVE+BIASED+SIMPLE+PRESENT: xadáal'ang'uujang
      xadáal+V+NEGATIVE+RESIGNED_OBLIGATION: xadáal'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xadáal'ang'waaäsga
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xadáal'ang'waaäsaas
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xadáal'ang'waaäsaa.ang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xadáal'waa.ang ñasaa'áng
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: xadáal'waa.ang ñasaa'ánggang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xadáal'waa.ang ñasaasdlä'áng
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xadáal'waa.ang ñasaasdlä'ánggang
+     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xadáal'waa.ang k̲asaa'áng
+     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: xadáal'waa.ang k̲asaa'ánggang
+     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdlä'áng
+     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdlä'ánggang
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xadáal'ang'waa'uuj
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xadáal'ang'waa'uujang
      xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xadáal'ang'waaäsaa'uujang

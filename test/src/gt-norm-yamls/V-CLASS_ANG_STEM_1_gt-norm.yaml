@@ -30,10 +30,10 @@ Tests:
      chíigang+V+IMMEDIATE+FUTURE: chíigangäsga
      chíigang+V+RELATIVE+FUTURE: chíigangäsaas
      chíigang+V+FUTURE+NON_FACTIVE: chíigangäsaa.ang
-     chíigang+V+INTERROGATIVE+NEAR+FUTURE: chíigangang ñasa'áa
-     chíigang+V+NEAR+FUTURE: chíigangang ñasa'áang
-     chíigang+V+INTERROGATIVE+VERYNEAR+FUTURE: chíigangang ñasaasdláa
-     chíigang+V+VERYNEAR+FUTURE: chíigangang ñasaasdláang
+     chíigang+V+INTERROGATIVE+NEAR+FUTURE: chíigangang k̲asa'áa
+     chíigang+V+NEAR+FUTURE: chíigangang k̲asa'áang
+     chíigang+V+INTERROGATIVE+VERYNEAR+FUTURE: chíigangang k̲asaasdláa
+     chíigang+V+VERYNEAR+FUTURE: chíigangang k̲asaasdláang
      chíigang+V+BIASED+IMMEDIATE+PRESENT: chíigang'uuj
      chíigang+V+BIASED+SIMPLE+PRESENT: chíigang'uujang
      chíigang+V+RESIGNED_OBLIGATION: chíigangäsaa'uujang
@@ -66,10 +66,10 @@ Tests:
      chíigang+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: chíigang'waaäsga
      chíigang+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: chíigang'waaäsaas
      chíigang+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: chíigang'waaäsaa.ang
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: chíigang'waa.ang ñasa'áa
-     chíigang+V+3rd_PERSON_PLURAL+NEAR+FUTURE: chíigang'waa.ang ñasa'áang
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: chíigang'waa.ang ñasaasdláa
-     chíigang+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: chíigang'waa.ang ñasaasdláang
+     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: chíigang'waa.ang k̲asa'áa
+     chíigang+V+3rd_PERSON_PLURAL+NEAR+FUTURE: chíigang'waa.ang k̲asa'áang
+     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdláa
+     chíigang+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdláang
      chíigang+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: chíigang'waa'uuj
      chíigang+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: chíigang'waa'uujang
      chíigang+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: chíigang'waaäsaa'uujang
@@ -110,10 +110,10 @@ Tests:
      chíigang+V+NEGATIVE+IMMEDIATE+FUTURE: chíigang'angäsga
      chíigang+V+NEGATIVE+RELATIVE+FUTURE: chíigang'angäsaas
      chíigang+V+NEGATIVE+FUTURE+NON_FACTIVE: chíigang'angäsaa.ang
-     chíigang+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: chíigangang ñasaa'áng
-     chíigang+V+NEGATIVE+NEAR+FUTURE: chíigangang ñasaa'ánggang
-     chíigang+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: chíigangang ñasaasdlä'áng
-     chíigang+V+NEGATIVE+VERYNEAR+FUTURE: chíigangang ñasaasdlä'ánggang
+     chíigang+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: chíigangang k̲asaa'áng
+     chíigang+V+NEGATIVE+NEAR+FUTURE: chíigangang k̲asaa'ánggang
+     chíigang+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: chíigangang k̲asaasdlä'áng
+     chíigang+V+NEGATIVE+VERYNEAR+FUTURE: chíigangang k̲asaasdlä'ánggang
      chíigang+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: chíigang'ang'uuj
      chíigang+V+NEGATIVE+BIASED+SIMPLE+PRESENT: chíigang'ang'uujang
      chíigang+V+NEGATIVE+RESIGNED_OBLIGATION: chíigang'angäsaa'uujang
@@ -154,10 +154,10 @@ Tests:
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: chíigang'ang'waaäsga
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: chíigang'ang'waaäsaas
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: chíigang'ang'waaäsaa.ang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: chíigang'waa.ang ñasaa'áng
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: chíigang'waa.ang ñasaa'ánggang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: chíigang'waa.ang ñasaasdlä'áng
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: chíigang'waa.ang ñasaasdlä'ánggang
+     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: chíigang'waa.ang k̲asaa'áng
+     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: chíigang'waa.ang k̲asaa'ánggang
+     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdlä'áng
+     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdlä'ánggang
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: chíigang'ang'waa'uuj
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: chíigang'ang'waa'uujang
      chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: chíigang'ang'waaäsaa'uujang

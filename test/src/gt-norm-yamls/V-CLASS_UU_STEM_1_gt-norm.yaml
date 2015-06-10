@@ -64,10 +64,10 @@ Tests:
      k'ajúu+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: k'ajúu'waaäsga
      k'ajúu+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: k'ajúu'waaäsaas
      k'ajúu+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: k'ajúu'waaäsaa.ang
-     k'ajúu+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: k'ajúu'waa.ang ñasa'áa
-     k'ajúu+V+3rd_PERSON_PLURAL+NEAR+FUTURE: k'ajúu'waa.ang ñasa'áang
-     k'ajúu+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: k'ajúu'waa.ang ñasaasdláa
-     k'ajúu+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: k'ajúu'waa.ang ñasaasdláang
+     k'ajúu+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: k'ajúu'waa.ang k̲asa'áa
+     k'ajúu+V+3rd_PERSON_PLURAL+NEAR+FUTURE: k'ajúu'waa.ang k̲asa'áang
+     k'ajúu+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: k'ajúu'waa.ang k̲asaasdláa
+     k'ajúu+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: k'ajúu'waa.ang k̲asaasdláang
      k'ajúu+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: k'ajúu'waa'uuj
      k'ajúu+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: k'ajúu'waa'uujang
      k'ajúu+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: k'ajúu'waaäsaa'uujang
@@ -148,10 +148,10 @@ Tests:
      k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: k'ajúu'ang'waaäsga
      k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: k'ajúu'ang'waaäsaas
      k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: k'ajúu'ang'waaäsaa.ang
-     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: k'ajúu'waa.ang ñasaa'áng
-     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: k'ajúu'waa.ang ñasaa'ánggang
-     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: k'ajúu'waa.ang ñasaasdlä'áng
-     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: k'ajúu'waa.ang ñasaasdlä'ánggang
+     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: k'ajúu'waa.ang k̲asaa'áng
+     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: k'ajúu'waa.ang k̲asaa'ánggang
+     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: k'ajúu'waa.ang k̲asaasdlä'áng
+     k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: k'ajúu'waa.ang k̲asaasdlä'ánggang
      k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: k'ajúu'ang'waa'uuj
      k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: k'ajúu'ang'waa'uujang
      k'ajúu+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: k'ajúu'ang'waaäsaa'uujang
