@@ -21,10 +21,10 @@ Tests:
      kúnid+V+DIRECT+PAST+HABITUAL: kúniidiinii
      kúnid+V+INTERROGATIVE+PAST+HABITUAL: kúniidaangaa
      kúnid+V+INDIRECT+PAST+HABITUAL: kúniidaangaan
-     kúnid+V+INTERROGATIVE+NEAR+FUTURE: kúniidang ñasa'áa
-     kúnid+V+NEAR+FUTURE: kúniidang ñasa'áang
-     kúnid+V+INTERROGATIVE+VERYNEAR+FUTURE: kúniidang ñasaasdláa
-     kúnid+V+VERYNEAR+FUTURE: kúniidang ñasaasdláang
+     kúnid+V+INTERROGATIVE+NEAR+FUTURE: kúniidang k̲asa'áa
+     kúnid+V+NEAR+FUTURE: kúniidang k̲asa'áang
+     kúnid+V+INTERROGATIVE+VERYNEAR+FUTURE: kúniidang k̲asaasdláa
+     kúnid+V+VERYNEAR+FUTURE: kúniidang k̲asaasdláang
      kúnid+V+CERTAIN+PRESENT: kúniid'ahlanggang
      kúnid+V+CERTAIN+PAST: kúniid'ahlanggan
      kúnid+V+CERTAIN+PAST+HABITUAL: kúniid'ahlanggiinii
@@ -38,10 +38,10 @@ Tests:
      kúnid+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'waa.ang
      kúnid+V+NEGATIVE+PRESENT+HABITUAL: kúniidang'anggang
      kúnid+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'angang
-     kúnid+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kúniidang ñasaa'áng
-     kúnid+V+NEGATIVE+NEAR+FUTURE: kúniidang ñasaa'ánggang
-     kúnid+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kúniidang ñasaasdlä'áng
-     kúnid+V+NEGATIVE+VERYNEAR+FUTURE: kúniidang ñasaasdlä'ánggang
+     kúnid+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kúniidang k̲asaa'áng
+     kúnid+V+NEGATIVE+NEAR+FUTURE: kúniidang k̲asaa'ánggang
+     kúnid+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kúniidang k̲asaasdlä'áng
+     kúnid+V+NEGATIVE+VERYNEAR+FUTURE: kúniidang k̲asaasdlä'ánggang
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kúniidang'ang'waa
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kúniidang'ang'waang
      kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'ang'waa.ang

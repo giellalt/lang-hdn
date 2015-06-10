@@ -9,40 +9,40 @@ Config:
 
 Tests:
 
-  Verb - sçalad - ENGLISH : # CLASS_AD_STEM_2
+  Verb - sg̲alad - ENGLISH : # CLASS_AD_STEM_2
 
-     sçalad+V+IMMEDIATE+PRESENT: sçalíida
-     sçalad+V+SIMPLE+PRESENT: sçalíidang
-     sçalad+V+DIRECT+PAST: sçalíidan
-     sçalad+V+NON_FACTIVE: sçalíidang
-     sçalad+V+INTERROGATIVE+PRESENT+HABITUAL: sçalíidang
-     sçalad+V+PRESENT+HABITUAL: sçalíidanggang
-     sçalad+V+PRESENT+HABITUAL+NON_FACTIVE: sçalíidangang
-     sçalad+V+DIRECT+PAST+HABITUAL: sçalíidiinii
-     sçalad+V+INTERROGATIVE+PAST+HABITUAL: sçalíidaangaa
-     sçalad+V+INDIRECT+PAST+HABITUAL: sçalíidaangaan
-     sçalad+V+INTERROGATIVE+NEAR+FUTURE: sçalíidang ñasa'áa
-     sçalad+V+NEAR+FUTURE: sçalíidang ñasa'áang
-     sçalad+V+INTERROGATIVE+VERYNEAR+FUTURE: sçalíidang ñasaasdláa
-     sçalad+V+VERYNEAR+FUTURE: sçalíidang ñasaasdláang
-     sçalad+V+CERTAIN+PRESENT: sçalíid'ahlanggang
-     sçalad+V+CERTAIN+PAST: sçalíid'ahlanggan
-     sçalad+V+CERTAIN+PAST+HABITUAL: sçalíid'ahlanggiinii
-     sçalad+V+CERTAIN+RELATIVE: sçalíid'ahlans
-     sçalad+V+INTENSIVE+PAST: sçalíidaa'ahlang
-     sçalad+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sçalíidaa'ahlanggaa
-     sçalad+V+COUNTERFACTUAL+PRESENT: sçalíidaa'ahlanggang
-     sçalad+V+REFLEXIVE: sçalíid'ahl
-     sçalad+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sçalíidang'waa
-     sçalad+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sçalíidang'waang
-     sçalad+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sçalíidang'waa.ang
-     sçalad+V+NEGATIVE+PRESENT+HABITUAL: sçalíidang'anggang
-     sçalad+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sçalíidang'angang
-     sçalad+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sçalíidang ñasaa'áng
-     sçalad+V+NEGATIVE+NEAR+FUTURE: sçalíidang ñasaa'ánggang
-     sçalad+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sçalíidang ñasaasdlä'áng
-     sçalad+V+NEGATIVE+VERYNEAR+FUTURE: sçalíidang ñasaasdlä'ánggang
-     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sçalíidang'ang'waa
-     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sçalíidang'ang'waang
-     sçalad+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sçalíidang'ang'waa.ang
+     sg̲alad+V+IMMEDIATE+PRESENT: sg̲alíida
+     sg̲alad+V+SIMPLE+PRESENT: sg̲alíidang
+     sg̲alad+V+DIRECT+PAST: sg̲alíidan
+     sg̲alad+V+NON_FACTIVE: sg̲alíidang
+     sg̲alad+V+INTERROGATIVE+PRESENT+HABITUAL: sg̲alíidang
+     sg̲alad+V+PRESENT+HABITUAL: sg̲alíidanggang
+     sg̲alad+V+PRESENT+HABITUAL+NON_FACTIVE: sg̲alíidangang
+     sg̲alad+V+DIRECT+PAST+HABITUAL: sg̲alíidiinii
+     sg̲alad+V+INTERROGATIVE+PAST+HABITUAL: sg̲alíidaangaa
+     sg̲alad+V+INDIRECT+PAST+HABITUAL: sg̲alíidaangaan
+     sg̲alad+V+INTERROGATIVE+NEAR+FUTURE: sg̲alíidang k̲asa'áa
+     sg̲alad+V+NEAR+FUTURE: sg̲alíidang k̲asa'áang
+     sg̲alad+V+INTERROGATIVE+VERYNEAR+FUTURE: sg̲alíidang k̲asaasdláa
+     sg̲alad+V+VERYNEAR+FUTURE: sg̲alíidang k̲asaasdláang
+     sg̲alad+V+CERTAIN+PRESENT: sg̲alíid'ahlanggang
+     sg̲alad+V+CERTAIN+PAST: sg̲alíid'ahlanggan
+     sg̲alad+V+CERTAIN+PAST+HABITUAL: sg̲alíid'ahlanggiinii
+     sg̲alad+V+CERTAIN+RELATIVE: sg̲alíid'ahlans
+     sg̲alad+V+INTENSIVE+PAST: sg̲alíidaa'ahlang
+     sg̲alad+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲alíidaa'ahlanggaa
+     sg̲alad+V+COUNTERFACTUAL+PRESENT: sg̲alíidaa'ahlanggang
+     sg̲alad+V+REFLEXIVE: sg̲alíid'ahl
+     sg̲alad+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sg̲alíidang'waa
+     sg̲alad+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sg̲alíidang'waang
+     sg̲alad+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sg̲alíidang'waa.ang
+     sg̲alad+V+NEGATIVE+PRESENT+HABITUAL: sg̲alíidang'anggang
+     sg̲alad+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sg̲alíidang'angang
+     sg̲alad+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sg̲alíidang k̲asaa'áng
+     sg̲alad+V+NEGATIVE+NEAR+FUTURE: sg̲alíidang k̲asaa'ánggang
+     sg̲alad+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sg̲alíidang k̲asaasdlä'áng
+     sg̲alad+V+NEGATIVE+VERYNEAR+FUTURE: sg̲alíidang k̲asaasdlä'ánggang
+     sg̲alad+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sg̲alíidang'ang'waa
+     sg̲alad+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sg̲alíidang'ang'waang
+     sg̲alad+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sg̲alíidang'ang'waa.ang
 

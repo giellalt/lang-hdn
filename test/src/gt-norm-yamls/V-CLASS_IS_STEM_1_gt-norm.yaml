@@ -49,10 +49,10 @@ Tests:
      kíl is+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kíl is'wáaäsga
      kíl is+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kíl is'wáaäsaas
      kíl is+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kíl is'wáaäsaa.ang
-     kíl is+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kíl is'wáa.ang ñasa'áa
-     kíl is+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kíl is'wáa.ang ñasa'áang
-     kíl is+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kíl is'wáa.ang ñasaasdláa
-     kíl is+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kíl is'wáa.ang ñasaasdláang
+     kíl is+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kíl is'wáa.ang k̲asa'áa
+     kíl is+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kíl is'wáa.ang k̲asa'áang
+     kíl is+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kíl is'wáa.ang k̲asaasdláa
+     kíl is+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kíl is'wáa.ang k̲asaasdláang
      kíl is+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kíl is'wáa'uuj
      kíl is+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kíl is'wáa'uujang
      kíl is+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kíl is'wáaäsaa'uujang
@@ -128,10 +128,10 @@ Tests:
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kíl is'áng'waaäsga
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kíl is'áng'waaäsaas
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kíl is'áng'waaäsaa.ang
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kíl is'wáa.ang ñasaa'áng
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kíl is'wáa.ang ñasaa'ánggang
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kíl is'wáa.ang ñasaasdlä'áng
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kíl is'wáa.ang ñasaasdlä'ánggang
+     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kíl is'wáa.ang k̲asaa'áng
+     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kíl is'wáa.ang k̲asaa'ánggang
+     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kíl is'wáa.ang k̲asaasdlä'áng
+     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kíl is'wáa.ang k̲asaasdlä'ánggang
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kíl is'áng'waa'uuj
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kíl is'áng'waa'uujang
      kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kíl is'áng'waaäsaa'uujang

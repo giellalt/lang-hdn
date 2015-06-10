@@ -34,10 +34,10 @@ Tests:
      náanee+V+IMMEDIATE+FUTURE: náaneeäsga
      náanee+V+RELATIVE+FUTURE: náaneeäsaas
      náanee+V+FUTURE+NON_FACTIVE: náaneeäsaa.ang
-     náanee+V+INTERROGATIVE+NEAR+FUTURE: náanee.ang ñasa'áa
-     náanee+V+NEAR+FUTURE: náanee.ang ñasa'áang
-     náanee+V+INTERROGATIVE+VERYNEAR+FUTURE: náanee.ang ñasaasdláa
-     náanee+V+VERYNEAR+FUTURE: náanee.ang ñasaasdláang
+     náanee+V+INTERROGATIVE+NEAR+FUTURE: náanee.ang k̲asa'áa
+     náanee+V+NEAR+FUTURE: náanee.ang k̲asa'áang
+     náanee+V+INTERROGATIVE+VERYNEAR+FUTURE: náanee.ang k̲asaasdláa
+     náanee+V+VERYNEAR+FUTURE: náanee.ang k̲asaasdláang
      náanee+V+BIASED+IMMEDIATE+PRESENT: náanee'uuj
      náanee+V+BIASED+SIMPLE+PRESENT: náanee'uujang
      náanee+V+RESIGNED_OBLIGATION: náaneeäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      náanee+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: náanee'waaäsga
      náanee+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: náanee'waaäsaas
      náanee+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: náanee'waaäsaa.ang
-     náanee+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: náanee'waa.ang ñasa'áa
-     náanee+V+3rd_PERSON_PLURAL+NEAR+FUTURE: náanee'waa.ang ñasa'áang
-     náanee+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: náanee'waa.ang ñasaasdláa
-     náanee+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: náanee'waa.ang ñasaasdláang
+     náanee+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: náanee'waa.ang k̲asa'áa
+     náanee+V+3rd_PERSON_PLURAL+NEAR+FUTURE: náanee'waa.ang k̲asa'áang
+     náanee+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: náanee'waa.ang k̲asaasdláa
+     náanee+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: náanee'waa.ang k̲asaasdláang
      náanee+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: náanee'waa'uuj
      náanee+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: náanee'waa'uujang
      náanee+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: náanee'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      náanee+V+NEGATIVE+IMMEDIATE+FUTURE: náanee'angäsga
      náanee+V+NEGATIVE+RELATIVE+FUTURE: náanee'angäsaas
      náanee+V+NEGATIVE+FUTURE+NON_FACTIVE: náanee'angäsaa.ang
-     náanee+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: náanee.ang ñasaa'áng
-     náanee+V+NEGATIVE+NEAR+FUTURE: náanee.ang ñasaa'ánggang
-     náanee+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: náanee.ang ñasaasdlä'áng
-     náanee+V+NEGATIVE+VERYNEAR+FUTURE: náanee.ang ñasaasdlä'ánggang
+     náanee+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: náanee.ang k̲asaa'áng
+     náanee+V+NEGATIVE+NEAR+FUTURE: náanee.ang k̲asaa'ánggang
+     náanee+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: náanee.ang k̲asaasdlä'áng
+     náanee+V+NEGATIVE+VERYNEAR+FUTURE: náanee.ang k̲asaasdlä'ánggang
      náanee+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: náanee'ang'uuj
      náanee+V+NEGATIVE+BIASED+SIMPLE+PRESENT: náanee'ang'uujang
      náanee+V+NEGATIVE+RESIGNED_OBLIGATION: náanee'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: náanee'ang'waaäsga
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: náanee'ang'waaäsaas
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: náanee'ang'waaäsaa.ang
-     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: náanee'waa.ang ñasaa'áng
-     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: náanee'waa.ang ñasaa'ánggang
-     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: náanee'waa.ang ñasaasdlä'áng
-     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: náanee'waa.ang ñasaasdlä'ánggang
+     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: náanee'waa.ang k̲asaa'áng
+     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: náanee'waa.ang k̲asaa'ánggang
+     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: náanee'waa.ang k̲asaasdlä'áng
+     náanee+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: náanee'waa.ang k̲asaasdlä'ánggang
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: náanee'ang'waa'uuj
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: náanee'ang'waa'uujang
      náanee+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: náanee'ang'waaäsaa'uujang

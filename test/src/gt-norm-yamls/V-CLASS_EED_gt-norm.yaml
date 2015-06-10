@@ -34,10 +34,10 @@ Tests:
      gayéed+V+IMMEDIATE+FUTURE: gayéedäsga
      gayéed+V+RELATIVE+FUTURE: gayéedäsaas
      gayéed+V+FUTURE+NON_FACTIVE: gayéedäsaa.ang
-     gayéed+V+INTERROGATIVE+NEAR+FUTURE: gayéedang ñasa'áa
-     gayéed+V+NEAR+FUTURE: gayéedang ñasa'áang
-     gayéed+V+INTERROGATIVE+VERYNEAR+FUTURE: gayéedang ñasaasdláa
-     gayéed+V+VERYNEAR+FUTURE: gayéedang ñasaasdláang
+     gayéed+V+INTERROGATIVE+NEAR+FUTURE: gayéedang k̲asa'áa
+     gayéed+V+NEAR+FUTURE: gayéedang k̲asa'áang
+     gayéed+V+INTERROGATIVE+VERYNEAR+FUTURE: gayéedang k̲asaasdláa
+     gayéed+V+VERYNEAR+FUTURE: gayéedang k̲asaasdláang
      gayéed+V+BIASED+IMMEDIATE+PRESENT: gayéed'uuj
      gayéed+V+BIASED+SIMPLE+PRESENT: gayéed'uujang
      gayéed+V+RESIGNED_OBLIGATION: gayéedäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      gayéed+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gayéed'waaäsga
      gayéed+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gayéed'waaäsaas
      gayéed+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gayéed'waaäsaa.ang
-     gayéed+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gayéed'waa.ang ñasa'áa
-     gayéed+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gayéed'waa.ang ñasa'áang
-     gayéed+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gayéed'waa.ang ñasaasdláa
-     gayéed+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gayéed'waa.ang ñasaasdláang
+     gayéed+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gayéed'waa.ang k̲asa'áa
+     gayéed+V+3rd_PERSON_PLURAL+NEAR+FUTURE: gayéed'waa.ang k̲asa'áang
+     gayéed+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gayéed'waa.ang k̲asaasdláa
+     gayéed+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gayéed'waa.ang k̲asaasdláang
      gayéed+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gayéed'waa'uuj
      gayéed+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gayéed'waa'uujang
      gayéed+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gayéed'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      gayéed+V+NEGATIVE+IMMEDIATE+FUTURE: gayéed'angäsga
      gayéed+V+NEGATIVE+RELATIVE+FUTURE: gayéed'angäsaas
      gayéed+V+NEGATIVE+FUTURE+NON_FACTIVE: gayéed'angäsaa.ang
-     gayéed+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gayéedang ñasaa'áng
-     gayéed+V+NEGATIVE+NEAR+FUTURE: gayéedang ñasaa'ánggang
-     gayéed+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gayéedang ñasaasdlä'áng
-     gayéed+V+NEGATIVE+VERYNEAR+FUTURE: gayéedang ñasaasdlä'ánggang
+     gayéed+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: gayéedang k̲asaa'áng
+     gayéed+V+NEGATIVE+NEAR+FUTURE: gayéedang k̲asaa'ánggang
+     gayéed+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: gayéedang k̲asaasdlä'áng
+     gayéed+V+NEGATIVE+VERYNEAR+FUTURE: gayéedang k̲asaasdlä'ánggang
      gayéed+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: gayéed'ang'uuj
      gayéed+V+NEGATIVE+BIASED+SIMPLE+PRESENT: gayéed'ang'uujang
      gayéed+V+NEGATIVE+RESIGNED_OBLIGATION: gayéed'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: gayéed'ang'waaäsga
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: gayéed'ang'waaäsaas
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: gayéed'ang'waaäsaa.ang
-     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gayéed'waa.ang ñasaa'áng
-     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gayéed'waa.ang ñasaa'ánggang
-     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gayéed'waa.ang ñasaasdlä'áng
-     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gayéed'waa.ang ñasaasdlä'ánggang
+     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: gayéed'waa.ang k̲asaa'áng
+     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: gayéed'waa.ang k̲asaa'ánggang
+     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: gayéed'waa.ang k̲asaasdlä'áng
+     gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: gayéed'waa.ang k̲asaasdlä'ánggang
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: gayéed'ang'waa'uuj
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: gayéed'ang'waa'uujang
      gayéed+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: gayéed'ang'waaäsaa'uujang
