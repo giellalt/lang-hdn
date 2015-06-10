@@ -540,7 +540,7 @@ chíigandiya:chíigandiyä CLASS-A-STEM-2 "for S to habitually wet the bed" ;
 chíigandiya:chíigandiyáa CLASS-A-STEM-3 "for S to habitually wet the bed" ;
 
 chíigang CLASS-ANG-STEM-1 "for S to urinate, pee (in direction)" ;
-chíigang:chíigáang CLASS-ANG-STEM-2 "for S to urinate, pee (in direction)" ;
+chíigang:chíigaang CLASS-ANG-STEM-2 "for S to urinate, pee (in direction)" ;
 
 chíigang% gudä% t'aayda CLASS-A-STEM-1 "for S to dance around while waiting to urinate" ;
 chíigang% gudä% t'aayda:chíigang% gudä% t'aaydä CLASS-A-STEM-2 "for S to dance around while waiting to urinate" ;
@@ -1187,8 +1187,8 @@ dámïyaaw CLASS-AAW "for S to hang up C (sg) {dám} (in direction)" ;
 dándalaa CLASS-AA "for S to have been pulled up, pulled in [said of a line or net]" ;
 
 dándas:dándas CLASS-AS-STEM-1 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
-dándas:dándíij CLASS-AS-STEM-2 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
-dándas:dándáj CLASS-AS-STEM-3 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
+dándas:dándiij CLASS-AS-STEM-2 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
+dándas:dándaj CLASS-AS-STEM-3 "for S to pull C (pl) apart, split C (p) open by pulling on them" ;
 
 dándiisga CLASS-A-STEM-1 "for S (pl) to hook X with a gaffhook, to hook X with a hook and line" ;
 dándiisga:dándiisgä CLASS-A-STEM-2 "for S (pl) to hook X with a gaffhook, to hook X with a hook and line" ;
@@ -17249,7 +17249,7 @@ k̲'íiwii:k̲'íiwáay CLASS-II-STEM-2 "for S (sg) {k̲'íi} to fall through th
 
 k̲íiya CLASS-A-STEM-1 "for S to find, discover O (sg)" ;
 k̲íiya:k̲íiyä CLASS-A-STEM-2 "for S to find, discover O (sg)" ;
-k̲íiya:k̲íiyáa CLASS-A-STEM-3 "for S to find, discover O (sg)" ;
+k̲íiya:k̲íiyaa CLASS-A-STEM-3 "for S to find, discover O (sg)" ;
 
 k̲'íiya CLASS-A-STEM-1 "for S to be stuck, unable to leave [said of a person, body part, boat or piece of furniture]" ;
 k̲'íiya:k̲'íiyä CLASS-A-STEM-2 "for S to be stuck, unable to leave [said of a person, body part, boat or piece of furniture]" ;
@@ -27025,8 +27025,8 @@ xál% k̲'áak'ulee%.eehl:xál% k̲'áak'ulee%.éel CLASS-EEHL-STEM-2 "for S to 
 
 xál% k̲áat'e%.ehl CLASS-E.EHL-STEM-1 "for S to boil over [said of the contents of a pot]" ;
 xál% k̲áat'e%.ehl:xál% k̲áat'eehl CLASS-E.EHL-STEM-2 "for S to boil over [said of the contents of a pot]" ;
-xál% k̲áat'e%.ehl:xál% k̲áat'e%.éel CLASS-E.EHL-STEM-3 "for S to boil over [said of the contents of a pot]" ;
-!xál% k̲áat'e%.ehl:xál% k̲áat'e%.éel CLASS-E.EHL-STEM-4 "for S to boil over [said of the contents of a pot]" ;
+xál% k̲áat'e%.ehl:xál% k̲áat'e%.eel CLASS-E.EHL-STEM-3 "for S to boil over [said of the contents of a pot]" ;
+!xál% k̲áat'e%.ehl:xál% k̲áat'e%.eel CLASS-E.EHL-STEM-4 "for S to boil over [said of the contents of a pot]" ;
 
 xál% k̲'álud CLASS-UD-STEM-1 "for S to get moldy from the heat" ;
 xál% k̲'álud:xál% k̲'álwíid CLASS-UD-STEM-2 "for S to get moldy from the heat" ;
