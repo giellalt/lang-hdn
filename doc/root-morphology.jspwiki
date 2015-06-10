@@ -7,13 +7,14 @@ This file shows the Haida multichar symbols and initial lexica.
 !!Analysis symbols
 ----------------
 The morphological analyses of wordforms of Northern Haida are presented
-in this system in terms of following symbols.
+in this system in terms of the following symbols.
 
 (It is highly suggested to follow existing standards when adding new tags).
 
 
 Haida has these tags for real, says Jordan.
  * +V	 =
+ * +N	     =
  * +NEGATIVE	 =
  * +3rd_PERSON_PLURAL	 =
  * +INTERROGATIVE	 =
@@ -43,9 +44,23 @@ Haida has these tags for real, says Jordan.
  * +SINGULAR	 =
  * +PLURAL	 =
 
+
+The pre-verb classifiers
+
+ *  CL/Shape+  = 
+ *  CL/Manner+  = 
+ *  CL/Human+  = 
+ *  CL/Descriptive+  = 
+ *  CL/Sound+  = 
+ *  CL/Color+  = 
+
+
+
+
+
+
 The parts-of-speech could perhaps also be (remove irrelevant):
 
- * +N	     =
  * +A	     =
  * +Adv     =
  * +Pron    =
