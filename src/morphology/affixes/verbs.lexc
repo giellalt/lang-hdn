@@ -1104,7 +1104,7 @@ LEXICON CLASS-AH !!= @CODE@
 +V+BIASED+INTERROGATIVE+FUTURE:%>äsáa'us # ;
 +V+CERTAIN+PRESENT:%>'ahlánggang # ;
 +V+CERTAIN+PAST:%>'ahlánggan # ;
-+V+CERTAIN+PAST+HABITUAL:%>'ahlánggíinii # ;
++V+CERTAIN+PAST+HABITUAL:%>'ahlánggiinii # ;
 +V+CERTAIN+FUTURE:%>äsáa'ahlans # ;
 +V+CERTAIN+RELATIVE:%>'ahláns # ;
 +V+INTENSIVE+PAST:%>gáa'ahlang # ;
@@ -5478,7 +5478,7 @@ LEXICON CLASS-A-STEM-3 !!= @CODE@
 ! :áal CLASS-AHL-STEM-3 ;
 
 
-LEXICON CLASS-AHL-STEM-1 !!= @CODE@
+LEXICON CLASS-AHL-STEM !!= @CODE@
 +V+SINGULAR+IMPERATIVE:%> # ;
 +V+INTERROGATIVE+SIMPLE+PRESENT:%> # ;
 +V+RELATIVE:%>s # ;
@@ -5646,19 +5646,18 @@ LEXICON CLASS-AHL-STEM-2 !!= @CODE@
 +V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL:%>gáng'ang'waang # ;
 +V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE:%>gáng'ang'waa%.ang # ;
 
-LEXICON CLASS-AHL-STEM-3 !!= @CODE@
-+V+INTERROGATIVE+PAST:%>áa # ;
-+V+INDIRECT+PAST:%>áan # ;
-+V+RELATIVE+EVIDENTIAL:%>áas # ;
-+V+PAST+NON_FACTIVE:%>áa%.ang # ;
-+V+CERTAIN+PRESENT:%>'ahlánggang # ;
-+V+CERTAIN+PAST:%>'ahlánggan # ;
-+V+CERTAIN+PAST+HABITUAL:%>'ahlánggíinii # ;
-+V+CERTAIN+RELATIVE:%>'ahláns # ;
-+V+INTENSIVE+PAST:%>áa'ahlang # ;
-+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE:%>áa'ahlanggaa # ;
-+V+COUNTERFACTUAL+PRESENT:%>áa'ahlanggang # ;
-+V+REFLEXIVE:%>'ahl # ;
++V+INTERROGATIVE+PAST:%>%^ENDCáa # ;
++V+INDIRECT+PAST:%>%^ENDCáan # ;
++V+RELATIVE+EVIDENTIAL:%>%^ENDCáas # ;
++V+PAST+NON_FACTIVE:%>%^ENDCáa%.ang # ;
++V+CERTAIN+PRESENT:%>%^ENDC'ahlánggang # ;
++V+CERTAIN+PAST:%>%^ENDC'ahlánggan # ;
++V+CERTAIN+PAST+HABITUAL:%>%^ENDC'ahlánggíinii # ;
++V+CERTAIN+RELATIVE:%>%^ENDC'ahláns # ;
++V+INTENSIVE+PAST:%>%^ENDCáa'ahlang # ;
++V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE:%>%^ENDCáa'ahlanggaa # ;
++V+COUNTERFACTUAL+PRESENT:%>%^ENDCáa'ahlanggang # ;
++V+REFLEXIVE:%>%^ENDC'ahl # ;
 
 !LEXICON CLASS-AS-STEM
 ! :as CLASS-AS-STEM-1 ;
