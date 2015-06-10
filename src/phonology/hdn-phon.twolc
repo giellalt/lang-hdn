@@ -12,6 +12,15 @@ Alphabet
 
  %>:0 	!!= * @CODE@ affix boundary
  %^WS:0    !!= * @CODE@ white space dummy
+ %^ENDA:0
+ %^ENDB:0
+ %^ENDC:0
+ %^ENDD:0
+ %^ENDE:0
+ %^ENDF:0
+ %^ENDG:0
+ %^ENDH:0
+
 ;
 
 !! !!Sets
@@ -22,7 +31,9 @@ Sets
        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; !!= @CODE@
  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ç ý ñ ; !!= * @CODE@
  Orth = . ;
- Sgm = Vow Cns Orth ; !!= * @CODE@
+ Endings =  %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;
+ Sgm = Vow Cns Orth  ; !!= * @CODE@
+
  
 Definitions 
 
@@ -39,11 +50,19 @@ Rules
 
 "h deletion in hl stems before long a, g"
 ! rulename
- h:0 <=> \:e _ l %>: [ :á | :a ] :a; ! as in CLASS-AAHL-STEM
-         \:e _ l %>:   :g;           ! as in CLASS-AAHL-STEM
+ h:0 <=> \:e _ l %>: [%^ENDB: | %^ENDC: ] ! áljahl:áljal
+
+
 ! Please check the \:e restriction after CLASS-E.EHL-STEM has been merged in the
 ! same way as CLASS-AAHL-STEM - it might be that it isn't required - only now
 ! because of the multiple E.E stem entries.
+
+"al to aal at the end of al" 
+!! __@RULENAME@__ al changes to aal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
+0:a <=> _ a h:0 l  %>: %^ENDC: [' | :á | :a ]  ; áljahl:áljaal
+
+
+
 
 !"w to u in gwaal"
 ! rulename
@@ -66,7 +85,7 @@ Rules
 
 "Destressing rule"
 !! __@RULENAME@__ - a general rule
-Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:* ( %>: ) Sgm:* ( %>: ) _  ;
+Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] ?*  %>:  (Endings:) Sgm:* _  ;
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )
  	      matched ;
