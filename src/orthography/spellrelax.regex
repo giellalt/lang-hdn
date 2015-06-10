@@ -17,15 +17,21 @@
 ' (->) q , # apostroph
 ' (->) ’ , # right single quot
 ' (->) ʼ , # letter apostroph
+
 ñ (->) k , # no line below, or fontstyle underline
 ç (->) g , # no line below, or fontstyle underline
 ý (->) x , # no line below, or fontstyle underline
+
 ñ (->) ḵ , # 0331 macron below
 ç (->) g̱ , # 0331 macron below
 ý (->) x̱ , # 0331 macron below
+
 ñ (->) k̲ , # 0332 low line below
 ç (->) g̲ , # 0332 low line below
 ý (->) x̲ , # 0332 low line below
+
+ñ (->) ḵ , # 1E35 small letter k with line below
+
 ä (->) a ,
 ï (->) i
 ;
