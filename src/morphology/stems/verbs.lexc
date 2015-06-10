@@ -4,7 +4,20 @@
 ! by C:\Users\Jordan\Desktop\Haida Projects\Haida FST\LEXC Generator\gen_haida_lexc.pl
 ! from .//haida_rhymes%.dat and .//verb-index-4.sf
 
+
+LEXICON Classifier_Verbstems  !!= @CODE@
+
+gáng CLASS-ANG-STEM-1 "for S to carry O (CL)" ;
+gáng:gáang CLASS-ANG-STEM-2 "for S to carry O (CL)" ;
+
+dáal CLASS-AAL "for S (CL) to move slowly" ;
+
+
+
 LEXICON Verbs !!= @CODE@
+
+CL/Color+dám+dalä:dám«dalä CLASS-A-STEM-2 "for S to be transparent, translucent in color" ;
+CL/Color+dám+dalä:dám«dalaa CLASS-A-STEM-3 "for S to be transparent, translucent in color" ;
 
 aada CLASS-A-STEM-1 "for S to fish with a net, to seine" ;
 aada:aadä CLASS-A-STEM-2 "for S to fish with a net, to seine" ;
