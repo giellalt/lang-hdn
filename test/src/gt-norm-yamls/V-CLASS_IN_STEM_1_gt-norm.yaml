@@ -30,10 +30,10 @@ Tests:
      kyáambda ín+V+IMMEDIATE+FUTURE: kyáambda ínäsga
      kyáambda ín+V+RELATIVE+FUTURE: kyáambda ínäsaas
      kyáambda ín+V+FUTURE+NON_FACTIVE: kyáambda ínäsaa.ang
-     kyáambda ín+V+INTERROGATIVE+NEAR+FUTURE: kyáambda ínang ñasa'áa
-     kyáambda ín+V+NEAR+FUTURE: kyáambda ínang ñasa'áang
-     kyáambda ín+V+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ínang ñasaasdláa
-     kyáambda ín+V+VERYNEAR+FUTURE: kyáambda ínang ñasaasdláang
+     kyáambda ín+V+INTERROGATIVE+NEAR+FUTURE: kyáambda ínang k̲asa'áa
+     kyáambda ín+V+NEAR+FUTURE: kyáambda ínang k̲asa'áang
+     kyáambda ín+V+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ínang k̲asaasdláa
+     kyáambda ín+V+VERYNEAR+FUTURE: kyáambda ínang k̲asaasdláang
      kyáambda ín+V+BIASED+IMMEDIATE+PRESENT: kyáambda ín'uuj
      kyáambda ín+V+BIASED+SIMPLE+PRESENT: kyáambda ín'uujang
      kyáambda ín+V+RESIGNED_OBLIGATION: kyáambda ínäsaa'uujang
@@ -66,10 +66,10 @@ Tests:
      kyáambda ín+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kyáambda ín'waaäsga
      kyáambda ín+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kyáambda ín'waaäsaas
      kyáambda ín+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kyáambda ín'waaäsaa.ang
-     kyáambda ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kyáambda ín'waa.ang ñasa'áa
-     kyáambda ín+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kyáambda ín'waa.ang ñasa'áang
-     kyáambda ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdláa
-     kyáambda ín+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdláang
+     kyáambda ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kyáambda ín'waa.ang k̲asa'áa
+     kyáambda ín+V+3rd_PERSON_PLURAL+NEAR+FUTURE: kyáambda ín'waa.ang k̲asa'áang
+     kyáambda ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ín'waa.ang k̲asaasdláa
+     kyáambda ín+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kyáambda ín'waa.ang k̲asaasdláang
      kyáambda ín+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kyáambda ín'waa'uuj
      kyáambda ín+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kyáambda ín'waa'uujang
      kyáambda ín+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kyáambda ín'waaäsaa'uujang
@@ -110,10 +110,10 @@ Tests:
      kyáambda ín+V+NEGATIVE+IMMEDIATE+FUTURE: kyáambda ín'angäsga
      kyáambda ín+V+NEGATIVE+RELATIVE+FUTURE: kyáambda ín'angäsaas
      kyáambda ín+V+NEGATIVE+FUTURE+NON_FACTIVE: kyáambda ín'angäsaa.ang
-     kyáambda ín+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kyáambda ínang ñasaa'áng
-     kyáambda ín+V+NEGATIVE+NEAR+FUTURE: kyáambda ínang ñasaa'ánggang
-     kyáambda ín+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ínang ñasaasdlä'áng
-     kyáambda ín+V+NEGATIVE+VERYNEAR+FUTURE: kyáambda ínang ñasaasdlä'ánggang
+     kyáambda ín+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kyáambda ínang k̲asaa'áng
+     kyáambda ín+V+NEGATIVE+NEAR+FUTURE: kyáambda ínang k̲asaa'ánggang
+     kyáambda ín+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ínang k̲asaasdlä'áng
+     kyáambda ín+V+NEGATIVE+VERYNEAR+FUTURE: kyáambda ínang k̲asaasdlä'ánggang
      kyáambda ín+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: kyáambda ín'ang'uuj
      kyáambda ín+V+NEGATIVE+BIASED+SIMPLE+PRESENT: kyáambda ín'ang'uujang
      kyáambda ín+V+NEGATIVE+RESIGNED_OBLIGATION: kyáambda ín'angäsaa'uujang
@@ -154,10 +154,10 @@ Tests:
      kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: kyáambda ín'ang'waaäsga
      kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: kyáambda ín'ang'waaäsaas
      kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: kyáambda ín'ang'waaäsaa.ang
-     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kyáambda ín'waa.ang ñasaa'áng
-     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kyáambda ín'waa.ang ñasaa'ánggang
-     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdlä'áng
-     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kyáambda ín'waa.ang ñasaasdlä'ánggang
+     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: kyáambda ín'waa.ang k̲asaa'áng
+     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: kyáambda ín'waa.ang k̲asaa'ánggang
+     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: kyáambda ín'waa.ang k̲asaasdlä'áng
+     kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: kyáambda ín'waa.ang k̲asaasdlä'ánggang
      kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: kyáambda ín'ang'waa'uuj
      kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: kyáambda ín'ang'waa'uujang
      kyáambda ín+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: kyáambda ín'ang'waaäsaa'uujang

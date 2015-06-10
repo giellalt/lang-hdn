@@ -34,10 +34,10 @@ Tests:
      jadahlgwáay+V+IMMEDIATE+FUTURE: jadahlgwáayäsga
      jadahlgwáay+V+RELATIVE+FUTURE: jadahlgwáayäsaas
      jadahlgwáay+V+FUTURE+NON_FACTIVE: jadahlgwáayäsaa.ang
-     jadahlgwáay+V+INTERROGATIVE+NEAR+FUTURE: jadahlgwáayang ñasa'áa
-     jadahlgwáay+V+NEAR+FUTURE: jadahlgwáayang ñasa'áang
-     jadahlgwáay+V+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáayang ñasaasdláa
-     jadahlgwáay+V+VERYNEAR+FUTURE: jadahlgwáayang ñasaasdláang
+     jadahlgwáay+V+INTERROGATIVE+NEAR+FUTURE: jadahlgwáayang k̲asa'áa
+     jadahlgwáay+V+NEAR+FUTURE: jadahlgwáayang k̲asa'áang
+     jadahlgwáay+V+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdláa
+     jadahlgwáay+V+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdláang
      jadahlgwáay+V+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'uuj
      jadahlgwáay+V+BIASED+SIMPLE+PRESENT: jadahlgwáay'uujang
      jadahlgwáay+V+RESIGNED_OBLIGATION: jadahlgwáayäsaa'uujang
@@ -78,10 +78,10 @@ Tests:
      jadahlgwáay+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: jadahlgwáay'waaäsga
      jadahlgwáay+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: jadahlgwáay'waaäsaas
      jadahlgwáay+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: jadahlgwáay'waaäsaa.ang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: jadahlgwáay'waa.ang ñasa'áa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+NEAR+FUTURE: jadahlgwáay'waa.ang ñasa'áang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáay'waa.ang ñasaasdláa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: jadahlgwáay'waa.ang ñasaasdláang
+     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asa'áa
+     jadahlgwáay+V+3rd_PERSON_PLURAL+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asa'áang
+     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdláa
+     jadahlgwáay+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdláang
      jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'waa'uuj
      jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: jadahlgwáay'waa'uujang
      jadahlgwáay+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: jadahlgwáay'waaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      jadahlgwáay+V+NEGATIVE+IMMEDIATE+FUTURE: jadahlgwáay'angäsga
      jadahlgwáay+V+NEGATIVE+RELATIVE+FUTURE: jadahlgwáay'angäsaas
      jadahlgwáay+V+NEGATIVE+FUTURE+NON_FACTIVE: jadahlgwáay'angäsaa.ang
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: jadahlgwáayang ñasaa'áng
-     jadahlgwáay+V+NEGATIVE+NEAR+FUTURE: jadahlgwáayang ñasaa'ánggang
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáayang ñasaasdlä'áng
-     jadahlgwáay+V+NEGATIVE+VERYNEAR+FUTURE: jadahlgwáayang ñasaasdlä'ánggang
+     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: jadahlgwáayang k̲asaa'áng
+     jadahlgwáay+V+NEGATIVE+NEAR+FUTURE: jadahlgwáayang k̲asaa'ánggang
+     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdlä'áng
+     jadahlgwáay+V+NEGATIVE+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdlä'ánggang
      jadahlgwáay+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'ang'uuj
      jadahlgwáay+V+NEGATIVE+BIASED+SIMPLE+PRESENT: jadahlgwáay'ang'uujang
      jadahlgwáay+V+NEGATIVE+RESIGNED_OBLIGATION: jadahlgwáay'angäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: jadahlgwáay'ang'waaäsga
      jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: jadahlgwáay'ang'waaäsaas
      jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: jadahlgwáay'ang'waaäsaa.ang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: jadahlgwáay'waa.ang ñasaa'áng
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: jadahlgwáay'waa.ang ñasaa'ánggang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáay'waa.ang ñasaasdlä'áng
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: jadahlgwáay'waa.ang ñasaasdlä'ánggang
+     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asaa'áng
+     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asaa'ánggang
+     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdlä'áng
+     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdlä'ánggang
      jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'ang'waa'uuj
      jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: jadahlgwáay'ang'waa'uujang
      jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: jadahlgwáay'ang'waaäsaa'uujang

@@ -30,10 +30,10 @@ Tests:
      ta kún+V+IMMEDIATE+FUTURE: ta kúnäsga
      ta kún+V+RELATIVE+FUTURE: ta kúnäsaas
      ta kún+V+FUTURE+NON_FACTIVE: ta kúnäsaa.ang
-     ta kún+V+INTERROGATIVE+NEAR+FUTURE: ta kúnang ñasa'áa
-     ta kún+V+NEAR+FUTURE: ta kúnang ñasa'áang
-     ta kún+V+INTERROGATIVE+VERYNEAR+FUTURE: ta kúnang ñasaasdláa
-     ta kún+V+VERYNEAR+FUTURE: ta kúnang ñasaasdláang
+     ta kún+V+INTERROGATIVE+NEAR+FUTURE: ta kúnang k̲asa'áa
+     ta kún+V+NEAR+FUTURE: ta kúnang k̲asa'áang
+     ta kún+V+INTERROGATIVE+VERYNEAR+FUTURE: ta kúnang k̲asaasdláa
+     ta kún+V+VERYNEAR+FUTURE: ta kúnang k̲asaasdláang
      ta kún+V+BIASED+IMMEDIATE+PRESENT: ta kún'uuj
      ta kún+V+BIASED+SIMPLE+PRESENT: ta kún'uujang
      ta kún+V+RESIGNED_OBLIGATION: ta kúnäsaa'uujang
@@ -66,10 +66,10 @@ Tests:
      ta kún+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: ta kún'waaäsga
      ta kún+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: ta kún'waaäsaas
      ta kún+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: ta kún'waaäsaa.ang
-     ta kún+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ta kún'waa.ang ñasa'áa
-     ta kún+V+3rd_PERSON_PLURAL+NEAR+FUTURE: ta kún'waa.ang ñasa'áang
-     ta kún+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ta kún'waa.ang ñasaasdláa
-     ta kún+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ta kún'waa.ang ñasaasdláang
+     ta kún+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ta kún'waa.ang k̲asa'áa
+     ta kún+V+3rd_PERSON_PLURAL+NEAR+FUTURE: ta kún'waa.ang k̲asa'áang
+     ta kún+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ta kún'waa.ang k̲asaasdláa
+     ta kún+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ta kún'waa.ang k̲asaasdláang
      ta kún+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: ta kún'waa'uuj
      ta kún+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: ta kún'waa'uujang
      ta kún+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: ta kún'waaäsaa'uujang
@@ -110,10 +110,10 @@ Tests:
      ta kún+V+NEGATIVE+IMMEDIATE+FUTURE: ta kún'angäsga
      ta kún+V+NEGATIVE+RELATIVE+FUTURE: ta kún'angäsaas
      ta kún+V+NEGATIVE+FUTURE+NON_FACTIVE: ta kún'angäsaa.ang
-     ta kún+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: ta kúnang ñasaa'áng
-     ta kún+V+NEGATIVE+NEAR+FUTURE: ta kúnang ñasaa'ánggang
-     ta kún+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ta kúnang ñasaasdlä'áng
-     ta kún+V+NEGATIVE+VERYNEAR+FUTURE: ta kúnang ñasaasdlä'ánggang
+     ta kún+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: ta kúnang k̲asaa'áng
+     ta kún+V+NEGATIVE+NEAR+FUTURE: ta kúnang k̲asaa'ánggang
+     ta kún+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ta kúnang k̲asaasdlä'áng
+     ta kún+V+NEGATIVE+VERYNEAR+FUTURE: ta kúnang k̲asaasdlä'ánggang
      ta kún+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: ta kún'ang'uuj
      ta kún+V+NEGATIVE+BIASED+SIMPLE+PRESENT: ta kún'ang'uujang
      ta kún+V+NEGATIVE+RESIGNED_OBLIGATION: ta kún'angäsaa'uujang
@@ -154,10 +154,10 @@ Tests:
      ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: ta kún'ang'waaäsga
      ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: ta kún'ang'waaäsaas
      ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: ta kún'ang'waaäsaa.ang
-     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ta kún'waa.ang ñasaa'áng
-     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: ta kún'waa.ang ñasaa'ánggang
-     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ta kún'waa.ang ñasaasdlä'áng
-     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ta kún'waa.ang ñasaasdlä'ánggang
+     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: ta kún'waa.ang k̲asaa'áng
+     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: ta kún'waa.ang k̲asaa'ánggang
+     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: ta kún'waa.ang k̲asaasdlä'áng
+     ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: ta kún'waa.ang k̲asaasdlä'ánggang
      ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: ta kún'ang'waa'uuj
      ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: ta kún'ang'waa'uujang
      ta kún+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: ta kún'ang'waaäsaa'uujang

@@ -34,10 +34,10 @@ Tests:
      st'i+V+IMMEDIATE+FUTURE: st'iäsga
      st'i+V+RELATIVE+FUTURE: st'iäsáas
      st'i+V+FUTURE+NON_FACTIVE: st'iäsáa.ang
-     st'i+V+INTERROGATIVE+NEAR+FUTURE: st'iáng ñasa'áa
-     st'i+V+NEAR+FUTURE: st'iáng ñasa'áang
-     st'i+V+INTERROGATIVE+VERYNEAR+FUTURE: st'iáng ñasaasdláa
-     st'i+V+VERYNEAR+FUTURE: st'iáng ñasaasdláang
+     st'i+V+INTERROGATIVE+NEAR+FUTURE: st'iáng k̲asa'áa
+     st'i+V+NEAR+FUTURE: st'iáng k̲asa'áang
+     st'i+V+INTERROGATIVE+VERYNEAR+FUTURE: st'iáng k̲asaasdláa
+     st'i+V+VERYNEAR+FUTURE: st'iáng k̲asaasdláang
      st'i+V+BIASED+IMMEDIATE+PRESENT: st'i'úuj
      st'i+V+BIASED+SIMPLE+PRESENT: st'i'úujang
      st'i+V+RESIGNED_OBLIGATION: st'iäsáa'uujang
@@ -78,10 +78,10 @@ Tests:
      st'i+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: st'i'wáaäsga
      st'i+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: st'i'wáaäsaas
      st'i+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: st'i'wáaäsaa.ang
-     st'i+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: st'i'wáa.ang ñasa'áa
-     st'i+V+3rd_PERSON_PLURAL+NEAR+FUTURE: st'i'wáa.ang ñasa'áang
-     st'i+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: st'i'wáa.ang ñasaasdláa
-     st'i+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: st'i'wáa.ang ñasaasdláang
+     st'i+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: st'i'wáa.ang k̲asa'áa
+     st'i+V+3rd_PERSON_PLURAL+NEAR+FUTURE: st'i'wáa.ang k̲asa'áang
+     st'i+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: st'i'wáa.ang k̲asaasdláa
+     st'i+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: st'i'wáa.ang k̲asaasdláang
      st'i+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: st'i'wáa'uuj
      st'i+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: st'i'wáa'uujang
      st'i+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: st'i'wáaäsaa'uujang
@@ -122,10 +122,10 @@ Tests:
      st'i+V+NEGATIVE+IMMEDIATE+FUTURE: st'i'ángäsga
      st'i+V+NEGATIVE+RELATIVE+FUTURE: st'i'ángäsaas
      st'i+V+NEGATIVE+FUTURE+NON_FACTIVE: st'i'ángäsaa.ang
-     st'i+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: st'iáng ñasaa'áng
-     st'i+V+NEGATIVE+NEAR+FUTURE: st'iáng ñasaa'ánggang
-     st'i+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: st'iáng ñasaasdlä'áng
-     st'i+V+NEGATIVE+VERYNEAR+FUTURE: st'iáng ñasaasdlä'ánggang
+     st'i+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: st'iáng k̲asaa'áng
+     st'i+V+NEGATIVE+NEAR+FUTURE: st'iáng k̲asaa'ánggang
+     st'i+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: st'iáng k̲asaasdlä'áng
+     st'i+V+NEGATIVE+VERYNEAR+FUTURE: st'iáng k̲asaasdlä'ánggang
      st'i+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: st'i'áng'uuj
      st'i+V+NEGATIVE+BIASED+SIMPLE+PRESENT: st'i'áng'uujang
      st'i+V+NEGATIVE+RESIGNED_OBLIGATION: st'i'ángäsaa'uujang
@@ -166,10 +166,10 @@ Tests:
      st'i+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: st'i'áng'waaäsga
      st'i+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: st'i'áng'waaäsaas
      st'i+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: st'i'áng'waaäsaa.ang
-     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: st'i'wáa.ang ñasaa'áng
-     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: st'i'wáa.ang ñasaa'ánggang
-     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: st'i'wáa.ang ñasaasdlä'áng
-     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: st'i'wáa.ang ñasaasdlä'ánggang
+     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: st'i'wáa.ang k̲asaa'áng
+     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: st'i'wáa.ang k̲asaa'ánggang
+     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: st'i'wáa.ang k̲asaasdlä'áng
+     st'i+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: st'i'wáa.ang k̲asaasdlä'ánggang
      st'i+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: st'i'áng'waa'uuj
      st'i+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: st'i'áng'waa'uujang
      st'i+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: st'i'áng'waaäsaa'uujang

@@ -9,32 +9,32 @@ Config:
 
 Tests:
 
-  Verb - ñáaguhl - ENGLISH : # CLASS_UHL_STEM_2
+  Verb - k̲áaguhl - ENGLISH : # CLASS_UHL_STEM_2
 
-     ñáaguhl+V+IMMEDIATE+PRESENT: ñáagulga
-     ñáaguhl+V+SIMPLE+PRESENT: ñáagulgang
-     ñáaguhl+V+DIRECT+PAST: ñáagulgan
-     ñáaguhl+V+NON_FACTIVE: ñáagul.ang
-     ñáaguhl+V+INTERROGATIVE+PRESENT+HABITUAL: ñáagulgang
-     ñáaguhl+V+PRESENT+HABITUAL: ñáagulganggang
-     ñáaguhl+V+PRESENT+HABITUAL+NON_FACTIVE: ñáagulgangang
-     ñáaguhl+V+DIRECT+PAST+HABITUAL: ñáagulgiinii
-     ñáaguhl+V+INTERROGATIVE+PAST+HABITUAL: ñáagulgaangaa
-     ñáaguhl+V+INDIRECT+PAST+HABITUAL: ñáagulgaangaan
-     ñáaguhl+V+INTERROGATIVE+NEAR+FUTURE: ñáagulang ñasa'áa
-     ñáaguhl+V+NEAR+FUTURE: ñáagulang ñasa'áang
-     ñáaguhl+V+INTERROGATIVE+VERYNEAR+FUTURE: ñáagulang ñasaasdláa
-     ñáaguhl+V+VERYNEAR+FUTURE: ñáagulang ñasaasdláang
-     ñáaguhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: ñáagulgang'waa
-     ñáaguhl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: ñáagulgang'waang
-     ñáaguhl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: ñáagulgang'waa.ang
-     ñáaguhl+V+NEGATIVE+PRESENT+HABITUAL: ñáagulgang'anggang
-     ñáaguhl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: ñáagulgang'angang
-     ñáaguhl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: ñáagulang ñasaa'áng
-     ñáaguhl+V+NEGATIVE+NEAR+FUTURE: ñáagulang ñasaa'ánggang
-     ñáaguhl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: ñáagulang ñasaasdlä'áng
-     ñáaguhl+V+NEGATIVE+VERYNEAR+FUTURE: ñáagulang ñasaasdlä'ánggang
-     ñáaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: ñáagulgang'ang'waa
-     ñáaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: ñáagulgang'ang'waang
-     ñáaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: ñáagulgang'ang'waa.ang
+     k̲áaguhl+V+IMMEDIATE+PRESENT: k̲áagulga
+     k̲áaguhl+V+SIMPLE+PRESENT: k̲áagulgang
+     k̲áaguhl+V+DIRECT+PAST: k̲áagulgan
+     k̲áaguhl+V+NON_FACTIVE: k̲áagul.ang
+     k̲áaguhl+V+INTERROGATIVE+PRESENT+HABITUAL: k̲áagulgang
+     k̲áaguhl+V+PRESENT+HABITUAL: k̲áagulganggang
+     k̲áaguhl+V+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgangang
+     k̲áaguhl+V+DIRECT+PAST+HABITUAL: k̲áagulgiinii
+     k̲áaguhl+V+INTERROGATIVE+PAST+HABITUAL: k̲áagulgaangaa
+     k̲áaguhl+V+INDIRECT+PAST+HABITUAL: k̲áagulgaangaan
+     k̲áaguhl+V+INTERROGATIVE+NEAR+FUTURE: k̲áagulang k̲asa'áa
+     k̲áaguhl+V+NEAR+FUTURE: k̲áagulang k̲asa'áang
+     k̲áaguhl+V+INTERROGATIVE+VERYNEAR+FUTURE: k̲áagulang k̲asaasdláa
+     k̲áaguhl+V+VERYNEAR+FUTURE: k̲áagulang k̲asaasdláang
+     k̲áaguhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: k̲áagulgang'waa
+     k̲áaguhl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: k̲áagulgang'waang
+     k̲áaguhl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgang'waa.ang
+     k̲áaguhl+V+NEGATIVE+PRESENT+HABITUAL: k̲áagulgang'anggang
+     k̲áaguhl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgang'angang
+     k̲áaguhl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k̲áagulang k̲asaa'áng
+     k̲áaguhl+V+NEGATIVE+NEAR+FUTURE: k̲áagulang k̲asaa'ánggang
+     k̲áaguhl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k̲áagulang k̲asaasdlä'áng
+     k̲áaguhl+V+NEGATIVE+VERYNEAR+FUTURE: k̲áagulang k̲asaasdlä'ánggang
+     k̲áaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: k̲áagulgang'ang'waa
+     k̲áaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: k̲áagulgang'ang'waang
+     k̲áaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgang'ang'waa.ang
 

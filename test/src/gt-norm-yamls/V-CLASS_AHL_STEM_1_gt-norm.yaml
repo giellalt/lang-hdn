@@ -49,10 +49,10 @@ Tests:
      áljahl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: áljahl'waaäsga
      áljahl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: áljahl'waaäsaas
      áljahl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: áljahl'waaäsaa.ang
-     áljahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: áljahl'waa.ang ñasa'áa
-     áljahl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: áljahl'waa.ang ñasa'áang
-     áljahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: áljahl'waa.ang ñasaasdláa
-     áljahl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: áljahl'waa.ang ñasaasdláang
+     áljahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: áljahl'waa.ang k̲asa'áa
+     áljahl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: áljahl'waa.ang k̲asa'áang
+     áljahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: áljahl'waa.ang k̲asaasdláa
+     áljahl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: áljahl'waa.ang k̲asaasdláang
      áljahl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: áljahl'waa'uuj
      áljahl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: áljahl'waa'uujang
      áljahl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: áljahl'waaäsaa'uujang
@@ -128,10 +128,10 @@ Tests:
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: áljahl'ang'waaäsga
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: áljahl'ang'waaäsaas
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: áljahl'ang'waaäsaa.ang
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: áljahl'waa.ang ñasaa'áng
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: áljahl'waa.ang ñasaa'ánggang
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: áljahl'waa.ang ñasaasdlä'áng
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: áljahl'waa.ang ñasaasdlä'ánggang
+     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: áljahl'waa.ang k̲asaa'áng
+     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: áljahl'waa.ang k̲asaa'ánggang
+     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: áljahl'waa.ang k̲asaasdlä'áng
+     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: áljahl'waa.ang k̲asaasdlä'ánggang
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: áljahl'ang'waa'uuj
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: áljahl'ang'waa'uujang
      áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: áljahl'ang'waaäsaa'uujang

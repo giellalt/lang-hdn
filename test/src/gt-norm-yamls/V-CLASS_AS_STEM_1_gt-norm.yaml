@@ -49,10 +49,10 @@ Tests:
      dándas+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dándas'waaäsga
      dándas+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dándas'waaäsaas
      dándas+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dándas'waaäsaa.ang
-     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dándas'waa.ang ñasa'áa
-     dándas+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dándas'waa.ang ñasa'áang
-     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdláa
-     dándas+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdláang
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dándas'waa.ang k̲asa'áa
+     dándas+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dándas'waa.ang k̲asa'áang
+     dándas+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dándas'waa.ang k̲asaasdláa
+     dándas+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dándas'waa.ang k̲asaasdláang
      dándas+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dándas'waa'uuj
      dándas+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dándas'waa'uujang
      dándas+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dándas'waaäsaa'uujang
@@ -128,10 +128,10 @@ Tests:
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dándas'ang'waaäsga
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dándas'ang'waaäsaas
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dándas'ang'waaäsaa.ang
-     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dándas'waa.ang ñasaa'áng
-     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dándas'waa.ang ñasaa'ánggang
-     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdlä'áng
-     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dándas'waa.ang ñasaasdlä'ánggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dándas'waa.ang k̲asaa'áng
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dándas'waa.ang k̲asaa'ánggang
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dándas'waa.ang k̲asaasdlä'áng
+     dándas+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dándas'waa.ang k̲asaasdlä'ánggang
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dándas'ang'waa'uuj
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dándas'ang'waa'uujang
      dándas+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dándas'ang'waaäsaa'uujang

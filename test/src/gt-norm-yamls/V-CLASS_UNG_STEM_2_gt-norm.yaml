@@ -9,18 +9,18 @@ Config:
 
 Tests:
 
-  Verb - ñ'usägúng - ENGLISH : # CLASS_UNG_STEM_2
+  Verb - k̲'usägúng - ENGLISH : # CLASS_UNG_STEM_2
 
-     ñ'usägúng+V+INTERROGATIVE+PAST: ñ'usägwáangaa
-     ñ'usägúng+V+INDIRECT+PAST: ñ'usägwáangaan
-     ñ'usägúng+V+RELATIVE+EVIDENTIAL: ñ'usägwáangaas
-     ñ'usägúng+V+PAST+NON_FACTIVE: ñ'usägwáangaa.ang
-     ñ'usägúng+V+CERTAIN+PRESENT: ñ'usägwáang'ahlanggang
-     ñ'usägúng+V+CERTAIN+PAST: ñ'usägwáang'ahlanggan
-     ñ'usägúng+V+CERTAIN+PAST+HABITUAL: ñ'usägwáang'ahlanggiinii
-     ñ'usägúng+V+CERTAIN+RELATIVE: ñ'usägwáang'ahlans
-     ñ'usägúng+V+INTENSIVE+PAST: ñ'usägwáangaa'ahlang
-     ñ'usägúng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ñ'usägwáangaa'ahlanggaa
-     ñ'usägúng+V+COUNTERFACTUAL+PRESENT: ñ'usägwáangaa'ahlanggang
-     ñ'usägúng+V+REFLEXIVE: ñ'usägwáang'ahl
+     k̲'usägúng+V+INTERROGATIVE+PAST: k̲'usägwáangaa
+     k̲'usägúng+V+INDIRECT+PAST: k̲'usägwáangaan
+     k̲'usägúng+V+RELATIVE+EVIDENTIAL: k̲'usägwáangaas
+     k̲'usägúng+V+PAST+NON_FACTIVE: k̲'usägwáangaa.ang
+     k̲'usägúng+V+CERTAIN+PRESENT: k̲'usägwáang'ahlanggang
+     k̲'usägúng+V+CERTAIN+PAST: k̲'usägwáang'ahlanggan
+     k̲'usägúng+V+CERTAIN+PAST+HABITUAL: k̲'usägwáang'ahlanggiinii
+     k̲'usägúng+V+CERTAIN+RELATIVE: k̲'usägwáang'ahlans
+     k̲'usägúng+V+INTENSIVE+PAST: k̲'usägwáangaa'ahlang
+     k̲'usägúng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲'usägwáangaa'ahlanggaa
+     k̲'usägúng+V+COUNTERFACTUAL+PRESENT: k̲'usägwáangaa'ahlanggang
+     k̲'usägúng+V+REFLEXIVE: k̲'usägwáang'ahl
 

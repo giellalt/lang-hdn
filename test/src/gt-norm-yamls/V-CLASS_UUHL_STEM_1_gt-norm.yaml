@@ -49,10 +49,10 @@ Tests:
      t'ahlgúuhl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: t'ahlgúuhl'waaäsga
      t'ahlgúuhl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: t'ahlgúuhl'waaäsaas
      t'ahlgúuhl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: t'ahlgúuhl'waaäsaa.ang
-     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasa'áa
-     t'ahlgúuhl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasa'áang
-     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdláa
-     t'ahlgúuhl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdláang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asa'áa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asa'áang
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asaasdláa
+     t'ahlgúuhl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asaasdláang
      t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: t'ahlgúuhl'waa'uuj
      t'ahlgúuhl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: t'ahlgúuhl'waa'uujang
      t'ahlgúuhl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: t'ahlgúuhl'waaäsaa'uujang
@@ -128,10 +128,10 @@ Tests:
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: t'ahlgúuhl'ang'waaäsga
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: t'ahlgúuhl'ang'waaäsaas
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: t'ahlgúuhl'ang'waaäsaa.ang
-     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaa'áng
-     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaa'ánggang
-     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdlä'áng
-     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang ñasaasdlä'ánggang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asaa'áng
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asaa'ánggang
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asaasdlä'áng
+     t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: t'ahlgúuhl'waa.ang k̲asaasdlä'ánggang
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: t'ahlgúuhl'ang'waa'uuj
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: t'ahlgúuhl'ang'waa'uujang
      t'ahlgúuhl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: t'ahlgúuhl'ang'waaäsaa'uujang
