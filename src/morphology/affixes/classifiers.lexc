@@ -1,0 +1,45 @@
+!! !!!Northern Haida verbal classifiesrs
+
+!! There are appr 400 of these, they are pointed to a 
+!! set of 150 verbs taking classifiers.
+
+LEXICON CLASSIFIERS
+
+       CL/Shape+: cl_shapes 	 ;
+      CL/Manner+: cl_manner 	 ;
+       CL/Human+: cl_human  	 ;
+ CL/Descriptive+: cl_descriptive ;
+       CL/Sound+: cl_sound 		 ;
+       CL/Color+: cl_color 		 ;
+
+
+LEXICON cl_shapes
+cha  Classifier_Verbs "flexible 3D object" ;
+dla  Classifier_Verbs "whole mammal" ;
+gáng Classifier_Verbs "fluffy, dry mass" ;
+
+LEXICON cl_manner
+gab Classifier_Verbs "fast movement of a sharp object into something" ;
+ça Classifier_Verbs "on ones back" ;
+
+
+LEXICON cl_human
+hlñám Classifier_Verbs "short and pretty girl" ;
+jah Classifier_Verbs "person who is untidy and fat" ;
+
+LEXICON cl_descriptive
+cháam Classifier_Verbs "relatively long and narrow cylindrical object" ;
+
+LEXICON cl_sound
+ál Classifier_Verbs "stylized high-pitched female laughter" ;
+dab Classifier_Verbs "ound of a soft, heavy object striking" ;
+cháam Classifier_Verbs "loud high-pitched voice" ; !only w/ CL+daga and CL+gangáang
+
+LEXICON cl_color
+dám Classifier_Verbs "be transparent, be translucent" ; !only w/ CL+dala
+gáng Classifier_Verbs "pale color, pastel color" ; !only w/ CL+dala
+hlgáw Classifier_Verbs "be transparent" ; !only w/ CL+dala
+
+LEXICON Classifier_Verbs
+« Classifier_Verbstems ;
+
