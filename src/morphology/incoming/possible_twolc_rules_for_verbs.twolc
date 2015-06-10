@@ -11,8 +11,9 @@ This is how we imagine the twolc rules would work:
 !!  ccAAHL plus ENDG = Stem 2 (hl > l)
 !!  ccAAHL plus ENDH = Stem 1
 
+"HL to L in aahl" 
 !!  __@RULENAME@__ hl changes to l at the end of an AAHL stem verb when it is followed by an ending belonging to Set B, E, F or G
-h:0 l:l %^ccAAHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ]
+h:0 <=> _ l:l %^ccAAHL:0 [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ] ;
 
 !!  ccAD plus ENDA = Stem 1
 !!  ccAD plus ENDB = Stem 2 (ad > íid)
@@ -23,8 +24,12 @@ h:0 l:l %^ccAAHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ]
 !!  ccAD plus ENDG = Stem 2 (ad > íid)
 !!  ccAD plus ENDH = Stem 2 (ad > íid)
 
+"AD to IID in ad" 
 !! __@RULENAME@__ ad changes to íid at the end of an AD stem verb when it is followed by an ending belonging to Set B, D, E, F, G, or H
-a:í  :i d:d %^ccAD:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0  | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ]
+a:í  <=> _ :i d %^ccAD:0 [ %>%^ENDB:0 | %>%^ENDD:0  | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+"AD to IID in ad 2" 
+0:i  <=> a:í _ d %^ccAD:0 [ %>%^ENDB:0 | %>%^ENDD:0  | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 
 !!  ccAL plus ENDA = Stem 1
@@ -36,11 +41,13 @@ a:í  :i d:d %^ccAD:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0  | %>%^ENDE:0  | %>%^ENDF:
 !!  ccAL plus ENDG = Stem 1
 !!  ccAL plus ENDH = Stem 1
 
+"AL to AAL at the end of al" 
 !! __@RULENAME@__ al changes to aal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
-a:a  :a l:l %ˆccAL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a <=> a _ l %ˆccAL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"AL to AAL at the end of al" 
 !! __@RULENAME@__ ál changes to áal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
-á:á  :a l:l %ˆccAL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a <=> á _ l %ˆccAL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 !!  ccAN plus ENDA = Stem 1
 !!  ccAN plus ENDB = Stem 1
@@ -51,11 +58,14 @@ a:a  :a l:l %ˆccAL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccAN plus ENDG = Stem 1
 !!  ccAN plus ENDH = Stem 1
 
+"an to aan with AN-stem verbs"
 !! __@RULENAME@__ an changes to aan at the end of an AN stem verb when it is followed by an ending belonging to Set D or E
-a:a  :a n:n %ˆccAN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a  <=> n:n %ˆccAN:0 _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"án to áan with AN-stem verbs"
 !! __@RULENAME@__ án changes to áan at the end of an AN stem verb when it is followed by an ending belonging to Set D or E
-á:á  :a n:n %ˆccAN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a  <=> n:n %ˆccAN:0 _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
 
 !!  ccANG plus ENDA = Stem 1
 !!  ccANG plus ENDB = Stem 1
@@ -66,11 +76,9 @@ a:a  :a n:n %ˆccAN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccANG plus ENDG = Stem 1
 !!  ccANG plus ENDH = Stem 1
 
+"ang/áng to aang/áang with ANG-stem verbs"
 !! __@RULENAME@__ ang changes to aang at the end of an ANG stem verb when it is followed by an ending belonging to Set D or E
-a:a  :a n:n g:g %ˆccANG:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
-
-!! __@RULENAME@__ áng changes to áang at the end of an ANG stem verb when it is followed by an ending belonging to Set D or E
-á:á  :a n:n g:g %ˆccANG:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a  <=> n:n g:g %ˆccAN:0 _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccAW plus ENDA = Stem 1
@@ -82,11 +90,9 @@ a:a  :a n:n g:g %ˆccANG:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccAW plus ENDG = Stem 1
 !!  ccAW plus ENDH = Stem 1
 
+"aw/aw to aaw/áaw with AW-stem verbs"
 !! __@RULENAME@__ aw changes to aaw at the end of an AW stem verb when it is followed by an ending belonging to Set D or E
-a:a  :a w:w %ˆccAW:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
-
-!! __@RULENAME@__ áw changes to áaw at the end of an AW stem verb when it is followed by an ending belonging to Set D or E
-á:á  :a w:w %ˆccAW:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a  <=> w:w %ˆccAW:0 _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccAY plus ENDA = Stem 1
@@ -98,11 +104,9 @@ a:a  :a w:w %ˆccAW:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccAY plus ENDG = Stem 1
 !!  ccAY plus ENDH = Stem 1
 
+"ay/áy to aay/áay in AY-stem verbs"
 !! __@RULENAME@__ ay changes to aay at the end of an AY stem verb when it is followed by an ending belonging to Set D or E
-a:a  :a y:y %ˆccAY:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
-
-!! __@RULENAME@__ áy changes to áay at the end of an AY stem verb when it is followed by an ending belonging to Set D or E
-á:á  :a y:y %ˆccAY:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+0:a  <=> y:y %ˆccAY:0 _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccEEHL plus ENDA = Stem 1
@@ -114,8 +118,9 @@ a:a  :a y:y %ˆccAY:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccEEHL plus ENDG = Stem 2 (hl > l)
 !!  ccEEHL plus ENDH = Stem 1
 
+"hl to l in EEHL-stem verbs"
 !! __@RULENAME@__ hl changes to l at the end of an EEHL stem verb when it is followed by an ending belonging to Set B, E, F or G 
-h:0 l:l %^ccEEHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ]
+h:0 <=> l:l %^ccEEHL:0 _ [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ] ;
 
 
 !!  ccID plus ENDA = Stem 1
@@ -127,11 +132,13 @@ h:0 l:l %^ccEEHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ]
 !!  ccID plus ENDG = Stem 2 (id > íid)
 !!  ccID plus ENDH = Stem 2 (id > íid)
 
+"id to íid in ID-stem verbs, part 1"
 !! __@RULENAME@__ id changes to íid at the end of an ID stem verb when it is followed by an ending belonging to Set B, D, E, F, G or H 
+0:i <=> d:d %^ccID:0 _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
-i:í  :i d:d %^ccID:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ]
-
-
+"id to íid in ID-stem verbs, part 2"
+i:í <=> 0:i d:d %^ccID:0 _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+ 
 !!  ccII plus ENDA = Stem 1
 !!  ccII plus ENDB = Stem 1
 !!  ccII plus ENDC = Stem 1
@@ -141,13 +148,27 @@ i:í  :i d:d %^ccID:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0
 !!  ccII plus ENDG = Stem 1
 !!  ccII plus ENDH = Stem 1
 
+"ii to aay in II-stem verbs, part 1"
 !! __@RULENAME@__ ii changes to aay at the end of an II stem verb when it is followed by an ending belonging to Set D or E
 
-i:a i:a  :y %^ccII:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+i:a <=> _ i:a 0:y %^ccII:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"ii to aay in II-stem verbs, part 2"
+i:a <=> i:a _ 0:y %^ccII:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ii to aay in II-stem verbs, part 3"
+0:y <=> i:a i:a _ %^ccII:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"íi to áay in II-stem verbs, part 1"
 !! __@RULENAME@__ íi changes to áay at the end of an II stem verb when it is followed by an ending belonging to Set D or E
 
-í:á i:a  :y %^ccII:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+í:á <=> _ i:a 0:y %^ccII:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"íi to áay in II-stem verbs, part 2"
+i:a <=> í:á _ 0:y %^ccII:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"íi to áay in II-stem verbs, part 3"
+0:y <=> í:á i:a _ %^ccII:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccIN plus ENDA = Stem 1
@@ -159,14 +180,18 @@ i:a i:a  :y %^ccII:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccIN plus ENDG = Stem 1
 !!  ccIN plus ENDH = Stem 1
 
+"in to een in IN-stem verbs"
 !! __@RULENAME@__ in changes to een at the end of an IN stem verb when it is followed by an ending belonging to Set D or E
 
-i:e  :e n:n %^ccIN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+i:e <=> _ 0:e n:n %^ccIN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+0:e <=> i:e _ n:n %^ccIN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+
+"ín to éen in IN-stem verbs"
 !! __@RULENAME@__ ín changes to éen at the end of an IN stem verb when it is followed by an ending belonging to Set D or E
 
-í:é  :e n:n %^ccIN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
-
+í:é <=> _ 0:e n:n %^ccIN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+0:e <=> í:é _ n:n %^ccIN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 !!  ccING plus ENDA = Stem 1
 !!  ccING plus ENDB = Stem 1
@@ -177,13 +202,22 @@ i:e  :e n:n %^ccIN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccING plus ENDG = Stem 1
 !!  ccING plus ENDH = Stem 1
 
+"ing to eeng in ING-stem verbs, part 1"
 !! __@RULENAME@__ ing changes to eeng at the end of an ING stem verb when it is followed by an ending belonging to Set D or E
 
-i:e  :e n:n g:g %^ccING:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+i:e <=> _ 0:e n:n g:g %^ccING:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"ing to eeng in ING-stem verbs, part 2"
+0:e <=> i:e _ n:n g:g %^ccING:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"íng to éeng in ING-stem verbs, part 2"
 !! __@RULENAME@__ íng changes to éeng at the end of an ING stem verb when it is followed by an ending belonging to Set D or E
 
-í:é  :e n:n g:g %^ccING:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+í:é <=> _ 0:e n:n g:g %^ccING:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"íng to éeng in ING-stem verbs, part 2"
+0:e <=> í:é _ n:n g:g %^ccING:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
 
 !!  ccUD plus ENDA = Stem 1
 !!  ccUD plus ENDB = Stem 2 (ud > wíid)
@@ -194,9 +228,17 @@ i:e  :e n:n g:g %^ccING:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccUD plus ENDG = Stem 2 (ud > wíid)
 !!  ccUD plus ENDH = Stem 2 (ud > wíid)
 
+"ud to wíid in UD-stem verbs, part 1"
 !! __@RULENAME@__ ud changes to wíid at the end of a UD stem verb when it is followed by an ending belonging to Set B, D, E, F, G or H
 
-u:w  :í  :i d:d %^ccUD:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ]
+u:w <=> _ 0:í  0:i d:d %^ccUD:0 [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+"ud to wíid in UD-stem verbs, part 2"
+0:í <=> u:w _ 0:i d:d %^ccUD:0 [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+"ud to wíid in UD-stem verbs, part 3"
+0:i <=> u:w 0:í _ d:d %^ccUD:0 [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
 
 
 !!  ccUN plus ENDA = Stem 1
@@ -208,13 +250,27 @@ u:w  :í  :i d:d %^ccUD:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDE:0  | %>%^EN
 !!  ccUN plus ENDG = Stem 1
 !!  ccUN plus ENDH = Stem 1
 
+"un to waan in UN-stem verbs, part 1"
 !! __@RULENAME@__ un changes to waan at the end of an UN stem verb when it is followed by an ending belonging to Set D or E
 
-u:w  :a  :a n:n %^ccUN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+u:w  <=> _  0:a 0:a n:n %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"un to waan in UN-stem verbs, part 2"
+0:a  <=> u:w _ 0:a n:n %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"un to waan in UN-stem verbs, part 3"
+0:a  <=> u:w 0:a _ n:n %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ún changes to wáan in UN_stem verbs, part 1"
 !! __@RULENAME@__ ún changes to wáan at the end of an UN stem verb when it is followed by an ending belonging to Set D or E
 
-ú:w  :á  :a n:n %^ccUN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+ú:w  <=> _  0:á 0:a n:n %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ún to wáan in UN-stem verbs, part 2"
+0:á  <=> ú:w _ 0:a n:n %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ún to wáan in UN-stem verbs, part 3"
+0:a  <=> ú:w 0:á _ n:n %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccUNG plus ENDA = Stem 1
@@ -226,13 +282,30 @@ u:w  :a  :a n:n %^ccUN:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccUNG plus ENDG = Stem 1
 !!  ccUNG plus ENDH = Stem 1
 
+
+"ung to waang in UNG-stem verbs, part 1"
 !! __@RULENAME@__ ung changes to waang at the end of an UNG stem verb when it is followed by an ending belonging to Set D or E
 
-u:w  :a  :a n:n g:g %^ccUNG:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+u:w  <=> _  0:a 0:a n:n g:g %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"ung to waang in UNG-stem verbs, part 2"
+0:a  <=> u:w _ 0:a n:n g:g %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ung to waang in UNG-stem verbs, part 3"
+0:a  <=> u:w 0:a _ n:n g:g %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+
+"úng to wáang in UNG-stem verbs, part 1"
 !! __@RULENAME@__ úng changes to wáang at the end of an UNG stem verb when it is followed by an ending belonging to Set D or E
 
-ú:w  :á  :a n:n g:g %^ccUNG:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+ú:w  <=> _  0:á 0:a n:n g:g %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"úng to wáang in UNG-stem verbs, part 2"
+0:á  <=> ú:w _ 0:a n:n g:g %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"úng to wáang in UNG-stem verbs, part 3"
+0:a  <=> ú:w 0:á _ n:n g:g %^ccUN:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
 
 
 !!  ccUU plus ENDA = Stem 1
@@ -244,13 +317,30 @@ u:w  :a  :a n:n g:g %^ccUNG:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccUU plus ENDG = Stem 1
 !!  ccUU plus ENDH = Stem 2 (uu > aaw) (úu > áaw)
 
+
+"uu to aaw in UU-stem verbs, part 1"
 !! __@RULENAME@__ uu changes to aaw at the end of an UU stem verb when it is followed by an ending belonging to Set E or H
 
-u:a u:a  :w %^ccUU:0 <=> _ [ %>%^ENDE:0 | %>%^ENDH:0 ]
+u:a <=> _ u:a  0:w %^ccUU:0 [ %>%^ENDE:0 | %>%^ENDH:0 ] ;
 
+"uu to aaw in UU-stem verbs, part 2"
+u:a <=> u:a _ 0:w %^ccUU:0 [ %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
+"uu to aaw in UU-stem verbs, part 3"
+0:w <=> u:a u:a _ %^ccUU:0 [ %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
+
+"úu to áaw in UU-stem verbs, part 1"
 !! __@RULENAME@__ úu changes to áaw at the end of an UU stem verb when it is followed by an ending belonging to Set E or H
 
-ú:á u:a  :w %^ccUU:0 <=> _ [ %>%^ENDE:0 | %>%^ENDH:0 ]
+ú:á <=> _ u:a  0:w %^ccUU:0 [ %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
+"úu to áaw in UU-stem verbs, part 2"
+u:a <=> ú:á _ 0:w %^ccUU:0 [ %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
+"úu to áaw in UU-stem verbs, part 3"
+0:w <=> ú:á u:a _ %^ccUU:0 [ %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
 
 
 !!  ccA plus ENDA = Stem 2 (a > ä)
@@ -262,13 +352,19 @@ u:a u:a  :w %^ccUU:0 <=> _ [ %>%^ENDE:0 | %>%^ENDH:0 ]
 !!  ccA plus ENDG = Stem 3 (a > áa)
 !!  ccA plus ENDH = Stem 3 (a > áa)
 
+
+"a to ä in A-stem verbs"
 !! __@RULENAME@__ a changes to ä at the end of an A stem verb when it is followed by an ending belonging to Set A or B
 
-a:ä %^ccA:0 <=> _ [ %>%^ENDA:0 | %>%^ENDB:0 ]
+a:ä <=> _ %^ccA:0 [ %>%^ENDA:0 | %>%^ENDB:0 ] ;
 
+"a to áa in A-stem verbs, part 1"
 !! __@RULENAME@__ a changes to áa at the end of an A stem verb when it is followed by an ending belonging to Set C, D, E, F, G or H
 
-a:á  :a %^ccA:0 <=> _ [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+a:á <=> _ 0:a %^ccA:0 [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+"a to áa in A-stem verbs, part 2"
+0:a <=> a:á _ %^ccA:0 [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 
 !!  ccAHL plus ENDA = Stem 1
@@ -280,14 +376,26 @@ a:á  :a %^ccA:0 <=> _ [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDF:0 | %>%
 !!  ccAHL plus ENDG = Stem 2 (ahl > ál)
 !!  ccAHL plus ENDH = Stem 2 (ahl > ál)
 
+"ahl to ál in AHL-stem verbs, part 1"
+
 !! __@RULENAME@__ ahl changes to ál at the end of an AHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-a:á h:0 l:l %^ccAHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+a:á <=> _ h:0 l:l %^ccAHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
+"ahl to ál in AHL-stem verbs, part 2"
+h:0 <=> a:á _ l:l %^ccAHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+
+"ahl to áal in AHL-stem verbs, part 1"
 !! __@RULENAME@__ ahl changes to áal at the end of an AHL stem verb when it is followed by an ending belonging to Set D or E
 
-a:á  :a h:0 l:l %^ccAHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+a:á <=> _ 0:a h:0 l:l %^ccAHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"ahl to áal in AHL-stem verbs, part 2"
+0:a <=> a:á _ h:0 l:l %^ccAHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ahl to áal in AHL-stem verbs, part 3"
+h:0 <=> a:á 0:a _ l:l %^ccAHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccAS plus ENDA = Stem 1
@@ -299,13 +407,27 @@ a:á  :a h:0 l:l %^ccAHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccAS plus ENDG = Stem 2 (as > íij)
 !!  ccAS plus ENDH = Stem 2 (as > íij)
 
+
+"as to íij in AS-stem verbs, part 1" 
 !! __@RULENAME@__ as changes to íij at the end of an AS stem verb when it is followed by an ending belonging to Set B, D, F, G or H
 
-a:í  :i s:j %^ccAS:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+a:í <=> _ 0:i s:j %^ccAS:0 [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
+"as to íij in AS-stem verbs, part 2" 
+0:i <=> a:í _ s:j %^ccAS:0 [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+"as to íij in AS-stem verbs, part 3" 
+s:j <=> a:í 0:i _ %^ccAS:0 [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+
+"as to ij in AS-stem verbs, part 1"
 !! __@RULENAME@__ as changes to ij at the end of an AS stem verb when it is followed by an ending belonging to Set E
 
-a:i s:j %^ccAS:0 <=> _ [ %>%^ENDE:0 ]
+a:i <=> _ s:j %^ccAS:0 [ %>%^ENDE:0 ] ;
+
+"as to ij in AS-stem verbs, part 2"
+
+s:j <=> a:i _ %^ccAS:0 [ %>%^ENDE:0 ] ;
 
 !!  ccEXE plus ENDA = Stem 2 (e.e > ee)
 !!  ccEXE plus ENDB = Stem 2 (e.e > ee)
@@ -316,13 +438,22 @@ a:i s:j %^ccAS:0 <=> _ [ %>%^ENDE:0 ]
 !!  ccEXE plus ENDG = Stem 2 (e.e > ee)
 !!  ccEXE plus ENDH = Stem 3 (e.e > e.ée)
 
+"e.e to ee in EXE-stem verbs"
 !! __@RULENAME@__ e.e changes to ee at the end of an EXE stem verb when it is followed by an ending belonging to Set A, B, F or G
 
-e:e %.:0 e:e %^ccEXE:0 <=> _ [ %>%^ENDA:0 | %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 ]
+%.:0 <=> e:e _ e:e %^ccEXE:0 [ %>%^ENDA:0 | %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 ] ;
 
+
+"e.e to e.ée in EXE-stem verbs, part 1"
 !! __@RULENAME@__ e.e changes to e.ée at the end of an EXE stem verb when it is followed by an ending belonging to Set C, D, E, H
 
-e:e %.:0 e:é  :e %^ccEXE:0 <=> _ [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDH:0 ]
+%.:0 <=> e:e _ e:é 0:e %^ccEXE:0 [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
+"e.e to e.ée in EXE-stem verbs, part 2"
+e:é <=> e:e %.:0 _ 0:e %^ccEXE:0 [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDH:0 ] ;
+
+"e.e to e.ée in EXE-stem verbs, part 3"
+0:e <=> e:e %.:0 e:é _ %^ccEXE:0 [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^ENDH:0 ] ;
 
 
 !!  ccEXEHL plus ENDA = Stem 2 (e.ehl > eehl)
@@ -334,15 +465,24 @@ e:e %.:0 e:é  :e %^ccEXE:0 <=> _ [ %>%^ENDC:0 | %>%^ENDD:0 | %>%^ENDE:0 | %>%^E
 !!  ccEXEHL plus ENDG = Stem 2 (e.ehl > eehl)
 !!  ccEXEHL plus ENDH = Stem 2 (e.ehl > eehl)
 
+"e.ehl to eehl in EXEHL-stem verbs"
 !! __@RULENAME@__ e.ehl changes to eehl at the end of an EXEHL stem verb when it is followed by an ending belonging to Set A, B, C, F, G or H
 
-e:e %.:0 e:e h:h l:l %^ccEXEHL:0 <=> _ [ %>%^ENDA:0 | %>%^ENDB:0 | %>%^ENDC:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+%.:0 <=> e:e _ e:e h:h l:l %^ccEXEHL:0 [ %>%^ENDA:0 | %>%^ENDB:0 | %>%^ENDC:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
+"e.ehl to e.éel in EXEHL-stem verbs, part 1"
 !! __@RULENAME@__ e.ehl changes to e.éel at the end of an EXEHL stem verb when it is followed by an ending belonging to Set D or E
 
-e:e %.:0 e:é h:e l:l %^ccEXEHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+%.:0 <=> e:e _ e:é h:e l:l %^ccEXEHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
-!!  ccIHL plus ENDA = Stem 1
+"e.ehl to e.éel in EXEHL-stem verbs, part 2"
+e:é <=> e:e %.:0 _ h:e l:l %^ccEXEHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"e.ehl to e.éel in EXEHL-stem verbs, part 3"
+h:e <=> e:e %.:0 e:é _ l:l %^ccEXEHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+
+!!  * ccIHL plus ENDA = Stem 1
 !!  ccIHL plus ENDB = Stem 2 (ihl > íl)
 !!  ccIHL plus ENDC = Stem 1
 !!  ccIHL plus ENDD = Stem 3 (ihl > yáal)
@@ -351,15 +491,30 @@ e:e %.:0 e:é h:e l:l %^ccEXEHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccIHL plus ENDG = Stem 2 (ihl > íl)
 !!  ccIHL plus ENDH = Stem 2 (ihl > íl)
 
+"ihl to íl in IHL-stem verbs, part 1"
 !! __@RULENAME@__ ihl changes to íl at the end of an IHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-i:í h:0 l:l %^ccIHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+i:í <=> _ h:0 l:l %^ccIHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
+"ihl to íl in IHL-stem verbs, part 2"
+h:0 <=> i:í _ l:l %^ccIHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+
+"ihl to yáal in IHL-stem verbs, part 1"
 !! __@RULENAME@__ ihl changes to yáal at the end of an IHL stem verb when it is followed by an ending belonging to Set D or E
 
-i:y  :á  :a h:0  l:l %^ccIHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+i:y <=> _ 0:á 0:a h:0 l:l %^ccIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"ihl to yáal in IHL-stem verbs, part 2"
+0:á <=> i:y _ 0:a h:0 l:l %^ccIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
+"ihl to yáal in IHL-stem verbs, part 3"
+0:a <=> i:y 0:á _ h:0 l:l %^ccIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"ihl to yáal in IHL-stem verbs, part 4"
+h:0  <=> i:y 0:á 0:a _ l:l %^ccIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+		
 !!  ccIIHL plus ENDA = Stem 1
 !!  ccIIHL plus ENDB = Stem 2 (iihl > il) (íihl > íil)
 !!  ccIIHL plus ENDC = Stem 1
@@ -369,21 +524,42 @@ i:y  :á  :a h:0  l:l %^ccIHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 !!  ccIIHL plus ENDG = Stem 2 (iihl > il) (íihl > íil)
 !!  ccIIHL plus ENDH = Stem 2 (iihl > il) (íihl > íil)
 
+
+"iihl to il in IIHL-stem verbs, part 1"
 !! __@RULENAME@__ iihl changes to il at the end of an IIHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-i:0 i:i h:0 l:l %^ccIIHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+i:0 <=> _ i:i h:0 l:l %^ccIIHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
+"iihl to il in IIHL-stem verbs, part 2"
+h:0 <=> i:0 i:i _ l:l %^ccIIHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+
+"íihl to íl in IIHL-stem verbs, part 1"
 !! __@RULENAME@__ íihl changes to íl at the end of an IIHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-í:0 i:í h:0 l:l %^ccIIHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+i:0 <=> í:í _ h:0 l:l %^ccIIHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
+"íihl to íl in IIHL-stem verbs, part 2"
+h:0 <=> í:í i:0 _ l:l %^ccIIHL:0 [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
+
+
+"iihl to eel in IIHL-stem verbs, part 1"
 !! __@RULENAME@__ iihl changes to eel at the end of an IIHL stem verb when it is followed by an ending belonging to Set D or E
 
-i:e i:e h:0 l:l %^ccIIHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+i:e <=> _ i:e h:0 l:l %^ccIIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"iihl to eel in IIHL-stem verbs, part 2"
+i:e <=> i:e _ h:0 l:l %^ccIIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+"iihl to eel in IIHL-stem verbs, part 3"
+h:0 <=> i:e i:e _ l:l %^ccIIHL:0 [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
+
+
+
 
 !! __@RULENAME@__ íihl changes to éel at the end of an IIHL stem verb when it is followed by an ending belonging to Set D or E
 
-í:é i:e h:0 l:l %^ccIIHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+í:é i:e h:0 l:l %^ccIIHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccIS plus ENDA = Stem 1
@@ -397,11 +573,11 @@ i:e i:e h:0 l:l %^ccIIHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 
 !! __@RULENAME@__ is changes to íij at the end of an IS stem verb when it is followed by an ending belonging to Set B, D, F, G or H
 
-i:í  :i s:j %^ccIS:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+i:í  :i s:j %^ccIS:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 !! __@RULENAME@__ is changes to ij at the end of an IS stem verb when it is followed by an ending belonging to Set E
 
-i:i s:j %^ccIS:0 <=> _ [ %>%^ENDE:0 ]
+i:i s:j %^ccIS:0 <=> _ [ %>%^ENDE:0 ] ;
 
 
 !!  ccUHL plus ENDA = Stem 1
@@ -415,11 +591,11 @@ i:i s:j %^ccIS:0 <=> _ [ %>%^ENDE:0 ]
 
 !! __@RULENAME@__ uhl changes to úl at the end of an UHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-u:ú h:0 l:l %^ccUHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+u:ú h:0 l:l %^ccUHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 !! __@RULENAME@__ uhl changes to wáal at the end of an UHL stem verb when it is followed by an ending belonging to Set D or E
 
-u:w  :á  :a h:0 l:l %^ccUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+u:w  :á  :a h:0 l:l %^ccUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 !!  ccUS plus ENDA = Stem 1 
@@ -433,11 +609,11 @@ u:w  :á  :a h:0 l:l %^ccUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 
 !! __@RULENAME@__ us changes to wíij at the end of an US stem verb when it is followed by an ending belonging to Set B, D, F, G or H
 
-u:w  :í  :i s:j %^ccUS:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+u:w  :í  :i s:j %^ccUS:0 <=> _ [ %>%^ENDB:0 | %>%^ENDD:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 !! __@RULENAME@__ us changes to uj at the end of an US stem verb when it is followed by an ending belonging to Set E
 
-u:u s:j %^ccUS:0 <=> _ [ %>%^ENDE:0 ]
+u:u s:j %^ccUS:0 <=> _ [ %>%^ENDE:0 ] ;
 
 !!  ccUUHL plus ENDA = Stem 1
 !!  ccUUHL plus ENDB = Stem 2 (uuhl > ul) (úuhl > úl)
@@ -448,21 +624,21 @@ u:u s:j %^ccUS:0 <=> _ [ %>%^ENDE:0 ]
 !!  ccUUHL plus ENDG = Stem 2 (uuhl > ul) (úuhl > úl)
 !!  ccUUHL plus ENDH = Stem 2 (uuhl > ul) (úuhl > úl)
 
-!! __@RULENAME@__ uuhl changes to ul at the end of an UUHL stem verb when it is followed by an ending belonging to Set B, F, G or H
+"a" !! __@RULENAME@__ uuhl changes to ul at the end of an UUHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-u:0 u:u h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+u:0 u:u h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 !! __@RULENAME@__ úuhl changes to úl at the end of an UUHL stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-ú:0 u:ú h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ]
+ú:0 u:ú h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDB:0 | %>%^ENDF:0 | %>%^ENDG:0 | %>%^ENDH:0 ] ;
 
 !! __@RULENAME@__ uuhl changes to waal at the end of an UUHL stem verb when it is followed by an ending belonging to Set D or E
 
-u:w u:a  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+u:w u:a  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 !! __@RULENAME@__ úuhl changes to wáal at the end of an UUHL stem verb when it is followed by an ending belonging to Set D or E
 
-ú:w u:á  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
+ú:w u:á  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ] ;
 
 
 ====================================================================================================
@@ -471,45 +647,45 @@ u:w u:a  :a h:0 l:l %^ccUUHL:0 <=> _ [ %>%^ENDD:0 | %>%^ENDE:0 ]
 
 !! __@RULENAME@__ g at the start of an ending belonging to Set B will be dropped when the preceding verb stem ends in d or s, namely an EED, IID, AD, ID, UD, AS, IS or US stem verb
 
-%^ENDB:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ 
+%^ENDB:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ a period is inserted before a Set B ending that starts with g when it follows a verb stem ending in n, namely an AAN, AN, IN or UN stem verb
 
-%^ENDB:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ 
+%^ENDB:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ g is inserted at the start of an ending belonging to Set E when the preceding verb stem belongs to Class AA, AH, EE or I
 
-%^ENDE:0  :g <=> [ %^ccAA:0 | %^ccAH:0 | %^ccEE:0 | %^ccI:0 ] %>:0 _ 
+%^ENDE:0  :g <=> [ %^ccAA:0 | %^ccAH:0 | %^ccEE:0 | %^ccI:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ y is inserted at the start of an ending belonging to Set E when the preceding verb stem belongs to Class A, EXE or U
 
-%^ENDE:0  :y <=> [ %^ccA:0 | %^ccEXE:0 | %^ccU:0 ] %>:0 _ 
+%^ENDE:0  :y <=> [ %^ccA:0 | %^ccEXE:0 | %^ccU:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ g at the start of an ending belonging to Set F will be dropped when the preceding verb stem ends in d or s, namely an EED, IID, AD, ID, UD, AS, IS or US stem verb
 
-%^ENDF:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ 
+%^ENDF:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ a period is inserted before a Set F ending that starts with g when it follows a verb stem ending in n, namely an AAN, AN, IN or UN stem verb
 
-%^ENDF:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ 
+%^ENDF:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ ga at the start of an ending belonging to Set F will be dropped following an A stem verb
 
-%^ENDF:0 g:0 a:0 <=> %^ccA:0 %>:0 _ 
+%^ENDF:0 g:0 a:0 <=> %^ccA:0 %>:0 _ ;
 
 !! __@RULENAME@__ g at the start of an ending belonging to Set G will be dropped when the preceding verb stem ends in d or s, namely an EED, IID, AD, ID, UD, AS, IS or US stem verb
 
-%^ENDG:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ 
+%^ENDG:0 g:0 <=> [ %^ccEED:0 | %^ccIID:0 | %^ccAD:0 | %^ccID:0 | %^ccUD:0 | %^ccAS:0 | %^ccIS:0 | %^ccUS:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ a period is inserted before a Set G ending that starts with g when it follows a verb stem ending in n, namely an AAN, AN, IN or UN stem verb
 
-%^ENDG:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ 
+%^ENDG:0  :%. <=> [ %^ccAAN:0 | %^ccAN:0 | %^ccIN:0 | %^ccUN:0 ] %>:0 _ ;
 
 !! __@RULENAME@__ gá at the start of an ending belonging to Set G will be dropped following an A stem verb
 
-%^ENDG:0 g:0 á:0 <=> %^ccA:0 %>:0 _ 
+%^ENDG:0 g:0 á:0 <=> %^ccA:0 %>:0 _ ;
 
 !! __@RULENAME@__ a period is inserted before a Set H ending that starts with á when it follows a verb stem from Class A or AA
 
-%^ENDH:0  :%. <=> [ %^ccA:0 | %^ccAA:0 ] %>:0 _ 
+%^ENDH:0  :%. <=> [ %^ccA:0 | %^ccAA:0 ] %>:0 _ ;
 
