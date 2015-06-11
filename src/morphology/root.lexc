@@ -27,6 +27,14 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! (It is highly suggested to follow existing standards when adding new tags).
 
+!! !!Morphophonemes
+
+!! These are vowel morphophonemes which will lose their accent when they are no long in closed syllables
+
+á2 !!= * @CODE@ =
+é2 !!= * @CODE@ =
+í2 !!= * @CODE@ =
+ú2 !!= * @CODE@ =
 
 !! Haida has these tags for real, says Jordan.
 +V	!!= * @CODE@ =
@@ -59,6 +67,15 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +COUNTERFACTUAL	!!= * @CODE@ =
 +SINGULAR	!!= * @CODE@ =
 +PLURAL	!!= * @CODE@ =
++Def	!!= * @CODE@ =
++Indef	!!= * @CODE@ =
++Rfx	!!= * @CODE@ = Used for reflexively possessed body parts and kinterms
+
+!! The actual classifiers
+
++CL/dla
++CL/hlga
++CL/cha
 
 
 !! The pre-verb classifiers
@@ -66,10 +83,16 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  CL/Shape+ !!= * @CODE@ = 
  CL/Manner+ !!= * @CODE@ = 
  CL/Human+ !!= * @CODE@ = 
+ CL/Human_Male+ !!= * @CODE@ = 
+ CL/Human_Female+ !!= * @CODE@ = 
  CL/Descriptive+ !!= * @CODE@ = 
  CL/Sound+ !!= * @CODE@ = 
  CL/Color+ !!= * @CODE@ = 
 
+!! Semantic Tags
+
++SEM/Kinterm
++SEM/BodyPart
 
 !! Triggers
 %^ENDA
@@ -117,8 +140,8 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! The nominals are inflected in the following Number
 
-+Sg   !!= * @CODE@ =
-+Pl   !!= * @CODE@ =
++Sg   !!= * @CODE@ = Only relevant for kinterms
++Pl   !!= * @CODE@ = Only relevant for kinterms
 
 %^WS	!!=* @CODE@ = whitespace dummy, for twolc
 
