@@ -40,58 +40,38 @@ Sets
 Definitions 
 
  WS = :* %^WS:0  :* ; 
+ AccVow =  [ á: | é: | í: | ó: | ú: ]  ;
   
 !! !!Rules
 
 Rules
 
 
-!"Final s to j"
-! rulename
-! s:j <=> Vow _ %>: a ;
+"ahl to ál, ahl to áal"
+!! __@RULENAME@__ ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-"h deletion in hl stems before long a, g"
-! rulename
- h:0 <=> \:e _ l %>: [%^ENDB: | %^ENDC: ] ; ! áljahl:áljal skyáahl%>ga
+a:á <=> \AccVow Cns Cns _ h:0 l:l %>: [ %^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 | %^ENDD:0 | %^ENDE:0 ] ;
 
-
-! Please check the \:e restriction after CLASS-E.EHL-STEM has been merged in the
-! same way as CLASS-AAHL-STEM - it might be that it isn't required - only now
-! because of the multiple E.E stem entries.
-
-"al to aal at the end of al" 
-!! __@RULENAME@__ al changes to aal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
-0:a <=> _ a h:0 l  %>: %^ENDC: [' | :á | :a ]  ; !áljahl:áljaal
+"ahl to ál, ahl to áal"
+h:0 <=> a: _ l:l %>: [%^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 ] ;
+        a: 0: _ l:l %>: [ %^ENDD:0 | %^ENDE:0 ] ;
 
 
+"ahl to áal, part 2"
+0:a <=> a: _ h: l:l %>: [ %^ENDD:0 | %^ENDE:0 ] ; !
 
-
-!"w to u in gwaal"
-! rulename
-! w:u <=> _ a: a: l %>: a ;
-!
-!"a deletion in gwaal 1"
-! rulename
-! a:0 <=> w: _ a: l %>: a ;
-!
-!"a deletion in gwaal 2"
-! rulename
-! a:0 <=> w: a: _ l %>: a ;
-!
-!
-!"Vowel harmony"
-! rulename
-! ä:a <=> _ %>: a ;
  
 ! Destressing
 
 "Destressing rule"
 !! __@RULENAME@__ - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
 Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:*  %>:  (Endings:) Sgm:* _  ;
-          [ á: | é: | í: | ó: | ú: ] Sgm:* 0:Vow Vow: Cns:+  %>:  (Endings:) Sgm:* _  ; 
+          [ á: | é: | í: | ó: | ú: ] Sgm:* Vow: 0:Vow  Cns:+  %>:  (Endings:) Sgm:* _  ; 
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )
  	      matched ;
+
+
 
 !"g deletion on the suffix border"
 !g:0 <=> _ %>: g ;

@@ -11,6 +11,11 @@ This is how we imagine the twolc rules would work:
 !!  ccAAHL plus ENDG = Stem 2 (hl > l)
 !!  ccAAHL plus ENDH = Stem 1
 
+!áljahl CLASS-AHL-STEM-1
+!áljahl:áljál CLASS-AHL-STEM-2
+!áljahl:áljaal CLASS-AHL-STEM-3
+
+
 "HL to L in aahl" 
 !!  __@RULENAME@__ hl changes to l at the end of an AAHL stem verb when it is followed by an ending belonging to Set B, E, F or G
 h:0 <=> _ l:l %^ccAAHL:0 [ %>%^ENDB:0 | %>%^ENDE:0  | %>%^ENDF:0  | %>%^ENDG:0 ] ;
