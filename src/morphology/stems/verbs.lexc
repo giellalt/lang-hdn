@@ -1701,8 +1701,7 @@ di%.ínsga CLASS-A-STEM-1 "for S to fail to find X" ;
 di%.ínsga:di%.ínsgä CLASS-A-STEM-2 "for S to fail to find X" ;
 di%.ínsga:di%.ínsgáa CLASS-A-STEM-3 "for S to fail to find X" ;
 
-díigud CLASS-UD-STEM-1 "for S to bum food" ;
-díigud:díigwiid CLASS-UD-STEM-2 "for S to bum food" ;
+díigud:díig CLASS-UD-STEM "for S to bum food" ;
 
 díinaa CLASS-AA "for there to be a cave or tunnel in a location" ;
 
@@ -2352,8 +2351,7 @@ gidwíi'uhla CLASS-A-STEM-1 "for S to get up from a rest [said of a high-class p
 gidwíi'uhla:gidwíi'uhlä CLASS-A-STEM-2 "for S to get up from a rest [said of a high-class person] [used sarcastically]" ;
 gidwíi'uhla:gidwíi'uhláa CLASS-A-STEM-3 "for S to get up from a rest [said of a high-class person] [used sarcastically]" ;
 
-gigud CLASS-UD-STEM-1 "for S to discharge C [said of an octopus and its inksac]" ;
-gigud:gigwíid CLASS-UD-STEM-2 "for S to discharge C [said of an octopus and its inksac]" ;
+gigud:gig CLASS-UD-STEM "for S to discharge C [said of an octopus and its inksac]" ;
 
 gigugä% híiluu CLASS-UU-STEM-1 "for S to use up all of C by breaking or snapping them" ;
 gigugä% híiluu:gigugä% híilaaw CLASS-UU-STEM-2 "for S to use up all of C by breaking or snapping them" ;
@@ -5625,8 +5623,7 @@ g̲i% k̲'ahlasga:g̲i% k̲'ahlasgáa CLASS-A-STEM-3 "for S to rexpect X to show
 g̲i% k̲'ahljúu CLASS-UU-STEM-1 "for S to wait expectantly (for the arrival of X, for X to happen)" ;
 g̲i% k̲'ahljúu:g̲i% k̲'ahljáaw CLASS-UU-STEM-2 "for S to wait expectantly (for the arrival of X, for X to happen)" ;
 
-g̲i% k̲'álud CLASS-UD-STEM-1 "for S to let C get moldy [through neglect]" ;
-g̲i% k̲'álud:g̲i% k̲'álwíid CLASS-UD-STEM-2 "for S to let C get moldy [through neglect]" ;
+g̲i% k̲'álud:g̲i% k̲'ál CLASS-UD-STEM "for S to let C get moldy [through neglect]" ;
 
 g̲i% k̲íng:g̲i% k̲ CLASS-ING-STEM "for S to wait to see how X will react" ;
 
@@ -6782,8 +6779,7 @@ hlg̲a%.ayd CLASS-AYD "for S to pick O (sg) {hlg̲a} up, to pick O {sg) {hlg̲a}
 
 hlg̲áa% k'áldangaa CLASS-AA "for S to have gravel [said of a place]" ;
 
-hlg̲áalangud CLASS-UD-STEM-1 "for S to be bruised or sunburned [said of a person or a body part]" ;
-hlg̲áalangud:hlg̲áalangwíid CLASS-UD-STEM-2 "for S to be bruised or sunburned [said of a person or a body part]" ;
+hlg̲áalangud:hlg̲áalang CLASS-UD-STEM "for S to be bruised or sunburned [said of a person or a body part]" ;
 
 hlg̲áalangudaa CLASS-AA "for S to have gotten bruised or sunburned [said of a person or body part]" ;
 
@@ -9503,8 +9499,7 @@ INS% k̲'adíisga:INS% k̲'adíisgáa CLASS-A-STEM-3 "for S to split C (pl) <k̲
 
 INS% k̲'adíisgayaa CLASS-AA "for S (pl) <k̲'a> to have been split by <INS>, to have been made to come apart by <INS>" ;
 
-INS% k̲'agud CLASS-UD-STEM-1 "for S to flatten out C (sg) [said of a mass, such as bread dough or a pile of sand]" ;
-INS% k̲'agud:INS% k̲'agwíid CLASS-UD-STEM-2 "for S to flatten out C (sg) [said of a mass, such as bread dough or a pile of sand]" ;
+INS% k̲'agud:INS% k̲'ag CLASS-UD-STEM "for S to flatten out C (sg) [said of a mass, such as bread dough or a pile of sand]" ;
 
 INS% k̲'agudáa CLASS-AA "for S (sg) to have been flattened out [said of a mass, such as bread dough or a pile of sand]" ;
 
@@ -10569,8 +10564,7 @@ INS% tl'aga%.a CLASS-A-STEM-1 "for S to dissolve C, make C go into suspension" ;
 INS% tl'aga%.a:INS% tl'aga%.ä CLASS-A-STEM-2 "for S to dissolve C, make C go into suspension" ;
 INS% tl'aga%.a:INS% tl'aga%.áa CLASS-A-STEM-3 "for S to dissolve C, make C go into suspension" ;
 
-INS% tl'agud CLASS-UD-STEM-1 "for S to flatten out C (sg) [said of a container such as a box or a tin can]" ;
-INS% tl'agud:INS% tl'agwíid CLASS-UD-STEM-2 "for S to flatten out C (sg) [said of a container such as a box or a tin can]" ;
+INS% tl'agud:INS% tl'ag CLASS-UD-STEM "for S to flatten out C (sg) [said of a container such as a box or a tin can]" ;
 
 INS% tl'agudáa CLASS-AA "for S (sg) to have been flattened out [said of a container such as a box or a tin can]" ;
 
@@ -10726,8 +10720,7 @@ INS% ts'ánsnganda:INS% ts'ánsngandáa CLASS-A-STEM-3 "for S to make C into a {
 
 INS% ts'ánsngandayee%.elaa CLASS-AA "for S to have been made into a {ts'as} shape, to have been made to be {ts'as} shaped" ;
 
-INS% ts'íigud CLASS-UD-STEM-1 "for S to make C squirt [said of an eyedropper, water pistol, etc.]" ;
-INS% ts'íigud:INS% ts'íigwíid CLASS-UD-STEM-2 "for S to make C squirt [said of an eyedropper, water pistol, etc.]" ;
+INS% ts'íigud:INS% ts'íig CLASS-UD-STEM "for S to make C squirt [said of an eyedropper, water pistol, etc.]" ;
 
 INS% ts'íisda CLASS-A-STEM-1 "for S to make juice squirt out of C [said of fruit]" ;
 INS% ts'íisda:INS% ts'íisdä CLASS-A-STEM-2 "for S to make juice squirt out of C [said of fruit]" ;
@@ -15409,8 +15402,7 @@ k̲'álägaa CLASS-AA "for S to be muskeg [said of a place]" ;
 
 k̲álgaa CLASS-AA "for S to be glass, be made of glass" ;
 
-k̲'álud CLASS-UD-STEM-1 "for S to mold, be moldy" ;
-k̲'álud:k̲'álwíid CLASS-UD-STEM-2 "for S to mold, be moldy" ;
+k̲'álud:k̲'ál CLASS-UD-STEM "for S to mold, be moldy" ;
 
 k̲'álud% sguna CLASS-A-STEM-1 "for S to smell moldy" ;
 k̲'álud% sguna:k̲'álud% sgunä CLASS-A-STEM-2 "for S to smell moldy" ;
@@ -15461,8 +15453,7 @@ k̲'ándä% k̲'aawsda CLASS-A-STEM-1 "for S to belch loudly" ;
 k̲'ándä% k̲'aawsda:k̲'ándä% k̲'aawsdä CLASS-A-STEM-2 "for S to belch loudly" ;
 k̲'ándä% k̲'aawsda:k̲'ándä% k̲'aawsdáa CLASS-A-STEM-3 "for S to belch loudly" ;
 
-k̲'ándä% k̲'agud CLASS-UD-STEM-1 "for S to belch loudly" ;
-k̲'ándä% k̲'agud:k̲'ándä% k̲'agwíid CLASS-UD-STEM-2 "for S to belch loudly" ;
+k̲'ándä% k̲'agud:k̲'ándä% k̲'ag CLASS-UD-STEM "for S to belch loudly" ;
 
 k̲'áng:k̲'á CLASS-ANG-STEM "for S to help X1 (with X2) [acting out of pitcy, compassion or kindness]" ;
 
@@ -17191,8 +17182,7 @@ k̲'u% yahda CLASS-A-STEM-1 "for S to bite C squarely" ;
 k̲'u% yahda:k̲'u% yahdä CLASS-A-STEM-2 "for S to bite C squarely" ;
 k̲'u% yahda:k̲'u% yahdáa CLASS-A-STEM-3 "for S to bite C squarely" ;
 
-k̲'ud CLASS-UD-STEM-1 "for S to be hungry" ;
-k̲'ud:k̲'wíid CLASS-UD-STEM-2 "for S to be hungry" ;
+k̲'ud:k̲' CLASS-UD-STEM "for S to be hungry" ;
 
 k̲'ud% dla'áaw CLASS-AAW "for S (sg) to lie down weak from hunger" ;
 
@@ -21308,8 +21298,7 @@ stl'a% k̲'íit'as CLASS-AS-STEM-1 "for S to button O [garment] up" ;
 stl'a% k̲'íit'as:stl'a% k̲'íit'íij CLASS-AS-STEM-2 "for S to button O [garment] up" ;
 stl'a% k̲'íit'as:stl'a% k̲'íit'áj CLASS-AS-STEM-3 "for S to button O [garment] up" ;
 
-stla% k̲'ud CLASS-UD-STEM-1 "for S to have hands that are stiff and numb from the cold" ;
-stla% k̲'ud:stla% k̲'wíid CLASS-UD-STEM-2 "for S to have hands that are stiff and numb from the cold" ;
+stla% k̲'ud:stla% k̲' CLASS-UD-STEM "for S to have hands that are stiff and numb from the cold" ;
 
 stla% sk'a'amáa CLASS-AA "for S to play cat's cradle with C [string]" ;
 
@@ -24898,8 +24887,7 @@ ts'íiga CLASS-A-STEM-1 "for it to rain and be windy" ;
 ts'íiga:ts'íigä CLASS-A-STEM-2 "for it to rain and be windy" ;
 ts'íiga:ts'íigáa CLASS-A-STEM-3 "for it to rain and be windy" ;
 
-ts'íigud CLASS-UD-STEM-1 "for S to squirt [said of clams only]" ;
-ts'íigud:ts'íigwíid CLASS-UD-STEM-2 "for S to squirt [said of clams only]" ;
+ts'íigud:ts'íig CLASS-UD-STEM "for S to squirt [said of clams only]" ;
 
 ts'íihldäga CLASS-A-STEM-1 "for S to make a distant roar [such as breakers on the shore]" ;
 ts'íihldäga:ts'íihldägä CLASS-A-STEM-2 "for S to make a distant roar [such as breakers on the shore]" ;
@@ -25556,8 +25544,7 @@ xál% k̲áat'e%.ehl:xál% k̲áat'eehl CLASS-E.EHL-STEM-2 "for S to boil over [
 xál% k̲áat'e%.ehl:xál% k̲áat'e%.eel CLASS-E.EHL-STEM-3 "for S to boil over [said of the contents of a pot]" ;
 !xál% k̲áat'e%.ehl:xál% k̲áat'e%.eel CLASS-E.EHL-STEM-4 "for S to boil over [said of the contents of a pot]" ;
 
-xál% k̲'álud CLASS-UD-STEM-1 "for S to get moldy from the heat" ;
-xál% k̲'álud:xál% k̲'álwíid CLASS-UD-STEM-2 "for S to get moldy from the heat" ;
+xál% k̲'álud:xál% k̲'ál CLASS-UD-STEM "for S to get moldy from the heat" ;
 
 xál% saagáa CLASS-AA "for S to have gotten sunstroke, to have fainted from the heat" ;
 
