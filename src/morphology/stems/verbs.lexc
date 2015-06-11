@@ -1792,7 +1792,7 @@ di%.ínsga:di%.ínsgä CLASS-A-STEM-2 "for S to fail to find X" ;
 di%.ínsga:di%.ínsgáa CLASS-A-STEM-3 "for S to fail to find X" ;
 
 díigud CLASS-UD-STEM-1 "for S to bum food" ;
-díigud:díigwíid CLASS-UD-STEM-2 "for S to bum food" ;
+díigud:díigwiid CLASS-UD-STEM-2 "for S to bum food" ;
 
 díinaa CLASS-AA "for there to be a cave or tunnel in a location" ;
 
@@ -5993,7 +5993,7 @@ g̲íihlda:g̲íihldáa CLASS-A-STEM-3 "for S to beat or defeat C in a contest" 
 g̲íihldayaa CLASS-AA "for S to have been given up on" ;
 
 g̲íihlgii CLASS-II-STEM-1 "for S to be ready, completed" ;
-g̲íihlgii:g̲íihlgáay CLASS-II-STEM-2 "for S to be ready, completed" ;
+g̲íihlgii:g̲íihlgaay CLASS-II-STEM-2 "for S to be ready, completed" ;
 
 g̲íihlgiida CLASS-A-STEM-1 "for S to get C ready, complete C, finish C" ;
 g̲íihlgiida:g̲íihlgiidä CLASS-A-STEM-2 "for S to get C ready, complete C, finish C" ;
@@ -7949,7 +7949,7 @@ hltanáada:hltanáadä CLASS-A-STEM-2 "for S to keep C soft" ;
 hltanáada:hltanáadáa CLASS-A-STEM-3 "for S to keep C soft" ;
 
 hltanée%.eehl CLASS-EEHL-STEM-1 "for S to thaw out" ;
-hltanée%.eehl:hltanée%.éel CLASS-EEHL-STEM-2 "for S to thaw out" ;
+hltanée%.eehl:hltanée%.eel CLASS-EEHL-STEM-2 "for S to thaw out" ;
 
 hltáamid CLASS-ID-STEM-1 "for S to pick O (sg) {hltáam} up, to pick O {sg) {hltáam} up and take off with it (in direction), to carry O (sg) {hltáam} off, to take O (sg) {hltáam} away" ;
 hltáamid:hltáamíid CLASS-ID-STEM-2 "for S to pick O (sg) {hltáam} up, to pick O {sg) {hltáam} up and take off with it (in direction), to carry O (sg) {hltáam} off, to take O (sg) {hltáam} away" ;
@@ -9864,7 +9864,7 @@ INS% k'únganda:INS% k'úngandáa CLASS-A-STEM-3 "for S to make C into a {k'u} s
 INS% k'úngandayee%.elaa CLASS-AA "for S to have been made into a {k'u} shape, to have been made to be {k'u} shaped" ;
 
 INS% kúnid CLASS-ID-STEM-1 "for S to pick O (sg) {kún} up by INS, to pick O {sg) {kún} up and take off with it by INS (in direction), to carry O (sg) {kún} off by INS, to take O (sg) {kún} away by INS" ;
-INS% kúnid:INS% kúníid CLASS-ID-STEM-2 "for S to pick O (sg) {kún} up by INS, to pick O {sg) {kún} up and take off with it by INS (in direction), to carry O (sg) {kún} off by INS, to take O (sg) {kún} away by INS" ;
+INS% kúnid:INS% kúniid CLASS-ID-STEM-2 "for S to pick O (sg) {kún} up by INS, to pick O {sg) {kún} up and take off with it by INS (in direction), to carry O (sg) {kún} off by INS, to take O (sg) {kún} away by INS" ;
 
 INS% kúnisahlda CLASS-A-STEM-1 "for S to wave, swing or rock C (sg) {kún} back and forth once by INS" ;
 INS% kúnisahlda:INS% kúnisahldä CLASS-A-STEM-2 "for S to wave, swing or rock C (sg) {kún} back and forth once by INS" ;
@@ -14422,11 +14422,11 @@ kúnhlalandä% x̲ánsgad:kúnhlalandä% x̲ánsgíid CLASS-AD-STEM-2 "for S to 
 kúnhliyaa CLASS-AA "for S's knee to have gotten speained, dislocated, gone out of joint" ;
 
 kúnid CLASS-ID-STEM-1 "for S to pick O (sg) {kún} up, to pick O {sg) {kún} up and take off with it (in direction), to carry O (sg) {kún} off, to take O (sg) {kún} away" ;
-kúnid:kúníid CLASS-ID-STEM-2 "for S to pick O (sg) {kún} up, to pick O {sg) {kún} up and take off with it (in direction), to carry O (sg) {kún} off, to take O (sg) {kún} away" ;
+kúnid:kúniid CLASS-ID-STEM-2 "for S to pick O (sg) {kún} up, to pick O {sg) {kún} up and take off with it (in direction), to carry O (sg) {kún} off, to take O (sg) {kún} away" ;
 
 kúnisahlda CLASS-A-STEM-1 "for S (sg) {kún} to wave, swing or rock back and forth once" ;
 kúnisahlda:kúnisahldä CLASS-A-STEM-2 "for S (sg) {kún} to wave, swing or rock back and forth once" ;
-kúnisahlda:kúnisahldáa CLASS-A-STEM-3 "for S (sg) {kún} to wave, swing or rock back and forth once" ;
+kúnisahlda:kúnisahldaa CLASS-A-STEM-3 "for S (sg) {kún} to wave, swing or rock back and forth once" ;
 
 kúnjuu CLASS-UU-STEM-1 "for S (sg) to reach its limit, end in location; to end, stop in location" ;
 kúnjuu:kúnjáaw CLASS-UU-STEM-2 "for S (sg) to reach its limit, end in location; to end, stop in location" ;
