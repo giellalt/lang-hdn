@@ -11,7 +11,7 @@ Alphabet
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
  G̲ K̲ X̲
- 
+ %  ! this is a space
  %>:0 	!!= * @CODE@ affix boundary
  %^WS:0    !!= * @CODE@ white space dummy
  %^ENDA:0
@@ -34,7 +34,7 @@ Sets
  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ç ý ñ ; !!= * @CODE@
  Orth = . ;
  Endings =  %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;
- Sgm = Vow Cns Orth  ; !!= * @CODE@
+ Sgm = Vow Cns Orth   ; !!= * @CODE@
 
  
 Definitions 
@@ -52,7 +52,7 @@ Rules
 
 "h deletion in hl stems before long a, g"
 ! rulename
- h:0 <=> \:e _ l %>: [%^ENDB: | %^ENDC: ] ! áljahl:áljal
+ h:0 <=> \:e _ l %>: [%^ENDB: | %^ENDC: ] ; ! áljahl:áljal skyáahl%>ga
 
 
 ! Please check the \:e restriction after CLASS-E.EHL-STEM has been merged in the
@@ -61,7 +61,7 @@ Rules
 
 "al to aal at the end of al" 
 !! __@RULENAME@__ al changes to aal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
-0:a <=> _ a h:0 l  %>: %^ENDC: [' | :á | :a ]  ; áljahl:áljaal
+0:a <=> _ a h:0 l  %>: %^ENDC: [' | :á | :a ]  ; !áljahl:áljaal
 
 
 
@@ -86,8 +86,9 @@ Rules
 ! Destressing
 
 "Destressing rule"
-!! __@RULENAME@__ - a general rule
-Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] ?*  %>:  (Endings:) Sgm:* _  ;
+!! __@RULENAME@__ - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
+Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:*  %>:  (Endings:) Sgm:* _  ;
+          [ á: | é: | í: | ó: | ú: ] Sgm:* 0:Vow Vow: Cns:+  %>:  (Endings:) Sgm:* _  ; 
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )
  	      matched ;
