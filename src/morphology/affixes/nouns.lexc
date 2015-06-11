@@ -1,36 +1,36 @@
 !! Noun inflection
 !! ---------------
-!! The UNDEFINED language nouns inflect in cases.
+!! Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
 
-LEXICON n
-+N+Def:%>aay # ;
-+N+Indef: # ;
+!! We need to declare these tags somewhere or everything is terrible.
+!! +Def, +Indef, +NonRfx, +Rfx
 
-LEXICON XHA
-+N+Def:%>ay # ;
-+N+Indef: # ;
 
-LEXICON DAALAA
-+N+Def:%>y # ;
-+N+Indef: # ;
+LEXICON Common
 
-LEXICON DUUS
-+N+Def:%>aay # ;
 +N+Indef: # ;
++N+Def+Dial/NOT-M:%>^DEFáay
++N+Def+Dial/NOT-A:%>^DEFée
 
-LEXICON GWAAHL
-+N+Def:%>aay # ;
-+N+Indef: # ;
+!! Need some TWOLC rules for: 
+!! hl > l / _ ^DEF
+!! s2 > j / _ ^DEF
+!! aan > an  / _ ^DEF
+!! V^ACC > v / _ (..) ^DEF (de-accent stem before Definite suffix)
 
-LEXICON SDLAAGWAAL
-+N+Def:%>aay # ;
-+N+Indef: # ;
+LEXICON Body_Part
 
-LEXICON GATAADAAN
-+N+Def:%>aay # ;
-+N+Indef: # ;
++N: # ;
++N+Rfx:%>áng ;
 
-LEXICON SLOANS
-+N+Def:%>gaay # ;
-+N+Indef: # ;
+LEXICON Kinterm
+
++N+Sg: # ;
++N+Rfx:%>áng ; !! Does Rfx override Pl, or other way around?
++N+Pl:%>äláng ;
+
+LEXICON Indeclinable
+
++N+Def: # ; !! Does this work?
++N+Indef: # ; !! Does this work?
 
