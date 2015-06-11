@@ -325,8 +325,7 @@ chabid:chab CLASS-ID-STEM "for S to pick O (sg) {chab} up, to pick O {sg) {chab}
 chablagúng CLASS-UNG-STEM-1 "for S (pl) {chab} to fall through the air" ;
 chablagúng:chablagwáang CLASS-UNG-STEM-2 "for S (pl) {chab} to fall through the air" ;
 
-chabwíi CLASS-II-STEM-1 "for S (sg) {chab} to fall through the air" ;
-chabwíi:chabwáay CLASS-II-STEM-2 "for S (sg) {chab} to fall through the air" ;
+chabwíi:chabw CLASS-II-STEM "for S (sg) {chab} to fall through the air" ;
 
 chada CLASS-A-STEM-1 "for S to soak C, causing C to swell with liquid" ;
 chada:chadä CLASS-A-STEM-2 "for S to soak C, causing C to swell with liquid" ;
@@ -399,8 +398,7 @@ chasdliyáa CLASS-AA "for S to have cleared up [said of clouds, fog]" ;
 
 chat'íisk'waa CLASS-AA "for S to be (some kind of) a jacket" ;
 
-chawíi CLASS-II-STEM-1 "for S (sg) {cha} to fall through the air" ;
-chawíi:chawáay CLASS-II-STEM-2 "for S (sg) {cha} to fall through the air" ;
+chawíi:chaw CLASS-II-STEM "for S (sg) {cha} to fall through the air" ;
 
 chayáang CLASS-AANG "for S (sg) {cha} to hang down" ;
 
@@ -441,8 +439,7 @@ cháamnganda CLASS-A-STEM-1 "for S {cháam} to be whole, to be complete, to be a
 cháamnganda:cháamngandä CLASS-A-STEM-2 "for S {cháam} to be whole, to be complete, to be a {cháam} shaped object" ;
 cháamnganda:cháamngandáa CLASS-A-STEM-3 "for S {cháam} to be whole, to be complete, to be a {cháam} shaped object" ;
 
-cháamwii CLASS-II-STEM-1 "for S (sg) {cháam} to fall through the air" ;
-cháamwii:cháamwaay CLASS-II-STEM-2 "for S (sg) {cháam} to fall through the air" ;
+cháamwii:cháamw CLASS-II-STEM "for S (sg) {cháam} to fall through the air" ;
 
 cháanaa CLASS-AA "for S to be muddy" ;
 
@@ -768,8 +765,7 @@ dabsahlda:dabsahldáa CLASS-A-STEM-3 "for S to become exposed [said of a person'
 
 dabunáng:dabuná CLASS-ANG-STEM "for S (sg) {dab} to roll" ;
 
-dabwíi CLASS-II-STEM-1 "for S (sg) {dab} to fall through the air" ;
-dabwíi:dabwáay CLASS-II-STEM-2 "for S (sg) {dab} to fall through the air" ;
+dabwíi:dabw CLASS-II-STEM "for S (sg) {dab} to fall through the air" ;
 
 dabyuwa CLASS-A-STEM-1 "for S (sg) {dab} to hang down (in location or direction)" ;
 dabyuwa:dabyuwä CLASS-A-STEM-2 "for S (sg) {dab} to hang down (in location or direction)" ;
@@ -801,8 +797,7 @@ dagw% g̲isga CLASS-A-STEM-1 "for S to fail with X despite using all their stren
 dagw% g̲isga:dagw% g̲isgä CLASS-A-STEM-2 "for S to fail with X despite using all their strength" ;
 dagw% g̲isga:dagw% g̲isgáa CLASS-A-STEM-3 "for S to fail with X despite using all their strength" ;
 
-dagw% g̲íihlgii CLASS-II-STEM-1 "for S to finish C, complete C, get C ready by working hard" ;
-dagw% g̲íihlgii:dagw% g̲íihlgaay CLASS-II-STEM-2 "for S to finish C, complete C, get C ready by working hard" ;
+dagw% g̲íihlgii:dagw% g̲íihlg CLASS-II-STEM "for S to finish C, complete C, get C ready by working hard" ;
 
 dagw% g̲íihlgiigaa CLASS-AA "for S to have been finished, completed, gotten ready by hard work" ;
 
@@ -946,8 +941,7 @@ dáa'ad:dáa' CLASS-AD-STEM "for S to get pinched in, get narrowed in a single p
 
 dáa'adaa CLASS-AA "for S to be pinched in, narrowed in at a single place" ;
 
-dáa'adii CLASS-II-STEM-1 "for S to get pinched in, get narrowed in places" ;
-dáa'adii:dáa'adáay CLASS-II-STEM-2 "for S to get pinched in, get narrowed in places" ;
+dáa'adii:dáa'ad CLASS-II-STEM "for S to get pinched in, get narrowed in places" ;
 
 dáa'adiigaa CLASS-AA "for S to be pinched in, narrowed in in places" ;
 
@@ -1034,8 +1028,7 @@ dáalt'asda:dáalt'asdáa CLASS-A-STEM-3 "for S to strain, filter C" ;
 
 dáalunang:dáaluná CLASS-ANG-STEM "for S to wash away with the current" ;
 
-dáalwii CLASS-II-STEM-1 "for S to come/go using the current or wind" ;
-dáalwii:dáalwáay CLASS-II-STEM-2 "for S to come/go using the current or wind" ;
+dáalwii:dáalw CLASS-II-STEM "for S to come/go using the current or wind" ;
 
 dáan% g̲aawda CLASS-A-STEM-1 "for S to think things are going well for X" ;
 dáan% g̲aawda:dáan% g̲aawdä CLASS-A-STEM-2 "for S to think things are going well for X" ;
@@ -1108,8 +1101,7 @@ dámts'wahlda:dámts'wahldáa CLASS-A-STEM-3 "for S to go into a spasm when dyin
 
 dám'uldang:dám'uldá CLASS-ANG-STEM "for there to be a pounding pain in X" ;
 
-dámwii CLASS-II-STEM-1 "for S (sg) {dám} to fall through the air" ;
-dámwii:dámwáay CLASS-II-STEM-2 "for S (sg) {dám} to fall through the air" ;
+dámwii:dámw CLASS-II-STEM "for S (sg) {dám} to fall through the air" ;
 
 dámyaang CLASS-AANG "for S (sg) {dám} to hang down" ;
 
@@ -1812,8 +1804,7 @@ dlats'alanga CLASS-A-STEM-1 "for S to be habitually active and lively" ;
 dlats'alanga:dlats'alangä CLASS-A-STEM-2 "for S to be habitually active and lively" ;
 dlats'alanga:dlats'alangáa CLASS-A-STEM-3 "for S to be habitually active and lively" ;
 
-dlawíi CLASS-II-STEM-1 "for S (sg) {dla} to fall through the air" ;
-dlawíi:dlawáay CLASS-II-STEM-2 "for S (sg) {dla} to fall through the air" ;
+dlawíi:dlaw CLASS-II-STEM "for S (sg) {dla} to fall through the air" ;
 
 dla%.agad% dag̲anga CLASS-A-STEM-1 "for S to have a bad figure [said of persons only]" ;
 dla%.agad% dag̲anga:dla%.agad% dag̲angä CLASS-A-STEM-2 "for S to have a bad figure [said of persons only]" ;
@@ -1834,8 +1825,7 @@ dláamnganda:dláamngandáa CLASS-A-STEM-3 "for S {dláam} to be whole, to be co
 
 dláamunang:dláamuna CLASS-ANG-STEM "for S (sg) {dláam} to roll" ;
 
-dláamwii CLASS-II-STEM-1 "for S (sg) {dláam} to fall through the air" ;
-dláamwii:dláamwaay CLASS-II-STEM-2 "for S (sg) {dláam} to fall through the air" ;
+dláamwii:dláamw CLASS-II-STEM "for S (sg) {dláam} to fall through the air" ;
 
 dláan CLASS-AAN "for S to be free of evil spirits" ;
 
@@ -1937,13 +1927,11 @@ dúu% g̲ad:dúu% g̲ CLASS-AD-STEM "for S (sg) to run and go get O, grab O fast
 
 dúu% hlga'ad:dúu% hlga' CLASS-AD-STEM "for S (sg) to run fast and get O, to quickly grab O" ;
 
-dúu% hlga'adíi CLASS-II-STEM-1 "for S (pl) to run fast and get O, to quickly grab O" ;
-dúu% hlga'adíi:dúu% hlga'adáay CLASS-II-STEM-2 "for S (pl) to run fast and get O, to quickly grab O" ;
+dúu% hlga'adíi:dúu% hlga'ad CLASS-II-STEM "for S (pl) to run fast and get O, to quickly grab O" ;
 
 dúu% jah'ad:dúu% jah' CLASS-AD-STEM "for S (sg) to run fast and get O, to quickly grab O [said of an untidy person]" ;
 
-dúu% jah'adíi CLASS-II-STEM-1 "for S (pl) to run fast and get O, to quickly grab O [said of untidy people]" ;
-dúu% jah'adíi:dúu% jah'adáay CLASS-II-STEM-2 "for S (pl) to run fast and get O, to quickly grab O [said of untidy people]" ;
+dúu% jah'adíi:dúu% jah'ad CLASS-II-STEM "for S (pl) to run fast and get O, to quickly grab O [said of untidy people]" ;
 
 dúu% k̲'áahluu CLASS-UU-STEM-1 "for S to get up from a rest to go and get O" ;
 dúu% k̲'áahluu:dúu% k̲'áahláaw CLASS-UU-STEM-2 "for S to get up from a rest to go and get O" ;
@@ -2033,8 +2021,7 @@ gab'ad:gab' CLASS-AD-STEM "for S (sg) to quickly come/go through, quickly penetr
 
 gab'adáa CLASS-AA "for S (sg) to have penetrated (in direction) [said of a 1-D object]" ;
 
-gab'adíi CLASS-II-STEM-1 "for S (pl) to quickly come/go through, quickly penetrate [said of 1-D objects]" ;
-gab'adíi:gab'adáay CLASS-II-STEM-2 "for S (pl) to quickly come/go through, quickly penetrate [said of 1-D objects]" ;
+gab'adíi:gab'ad CLASS-II-STEM "for S (pl) to quickly come/go through, quickly penetrate [said of 1-D objects]" ;
 
 gab'adíigaa CLASS-AA "for S (pl) to have penetrated (in direction) [said of a 1-D object]" ;
 
@@ -2089,8 +2076,7 @@ gawadáa CLASS-AA "for S to be short of money (for Xnc)" ;
 
 gawädáa CLASS-AA "for S to have beads on, be beaded" ;
 
-gawíi CLASS-II-STEM-1 "for S (sg) {ga} to fall through the air" ;
-gawíi:gawáay CLASS-II-STEM-2 "for S (sg) {ga} to fall through the air" ;
+gawíi:gaw CLASS-II-STEM "for S (sg) {ga} to fall through the air" ;
 
 gayéed CLASS-EED "to V accidentally, to happen to V" ;
 
@@ -2147,8 +2133,7 @@ gám'uhlda CLASS-A-STEM-1 "for S to curl up [said of a chiton, leaf, something c
 gám'uhlda:gám'uhldä CLASS-A-STEM-2 "for S to curl up [said of a chiton, leaf, something crocheted or knitted]" ;
 gám'uhlda:gám'uhldáa CLASS-A-STEM-3 "for S to curl up [said of a chiton, leaf, something crocheted or knitted]" ;
 
-gámwii CLASS-II-STEM-1 "for S (sg) {gám} to fall through the air" ;
-gámwii:gámwáay CLASS-II-STEM-2 "for S (sg) {gám} to fall through the air" ;
+gámwii:gámw CLASS-II-STEM "for S (sg) {gám} to fall through the air" ;
 
 gámyuwa CLASS-A-STEM-1 "for S (sg) {gám} to hang down (in location or direction)" ;
 gámyuwa:gámyuwä CLASS-A-STEM-2 "for S (sg) {gám} to hang down (in location or direction)" ;
@@ -2173,8 +2158,7 @@ gánglagung:gánglagwáang CLASS-UNG-STEM-2 "for S (pl) {gáng} to fall through 
 
 gángunang:gánguná CLASS-ANG-STEM "for S (sg) {gáng} to roll" ;
 
-gángwii CLASS-II-STEM-1 "for S (sg) {gáng} to fall through the air" ;
-gángwii:gángwáay CLASS-II-STEM-2 "for S (sg) {gáng} to fall through the air" ;
+gángwii:gángw CLASS-II-STEM "for S (sg) {gáng} to fall through the air" ;
 
 gáng%.nganda CLASS-A-STEM-1 "for S {gáng} to be whole, to be complete, to be a {gáng} shaped object" ;
 gáng%.nganda:gáng%.ngandä CLASS-A-STEM-2 "for S {gáng} to be whole, to be complete, to be a {gáng} shaped object" ;
@@ -2253,8 +2237,7 @@ gáwnganda:gáwngandáa CLASS-A-STEM-3 "for S {gáw} to be whole, to be complete
 
 gáwunang:gáwuna CLASS-ANG-STEM "for S (sg) {gáw} to roll" ;
 
-gáwwii CLASS-II-STEM-1 "for S (sg) {gáw} to fall through the air" ;
-gáwwii:gáwwáay CLASS-II-STEM-2 "for S (sg) {gáw} to fall through the air" ;
+gáwwii:gáww CLASS-II-STEM "for S (sg) {gáw} to fall through the air" ;
 
 gáwyaang CLASS-AANG "for S (sg) {gáw} to hang down" ;
 
@@ -2365,8 +2348,7 @@ gidúuda CLASS-A-STEM-1 "for S to eat O with X by scooping it up [said of dried 
 gidúuda:gidúudä CLASS-A-STEM-2 "for S to eat O with X by scooping it up [said of dried fillets or dried herring roe on kelp, eaten with grease, syrup, jam, gravy; or the reverse]" ;
 gidúuda:gidúudáa CLASS-A-STEM-3 "for S to eat O with X by scooping it up [said of dried fillets or dried herring roe on kelp, eaten with grease, syrup, jam, gravy; or the reverse]" ;
 
-gidwíi CLASS-II-STEM-1 "for S (sg) {gid} to fall through the air" ;
-gidwíi:gidwáay CLASS-II-STEM-2 "for S (sg) {gid} to fall through the air" ;
+gidwíi:gidw CLASS-II-STEM "for S (sg) {gid} to fall through the air" ;
 
 gidwíi'uhla CLASS-A-STEM-1 "for S to get up from a rest [said of a high-class person] [used sarcastically]" ;
 gidwíi'uhla:gidwíi'uhlä CLASS-A-STEM-2 "for S to get up from a rest [said of a high-class person] [used sarcastically]" ;
@@ -2515,8 +2497,7 @@ gist'ä% gilagayáa CLASS-AA "for S (pl) to have been taken off [said of kerchie
 
 gist'ä% giwayáa CLASS-AA "for S (sg) to have been taken off [said of a kerchief]" ;
 
-gist'ä% giwíi CLASS-II-STEM-1 "for S to take off C (sg) [said of a kerchief]" ;
-gist'ä% giwíi:gist'ä% giwáay CLASS-II-STEM-2 "for S to take off C (sg) [said of a kerchief]" ;
+gist'ä% giwíi:gist'ä% giw CLASS-II-STEM "for S to take off C (sg) [said of a kerchief]" ;
 
 gisuwáa CLASS-AA "for S to have been wiped, wiped off [said of a surface, not the material wiped off]" ;
 
@@ -2561,8 +2542,7 @@ giwahl% g̲a'adáa CLASS-AA "for S to have been broken while someone attempted t
 
 giwangáa CLASS-AA "for S (sg) to have been broken apart by bending, snapping, to have been bent or snapped apart (in direction)" ;
 
-giwándlii CLASS-II-STEM-1 "for S to jump aboard [either from a float, wharf or other boat]" ;
-giwándlii:giwándláay CLASS-II-STEM-2 "for S to jump aboard [either from a float, wharf or other boat]" ;
+giwándlii:giwándl CLASS-II-STEM "for S to jump aboard [either from a float, wharf or other boat]" ;
 
 giwáng:giwá CLASS-ANG-STEM "for S to bend and snap C (sg) (in direction)" ;
 
@@ -2574,8 +2554,7 @@ giwánggayaa CLASS-AA "for S (pl) to have been broken apart by bending, snapping
 
 giwánt'ahl CLASS-AHL-STEM "for S to quit work and leave X [said of a crew member leaving a boat]" ;
 
-giwíi CLASS-II-STEM-1 "for S (sg) {gi} to fall through the air" ;
-giwíi:giwáay CLASS-II-STEM-2 "for S (sg) {gi} to fall through the air" ;
+giwíi:giw CLASS-II-STEM "for S (sg) {gi} to fall through the air" ;
 
 giya CLASS-A-STEM-1 "for S to weave" ;
 giya:giyä CLASS-A-STEM-2 "for S to weave" ;
@@ -2603,8 +2582,7 @@ gi%.ida:gi%.idáa CLASS-A-STEM-3 "for S to shake [said of an animal]" ;
 
 gi%.idáang CLASS-AANG "for S to gather red cedar cambium" ;
 
-gíi CLASS-II-STEM-1 "for S to swim underwater (in direction) [said of fish and whales only]" ;
-gíi:gáay CLASS-II-STEM-2 "for S to swim underwater (in direction) [said of fish and whales only]" ;
+gíi:g CLASS-II-STEM "for S to swim underwater (in direction) [said of fish and whales only]" ;
 
 gíi% dúugang:gíi% dúugá CLASS-ANG-STEM "for S (sg) to float listing [said of a boat or its occupants]" ;
 
@@ -2635,8 +2613,7 @@ gíi% k̲ánt'as:gíi% k̲ánt'áj CLASS-AS-STEM-3 "for S [high water] to be rig
 
 gíi% xab'ad:gíi% xab' CLASS-AD-STEM "for S (sg) to swim fast (in direction)" ;
 
-gíi% xab'adíi CLASS-II-STEM-1 "for S (pl) to swim fast (in direction)" ;
-gíi% xab'adíi:gíi% xab'adáay CLASS-II-STEM-2 "for S (pl) to swim fast (in direction)" ;
+gíi% xab'adíi:gíi% xab'ad CLASS-II-STEM "for S (pl) to swim fast (in direction)" ;
 
 gíi% x̲íigang:gíi% x̲íigá CLASS-ANG-STEM "for S to make a sharp repetitive noise by being crashed on by waves" ;
 
@@ -2648,8 +2625,7 @@ gíi'ad:gíi' CLASS-AD-STEM "for S to seize or appropriate C (against debt for X
 
 gíi'adaa CLASS-AA "for S to have been seized or appropriated (against debt for X), have been plundered" ;
 
-gíi'adii CLASS-II-STEM-1 "for S to seize or appropriate C (pl) (against debt for X), plunder C (pl)" ;
-gíi'adii:gíi'adáay CLASS-II-STEM-2 "for S to seize or appropriate C (pl) (against debt for X), plunder C (pl)" ;
+gíi'adii:gíi'ad CLASS-II-STEM "for S to seize or appropriate C (pl) (against debt for X), plunder C (pl)" ;
 
 gíi'adiigaa CLASS-AA "for S (pl) to have been seized or appropriated (against debt for X), have been plundered" ;
 
@@ -2673,8 +2649,7 @@ gíidwahl CLASS-AHL-STEM "for S to be numerous, for there to be many S, a lot of
 
 gíihlagahl CLASS-AHL-STEM "for the tide to come in, rise (in direction)" ;
 
-gíihlä% gíi CLASS-II-STEM-1 "for it to be slack high water" ;
-gíihlä% gíi:gíihlä% gáay CLASS-II-STEM-2 "for it to be slack high water" ;
+gíihlä% gíi:gíihlä% g CLASS-II-STEM "for it to be slack high water" ;
 
 gíihlä% gíisa CLASS-A-STEM-1 "for it to be slack low water now" ;
 gíihlä% gíisa:gíihlä% gíisä CLASS-A-STEM-2 "for it to be slack low water now" ;
@@ -2706,8 +2681,7 @@ gíisdlada CLASS-A-STEM-1 "for S (sg) to wade out up to one's X [said of a body 
 gíisdlada:gíisdladä CLASS-A-STEM-2 "for S (sg) to wade out up to one's X [said of a body part]" ;
 gíisdlada:gíisdladáa CLASS-A-STEM-3 "for S (sg) to wade out up to one's X [said of a body part]" ;
 
-gíisdlagii CLASS-II-STEM-1 "for there to be slack water (high or low) now" ;
-gíisdlagii:gíisdlagáay CLASS-II-STEM-2 "for there to be slack water (high or low) now" ;
+gíisdlagii:gíisdlag CLASS-II-STEM "for there to be slack water (high or low) now" ;
 
 gíisdliyaada CLASS-A-STEM-1 "for S to have C (sg) floating" ;
 gíisdliyaada:gíisdliyaadä CLASS-A-STEM-2 "for S to have C (sg) floating" ;
@@ -2805,8 +2779,7 @@ gíng% k'wa%.áydanda CLASS-A-STEM-1 "for S to not believe that they saw X" ;
 gíng% k'wa%.áydanda:gíng% k'wa%.áydandä CLASS-A-STEM-2 "for S to not believe that they saw X" ;
 gíng% k'wa%.áydanda:gíng% k'wa%.áydandáa CLASS-A-STEM-3 "for S to not believe that they saw X" ;
 
-gíng% k̲'adíi CLASS-II-STEM-1 "for S to bewitch C (sg), turn C (sg) into a witch" ;
-gíng% k̲'adíi:gíng% k̲'adáay CLASS-II-STEM-2 "for S to bewitch C (sg), turn C (sg) into a witch" ;
+gíng% k̲'adíi:gíng% k̲'ad CLASS-II-STEM "for S to bewitch C (sg), turn C (sg) into a witch" ;
 
 gíng% k̲'adíigaa CLASS-AA "for S (sg) to have been bewitched, have been turned into a witch" ;
 
@@ -3229,8 +3202,7 @@ guwä% s'abdäga:guwä% s'abdägáa CLASS-A-STEM-3 "for S [rain] to pour hard st
 
 guwä% st'ah CLASS-AH "for S (sg) to fill up from rain" ;
 
-guwíi CLASS-II-STEM-1 "for S (sg) {gu} to fall through the air" ;
-guwíi:guwáay CLASS-II-STEM-2 "for S (sg) {gu} to fall through the air" ;
+guwíi:guw CLASS-II-STEM "for S (sg) {gu} to fall through the air" ;
 
 guyáandaal CLASS-AAL "for S (sg) to run along bent-over, to move along fast bent-over" ;
 
@@ -3423,8 +3395,7 @@ gyaa% k̲áa CLASS-AA "for S (sg) to come/go in fear" ;
 
 gyaa% xab'ad:gyaa% xab' CLASS-AD-STEM "for S (sg) to run in fear (in direction)" ;
 
-gyaa% xab'adíi CLASS-II-STEM-1 "for S (pl) to run in fear (in direction)" ;
-gyaa% xab'adíi:gyaa% xab'adáay CLASS-II-STEM-2 "for S (pl) to run in fear (in direction)" ;
+gyaa% xab'adíi:gyaa% xab'ad CLASS-II-STEM "for S (pl) to run in fear (in direction)" ;
 
 gyaa% xáwsda CLASS-A-STEM-1 "for S (pl) to run in fear" ;
 gyaa% xáwsda:gyaa% xáwsdä CLASS-A-STEM-2 "for S (pl) to run in fear" ;
@@ -3552,8 +3523,7 @@ gyáa% gáwda CLASS-A-STEM-1 "for S to lose something valuable" ;
 gyáa% gáwda:gyáa% gáwdä CLASS-A-STEM-2 "for S to lose something valuable" ;
 gyáa% gáwda:gyáa% gáwdáa CLASS-A-STEM-3 "for S to lose something valuable" ;
 
-gyáa% gíi CLASS-II-STEM-1 "for S to seize something as plunder or as payment (for X)" ;
-gyáa% gíi:gyáa% gáay CLASS-II-STEM-2 "for S to seize something as plunder or as payment (for X)" ;
+gyáa% gíi:gyáa% g CLASS-II-STEM "for S to seize something as plunder or as payment (for X)" ;
 
 gyáa% g̲adúu% g̲id:gyáa% g̲adúu% g̲ CLASS-ID-STEM "for S to perform as a shaman" ;
 
@@ -3583,8 +3553,7 @@ gyáa% kínsalanga CLASS-A-STEM-1 "for S to be a tattletale" ;
 gyáa% kínsalanga:gyáa% kínsalangä CLASS-A-STEM-2 "for S to be a tattletale" ;
 gyáa% kínsalanga:gyáa% kínsalangáa CLASS-A-STEM-3 "for S to be a tattletale" ;
 
-gyáa% k'wíi CLASS-II-STEM-1 "for S to accuse someone of witchcraft or sorcery" ;
-gyáa% k'wíi:gyáa% k'wáay CLASS-II-STEM-2 "for S to accuse someone of witchcraft or sorcery" ;
+gyáa% k'wíi:gyáa% k'w CLASS-II-STEM "for S to accuse someone of witchcraft or sorcery" ;
 
 gyáa% k̲áada CLASS-A-STEM-1 "for S to blame (X) for a theft" ;
 gyáa% k̲áada:gyáa% k̲áadä CLASS-A-STEM-2 "for S to blame (X) for a theft" ;
@@ -3635,8 +3604,7 @@ gyáa% tlagáaydaaga CLASS-A-STEM-1 "for S to habitually injure people by accide
 gyáa% tlagáaydaaga:gyáa% tlagáaydaagä CLASS-A-STEM-2 "for S to habitually injure people by accident, habitually break valuable things" ;
 gyáa% tlagáaydaaga:gyáa% tlagáaydaagáa CLASS-A-STEM-3 "for S to habitually injure people by accident, habitually break valuable things" ;
 
-gyáa% tl'íi CLASS-II-STEM-1 "for S to sew (with X [machine])" ;
-gyáa% tl'íi:gyáa% tl'áay CLASS-II-STEM-2 "for S to sew (with X [machine])" ;
+gyáa% tl'íi:gyáa% tl' CLASS-II-STEM "for S to sew (with X [machine])" ;
 
 gyáa% tlíi%.a CLASS-A-STEM-1 "for S to give something in exchange for a gift, to reciprocate" ;
 gyáa% tlíi%.a:gyáa% tlíi%.ä CLASS-A-STEM-2 "for S to give something in exchange for a gift, to reciprocate" ;
@@ -3688,8 +3656,7 @@ gyáamlagung:gyáamlagwaang CLASS-UNG-STEM-2 "for S (pl) {gyáam} to fall throug
 
 gyáamunang:gyáamuna CLASS-ANG-STEM "for S (sg) {gyáam} to roll" ;
 
-gyáamwii CLASS-II-STEM-1 "for S (sg) {gyáam} to fall through the air" ;
-gyáamwii:gyáamwaay CLASS-II-STEM-2 "for S (sg) {gyáam} to fall through the air" ;
+gyáamwii:gyáamw CLASS-II-STEM "for S (sg) {gyáam} to fall through the air" ;
 
 gyáawaa CLASS-AA "to V at the edge" ;
 
@@ -5014,8 +4981,7 @@ g̲agusdla:g̲agusdláa CLASS-A-STEM-3 "for S to flake off, chap [said of skin]"
 
 g̲agusdliyáa CLASS-AA "for S to have flaked off, chapped [said of skin]" ;
 
-g̲agwíi CLASS-II-STEM-1 "V for a long time (yet)" ;
-g̲agwíi:g̲agwáay CLASS-II-STEM-2 "V for a long time (yet)" ;
+g̲agwíi:g̲agw CLASS-II-STEM "V for a long time (yet)" ;
 
 g̲agyáawt'as CLASS-AS-STEM-1 "for S (sl) to fit together along their edges [said of boards, broken pieces of a plate, puzzle pieces, etc.]" ;
 g̲agyáawt'as:g̲agyáawt'íij CLASS-AS-STEM-2 "for S (sl) to fit together along their edges [said of boards, broken pieces of a plate, puzzle pieces, etc.]" ;
@@ -5214,8 +5180,7 @@ g̲awáansdla CLASS-A-STEM-1 "for S to set C in plural pans or bowls [said of br
 g̲awáansdla:g̲awáansdlä CLASS-A-STEM-2 "for S to set C in plural pans or bowls [said of bread, only]" ;
 g̲awáansdla:g̲awáansdláa CLASS-A-STEM-3 "for S to set C in plural pans or bowls [said of bread, only]" ;
 
-g̲awíi CLASS-II-STEM-1 "for S (sg) {g̲a} to fall through the air" ;
-g̲awíi:g̲awáay CLASS-II-STEM-2 "for S (sg) {g̲a} to fall through the air" ;
+g̲awíi:g̲aw CLASS-II-STEM "for S (sg) {g̲a} to fall through the air" ;
 
 g̲awsíigayaa CLASS-AA "for the wind to blow from the southeast (in summer) with a clear sky" ;
 
@@ -5363,8 +5328,7 @@ g̲áamnganda CLASS-A-STEM-1 "for S {g̲áam} to be whole, to be complete, to be
 g̲áamnganda:g̲áamngandä CLASS-A-STEM-2 "for S {g̲áam} to be whole, to be complete, to be a {g̲áam} shaped object" ;
 g̲áamnganda:g̲áamngandáa CLASS-A-STEM-3 "for S {g̲áam} to be whole, to be complete, to be a {g̲áam} shaped object" ;
 
-g̲áamwii CLASS-II-STEM-1 "for S (sg) {g̲áam} to fall through the air" ;
-g̲áamwii:g̲áamwaay CLASS-II-STEM-2 "for S (sg) {g̲áam} to fall through the air" ;
+g̲áamwii:g̲áamw CLASS-II-STEM "for S (sg) {g̲áam} to fall through the air" ;
 
 g̲áan% táawaa CLASS-AA "for S to be some kind of fruit nappy or fruit bowl" ;
 
@@ -5760,8 +5724,7 @@ g̲íihlda:g̲íihldáa CLASS-A-STEM-3 "for S to beat or defeat C in a contest" 
 
 g̲íihldayaa CLASS-AA "for S to have been given up on" ;
 
-g̲íihlgii CLASS-II-STEM-1 "for S to be ready, completed" ;
-g̲íihlgii:g̲íihlgaay CLASS-II-STEM-2 "for S to be ready, completed" ;
+g̲íihlgii:g̲íihlg CLASS-II-STEM "for S to be ready, completed" ;
 
 g̲íihlgiida CLASS-A-STEM-1 "for S to get C ready, complete C, finish C" ;
 g̲íihlgiida:g̲íihlgiidä CLASS-A-STEM-2 "for S to get C ready, complete C, finish C" ;
@@ -6054,8 +6017,7 @@ g̲úng% k̲ámunang:g̲úng% k̲ámuna CLASS-ANG-STEM "for S to break as whitec
 
 g̲úng% sk'aawnáng:g̲úng% sk'aawná CLASS-ANG-STEM "for S to break on shore [said of small waves]" ;
 
-g̲úng'adii CLASS-II-STEM-1 "for S (sg) to snap [said of a stick only]" ;
-g̲úng'adii:g̲úng'adáay CLASS-II-STEM-2 "for S (sg) to snap [said of a stick only]" ;
+g̲úng'adii:g̲úng'ad CLASS-II-STEM "for S (sg) to snap [said of a stick only]" ;
 
 g̲úng'adiigaa CLASS-AA "for S (sg) to have snapped in two [said of a stick]" ;
 
@@ -6229,8 +6191,7 @@ g̲wíi'uhlda:g̲wíi'uhldáa CLASS-A-STEM-3 "for S close both eyes, blink both 
 
 ðámunang:ðámuna CLASS-ANG-STEM "for S (sg) {ðám} to roll" ;
 
-ðámwii CLASS-II-STEM-1 "for S (sg) {ðám} to fall through the air" ;
-ðámwii:ðámwáay CLASS-II-STEM-2 "for S (sg) {ðám} to fall through the air" ;
+ðámwii:ðámw CLASS-II-STEM "for S (sg) {ðám} to fall through the air" ;
 
 hadée CLASS-EE "for S to use the word hadáa 'father' [said of a small girl]" ;
 
@@ -6582,8 +6543,7 @@ hlgats'ägahlda CLASS-A-STEM-1 "for S to tighten muscles of C [their own body pa
 hlgats'ägahlda:hlgats'ägahldä CLASS-A-STEM-2 "for S to tighten muscles of C [their own body part]" ;
 hlgats'ägahlda:hlgats'ägahldáa CLASS-A-STEM-3 "for S to tighten muscles of C [their own body part]" ;
 
-hlgawíi CLASS-II-STEM-1 "for S (sg) {hlga} to fall through the air" ;
-hlgawíi:hlgawáay CLASS-II-STEM-2 "for S (sg) {hlga} to fall through the air" ;
+hlgawíi:hlgaw CLASS-II-STEM "for S (sg) {hlga} to fall through the air" ;
 
 hlgayáandaal CLASS-AAL "for S (sg) to move along fast [said of a frog]" ;
 
@@ -6632,8 +6592,7 @@ hlgáamisahlda:hlgáamisahldáa CLASS-A-STEM-3 "for S (sg) {hlgáam} to wave, sw
 hlgáamlagung CLASS-UNG-STEM-1 "for S (pl) {hlgáam} to fall through the air" ;
 hlgáamlagung:hlgáamlagwaang CLASS-UNG-STEM-2 "for S (pl) {hlgáam} to fall through the air" ;
 
-hlgáamwii CLASS-II-STEM-1 "for S (sg) {hlgáam} to fall through the air" ;
-hlgáamwii:hlgáamwaay CLASS-II-STEM-2 "for S (sg) {hlgáam} to fall through the air" ;
+hlgáamwii:hlgáamw CLASS-II-STEM "for S (sg) {hlgáam} to fall through the air" ;
 
 hlgált'i%.id:hlgált'i%. CLASS-ID-STEM "for S to shrink when cooked or heated [said of meat, shellfish, clothing]" ;
 
@@ -6721,8 +6680,7 @@ hlgiisahlda:hlgiisahldáa CLASS-A-STEM-3 "for S (sg) {hlga} to wave, swing or ro
 hlgilagúng CLASS-UNG-STEM-1 "for S (pl) {hlgi} to fall through the air" ;
 hlgilagúng:hlgilagwáang CLASS-UNG-STEM-2 "for S (pl) {hlgi} to fall through the air" ;
 
-hlgiwíi CLASS-II-STEM-1 "for S (sg) {hlgi} to fall through the air" ;
-hlgiwíi:hlgiwáay CLASS-II-STEM-2 "for S (sg) {hlgi} to fall through the air" ;
+hlgiwíi:hlgiw CLASS-II-STEM "for S (sg) {hlgi} to fall through the air" ;
 
 hlgiyáang CLASS-AANG "for S (sg) {hlgi} to hang down" ;
 
@@ -6818,8 +6776,7 @@ hlg̲awäya:hlg̲awäyáa CLASS-A-STEM-3 "for S to be mistrustful, a skeptic, to
 
 hlg̲awäyáa CLASS-AA "for X to be suspicious, be a cause for investigation" ;
 
-hlg̲awíi CLASS-II-STEM-1 "for S (sg) {hlg̲a} to fall through the air" ;
-hlg̲awíi:hlg̲awáay CLASS-II-STEM-2 "for S (sg) {hlg̲a} to fall through the air" ;
+hlg̲awíi:hlg̲aw CLASS-II-STEM "for S (sg) {hlg̲a} to fall through the air" ;
 
 hlg̲aya CLASS-A-STEM-1 "to call or summon (X) to come (in direction)" ;
 hlg̲aya:hlg̲ayä CLASS-A-STEM-2 "to call or summon (X) to come (in direction)" ;
@@ -6857,8 +6814,7 @@ hlg̲áamnganda:hlg̲áamngandáa CLASS-A-STEM-3 "for S {hlg̲áam} to be whole,
 
 hlg̲áamunang:hlg̲áamuna CLASS-ANG-STEM "for S (sg) {hg̲áam} to roll" ;
 
-hlg̲áamwii CLASS-II-STEM-1 "for S (sg) {hlg̲áam} to fall through the air" ;
-hlg̲áamwii:hlg̲áamwaay CLASS-II-STEM-2 "for S (sg) {hlg̲áam} to fall through the air" ;
+hlg̲áamwii:hlg̲áamw CLASS-II-STEM "for S (sg) {hlg̲áam} to fall through the air" ;
 
 hlg̲áan% k̲'íihlan:hlg̲áan% k̲'íihlá CLASS-AN-STEM "for S to hop on one leg" ;
 
@@ -6866,8 +6822,7 @@ hlg̲áawa CLASS-A-STEM-1 "for S to put rocks in the fire to heat them for cooki
 hlg̲áawa:hlg̲áawä CLASS-A-STEM-2 "for S to put rocks in the fire to heat them for cooking with" ;
 hlg̲áawa:hlg̲áawáa CLASS-A-STEM-3 "for S to put rocks in the fire to heat them for cooking with" ;
 
-hlg̲áawaandlii CLASS-II-STEM-1 "for S to take on ballast, ballast the boat" ;
-hlg̲áawaandlii:hlg̲áawaandláay CLASS-II-STEM-2 "for S to take on ballast, ballast the boat" ;
+hlg̲áawaandlii:hlg̲áawaandl CLASS-II-STEM "for S to take on ballast, ballast the boat" ;
 
 hlg̲áawaandliigaa CLASS-AA "for S to have ballast [said of a boat]" ;
 
@@ -6922,8 +6877,7 @@ hlg̲áynganda:hlg̲áyngandáa CLASS-A-STEM-3 "for S {hlg̲áy} to be whole, to
 
 hlg̲áyunang:hlg̲áyuná CLASS-ANG-STEM "for S (sg) {hlg̲áy} to roll" ;
 
-hlg̲áywii CLASS-II-STEM-1 "for S (sg) {hlg̲áy} to fall through the air" ;
-hlg̲áywii:hlg̲áywaay CLASS-II-STEM-2 "for S (sg) {hlg̲áy} to fall through the air" ;
+hlg̲áywii:hlg̲áyw CLASS-II-STEM "for S (sg) {hlg̲áy} to fall through the air" ;
 
 hlg̲eehlga CLASS-A-STEM-1 "for S to dig holes in C" ;
 hlg̲eehlga:hlg̲eehlgä CLASS-A-STEM-2 "for S to dig holes in C" ;
@@ -6950,8 +6904,7 @@ hlg̲i% g̲isga CLASS-A-STEM-1 "for S to fail to dig X" ;
 hlg̲i% g̲isga:hlg̲i% g̲isgä CLASS-A-STEM-2 "for S to fail to dig X" ;
 hlg̲i% g̲isga:hlg̲i% g̲isgáa CLASS-A-STEM-3 "for S to fail to dig X" ;
 
-hlg̲i% g̲íihlgii CLASS-II-STEM-1 "for S to finish C, complete C, get C ready by digging" ;
-hlg̲i% g̲íihlgii:hlg̲i% g̲íihlgaay CLASS-II-STEM-2 "for S to finish C, complete C, get C ready by digging" ;
+hlg̲i% g̲íihlgii:hlg̲i% g̲íihlg CLASS-II-STEM "for S to finish C, complete C, get C ready by digging" ;
 
 hlg̲i% g̲íihlgiigaa CLASS-AA "for S to have been finished, completed, gotten ready by digging" ;
 
@@ -7081,8 +7034,7 @@ hlðámisahlda:hlðámisahldáa CLASS-A-STEM-3 "for S (sg) {hlðám} to wave, sw
 hlðámlagung CLASS-UNG-STEM-1 "for S (pl) {hlðám} to fall through the air" ;
 hlðámlagung:hlðámlagwáang CLASS-UNG-STEM-2 "for S (pl) {hlðám} to fall through the air" ;
 
-hlðámwii CLASS-II-STEM-1 "for S (sg) {hlðám} to fall through the air" ;
-hlðámwii:hlðámwáay CLASS-II-STEM-2 "for S (sg) {hlðám} to fall through the air" ;
+hlðámwii:hlðámw CLASS-II-STEM "for S (sg) {hlðám} to fall through the air" ;
 
 hlkaaydga CLASS-A-STEM-1 "for S (pl) to move around fast, run around [said of very skinny people]" ;
 hlkaaydga:hlkaaydgä CLASS-A-STEM-2 "for S (pl) to move around fast, run around [said of very skinny people]" ;
@@ -7120,8 +7072,7 @@ hlk'i% g̲isga CLASS-A-STEM-1 "for S to fail to wear X out [said of a dress, pan
 hlk'i% g̲isga:hlk'i% g̲isgä CLASS-A-STEM-2 "for S to fail to wear X out [said of a dress, pants or coat]" ;
 hlk'i% g̲isga:hlk'i% g̲isgáa CLASS-A-STEM-3 "for S to fail to wear X out [said of a dress, pants or coat]" ;
 
-hlki% stl'uwíi CLASS-II-STEM-1 "for S to kindle a fire with a firedrill" ;
-hlki% stl'uwíi:hlki% stl'uwáay CLASS-II-STEM-2 "for S to kindle a fire with a firedrill" ;
+hlki% stl'uwíi:hlki% stl'uw CLASS-II-STEM "for S to kindle a fire with a firedrill" ;
 
 hlk'id% g̲unáan CLASS-AAN "for S to be dressless, be without a dress" ;
 
@@ -7193,11 +7144,9 @@ hlk'ust'ayáa CLASS-AA "for S to have drained away (from X), leaving pulp behind
 
 hlk'uunáng:hlk'uuná CLASS-ANG-STEM "for S (sg) {hlk'u} to roll" ;
 
-hlkuwíi CLASS-II-STEM-1 "for S (sg) {hlku} to fall through the air" ;
-hlkuwíi:hlkuwáay CLASS-II-STEM-2 "for S (sg) {hlku} to fall through the air" ;
+hlkuwíi:hlkuw CLASS-II-STEM "for S (sg) {hlku} to fall through the air" ;
 
-hlk'uwíi CLASS-II-STEM-1 "for S (sg) {hlk'u} to fall through the air" ;
-hlk'uwíi:hlk'uwáay CLASS-II-STEM-2 "for S (sg) {hlk'u} to fall through the air" ;
+hlk'uwíi:hlk'uw CLASS-II-STEM "for S (sg) {hlk'u} to fall through the air" ;
 
 hlk'uyáaw CLASS-AAW "for S to hang up C (sg) {hlk'u} (in direction)" ;
 
@@ -7412,8 +7361,7 @@ hlk̲'awangáa CLASS-AA "for S to have been cleared of brush or trees [said of l
 
 hlk̲'awáng:hlk̲'awá CLASS-ANG-STEM "for S to clear C [land] of bush or trees" ;
 
-hlk̲'awíi CLASS-II-STEM-1 "for S (sg) {hlk̲'a} to fall through the air" ;
-hlk̲'awíi:hlk̲'awáay CLASS-II-STEM-2 "for S (sg) {hlk̲'a} to fall through the air" ;
+hlk̲'awíi:hlk̲'aw CLASS-II-STEM "for S (sg) {hlk̲'a} to fall through the air" ;
 
 hlk̲'ayáang CLASS-AANG "for S (sg) {hlk̲'a} to hang down" ;
 
@@ -7450,8 +7398,7 @@ hlk̲ámisahlda:hlk̲ámisahldáa CLASS-A-STEM-3 "for S (sg) {hlk̲ám} to wave,
 hlk̲ámlagung CLASS-UNG-STEM-1 "for S (pl) {hlk̲ám} to fall through the air" ;
 hlk̲ámlagung:hlk̲ámlagwáang CLASS-UNG-STEM-2 "for S (pl) {hlk̲ám} to fall through the air" ;
 
-hlk̲ámwii CLASS-II-STEM-1 "for S (sg) {hlk̲ám} to fall through the air" ;
-hlk̲ámwii:hlk̲ámwáay CLASS-II-STEM-2 "for S (sg) {hlk̲ám} to fall through the air" ;
+hlk̲ámwii:hlk̲ámw CLASS-II-STEM "for S (sg) {hlk̲ám} to fall through the air" ;
 
 hlk̲'án:hlk̲'á CLASS-AN-STEM "for S to tangle up (in location) [said of 1-D objects, or people's legs only]" ;
 
@@ -7523,8 +7470,7 @@ hlk̲'uhlisahlda:hlk̲'uhlisahldáa CLASS-A-STEM-3 "for S (sg) {hlk̲'uhl} to wa
 hlk̲'uhllagúng CLASS-UNG-STEM-1 "for S (pl) {hlk̲'uhl} to fall through the air" ;
 hlk̲'uhllagúng:hlk̲'uhllagwáang CLASS-UNG-STEM-2 "for S (pl) {hlk̲'uhl} to fall through the air" ;
 
-hlk̲'uhlwíi CLASS-II-STEM-1 "for S (sg) {hlk̲'uhl} to fall through the air" ;
-hlk̲'uhlwíi:hlk̲'uhlwáay CLASS-II-STEM-2 "for S (sg) {hlk̲'uhl} to fall through the air" ;
+hlk̲'uhlwíi:hlk̲'uhlw CLASS-II-STEM "for S (sg) {hlk̲'uhl} to fall through the air" ;
 
 hlk̲'uhlyáang CLASS-AANG "for S (sg) {hlk̲'uhl} to hang down" ;
 
@@ -7547,8 +7493,7 @@ hlk̲'wáahlisahlda:hlk̲'wáahlisahldáa CLASS-A-STEM-3 "for S (sg) {hlK̲''waa
 hlk̲'wáahllagung CLASS-UNG-STEM-1 "for S (pl) {hlk̲'wáahl} to fall through the air" ;
 hlk̲'wáahllagung:hlk̲'wáahllagwáang CLASS-UNG-STEM-2 "for S (pl) {hlk̲'wáahl} to fall through the air" ;
 
-hlk̲'wáahlwii CLASS-II-STEM-1 "for S (sg) {hlk̲'wáahl} to fall through the air" ;
-hlk̲'wáahlwii:hlk̲'wáahlwáay CLASS-II-STEM-2 "for S (sg) {hlk̲'wáahl} to fall through the air" ;
+hlk̲'wáahlwii:hlk̲'wáahlw CLASS-II-STEM "for S (sg) {hlk̲'wáahl} to fall through the air" ;
 
 hlk̲'wáalaawda CLASS-A-STEM-1 "for S to be stirred up [said of something dispersed in water]" ;
 hlk̲'wáalaawda:hlk̲'wáalaawdä CLASS-A-STEM-2 "for S to be stirred up [said of something dispersed in water]" ;
@@ -7573,8 +7518,7 @@ hlt'abk'uláa CLASS-AA "for S to be soft and bend easily [said of a wooden objec
 hlt'ablagung CLASS-UNG-STEM-1 "for S (pl) {hlt'ab} to fall through the air" ;
 hlt'ablagung:hlt'ablagwáang CLASS-UNG-STEM-2 "for S (pl) {hlt'ab} to fall through the air" ;
 
-hlt'abwíi CLASS-II-STEM-1 "for S (sg) {hlt'ab} to fall through the air" ;
-hlt'abwíi:hlt'abwáay CLASS-II-STEM-2 "for S (sg) {hlt'ab} to fall through the air" ;
+hlt'abwíi:hlt'abw CLASS-II-STEM "for S (sg) {hlt'ab} to fall through the air" ;
 
 hltabyáang CLASS-AANG "for S (sg) {hltab} to hang down" ;
 
@@ -7613,8 +7557,7 @@ hltahldayáa CLASS-AA "for S to have been covered with a cloth or mat to protect
 hlt'ahllagúng CLASS-UNG-STEM-1 "for S (pl) {hlt'ahl} to fall through the air" ;
 hlt'ahllagúng:hlt'ahllagwáang CLASS-UNG-STEM-2 "for S (pl) {hlt'ahl} to fall through the air" ;
 
-hlt'ahlwíi CLASS-II-STEM-1 "for S (sg) {hlt'ahl} to fall through the air" ;
-hlt'ahlwíi:hlt'ahlwáay CLASS-II-STEM-2 "for S (sg) {hlt'ahl} to fall through the air" ;
+hlt'ahlwíi:hlt'ahlw CLASS-II-STEM "for S (sg) {hlt'ahl} to fall through the air" ;
 
 hltaht'agúng% gyáa'ahl CLASS-AHL-STEM "for S to keep on bothering C by spitting" ;
 
@@ -7647,8 +7590,7 @@ hlt'áamnganda CLASS-A-STEM-1 "for S {hlt'áam} to be whole, to be complete, to 
 hlt'áamnganda:hlt'áamngandä CLASS-A-STEM-2 "for S {hlt'áam} to be whole, to be complete, to be a {hlt'áam} shaped object" ;
 hlt'áamnganda:hlt'áamngandáa CLASS-A-STEM-3 "for S {hlt'áam} to be whole, to be complete, to be a {hlt'áam} shaped object" ;
 
-hltáamwii CLASS-II-STEM-1 "for S (sg) {hltáam} to fall through the air" ;
-hltáamwii:hltáamwaay CLASS-II-STEM-2 "for S (sg) {hltáam} to fall through the air" ;
+hltáamwii:hltáamw CLASS-II-STEM "for S (sg) {hltáam} to fall through the air" ;
 
 hltálgaa CLASS-AA "for S to be packaged in protecting material" ;
 
@@ -7665,8 +7607,7 @@ hltámnganda CLASS-A-STEM-1 "for S {hltám} to be whole, to be complete, to be a
 hltámnganda:hltámngandä CLASS-A-STEM-2 "for S {hltám} to be whole, to be complete, to be a {hltám} shaped object" ;
 hltámnganda:hltámngandáa CLASS-A-STEM-3 "for S {hltám} to be whole, to be complete, to be a {hltám} shaped object" ;
 
-hltámwii CLASS-II-STEM-1 "for S (sg) {hltám} to fall through the air" ;
-hltámwii:hltámwáay CLASS-II-STEM-2 "for S (sg) {hltám} to fall through the air" ;
+hltámwii:hltámw CLASS-II-STEM "for S (sg) {hltám} to fall through the air" ;
 
 hltámyaang CLASS-AANG "for S (sg) {hltám} to hang down" ;
 
@@ -11126,8 +11067,7 @@ is'wa CLASS-A-STEM-1 "for S to land, disembark [said of people only, not boats]"
 is'wa:is'wä CLASS-A-STEM-2 "for S to land, disembark [said of people only, not boats]" ;
 is'wa:is'wáa CLASS-A-STEM-3 "for S to land, disembark [said of people only, not boats]" ;
 
-iswíi CLASS-II-STEM-1 "for S (sg) {is} to fall through the air" ;
-iswíi:iswáay CLASS-II-STEM-2 "for S (sg) {is} to fall through the air" ;
+iswíi:isw CLASS-II-STEM "for S (sg) {is} to fall through the air" ;
 
 iswíisa CLASS-A-STEM-1 "for S to go somewhere in vain (not getting what they went there for)" ;
 iswíisa:iswíisä CLASS-A-STEM-2 "for S to go somewhere in vain (not getting what they went there for)" ;
@@ -11487,8 +11427,7 @@ jahlad:jahl CLASS-AD-STEM "for X to break apart into many small pieces [said of 
 
 jahladáa CLASS-AA "for X to have broken apart into small pieces [said of cloth only]" ;
 
-jahlíi CLASS-II-STEM-1 "to V most, to be the V-est" ;
-jahlíi:jahláay CLASS-II-STEM-2 "to V most, to be the V-est" ;
+jahlíi:jahl CLASS-II-STEM "to V most, to be the V-est" ;
 
 jahlk'ada CLASS-A-STEM-1 "for S to wear a jahlk'a" ;
 jahlk'ada:jahlk'adä CLASS-A-STEM-2 "for S to wear a jahlk'a" ;
@@ -11498,8 +11437,7 @@ jahuhlguyáa CLASS-AA "for S to have gotten torn once raggedly, to have gotten r
 
 jahuhlgwáay CLASS-AAY "for S to tear once raggedly, to rip once raggedly, to split once raggedly [said of paper, cloth, thin leather, leaf, foil, seaweed, scalp, surface of the earth, etc.]" ;
 
-jahwíi CLASS-II-STEM-1 "for S (sg) {jah} to fall through the air" ;
-jahwíi:jahwáay CLASS-II-STEM-2 "for S (sg) {jah} to fall through the air" ;
+jahwíi:jahw CLASS-II-STEM "for S (sg) {jah} to fall through the air" ;
 
 jahyáang CLASS-AANG "for S (sg) {jah} to hang down" ;
 
@@ -11580,8 +11518,7 @@ jawángga:jawánggaa CLASS-A-STEM-3 "for S to break C (pl) by shooting them (in 
 
 jawánggayaa CLASS-AA "for S (pl) to have been broken by being shot (in direction)" ;
 
-jawíi CLASS-II-STEM-1 "for S (sg) {ja} to fall through the air" ;
-jawíi:jawáay CLASS-II-STEM-2 "for S (sg) {ja} to fall through the air" ;
+jawíi:jaw CLASS-II-STEM "for S (sg) {ja} to fall through the air" ;
 
 jayáang CLASS-AANG "for S (sg) {ja} to hang down" ;
 
@@ -11689,8 +11626,7 @@ jiisäláng:jiisälá CLASS-ANG-STEM "for X to be the most enthusiastic about S"
 
 ji%.id:ji%. CLASS-ID-STEM "for S to pick O (sg) {ja} up, to pick O {sg) {ja} up and take off with it (in direction), to carry O (sg) {ja} off, to take O (sg) {ja} away" ;
 
-jíi CLASS-II-STEM-1 "for S to carry O (water) (in direction), to dip O out (in direction)" ;
-jíi:jáay CLASS-II-STEM-2 "for S to carry O (water) (in direction), to dip O out (in direction)" ;
+jíi:j CLASS-II-STEM "for S to carry O (water) (in direction), to dip O out (in direction)" ;
 
 jíidaal CLASS-AAL "for there to be a landslide" ;
 
@@ -11719,8 +11655,7 @@ jíit'ahl CLASS-AHL-STEM "for S to dip out water (in direction)" ;
 
 jíiwalaa CLASS-AA "for S to still have roots on [said of an uprooted tree or stump]" ;
 
-jíiwii CLASS-II-STEM-1 "for S (sg) {jíi} to fall through the air" ;
-jíiwii:jíiwáay CLASS-II-STEM-2 "for S (sg) {jíi} to fall through the air" ;
+jíiwii:jíiw CLASS-II-STEM "for S (sg) {jíi} to fall through the air" ;
 
 jíiyihlaang CLASS-AANG "for S to repeatedly bawl loudly [said of a child]" ;
 
@@ -11784,8 +11719,7 @@ k'a% sk'adáldaang CLASS-AANG "for S to bowl" ;
 
 k'a% skalángaang CLASS-AANG "for S to practice throwing rocks" ;
 
-k'a% skáawii CLASS-II-STEM-1 "for S (pl) to play duck on a rock" ;
-k'a% skáawii:k'a% skáawáay CLASS-II-STEM-2 "for S (pl) to play duck on a rock" ;
+k'a% skáawii:k'a% skáaw CLASS-II-STEM "for S (pl) to play duck on a rock" ;
 
 k'a% sk̲'ast'ahla CLASS-A-STEM-1 "for S to weigh C with a steelyard or balance" ;
 k'a% sk̲'ast'ahla:k'a% sk̲'ast'ahlä CLASS-A-STEM-2 "for S to weigh C with a steelyard or balance" ;
@@ -12053,20 +11987,17 @@ k'ayánhlaa CLASS-AA "for there to be crabapple trees in location" ;
 
 k'a%.áat'ä% cha'ad:k'a%.áat'ä% cha' CLASS-AD-STEM "for S to throw C (sg) {cha} fast (in direction)" ;
 
-k'a%.áat'ä% cha'adíi CLASS-II-STEM-1 "for S to throw C (pl) {cha} fast (in direction)" ;
-k'a%.áat'ä% cha'adíi:k'a%.áat'ä% cha'adáay CLASS-II-STEM-2 "for S to throw C (pl) {cha} fast (in direction)" ;
+k'a%.áat'ä% cha'adíi:k'a%.áat'ä% cha'ad CLASS-II-STEM "for S to throw C (pl) {cha} fast (in direction)" ;
 
 k'a%.áat'ä% jah'ad:k'a%.áat'ä% jah' CLASS-AD-STEM "for S (sg) to throw themselves down [said of an untidy person]" ;
 
-k'a%.áat'ä% jah'adíi CLASS-II-STEM-1 "for S (pl) to throw themselves down [said of untidy people]" ;
-k'a%.áat'ä% jah'adíi:k'a%.áat'ä% jah'adáay CLASS-II-STEM-2 "for S (pl) to throw themselves down [said of untidy people]" ;
+k'a%.áat'ä% jah'adíi:k'a%.áat'ä% jah'ad CLASS-II-STEM "for S (pl) to throw themselves down [said of untidy people]" ;
 
 k'a%.áat'ä% táayaa CLASS-AA "for S to jump like a coho (said of a hoop)" ;
 
 k'a%.áat'ä% xab'ad:k'a%.áat'ä% xab' CLASS-AD-STEM "for S to throw C (sg) fast (in direction)" ;
 
-k'a%.áat'ä% xab'adíi CLASS-II-STEM-1 "for S to throw C (pl) fast (in direction)" ;
-k'a%.áat'ä% xab'adíi:k'a%.áat'ä% xab'adáay CLASS-II-STEM-2 "for S to throw C (pl) fast (in direction)" ;
+k'a%.áat'ä% xab'adíi:k'a%.áat'ä% xab'ad CLASS-II-STEM "for S to throw C (pl) fast (in direction)" ;
 
 k'áadaa CLASS-AA "for S to be an envoy in the peace-making ceremony" ;
 
@@ -12207,8 +12138,7 @@ k'álts'angga:k'álts'anggáa CLASS-A-STEM-3 "for S to feel good after a minor s
 
 kálunang:káluná CLASS-ANG-STEM "for S (sg) {kál} to roll" ;
 
-kálwii CLASS-II-STEM-1 "for S (sg) {kál} to fall through the air [discrete subject only, not mass]" ;
-kálwii:kálwáay CLASS-II-STEM-2 "for S (sg) {kál} to fall through the air [discrete subject only, not mass]" ;
+kálwii:kálw CLASS-II-STEM "for S (sg) {kál} to fall through the air [discrete subject only, not mass]" ;
 
 kályaandaal CLASS-AAL "for S (sg) {kál} to run along, to move along fast" ;
 
@@ -12590,8 +12520,7 @@ ki% sk̲'ayuwa CLASS-A-STEM-1 "for S (sg) {sk̲'a} to hang down from a peg or na
 ki% sk̲'ayuwa:ki% sk̲'ayuwä CLASS-A-STEM-2 "for S (sg) {sk̲'a} to hang down from a peg or nail (in location or direction)" ;
 ki% sk̲'ayuwa:ki% sk̲'ayuwáa CLASS-A-STEM-3 "for S (sg) {sk̲'a} to hang down from a peg or nail (in location or direction)" ;
 
-ki% stl'uwíi CLASS-II-STEM-1 "for S to kindle a fire by hitting rocks together" ;
-ki% stl'uwíi:ki% stl'uwáay CLASS-II-STEM-2 "for S to kindle a fire by hitting rocks together" ;
+ki% stl'uwíi:ki% stl'uw CLASS-II-STEM "for S to kindle a fire by hitting rocks together" ;
 
 ki% t'aadiya CLASS-A-STEM-1 "for S (pl) {t'a} to hang down from a peg or nail (in location or direction)" ;
 ki% t'aadiya:ki% t'aadiyä CLASS-A-STEM-2 "for S (pl) {t'a} to hang down from a peg or nail (in location or direction)" ;
@@ -12787,8 +12716,7 @@ kihl% g̲isga CLASS-A-STEM-1 "for S to fail to get a hold of X by asking, to ask
 kihl% g̲isga:kihl% g̲isgä CLASS-A-STEM-2 "for S to fail to get a hold of X by asking, to ask for X without success" ;
 kihl% g̲isga:kihl% g̲isgáa CLASS-A-STEM-3 "for S to fail to get a hold of X by asking, to ask for X without success" ;
 
-kihl% jahlíi CLASS-II-STEM-1 "for S to make C shut up by pointing out C's shortcomings" ;
-kihl% jahlíi:kihl% jahláay CLASS-II-STEM-2 "for S to make C shut up by pointing out C's shortcomings" ;
+kihl% jahlíi:kihl% jahl CLASS-II-STEM "for S to make C shut up by pointing out C's shortcomings" ;
 
 kihl% k'aagáa CLASS-AA "for S to make fun of X, ridicule X" ;
 
@@ -13062,8 +12990,7 @@ k'its'ä% isdáal CLASS-AAL "for S (pl) to sneak (in direction)" ;
 
 k'its'ä% k̲áa CLASS-AA "for S (sg) to sneak (in direction)" ;
 
-k'its'ä% tíi CLASS-II-STEM-1 "for S to sneak away to bed, sneak away to have sex" ;
-k'its'ä% tíi:k'its'ä% táay CLASS-II-STEM-2 "for S to sneak away to bed, sneak away to have sex" ;
+k'its'ä% tíi:k'its'ä% t CLASS-II-STEM "for S to sneak away to bed, sneak away to have sex" ;
 
 k'its'ä% xáwsda CLASS-A-STEM-1 "for S (pl) to sneak fast (in direction)" ;
 k'its'ä% xáwsda:k'its'ä% xáwsdä CLASS-A-STEM-2 "for S (pl) to sneak fast (in direction)" ;
@@ -13081,8 +13008,7 @@ kiwángga:kiwánggaa CLASS-A-STEM-3 "for S to break C (pl) by poking them with t
 
 kiwánggayaa CLASS-AA "for S (pl) to have been broken by being poked with the end of a stick (in direction)" ;
 
-kiwíi CLASS-II-STEM-1 "for S (sg) {ki} to fall through the air" ;
-kiwíi:kiwáay CLASS-II-STEM-2 "for S (sg) {ki} to fall through the air" ;
+kiwíi:kiw CLASS-II-STEM "for S (sg) {ki} to fall through the air" ;
 
 kiya CLASS-A-STEM-1 "for S to be light, lightweight" ;
 kiya:kiyä CLASS-A-STEM-2 "for S to be light, lightweight" ;
@@ -13217,8 +13143,7 @@ kíl% k'adangáa CLASS-AA "for S to teach C to behave properly by what they say,
 kíl% k'áwt'ägung CLASS-UNG-STEM-1 "for S to make themselves furious over X" ;
 kíl% k'áwt'ägung:kíl% k'áwt'ägwáang CLASS-UNG-STEM-2 "for S to make themselves furious over X" ;
 
-kíl% k̲'adíi CLASS-II-STEM-1 "for S to put C (sg) to sleep with their voice" ;
-kíl% k̲'adíi:kíl% k̲'adáay CLASS-II-STEM-2 "for S to put C (sg) to sleep with their voice" ;
+kíl% k̲'adíi:kíl% k̲'ad CLASS-II-STEM "for S to put C (sg) to sleep with their voice" ;
 
 kíl% k̲'adíigaa CLASS-AA "for S (sg) to have been put to sleep by the sound of someone's voice" ;
 
@@ -13317,8 +13242,7 @@ kíl'ad:kíl' CLASS-AD-STEM "for S to tell someone to break C (sg) in two" ;
 
 kíl'adaa CLASS-AA "for S (sg) to have been broken in two by somsoen who was told to do so" ;
 
-kíl'adii CLASS-II-STEM-1 "for S to divide C up, divide C in two, share out C as told" ;
-kíl'adii:kíl'adáay CLASS-II-STEM-2 "for S to divide C up, divide C in two, share out C as told" ;
+kíl'adii:kíl'ad CLASS-II-STEM "for S to divide C up, divide C in two, share out C as told" ;
 
 Kílädaa CLASS-AA "for S to be Tsimshian [said of people only]" ;
 
@@ -13633,8 +13557,7 @@ kus% yahda:kus% yahdáa CLASS-A-STEM-3 "for S to stab C squarely" ;
 
 kusad:kus CLASS-AD-STEM "for S (sg) to get skinny [said of deer only]" ;
 
-kusad% dluwíi CLASS-II-STEM-1 "for S to do something stupid and get what they deserve as a result" ;
-kusad% dluwíi:kusad% dluwáay CLASS-II-STEM-2 "for S to do something stupid and get what they deserve as a result" ;
+kusad% dluwíi:kusad% dluw CLASS-II-STEM "for S to do something stupid and get what they deserve as a result" ;
 
 kusadanga CLASS-A-STEM-1 "for S to habitually fart" ;
 kusadanga:kusadangä CLASS-A-STEM-2 "for S to habitually fart" ;
@@ -13692,8 +13615,7 @@ kuwä% skáa%.ayd CLASS-AYD "for S (sg) to slide sitting down (in direction) [sa
 
 kuwä% xab'ad:kuwä% xab' CLASS-AD-STEM "for S (sg) to slide fast (in direction)" ;
 
-kuwä% xab'adíi CLASS-II-STEM-1 "for S (pl) to slide fast (in direction)" ;
-kuwä% xab'adíi:kuwä% xab'adáay CLASS-II-STEM-2 "for S (pl) to slide fast (in direction)" ;
+kuwä% xab'adíi:kuwä% xab'ad CLASS-II-STEM "for S (pl) to slide fast (in direction)" ;
 
 kuwä% xabhlat'ahl CLASS-AHL-STEM "for S (sg) to slide down fast [as on a hill or slide]" ;
 
@@ -13701,8 +13623,7 @@ kuwä% xáwsda CLASS-A-STEM-1 "for S (pl) to slide fast (in direction)" ;
 kuwä% xáwsda:kuwä% xáwsdä CLASS-A-STEM-2 "for S (pl) to slide fast (in direction)" ;
 kuwä% xáwsda:kuwä% xáwsdáa CLASS-A-STEM-3 "for S (pl) to slide fast (in direction)" ;
 
-k'uwíi CLASS-II-STEM-1 "for S (sg) {k'u} to fall through the air" ;
-k'uwíi:k'uwáay CLASS-II-STEM-2 "for S (sg) {k'u} to fall through the air" ;
+k'uwíi:k'uw CLASS-II-STEM "for S (sg) {k'u} to fall through the air" ;
 
 k'uyanga CLASS-A-STEM-1 "for S to be a show-off" ;
 k'uyanga:k'uyangä CLASS-A-STEM-2 "for S to be a show-off" ;
@@ -13738,8 +13659,7 @@ k'úlid:k'úl CLASS-ID-STEM "for S to pick O (sg) {k'úl} up, to pick O {sg) {k'
 k'úllagung CLASS-UNG-STEM-1 "for S (pl) {k'úl} to fall through the air" ;
 k'úllagung:k'úllagwáang CLASS-UNG-STEM-2 "for S (pl) {k'úl} to fall through the air" ;
 
-k'úlwii CLASS-II-STEM-1 "for S (sg) {k'úl} to fall through the air" ;
-k'úlwii:k'úlwáay CLASS-II-STEM-2 "for S (sg) {k'úl} to fall through the air" ;
+k'úlwii:k'úlw CLASS-II-STEM "for S (sg) {k'úl} to fall through the air" ;
 
 kún CLASS-UN-STEM-1 "for a whale to drift ashore, beach itself (for X)" ;
 kún:kwáan CLASS-UN-STEM-2 "for a whale to drift ashore, beach itself (for X)" ;
@@ -13883,8 +13803,7 @@ kúnwaang CLASS-AANG "for S (pl) to lie all sprawled out" ;
 
 kúnwayaa CLASS-AA "for S to not be level [said of a house]" ;
 
-kúnwii CLASS-II-STEM-1 "for S (sg) {kún} to fall through the air" ;
-kúnwii:kúnwáay CLASS-II-STEM-2 "for S (sg) {kún} to fall through the air" ;
+kúnwii:kúnw CLASS-II-STEM "for S (sg) {kún} to fall through the air" ;
 
 kúnyaaw CLASS-AAW "for S (sg) to become not level, to slant down [said of a floor, table, board, rope, etc.]" ;
 
@@ -13987,8 +13906,7 @@ kwah% k̲'ánts'a:kwah% k̲'ánts'áa CLASS-A-STEM-3 "for S (liquid) to flow and
 
 kwah% k̲'íi'ad:kwah% k̲'íi' CLASS-AD-STEM "for a single whirlpool to form" ;
 
-kwah% k̲'íi'adii CLASS-II-STEM-1 "for whirlpools to form" ;
-kwah% k̲'íi'adii:kwah% k̲'íi'adáay CLASS-II-STEM-2 "for whirlpools to form" ;
+kwah% k̲'íi'adii:kwah% k̲'íi'ad CLASS-II-STEM "for whirlpools to form" ;
 
 kwah% k̲'íilägung CLASS-UNG-STEM-1 "for S to be strong [said of the current]" ;
 kwah% k̲'íilägung:kwah% k̲'íilägwáang CLASS-UNG-STEM-2 "for S to be strong [said of the current]" ;
@@ -14116,8 +14034,7 @@ kwáahliya:kwáahliyáa CLASS-A-STEM-3 "for S to have been let down (by X), have
 k'wáahllagung CLASS-UNG-STEM-1 "for S (pl) {k'wáahl} to fall through the air" ;
 k'wáahllagung:k'wáahllagwáang CLASS-UNG-STEM-2 "for S (pl) {k'wáahl} to fall through the air" ;
 
-k'wáahlwii CLASS-II-STEM-1 "for S (sg) {k'wáahl} to fall through the air" ;
-k'wáahlwii:k'wáahlwáay CLASS-II-STEM-2 "for S (sg) {k'wáahl} to fall through the air" ;
+k'wáahlwii:k'wáahlw CLASS-II-STEM "for S (sg) {k'wáahl} to fall through the air" ;
 
 kwáan% sk̲'ad'ada CLASS-A-STEM-1 "for S to tell C what to say in reply" ;
 kwáan% sk̲'ad'ada:kwáan% sk̲'ad'adä CLASS-A-STEM-2 "for S to tell C what to say in reply" ;
@@ -14179,8 +14096,7 @@ k'wiisäláng:k'wiisälá CLASS-ANG-STEM "for S to swing, to play on a swing" ;
 
 k'wi%.id:k'wi%. CLASS-ID-STEM "for S to pick O (sg) {k'u} up, to pick O {sg) {k'u} up and take off with it (in direction), to carry O (sg) {k'u} off, to take O (sg) {k'u} away" ;
 
-k'wíi CLASS-II-STEM-1 "for S to mention O (sg), to say O (sg) (in such-and-such a way), to tell O (sg), to pronounce O (sg) (in such-and-such a way), to announce O (sg)" ;
-k'wíi:k'wáay CLASS-II-STEM-2 "for S to mention O (sg), to say O (sg) (in such-and-such a way), to tell O (sg), to pronounce O (sg) (in such-and-such a way), to announce O (sg)" ;
+k'wíi:k'w CLASS-II-STEM "for S to mention O (sg), to say O (sg) (in such-and-such a way), to tell O (sg), to pronounce O (sg) (in such-and-such a way), to announce O (sg)" ;
 
 k'wíi% k̲e%.e CLASS-E.E-STEM-1 "for S to check the pronunciation of O" ;
 k'wíi% k̲e%.e:k'wíi% k̲ee CLASS-E.E-STEM-2 "for S to check the pronunciation of O" ;
@@ -14222,8 +14138,7 @@ kyaayda:kyaaydáa CLASS-A-STEM-3 "for S to shake, to shiver, to vibrate" ;
 
 kya'áa CLASS-AA "for S to have a name, be named, be called" ;
 
-kyah% k'wíi CLASS-II-STEM-1 "for S to give a name to O (sg), to name O (sg)" ;
-kyah% k'wíi:kyah% k'wáay CLASS-II-STEM-2 "for S to give a name to O (sg), to name O (sg)" ;
+kyah% k'wíi:kyah% k'w CLASS-II-STEM "for S to give a name to O (sg), to name O (sg)" ;
 
 kyahts'aagáa CLASS-AA "for S to be stiff, hard to bend" ;
 
@@ -14354,8 +14269,7 @@ kyúu% jayangáa CLASS-AA "for S (sg) {ja} to have been tied so that it hangs do
 
 kyúu% jayáang CLASS-AANG "for S to tie C (sg) {ja} so that it hangs down" ;
 
-kyúu% k̲agíi CLASS-II-STEM-1 "for S (sp) to all tie up to X [said of boats or their occupants]" ;
-kyúu% k̲agíi:kyúu% k̲agáay CLASS-II-STEM-2 "for S (sp) to all tie up to X [said of boats or their occupants]" ;
+kyúu% k̲agíi:kyúu% k̲ag CLASS-II-STEM "for S (sp) to all tie up to X [said of boats or their occupants]" ;
 
 kyúu% k̲agíigaa CLASS-AA "for S (pl) to all have tied up to X [said of boats or their occupants]" ;
 
@@ -14493,8 +14407,7 @@ k̲a% dláahlahlda:k̲a% dláahlahldáa CLASS-A-STEM-3 "for S to walk around a c
 
 k̲a% dláahlahldayaa CLASS-AA "for S to curve, curve around [said of a road only]" ;
 
-k̲a% dluwíi CLASS-II-STEM-1 "for S to decrease in size a bit from previous years [said of salmon]" ;
-k̲a% dluwíi:k̲a% dluwáay CLASS-II-STEM-2 "for S to decrease in size a bit from previous years [said of salmon]" ;
+k̲a% dluwíi:k̲a% dluw CLASS-II-STEM "for S to decrease in size a bit from previous years [said of salmon]" ;
 
 k̲a% dúuwisälang:k̲a% dúuwisälá CLASS-ANG-STEM "for S to walk while leaning to one side (as when one leg is shorter than the other)" ;
 
@@ -14755,8 +14668,7 @@ k̲'a'áa CLASS-AA "for S to have a beam of measure length, to be measure length
 k̲ablagúng CLASS-UNG-STEM-1 "for S (pl) {k̲ab} to fall through the air" ;
 k̲ablagúng:k̲ablagwáang CLASS-UNG-STEM-2 "for S (pl) {k̲ab} to fall through the air" ;
 
-k̲abwíi CLASS-II-STEM-1 "for S (sg) {k̲ab} to fall through the air" ;
-k̲abwíi:k̲abwáay CLASS-II-STEM-2 "for S (sg) {k̲ab} to fall through the air" ;
+k̲abwíi:k̲abw CLASS-II-STEM "for S (sg) {k̲ab} to fall through the air" ;
 
 k̲ada CLASS-A-STEM-1 "for S to slice, fillet O for drying or smoking" ;
 k̲ada:k̲adä CLASS-A-STEM-2 "for S to slice, fillet O for drying or smoking" ;
@@ -14782,8 +14694,7 @@ k̲adiya CLASS-A-STEM-1 "for S to be shy, bashful" ;
 k̲adiya:k̲adiyä CLASS-A-STEM-2 "for S to be shy, bashful" ;
 k̲adiya:k̲adiyáa CLASS-A-STEM-3 "for S to be shy, bashful" ;
 
-k̲'adíi CLASS-II-STEM-1 "for S (sg) to go to sleep (in direction)" ;
-k̲'adíi:k̲'adáay CLASS-II-STEM-2 "for S (sg) to go to sleep (in direction)" ;
+k̲'adíi:k̲'ad CLASS-II-STEM "for S (sg) to go to sleep (in direction)" ;
 
 k̲adláa CLASS-AA "for there to be a reef in location" ;
 
@@ -14857,8 +14768,7 @@ k̲agándä% xáwsda:k̲agándä% xáwsdáa CLASS-A-STEM-3 "for S (pl) to escape
 
 k̲agánjuwaa CLASS-AA "for S to have no voice, to have lost their voice" ;
 
-k̲agíi CLASS-II-STEM-1 "for S (pl) to stick to X [said of small objects such as feathers, leaves, seeds that stick to hair or clothing]" ;
-k̲agíi:k̲agáay CLASS-II-STEM-2 "for S (pl) to stick to X [said of small objects such as feathers, leaves, seeds that stick to hair or clothing]" ;
+k̲agíi:k̲ag CLASS-II-STEM "for S (pl) to stick to X [said of small objects such as feathers, leaves, seeds that stick to hair or clothing]" ;
 
 k̲agíigaa CLASS-AA "for S (pl) to be all tied up to X [said of boats or their occupants]" ;
 
@@ -15053,8 +14963,7 @@ k̲asaa% g̲adga CLASS-A-STEM-1 "for S (sg) to leave quickly on a rowboat (in di
 k̲asaa% g̲adga:k̲asaa% g̲adgä CLASS-A-STEM-2 "for S (sg) to leave quickly on a rowboat (in direction)" ;
 k̲asaa% g̲adga:k̲asaa% g̲adgáa CLASS-A-STEM-3 "for S (sg) to leave quickly on a rowboat (in direction)" ;
 
-k̲asaa% g̲adlíi CLASS-II-STEM-1 "for S (sg) to leave quickly on a boat (in direction) [applies to any type of boat other than a rowboat]" ;
-k̲asaa% g̲adlíi:k̲asaa% g̲adláay CLASS-II-STEM-2 "for S (sg) to leave quickly on a boat (in direction) [applies to any type of boat other than a rowboat]" ;
+k̲asaa% g̲adlíi:k̲asaa% g̲adl CLASS-II-STEM "for S (sg) to leave quickly on a boat (in direction) [applies to any type of boat other than a rowboat]" ;
 
 k̲asaa% hlg̲aawáa CLASS-AA "for S to be packed and ready to leave" ;
 
@@ -15083,8 +14992,7 @@ k̲asaa% k̲'áwa:k̲asaa% k̲'áwaa CLASS-A-STEM-3 "for S (sg) to sit (in locat
 
 k̲asaa% k̲'áwaang CLASS-AANG "for S (pl) to sit (in location) ready to leave" ;
 
-k̲asaa% xáwsdadlii CLASS-II-STEM-1 "for S (pl) to leave quickly on a boat (in direction) [applies to any type of boat other than a rowboat]" ;
-k̲asaa% xáwsdadlii:k̲asaa% xáwsdadláay CLASS-II-STEM-2 "for S (pl) to leave quickly on a boat (in direction) [applies to any type of boat other than a rowboat]" ;
+k̲asaa% xáwsdadlii:k̲asaa% xáwsdadl CLASS-II-STEM "for S (pl) to leave quickly on a boat (in direction) [applies to any type of boat other than a rowboat]" ;
 
 k̲asaa% xáwsdaga CLASS-A-STEM-1 "for S (pl) to leave quickly on a rowboat (in direction)" ;
 k̲asaa% xáwsdaga:k̲asaa% xáwsdagä CLASS-A-STEM-2 "for S (pl) to leave quickly on a rowboat (in direction)" ;
@@ -15096,8 +15004,7 @@ k̲asa%.a CLASS-A-STEM-1 "for S to leave on a trip (in direction), leave to live
 k̲asa%.a:k̲asa%.ä CLASS-A-STEM-2 "for S to leave on a trip (in direction), leave to live elsewhere (in direction), get ready to live elsewhere" ;
 k̲asa%.a:k̲asa%.áa CLASS-A-STEM-3 "for S to leave on a trip (in direction), leave to live elsewhere (in direction), get ready to live elsewhere" ;
 
-k̲asa%.a% ts'áandlii CLASS-II-STEM-1 "for S (sg) to be aboard a vehicle and ready to go" ;
-k̲asa%.a% ts'áandlii:k̲asa%.a% ts'áandláay CLASS-II-STEM-2 "for S (sg) to be aboard a vehicle and ready to go" ;
+k̲asa%.a% ts'áandlii:k̲asa%.a% ts'áandl CLASS-II-STEM "for S (sg) to be aboard a vehicle and ready to go" ;
 
 k̲asán% ts'angáa CLASS-AA "for S to have a brain, have brains" ;
 
@@ -15151,8 +15058,7 @@ k̲'awáa CLASS-AA "for S to be planked [said of a road, floor%. walls, but not 
 
 k̲'awáangwaa CLASS-AA "for S to have putty on it" ;
 
-k̲'awíi CLASS-II-STEM-1 "for S (sg) {k̲'a} to fall through the air" ;
-k̲'awíi:k̲'awáay CLASS-II-STEM-2 "for S (sg) {k̲'a} to fall through the air" ;
+k̲'awíi:k̲'aw CLASS-II-STEM "for S (sg) {k̲'a} to fall through the air" ;
 
 k̲ayangáa CLASS-AA "for X to be hopeless" ;
 
@@ -15748,8 +15654,7 @@ k̲'áwsdlaga:k̲'áwsdlagä CLASS-A-STEM-2 "for S (pl) to land on water [said o
 k̲'áwsdlaga:k̲'áwsdlagáa CLASS-A-STEM-3 "for S (pl) to land on water [said of planes or birds]" ;
 
 
-k̲áwwii CLASS-II-STEM-1 "for S (sg) {k̲áw} to fall through the air" ;
-k̲áwwii:k̲áwwáay CLASS-II-STEM-2 "for S (sg) {k̲áw} to fall through the air" ;
+k̲áwwii:k̲áww CLASS-II-STEM "for S (sg) {k̲áw} to fall through the air" ;
 
 k̲áwyuwagwaang CLASS-AANG "for S (sg) to move around fast, run around [said of a small girl]" ;
 
@@ -15991,8 +15896,7 @@ k̲'i% dáa'ad:k̲'i% dáa' CLASS-AD-STEM "for S to cut a single notch in C" ;
 
 k̲'i% dáa'adaa CLASS-AA "for S to have had a single notch cut in it" ;
 
-k̲'i% dáa'adii CLASS-II-STEM-1 "for S to cut notched in C" ;
-k̲'i% dáa'adii:k̲'i% dáa'adáay CLASS-II-STEM-2 "for S to cut notched in C" ;
+k̲'i% dáa'adii:k̲'i% dáa'ad CLASS-II-STEM "for S to cut notched in C" ;
 
 k̲'i% dáa'adiigaa CLASS-AA "for S to have had notches cut in it" ;
 
@@ -16008,8 +15912,7 @@ k̲'i% g̲isga CLASS-A-STEM-1 "for S to fail at cutting X with a knife" ;
 k̲'i% g̲isga:k̲'i% g̲isgä CLASS-A-STEM-2 "for S to fail at cutting X with a knife" ;
 k̲'i% g̲isga:k̲'i% g̲isgáa CLASS-A-STEM-3 "for S to fail at cutting X with a knife" ;
 
-k̲'i% g̲íihlgii CLASS-II-STEM-1 "for S to finish C, complete C, get C ready by carving" ;
-k̲'i% g̲íihlgii:k̲'i% g̲íihlgaay CLASS-II-STEM-2 "for S to finish C, complete C, get C ready by carving" ;
+k̲'i% g̲íihlgii:k̲'i% g̲íihlg CLASS-II-STEM "for S to finish C, complete C, get C ready by carving" ;
 
 k̲'i% g̲íihlgiigaa CLASS-AA "for S to have been finished, completed, gotten ready by carving" ;
 
@@ -16069,8 +15972,7 @@ k̲'i% k̲'íi'ad:k̲'i% k̲'íi' CLASS-AD-STEM "for S to make a single notch ar
 
 k̲'i% k̲'íi'adaa CLASS-AA "for S to have had a single notch made around it with a knife [said of a stick or similar object]" ;
 
-k̲'i% k̲'íi'adii CLASS-II-STEM-1 "for S to make notches around C with a knife [said of a stick or similar object]" ;
-k̲'i% k̲'íi'adii:k̲'i% k̲'íi'adáay CLASS-II-STEM-2 "for S to make notches around C with a knife [said of a stick or similar object]" ;
+k̲'i% k̲'íi'adii:k̲'i% k̲'íi'ad CLASS-II-STEM "for S to make notches around C with a knife [said of a stick or similar object]" ;
 
 k̲'i% k̲'íi'adiigaa CLASS-AA "for S to have had notches made around it with a knife [said of a stick or similar object]" ;
 
@@ -16303,8 +16205,7 @@ k̲íi% x̲íigang:k̲íi% x̲íigá CLASS-ANG-STEM "for S to cause C to make a 
 
 k̲'íi'ad:k̲'íi' CLASS-AD-STEM "for S to split [said of flexible container, such as a shoe or bag]" ;
 
-k̲'íi'adii CLASS-II-STEM-1 "for the skin on S to crack up [said of a body part]" ;
-k̲'íi'adii:k̲'íi'adáay CLASS-II-STEM-2 "for the skin on S to crack up [said of a body part]" ;
+k̲'íi'adii:k̲'íi'ad CLASS-II-STEM "for the skin on S to crack up [said of a body part]" ;
 
 k̲'íi'adiigaa CLASS-AA "for the skin on S to have cracked up [said of a body part]" ;
 
@@ -16494,8 +16395,7 @@ k̲íiwangga:k̲íiwanggáa CLASS-A-STEM-3 "for S to break C (pl) by banging the
 
 k̲íiwanggayaa CLASS-AA "for S (pl) to have been broken by being banged into something (in direction)" ;
 
-k̲'íiwii CLASS-II-STEM-1 "for S (sg) {k̲'íi} to fall through the air [either mass or discrete]" ;
-k̲'íiwii:k̲'íiwáay CLASS-II-STEM-2 "for S (sg) {k̲'íi} to fall through the air [either mass or discrete]" ;
+k̲'íiwii:k̲'íiw CLASS-II-STEM "for S (sg) {k̲'íi} to fall through the air [either mass or discrete]" ;
 
 k̲íiya CLASS-A-STEM-1 "for S to find, discover O (sg)" ;
 k̲íiya:k̲íiyä CLASS-A-STEM-2 "for S to find, discover O (sg)" ;
@@ -17192,8 +17092,7 @@ k̲'u% hltána CLASS-A-STEM-1 "for S to soften C by chewing" ;
 k̲'u% hltána:k̲'u% hltánä CLASS-A-STEM-2 "for S to soften C by chewing" ;
 k̲'u% hltána:k̲'u% hltánaa CLASS-A-STEM-3 "for S to soften C by chewing" ;
 
-k̲'u% jahlíi CLASS-II-STEM-1 "for S to make themselves sick by overeating" ;
-k̲'u% jahlíi:k̲'u% jahláay CLASS-II-STEM-2 "for S to make themselves sick by overeating" ;
+k̲'u% jahlíi:k̲'u% jahl CLASS-II-STEM "for S to make themselves sick by overeating" ;
 
 k̲'u% jahuhlgwáay CLASS-AAY "for S to tear or rip C (sg) with their teeth, making a jagged tear" ;
 
@@ -17426,8 +17325,7 @@ k̲'uhlt'ángya:k̲'uhlt'ángyáa CLASS-A-STEM-3 "for water to run off in direct
 
 k̲'uhlt'ángyayaa CLASS-AA "for water to have run off in direction" ;
 
-k̲'uhlwíi CLASS-II-STEM-1 "for S (sg) {k̲'uhl} to fall through the air" ;
-k̲'uhlwíi:k̲'uhlwáay CLASS-II-STEM-2 "for S (sg) {k̲'uhl} to fall through the air" ;
+k̲'uhlwíi:k̲'uhlw CLASS-II-STEM "for S (sg) {k̲'uhl} to fall through the air" ;
 
 k̲'ujáa CLASS-AA "for S to have many scabs, be scabby [said of a body part]" ;
 
@@ -17629,8 +17527,7 @@ k̲'únlagung:k̲'únlagwáang CLASS-UNG-STEM-2 "for S (pl) {k̲'ún} to fall th
 
 k̲'úntl'uwaa CLASS-AA "for S to feel like crying" ;
 
-k̲'únwii CLASS-II-STEM-1 "for S (sg) {k̲'ún} to fall through the air" ;
-k̲'únwii:k̲'únwáay CLASS-II-STEM-2 "for S (sg) {k̲'ún} to fall through the air" ;
+k̲'únwii:k̲'únw CLASS-II-STEM "for S (sg) {k̲'ún} to fall through the air" ;
 
 k̲'ún%.nganda CLASS-A-STEM-1 "for S {k̲'ún} to be whole, to be complete, to be a {k̲'ún} shaped object" ;
 k̲'ún%.nganda:k̲'ún%.ngandä CLASS-A-STEM-2 "for S {k̲'ún} to be whole, to be complete, to be a {k̲'ún} shaped object" ;
@@ -17986,8 +17883,7 @@ máaldäga CLASS-A-STEM-1 "for S to talk fast" ;
 máaldäga:máaldägä CLASS-A-STEM-2 "for S to talk fast" ;
 máaldäga:máaldägáa CLASS-A-STEM-3 "for S to talk fast" ;
 
-máalii CLASS-II-STEM-1 "for S to marry O, get married to O" ;
-máalii:máalaay CLASS-II-STEM-2 "for S to marry O, get married to O" ;
+máalii:máal CLASS-II-STEM "for S to marry O, get married to O" ;
 
 máaliidgaa CLASS-AA "for S to be married" ;
 
@@ -18002,8 +17898,7 @@ mállagung:mállagwáang CLASS-UNG-STEM-2 "for S (pl) {mál} to fall through the
 
 málwayaa CLASS-AA "for S (sg) {mál} to have fallen through the air" ;
 
-málwii CLASS-II-STEM-1 "for S (sg) {mál} to fall through the air" ;
-málwii:málwáay CLASS-II-STEM-2 "for S (sg) {mál} to fall through the air" ;
+málwii:málw CLASS-II-STEM "for S (sg) {mál} to fall through the air" ;
 
 mánggiigaa CLASS-AA "for S to be naughty (applied to children only)" ;
 
@@ -18368,8 +18263,7 @@ s'ahlk'uláa CLASS-AA "for S to be soft and dirty" ;
 s'ahllagúng CLASS-UNG-STEM-1 "for S (pl) {s'ahl} to fall through the air" ;
 s'ahllagúng:s'ahllagwáang CLASS-UNG-STEM-2 "for S (pl) {s'ahl} to fall through the air" ;
 
-s'ahlwíi CLASS-II-STEM-1 "for S (sg) {s'ahl} to fall through the air" ;
-s'ahlwíi:s'ahlwáay CLASS-II-STEM-2 "for S (sg) {s'ahl} to fall through the air" ;
+s'ahlwíi:s'ahlw CLASS-II-STEM "for S (sg) {s'ahl} to fall through the air" ;
 
 sajúu CLASS-UU-STEM-1 "for S to be graceful and nice-looking [said of people or higher animals]" ;
 sajúu:sajáaw CLASS-UU-STEM-2 "for S to be graceful and nice-looking [said of people or higher animals]" ;
@@ -18873,8 +18767,7 @@ sdawángga:sdawánggaa CLASS-A-STEM-3 "for S to break C (pl) by kicking them (in
 
 sdawánggayaa CLASS-AA "for S (pl) to have been broken by being kicked (in direction)" ;
 
-sdawíi CLASS-II-STEM-1 "for S (sg) {sda} to fall through the air" ;
-sdawíi:sdawáay CLASS-II-STEM-2 "for S (sg) {sda} to fall through the air" ;
+sdawíi:sdaw CLASS-II-STEM "for S (sg) {sda} to fall through the air" ;
 
 sdayáaw CLASS-AAW "for S to hang up C (sg) {sda} (in direction)" ;
 
@@ -19042,8 +18935,7 @@ sdúuwida CLASS-A-STEM-1 "for S to use the interjection <Hé-e-e!> when somethin
 sdúuwida:sdúuwidä CLASS-A-STEM-2 "for S to use the interjection <Hé-e-e!> when something bad happens (either a tragedy or some difficulty)" ;
 sdúuwida:sdúuwidáa CLASS-A-STEM-3 "for S to use the interjection <Hé-e-e!> when something bad happens (either a tragedy or some difficulty)" ;
 
-sdúuwii CLASS-II-STEM-1 "for S (sg) {sdúu} to fall through the air" ;
-sdúuwii:sdúuwáay CLASS-II-STEM-2 "for S (sg) {sdúu} to fall through the air" ;
+sdúuwii:sdúuw CLASS-II-STEM "for S (sg) {sdúu} to fall through the air" ;
 
 sélaman%.gaa CLASS-AA "for S to be a sailor" ;
 
@@ -19094,8 +18986,7 @@ sgabisahlda:sgabisahldáa CLASS-A-STEM-3 "for S (sg) {sgab} to wave, swing or ro
 sgablagúng CLASS-UNG-STEM-1 "for S (pl) {sgab} to fall through the air" ;
 sgablagúng:sgablagwáang CLASS-UNG-STEM-2 "for S (pl) {sgab} to fall through the air" ;
 
-sgabwíi CLASS-II-STEM-1 "for S (sg) {sgab} to fall through the air" ;
-sgabwíi:sgabwáay CLASS-II-STEM-2 "for S (sg) {sgab} to fall through the air" ;
+sgabwíi:sgabw CLASS-II-STEM "for S (sg) {sgab} to fall through the air" ;
 
 sgabyáang CLASS-AANG "for S (sg) {sgab} to hang down" ;
 
@@ -19158,8 +19049,7 @@ sgats'a:sgats'áa CLASS-A-STEM-3 "for S to submerge X, for water (S) to go over 
 
 sgawáa CLASS-AA "for S to have a vulva" ;
 
-sgawíi CLASS-II-STEM-1 "for S (sg) {sga} to fall through the air" ;
-sgawíi:sgawáay CLASS-II-STEM-2 "for S (sg) {sga} to fall through the air" ;
+sgawíi:sgaw CLASS-II-STEM "for S (sg) {sga} to fall through the air" ;
 
 sgayáaw CLASS-AAW "for S to hang up C (sg) {sga} (in direction)" ;
 
@@ -19208,8 +19098,7 @@ sgáamnganda:sgáamngandáa CLASS-A-STEM-3 "for S {sgáam} to be whole, to be co
 
 sgáamunang:sgáamuna CLASS-ANG-STEM "for S (sg) {sgáam} to roll" ;
 
-sgáamwii CLASS-II-STEM-1 "for S (sg) {sgáam} to fall through the air" ;
-sgáamwii:sgáamwaay CLASS-II-STEM-2 "for S (sg) {sgáam} to fall through the air" ;
+sgáamwii:sgáamw CLASS-II-STEM "for S (sg) {sgáam} to fall through the air" ;
 
 sgáayaasgada CLASS-A-STEM-1 "for S to say (to X) that they could have worked on O if they had known about it" ;
 sgáayaasgada:sgáayaasgadä CLASS-A-STEM-2 "for S to say (to X) that they could have worked on O if they had known about it" ;
@@ -19224,8 +19113,7 @@ sgámnganda CLASS-A-STEM-1 "for S {sgám} to be whole, to be complete, to be a {
 sgámnganda:sgámngandä CLASS-A-STEM-2 "for S {sgám} to be whole, to be complete, to be a {sgám} shaped object" ;
 sgámnganda:sgámngandáa CLASS-A-STEM-3 "for S {sgám} to be whole, to be complete, to be a {sgám} shaped object" ;
 
-sgámwii CLASS-II-STEM-1 "for S (sg) {sgám} to fall through the air" ;
-sgámwii:sgámwáay CLASS-II-STEM-2 "for S (sg) {sgám} to fall through the air" ;
+sgámwii:sgámw CLASS-II-STEM "for S (sg) {sgám} to fall through the air" ;
 
 sgángasälang:sgángasälá CLASS-ANG-STEM "for S to hum" ;
 
@@ -19257,8 +19145,7 @@ sgi% g̲isga CLASS-A-STEM-1 "for S to fail to split X apart with chopping" ;
 sgi% g̲isga:sgi% g̲isgä CLASS-A-STEM-2 "for S to fail to split X apart with chopping" ;
 sgi% g̲isga:sgi% g̲isgáa CLASS-A-STEM-3 "for S to fail to split X apart with chopping" ;
 
-sgi% g̲íihlgii CLASS-II-STEM-1 "for S to finish C, complete C, get C ready by chopping" ;
-sgi% g̲íihlgii:sgi% g̲íihlgaay CLASS-II-STEM-2 "for S to finish C, complete C, get C ready by chopping" ;
+sgi% g̲íihlgii:sgi% g̲íihlg CLASS-II-STEM "for S to finish C, complete C, get C ready by chopping" ;
 
 sgi% g̲íihlgiigaa CLASS-AA "for S to have been finished, completed, gotten ready by chopping" ;
 
@@ -19396,8 +19283,7 @@ sgid'ad:sgid' CLASS-AD-STEM "for S to break C (sg) up with their hands for servi
 
 sgid'adáa CLASS-AA "for S (sg) to have been broken up by hand for serving [said of pieces of toasted fish with skin on one side]" ;
 
-sgid'adíi CLASS-II-STEM-1 "for S to break C (pl) up with their hands for serving [said of pieces of toasted fish with skin on one side]" ;
-sgid'adíi:sgid'adáay CLASS-II-STEM-2 "for S to break C (pl) up with their hands for serving [said of pieces of toasted fish with skin on one side]" ;
+sgid'adíi:sgid'ad CLASS-II-STEM "for S to break C (pl) up with their hands for serving [said of pieces of toasted fish with skin on one side]" ;
 
 sgid'adíigaa CLASS-AA "for S (pl) to have been broken up by hand for serving [said of pieces of toasted fish with skin on one side]" ;
 
@@ -19451,8 +19337,7 @@ sgihl'ad:sgihl' CLASS-AD-STEM "for S to cut the umbilical cord of C (sg)" ;
 
 sgihl'adáa CLASS-AA "for S (sg) to have had their umbilical cord cut" ;
 
-sgihl'adíi CLASS-II-STEM-1 "for S to cut the umbilical cord of C (pl)" ;
-sgihl'adíi:sgihl'adáay CLASS-II-STEM-2 "for S to cut the umbilical cord of C (pl)" ;
+sgihl'adíi:sgihl'ad CLASS-II-STEM "for S to cut the umbilical cord of C (pl)" ;
 
 sgihl'adíigaa CLASS-AA "for S (pl) to have had their umbilical cords cut" ;
 
@@ -19798,8 +19683,7 @@ sg̲awayáa CLASS-AA "for S (sg) to be somewhat sad, somewhat depressed" ;
 
 sg̲awáa CLASS-AA "for S to have been paid for (with X)" ;
 
-sg̲awíi CLASS-II-STEM-1 "for S (sg) {sg̲a} to fall through the air" ;
-sg̲awíi:sg̲awáay CLASS-II-STEM-2 "for S (sg) {sg̲a} to fall through the air" ;
+sg̲awíi:sg̲aw CLASS-II-STEM "for S (sg) {sg̲a} to fall through the air" ;
 
 sg̲ayáang CLASS-AANG "for S (sg) {sg̲a} to hang down" ;
 
@@ -19858,8 +19742,7 @@ sg̲áamnganda CLASS-A-STEM-1 "for S {sg̲áam} to be whole, to be complete, to 
 sg̲áamnganda:sg̲áamngandä CLASS-A-STEM-2 "for S {sg̲áam} to be whole, to be complete, to be a {sg̲áam} shaped object" ;
 sg̲áamnganda:sg̲áamngandáa CLASS-A-STEM-3 "for S {sg̲áam} to be whole, to be complete, to be a {sg̲áam} shaped object" ;
 
-sg̲áamwii CLASS-II-STEM-1 "for S (sg) {sg̲áam} to fall through the air" ;
-sg̲áamwii:sg̲áamwaay CLASS-II-STEM-2 "for S (sg) {sg̲áam} to fall through the air" ;
+sg̲áamwii:sg̲áamw CLASS-II-STEM "for S (sg) {sg̲áam} to fall through the air" ;
 
 sg̲áamyaang CLASS-AANG "for S (sg) {sg̲áam} to hang down" ;
 
@@ -19901,11 +19784,9 @@ sg̲áaw% gáw:sg̲áaw% gá CLASS-AW-STEM "for payment to be owed on S (by X)" 
 
 sg̲áawgaa CLASS-AA "for S to have melted [said of snow, ice], have dissolved [said of grease, sugar, pitch, salt], have disappeared [said of foam, bubbles]" ;
 
-sg̲áay% dáawii CLASS-II-STEM-1 "for S to yawn with hunger" ;
-sg̲áay% dáawii:sg̲áay% dáawáay CLASS-II-STEM-2 "for S to yawn with hunger" ;
+sg̲áay% dáawii:sg̲áay% dáaw CLASS-II-STEM "for S to yawn with hunger" ;
 
-sg̲áay% g̲awíi CLASS-II-STEM-1 "for S to yawn" ;
-sg̲áay% g̲awíi:sg̲áay% g̲awáay CLASS-II-STEM-2 "for S to yawn" ;
+sg̲áay% g̲awíi:sg̲áay% g̲aw CLASS-II-STEM "for S to yawn" ;
 
 sg̲áay'uldaang CLASS-AANG "for S to repeatedly open and close their mouth, making chewing motions [as a person, cow, fish, dying salmon, etc.]" ;
 
@@ -20286,8 +20167,7 @@ sk'awa CLASS-A-STEM-1 "for S to sleep alone [said of a man abstaining from sleep
 sk'awa:sk'awä CLASS-A-STEM-2 "for S to sleep alone [said of a man abstaining from sleeping with women so as to gain luck in hunting]" ;
 sk'awa:sk'awáa CLASS-A-STEM-3 "for S to sleep alone [said of a man abstaining from sleeping with women so as to gain luck in hunting]" ;
 
-sk'awíi CLASS-II-STEM-1 "for S (sg) {sk'a} to fall through the air" ;
-sk'awíi:sk'awáay CLASS-II-STEM-2 "for S (sg) {sk'a} to fall through the air" ;
+sk'awíi:sk'aw CLASS-II-STEM "for S (sg) {sk'a} to fall through the air" ;
 
 skayáa CLASS-AA "for S to be whorled or threaded" ;
 
@@ -20398,8 +20278,7 @@ sk'áawäla CLASS-A-STEM-1 "for S to be placid, good, not a crybaby [said of bab
 sk'áawäla:sk'áawälä CLASS-A-STEM-2 "for S to be placid, good, not a crybaby [said of babies only]" ;
 sk'áawäla:sk'áawäláa CLASS-A-STEM-3 "for S to be placid, good, not a crybaby [said of babies only]" ;
 
-skáawii CLASS-II-STEM-1 "for S (sg) {skáa} to fall through the air" ;
-skáawii:skáawáay CLASS-II-STEM-2 "for S (sg) {skáa} to fall through the air" ;
+skáawii:skáaw CLASS-II-STEM "for S (sg) {skáa} to fall through the air" ;
 
 skáawnang% g̲ad:skáawnang% g̲ CLASS-AD-STEM "for S (sg) {round} to roll along fast" ;
 
@@ -20934,8 +20813,7 @@ sk̲awáada CLASS-A-STEM-1 "for S (pl) to play a certain game [said of children]
 sk̲awáada:sk̲awáadä CLASS-A-STEM-2 "for S (pl) to play a certain game [said of children]" ;
 sk̲awáada:sk̲awáadaa CLASS-A-STEM-3 "for S (pl) to play a certain game [said of children]" ;
 
-sk̲'awíi CLASS-II-STEM-1 "for S (sg) {sk̲'a} to fall through the air" ;
-sk̲'awíi:sk̲'awáay CLASS-II-STEM-2 "for S (sg) {sk̲'a} to fall through the air" ;
+sk̲'awíi:sk̲'aw CLASS-II-STEM "for S (sg) {sk̲'a} to fall through the air" ;
 
 sk̲'ayáang CLASS-AANG "for S (sg) {sk̲'a} to hang down" ;
 
@@ -21162,8 +21040,7 @@ sk̲udunáng:sk̲uduná CLASS-ANG-STEM "for S to roll C (pl) by pushing" ;
 
 sk̲udwayáa CLASS-AA "for S to have been picked by being knocked off with the side of the hand [said of red huckleberries]" ;
 
-sk̲udwíi CLASS-II-STEM-1 "for S to pick C by knocking them off with the side of their hand [said of red huckleberries]" ;
-sk̲udwíi:sk̲udwáay CLASS-II-STEM-2 "for S to pick C by knocking them off with the side of their hand [said of red huckleberries]" ;
+sk̲udwíi:sk̲udw CLASS-II-STEM "for S to pick C by knocking them off with the side of their hand [said of red huckleberries]" ;
 
 sk̲'udyáang CLASS-AANG "for S (sg) to have their arm hanging down in direction" ;
 
@@ -21202,15 +21079,13 @@ smálsdla:smálsdlaa CLASS-A-STEM-3 "for S to tie O (dl) together to make longer
 
 smálsdliyaa CLASS-AA "for S (dl) to have been tied together to make a longer one [said of ropes]" ;
 
-smálwii CLASS-II-STEM-1 "for S (sg) {smál} to fall through the air" ;
-smálwii:smálwáay CLASS-II-STEM-2 "for S (sg) {smál} to fall through the air" ;
+smálwii:smálw CLASS-II-STEM "for S (sg) {smál} to fall through the air" ;
 
 snahid:snah CLASS-ID-STEM "for S to pick O (sg) {snah} up, to pick O {sg) {snah} up and take off with it (in direction), to carry O (sg) {snah} off, to take O (sg) {snah} away" ;
 
 snahl CLASS-AHL-STEM "for S to be scabby [said of a body part only]" ;
 
-snahwíi CLASS-II-STEM-1 "for S (sg) {snah} to fall through the air" ;
-snahwíi:snahwáay CLASS-II-STEM-2 "for S (sg) {snah} to fall through the air" ;
+snahwíi:snahw CLASS-II-STEM "for S (sg) {snah} to fall through the air" ;
 
 snah%.lagúng CLASS-UNG-STEM-1 "for S (pl) {snah} to fall through the air" ;
 snah%.lagúng:snah%.lagwáang CLASS-UNG-STEM-2 "for S (pl) {snah} to fall through the air" ;
@@ -21586,8 +21461,7 @@ stl'angánda:stl'angándáa CLASS-A-STEM-3 "for S {stl'a} to be whole, to be com
 
 stlasaláng:stlasalá CLASS-ANG-STEM "for S to shake their finger at X" ;
 
-stl'awíi CLASS-II-STEM-1 "for S (sg) {stl'a} to fall through the air" ;
-stl'awíi:stl'awáay CLASS-II-STEM-2 "for S (sg) {stl'a} to fall through the air" ;
+stl'awíi:stl'aw CLASS-II-STEM "for S (sg) {stl'a} to fall through the air" ;
 
 stla%.ad:stla%. CLASS-AD-STEM "for S to try to poke X with their finger (in direction)" ;
 
@@ -21622,8 +21496,7 @@ stl'áamnganda CLASS-A-STEM-1 "for S {stl'áam} to be whole, to be complete, to 
 stl'áamnganda:stl'áamngandä CLASS-A-STEM-2 "for S {stl'áam} to be whole, to be complete, to be a {stl'áam} shaped object" ;
 stl'áamnganda:stl'áamngandáa CLASS-A-STEM-3 "for S {stl'áam} to be whole, to be complete, to be a {stl'áam} shaped object" ;
 
-stl'áamwii CLASS-II-STEM-1 "for S (sg) {stl'áam} to fall through the air" ;
-stl'áamwii:stl'áamwaay CLASS-II-STEM-2 "for S (sg) {stl'áam} to fall through the air" ;
+stl'áamwii:stl'áamw CLASS-II-STEM "for S (sg) {stl'áam} to fall through the air" ;
 
 stl'áanaa CLASS-AA "for S to be left-handed" ;
 
@@ -21702,8 +21575,7 @@ stluwán% xa%.ayd CLASS-AYD "for S to snitch O (sg) in their closed fist" ;
 
 stluwánid:stluwán CLASS-ID-STEM "for S to pick O (pl) up in their fist, to pick O (pl) up and take off with them in their fist (in direction), to carry O (pl) off in their fist, to take O (pl) away in their fist" ;
 
-stl'uwíi CLASS-II-STEM-1 "for S to kindle [said of tinder]" ;
-stl'uwíi:stl'uwáay CLASS-II-STEM-2 "for S to kindle [said of tinder]" ;
+stl'uwíi:stl'uw CLASS-II-STEM "for S to kindle [said of tinder]" ;
 
 stl'úuhlgula CLASS-A-STEM-1 "for S to talk to X like a big shot would" ;
 stl'úuhlgula:stl'úuhlgulä CLASS-A-STEM-2 "for S to talk to X like a big shot would" ;
@@ -21726,8 +21598,7 @@ stlúuwast'asyaa CLASS-AA "for S (sg) {stlúu} to have fallen over (in direction
 
 stlúuwid:stlúuw CLASS-ID-STEM "for S to pick O (sg) {stlúu} up, to pick O {sg) {stlúu} up and take off with it (in direction), to carry O (sg) {stlúu} off, to take O (sg) {stlúu} away" ;
 
-stlúuwii CLASS-II-STEM-1 "for S (sg) {stlúu} to fall through the air" ;
-stlúuwii:stlúuwáay CLASS-II-STEM-2 "for S (sg) {stlúu} to fall through the air" ;
+stlúuwii:stlúuw CLASS-II-STEM "for S (sg) {stlúu} to fall through the air" ;
 
 stl'úuwii'uhla CLASS-A-STEM-1 "for S to get up from a rest [said of a big shot] [used sarcastically]" ;
 stl'úuwii'uhla:stl'úuwii'uhlä CLASS-A-STEM-2 "for S to get up from a rest [said of a big shot] [used sarcastically]" ;
@@ -21926,8 +21797,7 @@ ta% gidúudaaga:ta% gidúudaagáa CLASS-A-STEM-3 "for S to habitually scoop up g
 
 ta% gináng:ta% giná CLASS-ANG-STEM "for S to ask if someone wants to fight or gamble, to ask people to fight or gamble" ;
 
-ta% gíi CLASS-II-STEM-1 "for S to seize something as plunder or payment (for X)" ;
-ta% gíi:ta% gáay CLASS-II-STEM-2 "for S to seize something as plunder or payment (for X)" ;
+ta% gíi:ta% g CLASS-II-STEM "for S to seize something as plunder or payment (for X)" ;
 
 ta% gíi'ad:ta% gíi' CLASS-AD-STEM "for S to seize or appropriate things (in payment of debt for X)" ;
 
@@ -22011,8 +21881,7 @@ t'a% hlg̲awáansdla CLASS-A-STEM-1 "for S (pl) to stop while riding bicycles" ;
 t'a% hlg̲awáansdla:t'a% hlg̲awáansdlä CLASS-A-STEM-2 "for S (pl) to stop while riding bicycles" ;
 t'a% hlg̲awáansdla:t'a% hlg̲awáansdláa CLASS-A-STEM-3 "for S (pl) to stop while riding bicycles" ;
 
-ta% hlg̲awíi CLASS-II-STEM-1 "for S to be all abuzz, to be stirred up [said of a town or a large group of people]" ;
-ta% hlg̲awíi:ta% hlg̲awáay CLASS-II-STEM-2 "for S to be all abuzz, to be stirred up [said of a town or a large group of people]" ;
+ta% hlg̲awíi:ta% hlg̲aw CLASS-II-STEM "for S to be all abuzz, to be stirred up [said of a town or a large group of people]" ;
 
 ta% hlg̲áy:ta% hlg̲á CLASS-AY-STEM "for S to dig clams" ;
 
@@ -22444,8 +22313,7 @@ ta% tlánsguhl:ta% tlánsgwáal CLASS-UHL-STEM-3 "for S to store things away" ;
 
 ta% tli%.id:ta% tli%. CLASS-ID-STEM "for S to harvest potatoes" ;
 
-ta% tl'íi CLASS-II-STEM-1 "for S to sew (with X [machine])" ;
-ta% tl'íi:ta% tl'áay CLASS-II-STEM-2 "for S to sew (with X [machine])" ;
+ta% tl'íi:ta% tl' CLASS-II-STEM "for S to sew (with X [machine])" ;
 
 ta% tl'íi% sálda CLASS-A-STEM-1 "for S to baste [said of sewing, not cooking]" ;
 ta% tl'íi% sálda:ta% tl'íi% sáldä CLASS-A-STEM-2 "for S to baste [said of sewing, not cooking]" ;
@@ -22604,8 +22472,7 @@ t'abid:t'ab CLASS-ID-STEM "for S to pick O (sg) {t'ab} up, to pick O {sg) {t'ab}
 t'ablagúng CLASS-UNG-STEM-1 "for S (pl) {t'ab} to fall through the air" ;
 t'ablagúng:t'ablagwáang CLASS-UNG-STEM-2 "for S (pl) {t'ab} to fall through the air" ;
 
-t'abwíi CLASS-II-STEM-1 "for S (sg) {t'ab} to fall through the air" ;
-t'abwíi:t'abwáay CLASS-II-STEM-2 "for S (sg) {t'ab} to fall through the air" ;
+t'abwíi:t'abw CLASS-II-STEM "for S (sg) {t'ab} to fall through the air" ;
 
 tad:t CLASS-AD-STEM "for S to be cold [said of wind, interior of house, fire, weather, bed, food or drink, body parts (describing temperature, not sensation of cold)]" ;
 
@@ -22786,8 +22653,7 @@ tawda CLASS-A-STEM-1 "for S to have O as a remote clanmate or friend" ;
 tawda:tawdä CLASS-A-STEM-2 "for S to have O as a remote clanmate or friend" ;
 tawda:tawdáa CLASS-A-STEM-3 "for S to have O as a remote clanmate or friend" ;
 
-t'awíi CLASS-II-STEM-1 "for S (sg) {t'a} to fall through the air" ;
-t'awíi:t'awáay CLASS-II-STEM-2 "for S (sg) {t'a} to fall through the air" ;
+t'awíi:t'aw CLASS-II-STEM "for S (sg) {t'a} to fall through the air" ;
 
 t'ayáang CLASS-AANG "for S (sg) {t'a} to hang down" ;
 
@@ -22867,8 +22733,7 @@ t'áamnganda CLASS-A-STEM-1 "for S {t'áam} to be whole, to be complete, to be a
 t'áamnganda:t'áamngandä CLASS-A-STEM-2 "for S {t'áam} to be whole, to be complete, to be a {t'áam} shaped object" ;
 t'áamnganda:t'áamngandáa CLASS-A-STEM-3 "for S {t'áam} to be whole, to be complete, to be a {t'áam} shaped object" ;
 
-t'áamwii CLASS-II-STEM-1 "for S (sg) {t'áam} to fall through the air" ;
-t'áamwii:t'áamwaay CLASS-II-STEM-2 "for S (sg) {t'áam} to fall through the air" ;
+t'áamwii:t'áamw CLASS-II-STEM "for S (sg) {t'áam} to fall through the air" ;
 
 t'áamyaang CLASS-AANG "for S (sg) {t'áam} to hang down" ;
 
@@ -22977,8 +22842,7 @@ t'ámnganda CLASS-A-STEM-1 "for S {t'ám} to be whole, to be complete, to be a {
 t'ámnganda:t'ámngandä CLASS-A-STEM-2 "for S {t'ám} to be whole, to be complete, to be a {t'ám} shaped object" ;
 t'ámnganda:t'ámngandáa CLASS-A-STEM-3 "for S {t'ám} to be whole, to be complete, to be a {t'ám} shaped object" ;
 
-t'ámwii CLASS-II-STEM-1 "for S (sg) {t'ám} to fall through the air" ;
-t'ámwii:t'ámwáay CLASS-II-STEM-2 "for S (sg) {t'ám} to fall through the air" ;
+t'ámwii:t'ámw CLASS-II-STEM "for S (sg) {t'ám} to fall through the air" ;
 
 t'án% sg̲unagáa CLASS-AA "for S (people) to stay together in one place (=in location)" ;
 
@@ -23090,8 +22954,7 @@ t'áwts'äda:t'áwts'ädáa CLASS-A-STEM-3 "for S to have a fort in location" ;
 
 t'áwunang:t'áwuna CLASS-ANG-STEM "for S (sg) {t'áw} to roll" ;
 
-t'áwwii CLASS-II-STEM-1 "for S (sg) {t'áw} to fall through the air" ;
-t'áwwii:t'áwwáay CLASS-II-STEM-2 "for S (sg) {t'áw} to fall through the air" ;
+t'áwwii:t'áww CLASS-II-STEM "for S (sg) {t'áw} to fall through the air" ;
 
 táwya CLASS-A-STEM-1 "for grease or oil to drip" ;
 táwya:táwyä CLASS-A-STEM-2 "for grease or oil to drip" ;
@@ -23161,8 +23024,7 @@ tiyä% gut'áanda:tiyä% gut'áandaa CLASS-A-STEM-3 "for S to mistreat, physical
 
 tiyä% k̲'áak'ulee%.eehl:tiyä% k̲'áak'ulee%. CLASS-EEHL-STEM "for S to beat up C badly" ;
 
-tíi CLASS-II-STEM-1 "for S (sg) to lie down to rest, go to bed (in location, after going in direction) (while X is still in bed, never having gotten up)" ;
-tíi:táay CLASS-II-STEM-2 "for S (sg) to lie down to rest, go to bed (in location, after going in direction) (while X is still in bed, never having gotten up)" ;
+tíi:t CLASS-II-STEM "for S (sg) to lie down to rest, go to bed (in location, after going in direction) (while X is still in bed, never having gotten up)" ;
 
 tíi% dlaast'a CLASS-A-STEM-1 "for S (sg) to fall over sideways and just lie there" ;
 tíi% dlaast'a:tíi% dlaast'ä CLASS-A-STEM-2 "for S (sg) to fall over sideways and just lie there" ;
@@ -23268,8 +23130,7 @@ tíit'a%.agang:tíit'a%.agá CLASS-ANG-STEM "for S to run in a swell (said of wa
 
 tíits'iyaa CLASS-AA "for X to have been added onto [said of a house]" ;
 
-tíiwii CLASS-II-STEM-1 "for S (sg) {tíi} to fall through the air" ;
-tíiwii:tíiwáay CLASS-II-STEM-2 "for S (sg) {tíi} to fall through the air" ;
+tíiwii:tíiw CLASS-II-STEM "for S (sg) {tíi} to fall through the air" ;
 
 tíiyaang CLASS-AANG "for S (sg) {tíi} to hang down" ;
 
@@ -23341,8 +23202,7 @@ tla% dáa'ad:tla% dáa' CLASS-AD-STEM "for S to pinch C in in one place" ;
 
 tla% dáa'adaa CLASS-AA "for S to have been pinched in in one place" ;
 
-tla% dáa'adii CLASS-II-STEM-1 "for S to pinch C in in places" ;
-tla% dáa'adii:tla% dáa'adáay CLASS-II-STEM-2 "for S to pinch C in in places" ;
+tla% dáa'adii:tla% dáa'ad CLASS-II-STEM "for S to pinch C in in places" ;
 
 tla% dáa'adiigaa CLASS-AA "for S to have been pinched in in places" ;
 
@@ -23404,8 +23264,7 @@ tla% g̲íihl CLASS-IIHL-STEM-1 "for S to correct C, set C right" ;
 tla% g̲íihl:tla% g̲íl CLASS-IIHL-STEM-2 "for S to correct C, set C right" ;
 tla% g̲íihl:tla% g̲éel CLASS-IIHL-STEM-3 "for S to correct C, set C right" ;
 
-tla% g̲íihlgii CLASS-II-STEM-1 "for S to finish C, complete C, get C ready by working on it with their hands" ;
-tla% g̲íihlgii:tla% g̲íihlgaay CLASS-II-STEM-2 "for S to finish C, complete C, get C ready by working on it with their hands" ;
+tla% g̲íihlgii:tla% g̲íihlg CLASS-II-STEM "for S to finish C, complete C, get C ready by working on it with their hands" ;
 
 tla% g̲íihlgiigaa CLASS-AA "for S to have been finished, completed, gotten ready by being worked on by hand" ;
 
@@ -23475,8 +23334,7 @@ tla% kám'adaa CLASS-AA "for S to have been divided up into short pieces" ;
 
 tla% kid'ad:tla% kid' CLASS-AD-STEM "for S to shove C (sg) [said of shoving a harpoon or stick]" ;
 
-tla% kid'adíi CLASS-II-STEM-1 "for S to shove C (pl) [said of shoving a harpoon or stick]" ;
-tla% kid'adíi:tla% kid'adáay CLASS-II-STEM-2 "for S to shove C (pl) [said of shoving a harpoon or stick]" ;
+tla% kid'adíi:tla% kid'ad CLASS-II-STEM "for S to shove C (pl) [said of shoving a harpoon or stick]" ;
 
 tla% k'ihl CLASS-IHL-STEM-1 "for S to drain C (sg), to put C (sg) out, to extinguish C (sg) [said of a pond, a light, etc.]" ;
 tla% k'ihl:tla% k'íl CLASS-IHL-STEM-2 "for S to drain C (sg), to put C (sg) out, to extinguish C (sg) [said of a pond, a light, etc.]" ;
@@ -23506,8 +23364,7 @@ tla% kwáahla:tla% kwáahláa CLASS-A-STEM-3 "for S to disappoint C, let C down 
 
 tla% k'yáalgaa CLASS-AA "for S (sg) to have been drained, put out, extinguished [said of a pond, a light, etc.]" ;
 
-tla% k̲'adíi CLASS-II-STEM-1 "for S to anesthetize C (sg), knock C (sg) out with anesthetic" ;
-tla% k̲'adíi:tla% k̲'adáay CLASS-II-STEM-2 "for S to anesthetize C (sg), knock C (sg) out with anesthetic" ;
+tla% k̲'adíi:tla% k̲'ad CLASS-II-STEM "for S to anesthetize C (sg), knock C (sg) out with anesthetic" ;
 
 tla% k̲'adíigaa CLASS-AA "for S (sg) to have been anesthetized, knocked out with anesthetic" ;
 
@@ -23586,8 +23443,7 @@ tla% k̲wáan'ilaa CLASS-AA "for lots of S to have been made (from X)" ;
 
 tla% k̲wiigáa CLASS-AA "for S to have been potlatched for and made of high rank" ;
 
-tla% máalii CLASS-II-STEM-1 "for S to marry C (pl)" ;
-tla% máalii:tla% máalaay CLASS-II-STEM-2 "for S to marry C (pl)" ;
+tla% máalii:tla% máal CLASS-II-STEM "for S to marry C (pl)" ;
 
 tla% míits'angaa CLASS-AA "for S to pretend that doing C is important, that doing C takes skill and knowledge to do properly" ;
 
@@ -23761,8 +23617,7 @@ tl'aadiya CLASS-A-STEM-1 "for S (pl) {tl'a} to hang down (in location or directi
 tl'aadiya:tl'aadiyä CLASS-A-STEM-2 "for S (pl) {tl'a} to hang down (in location or direction)" ;
 tl'aadiya:tl'aadiyáa CLASS-A-STEM-3 "for S (pl) {tl'a} to hang down (in location or direction)" ;
 
-tla'adíi CLASS-II-STEM-1 "for S to divide C up, divide C in two, share out C" ;
-tla'adíi:tla'adáay CLASS-II-STEM-2 "for S to divide C up, divide C in two, share out C" ;
+tla'adíi:tla'ad CLASS-II-STEM "for S to divide C up, divide C in two, share out C" ;
 
 tlaagáa CLASS-AA "for X to not even have S [used in negative sentences]" ;
 
@@ -24071,8 +23926,7 @@ tlangaláng:tlangalá CLASS-ANG-STEM "for S to look at O (clothing) to find some
 
 tlangáang CLASS-AANG "for S to fiddle with X while working on it (implying unsuccessful attempts to make or fix something)" ;
 
-tlangíi CLASS-II-STEM-1 "for S to let O out a little bit at a time [said of rope only]" ;
-tlangíi:tlangáay CLASS-II-STEM-2 "for S to let O out a little bit at a time [said of rope only]" ;
+tlangíi:tlang CLASS-II-STEM "for S to let O out a little bit at a time [said of rope only]" ;
 
 tlasdla CLASS-A-STEM-1 "for S to let O go, release O from their hands" ;
 tlasdla:tlasdlä CLASS-A-STEM-2 "for S to let O go, release O from their hands" ;
@@ -24130,8 +23984,7 @@ tl'a'úldang:tl'a'úlda CLASS-ANG-STEM "for S to blink both eyes slowly" ;
 !tla'únhl CLASS-UNHL-STEM-1 "V seven times" ;
 !tla'únhl:tla'únal CLASS-UNHL-STEM-2 "V seven times" ;
 
-tl'awíi CLASS-II-STEM-1 "for S (sg) {tl'a} to fall through the air" ;
-tl'awíi:tl'awáay CLASS-II-STEM-2 "for S (sg) {tl'a} to fall through the air" ;
+tl'awíi:tl'aw CLASS-II-STEM "for S (sg) {tl'a} to fall through the air" ;
 
 tl'ayáang CLASS-AANG "for S (sg) {tl'a} to hang down" ;
 
@@ -24438,8 +24291,7 @@ tli%.id:tli%. CLASS-ID-STEM "for S to harvest O, to gather O [said of garden veg
 
 tl'i%.id:tl'i%. CLASS-ID-STEM "for S to pick O (sg) {tl'a} up, to pick O {sg) {tl'a} up and take off with it (in direction), to carry O (sg) {tl'a} off, to take O (sg) {tl'a} away" ;
 
-tl'íi CLASS-II-STEM-1 "for S to sew (with X [machine])" ;
-tl'íi:tl'áay CLASS-II-STEM-2 "for S to sew (with X [machine])" ;
+tl'íi:tl' CLASS-II-STEM "for S to sew (with X [machine])" ;
 
 tl'íi% hlg̲agáng:tl'íi% hlg̲agá CLASS-ANG-STEM "for S to hurry sewing X" ;
 
@@ -24553,8 +24405,7 @@ tluwä% xáwsda CLASS-A-STEM-1 "for S (pl) to crawl fast" ;
 tluwä% xáwsda:tluwä% xáwsdä CLASS-A-STEM-2 "for S (pl) to crawl fast" ;
 tluwä% xáwsda:tluwä% xáwsdáa CLASS-A-STEM-3 "for S (pl) to crawl fast" ;
 
-tl'uwíi CLASS-II-STEM-1 "for S to become paralyzed on one side" ;
-tl'uwíi:tl'uwáay CLASS-II-STEM-2 "for S to become paralyzed on one side" ;
+tl'uwíi:tl'uw CLASS-II-STEM "for S to become paralyzed on one side" ;
 
 tluwíisa CLASS-A-STEM-1 "for S to make a mistake (on X)" ;
 tluwíisa:tluwíisä CLASS-A-STEM-2 "for S to make a mistake (on X)" ;
@@ -24674,8 +24525,7 @@ ts'a% g̲isga CLASS-A-STEM-1 "for S to fail to cut X with scissors" ;
 ts'a% g̲isga:ts'a% g̲isgä CLASS-A-STEM-2 "for S to fail to cut X with scissors" ;
 ts'a% g̲isga:ts'a% g̲isgáa CLASS-A-STEM-3 "for S to fail to cut X with scissors" ;
 
-ts'a% g̲íihlgii CLASS-II-STEM-1 "for S to get C ready by cutting with scissors [said of razor clams only]" ;
-ts'a% g̲íihlgii:ts'a% g̲íihlgaay CLASS-II-STEM-2 "for S to get C ready by cutting with scissors [said of razor clams only]" ;
+ts'a% g̲íihlgii:ts'a% g̲íihlg CLASS-II-STEM "for S to get C ready by cutting with scissors [said of razor clams only]" ;
 
 ts'a% g̲íihlgiigaa CLASS-AA "for S to have been gotten ready by cutting with scissors [said of razor clams only]" ;
 
@@ -24915,8 +24765,7 @@ ts'aslagúng:ts'aslagwáang CLASS-UNG-STEM-2 "for S (pl) {ts'as} to fall through
 
 ts'asunáng:ts'asuná CLASS-ANG-STEM "for S (sg) {ts'as} to roll" ;
 
-ts'aswíi CLASS-II-STEM-1 "for S (sg) {ts'as} to fall through the air" ;
-ts'aswíi:ts'aswáay CLASS-II-STEM-2 "for S (sg) {ts'as} to fall through the air" ;
+ts'aswíi:ts'asw CLASS-II-STEM "for S (sg) {ts'as} to fall through the air" ;
 
 ts'asyuwa CLASS-A-STEM-1 "for S (sg) {ts'as} to hang down (in location or direction)" ;
 ts'asyuwa:ts'asyuwä CLASS-A-STEM-2 "for S (sg) {ts'as} to hang down (in location or direction)" ;
@@ -24962,8 +24811,7 @@ ts'áanaa%.uda:ts'áanaa%.udáa CLASS-A-STEM-3 "for S to build a fire" ;
 
 ts'áanaa%.udayaa CLASS-AA "for there to be a fire going in location" ;
 
-ts'áandlii CLASS-II-STEM-1 "for S (sg) to sit down aboard a vehicle" ;
-ts'áandlii:ts'áandláay CLASS-II-STEM-2 "for S (sg) to sit down aboard a vehicle" ;
+ts'áandlii:ts'áandl CLASS-II-STEM "for S (sg) to sit down aboard a vehicle" ;
 
 ts'áang CLASS-AANG "for S (sg) to sit on a vehicle" ;
 
@@ -25415,8 +25263,7 @@ xab'ad:xab' CLASS-AD-STEM "for S (sg) to quickly come/go through (in direction),
 
 xab'adáa CLASS-AA "for S (sg) to have penetrated fast (in direction)" ;
 
-xab'adíi CLASS-II-STEM-1 "for S (pl) to quickly come/go through (in direction), to quickly penetrate (in direction)" ;
-xab'adíi:xab'adáay CLASS-II-STEM-2 "for S (pl) to quickly come/go through (in direction), to quickly penetrate (in direction)" ;
+xab'adíi:xab'ad CLASS-II-STEM "for S (pl) to quickly come/go through (in direction), to quickly penetrate (in direction)" ;
 
 xab'adíigaa CLASS-AA "for S (pl) to have penetrated fast (in direction)" ;
 
@@ -25445,8 +25292,7 @@ xabsdla CLASS-A-STEM-1 "to finish V'ing quickly" ;
 xabsdla:xabsdlä CLASS-A-STEM-2 "to finish V'ing quickly" ;
 xabsdla:xabsdláa CLASS-A-STEM-3 "to finish V'ing quickly" ;
 
-xabwíi CLASS-II-STEM-1 "for S (sg) {xab} to fall through the air" ;
-xabwíi:xabwáay CLASS-II-STEM-2 "for S (sg) {xab} to fall through the air" ;
+xabwíi:xabw CLASS-II-STEM "for S (sg) {xab} to fall through the air" ;
 
 xabyáandaal CLASS-AAL "for S (sg) to run along fast, to move along fast [not said of a person]" ;
 
@@ -25559,8 +25405,7 @@ xats'a:xats'áa CLASS-A-STEM-3 "for S to become better off" ;
 
 xa'úldang:xa'úlda CLASS-ANG-STEM "for S to be barely alive" ;
 
-xawíi CLASS-II-STEM-1 "for S (sg) {xa} to fall through the air [either mass or discrete]" ;
-xawíi:xawáay CLASS-II-STEM-2 "for S (sg) {xa} to fall through the air [either mass or discrete]" ;
+xawíi:xaw CLASS-II-STEM "for S (sg) {xa} to fall through the air [either mass or discrete]" ;
 
 xayáa CLASS-AA "for there to be sunshine, for it to sunshine, for it to be sunny" ;
 
@@ -25621,8 +25466,7 @@ xáamdä% xáwsdats'a:xáamdä% xáwsdats'áa CLASS-A-STEM-3 "for S to breathe i
 xáamlagung CLASS-UNG-STEM-1 "for S (pl) {xáam} to fall through the air" ;
 xáamlagung:xáamlagwaang CLASS-UNG-STEM-2 "for S (pl) {xáam} to fall through the air" ;
 
-xáamwii CLASS-II-STEM-1 "for S (sg) {xáam} to fall through the air" ;
-xáamwii:xáamwaay CLASS-II-STEM-2 "for S (sg) {xáam} to fall through the air" ;
+xáamwii:xáamw CLASS-II-STEM "for S (sg) {xáam} to fall through the air" ;
 
 xáanda CLASS-A-STEM-1 "for S to try to lasso X, to try to catch X with a noose" ;
 xáanda:xáandä CLASS-A-STEM-2 "for S to try to lasso X, to try to catch X with a noose" ;
@@ -25761,8 +25605,7 @@ xál% t'aayda:xál% t'aaydáa CLASS-A-STEM-3 "for S to be in pain from swallowin
 
 xál% t'áw'ad:xál% t'áw' CLASS-AD-STEM "for a single spark to shoot out of the fire (in direction)" ;
 
-xál% t'áw'adii CLASS-II-STEM-1 "for sparks to shoot out of the fire (in direction)" ;
-xál% t'áw'adii:xál% t'áw'adáay CLASS-II-STEM-2 "for sparks to shoot out of the fire (in direction)" ;
+xál% t'áw'adii:xál% t'áw'ad CLASS-II-STEM "for sparks to shoot out of the fire (in direction)" ;
 
 xál% xabidga CLASS-A-STEM-1 "for S (pl) to go around fast in a vehicle" ;
 xál% xabidga:xál% xabidgä CLASS-A-STEM-2 "for S (pl) to go around fast in a vehicle" ;
@@ -25903,8 +25746,7 @@ xáwsk'ahl CLASS-AHL-STEM "for S (pl) to poke into X" ;
 
 xáwsk'alaa CLASS-AA "for S (pl) to have poked into X" ;
 
-xáwwii CLASS-II-STEM-1 "for S (sg) {xáw} to fall through the air" ;
-xáwwii:xáwwáay CLASS-II-STEM-2 "for S (sg) {xáw} to fall through the air" ;
+xáwwii:xáww CLASS-II-STEM "for S (sg) {xáw} to fall through the air" ;
 
 xáy% k̲agáa CLASS-AA "for it to have sunshined strongly on X, for the sun to have beat down on X" ;
 
@@ -25930,8 +25772,7 @@ xáysgudayaa CLASS-AA "for it to have failed to sunshine for S [said of foods dr
 
 xi% dab'ad:xi% dab' CLASS-AD-STEM "for S (sg) to run fast [said of a person with a big stomach]" ;
 
-xi% dab'adíi CLASS-II-STEM-1 "for S (pl) to run fast [said of people with big stomachs]" ;
-xi% dab'adíi:xi% dab'adáay CLASS-II-STEM-2 "for S (pl) to run fast [said of people with big stomachs]" ;
+xi% dab'adíi:xi% dab'ad CLASS-II-STEM "for S (pl) to run fast [said of people with big stomachs]" ;
 
 xi% dámidga CLASS-A-STEM-1 "for S (pl) to fly around buzzing" ;
 xi% dámidga:xi% dámidgä CLASS-A-STEM-2 "for S (pl) to fly around buzzing" ;
@@ -25941,8 +25782,7 @@ xi% dámyuwagwaang CLASS-AANG "for S (sg) to fly around buzzing" ;
 
 xi% gab'ad:xi% gab' CLASS-AD-STEM "for S (sg) to run fast [said of a bent-over person]" ;
 
-xi% gab'adíi CLASS-II-STEM-1 "for S (pl) to run fast [said of bent-over people]" ;
-xi% gab'adíi:xi% gab'adáay CLASS-II-STEM-2 "for S (pl) to run fast [said of bent-over people]" ;
+xi% gab'adíi:xi% gab'ad CLASS-II-STEM "for S (pl) to run fast [said of bent-over people]" ;
 
 xi% gabidga CLASS-A-STEM-1 "for S (pl) to run around fast [said of people bent over]" ;
 xi% gabidga:xi% gabidgä CLASS-A-STEM-2 "for S (pl) to run around fast [said of people bent over]" ;
@@ -25954,8 +25794,7 @@ xi% gi%.id:xi% gi%. CLASS-ID-STEM "for S to chase O (pl) (in direction) by runni
 
 xi% gwa'ad:xi% gwa' CLASS-AD-STEM "for S (sg) to run fast" ;
 
-xi% gwa'adíi CLASS-II-STEM-1 "for S (pl) to run fast" ;
-xi% gwa'adíi:xi% gwa'adáay CLASS-II-STEM-2 "for S (pl) to run fast" ;
+xi% gwa'adíi:xi% gwa'ad CLASS-II-STEM "for S (pl) to run fast" ;
 
 xi% gya%.a CLASS-A-STEM-1 "for S to chase C (pl) away" ;
 xi% gya%.a:xi% gya%.ä CLASS-A-STEM-2 "for S to chase C (pl) away" ;
@@ -25977,13 +25816,11 @@ xi% hlg̲agáng:xi% hlg̲agá CLASS-ANG-STEM "for S to hurry beating soapberries
 
 xi% hlkáam'ad:xi% hlkáam' CLASS-AD-STEM "for S (sg) to run fast [said of a tall skinny person]" ;
 
-xi% hlkáam'adii CLASS-II-STEM-1 "for S (pl) to run fast [said of tall skinny people]" ;
-xi% hlkáam'adii:xi% hlkáam'adáay CLASS-II-STEM-2 "for S (pl) to run fast [said of tall skinny people]" ;
+xi% hlkáam'adii:xi% hlkáam'ad CLASS-II-STEM "for S (pl) to run fast [said of tall skinny people]" ;
 
 xi% jah'ad:xi% jah' CLASS-AD-STEM "for S (sg) to run fast [said of an untidy person]" ;
 
-xi% jah'adíi CLASS-II-STEM-1 "for S (pl) to run fast [said of untidy people]" ;
-xi% jah'adíi:xi% jah'adáay CLASS-II-STEM-2 "for S (pl) to run fast [said of untidy people]" ;
+xi% jah'adíi:xi% jah'ad CLASS-II-STEM "for S (pl) to run fast [said of untidy people]" ;
 
 xi% k'áat'a CLASS-A-STEM-1 "for S to sling O away fast (in direction), to throw O using a sling (in direction)" ;
 xi% k'áat'a:xi% k'áat'ä CLASS-A-STEM-2 "for S to sling O away fast (in direction), to throw O using a sling (in direction)" ;
@@ -26061,8 +25898,7 @@ xi% sgílyaanggwaang CLASS-AANG "for S (sg) to run around fast, to move around f
 
 xi% sgwa'ad:xi% sgwa' CLASS-AD-STEM "for S (sg) to run fast [said of a bent-over person]" ;
 
-xi% sgwa'adíi CLASS-II-STEM-1 "for S (pl) to run fast [said of bent-over people]" ;
-xi% sgwa'adíi:xi% sgwa'adáay CLASS-II-STEM-2 "for S (pl) to run fast [said of bent-over people]" ;
+xi% sgwa'adíi:xi% sgwa'ad CLASS-II-STEM "for S (pl) to run fast [said of bent-over people]" ;
 
 xi% skiidga CLASS-A-STEM-1 "for S (pl) to run around [said of small skinny children]" ;
 xi% skiidga:xi% skiidgä CLASS-A-STEM-2 "for S (pl) to run around [said of small skinny children]" ;
@@ -26082,8 +25918,7 @@ xi% t'ast'ahla:xi% t'ast'ahláa CLASS-A-STEM-3 "for S to take off [said of a bir
 
 xi% xab'ad:xi% xab' CLASS-AD-STEM "for S (sg) to run fast, fly fast" ;
 
-xi% xab'adíi CLASS-II-STEM-1 "for S (pl) to run fast, fly fast" ;
-xi% xab'adíi:xi% xab'adáay CLASS-II-STEM-2 "for S (pl) to run fast, fly fast" ;
+xi% xab'adíi:xi% xab'ad CLASS-II-STEM "for S (pl) to run fast, fly fast" ;
 
 xi% xabidga CLASS-A-STEM-1 "for S (pl) to run around fast, fly around fast" ;
 xi% xabidga:xi% xabidgä CLASS-A-STEM-2 "for S (pl) to run around fast, fly around fast" ;
@@ -26487,8 +26322,7 @@ xwáadisahlda:xwáadisahldáa CLASS-A-STEM-3 "for S (sg) {xwáad} to wave, swing
 xwáadlagung CLASS-UNG-STEM-1 "for S (pl) {xwáad} to fall through the air" ;
 xwáadlagung:xwáadlagwáang CLASS-UNG-STEM-2 "for S (pl) {xwáad} to fall through the air" ;
 
-xwáadwii CLASS-II-STEM-1 "for S (sg) {xwáad} to fall through the air" ;
-xwáadwii:xwáadwáay CLASS-II-STEM-2 "for S (sg) {xwáad} to fall through the air" ;
+xwáadwii:xwáadw CLASS-II-STEM "for S (sg) {xwáad} to fall through the air" ;
 
 xwáasdägaa CLASS-AA "for S to be canvas, to be denim" ;
 
@@ -26500,8 +26334,7 @@ xwiiga:xwiigáa CLASS-A-STEM-3 "for S to always feel cold [said of a person]" ;
 
 xwiigáng:xwiigá CLASS-ANG-STEM "for S to have chills" ;
 
-xwíi CLASS-II-STEM-1 "for S to feel cold [said of a person only]" ;
-xwíi:xwáay CLASS-II-STEM-2 "for S to feel cold [said of a person only]" ;
+xwíi:xw CLASS-II-STEM "for S to feel cold [said of a person only]" ;
 
 xwíi% chálsdas CLASS-AS-STEM-1 "for S to have goosebumps [said of a person or a body part]" ;
 xwíi% chálsdas:xwíi% chálsdíij CLASS-AS-STEM-2 "for S to have goosebumps [said of a person or a body part]" ;
@@ -27022,8 +26855,7 @@ x̲awga CLASS-A-STEM-1 "for S (pl) to leave to fish on plural boats" ;
 x̲awga:x̲awgä CLASS-A-STEM-2 "for S (pl) to leave to fish on plural boats" ;
 x̲awga:x̲awgáa CLASS-A-STEM-3 "for S (pl) to leave to fish on plural boats" ;
 
-x̲awíi CLASS-II-STEM-1 "for S to pick C by raking them off with their hand [said of red huckleberries]" ;
-x̲awíi:x̲awáay CLASS-II-STEM-2 "for S to pick C by raking them off with their hand [said of red huckleberries]" ;
+x̲awíi:x̲aw CLASS-II-STEM "for S to pick C by raking them off with their hand [said of red huckleberries]" ;
 
 x̲ayáa CLASS-AA "for S to have tendons, have gristle, be gristly [said of body parts or meat]" ;
 
@@ -27078,8 +26910,7 @@ x̲áamsahlda CLASS-A-STEM-1 "for S (sg) {x̲áam} to wave, swing or rock back a
 x̲áamsahlda:x̲áamsahldä CLASS-A-STEM-2 "for S (sg) {x̲áam} to wave, swing or rock back and forth once" ;
 x̲áamsahlda:x̲áamsahldáa CLASS-A-STEM-3 "for S (sg) {x̲áam} to wave, swing or rock back and forth once" ;
 
-x̲áamwii CLASS-II-STEM-1 "for S (sg) {x̲áam} to fall through the air" ;
-x̲áamwii:x̲áamwaay CLASS-II-STEM-2 "for S (sg) {x̲áam} to fall through the air" ;
+x̲áamwii:x̲áamw CLASS-II-STEM "for S (sg) {x̲áam} to fall through the air" ;
 
 x̲áasda CLASS-A-STEM-1 "for S to paint O black" ;
 x̲áasda:x̲áasdä CLASS-A-STEM-2 "for S to paint O black" ;
@@ -27542,8 +27373,7 @@ x̲únts'iisahlda:x̲únts'iisahldáa CLASS-A-STEM-3 "for S to move or shake bac
 
 x̲únunang:x̲únuna CLASS-ANG-STEM "for S (sg) {x̲ún} to roll" ;
 
-x̲únwii CLASS-II-STEM-1 "for S (sg) {x̲ún} to fall through the air" ;
-x̲únwii:x̲únwáay CLASS-II-STEM-2 "for S (sg) {x̲ún} to fall through the air" ;
+x̲únwii:x̲únw CLASS-II-STEM "for S (sg) {x̲ún} to fall through the air" ;
 
 x̲únyaang CLASS-AANG "for S (sg) {x̲ún} to hang down" ;
 
@@ -27676,8 +27506,7 @@ yáada:yáadaa CLASS-A-STEM-3 "for S to be high-class" ;
 
 yáadgaang CLASS-AANG "for S to rock O back and forth in their arms saying oo'óo or ee'ée" ;
 
-yáadgaang% k̲'adíi CLASS-II-STEM-1 "for S to rock C to sleep in their arms [said of a baby]" ;
-yáadgaang% k̲'adíi:yáadgaang% k̲'adáay CLASS-II-STEM-2 "for S to rock C to sleep in their arms [said of a baby]" ;
+yáadgaang% k̲'adíi:yáadgaang% k̲'ad CLASS-II-STEM "for S to rock C to sleep in their arms [said of a baby]" ;
 
 yáahlðaalaagaa CLASS-AA "for S to be a chatterbox" ;
 
