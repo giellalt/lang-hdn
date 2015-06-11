@@ -1,0 +1,15 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+  Noun - t'áangal - ENGLISH : # Body_Part
+
+     t'áangal+N+NonRfx: t'áangal
+     t'áangal+N+Rfx: t'áangalang
