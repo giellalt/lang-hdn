@@ -132,8 +132,7 @@ awéeda:awéedaa CLASS-A-STEM-3 "for S to address O as mother `awáa`" ;
 
 áalang:áala CLASS-ANG-STEM "for S to paddle, row" ;
 
-áalee%.eehl CLASS-EEHL-STEM-1 "V habitually, have the habit of V-ing" ;
-áalee%.eehl:áalee%.éel CLASS-EEHL-STEM-2 "V habitually, have the habit of V-ing" ;
+áalee%.eehl:áalee%. CLASS-EEHL-STEM "V habitually, have the habit of V-ing" ;
 
 áalgaa CLASS-AA "for S to take after O in their looks or behavior [said of a relative]" ;
 
@@ -1929,8 +1928,7 @@ du%.ungáada CLASS-A-STEM-1 "for S to have, keep C nearby, to have C ready to gr
 du%.ungáada:du%.ungáadä CLASS-A-STEM-2 "for S to have, keep C nearby, to have C ready to grab" ;
 du%.ungáada:du%.ungáadaa CLASS-A-STEM-3 "for S to have, keep C nearby, to have C ready to grab" ;
 
-du%.ungée%.eehl CLASS-EEHL-STEM-1 "for S to get near (to X), approach (X); for S to be near to giving birth" ;
-du%.ungée%.eehl:du%.ungée%.éel CLASS-EEHL-STEM-2 "for S to get near (to X), approach (X); for S to be near to giving birth" ;
+du%.ungée%.eehl:du%.ungée%. CLASS-EEHL-STEM "for S to get near (to X), approach (X); for S to be near to giving birth" ;
 
 du%.únda CLASS-A-STEM-1 "for S to kill, catch C close to home, with little effort [said of fish or animal]" ;
 du%.únda:du%.úndä CLASS-A-STEM-2 "for S to kill, catch C close to home, with little effort [said of fish or animal]" ;
@@ -2304,8 +2302,7 @@ gi% hltána CLASS-A-STEM-1 "for S to soften C by bending it back and forth" ;
 gi% hltána:gi% hltánä CLASS-A-STEM-2 "for S to soften C by bending it back and forth" ;
 gi% hltána:gi% hltánaa CLASS-A-STEM-3 "for S to soften C by bending it back and forth" ;
 
-gi% k̲'áalee%.eehl CLASS-EEHL-STEM-1 "for S to spill out some of the contents of C" ;
-gi% k̲'áalee%.eehl:gi% k̲'áalee%.éel CLASS-EEHL-STEM-2 "for S to spill out some of the contents of C" ;
+gi% k̲'áalee%.eehl:gi% k̲'áalee%. CLASS-EEHL-STEM "for S to spill out some of the contents of C" ;
 
 gi% k̲áwjuu CLASS-UU-STEM-1 "for S (sg) to squat by the fire (X) with their legs apart, so as to warm up their legs" ;
 gi% k̲áwjuu:gi% k̲áwjáaw CLASS-UU-STEM-2 "for S (sg) to squat by the fire (X) with their legs apart, so as to warm up their legs" ;
@@ -2684,8 +2681,7 @@ gíidas CLASS-AS-STEM-1 "for S (pl) to break open by waves or the current, S (pl
 gíidas:gíidíij CLASS-AS-STEM-2 "for S (pl) to break open by waves or the current, S (pl) to split apart by the action of waves or the current" ;
 gíidas:gíidáj CLASS-AS-STEM-3 "for S (pl) to break open by waves or the current, S (pl) to split apart by the action of waves or the current" ;
 
-gíid'ee%.eehl CLASS-EEHL-STEM-1 "for S to become a baby" ;
-gíid'ee%.eehl:gíid'ee%.éel CLASS-EEHL-STEM-2 "for S to become a baby" ;
+gíid'ee%.eehl:gíid'ee%. CLASS-EEHL-STEM "for S to become a baby" ;
 
 gíidwa CLASS-A-STEM-1 "for S to leave in fear on a boat (sg), flee on a boat (sg)" ;
 gíidwa:gíidwä CLASS-A-STEM-2 "for S to leave in fear on a boat (sg), flee on a boat (sg)" ;
@@ -5339,8 +5335,7 @@ g̲áalgaa% ts'ándalä'iihl CLASS-IIHL-STEM-1 "for it to get pitch dark (on X)"
 g̲áalgaa% ts'ándalä'iihl:g̲áalgaa% ts'ándalä'íl CLASS-IIHL-STEM-2 "for it to get pitch dark (on X)" ;
 g̲áalgaa% ts'ándalä'iihl:g̲áalgaa% ts'ándalä'éel CLASS-IIHL-STEM-3 "for it to get pitch dark (on X)" ;
 
-g̲áalgee%.eehl CLASS-EEHL-STEM-1 "for it to get dark (on X)" ;
-g̲áalgee%.eehl:g̲áalgee%.éel CLASS-EEHL-STEM-2 "for it to get dark (on X)" ;
+g̲áalgee%.eehl:g̲áalgee%. CLASS-EEHL-STEM "for it to get dark (on X)" ;
 
 g̲áaljuu CLASS-UU-STEM-1 "for night to pass (on/for X) (in location)" ;
 g̲áaljuu:g̲áaljáaw CLASS-UU-STEM-2 "for night to pass (on/for X) (in location)" ;
@@ -5858,8 +5853,7 @@ g̲u% g̲isga:g̲u% g̲isgáa CLASS-A-STEM-3 "for S to try and fail to have sex 
 
 g̲u% hldamajáa CLASS-AA "for S to have been burned down to nothing" ;
 
-g̲u% hldáanuwee%.eehl CLASS-EEHL-STEM-1 "for S to become charred from the flames" ;
-g̲u% hldáanuwee%.eehl:g̲u% hldáanuwee%.éel CLASS-EEHL-STEM-2 "for S to become charred from the flames" ;
+g̲u% hldáanuwee%.eehl:g̲u% hldáanuwee%. CLASS-EEHL-STEM "for S to become charred from the flames" ;
 
 g̲u% hlga'áanguda CLASS-A-STEM-1 "for S to use or sit on a chair, bench, stool or chesterfield" ;
 g̲u% hlga'áanguda:g̲u% hlga'áangudä CLASS-A-STEM-2 "for S to use or sit on a chair, bench, stool or chesterfield" ;
@@ -5967,8 +5961,7 @@ g̲udä% gut'a:g̲udä% gut'áa CLASS-A-STEM-3 "for S to be hard or unpleasant t
 
 g̲udgwíigaa CLASS-AA "for S to be at an end" ;
 
-g̲udíigee%.eehl CLASS-EEHL-STEM-1 "for S to be nearly finished, almost over, be near the end" ;
-g̲udíigee%.eehl:g̲udíigee%.éel CLASS-EEHL-STEM-2 "for S to be nearly finished, almost over, be near the end" ;
+g̲udíigee%.eehl:g̲udíigee%. CLASS-EEHL-STEM "for S to be nearly finished, almost over, be near the end" ;
 
 g̲ududa CLASS-A-STEM-1 "for S (sg) to have their butt on the floor or ground (in location) (in direction)" ;
 g̲ududa:g̲ududä CLASS-A-STEM-2 "for S (sg) to have their butt on the floor or ground (in location) (in direction)" ;
@@ -7690,8 +7683,7 @@ hltanáada CLASS-A-STEM-1 "for S to keep C soft" ;
 hltanáada:hltanáadä CLASS-A-STEM-2 "for S to keep C soft" ;
 hltanáada:hltanáadaa CLASS-A-STEM-3 "for S to keep C soft" ;
 
-hltanée%.eehl CLASS-EEHL-STEM-1 "for S to thaw out" ;
-hltanée%.eehl:hltanée%.eel CLASS-EEHL-STEM-2 "for S to thaw out" ;
+hltanée%.eehl:hltanée%. CLASS-EEHL-STEM "for S to thaw out" ;
 
 hltáamid CLASS-ID-STEM-1 "for S to pick O (sg) {hltáam} up, to pick O {sg) {hltáam} up and take off with it (in direction), to carry O (sg) {hltáam} off, to take O (sg) {hltáam} away" ;
 hltáamid:hltáamíid CLASS-ID-STEM-2 "for S to pick O (sg) {hltáam} up, to pick O {sg) {hltáam} up and take off with it (in direction), to carry O (sg) {hltáam} off, to take O (sg) {hltáam} away" ;
@@ -7912,8 +7904,7 @@ INS% chi%.id:INS% chi%.íid CLASS-ID-STEM-2 "for S to pick O (sg) {cha} up by IN
 
 INS% CLSF% k̲úunaa CLASS-AA "for S to make C {CLSF} big by means of {INS}" ;
 
-INS% CLSF% k̲úunee%.eehl CLASS-EEHL-STEM-1 "for S to make C {CLSF} bigger by means of {INS}, enlarge C {CLSF} by means of {INS}" ;
-INS% CLSF% k̲úunee%.eehl:INS% CLSF% k̲úunee%.éel CLASS-EEHL-STEM-2 "for S to make C {CLSF} bigger by means of {INS}, enlarge C {CLSF} by means of {INS}" ;
+INS% CLSF% k̲úunee%.eehl:INS% CLSF% k̲úunee%. CLASS-EEHL-STEM "for S to make C {CLSF} bigger by means of {INS}, enlarge C {CLSF} by means of {INS}" ;
 
 INS% dabadiisdla CLASS-A-STEM-1 "for S to hang C (pl) {dab} up by means of {INS} (in direction)" ;
 INS% dabadiisdla:INS% dabadiisdlä CLASS-A-STEM-2 "for S to hang C (pl) {dab} up by means of {INS} (in direction)" ;
@@ -8015,8 +8006,7 @@ INS% dliisälangáa CLASS-AA "for S (sg) {dla} to be made or fixed so as to to w
 INS% dli%.id CLASS-ID-STEM-1 "for S to pick O (sg) {dla} up by INS, to pick O {sg) {dla} up and take off with it by INS (in direction), to carry O (sg) {dla} off by INS, to take O (sg) {dla} away by INS" ;
 INS% dli%.id:INS% dli%.íid CLASS-ID-STEM-2 "for S to pick O (sg) {dla} up by INS, to pick O {sg) {dla} up and take off with it by INS (in direction), to carry O (sg) {dla} off by INS, to take O (sg) {dla} away by INS" ;
 
-INS% du%.ungáa% ~% INS% du%.ungée%.eehl CLASS-EEHL-STEM-1 "for S to put or move C nearby, within reach" ;
-INS% du%.ungáa% ~% INS% du%.ungée%.eehl:INS% du%.ungáa% ~% INS% du%.ungée%.éel CLASS-EEHL-STEM-2 "for S to put or move C nearby, within reach" ;
+INS% du%.ungáa% ~% INS% du%.ungée%.eehl:INS% du%.ungáa% ~% INS% du%.ungée%. CLASS-EEHL-STEM "for S to put or move C nearby, within reach" ;
 
 INS% du%.únggahl CLASS-AHL-STEM "for S to nearly finish C, make C be nearly finished" ;
 
@@ -9054,8 +9044,7 @@ INS% hlg̲adíisga:INS% hlg̲adíisgáa CLASS-A-STEM-3 "for S to split C (pl) <h
 
 INS% hlg̲adíisgayaa CLASS-AA "for S (pl) <hlg̲a> to have been split by <INS>, to have been made to come apart by <INS>" ;
 
-INS% hlg̲anée%.eehl CLASS-EEHL-STEM-1 "for S to bend C (in direction)" ;
-INS% hlg̲anée%.eehl:INS% hlg̲anée%.éel CLASS-EEHL-STEM-2 "for S to bend C (in direction)" ;
+INS% hlg̲anée%.eehl:INS% hlg̲anée%. CLASS-EEHL-STEM "for S to bend C (in direction)" ;
 
 INS% hlg̲anée%.elaa CLASS-AA "for S to have been bent (in direction)" ;
 
@@ -9206,8 +9195,7 @@ INS% hlkwi%.id:INS% hlkwi%.íid CLASS-ID-STEM-2 "for S to pick O (sg) {hlku} up 
 INS% hlk'wi%.id CLASS-ID-STEM-1 "for S to pick O (sg) {hlk'u} up by INS, to pick O {sg) {hlk'u} up and take off with it by INS (in direction), to carry O (sg) {hlk'u} off by INS, to take O (sg) {hlk'u} away by INS" ;
 INS% hlk'wi%.id:INS% hlk'wi%.íid CLASS-ID-STEM-2 "for S to pick O (sg) {hlk'u} up by INS, to pick O {sg) {hlk'u} up and take off with it by INS (in direction), to carry O (sg) {hlk'u} off by INS, to take O (sg) {hlk'u} away by INS" ;
 
-INS% hlk'yáants'gangee%.eehl CLASS-EEHL-STEM-1 "for S to choke C up with brush" ;
-INS% hlk'yáants'gangee%.eehl:INS% hlk'yáants'gangee%.éel CLASS-EEHL-STEM-2 "for S to choke C up with brush" ;
+INS% hlk'yáants'gangee%.eehl:INS% hlk'yáants'gangee%. CLASS-EEHL-STEM "for S to choke C up with brush" ;
 
 INS% hlk̲'aaysahlda CLASS-A-STEM-1 "for S to wave, swing or rock C (sg) {hlk̲'a} back and forth once by INS" ;
 INS% hlk̲'aaysahlda:INS% hlk̲'aaysahldä CLASS-A-STEM-2 "for S to wave, swing or rock C (sg) {hlk̲'a} back and forth once by INS" ;
@@ -9363,8 +9351,7 @@ INS% hlt'adid:INS% hlt'adíid CLASS-ID-STEM-2 "for S to pick O (sg) {hlt'ad} up 
 INS% hlt'ahid CLASS-ID-STEM-1 "for S to pick O (sg) {hlt'ah} up by INS, to pick O {sg) {hlt'ah} up and take off with it by INS (in direction), to carry O (sg) {hlt'ah} off by INS, to take O (sg) {hlt'ah} away by INS" ;
 INS% hlt'ahid:INS% hlt'ahíid CLASS-ID-STEM-2 "for S to pick O (sg) {hlt'ah} up by INS, to pick O {sg) {hlt'ah} up and take off with it by INS (in direction), to carry O (sg) {hlt'ah} off by INS, to take O (sg) {hlt'ah} away by INS" ;
 
-INS% hltanée%.eehl CLASS-EEHL-STEM-1 "for S to soften O" ;
-INS% hltanée%.eehl:INS% hltanée%.éel CLASS-EEHL-STEM-2 "for S to soften O" ;
+INS% hltanée%.eehl:INS% hltanée%. CLASS-EEHL-STEM "for S to soften O" ;
 
 INS% hltáamdajaa CLASS-AA "for S <hltáam> to have been split by <INS>, to have been made to come apart by <INS>" ;
 
@@ -10883,8 +10870,7 @@ INS% tl'ánganda:INS% tl'ángandaa CLASS-A-STEM-3 "for S to make C into a {tl'a}
 
 INS% tl'ángandayee%.elaa CLASS-AA "for S to have been made into a {tl'a} shape, to have been made to be {tl'a} shaped" ;
 
-INS% tl'án'wee%.eehl CLASS-EEHL-STEM-1 "for S to grind C into fine particles in suspension" ;
-INS% tl'án'wee%.eehl:INS% tl'án'wee%.éel CLASS-EEHL-STEM-2 "for S to grind C into fine particles in suspension" ;
+INS% tl'án'wee%.eehl:INS% tl'án'wee%. CLASS-EEHL-STEM "for S to grind C into fine particles in suspension" ;
 
 INS% tl'iisahlda CLASS-A-STEM-1 "for S to wave, swing or rock C (sg) {tl'a} back and forth once by INS" ;
 INS% tl'iisahlda:INS% tl'iisahldä CLASS-A-STEM-2 "for S to wave, swing or rock C (sg) {tl'a} back and forth once by INS" ;
@@ -11315,8 +11301,7 @@ itl'gajadáa CLASS-AA "for S to be rich (in X), be wealthy and influential [said
 
 íihlangaa CLASS-AA "for S (sg) to be a man, be male" ;
 
-íihlangee%.eehl CLASS-EEHL-STEM-1 "for S (sg) to be a grown man now" ;
-íihlangee%.eehl:íihlangee%.éel CLASS-EEHL-STEM-2 "for S (sg) to be a grown man now" ;
+íihlangee%.eehl:íihlangee%. CLASS-EEHL-STEM "for S (sg) to be a grown man now" ;
 
 íihliyaa CLASS-AA "for S (pl) to be up in location [said of any moveable inanimate objects]" ;
 
@@ -11774,8 +11759,7 @@ jáadäga CLASS-A-STEM-1 "for S to sizzle, make a crunching noise" ;
 jáadäga:jáadägä CLASS-A-STEM-2 "for S to sizzle, make a crunching noise" ;
 jáadäga:jáadägáa CLASS-A-STEM-3 "for S to sizzle, make a crunching noise" ;
 
-jáadee%.eehl CLASS-EEHL-STEM-1 "for S (sg) to be a grown-up woman now" ;
-jáadee%.eehl:jáadee%.éel CLASS-EEHL-STEM-2 "for S (sg) to be a grown-up woman now" ;
+jáadee%.eehl:jáadee%. CLASS-EEHL-STEM "for S (sg) to be a grown-up woman now" ;
 
 jáadgaa CLASS-AA "for S to pay X (amount) as brideprice" ;
 
@@ -11886,8 +11870,7 @@ jíinganda CLASS-A-STEM-1 "for S {jíi} to be whole, to be complete, to be a {j�
 jíinganda:jíingandä CLASS-A-STEM-2 "for S {jíi} to be whole, to be complete, to be a {jíi} shaped object" ;
 jíinganda:jíingandáa CLASS-A-STEM-3 "for S {jíi} to be whole, to be complete, to be a {jíi} shaped object" ;
 
-jíingee%.eehl CLASS-EEHL-STEM-1 "for it to be late, too late (for X)" ;
-jíingee%.eehl:jíingee%.éel CLASS-EEHL-STEM-2 "for it to be late, too late (for X)" ;
+jíingee%.eehl:jíingee%. CLASS-EEHL-STEM "for it to be late, too late (for X)" ;
 
 jíit'ahl CLASS-AHL-STEM "for S to dip out water (in direction)" ;
 
@@ -13316,8 +13299,7 @@ k'íinasdla CLASS-A-STEM-1 "for the heat to go up in direction" ;
 k'íinasdla:k'íinasdlä CLASS-A-STEM-2 "for the heat to go up in direction" ;
 k'íinasdla:k'íinasdláa CLASS-A-STEM-3 "for the heat to go up in direction" ;
 
-kíl% áadägee%.eehl CLASS-EEHL-STEM-1 "for S to drive C crazy with talking" ;
-kíl% áadägee%.eehl:kíl% áadägee%.éel CLASS-EEHL-STEM-2 "for S to drive C crazy with talking" ;
+kíl% áadägee%.eehl:kíl% áadägee%. CLASS-EEHL-STEM "for S to drive C crazy with talking" ;
 
 kíl% ánts'a CLASS-A-STEM-1 "for S to kill or murder C by verbally picking on them" ;
 kíl% ánts'a:kíl% ánts'ä CLASS-A-STEM-2 "for S to kill or murder C by verbally picking on them" ;
@@ -13415,8 +13397,7 @@ kíl% k̲'asdla:kíl% k̲'asdláa CLASS-A-STEM-3 "for S to put C (pl) to sleep w
 kíl% k̲'asdlayáa CLASS-AA "for S (pl) to have been put to sleep by the sound of someone's voice" ;
 
 
-kíl% k̲'íiwee%.eehl CLASS-EEHL-STEM-1 "for S to make an excuse for themselves (as being busy with X)" ;
-kíl% k̲'íiwee%.eehl:kíl% k̲'íiwee%.éel CLASS-EEHL-STEM-2 "for S to make an excuse for themselves (as being busy with X)" ;
+kíl% k̲'íiwee%.eehl:kíl% k̲'íiwee%. CLASS-EEHL-STEM "for S to make an excuse for themselves (as being busy with X)" ;
 
 kíl% k̲'íiya CLASS-A-STEM-1 "for S to bother C, keep C from working, be a nuisance to C, distract C by talking" ;
 kíl% k̲'íiya:kíl% k̲'íiyä CLASS-A-STEM-2 "for S to bother C, keep C from working, be a nuisance to C, distract C by talking" ;
@@ -14886,8 +14867,7 @@ k̲'a% x̲úuganga CLASS-A-STEM-1 "for S to habitually snore" ;
 k̲'a% x̲úuganga:k̲'a% x̲úugangä CLASS-A-STEM-2 "for S to habitually snore" ;
 k̲'a% x̲úuganga:k̲'a% x̲úugangáa CLASS-A-STEM-3 "for S to habitually snore" ;
 
-k̲a% yahk'iyée%.eehl CLASS-EEHL-STEM-1 "for S to come true" ;
-k̲a% yahk'iyée%.eehl:k̲a% yahk'iyée%.éel CLASS-EEHL-STEM-2 "for S to come true" ;
+k̲a% yahk'iyée%.eehl:k̲a% yahk'iyée%. CLASS-EEHL-STEM "for S to come true" ;
 
 k̲'aa% g̲unáan CLASS-AAN "for S to have their genitals exposed" ;
 
@@ -14961,8 +14941,7 @@ k̲'ada:k̲'adáa CLASS-A-STEM-3 "for S to sleep" ;
 
 k̲'adanáa CLASS-AA "for S to be sickly [said of a child]" ;
 
-k̲'adanée%.eehl CLASS-EEHL-STEM-1 "for S to be near death" ;
-k̲'adanée%.eehl:k̲'adanée%.éel CLASS-EEHL-STEM-2 "for S to be near death" ;
+k̲'adanée%.eehl:k̲'adanée%. CLASS-EEHL-STEM "for S to be near death" ;
 
 k̲adayáa CLASS-AA "for S to have been sliced, filleted for drying or smoking" ;
 
@@ -16466,8 +16445,7 @@ k̲'iyáaganga CLASS-A-STEM-1 "for S to habitually tell about rank, privileges a
 k̲'iyáaganga:k̲'iyáagangä CLASS-A-STEM-2 "for S to habitually tell about rank, privileges and clan history" ;
 k̲'iyáaganga:k̲'iyáagangáa CLASS-A-STEM-3 "for S to habitually tell about rank, privileges and clan history" ;
 
-k̲'íi% dlaajée%.eehl CLASS-EEHL-STEM-1 "for S to have become slow and ineffieicent with old age" ;
-k̲'íi% dlaajée%.eehl:k̲'íi% dlaajée%.éel CLASS-EEHL-STEM-2 "for S to have become slow and ineffieicent with old age" ;
+k̲'íi% dlaajée%.eehl:k̲'íi% dlaajée%. CLASS-EEHL-STEM "for S to have become slow and ineffieicent with old age" ;
 
 k̲'íi% gunäsdla CLASS-A-STEM-1 "for S to rot with old age [said of a person only]" ;
 k̲'íi% gunäsdla:k̲'íi% gunäsdlä CLASS-A-STEM-2 "for S to rot with old age [said of a person only]" ;
@@ -18796,8 +18774,7 @@ sáandlaan% gud'áang CLASS-AANG "for there to be bad weather at dawn" ;
 
 sáandlaan% g̲a'áaw CLASS-AAW "for it to be dawn" ;
 
-sáandlaan% g̲adgée%.eehl CLASS-EEHL-STEM-1 "for it to be dawn" ;
-sáandlaan% g̲adgée%.eehl:sáandlaan% g̲adgée%.éel CLASS-EEHL-STEM-2 "for it to be dawn" ;
+sáandlaan% g̲adgée%.eehl:sáandlaan% g̲adgée%. CLASS-EEHL-STEM "for it to be dawn" ;
 
 sáandlaanda CLASS-A-STEM-1 "for S to stay in location until dawn" ;
 sáandlaanda:sáandlaandä CLASS-A-STEM-2 "for S to stay in location until dawn" ;
@@ -19984,8 +19961,7 @@ sg̲aawda CLASS-A-STEM-1 "for S (pl) to have a tug-of-war" ;
 sg̲aawda:sg̲aawdä CLASS-A-STEM-2 "for S (pl) to have a tug-of-war" ;
 sg̲aawda:sg̲aawdáa CLASS-A-STEM-3 "for S (pl) to have a tug-of-war" ;
 
-sg̲aawée%.eehl CLASS-EEHL-STEM-1 "for S to be half-finished, half-complete" ;
-sg̲aawée%.eehl:sg̲aawée%.éel CLASS-EEHL-STEM-2 "for S to be half-finished, half-complete" ;
+sg̲aawée%.eehl:sg̲aawée%. CLASS-EEHL-STEM "for S to be half-finished, half-complete" ;
 
 sg̲aawnáng:sg̲aawná CLASS-ANG-STEM "for S (sg) {sg̲a} to unwind, roll out" ;
 
@@ -20209,8 +20185,7 @@ sg̲áan% k̲'íiya:sg̲áan% k̲'íiyaa CLASS-A-STEM-3 "for S to be stuck in th
 
 sg̲áan% 'lan%.gáa CLASS-AA "for S to be a place where many killerwhales live" ;
 
-sg̲áan% tlagée%.eehl CLASS-EEHL-STEM-1 "for S to become a supernaturnal, become a ghost" ;
-sg̲áan% tlagée%.eehl:sg̲áan% tlagée%.éel CLASS-EEHL-STEM-2 "for S to become a supernaturnal, become a ghost" ;
+sg̲áan% tlagée%.eehl:sg̲áan% tlagée%. CLASS-EEHL-STEM "for S to become a supernaturnal, become a ghost" ;
 
 sg̲áan% x̲ánggang:sg̲áan% x̲ángga CLASS-ANG-STEM "for S to look like a spirit" ;
 
@@ -21079,8 +21054,7 @@ sk'wa%.ad:sk'wa%. CLASS-AD-STEM "for the tide to rise into X's house" ;
 
 sk'wáagaa CLASS-AA "for it to be slack high water" ;
 
-sk'wáagee%.eehl CLASS-EEHL-STEM-1 "for it to come to be slack high water" ;
-sk'wáagee%.eehl:sk'wáagee%.éel CLASS-EEHL-STEM-2 "for it to come to be slack high water" ;
+sk'wáagee%.eehl:sk'wáagee%. CLASS-EEHL-STEM "for it to come to be slack high water" ;
 
 skyaala CLASS-A-STEM-1 "for S to be stunted and a have a single black mark [said of wild crabapples only]" ;
 skyaala:skyaalä CLASS-A-STEM-2 "for S to be stunted and a have a single black mark [said of wild crabapples only]" ;
@@ -23513,8 +23487,7 @@ tiyä% gut'áanda CLASS-A-STEM-1 "for S to mistreat, physically abuse O" ;
 tiyä% gut'áanda:tiyä% gut'áandä CLASS-A-STEM-2 "for S to mistreat, physically abuse O" ;
 tiyä% gut'áanda:tiyä% gut'áandaa CLASS-A-STEM-3 "for S to mistreat, physically abuse O" ;
 
-tiyä% k̲'áak'ulee%.eehl CLASS-EEHL-STEM-1 "for S to beat up C badly" ;
-tiyä% k̲'áak'ulee%.eehl:tiyä% k̲'áak'ulee%.éel CLASS-EEHL-STEM-2 "for S to beat up C badly" ;
+tiyä% k̲'áak'ulee%.eehl:tiyä% k̲'áak'ulee%. CLASS-EEHL-STEM "for S to beat up C badly" ;
 
 tíi CLASS-II-STEM-1 "for S (sg) to lie down to rest, go to bed (in location, after going in direction) (while X is still in bed, never having gotten up)" ;
 tíi:táay CLASS-II-STEM-2 "for S (sg) to lie down to rest, go to bed (in location, after going in direction) (while X is still in bed, never having gotten up)" ;
@@ -23738,8 +23711,7 @@ tla% g̲a'adáa CLASS-AA "for S to have been accidentally broken in two by hand"
 
 tla% g̲adáal CLASS-AAL "for S to sneak up on a seal rookery with boards across canoe upon which seals will be made to jump for clubbing" ;
 
-tla% g̲adgée%.eehl CLASS-EEHL-STEM-1 "for S to light C up, illuminate C, turn on the C's lights" ;
-tla% g̲adgée%.eehl:tla% g̲adgée%.éel CLASS-EEHL-STEM-2 "for S to light C up, illuminate C, turn on the C's lights" ;
+tla% g̲adgée%.eehl:tla% g̲adgée%. CLASS-EEHL-STEM "for S to light C up, illuminate C, turn on the C's lights" ;
 
 tla% g̲ad'wä% yahda CLASS-A-STEM-1 "for S to fit C together, match C up, put C together" ;
 tla% g̲ad'wä% yahda:tla% g̲ad'wä% yahdä CLASS-A-STEM-2 "for S to fit C together, match C up, put C together" ;
@@ -23790,8 +23762,7 @@ tla% hltánayaa CLASS-AA "for S to have been tanned" ;
 
 tla% isdáal CLASS-AAL "for S to operate, run C (pl)" ;
 
-tla% íinee%.eehl CLASS-EEHL-STEM-1 "for S to marry C to O" ;
-tla% íinee%.eehl:tla% íinee%.éel CLASS-EEHL-STEM-2 "for S to marry C to O" ;
+tla% íinee%.eehl:tla% íinee%. CLASS-EEHL-STEM "for S to marry C to O" ;
 
 tla% ín CLASS-IN-STEM-1 "for S to leave on a single vehicle to get firewood (for X)" ;
 tla% ín:tla% éen CLASS-IN-STEM-2 "for S to leave on a single vehicle to get firewood (for X)" ;
@@ -24045,8 +24016,7 @@ tla% xangala:tla% xangaláa CLASS-A-STEM-3 "for S to be fast in working with the
 
 tla% xasgad:tla% xasg CLASS-AD-STEM "for S to put C (sg) away carefully (in direction)" ;
 
-tla% xáandaawee%.eehl CLASS-EEHL-STEM-1 "for S to put a noose on C" ;
-tla% xáandaawee%.eehl:tla% xáandaawee%.éel CLASS-EEHL-STEM-2 "for S to put a noose on C" ;
+tla% xáandaawee%.eehl:tla% xáandaawee%. CLASS-EEHL-STEM "for S to put a noose on C" ;
 
 tla% xíla CLASS-A-STEM-1 "for S to dry C by working on it with their hands" ;
 tla% xíla:tla% xílä CLASS-A-STEM-2 "for S to dry C by working on it with their hands" ;
@@ -24135,8 +24105,7 @@ tlaahlgayáa CLASS-AA "for S to have had holes made in it by someone's hand" ;
 
 tlaaláa CLASS-AA "for S to have had a single hole made in it by someone's hand" ;
 
-tl'aalguyée%.eehl CLASS-EEHL-STEM-1 "for S to have become known" ;
-tl'aalguyée%.eehl:tl'aalguyée%.éel CLASS-EEHL-STEM-2 "for S to have become known" ;
+tl'aalguyée%.eehl:tl'aalguyée%. CLASS-EEHL-STEM "for S to have become known" ;
 
 tl'aanangáa CLASS-AA "for S to have a slight to moderate grade" ;
 
@@ -25228,8 +25197,7 @@ ts'aláa CLASS-AA "for S to be curly" ;
 
 ts'angáa CLASS-AA "for S to have teeth" ;
 
-ts'angée%.eehl CLASS-EEHL-STEM-1 "for S to teethe, have their teeth coming in" ;
-ts'angée%.eehl:ts'angée%.éel CLASS-EEHL-STEM-2 "for S to teethe, have their teeth coming in" ;
+ts'angée%.eehl:ts'angée%. CLASS-EEHL-STEM "for S to teethe, have their teeth coming in" ;
 
 ts'ansdla CLASS-A-STEM-1 "for S to be old and spawned out [said of salmon only]" ;
 ts'ansdla:ts'ansdlä CLASS-A-STEM-2 "for S to be old and spawned out [said of salmon only]" ;
@@ -25452,8 +25420,7 @@ ts'íilaa CLASS-AA "for S to have a dorsal fin on" ;
 
 ts'íingaa CLASS-AA "for S to be spawned out" ;
 
-ts'íingee%.eehl CLASS-EEHL-STEM-1 "for S to be old and good-for-nothing [said of a person]" ;
-ts'íingee%.eehl:ts'íingee%.éel CLASS-EEHL-STEM-2 "for S to be old and good-for-nothing [said of a person]" ;
+ts'íingee%.eehl:ts'íingee%. CLASS-EEHL-STEM "for S to be old and good-for-nothing [said of a person]" ;
 
 ts'íiyuda CLASS-A-STEM-1 "for S to lie on top of rough water [said of fog]" ;
 ts'íiyuda:ts'íiyudä CLASS-A-STEM-2 "for S to lie on top of rough water [said of fog]" ;
@@ -26044,8 +26011,7 @@ xál% g̲wáasad'iihl:xál% g̲wáasad'éel CLASS-IIHL-STEM-3 "for S to have bee
 
 xál% hldamajáa CLASS-AA "for S to have been burned down to ashes" ;
 
-xál% hldáanuwee%.eehl CLASS-EEHL-STEM-1 "for S to become charred from the heat" ;
-xál% hldáanuwee%.eehl:xál% hldáanuwee%.éel CLASS-EEHL-STEM-2 "for S to become charred from the heat" ;
+xál% hldáanuwee%.eehl:xál% hldáanuwee%. CLASS-EEHL-STEM "for S to become charred from the heat" ;
 
 xál% hlgahl CLASS-AHL-STEM "for S to shrink when cooked [said of fish or meat]" ;
 
@@ -26061,8 +26027,7 @@ xál% hlg̲ahlda:xál% hlg̲ahldáa CLASS-A-STEM-3 "for S to get sunburned" ;
 
 xál% hlg̲ahlts'ayáa CLASS-AA "for X to have gotten dark from the sun [said of people]" ;
 
-xál% hlt'abk'ulée%.eehl CLASS-EEHL-STEM-1 "for S to be soft and to bend easily from being steamed [said of a wooden object such as a stick or board]" ;
-xál% hlt'abk'ulée%.eehl:xál% hlt'abk'ulée%.éel CLASS-EEHL-STEM-2 "for S to be soft and to bend easily from being steamed [said of a wooden object such as a stick or board]" ;
+xál% hlt'abk'ulée%.eehl:xál% hlt'abk'ulée%. CLASS-EEHL-STEM "for S to be soft and to bend easily from being steamed [said of a wooden object such as a stick or board]" ;
 
 xál% hltána CLASS-A-STEM-1 "for S to soften from the heat" ;
 xál% hltána:xál% hltánä CLASS-A-STEM-2 "for S to soften from the heat" ;
@@ -26105,8 +26070,7 @@ xál% k̲áahliyaada CLASS-A-STEM-1 "for S to be careful or cautious with X, try
 xál% k̲áahliyaada:xál% k̲áahliyaadä CLASS-A-STEM-2 "for S to be careful or cautious with X, try not to waste X while heating it" ;
 xál% k̲áahliyaada:xál% k̲áahliyaadáa CLASS-A-STEM-3 "for S to be careful or cautious with X, try not to waste X while heating it" ;
 
-xál% k̲'áak'ulee%.eehl CLASS-EEHL-STEM-1 "for S to have been boiled to pieces" ;
-xál% k̲'áak'ulee%.eehl:xál% k̲'áak'ulee%.éel CLASS-EEHL-STEM-2 "for S to have been boiled to pieces" ;
+xál% k̲'áak'ulee%.eehl:xál% k̲'áak'ulee%. CLASS-EEHL-STEM "for S to have been boiled to pieces" ;
 
 xál% k̲áat'e%.ehl CLASS-E.EHL-STEM-1 "for S to boil over [said of the contents of a pot]" ;
 xál% k̲áat'e%.ehl:xál% k̲áat'eehl CLASS-E.EHL-STEM-2 "for S to boil over [said of the contents of a pot]" ;
@@ -26169,8 +26133,7 @@ xál% xílgahl CLASS-AHL-STEM "for S to dry in the heat" ;
 
 xál% xílgalaa CLASS-AA "for S to have dried in the heat" ;
 
-xál% xugée%.eehl CLASS-EEHL-STEM-1 "for S to puff up from heat [said of (fried) bread]" ;
-xál% xugée%.eehl:xál% xugée%.éel CLASS-EEHL-STEM-2 "for S to puff up from heat [said of (fried) bread]" ;
+xál% xugée%.eehl:xál% xugée%. CLASS-EEHL-STEM "for S to puff up from heat [said of (fried) bread]" ;
 
 xál% x̲áng'uyangga CLASS-A-STEM-1 "for S (pl) to go around in vehicles" ;
 xál% x̲áng'uyangga:xál% x̲áng'uyanggä CLASS-A-STEM-2 "for S (pl) to go around in vehicles" ;
@@ -26717,8 +26680,7 @@ xu% k̲'at'as:xu% k̲'at'áj CLASS-AS-STEM-3 "for the wind to blow at location" 
 
 xu% k̲áahliyaa CLASS-AA "for S to be careful or cautious with X, try not to waste X while drinking it" ;
 
-xu% k̲'áalee%.eehl CLASS-EEHL-STEM-1 "for S to drink some of the contents of C" ;
-xu% k̲'áalee%.eehl:xu% k̲'áalee%.éel CLASS-EEHL-STEM-2 "for S to drink some of the contents of C" ;
+xu% k̲'áalee%.eehl:xu% k̲'áalee%. CLASS-EEHL-STEM "for S to drink some of the contents of C" ;
 
 xu% k̲'áa%.awhlgwaay CLASS-AAY "for S (sg) to tear or rip in the wind, making a loud ripping sound" ;
 
@@ -26965,8 +26927,7 @@ xyáang% sgáajuuhlda CLASS-A-STEM-1 "for S (sg) to have a curve [said of a rive
 xyáang% sgáajuuhlda:xyáang% sgáajuuhldä CLASS-A-STEM-2 "for S (sg) to have a curve [said of a river only]" ;
 xyáang% sgáajuuhlda:xyáang% sgáajuuhldáa CLASS-A-STEM-3 "for S (sg) to have a curve [said of a river only]" ;
 
-x̲a% áadägee%.eehl CLASS-EEHL-STEM-1 "for S to drive C crazy" ;
-x̲a% áadägee%.eehl:x̲a% áadägee%.éel CLASS-EEHL-STEM-2 "for S to drive C crazy" ;
+x̲a% áadägee%.eehl:x̲a% áadägee%. CLASS-EEHL-STEM "for S to drive C crazy" ;
 
 x̲a% chaa% gud'áang CLASS-AANG "for S to live poorly, keep themselves in poverty" ;
 
@@ -27137,8 +27098,7 @@ x̲a% tlaad:x̲a% tla CLASS-AD-STEM "for S to help X1 with a manual task (perfor
 
 x̲a% tlasg̲wáanägaa CLASS-AA "for S to do, make O the wrong way [in negative sentences only]" ;
 
-x̲a% tlasg̲wáanägee%.eehl CLASS-EEHL-STEM-1 "for S to be all messed up now [used in negative sentences only]" ;
-x̲a% tlasg̲wáanägee%.eehl:x̲a% tlasg̲wáanägee%.éel CLASS-EEHL-STEM-2 "for S to be all messed up now [used in negative sentences only]" ;
+x̲a% tlasg̲wáanägee%.eehl:x̲a% tlasg̲wáanägee%. CLASS-EEHL-STEM "for S to be all messed up now [used in negative sentences only]" ;
 
 x̲a% tl'ayuwa CLASS-A-STEM-1 "for S {tl'a} to hang down in a cluster (in location or direction)" ;
 x̲a% tl'ayuwa:x̲a% tl'ayuwä CLASS-A-STEM-2 "for S {tl'a} to hang down in a cluster (in location or direction)" ;
@@ -27198,8 +27158,7 @@ x̲aa% k̲aanáa CLASS-AA "for S to have cumulo-stratus clouds" ;
 
 x̲aad% dlánsunaa CLASS-AA "for S to be merely human (and not supernatural)" ;
 
-x̲aad% dlánsunee%.eehl CLASS-EEHL-STEM-1 "for S to be well-behaved [said of either a child or an adult]" ;
-x̲aad% dlánsunee%.eehl:x̲aad% dlánsunee%.éel CLASS-EEHL-STEM-2 "for S to be well-behaved [said of either a child or an adult]" ;
+x̲aad% dlánsunee%.eehl:x̲aad% dlánsunee%. CLASS-EEHL-STEM "for S to be well-behaved [said of either a child or an adult]" ;
 
 x̲aad% k̲'aláa CLASS-AA "for S to behave in a socially proper manner [used in negative sentences or contexts only]" ;
 
