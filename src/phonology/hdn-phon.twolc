@@ -62,11 +62,18 @@ a:á <=> \AccVow Cns Cns _ h:0 l:l %>: [ %^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH
 "ahl to ál, ahl to áal"
 h:0 <=> a: _ l:l %>: [%^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 ] ;
         a: 0: _ l:l %>: [ %^ENDD:0 | %^ENDE:0 ] ;
+        _ l %>: %^DEF:0 ;
 
 
 "ahl to áal, part 2"
 0:a <=> a: _ h: l:l %>: [ %^ENDD:0 | %^ENDE:0 ] ; !
 
+"s2 to j for DEF"
+s2:j <=> _ Sgm:* %>: %^DEF:0 ; 
+
+"aa to a for DEF"
+a:0 <=> a _ Cns: %>: %^DEF:0 ; 
+ 
  
 ! Destressing
 
