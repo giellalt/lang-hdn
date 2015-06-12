@@ -72,6 +72,16 @@ analyser-raw-gt-desc.%: analyser-raw-gt-desc.tmp.% \
 	save stack $@\n\
 	quit\n" | $(XFST_TOOL) $(VERBOSITY)
 
+# Hfst has "raw" __generators__:
+generator-raw-gt-desc.%: generator-raw-gt-desc.tmp.% \
+						filters/reorder-lemma-tags.%
+	$(AM_V_XFST_TOOL)$(PRINTF) "read regex \
+		@\"filters/reorder-lemma-tags.$*\" \
+	.o. @\"$<\"\
+	;\n\
+	save stack $@\n\
+	quit\n" | $(XFST_TOOL) $(VERBOSITY)
+
 ##################################################################
 #### END: Add local processing instructions ABOVE this line ######
 ##################################################################
