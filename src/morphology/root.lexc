@@ -76,7 +76,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +CL/dla
 +CL/hlga
 +CL/cha
-
++CL/k̲'íi
 
 !! The pre-verb classifiers
 
@@ -89,10 +89,25 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
  CL/Sound+ !!= * @CODE@ = 
  CL/Color+ !!= * @CODE@ = 
 
+ +CL/Shape !!= * @CODE@ = 
+ +CL/Manner !!= * @CODE@ = 
+ +CL/Human !!= * @CODE@ = 
+ +CL/Human_Male !!= * @CODE@ = 
+ +CL/Human_Female !!= * @CODE@ = 
+ +CL/Descriptive !!= * @CODE@ = 
+ +CL/Sound !!= * @CODE@ = 
+ +CL/Color !!= * @CODE@ = 
+
 !! Semantic Tags
 
 +SEM/Kinterm
 +SEM/BodyPart
+
+!! Dialect Tags
+
++Dial/NOT-M
++Dial/NOT-A
+
 
 !! Triggers
 %^ENDA
