@@ -67,7 +67,7 @@ analyser-raw-gt-desc.%: analyser-raw-gt-desc.tmp.% \
 						filters/reorder-lemma-tags.%
 	$(AM_V_XFST_TOOL)$(PRINTF) "read regex \
 		@\"filters/reorder-lemma-tags.$*\" \
-	.o. @\"$<\"
+	.o. @\"$<\"\
 	;\n\
 	save stack $@\n\
 	quit\n" | $(XFST_TOOL) $(VERBOSITY)
