@@ -4,6 +4,7 @@
 
  *  %>:0 	 affix boundary
  *  %^WS:0     white space dummy
+ *  %^DEF:0     white space dummy
 
 
 !!Sets
@@ -21,11 +22,10 @@
 
 
 
+__ahl to ál, ahl to áal__ ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
 
 
 
-
-__al to aal at the end of al __ al changes to aal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
 
 
 
@@ -33,5 +33,7 @@ __al to aal at the end of al __ al changes to aal at the end of an AL stem verb 
 
 
 __Destressing rule__ - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
 
 

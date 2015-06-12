@@ -11,6 +11,15 @@ in this system in terms of the following symbols.
 
 (It is highly suggested to follow existing standards when adding new tags).
 
+!!Morphophonemes
+
+These are vowel morphophonemes which will lose their accent when they are no long in closed syllables
+
+ * á2  =
+ * é2  =
+ * í2  =
+ * ú2  =
+ * s2  =
 
 Haida has these tags for real, says Jordan.
  * +V	 =
@@ -43,6 +52,11 @@ Haida has these tags for real, says Jordan.
  * +COUNTERFACTUAL	 =
  * +SINGULAR	 =
  * +PLURAL	 =
+ * +Def	 =
+ * +Indef	 =
+ * +Rfx	 = Used for reflexively possessed body parts and kinterms
+
+The actual classifiers
 
 
 The pre-verb classifiers
@@ -50,9 +64,26 @@ The pre-verb classifiers
  *  CL/Shape+  = 
  *  CL/Manner+  = 
  *  CL/Human+  = 
+ *  CL/Human_Male+  = 
+ *  CL/Human_Female+  = 
  *  CL/Descriptive+  = 
  *  CL/Sound+  = 
  *  CL/Color+  = 
+
+ *  +CL/Shape  = 
+ *  +CL/Manner  = 
+ *  +CL/Human  = 
+ *  +CL/Human_Male  = 
+ *  +CL/Human_Female  = 
+ *  +CL/Descriptive  = 
+ *  +CL/Sound  = 
+ *  +CL/Color  = 
+
+Semantic Tags
+
+
+Dialect Tags
+
 
 
 Triggers
@@ -93,8 +124,8 @@ The Usage extents are marked using the following tags:
 
 The nominals are inflected in the following Number
 
- * +Sg    =
- * +Pl    =
+ * +Sg    = Only relevant for kinterms
+ * +Pl    = Only relevant for kinterms
 
 
 
