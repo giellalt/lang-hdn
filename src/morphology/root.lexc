@@ -35,6 +35,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 é2 !!= * @CODE@ =
 í2 !!= * @CODE@ =
 ú2 !!= * @CODE@ =
+s2 !!= * @CODE@ =
 
 !! Haida has these tags for real, says Jordan.
 +V	!!= * @CODE@ =
@@ -159,6 +160,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +Pl   !!= * @CODE@ = Only relevant for kinterms
 
 %^WS	!!=* @CODE@ = whitespace dummy, for twolc
+%^DEF   !!=* @CODE@ =
 
 ! Abbreviated words are classified with:
 
