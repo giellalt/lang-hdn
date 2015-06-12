@@ -63,20 +63,26 @@ LIST Rfx = Rfx ;
 LIST CHA = cha«gáng ; 
 LIST DLA = dla«gáng ; 
 LIST CL/cha = CL/cha ;
+LIST CL/dla = CL/dla ;
 LIST CLtypes = "CL/Shape" "CL/Manner" "CL/Human" "CL/Human_Male" "CL/Human_Female" "CL/Descriptive" "CL/Sound" "CL/Color" ;
 
 SET CL-VERB = V + CLtypes ;
 SET NOT-CL-VERB = V - CL-VERB ;
 
+
+
 ########################                  #########################
 ########################                  #########################
-                        # disambiguation #
+                        # grammarchecking #
 ########################                  #########################
 ########################                  #########################
 
 SECTION
 
-REMOVE CL-VERB IF (0 NOT-CL-VERB) ;
+MAP (@inc_CL) TARGET CL-VERB IF (NOT 0 CHA LINK *-1 N + CL/cha) ;
+MAP (@inc_CL) TARGET CL-VERB IF (NOT 0 DLA LINK *-1 N + CL/dla) ;
+
+
 
 
 
