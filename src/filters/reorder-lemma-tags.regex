@@ -1,0 +1,5 @@
+# This script reshuffles lemma and other tags.
+
+[ 0 <- "CL/Shape+" ]
+.o.
+[ "+V" "+CL/Shape" <- "+V" || "CL/Shape+" ?+ _ ];
