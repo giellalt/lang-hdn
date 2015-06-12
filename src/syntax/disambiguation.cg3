@@ -60,10 +60,11 @@ LIST Def = Def ;
 LIST Indef = Indef ; 
 LIST Rfx = Rfx ;
 
-LIST CHA = cha«gáng ; 
-LIST DLA = dla«gáng ; 
+LIST CHA = cha«gáng cha«dáal ; #should be a regex ("cha«.*"r)
+LIST DLA = dla«gáng dla«dáal ; #should be a regex ("dla«.*"r)
 LIST CL/cha = CL/cha ;
-LIST CLtypes = "CL/Shape" "CL/Manner" "CL/Human" "CL/Human_Male" "CL/Human_Female" "CL/Descriptive" "CL/Sound" "CL/Color" ;
+LIST CL/dla = CL/dla ;
+LIST CLtypes = "CL/Shape" "CL/Manner" "CL/Human" "CL/Human_Male" "CL/Human_Female" "CL/Descriptive" "CL/Sound" "CL/Color" ; # "" are because of that lookup2cg gives them to the first tag instead of the lemma
 
 SET CL-VERB = V + CLtypes ;
 SET NOT-CL-VERB = V - CL-VERB ;
