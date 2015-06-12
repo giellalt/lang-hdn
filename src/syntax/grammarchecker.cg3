@@ -60,11 +60,11 @@ LIST Def = Def ;
 LIST Indef = Indef ; 
 LIST Rfx = Rfx ;
 
-LIST CHA = cha«gáng ; #should be a regex ("cha«.*"r)
-LIST DLA = dla«gáng ; #should be a regex ("dla«.*"r)
+LIST CHA = ("cha«.*"r) ; # cha«dáal
+LIST DLA = ("dla«.*"r) ; # dla«dáal
 LIST CL/cha = CL/cha ;
 LIST CL/dla = CL/dla ;
-LIST CLtypes = "CL/Shape" "CL/Manner" "CL/Human" "CL/Human_Male" "CL/Human_Female" "CL/Descriptive" "CL/Sound" "CL/Color" ; # "" are because of that lookup2cg gives them to the first tag instead of the lemma
+LIST CLtypes = CL/Shape CL/Manner CL/Human CL/Human_Male CL/Human_Female CL/Descriptive CL/Sound CL/Color ; # 
 
 SET CL-VERB = V + CLtypes ;
 SET NOT-CL-VERB = V - CL-VERB ;
@@ -82,7 +82,9 @@ SECTION
 MAP (@inc_CL) TARGET CL-VERB IF (NOT 0 CHA LINK *-1 N + CL/cha) ;
 MAP (@inc_CL) TARGET CL-VERB IF (NOT 0 DLA LINK *-1 N + CL/dla) ;
 
-
+# for testing:
+# chíin chagáng
+# gwáahl dlagáng
 
 
 
