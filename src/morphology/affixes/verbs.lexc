@@ -5816,13 +5816,11 @@ LEXICON CLASS-AS-STEM-3 !!= @CODE@
 +V+COUNTERFACTUAL+PRESENT:%>áa'ahlanggang # ;
 
 
-!LEXICON CLASS-E.E-STEM
-! :e%.e  # ;
-! :ee CLASS-E.E-STEM-2 ;
-! :e%.ée CLASS-E.E-STEM-3 ;
+LEXICON CLASS-E.E-STEM
+ :e%.e  # ;
+ :ee CLASS-E.E-STEM-2 ;
+ :e%.ée CLASS-E.E-STEM-3 ;
 
-LEXICON CLASS-E.E-STEM-1 !!= @CODE@
-# ;
 
 LEXICON CLASS-E.E-STEM-2 !!= @CODE@
 +V+DIRECT+PAST:%>gán # ;
