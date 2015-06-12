@@ -22,6 +22,15 @@ in this system in terms of the following symbols.
 
 (It is highly suggested to follow existing standards when adding new tags).
 
+!!Morphophonemes
+
+These are vowel morphophonemes which will lose their accent when they are no long in closed syllables
+
+ * á2  =
+ * é2  =
+ * í2  =
+ * ú2  =
+ * s2  =
 
 Haida has these tags for real, says Jordan.
  * +V	 =
@@ -54,6 +63,11 @@ Haida has these tags for real, says Jordan.
  * +COUNTERFACTUAL	 =
  * +SINGULAR	 =
  * +PLURAL	 =
+ * +Def	 =
+ * +Indef	 =
+ * +Rfx	 = Used for reflexively possessed body parts and kinterms
+
+The actual classifiers
 
 
 The pre-verb classifiers
@@ -61,9 +75,26 @@ The pre-verb classifiers
  *  CL/Shape+  = 
  *  CL/Manner+  = 
  *  CL/Human+  = 
+ *  CL/Human_Male+  = 
+ *  CL/Human_Female+  = 
  *  CL/Descriptive+  = 
  *  CL/Sound+  = 
  *  CL/Color+  = 
+
+ *  +CL/Shape  = 
+ *  +CL/Manner  = 
+ *  +CL/Human  = 
+ *  +CL/Human_Male  = 
+ *  +CL/Human_Female  = 
+ *  +CL/Descriptive  = 
+ *  +CL/Sound  = 
+ *  +CL/Color  = 
+
+Semantic Tags
+
+
+Dialect Tags
+
 
 
 Triggers
@@ -104,8 +135,8 @@ The Usage extents are marked using the following tags:
 
 The nominals are inflected in the following Number
 
- * +Sg    =
- * +Pl    =
+ * +Sg    = Only relevant for kinterms
+ * +Pl    = Only relevant for kinterms
 
 
 
@@ -217,7 +248,6 @@ word classes, or optionally from prefixes:
  LEXICON CLASS-ANG-STEM-2 
 
 
-
  LEXICON CLASS-AW-STEM-1 
 
  LEXICON CLASS-AW-STEM-2 
@@ -237,8 +267,6 @@ word classes, or optionally from prefixes:
  LEXICON CLASS-ID-STEM-1 
 
  LEXICON CLASS-ID-STEM-2 
-
-
 
 
  LEXICON CLASS-II-STEM-1 
@@ -278,8 +306,6 @@ word classes, or optionally from prefixes:
  LEXICON CLASS-UU-STEM-2  
 
 
- LEXICON CLASS-A-STEM-1  
-
  LEXICON CLASS-A-STEM-2  
 
  LEXICON CLASS-A-STEM-3 
@@ -287,7 +313,6 @@ word classes, or optionally from prefixes:
 
 
  LEXICON CLASS-AHL-STEM 
-
 
 
 
@@ -299,7 +324,6 @@ word classes, or optionally from prefixes:
 
 
 
- LEXICON CLASS-E.E-STEM-1 
 
  LEXICON CLASS-E.E-STEM-2 
 
@@ -361,6 +385,7 @@ word classes, or optionally from prefixes:
 
  *  %>:0 	 affix boundary
  *  %^WS:0     white space dummy
+ *  %^DEF:0     white space dummy
 
 
 !!Sets
@@ -378,11 +403,10 @@ word classes, or optionally from prefixes:
 
 
 
+__ahl to ál, ahl to áal__ ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
 
 
 
-
-__al to aal at the end of al __ al changes to aal at the end of an AL stem verb when it is followed by an ending belonging to Set D or E
 
 
 
@@ -390,6 +414,8 @@ __al to aal at the end of al __ al changes to aal at the end of an AL stem verb 
 
 
 __Destressing rule__ - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
 
 
 
