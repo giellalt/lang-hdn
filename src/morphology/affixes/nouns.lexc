@@ -9,8 +9,8 @@
 LEXICON Common
 
 +N+Indef: # ;
-+N+Def+Dial/NOT-M:%>^DEFáay
-+N+Def+Dial/NOT-A:%>^DEFée
++N+Def+Dial/NOT-M:%>%^DEFáay # ;
++N+Def+Dial/NOT-A:%>%^DEFée # ;
 
 !! Need some TWOLC rules for: 
 !! hl > l / _ ^DEF
@@ -21,13 +21,13 @@ LEXICON Common
 LEXICON Body_Part
 
 +N: # ;
-+N+Rfx:%>áng ;
++N+Rfx:%>áng # ;
 
 LEXICON Kinterm
 
 +N+Sg: # ;
-+N+Rfx:%>áng ; !! Does Rfx override Pl, or other way around?
-+N+Pl:%>äláng ;
++N+Rfx:%>áng # ; !! Does Rfx override Pl, or other way around?
++N+Pl:%>äláng # ;
 
 LEXICON Indeclinable
 
