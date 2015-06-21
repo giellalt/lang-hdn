@@ -29,7 +29,7 @@ gáng:gá CLASS-ANG-STEM "for S to carry O (CL)" ; !NEEDS CLASSIFIER
 dáal CLASS-AAL "for S (CL) to move slowly" ; !NEEDS CLASSIFIER
 
 LEXICON Verbs !!= @CODE@
-CL/Color+dám+dalä:dám«dal CLASS-A-STEM "for S to be transparent, translucent in color" ;
+CL/Color+dám+dalä:dám«dal CLASS-A-STEM "for S to be transparent, translucent in color" ; !NEEDS CLASSIFIER
 aada:aad CLASS-A-STEM "for S to fish with a net, to seine" ;
 aadáa CLASS-AA "for S to have lace or netting on it" ;
 aanáanaa CLASS-AA "for S to be handy, near, nearby, only a short distance away (in direction)" ;
