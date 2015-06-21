@@ -25,8 +25,8 @@
 ! from .//haida_rhymes%.dat and .//verb-index-4.sf
 
 LEXICON Classifier_Verbstems  !!= @CODE@
-gáng:gá CLASS-ANG-STEM "for S to carry O (CL)" ;
-dáal CLASS-AAL "for S (CL) to move slowly" ;
+gáng:gá CLASS-ANG-STEM "for S to carry O (CL)" ; !NEEDS CLASSIFIER
+dáal CLASS-AAL "for S (CL) to move slowly" ; !NEEDS CLASSIFIER
 
 LEXICON Verbs !!= @CODE@
 CL/Color+dám+dalä:dám«dal CLASS-A-STEM "for S to be transparent, translucent in color" ;
@@ -327,7 +327,7 @@ dag̲anga:dag̲ang CLASS-A-STEM "for S to be bad" ;
 dag̲angada:dag̲angad CLASS-A-STEM "for S to be angry at X" ;
 dag̲angä% sg̲at'as:dag̲angä% sg̲at' CLASS-AS-STEM "for S to be habitually jealous" ;
 dah CLASS-AH "for S to trade for, buy O (in measure amount) (with X1) (for X2) in a single transaction" ;
-dah% dlask'wá'íihl:dah% dlask'wá' CLASS-IIHL-STEM "for S to buy a whole outfit for C from head to toe" ;
+dah% dlask'wá'iihl:dah% dlask'wá' CLASS-IIHL-STEM "for S to buy a whole outfit for C from head to toe" ;
 dah% dlask'wä'iláa CLASS-AA "for S to have bought a whole outfit for themselves from head to toe" ;
 dah% gijgíihlda:dah% gijgíihld CLASS-A-STEM "for S (pl) to try to buy O before one another" ;
 dah% isda:dah% isd CLASS-A-STEM "for S to buy C and take it away [said of something that someone else intended to buy]" ;
@@ -2199,8 +2199,8 @@ háadä% k̲agáa CLASS-AA "for S (sg) to be high-class, have been honored at a 
 háadä% k̲áa CLASS-AA "for S to have C (sg) walk along as they say 'haa' with each step" ;
 háagaang CLASS-AANG "for S to chant `haa` (for X)" ;
 háagaang% k̲áa CLASS-AA "for S to walk along as people say 'haa' with each step" ;
-háaháayaada:háaháayaad CLASS-A-STEM "for S to say háaháayaa to" ;
-háamáayaada:háamáayaad CLASS-A-STEM "for S to say háamáayaa about O" ;
+háahaayaada:háaháayaad CLASS-A-STEM "for S to say háaháayaa to" ;
+háamaayaada:háamáayaad CLASS-A-STEM "for S to say háamáayaa about O" ;
 háana:háan CLASS-A-STEM "for S to be pretty, handsome [some speakers prefer to say this of females, other apply it to either sex; also applies to articles of clothing]" ;
 háayaandaal CLASS-AAL "for S (sg) {skáa} to run along fast, light and happy, to move along fast, light and happy" ;
 háayaanggwaang CLASS-AANG "for S (sg) {skáa} to run around fast, light and happy, to move around fast, light and happy" ;
@@ -2647,7 +2647,7 @@ hltabida:hltabid CLASS-A-STEM "for S (sg) {hltab} to shake, to shiver, to vibrat
 hlt'abidadáal CLASS-AAL "for S (sg) {hlt'ab} to go along in a fast and lively way" ;
 hlt'abidagwáang CLASS-AANG "for S (sg) {hlt'ab} to go around in a fast and lively way" ;
 hlt'abk'uláa CLASS-AA "for S to be soft and bend easily [said of a wooden object such as a board or stick only]" ;
-hlt'ablagung:hlt'ablag CLASS-UNG-STEM "for S (pl) {hlt'ab} to fall through the air" ;
+hlt'ablagung:hlt'ablag CLASS-UNG-STEM "for S (pl) {hlt'ab} to fall through the air" ; !Lemma should have stress mark
 hlt'abwíi:hlt'abw CLASS-II-STEM "for S (sg) {hlt'ab} to fall through the air" ;
 hltabyáang CLASS-AANG "for S (sg) {hltab} to hang down" ;
 hlt'adid:hlt'ad CLASS-ID-STEM "for S to pick O (sg) {hlt'ad} up, to pick O {sg) {hlt'ad} up and take off with it (in direction), to carry O (sg) {hlt'ad} off, to take O (sg) {hlt'ad} away" ;
@@ -3882,7 +3882,7 @@ itl'gajadáa CLASS-AA "for S to be rich (in X), be wealthy and influential [said
 íisaaniyaa CLASS-AA "for S to be poor, poverty-stricken" ;
 íisdgaa CLASS-AA "for S to have yeast in it" ;
 íit'ajaa CLASS-AA "for S (pl) [smallish objects] to be in contact (in location)" ;
-íitl'aagädáa CLASS-AA "for S to be wealthy and influential, be rich (in X), be a chief" ;
+íitl'aagädaa CLASS-AA "for S to be wealthy and influential, be rich (in X), be a chief" ;
 íits'ahl% gud'a:íits'ahl% gud' CLASS-A-STEM "for S to be bad at dancing, be a bad dancer" ;
 íits'ala:íits'al CLASS-A-STEM "for S to be good at dancing, be a good dancer" ;
 íiwaa CLASS-AA "for S (pl) to lie together in a single group [refers to a group of several objects, not people]" ;
@@ -6604,7 +6604,7 @@ sáng% 'lagáa% kihlgáng:sáng% 'lagáa% kihlgá CLASS-ANG-STEM "for S to act o
 sáng% 'láa CLASS-AA "for S to be of high rank" ;
 sáng% 'láa% gudgáng:sáng% 'láa% gudgá CLASS-ANG-STEM "for S to consider themselves to be of high rank (with respect to X)" ;
 sáng% tláagang:sáng% tláaga CLASS-ANG-STEM "for S to do something to make (X) feel better" ;
-sáng% /% -sang:sáng% /% -sá CLASS-ANG-STEM "say intend to V" ;
+!sáng% /% -sang:sáng% /% -sá CLASS-ANG-STEM "say intend to V" ; !what is this?
 sánga:sáng CLASS-A-STEM "V all night, until morning" ;
 sángaang CLASS-AANG "for S to watch for good weather (in preparartion for their planned activities)" ;
 sángaang% gud'áang CLASS-AANG "for S to forecast bad weather" ;
@@ -7985,7 +7985,7 @@ t'aayda:t'aayd CLASS-A-STEM "for S to dance around in physical distress" ;
 t'aaysahlda:t'aaysahld CLASS-A-STEM "for S (sg) {t'a} to wave, swing or rock back and forth once" ;
 t'a'áaw CLASS-AAW "for S to check to see if X is ready or available, to see if they can do X [said of food, drink, money or work]" ;
 t'a'áaw% guwä% g̲áalgaa CLASS-AA "for it to be dark from clouds during a snowstorm" ;
-t'a'ádsgyáan CLASS-AAN "for S to cross on foot in direction" ;
+t'a'ádsgyaan CLASS-AAN "for S to cross on foot in direction" ;
 t'ab'ad:t'ab' CLASS-AD-STEM "for S to break, snap in two (and go in direction) [said of a 1-D object]" ;
 t'ab'adáa CLASS-AA "for S (sg) to have broken in two, snapped in two" ;
 t'ab'adíiga:t'ab'adíig CLASS-A-STEM "for S (pl) to have broken in two, snapped in two" ;
@@ -9107,7 +9107,7 @@ xál% k'ihl:xál% k' CLASS-IHL-STEM "for S (sg) to go out having burned up all i
 xál% k'its'aada:xál% k'its'aad CLASS-A-STEM "for S to dry C beside or over a fire, or in an oven" ;
 xál% k'its'a%.a:xál% k'its'a%. CLASS-A-STEM "for S to dry beside or over a fire or in an oven" ;
 xál% kínda:xál% kínd CLASS-A-STEM "for S whistle [said of a kettle, pot, fire, etc.], toot [said of a horn]" ;
-xál% k'ujuu:xál% k'uj CLASS-UU-STEM "for S to go ashore very fast in a gasboat (in direction)" ;
+xál% k'ujuu:xál% k'uj CLASS-UU-STEM "for S to go ashore very fast in a gasboat (in direction)" ; ! Add stress mark to lemma?
 xál% k'ut'ahl CLASS-AHL-STEM "for S (sg) to die in a fire" ;
 xál% k̲áahliyaada:xál% k̲áahliyaad CLASS-A-STEM "for S to be careful or cautious with X, try not to waste X while heating it" ;
 xál% k̲'áak'ulee%.eehl:xál% k̲'áak'ulee%. CLASS-EEHL-STEM "for S to have been boiled to pieces" ;
