@@ -57,16 +57,20 @@ Rules
 "ahl to ál, ahl to áal"
 !! __@RULENAME@__ ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-a:á <=> \AccVow Cns Cns _ h:0 l:l %>: [ %^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 | %^ENDD:0 | %^ENDE:0 ] ;
+a:á <=> \AccVow Cns Cns _ h:0 l %>: [ %^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 | %^ENDD:0 | %^ENDE:0 ] ;
 
 "ahl to ál, ahl to áal"
-h:0 <=> a: _ l:l %>: [%^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 ] ;
-        a: 0: _ l:l %>: [ %^ENDD:0 | %^ENDE:0 ] ;
-        _ l %>: %^DEF:0 ;
+!h:0 <=> a: _ l %>: [%^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 ] ;
+!        a: 0: _ l %>: [ %^ENDD:0 | %^ENDE:0 ] ;
+!        _ l %>: %^DEF:0 ;
+
+h:0 <=>  á: a  _ l  %>: (Endings:) [ g | á: a | %. á: ]  ; ! skyáalga 
+         Cns a  _ l  %>: (Endings:) [ g |  á: a | á: n g | %. á: ]  ; !  áljalga
+         Cns a 0:a _ l  %>: (Endings:) [ ' a | á: a  ]  ; !  áljalga 
 
 
 "ahl to áal, part 2"
-0:a <=> a: _ h: l:l %>: [ %^ENDD:0 | %^ENDE:0 ] ; !
+0:a <=> a: _ h: l %>: [ %^ENDD:0 | %^ENDE:0 ] ; !
 
 "s2 to j for DEF"
 s2:j <=> _ Sgm:* %>: %^DEF:0 ; 
@@ -81,7 +85,7 @@ a:0 <=> a _ Cns: %>: %^DEF:0 ;
 !! __@RULENAME@__ - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
 Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:*  %>:  (Endings:) Sgm:* _  ;
           [ á: | é: | í: | ó: | ú: ] Sgm:* Vow: 0:Vow  Cns:+  %>:  (Endings:) Sgm:* _  ; 
-          [ á: | é: | í: | ó: | ú: ] Sgm:* _ Sgm:* %>: ; !kúníida
+          [ á: | é: | í: | ó: | ú: ] Sgm:* _ Sgm:* [ %>: | .#. ] ; !kúníida
  	where Vx in ( á é í ó ú )
  	      Vy in ( a e i o u )
  	      matched ;
