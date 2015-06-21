@@ -13,7 +13,7 @@
 ! giellatekno@hum.uit.no or divvun@hum.uit.no
 
 ! ========================================================================== !
-!!                           !!! Northern Haida verb stems                       
+!!                           !!! Northern Haida verb affixes                       
 ! ========================================================================== !
 
 LEXICON CLASS-AA !!= @CODE@
@@ -5277,7 +5277,7 @@ LEXICON CLASS-UU-STEM-2  !!= @CODE@
 +V+NEGATIVE+VERYNEAR+FUTURE:%>áng% %^WSk̲asaasdlä'ánggang # ;
 
 LEXICON CLASS-A-STEM
-:a # ;
++V+SINGULAR+IMPERATIVE:a # ;
 :ä CLASS-A-STEM-2 ;
 :áa CLASS-A-STEM-3 ;
 
@@ -5835,7 +5835,7 @@ LEXICON CLASS-AS-STEM-3 !!= @CODE@
 
 
 LEXICON CLASS-E.E-STEM
- :e%.e  # ;
++V+SINGULAR+IMPERATIVE:e%.e  # ;
  :ee CLASS-E.E-STEM-2 ;
  :e%.ée CLASS-E.E-STEM-3 ;
 
@@ -6021,7 +6021,7 @@ LEXICON CLASS-E.E-STEM-3 !!= @CODE@
 +V+NEGATIVE+VERYNEAR+FUTURE:%>%.áng% %^WSk̲asaasdlä'ánggang # ;
 
 LEXICON CLASS-E.EHL-STEM
- :%.ehl   # ; !Here are the tags missing
++V+SINGULAR+IMPERATIVE:%.ehl   # ; 
  :ehl CLASS-E.EHL-STEM-2 ;
  :%.éel CLASS-E.EHL-STEM-3 ;
 
