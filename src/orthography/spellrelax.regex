@@ -1,6 +1,6 @@
-' l (->) l l ,
-' m (->) m m ,
-' n (->) n n ,
+#' l (->) l l ,
+#' m (->) m m ,
+#' n (->) n n ,
 ç (->) r ,
 Í (->) Í , # composed apostrophe
 Á (->) Á ,	# composed apostrophe
@@ -17,20 +17,16 @@
 ' (->) q , # apostroph
 ' (->) ’ , # right single quot
 ' (->) ʼ , # letter apostroph
-
-ñ (->) k , # no line below, or fontstyle underline
-ç (->) g , # no line below, or fontstyle underline
-ý (->) x , # no line below, or fontstyle underline
-
-ñ (->) ḵ , # 0331 macron below
-ç (->) g̱ , # 0331 macron below
-ý (->) x̱ , # 0331 macron below
-
-ñ (->) k̲ , # 0332 low line below
-ç (->) g̲ , # 0332 low line below
-ý (->) x̲ , # 0332 low line below
-
-ñ (->) ḵ , # 1E35 small letter k with line below
+k̲ (->) ñ , # no line below, or fontstyle underline
+g̲ (->) ç , # no line below, or fontstyle underline
+x̲ (->) ý , # no line below, or fontstyle underline
+k̲ (->) k , # no line below, or fontstyle underline
+g̲ (->) g , # no line below, or fontstyle underline
+x̲ (->) x , # no line below, or fontstyle underline
+k̲ (->) ḵ , # 0331 macron below
+g̲ (->) g̱ , # 0331 macron below
+x̲ (->) x̱ , # 0331 macron below
+k̲ (->) ḵ , # 1E35 small letter k with line below
 
 ä (->) a ,
 ï (->) i
