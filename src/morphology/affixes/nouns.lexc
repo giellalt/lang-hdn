@@ -31,6 +31,19 @@ LEXICON Kinterm
 
 LEXICON Indeclinable
 
-+N+Def: # ; !! Does this work?
-+N+Indef: # ; !! Does this work?
++N+Def: # ; 
++N+Indef: # ;
+
+LEXICON BodyPart
+Common ;
+
+
+
+LEXICON Pronoun
+Common ;
+
+
+LEXICON Proper
+Common ;
+
 
