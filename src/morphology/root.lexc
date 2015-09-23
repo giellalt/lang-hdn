@@ -184,6 +184,16 @@ s2 !!= * @CODE@ =
 %^WS	!!=* @CODE@ = whitespace dummy, for twolc
 %^DEF   !!=* @CODE@ =
 
+!! Verbs and prnouns
++1Sg    !!= * @CODE@ first singular
++2Sg    !!= * @CODE@ etc
++3Sg    !!= * @CODE@
+
++1Pl    !!= * @CODE@ 
++2Pl    !!= * @CODE@
++3Pl    !!= * @CODE@
+
+
 ! Abbreviated words are classified with:
 
 +ABBR !!= * @CODE@ = Abbreviations
