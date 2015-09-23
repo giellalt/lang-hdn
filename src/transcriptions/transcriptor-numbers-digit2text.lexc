@@ -34,12 +34,10 @@ TEENSM ;		! 10-19M
 ONESM ;			! 1-9M
 !HUNDREDST ;		! 200000-999999 NB
 1:mitâtahtomitanaw  HUNDREDT ;	! 100000-100999
-1:mitâtahtomtanaw HUNDREDT ;	! 100000-100999
 TENST ;			! 20000-99999,10000-10999
 TEENST ;		! 11000-19999
 ONEST ;			! 2000-9999
 1:peyak% kihci% mitâtahtomtanaw THOUSAND ;
-1:peyak% kihci% mitâtahtomitanaw THOUSAND ;
 UNDERTHOUSAND ;		! 100-999
 TENS ;			! 20-99
 TEENS ;			! 10-19
@@ -119,7 +117,6 @@ LEXICON MILJON
 LEXICON OVERTHOUSANDS
 HUNDREDST ;		! x00.000.000
 1:mitâtahtomitanaw HUNDREDT ;	! 100.000.000
-1:mitâtahtomtanaw HUNDREDT ;	! 100.000.000
 %0: TENST ;		!  20.000.000
 %0: TEENST ;		!  10.000.000
 %0%0: ONEST ;		!   2.000.000
@@ -143,7 +140,6 @@ LEXICON HUNDREDST
 
 LEXICON CUODIT
 :mitâtahtomitanaw HUNDREDT ;	! 100000-199999
-:mitâtahtomtanaw HUNDREDT ;	! 100000-199999
 
 LEXICON HUNDREDT	! X = 1-9, Y = 0-9
 :%  TENST ;			! X2XYYY, X10YYY
@@ -218,7 +214,6 @@ LEXICON THOUSAND
 LEXICON UNDERTHOUSAND
 HUNDREDS ;
 1:mitâtahtomitanaw%  HUNDRED ;
-1:mitâtahtomtanaw%  HUNDRED ;
 
 LEXICON HUNDREDS
 2:nîso%    CUODI ;
@@ -232,7 +227,6 @@ LEXICON HUNDREDS
 
 LEXICON CUODI
 :mitâtahtomitanaw%    HUNDRED ;
-:mitâtahtomtanaw%   HUNDRED ;
 
 LEXICON HUNDRED
 :ayiwâk%   TENS ;
@@ -245,7 +239,6 @@ LEXICON TENS
 1%0:mitâtaht ENDLEX ;
 1%0%.:låhkede ENDLEX ;
 2:nîs TEN ;
-2:nîsi TEN ;
 3:nistomi TEN ;
 4:nemi TEN ;
 5:nîyânanomi TEN ;
@@ -269,16 +262,6 @@ LEXICON NEARLY
 89:kekâc% kekâ% mitâtahtom NEARLY-TEN ;
 90:kekâ% mitâtahtom NEARLY-TEN ;
 99:kekâ% mitatahtomtanaw% ayiwâk% kekâ% mitâtaht ENDLEX ;
-29:kekâc-nistomi NEARLY-TEN ;
-39:kekâc-nemi NEARLY-TEN ;
-49:kekâc-nîyânanomi NEARLY-TEN ;
-59:kekâc-nikotwâsomi NEARLY-TEN ;
-69:kekâc-tepakohpimi NEARLY-TEN ;
-79:kekâc-ayinânewomi NEARLY-TEN ;
-79:kekâc-ayenânewomi NEARLY-TEN ;
-89:kekâc-kekâ-mitâtahtomi NEARLY-TEN ;
-90:kekâ-mitatahtomi NEARLY-TEN ;
-99:kekâ-mitatahtomitanaw% kekâ-mitâtaht ENDLEX ;
 
 LEXICON NEARLY-TEN
 :tanaw ENDLEX ;
@@ -295,15 +278,6 @@ LEXICON ONESTONEXT
 7:tepakohposâp ENDLEX ;
 8:ayinânewosâp ENDLEX ;
 9:kekâmitâtahtosâp ENDLEX ;
-1:peyako-sâp ENDLEX ;
-2:nîso-sâp ENDLEX ;
-3:nisto-sâp ENDLEX ;
-4:newo-sâp ENDLEX ;
-5:niyânano-sâp ENDLEX ;
-6:nikotwâso-sâp ENDLEX ;
-7:tepakohp-sâp ENDLEX ;
-8:ayinânewo-sâp ENDLEX ;
-9:kekâc% nîstanaw ENDLEX ;
 :ayiwâk%  CARDINAL ;
 
 
@@ -331,7 +305,6 @@ LEXICON CARDINAL
 6:nikotwâsik ENDLEX ;
 7:tepakohp ENDLEX ;
 8:ayinânew ENDLEX ;
-8:ayenânew ENDLEX ;
 9:kekâmitâtaht ENDLEX ;
 
 

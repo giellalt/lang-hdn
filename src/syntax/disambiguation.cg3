@@ -75,6 +75,8 @@ SET NOT-CL-VERB = V - CL-VERB ;
 ########################                  #########################
 ########################                  #########################
 
+BEFORE-SECTIONS
+
 SECTION
 
 REMOVE CL-VERB IF (0 NOT-CL-VERB) ;
@@ -129,10 +131,11 @@ LIST SYNTAG = (@CNP) (@CVP) (@<SUBJ) (@SUBJ>) (@-FSUBJ>) (@<OBJ) (@OBJ>) (@<IOBJ
 
 SET SUBJ =  (@<SUBJ) OR (@SUBJ>) OR (@-FSUBJ>) ;
 
+AFTER-SECTIONS
 
-# ======== #
-###SECTION  #
-# ======== #
+       #=====#
+      END #
+        #=====#
 
 
 
