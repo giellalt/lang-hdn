@@ -187,7 +187,7 @@ s2 !!= * @CODE@ =
 !! Verbs and prnouns
 +1Sg    !!= * @CODE@ first singular
 +2Sg    !!= * @CODE@ etc
-+3Sg    !!= * @CODE@
++3Sg    !!= * @CODE@ third singular
 
 +1Pl    !!= * @CODE@ 
 +2Pl    !!= * @CODE@
