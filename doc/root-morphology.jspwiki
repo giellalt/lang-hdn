@@ -58,6 +58,32 @@ Haida has these tags for real, says Jordan.
 
 The actual classifiers
 
+ * +CL/dla  =
+ * +CL/hlga  =
+ * +CL/cha  =
+ * +CL/k̲'íi  =
+ * +CL/gi  =
+ * +CL/gu  =
+ * +CL/g̱a  =
+ * +CL/hlgi  =
+ * +CL/hlg̱a  =
+ * +CL/hlḵ’uhl  =
+ * +CL/ja  =
+ * +CL/k’u  =
+ * +CL/ḵ’íi  =
+ * +CL/sda  =
+ * +CL/sg̱a  =
+ * +CL/skáa  =
+ * +CL/skáa  =
+ * +CL/sk’a  =
+ * +CL/sḵ’a  =
+ * +CL/stl’a  =
+ * +CL/tíi  =
+ * +CL/tl’a  =
+ * +CL/ts’as  =
+ * +CL/t’a  =
+ * +CL/xa  =
+
 
 The pre-verb classifiers
 
@@ -126,6 +152,16 @@ The nominals are inflected in the following Number
 
  * +Sg    = Only relevant for kinterms
  * +Pl    = Only relevant for kinterms
+
+
+Verbs and prnouns
+ * +1Sg     first singular
+ * +2Sg     etc
+ * +3Sg     third singular
+
+ * +1Pl     
+ * +2Pl    
+ * +3Pl    
 
 
 
