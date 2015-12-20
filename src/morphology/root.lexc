@@ -13,25 +13,25 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!                Northern Haida morphological analyser
+!                Northern Haida morphological analyser                      
 ! ========================================================================== !
 
-!! This file shows the Haida multichar symbols and initial lexica.
+!! This file shows the Northern Haida multichar symbols and initial lexica.
 
-Multichar_Symbols  !!≈ !!!@CODE@ definitions
+Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! !!Analysis symbols
 !! ----------------
 !! The morphological analyses of wordforms of Northern Haida are presented
-!! in this system in terms of the following symbols.
+!! in this system in terms of following symbols.
 
 !! (It is highly suggested to follow existing standards when adding new tags).
 
-!! !!Morphophonemes
+!! The parts-of-speech could perhaps also be (remove irrelevant):
 
 !! These are vowel morphophonemes which will lose their accent when they are no long in closed syllables
 
-á2 !!= * @CODE@ =
+á2 !!= * @CODE@ = 
 é2 !!= * @CODE@ =
 í2 !!= * @CODE@ =
 ú2 !!= * @CODE@ =
@@ -71,6 +71,7 @@ s2 !!= * @CODE@ =
 +Def	!!= * @CODE@ =
 +Indef	!!= * @CODE@ =
 +Rfx	!!= * @CODE@ = Used for reflexively possessed body parts and kinterms
++Abs    !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
 
 !! The actual classifiers
 
@@ -178,8 +179,48 @@ s2 !!= * @CODE@ =
 
 !! The nominals are inflected in the following Number
 
-+Sg   !!= * @CODE@ = Only relevant for kinterms
-+Pl   !!= * @CODE@ = Only relevant for kinterms
++Sg   !!= * @CODE@ =
++Pl   !!= * @CODE@ =
++Indef !!= * @CODE@ =
++Def  !!= * @CODE@ =
++Abs !!= * @CODE@ =
++Rfx !!= * @CODE@ =
+ 
+!! The verbs can have the following morphological features:
+
++1sg   !!= * @CODE@ =
++2dl   !!= * @CODE@ =
++2pl   !!= * @CODE@ =
++2sg   !!= * @CODE@ =
++3pl   !!= * @CODE@ =
++3sg   !!= * @CODE@ =
++Edl   !!= * @CODE@ =
++Epl   !!= * @CODE@ =
++Fut   !!= * @CODE@ =
++FutImp   !!= * @CODE@ =
++Hab   !!= * @CODE@ =
++Idl   !!= * @CODE@ =
++ImmPast   !!= * @CODE@ =
++Inf   !!= * @CODE@ =
++Ipl   !!= * @CODE@ =
++Prs   !!= * @CODE@ =
++PrsImp   !!= * @CODE@ =
++RemPast   !!= * @CODE@ =
++RepPast   !!= * @CODE@ =
+
+!! Verb prefixes
+
+
+
+!! The TAM flags
+
+
+%^A
+%^OI
+%^I
+%^VI
+%^EI
+
 
 %^WS	!!=* @CODE@ = whitespace dummy, for twolc
 %^DEF   !!=* @CODE@ =
@@ -189,9 +230,14 @@ s2 !!= * @CODE@ =
 +2Sg    !!= * @CODE@ etc
 +3Sg    !!= * @CODE@ third singular
 
-+1Pl    !!= * @CODE@ 
-+2Pl    !!= * @CODE@
-+3Pl    !!= * @CODE@
+!! Verbs and pronouns
++1Sg    !!= * @CODE@ = first person singular
++2Sg    !!= * @CODE@ = second person singular
++3Sg    !!= * @CODE@ = third person singular
+
++1Pl    !!= * @CODE@ = first person plural
++2Pl    !!= * @CODE@ = second person plural
++3Pl    !!= * @CODE@ = third person plural
 
 
 ! Abbreviated words are classified with:
@@ -199,7 +245,7 @@ s2 !!= * @CODE@ =
 +ABBR !!= * @CODE@ = Abbreviations
 +ACR  !!= * @CODE@ = Acronyms
 
-
+ 
 !! Special symbols are classified with:
 +CLB   !!= * @CODE@ = Clause boundary symbols
 +PUNCT !!= * @CODE@ = Other punctuation marks
@@ -207,14 +253,14 @@ s2 !!= * @CODE@ =
 +RIGHT !!= * @CODE@ = Right part of paired symbols
 
 !! The verbs are syntactically split according to transitivity:
-+TV !!= * @CODE@
-+IV !!= * @CODE@
++TV !!= * @CODE@ 
++IV !!= * @CODE@ 
 
 !! Special multiword units are analysed with:
- +Multi !!= * @CODE@
+ +Multi !!= * @CODE@ 
 
 !! Non-dictionary words can be recognised with:
- +Guess !!= * @CODE@
+ +Guess !!= * @CODE@ 
 
 %>
 
@@ -277,16 +323,14 @@ x̱
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 LEXICON Root
-!! The word forms in Haida start from the lexeme roots of basic
+!! The word forms in Northern Haida start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-!   Prefixes    ;
-   Nouns   ;
- CLASSIFIERS ;
-  Verbs   ;    !!= * @CODE@
+!   Nouns   ;
+  VerbPrefixes   ;    !!= * @CODE@ 
+!  Adverbs ;
 !   Adjectives  ;
 !   Pronouns    ;
 !   Numerals    ;
-!   Postpositions ;
 !   Particles ;
-
-
+!   Postpositions ;
+! Punctuation ;
