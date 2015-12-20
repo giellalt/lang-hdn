@@ -1,9 +1,21 @@
-!! Noun inflection
+_!! Noun inflection
 !! ---------------
 !! Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
 
 !! We need to declare these tags somewhere or everything is terrible.
 !! +Def, +Indef, +NonRfx, +Rfx
+
+!! Need some TWOLC rules for: 
+!! hl > l / _ ^DEF
+!! s2 > j / _ ^DEF
+!! aan > an  / _ ^DEF
+!! aang > ang / _ ^DEF
+!! aal > al / _ ^DEF
+!! waan > un  / _ ^DEF
+!! waang > ung  / _ ^DEF
+!! short a > zero / _ ^DEF
+!! uu > uw / _ ^DEF
+!! V2 > v / _ (..) ^DEF (de-accent stem before Definite suffix)
 
 
 LEXICON Common
@@ -12,36 +24,67 @@ LEXICON Common
 +N+Def+Dial/NOT-M:%>%^DEFáay # ;
 +N+Def+Dial/NOT-A:%>%^DEFée # ;
 
-!! Need some TWOLC rules for: 
-!! hl > l / _ ^DEF
-!! s2 > j / _ ^DEF
-!! aan > an  / _ ^DEF
-!! V^ACC > v / _ (..) ^DEF (de-accent stem before Definite suffix)
+!! if basic form ends in long aa, just add -y, not -aay (or change -aa to -ee)
 
-LEXICON Body_Part
+LEXICON Y-Def-Accent
 
-+N: # ;
+áa+N+Indef:áa # ; !! is something wrong here?
+áa+N+Def+Dial/NOT-M:%>%^DEFáay # ;
+áa+N+Def+Dial/NOT-A:%>%^DEFée # ;
+
+LEXICON Y-Def-NoAccent
+
+aa+N+Indef:aa # ; !! is something wrong here?
+aa+N+Def+Dial/NOT-M:%>%^DEFáay # ;
+aa+N+Def+Dial/NOT-A:%>%^DEFée # ;
+
+
+LEXICON BodyPart
+
++N+Abs: # ;
 +N+Rfx:%>áng # ;
 
 LEXICON Kinterm
 
-+N+Sg: # ;
++N+Sg+Abs: # ;
 +N+Rfx:%>áng # ; !! Does Rfx override Pl, or other way around?
++N+Pl+Abs:%>äláng # ;
+
+LEXICON Indec
+
++N+Indef: # ;
++N+Def: # ; !! Need to make Massett dialect -ee versions for Indec ending in -aay
+
+
+LEXICON S-Def
+
++N+Indef: # ;
++N+Def:%>%^DEFs # ;
+
+LEXICON GAAY
+
++N+Indef: # ;
++N+Def+Dial/NOT-M:%>%^DEFgáay # ; !! needs period after noun ending in -n
++N+Def+Dial/NOT-A:%>%^DEFgée # ; !! needs period after noun ending in -n
+
+LEXICON LANG
+
++N+Sg: # ;
 +N+Pl:%>äláng # ;
 
-LEXICON Indeclinable
-
-+N+Def: # ; 
-+N+Indef: # ;
-
-LEXICON BodyPart
-Common ;
-
-
-
+LEXICON NAAY
+áay+N+Indef+Dial/NOT-M:áay ; !! is something wrong here?
+áay+N+Indef+Dial/NOT-A:ée ; !! is something wrong here?
+áay+N+Def+Dial/NOT-M:%>%^DEFáay # ;
+áay+N+Def+Dial/NOT-A:%>%^DEFée # ;
+áay+N+Def+Dial/NOT-M:%>%^DEFagáay # ;
+áay+N+Def+Dial/NOT-A:%>%^DEFagée # ;
 
 
 LEXICON Proper
-Common ;
++N: # ;
+
+LEXICON Location
++N: # ;
 
 
