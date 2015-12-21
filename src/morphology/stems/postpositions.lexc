@@ -1,21 +1,148 @@
 !! Northern Haida postpositions
 
-LEXICON p
+LEXICON Po
 +Po: # ;
 
 LEXICON Postpositions
+aa Po "to" ;
+inggw Po "on" ;
+dluu Po "when" ;
+daalíigw Po "on the day after X" ;
+daalíisdä Po "on the day before X" ;
+didgw Po "at a location a short distance away from X toward the edge of a clear space" ;
+didgwsdä Po "from a location a short distance away from X toward the edge of a clear space" ;
+didasdä Po "from a location a short distance away from X toward the edge of a clear space" ;
+didgúusdä Po "at/from a location at the side of X toward the edge of a clear space" ;
+didáa Po "to a location a short distance away from X toward the edge of a clear space" ;
+didíi Po "to a location a short distance away from X toward the edge of a clear space" ;
+diddlúu Po "as far as a short distance away from X toward the edge of a clear space" ;
+tajgwáa Po "at the side of X nearest the back of the house" ;
+tajgúusdä Po "at/from the side of X nearest the back of the house" ;
+yahgw% táajaa Po "at the middle of X" ;
+yahgw% táajaa% gw Po "at the middle of X" ;
+yahgw% táajaa% aa Po "toward the middle of X" ;
+yahgw% táajaa% sdä Po "from the middle of X" ;
+yahgw% táajaa% gwíi Po "toward the middle of X" ;
+yahgw% táajaa% gúud Po "around in the middle of X" ;
+t’áagw Po "at the mouth, end, foot of X" ;
+t’áay% sdä Po "from the mouth, end, foot of X" ;
+t’áay% ii Po "around at the foot of X, to the mouth of X" ;
+t’áay% dluu Po "as far as the outh of X" ;
+t’áaguusdä Po "at a location toward the mouth of a river or inlet from X" ;
+t’áay% gwaa Po "near the mouth of X" ;
+t’áa Po "over, because X" ;
+t’áahl Po "out of sight behind X, blocking vision or movement of X, forcefully onto X, while or after X" ;
+t’áahl% sdä Po "from behind X" ;
+t’áahl% gä Po "to a point out of sight behind X" ;
+t’áahl% gwii Po "to a point out of sight behind X" ;
+t’áang% gwaa Po "at the stern of X" ;
+t’áang% guusdä Po "at/from the stern of X" ;
+náa% guusdä Po "at/from inside X" ;
+náa% gwii Po "to a location a short distance inside X" ;
+jan% dúu Po "along the edge of X" ;
+ján% gw Po "at the edge of X" ;
+jaa% gúusdä Po "at/from the side of X toward the mouth of the inlet" ;
+ts’ak’áa Po "at the back of X, behind X, to the back of X, after X" ;
+ts’ak’áa% sdä Po "from the back of X, from behind X" ;
+ts’ak’áa% gwii Po "to the back of X, to behind X" ;
+ts’ak’íi% guusdä Po "in the back of X, at X’s back" ;
+ts’ak’íi% gw Po "at the back of X, behind X" ;
+ts’ak’íi% aa Po "at/to a position behind X" ;
+st’áay% aa Po "according to the feeling of X’s feet" ;
+stláa% gä Po "into X’s hands" ;
+stláay% aa Po "according to the feeling of X’s hand" ;
+stláa% ii Po "into X’s hands" ;
+stláa% sdä Po "from X’s hands" ;
+stl’áng% gw Po "at the head of X" ;
+stl’áng% aa Po "at the bottom of X" ;
+stl’áng% ii Po "at the bottom of X" ;
+stl’áng% guusdä Po "from the back or bottom of X" ;
+stl’áan% guusdä Po "on the left side of X" ;
+stl’áan% gwii Po "to the left side of X" ;
+sgwáa% gw Po "at the back of X, behind X" ;
+sgwáa% gusdä Po "from behind X" ;
+sgwah% gwíi Po "behind X" ;
+sgwah% gúusdä Po "at the back X, in the back X" ;
+sgwáay% guusdä Po "from the back of X" ;
+sg̱áaw% aa Po "with proceeds from the sale of X" ;
+sg̱áwd% gä Po "in exchange for X, in payment for X, taking over from X, past X in opposite direction" ;
+sg̱ín% gw Po "to one side of X, at the end of X at the beach";
+sg̱ul% gúusdä Po "on the right side of X" ;
+sg̱ul% gwíi Po "to the right side of X" ;
+sḵ’íw% gw Po "at the bow of X" ;
+sḵ’íw% sdä Po "from the bow of X" ;
+sḵ’íw% gwaa Po "near the bow of X" ;
+sḵ’íw% gwii Po "to the bow of X" ;
+sḵ’íw% guusdä Po "at the bow of X" ;
+sḵ’íw% aa Po "at/to the bow of X" ;
+sḵ’íw% ii Po "to the bow of X" ;
+sḵ’íw% gwaaduu Po "near the bow of X" ;
+sḵ’ing% gúusdä Po "at the side of X nearest the bow" ;
+sah% gúusdä Po "on/from the upriver side of X" ;
+salíi% sdä Po "from the place where X was" ;
+salíi% aa Po "at the place where X was, after X" ;
+saliyáa Po "at the place where X was, after X" ;
+sahl Po "after X had gone" ;
+sahl% gä Po "in exchange for X" ;
+sahl% dä Po "in exchange for X" ;
+suu Po "among X, together with X, in the midst of X" ;
+suud Po "among X, together with X, in the midst of X" ;
+suwíi Po "to amongst X" ;
+suu% sdä Po "from among X" ;
+tláa% gä Po "to the handiwork of X" ;
+tláa% gw Po "ashore of X, in front of X" ;
+tláa% sdä Po "from off of X" ;
+tláay% aa Po "at a place ashore of X" ;
+tláa% guud Po "helping X, as soon as X" ;
+hlkyáa% gwaa Po "at the side of X toward the front of the house" ;
+hlkyáa% guusdä Po "at/from the side of X nearest the front of the house" ;
+gyáaw% gw Po "at the edge of X" ;
+gyáaw% gusdä Po "from the edge of X" ;
+gyáaw% ii Po "at/around the edge of X" ;
+gyáaw% guusdä Po "from the edge of X" ;
+gyúu% gw Po "for the edification or enjoyment of X" ;
+gyúu% aa Po "sound to X like" ;
+kun.gad% aa Po "in/at the corner of X" ;
+kún.gad% ii Po "to the inside/outside corner of X" ;
+kún.gad% gw Po "in the corner of X" ;
+kún.giis Po "in the corner of X" ;
+gudáa Po "in X’s opinion, as far as X is concerned, on X’s mind" ;
+gudáa% gw Po "to the delight of X"
+gudáa% ilgä Po "contrary to X’s wishes" ;
+gudáa% aygw Po "contrary to X’s wishes" ;
+gudáa% t’álgä Po "more than X thinks is good or right" ;
+gudáa% g̱ahl Po "through X’s thoughts, against X’s wishes" ;
+gudée.ee sdä Po "contrary to X’s wishes" ;
+kyáa% guusdä Po "at/from outside of X" ;
+kyáa% guusii% aa Po "outside X" ;
+kihl% gúusdä Po "from X as a source of information" ;
+kihl% gáak’ä Po "following what X says" ;
+kihl% k’yuu Po "in readiness for what X says" ;
+kihl% t’álgä Po "in spite of what X says" ;
+kihl% g̱aganáan Po "because of what X says" ;
+kihl% t’isdä Po "out of distress over what X said" ;
+kihl% gä Po "in X’s language" ;
+kihl% g̱ánsdä Po "reporting what X said" ;
+kihl% áa Po "according to what X says" ;
+kihl% áa% sdä Po "from what X says" ;
+kihl% ginagáan Po "as X has said" ;
+kíl% g̱aad% íi Po "taking a turn speaking amongst X" ;
+kihl% aygw Po "disagreeing with what X says" ;
+kún% gw Po "at the end, front or corner of X" ;
+kún% x̱id% gw Po "right in front of X" ;
+kún% yáa Po "right in front of X" ;
+kún% aa Po "smell like to X" ;
+kuníigwaan Po "even at the start of X" ;
+kunáasdä Po "before, in front of X" ;
+kunsdä Po "before, in front of X" ;
 
-aa p "to" ;
-inggw p "on" ;
-dluu p "when" ;
 
-
-LEXICON part
+LEXICON Part
 +Prt: # ;
 
 LEXICON Particles
 
-tl’ part ;
-uu part ;
-tlak part ;
-an part ;
+
+uu Part "focus particle" ;
+tlak Part ;
+an Part ;
