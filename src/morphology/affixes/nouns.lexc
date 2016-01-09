@@ -3,135 +3,90 @@ _!! Noun inflection
 !! Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
 
 
-
-
 LEXICON Common
 +N+Indef: # ;
 +N+Def+Dial/NOT-M:%>%^DEFáay # ;
 +N+Def+Dial/NOT-A:%>%^DEFée # ;
 
 LEXICON Common-AAL
-aal+N+Indef:aal # ;
-aal+N+Def+Dial/NOT-M:al%>%^DEFáay # ;
-aal+N+Def+Dial/NOT-A:al%>%^DEFée # ;
-áal+N+Indef:aal # ;
-áal+N+Def+Dial/NOT-M:al%>%^DEFáay # ;
-áal+N+Def+Dial/NOT-A:al%>%^DEFée # ;
++N+Indef:áal # ;
++N+Def+Dial/NOT-M:al%>%^DEFáay # ;
++N+Def+Dial/NOT-A:al%>%^DEFée # ;
 
 LEXICON Common-AAN
-aan+N+Indef:aan # ;
-aan+N+Def+Dial/NOT-M:an%>%^DEFáay # ;
-aan+N+Def+Dial/NOT-A:an%>%^DEFée # ;
-áan+N+Indef:aan # ;
-áan+N+Def+Dial/NOT-M:an%>%^DEFáay # ;
-áan+N+Def+Dial/NOT-A:an%>%^DEFée # ;
++N+Indef:áan # ;
++N+Def+Dial/NOT-M:an%>%^DEFáay # ;
++N+Def+Dial/NOT-A:an%>%^DEFée # ;
 
 LEXICON Common-AANG
-aang+N+Indef:aang # ;
-aang+N+Def+Dial/NOT-M:ang%>%^DEFáay # ;
-aang+N+Def+Dial/NOT-A:ang%>%^DEFée # ;
-áang+N+Indef:aang # ;
-áang+N+Def+Dial/NOT-M:ang%>%^DEFáay # ;
-áang+N+Def+Dial/NOT-A:ang%>%^DEFée # ;
++N+Indef:áang # ;
++N+Def+Dial/NOT-M:ang%>%^DEFáay # ;
++N+Def+Dial/NOT-A:ang%>%^DEFée # ;
 
 LEXICON Common-AAD
-aad+N+Indef:aad # ;
-aad+N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
-aad+N+Def+Dial/NOT-A:ad%>%^DEFée # ;
-áad+N+Indef:aad # ;
-áad+N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
-áad+N+Def+Dial/NOT-A:ad%>%^DEFée # ;
++N+Indef:áad # ;
++N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
++N+Def+Dial/NOT-A:ad%>%^DEFée # ;
 
 LEXICON Common-AAW
-aaw+N+Indef:aaw # ;
-aaw+N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
-aaw+N+Def+Dial/NOT-A:uw%>%^DEFée # ;
-áaw+N+Indef:aaw # ;
-áaw+N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
-áaw+N+Def+Dial/NOT-A:uw%>%^DEFée # ;
++N+Indef:áaw # ;
++N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
++N+Def+Dial/NOT-A:uw%>%^DEFée # ;
 
 LEXICON Common-UU
-uu+N+Indef:uu # ;
-uu+N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
-uu+N+Def+Dial/NOT-A:uw%>%^DEFée # ;
-úu+N+Indef:úu # ;
-úu+N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
-úu+N+Def+Dial/NOT-A:uw%>%^DEFée # ;
++N+Indef:úu # ;
++N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
++N+Def+Dial/NOT-A:uw%>%^DEFée # ;
 
 LEXICON Common-UUD
-uud+N+Indef:uud # ;
-uud+N+Def+Dial/NOT-M:ud%>%^DEFáay # ;
-uud+N+Def+Dial/NOT-A:ud%>%^DEFée # ;
-úud+N+Indef:úud # ;
-úud+N+Def+Dial/NOT-M:ud%>%^DEFáay # ;
-úud+N+Def+Dial/NOT-A:ud%>%^DEFée # ;
++N+Indef:úud # ;
++N+Def+Dial/NOT-M:ud%>%^DEFáay # ;
++N+Def+Dial/NOT-A:ud%>%^DEFée # ;
 
 LEXICON Common-IID
-iid+N+Indef:iid # ;
-iid+N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
-iid+N+Def+Dial/NOT-A:ad%>%^DEFée # ;
-íid+N+Indef:íid # ;
-íid+N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
-íid+N+Def+Dial/NOT-A:ad%>%^DEFée # ;
++N+Indef:íid # ;
++N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
++N+Def+Dial/NOT-A:ad%>%^DEFée # ;
 
 LEXICON Common-IIS
-iis+N+Indef:iis # ;
-iis+N+Def+Dial/NOT-M:aj%>%^DEFáay # ;
-iis+N+Def+Dial/NOT-A:aj%>%^DEFée # ;
-íis+N+Indef:íij # ;
-íis+N+Def+Dial/NOT-M:aj%>%^DEFáay # ;
-íis+N+Def+Dial/NOT-A:aj%>%^DEFée # ;
++N+Indef:íis # ;
++N+Def+Dial/NOT-M:aj%>%^DEFáay # ;
++N+Def+Dial/NOT-A:aj%>%^DEFée # ;
 
 LEXICON Common-WAANG
-waang+N+Indef:waang # ;
-waang+N+Def+Dial/NOT-M:ung%>%^DEFáay # ;
-waang+N+Def+Dial/NOT-A:ung%>%^DEFée # ;
-wáang+N+Indef:wáang # ;
-wáang+N+Def+Dial/NOT-M:ung%>%^DEFáay # ;
-wáang+N+Def+Dial/NOT-A:ung%>%^DEFée # ;
++N+Indef:wáang # ;
++N+Def+Dial/NOT-M:ung%>%^DEFáay # ;
++N+Def+Dial/NOT-A:ung%>%^DEFée # ;
 
 LEXICON Common-WAAN
-waan+N+Indef:waan # ;
-waan+N+Def+Dial/NOT-M:un%>%^DEFáay # ;
-waan+N+Def+Dial/NOT-A:un%>%^DEFée # ;
-wáan+N+Indef:wáan # ;
-wáan+N+Def+Dial/NOT-M:un%>%^DEFáay # ;
-wáan+N+Def+Dial/NOT-A:un%>%^DEFée # ;
++N+Indef:wáan # ;
++N+Def+Dial/NOT-M:un%>%^DEFáay # ;
++N+Def+Dial/NOT-A:un%>%^DEFée # ;
 
 LEXICON Common-WAAL
-waal+N+Indef:waal # ;
-waal+N+Def+Dial/NOT-M:ul%>%^DEFáay # ;
-waal+N+Def+Dial/NOT-A:ul%>%^DEFée # ;
-wáal+N+Indef:wáal # ;
-wáal+N+Def+Dial/NOT-M:ul%>%^DEFáay # ;
-wáal+N+Def+Dial/NOT-A:ul%>%^DEFée # ;
++N+Indef:wáal # ;
++N+Def+Dial/NOT-M:ul%>%^DEFáay # ;
++N+Def+Dial/NOT-A:ul%>%^DEFée # ;
 
 LEXICON Common-II
-ii+N+Indef:ii # ;
-ii+N+Def+Dial/NOT-M:iy%>%^DEFáay # ;
-ii+N+Def+Dial/NOT-A:iy%>%^DEFée # ;
-íi+N+Indef:íi # ;
-íi+N+Def+Dial/NOT-M:iy%>%^DEFáay # ;
-íi+N+Def+Dial/NOT-A:iy%>%^DEFée # ;
++N+Indef:íi # ;
++N+Def+Dial/NOT-M:iy%>%^DEFáay # ;
++N+Def+Dial/NOT-A:iy%>%^DEFée # ;
 
 LEXICON Common-HL
-hl+N+Indef:hl # ;
-hl+N+Def+Dial/NOT-M:l%>%^DEFáay # ;
-hl+N+Def+Dial/NOT-A:l%>%^DEFée # ;
++N+Indef:hl # ;
++N+Def+Dial/NOT-M:l%>%^DEFáay # ;
++N+Def+Dial/NOT-A:l%>%^DEFée # ;
 
 LEXICON Common-S
-s+N+Indef:s # ;
-s+N+Def+Dial/NOT-M:j%>%^DEFáay # ;
-s+N+Def+Dial/NOT-A:j%>%^DEFée # ;
-
++N+Indef:s # ;
++N+Def+Dial/NOT-M:j%>%^DEFáay # ;
++N+Def+Dial/NOT-A:j%>%^DEFée # ;
 
 LEXICON Y-Def
-áa+N+Indef:áa # ; !! is something wrong here?
-áa+N+Def+Dial/NOT-M:%>%^DEFáay # ;
-áa+N+Def+Dial/NOT-A:%>%^DEFée # ;
-aa+N+Indef:aa # ; !! is something wrong here?
-aa+N+Def+Dial/NOT-M:%>%^DEFáay # ;
-aa+N+Def+Dial/NOT-A:%>%^DEFée # ;
++N+Indef:áa # ; 
++N+Def+Dial/NOT-M:%>áa%^DEFy # ;
++N+Def+Dial/NOT-A:%>%^DEFée # ;
 
 LEXICON BodyPart
 +N+Abs: # ;
@@ -156,29 +111,26 @@ LEXICON GAAY
 +N+Def+Dial/NOT-A:%>%^DEFgée # ; 
 
 LEXICON GAAY-Short
-aa+N+Indef: # ;
-aa+N+Def+Dial/NOT-M:%>%^DEFgáay # ; 
-aa+N+Def+Dial/NOT-A:%>%^DEFgée # ; 
-áa+N+Indef: # ;
-áa+N+Def+Dial/NOT-M:%>%^DEFgáay # ; 
-áa+N+Def+Dial/NOT-A:%>%^DEFgée # ; 
++N+Indef:áa # ;
++N+Def+Dial/NOT-M:%>%^DEFgáay # ; 
++N+Def+Dial/NOT-A:%>%^DEFgée # ; 
 
 LEXICON GAAY-N
-n+N+Indef: # ;
-n+N+Def+Dial/NOT-M:n-%>%^DEFgáay # ; 
-n+N+Def+Dial/NOT-A:n-%>%^DEFgée # ; 
++N+Indef: # ;
++N+Def+Dial/NOT-M:n-%>%^DEFgáay # ; 
++N+Def+Dial/NOT-A:n-%>%^DEFgée # ; 
 
-LEXICON LANG
+LEXICON HUMAN
 +N+Sg: # ;
 +N+Pl:%>äláng # ;
 
 LEXICON NAAY
-áay+N+Indef+Dial/NOT-M:áay ; !! is something wrong here?
-áay+N+Indef+Dial/NOT-A:ée ; !! is something wrong here?
-áay+N+Def+Dial/NOT-M:%>%^DEFáay # ;
-áay+N+Def+Dial/NOT-A:%>%^DEFée # ;
-áay+N+Def+Dial/NOT-M:%>%^DEFagáay # ;
-áay+N+Def+Dial/NOT-A:%>%^DEFagée # ;
++N+Indef+Dial/NOT-M:áay # ; 
++N+Indef+Dial/NOT-A:ée # ; 
++N+Def+Dial/NOT-M:%>%^DEFáay # ;
++N+Def+Dial/NOT-A:%>%^DEFée # ;
++N+Def+Dial/NOT-M:%>%^DEFagáay # ;
++N+Def+Dial/NOT-A:%>%^DEFagée # ;
 
 LEXICON Proper
 +N: # ;
