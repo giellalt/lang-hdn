@@ -15,164 +15,165 @@ LEXICON Nouns
 !! x̲áng+SEM/BodyPart:x̲áng Body_Part "eye" ;
 !! aw+CL/Human+CL/dla+SEM/Kinterm:aw Kinterm "mother, mother's sister" ;
 !! náan+CL/Human+CL/dla+SEM/Kinterm:náan Kinterm "grandmother" ;
-!! juuyáay+CL/Shape+CL/k̲'íi+Dial/NOT-M:juuyáay Indeclinable "sun" ;
-!! juuyáay+CL/Shape+CL/k̲'íi+Dial/NOT-A:juuyée Indeclinable "sun" ;
+!! juuyáay+CL/Shape+CL/k̲'íi+Dial/NOT-M:juuyáay Indec "sun" ;
+!! juuyáay+CL/Shape+CL/k̲'íi+Dial/NOT-A:juuyée Indec "sun" ;
 
 
 aad+CL/Shape+CL/t'a:aad Common "net, netting, web, lace" ; ! def aadáay
-aad% dángiit'uwaay Indeclinable "net block, net reel" ;
+aad% dángiit'uwaay Indec "net block, net reel" ;
 aad% gíi% t'agáng Common "gill net" ;
-aad% g̲agyáaw% ts'ahláay Indeclinable "net sinker" ;
+aad% g̲agyáaw% ts'ahláay Indec "net sinker" ;
 aad% g̲ahlán Common "grid-type fish trap" ;
-aad% k'yáay% k̲wáayaay Indeclinable "lead line for attaching sinkers to a net" ;
-aad% stlíinaay+CL/Shape+CL/tl'a:aad% stlíinaay Indeclinable "net needle" ;
-aad% x̲ánggaay Indeclinable "the mesh of a net" ;
-aad% x̲ángii% k'wíidaawaay Indeclinable "net gauge (used to make net mesh a uniform size)" ;
-aadáa% tluwáay Indeclinable "seine boat" ;
-aadáa% 'la'áay Indeclinable "seine fisherman" ; ! but can take plural
+aad% k'yáay% k̲wáayaay Indec "lead line for attaching sinkers to a net" ;
+aad% stlíinaay+CL/Shape+CL/tl'a:aad% stlíinaay Indec "net needle" ;
+aad% x̲ánggaay Indec "the mesh of a net" ;
+aad% x̲ángii% k'wíidaawaay Indec "net gauge (used to make net mesh a uniform size)" ;
+aadáa% tluwáay Indec "seine boat" ;
+aadáa% 'la'áay Indec "seine fisherman" ; ! but can take plural
 aadáadaan Common "seining spot" ; ! def aadáadanaay
 aang'aang'íi Common "old squaw duck" ; ! def aang'aang'íigaay
-ad% daayíi Indeclinable "birch (tree or wood)" ;
-adíidsii Indeclinable "woods, forest" ;
-agán% tlaawhláa% sg̲alangáay Indeclinable "dressing song" ;
+ad% daayíi Indec "birch (tree or wood)" ;
+adíidsii Indec "woods, forest" ;
+agán% tlaawhláa% sg̲alangáay Indec "dressing song" ;
 ahlgaháal Common "alcohol" ; ! def ahlgaháalgaay
-ahl'áanaa Indeclinable "so-and-so, what's-his-name" ;
-an Indeclinable "year" ;anáasii Common "the area inside a house or building" ;
+ahl'áanaa Indec "so-and-so, what's-his-name" ;
+an Indec "year" ;
+anáasii Common "the area inside a house or building" ;
 náasii Common "the area inside a house or building" ;
 angaangíi Common "pintail duck" ;
 anuu Common "last year" ; ! def anuugáay
 aw Kinterm "mother, mother's sister" ;
 Awáa Proper "Mother" ;
 a'aaníi Common "small springtime ducks" ;
-áahljuwaay Indeclinable "style, manner, appearance, looks" ;
-áal% g̲adáang% g̲a% hlgajuuláangs Indeclinable "propeller" ;
-áal% k̲'áay Indeclinable "paddle blade" ;
+áahljuwaay Indec "style, manner, appearance, looks" ;
+áal% g̲adáang% g̲a% hlgajuuláangs Indec "propeller" ;
+áal% k̲'áay Indec "paddle blade" ;
 áal+CL/Shape+CL/sk̲'a:áal Common "oar, paddle" ; ! def áalaay
 áal+CL/Shape+CL/hlga:áal Common "propeller" ; ! def áalaay
 áal Common "price" ;
 áalaangw+CL/Shape+CL/sk̲'a:áalaangw Common "oar" ; ! def áalaangwaay
 áalaangw+CL/Shape+CL/hlga:áalaangw Common "propeller" ; ! def áalaangwaay
-áalgaay Indeclinable "a habit" ;
+áalgaay Indec "a habit" ;
 áalsaa Common "ulcer" ;
-áanaa Indeclinable "next door, in the next room" ;
-áanii Indeclinable "edible scrap parts of a fish (e.g. head, tail, collarbone, etc.)" ;
-áanii Indeclinable "one's body part (often private parts)" ;
-áaniigaay Indeclinable "the parts or pieces of sth., kit, gear or materials for sth." ;
+áanaa Indec "next door, in the next room" ;
+áanii Indec "edible scrap parts of a fish (e.g. head, tail, collarbone, etc.)" ;
+áanii Indec "one's body part (often private parts)" ;
+áaniigaay Indec "the parts or pieces of sth., kit, gear or materials for sth." ;
 áaniyaas+CL/Shape+CL/skáa:áaniyaas Common "onion" ; ! def áaniyaasgaay
 áanjans+CL/Shape+CL/skáa:áanjans Common "orange" ; ! def áanjansgaay
 áapalkaj+CL/Shape+CL/skáa:áapalkaj Common "apricot" ; ! def áapalkajgaay
 án% sáal% náay Common "sweathouse" ; ! def án sáal nagáay
-án% sáanjuudaa% náay Indeclinable "rest home" ;
-Án% Sáanjuudaa% Sangáay Indeclinable "Sunday" ;
+án% sáanjuudaa% náay Indec "rest home" ;
+Án% Sáanjuudaa% Sangáay Indec "Sunday" ;
 án% xudáaw Common "draft on a stove" ; ! def án xudáawaay
-báadaa% táawaay+CL/Shape+CL/g̲a:báadaa% táawaay Indeclinable "butter dish" ;
+báadaa% táawaay+CL/Shape+CL/g̲a:báadaa% táawaay Indec "butter dish" ;
 bálbad Common "velvet, corduroy" ; ! def bálbadgaay
 bihhíns+CL/Shape+CL/skáa:bihhíns Common "bean" ; ! def bihhínsgaay
 bíid+CL/Shape+CL/gu:bíid Common "dime" ; ! def bíidgaay
-bíid% in'wáay Indeclinable "nickle (coin)" ;
+bíid% in'wáay Indec "nickle (coin)" ;
 bíiyaa Common "beer" ; ! def bíiyagaay
-blig Indeclinable "brick" ;
+blig Indec "brick" ;
 búud+CL/Shape+CL/skáa+CL/k̲'íi:búud Common "boat (other than canoes)" ; ! def búudgaay ! Note that we have two CLSF here, depending on size of boat
-búud% ján Indeclinable "a boat's gunwale (the top edge of the side of the boat)" ;
-búud% k̲'awáay Indeclinable "boat planking" ;
+búud% ján Indec "a boat's gunwale (the top edge of the side of the boat)" ;
+búud% k̲'awáay Indec "boat planking" ;
 búud% náay Common "boat house, boat shed" ; ! def búud nagáay
-búud% sangíinaay Indeclinable "boat nail" ;
-búud% stl'áng Indeclinable "bottom surface of a boat (inside or outside)" ;
-búud% tlaawhláa% 'la'áay Indeclinable "boatbuilder (sg)" ; ! pl búud tlaawhláa 'la'áaylang
-búud% ts'ée'ii Indeclinable "boatcrew" ;
+búud% sangíinaay Indec "boat nail" ;
+búud% stl'áng Indec "bottom surface of a boat (inside or outside)" ;
+búud% tlaawhláa% 'la'áay Indec "boatbuilder (sg)" ; ! pl búud tlaawhláa 'la'áaylang
+búud% ts'ée'ii Indec "boatcrew" ;
 bén% kílaa Common "pain killer" ; ! def bén kílaagaay
 cha% k'adáang Common "Indian cheese, stink eggs (dog salmon eggs smoked in the skein, mashed, packed tightly in a wooden box or seal stomach, and aged)" ; ! def cha k'adangáay
-cha% sgunáa Indeclinable "loose aged salmon eggs" ;
-cha% skáangandaa Indeclinable "loose aged salmon eggs" ;
+cha% sgunáa Indec "loose aged salmon eggs" ;
+cha% skáangandaa Indec "loose aged salmon eggs" ;
 cha Common "fish eggs, fish roe" ; ! def cháay ! clsf skáa (one egg), sk'a (skein)
 cha Common "bare threads of material after the nap has worn off" ; ! def cháay
-chaagáay Indeclinable "one's living conditions, financial status" ;
-chaan% gin-gáay Indeclinable "sea organism, sea creature, or the remains thereof" ;
-chaan% gyáay Indeclinable "ambergris (substance produced in the digestive tract of whales)" ;
+chaagáay Indec "one's living conditions, financial status" ;
+chaan% gin-gáay Indec "sea organism, sea creature, or the remains thereof" ;
+chaan% gyáay Indec "ambergris (substance produced in the digestive tract of whales)" ;
 chaan% k̲áw Common "species of sea squirt" ;
-chaan% sg̲áanuwaay Indeclinable "sea monster" ;
-chaan% sk'aawáay Indeclinable "water-soaked wood lying underwater" ;
-chaan% sk'áawaay Indeclinable "water-logged wood which becomes very hard and is used for spears" ;
-chaan% sk'a'áangwaay Indeclinable "water-soaked wood lying underwater" ;
-chaan% tangáay Indeclinable "seawater, saltwater" ;
-chaan% táayaay Indeclinable "species of rockfish (probably canary rockfish)" ;
-chaan% tl'ánts'uud Indeclinable "horned grebe" ;
-chaan% xúujaay Indeclinable "sea grizzly bear (mythical creature)" ;
-chaan% x̲áay Indeclinable "sea dog (mythical creature)" ;
-chaansíi Indeclinable "area in the ocean near shore" ;
+chaan% sg̲áanuwaay Indec "sea monster" ;
+chaan% sk'aawáay Indec "water-soaked wood lying underwater" ;
+chaan% sk'áawaay Indec "water-logged wood which becomes very hard and is used for spears" ;
+chaan% sk'a'áangwaay Indec "water-soaked wood lying underwater" ;
+chaan% tangáay Indec "seawater, saltwater" ;
+chaan% táayaay Indec "species of rockfish (probably canary rockfish)" ;
+chaan% tl'ánts'uud Indec "horned grebe" ;
+chaan% xúujaay Indec "sea grizzly bear (mythical creature)" ;
+chaan% x̲áay Indec "sea dog (mythical creature)" ;
+chaansíi Indec "area in the ocean near shore" ;
 chaatl'+CL/Shape+CL/sk̲'a:chaatl' Common "sword, lance, lance point, bayonet" ; ! def chaatl'áay
 chaaw+CL/Shape+CL/g̲a:chaaw Common "tide, beach exposed by the outgoing tide" ; ! def chaawáay
 chaaw Common "seafood gathered from the intertidal zone" ; ! def chaawáay
-chaaw% an% ináas Indeclinable "the high tide on the full moon in May" ;
-chaaw% k̲'áahlaandaay Indeclinable "the smell of the beach at low tide" ;
+chaaw% an% ináas Indec "the high tide on the full moon in May" ;
+chaaw% k̲'áahlaandaay Indec "the smell of the beach at low tide" ;
 chaaw% k̲'áal Common "empty shellfish shell" ; ! def chaaw k̲'áalgaay
-chaaw% salíi Indeclinable "beach, intertidal zone, beach area that is exposed at low tide" ;
-chagánsaan% x̲áw Indeclinable "stale urine" ;
+chaaw% salíi Indec "beach, intertidal zone, beach area that is exposed at low tide" ;
+chagánsaan% x̲áw Indec "stale urine" ;
 chagánsaan Common "male urine; stale urine" ; ! def chagánsanaay
 chagánsaan+CL/Shape+CL/ts'as:chagánsaan Common "chamber pot, peepot" ; ! def chagánsanaay
 chagánsaan BodyPart "amniotic fluid" ;
 chagánsaanaa BodyPart "one's stale urine" ;
 chagúu Common "monkey" ;
 chaj+CL/Shape+CL/sk̲'a:chaj BodyPart "one's penis" ; ! rfx chajáng
-chaj% x̲awáa% xayáang% x̲it'adáay Indeclinable "fox sparrow" ;
+chaj% x̲awáa% xayáang% x̲it'adáay Indec "fox sparrow" ;
 chan Kinterm "one's grandfather" ;
 chanhúus Common "snow, ooligan grease and sugar mixed with aged smoked salmon eggs" ; ! def chanhúusgaay
 chask'w Common "moose, moosehide" ; ! def chask'wáay
 chat'íisk'w+CL/Shape+CL/cha:chat'íisk'w Common "hide body armor" ; ! def chat'íisk'waay
 cháagaas Common "checkers" ; ! def cháagaasgaay
-cháaj% náay+CL/Shape+CL/tíi:cháaj% náay Indeclinable "church building" ;
+cháaj% náay+CL/Shape+CL/tíi:cháaj% náay Indec "church building" ;
 Cháalamaan Common "Chinese people" ; ! def Cháalamaan.gaay, ~Cháalaman.gaay
 Cháalamaan% k'úug+CL/Shape+CL/k̲'íi:Cháalamaan% k'úug Common "demijohn, carboy (a large bottle with a narrow neck, often encased in wicker)" ; ! def Cháalamaan k'úugaay
-Cháalamaan% k'úunaay+CL/Shape+CL/tl'a:Cháalamaan% k'úunaay Indeclinable "(a pair of) jeans" ;
+Cháalamaan% k'úunaay+CL/Shape+CL/tl'a:Cháalamaan% k'úunaay Indec "(a pair of) jeans" ;
 cháaliis+CL/Shape+CL/skáa:cháaliis Common "cherry" ; ! def cháaliisgaay
 cháan Common "mud, soil" ; ! def cháanaay
 cháanaang Common "black cottonwood (tree or wood)" ; ! def cháanangaay
-cháantl'adaang Indeclinable "a muddy place" ;
+cháantl'adaang Indec "a muddy place" ;
 cháanuud+CL/Shape+CL/sg̲a:cháanuud Common "fall, autumn (lit. mud season)" ; ! def cháanuudgaay
 cháay BodyPart "one's kidney" ; ! rfx cháayang
 chán% x̲aa Common "fertilizer" ; ! def chán x̲aagáay
 chánaang Common "the first day of a 'Wáahlaal potlatch" ; ! def chánangaay
-chánhlk'aa% tl'úwaan Indeclinable "tunnel-type fish trap (below falls)" ;
+chánhlk'aa% tl'úwaan Indec "tunnel-type fish trap (below falls)" ;
 chánsgwaan Common "the smell of stale urine" ; ! def chánsgunaay
 chiidáaw Common "rain water catcher" ;
 chiis Common "cheese" ; ! def chiisgáay
-chiyáa% da'áawaay+CL/Shape+CL/sk'a:chiyáa% da'áawaay Indeclinable "eavestrough" ;
-chiyáa% da'áawaay+CL/Shape+CL/hlgi:chiyáa% da'áawaay Indeclinable "rain barrel" ;
+chiyáa% da'áawaay+CL/Shape+CL/sk'a:chiyáa% da'áawaay Indec "eavestrough" ;
+chiyáa% da'áawaay+CL/Shape+CL/hlgi:chiyáa% da'áawaay Indec "rain barrel" ;
 chiyáa% x̲áw Common "rainwater (dripping from the roof)" ; ! def chiyáa x̲áwgaay
 chíigang% x̲áw BodyPart "fresh urine" ; !noun-ip/ap
-chíihluu Indeclinable "the half that was next to the tree after cedar bark is split" ;
+chíihluu Indec "the half that was next to the tree after cedar bark is split" ;
 chíin Common "fish, particularly salmon" ; ! def chíinaay
-chíin% danáay Indeclinable "place where one easily catches salmon" ;
-chíin% dáng% gyaat'áawaay Indeclinable "fish brailer" ;
+chíin% danáay Indec "place where one easily catches salmon" ;
+chíin% dáng% gyaat'áawaay Indec "fish brailer" ;
 chíin% gíit'ii Common "salmon fry" ; ! def chíin gíit'iigaay, ~chíin gíit'ii
-chíin% g̲asdlats'áawaay Indeclinable "broiling pan" ;
-chíin% ki% dáangwaay+CL/Shape+CL/sk̲'a:chíin% ki% dáangwaay Indeclinable "fish pitch" ;
-chíin% kit'íisk'waay+CL/Shape+CL/sk̲'a:chíin% kit'íisk'waay Indeclinable "small stick poked through split fish (two sticks per fish) to keep it straight" ;
-chíin% kit'uwáay+CL/Shape+CL/sk̲'a:chíin% kit'uwáay Indeclinable "salmon harpoon" ;
-chíin% kínhlaawaay Indeclinable "salmon spear" ;
-chíin% kún Indeclinable "grizzle, fish nose" ;
+chíin% g̲asdlats'áawaay Indec "broiling pan" ;
+chíin% ki% dáangwaay+CL/Shape+CL/sk̲'a:chíin% ki% dáangwaay Indec "fish pitch" ;
+chíin% kit'íisk'waay+CL/Shape+CL/sk̲'a:chíin% kit'íisk'waay Indec "small stick poked through split fish (two sticks per fish) to keep it straight" ;
+chíin% kit'uwáay+CL/Shape+CL/sk̲'a:chíin% kit'uwáay Indec "salmon harpoon" ;
+chíin% kínhlaawaay Indec "salmon spear" ;
+chíin% kún Indec "grizzle, fish nose" ;
 chíin% núud+CL/Shape+CL/sg̲a:chíin% núud Common "salmon season, spring" ; ! def chíin núudgaay
 chíin% sk̲am Common "fish trap" ; ! def chíin sk̲amáay
-chíin% táawaay Indeclinable "fish flesh" ; 
-chíin% tluwáa Indeclinable "unidentified species of salmon" ;
+chíin% táawaay Indec "fish flesh" ; 
+chíin% tluwáa Indec "unidentified species of salmon" ;
 chíin% ts'álawaay Common "scrap of salmon" ; ! def chíin ts'álawaay ~ chíin ts'álawaaygaay
-chíin% ts'uu'unáa Indeclinable "fish dressed with the spine out" ;
-chíin% xiláa Indeclinable "dried fish" ;
-chíin% tangáa% sk'ats'áangwaay Indeclinable "barrel for salted salmon" ;
-chíin% sk'ats'áangwaay Indeclinable "barrel for salted salmon" ;
+chíin% ts'uu'unáa Indec "fish dressed with the spine out" ;
+chíin% xiláa Indec "dried fish" ;
+chíin% tangáa% sk'ats'áangwaay Indec "barrel for salted salmon" ;
+chíin% sk'ats'áangwaay Indec "barrel for salted salmon" ;
 chúu+CL/Shape+CL/ja:chúu BodyPart "one's vulva" ; ! rfx chuwáng, def chuwáay
 chúu% t'áangal BodyPart "one's clitoris" ;
 chéen Common "chain" ; ! def chéen.gaay ! clsf t'a (short), sg̲a (long)
 da% g̲asdláaw+CL/Shape+CL/hlga:da% g̲asdláaw Common "hinge" ; ! def da g̲asdláawaay
 da% kúnhlaaw Common "match" ; ! def da kúnhlaawaay ! clsf sk̲'a (one), tl'a (book)
-da% sk̲'asgad Indeclinable "yard, fathom (of measurment)" ;
-da% tleed% stlagáay Indeclinable "medic alert bracelet" ;
-da% tleed Indeclinable "help, aid, assitance" ;
-ga% tla'íid Indeclinable "help, aid, assitance" ;
-daahlgáaw% k̲'áay Indeclinable "drill bit" ;
+da% sk̲'asgad Indec "yard, fathom (of measurment)" ;
+da% tleed% stlagáay Indec "medic alert bracelet" ;
+da% tleed Indec "help, aid, assitance" ;
+ga% tla'íid Indec "help, aid, assitance" ;
+daahlgáaw% k̲'áay Indec "drill bit" ;
 daayáats' Common "(brown) weasel, ermine" ; ! def daayáats'gaay
-dadgayáay Indeclinable "blizzard" ;
-dadgayáay Indeclinable "a bitter or acrid taste" ; ! noun-nom-ip
+dadgayáay Indec "blizzard" ;
+dadgayáay Indec "a bitter or acrid taste" ; ! noun-nom-ip
 dag+CL/Shape+CL/xa:dag Common "shrimp" ; ! def dagáay
 dagdag Common "woodpecker" ; ! def dagdagáay
 dagdagdiyáa Common "rufous hummingbird" ; ! def dagdagdiyáagaay
@@ -180,7 +181,7 @@ dagw BodyPart "one's strength" ; ! rfx dagwiigáang
 dagwiig BodyPart "shamanic spirit, power or familiar" ;
 dagwiig BodyPart "holy spirit" ;
 dagwiigáay BodyPart "one's strength" ; ! rfx dagwiigáang
-dagwiigáay Indeclinable "permission, authority" ;
+dagwiigáay Indec "permission, authority" ;
 dagwíi BodyPart "one's strength" ; ! rfx dagwiigáang
 dah+CL/Shape+CL/skáa:dah Common "cranberry" ; ! def dahgáay
 dahl% k̲wa'áay BodyPart "upper part of one's stomach" ;
@@ -188,13 +189,13 @@ dahl% k̲'ál BodyPart "the skin of one's abdomen" ;
 dahl% sg̲a'áay BodyPart "(one's) stomach worm, intestinal worm" ; ! noun-cpd-ip/ap
 dahljuwáng BodyPart "one's own stomach" ;
 dajáng+CL/Shape+CL/gu:dajáng Common "hat, cap, hood" ; ! def dajangáay
-dajáng% ki% k̲'íiyaawaay Indeclinable "weaving support stand for hats and baskets (consisting of a horizontal disk supported on a vertical stick)" ;
+dajáng% ki% k̲'íiyaawaay Indec "weaving support stand for hats and baskets (consisting of a horizontal disk supported on a vertical stick)" ;
 dajáng% kid% yaagaláa+CL/Shape+CL/gu:dajáng% kid% yaagaláa Common "umbrella" ; ! def dajáng kid yaagaláagaay
-dajáng% k'ud% kijuwáa Indeclinable "baseball cap" ;
-dajáng% k̲'áajaa Indeclinable "rain hat, slicker hat" ;
-dajáng% sgabjúu Indeclinable "bowler hat" ;
-dajáng% sgíilaa Indeclinable "spruce root hat with one or more potlatch rings" ;
-dajáng% stl'áng Indeclinable "crown of a hat (inside or outside)" ;
+dajáng% k'ud% kijuwáa Indec "baseball cap" ;
+dajáng% k̲'áajaa Indec "rain hat, slicker hat" ;
+dajáng% sgabjúu Indec "bowler hat" ;
+dajáng% sgíilaa Indec "spruce root hat with one or more potlatch rings" ;
+dajáng% stl'áng Indec "crown of a hat (inside or outside)" ;
 dal Common "sandhill crane" ; ! def daláay
 damáay BodyPart "one's ankle bone bump" ;
 dangáldgaa+CL/Shape+CL/sk̲'a:dangáldgaa Common "thimbleberry shoot" ; ! def dangáldgaay
@@ -205,31 +206,31 @@ dawúlsii BodyPart "side of sth." ;
 dáa Kinterm "brother of a female" ;
 dáagal+CL/Shape+CL/sg̲a:dáagal BodyPart "cord, string, rope attached to something" ;
 dáagal Common "bivalve mantle (a thin membrane that surrounds the body of the bivalve), kelp stipe" ;
-dáagda% xiláay Indeclinable "western buttercup" ;
+dáagda% xiláay Indec "western buttercup" ;
 dáalaa+CL/Shape+CL/k̲'íi:dáalaa Common "dollar, money, silver" ; ! def dáalaay
-dáalaa% gwaaláay+CL/Shape+CL/cha:dáalaa% gwaaláay Indeclinable "purse, handbag" ;
-dáalaa% gwaaláay+CL/Shape+CL/tl'a:dáalaa% gwaaláay Indeclinable "wallet" ;
-dáalaa% in'wáay+CL/Shape+CL/k̲'íi:dáalaa% gwaaláay Indeclinable "half-dollar, fifty cent piece" ;
+dáalaa% gwaaláay+CL/Shape+CL/cha:dáalaa% gwaaláay Indec "purse, handbag" ;
+dáalaa% gwaaláay+CL/Shape+CL/tl'a:dáalaa% gwaaláay Indec "wallet" ;
+dáalaa% in'wáay+CL/Shape+CL/k̲'íi:dáalaa% gwaaláay Indec "half-dollar, fifty cent piece" ;
 dáalaa% náay Common "bank" ; ! def dáalaa nagáay
 dáalaa% stlagáa Common "silver bracelet" ; ! def dáalaa stlagáay ! clsf sda, sga
-dáalaa% stliihl'wáay Indeclinable "silver ring" ; ! clsf sga, sda
-dáalaa% 'la'áay Indeclinable "banker, treasurer (sg)" ; ! plu dáalaa 'la'áaylang
+dáalaa% stliihl'wáay Indec "silver ring" ; ! clsf sga, sda
+dáalaa% 'la'áay Indec "banker, treasurer (sg)" ; ! plu dáalaa 'la'áaylang
 dáalt'iis'uu Common "strainer, filter" ; ! def dáalt'iis'uwaay ! clsf xa, g̲a
 dáas+CL/Shape+CL/stl'a:dáas Common "ember, burning coal, spark" ; ! def dáajaay
 dáats' Common "winter wren" ;
 dáaw Common "the working edge of an item that is being woven" ;
 dáaw% tl'ahl Common "pestle" ;
-dáawgaay Indeclinable "invitation" ;
-dáawgaay Indeclinable "dinner, feast" ;
+dáawgaay Indec "invitation" ;
+dáawgaay Indec "dinner, feast" ;
 dáayaangw+CL/Shape+CL/gi:dáayaangw Common "flag" ; ! def dáayaangwaay
-dáayaangwaa+CL/Shape+CL/gi:dáayaangwaa Indeclinable "the flag of X" ;
-dáayang% náay Indeclinable "dining room" ;
+dáayaangwaa+CL/Shape+CL/gi:dáayaangwaa Indec "the flag of X" ;
+dáayang% náay Indec "dining room" ;
 dáayuu+CL/Shape+CL/sk̲'a:dáayuu Common "pole for skidding a canoe over in order to ease friction while transporting it over land" ; ! def dáaywaay
 dáayuu+CL/Shape+CL/g̲a:dáayuu Common "board for skidding a canoe over in order to ease friction while transporting it over land" ; ! def dáaywaay
 dáa'aa Common "ledge around a housepit" ; ! def dáa'aay ! clsf sda, sga
 da'áang Common "design, figure, representation of something" ; ! def daangáay
 da'áaw Common "a keeper, holder (for something)" ; ! def da'áawaay
-da'áaw% náay Indeclinable "storehouse" ; ! def da'áaw nagáay
+da'áaw% náay Indec "storehouse" ; ! def da'áaw nagáay
 dál% x̲aw+CL/Shape+CL/sk̲'a:dál% x̲aw Common "species of horsetail" ; ! def dál x̲awgáay
 dál+CL/Shape+CL/cha:dál BodyPart "one's abdomen, belly, stomach (organ)" ;
 dál Common "rain, drizzle, precipitation" ; ! def daláay
@@ -246,26 +247,26 @@ dáng% skáajuulaangw+CL/Shape+CL/skáa:dáng% skáajuulaangw Common "handm
 dáng% sk'ahláalw+CL/Shape+CL/tl'a:dáng% sk'ahláalw Common "corset" ; ! def dáng sk'ahláalwaay
 dáng% tl'anáanw+CL/Shape+CL/tl'a:dáng% tl'anáanw Common "leather thumb protector for handtrolling" ; ! def dáng tl'anáanuwaay
 dáng% ts'asdlatl'a'áaw+CL/Shape+CL/ts'as:dáng% ts'asdlatl'a'áaw Common "drawer" ; ! def dáng ts'asdlatl'a'áawaay
-dánhlaa% xiláay Indeclinable "unknown species of plant" ;
+dánhlaa% xiláay Indec "unknown species of plant" ;
 dánhlaalw Common "scriber used in making canoes" ; ! def dánhlaalwaay
 dánhlaaw Common "stick used in skinning spruce roots" ;
 dánjaaw+CL/Shape+CL/hlga:dánjaaw Common "gaff hook" ; ! def dánjaawaay
-dánjaaw% sk̲'áangwaay+CL/Shape+CL/sk̲'a:dánjaaw% sk̲'áangwaay Indeclinable "long-handled gaff hook" ;
+dánjaaw% sk̲'áangwaay+CL/Shape+CL/sk̲'a:dánjaaw% sk̲'áangwaay Indec "long-handled gaff hook" ;
 dánst'aaw Common "ball puller (used to remove a ball from the barrel of a muzzle-loading firearm)" ; ! def dánst'aawaay
 Didgwáa% Gwáayaay Proper "Haida Gwaii" ;
-didgwsíi Indeclinable "area back towards the woods" ;
+didgwsíi Indec "area back towards the woods" ;
 dinax̂ Common "kinnikinnick berry" ;
 díi% gwaa% t'amíi Common "dragonfly" ; ! def díi gwaa t'amíigaay
 díidaan Common "bluefly, bluebottle fly, blowfly" ; ! def díidanaay
-díideed% k'yuwáay Indeclinable "trail in the woods (parallel to the beach)" ;
+díideed% k'yuwáay Indec "trail in the woods (parallel to the beach)" ;
 díin Common "cave, rock tunnel" ; ! def díinaay
-díin% x̲íilaa Indeclinable "cave" ;
+díin% x̲íilaa Indec "cave" ;
 dlagw+CL/Shape+CL/sk̲'a:dlagw Common "digging stick, spade" ; ! def dlagwáay
 dlajgáaw+CL/Shape+CL/t'a:dlajgáaw Common "belt" ; ! def dlajgáawaay
 dláad Common "halibut eggs, red snapper eggs" ; ! def dláadaay ! clsf tl'ad (small skein), tl'áam (big skein)
 dláamaal Common "licorice fern" ; ! def dláamalaay ! clsf hlk̲'a (frond), k̲'uhl, hlk̲'uhl (plant)
 dláay BodyPart "body" ;
-dláay% 'lagáay Indeclinable "the young people" ;
+dláay% 'lagáay Indec "the young people" ;
 dlán+CL/Shape+CL/sg̲a:dlán BodyPart "arm or tentacle of an octopus" ;
 dliyáa Common "fringe" ; ! def dliyáay
 dlíi'aa Common "flint" ;
@@ -273,11 +274,11 @@ dúuduu'aayaangaa Common "dragonfly" ; ! def dúuduu'aayaangaagaay
 dúun Kinterm "younger sibling of the same sex (younger brother of a male, younger sister of a female)" ;
 dúus Common "cat" ; ! def dúujaay
 dúus% gíit'ii Common "kitten" ; ! def dúujaay gíit'ii(gaay)
-ga% áahljaaw Indeclinable "a time of death" ;
+ga% áahljaaw Indec "a time of death" ;
 ga% chíisd+CL/Shape+CL/cha:ga% chíisd Common "large float used in halibut fishing" ; ! def ga chíisdgaay
-ga% sk̲ál% k'ats'aláasgaay Indeclinable "the sailors" ;
-ga% st'igagáa% aa% ga% tla'ándaas Indeclinable "nurse" ;
-ga% 'la'áa% tluwáay Indeclinable "peace-making canoe" ;
+ga% sk̲ál% k'ats'aláasgaay Indec "the sailors" ;
+ga% st'igagáa% aa% ga% tla'ándaas Indec "nurse" ;
+ga% 'la'áa% tluwáay Indec "peace-making canoe" ;
 gaambúuds Common "boots" ;
 gab Common "spcies of seaweed" ;
 gabée+CL/Shape+CL/k̲'íi:gabée Common "gaint Pacific scallop" ; ! def gabéegaay
@@ -289,28 +290,28 @@ galíibs+CL/Shape+CL/hlk̲'uhl:galíibs Common "bunch of grapes" ; ! def gali�
 Gasa'áan Proper "Kasaan" ;
 Gasa'áan% G̲áwtlaa Proper "New Kasaan" ;
 Gask̲úu Proper "Forrester Island" ;
-Gask̲úu% sg̲alangáay Indeclinable "Forrester Island song" ;
+Gask̲úu% sg̲alangáay Indec "Forrester Island song" ;
 gatáa% k̲'wáal Common "fruit course served at a feast" ; ! def gatáa k̲'wáalgaay
 gatáa% náay Common "restaurant, mess hall" ; ! def gatáa nagáay
-gatáa% saa% xyáahl Indeclinable "entertainment dance for those eating during a potlatch" ;
-gatáa% sg̲alangáay Indeclinable "song sung as food is served to guests at a potlatch" ;
+gatáa% saa% xyáahl Indec "entertainment dance for those eating during a potlatch" ;
+gatáa% sg̲alangáay Indec "song sung as food is served to guests at a potlatch" ;
 gatáadaan+CL/Shape+CL/hlg̲a:gatáadaan Common "table" ; ! def gatáadanaay
 gatáaw+CL/Shape+CL/hlga:gatáaw Common "fork" ; ! def gatáawaay
-gatáaw% tla% xahldáawaay Indeclinable "silver polish" ;
+gatáaw% tla% xahldáawaay Indec "silver polish" ;
 gawíid+CL/Shape+CL/skáa:gawíid Common "round bead" ; ! def gawadáay
 gawíid+CL/Shape+CL/sk'a:gawíid Common "cylindrical bead" ; ! def gawadáay
-gawíid% stlíinaay Indeclinable "beading needle" ;
+gawíid% stlíinaay Indec "beading needle" ;
 gáadas+CL/Shape+CL/sk'a:gáadas Common "garter" ; ! def gáadasgaay
 gáalaang Common "fight, feud, war" ; ! def gáalangaay
 gáats' Common "house post" ; ! def gáats'aay
 gáawx̂ Common "species of scoter" ;
 gáayaang Common "oil or grease typically stored in a large storage box" ; ! def gáayangaay ! clsf ts'as
-gáayangaay Indeclinable "the edge of the sea" ;
-gáwjaaw% sgidáangwaay+CL/Shape+CL/sk'a:gáwjaaw% sgidáangwaay Indeclinable "drumstick" ;
+gáayangaay Indec "the edge of the sea" ;
+gáwjaaw% sgidáangwaay+CL/Shape+CL/sk'a:gáwjaaw% sgidáangwaay Indec "drumstick" ;
 gáwjaaw Common "drum" ; ! def gáwjuwaay, ~gáwjaawaay 
 gáwjaaw+CL/Shape+CL/ts'as:gáwjaaw Common "box drum" ; ! def gáwjuwaay, ~gáwjaawaay 
 gáwjaaw+CL/Shape+CL/k̲'íi:gáwjaaw Common "drum skin" ; ! def gáwjuwaay, ~gáwjaawaay 
-gáwjaawaay% g̲aduyáay Indeclinable "beat (of a song)" ;
+gáwjaawaay% g̲aduyáay Indec "beat (of a song)" ;
 gi% ts'ángwaalw+CL/Shape+CL/sk'a:gi% ts'ángwaalw Common "eyedropper" ; ! def gi ts'ángwaalwaay
 gid+CL/Shape+CL/dla:gid Kinterm "baby, child" ; ! gid'aláng
 gid Common "doll" ; ! def gidáay
@@ -318,13 +319,13 @@ gid% dlat'íisaa BodyPart "womb" ;
 gid% g̲agáan Common "lullaby" ; ! def gid g̲aganáay
 gid% g̲agáandaaw Common "lullaby" ; ! def gid g̲agáandaawaay
 gid% g̲ut'íisk'w Common "diaper" ;
-gid% in'wáay Indeclinable "afterbirth" ;
+gid% in'wáay Indec "afterbirth" ;
 gid% íihlangaas Kinterm "one's son" ;
 gid% jáa Kinterm "one's daughter-in-law" ;
 gid% jáadaas Kinterm "one's daughter" ;
 gid% k̲agáan Common "lullaby" ; ! def gid k̲aganáay
 gidaag Common "goods, property, gifts given away at a potlatch" ; ! def gidaagáay
-gidaag% sg̲alangáay Indeclinable "property song" ;
+gidaag% sg̲alangáay Indec "property song" ;
 Gidg̲áahlaas Proper "Kitkatla people, Southern Tsimshian people" ;
 gigáangw+CL/Shape+CL/skáa:gigáangw Common "float or cork of a net" ; ! def gigáangwaay
 gigw+CL/Shape+CL/sk̲'a:gigw Common "straight handle" ; ! def gigwáay, ~giguláay
@@ -332,33 +333,33 @@ gigw+CL/Shape+CL/sda:gigw Common "arc-shaped handle" ; ! def gigwáay, ~gigula�
 gigw+CL/Shape+CL/hlga:gigw Common "handle (as on a bicycle or pair of scissors)" ; ! def gigwáay, ~giguláay
 gigw+CL/Shape+CL/sk̲'a:gigw Common "pistol grip" ; ! def gigwáay, ~giguláay
 gihláaw Common "gunsight" ; ! def gihláawaay
-gihlgaláay Indeclinable "coil; bun (of hair)" ;
+gihlgaláay Indec "coil; bun (of hair)" ;
 giid Common "medium-sized red cedar tree; cambium or inner bark of a medium-sized red cedar tree, typically used for weaving" ; ! def giidáay
-giid% dajáangaa Indeclinable "cedar bark hat" ;
+giid% dajáangaa Indec "cedar bark hat" ;
 giid% dúu Common "cedar bark woof" ; ! def giidáay dúu
 giid% hlíing Common "long, fine roots of a medium-sized red cedar tree" ; ! def giidáay hlíing (if it follows giid dúu)
-giidáandanaay Indeclinable "place for gathering red cedar cambium" ;
+giidáandanaay Indec "place for gathering red cedar cambium" ;
 giidáaw Common "rattle (for dancing, or as used by traditional doctors)" ; ! def giidáawaay
-gijáawaang Indeclinable "one's own giving out of food" ;
+gijáawaang Indec "one's own giving out of food" ;
 gijgad Common "knob, grip" ;
 gijgíit'uu Common "knob, grip, handle (of the type on the end of a box or trunk)" ; ! def gijgíit'uwaay
 Gijx̂áan Proper "Ketchikan" ;
 gin Common "something, things (singular or plural)" ; ! def gin-gáay
-gin% dadgáa Indeclinable "hard liquor" ;
-gin% dángiit'uwaay Indeclinable "gurdie, winch, block and tackle" ;
-gin% eehl% náanggaa Indeclinable "toy, plaything" ;
-gin% ga% áahljaaw Indeclinable "a doing" ;
-gin% gíi% hlk'uuwáansdlagangs Indeclinable "sponge skeleton" ;
-gin% gya'ándaa% hlangaay Indeclinable "clothing, article of clothing, clothes" ;
-gin% ínggws% gatáagang Indeclinable "table" ;
-gin% jat'úu% hlg̲asdliyáa+CL/Shape+CL/hlg̲a:gin% jat'úu% hlg̲asdliyáa Indeclinable "raft" ;
-gin% kitl'áawaay Indeclinable "scoop" ;
-gin% kiyáa Indeclinable "aluminum" ;
-gin% k̲án% x̲ugangáa Indeclinable "necklace" ;
-gin% k̲'ál% g̲awáas+CL/Shape+CL/skáa:gin% k̲'ál% g̲awáas Indeclinable "peach" ;
+gin% dadgáa Indec "hard liquor" ;
+gin% dángiit'uwaay Indec "gurdie, winch, block and tackle" ;
+gin% eehl% náanggaa Indec "toy, plaything" ;
+gin% ga% áahljaaw Indec "a doing" ;
+gin% gíi% hlk'uuwáansdlagangs Indec "sponge skeleton" ;
+gin% gya'ándaa% hlangaay Indec "clothing, article of clothing, clothes" ;
+gin% ínggws% gatáagang Indec "table" ;
+gin% jat'úu% hlg̲asdliyáa+CL/Shape+CL/hlg̲a:gin% jat'úu% hlg̲asdliyáa Indec "raft" ;
+gin% kitl'áawaay Indec "scoop" ;
+gin% kiyáa Indec "aluminum" ;
+gin% k̲án% x̲ugangáa Indec "necklace" ;
+gin% k̲'ál% g̲awáas+CL/Shape+CL/skáa:gin% k̲'ál% g̲awáas Indec "peach" ;
 gin% k̲'ál% ki% hltánaawaay+CL/Shape+CL/g̲a:gin% k̲'ál% ki% hltánaawaay Indec "hide scraper" ;
 gin% k̲'ál% sgunáas+CL/Shape+CL/skáa:gin% k̲'ál% sgunáas Indec "orange" ;
-gin% k̲'wa'áa% han Indec "all kinds of miscellaneous junk: ;
+gin% k̲'wa'áa% han Indec "all kinds of miscellaneous junk" ;
 gin% néel% sg̲áanuwaay Indec "a drunkard, alcoholic" ;
 gin% néelgaa Indec "hard liquor" ;
 gin% sk̲'at'adáa% 'la'áay Human "teacher" ; ! pl: gin sk̲'at'adáa 'la'áaylang
@@ -385,7 +386,7 @@ gíijaaw Common "large float (e.g. halibut float); life preserver, life jacket,
 gíinaangw+CL/Shape+CL/sk̲'a:gíinaangw Common "oar" ; ! def gíinaangwaay
 gíinaangw% k'yuusíi Indec "oarlock" ;
 gíits'aad Common "servant, disciple, crew" ; ! def gíits'adaay
-gíit'ii Kinterm "an animal's offspring, young" ; rfx: gíit'aang
+gíit'ii Kinterm "an animal's offspring, young" ; ! rfx: gíit'aang
 gíiyaa Indec "dry, dead spruce branch" ;
 gíiyaaw Common "large triangular or square fish trap" ; ! def gíiyuwaay
 gíiyaaw% sk̲'áangwaay Indec "horizontal poles making up the frame of a large fish trap" ;
@@ -403,7 +404,7 @@ gínt'as% sk'agáas Indec "Hudson's Bay blanket with multi-colored stripes" ;
 gu% isdáa Common "war, fight, feud" ; ! def gu isdáay
 gu% isdáa% sg̲alangáay Indec "war song" ;
 gudahldiyáay Indec "results of an evaluation, considered opinion" ;
-gudangáay BodyPart "one's mind, thoughts, feelings" ; rfx gudangáang
+gudangáay BodyPart "one's mind, thoughts, feelings" ; ! rfx gudangáang
 gudáang Common "mind, thoughts, feelings" ; ! def gudangáay ???
 gudáang% st'i Indec "sadness" ;
 gudáang% 'láa Indec "joy" ;
@@ -500,14 +501,14 @@ gyáa'aang+CL/Shape+CL/hlgi:gyáa' Common-AANG "full-sized totem pole, housefr
 gyáa'aang+CL/Shape+CL/sk'a:gyáa' Common-AANG "model totem pole, housefront pole" ; ! def gyáa'angaay
 gya'áang% sg̲agadáay Indec "line of standing people (sg)" ;
 gya'áang% sg̲agíidangaay Indec "lines of standing people" ;
-gya'áangw+CL/Shape+CL/gi:gya'áangw "cloth, material, sail" ; ! def gya'áangwaay
+gya'áangw+CL/Shape+CL/gi:gya'áangw Common "cloth, material, sail" ; ! def gya'áangwaay
 gya'áangw% da% sk̲'asgadáa S-Def "dress goods" ;
 gya'áangw% hlkáak'aa S-Def "cheesecloth" ;
 gya'áangw% nagáay% sk̲'áangw+CL/Shape+CL/sk̲'a:gya'áangw% nagáay% sk̲'áangw Common "tentpole" ; ! def gya'áangw nagáay sk̲'áangwaay
-gya'áangw% náay:gya'áangw% n NAAY "tent" ! def gya'áangw nagáay
+gya'áangw% náay:gya'áangw% n NAAY "tent" ; ! def gya'áangw nagáay
 gya'áangw% sk̲'áangwaay+CL/Shape+CL/sk̲'a:gya'áangw% sk̲'áangwaay Indec "a ship's mast" ;
-gya'áangw taláay Indec "gooseneck (metal rings) on a mast or spar, through which the sail is laced" ;
-! gya'áaw+CL/Shape+CL/g̲a:gya'áaw Common "berry patch that is owned by someone" ; ! def gyaawáay
+gya'áangw% taláay Indec "gooseneck (metal rings) on a mast or spar, through which the sail is laced" ;
+gya'áaw+CL/Shape+CL/g̲a:gya'áaw Common "berry patch that is owned by someone" ; ! def gyaawáay
 gya'ándaaw Common "clothes, clothing" ; ! def gya'ándaawaay
 gya'ánsk'w Common "clothes, apparel" ; ! def gya'ánsk'waay
 gyuudáan:gyuud Common-AAN "horse" ; ! def gyuudanáay
@@ -516,23 +517,23 @@ gyuudáan% k̲'aláax̂an-gaay Indec "horse corral" ;
 gyuudáan% sgidáangwaay+CL/Shape+CL/sg̲a:gyuudáan% sgidáangwaay Indec "horsewhip" ;
 gyuudáan% st'áay+CL/Shape+CL/hlga:gyuudáan% st'áay GAAY "horseshoe" ; ! def gyuudáan st'áaygaay
 gyúu% hlk̲ún BodyPart "the upper part of one's ear, one's pinna" ;
-gyúu% sdajáaw Common "earring" ; def not attested, just assumed
+gyúu% sdajáaw Common "earring" ; ! def not attested just assumed
 gyúu% skáa'awaay Indec "ear-like handles on a baking dish" ;
 gyúu% st'áay BodyPart "one's earlobe" ; ! rfx gyuwáng st'áay
 gyúu% ts'ak'íi BodyPart "the area of one's occipital bone" ;
 gyúu% x̲íilaangaay BodyPart "holes in one's earlobe" ;
-gyúu% x̲íilayaay Body Part "hole in one's earlobe" ;
+gyúu% x̲íilayaay BodyPart "hole in one's earlobe" ;
 gyúu+CL/Shape+CL/g̲a:gy Common-UU "fishing bank, fishing ground" ; ! def gyuwáay
 gyúu+CL/Shape+CL/g̲a:gyúu BodyPart "one's ear" ; ! rfx gyuwáng
 gyúu BodyPart "hammer of a firearm" ;
-gyúu:gy Common-UU "halibut site marking buoy" ; def (gyuwáay) not attested, just assumed
+gyúu:gy Common-UU "halibut site marking buoy" ; ! def (gyuwáay) not attested, just assumed
 ! gyúudaanaa+CL/Shape+CL/k̲'íi:gyúudaanaa GAAY "moonsnail" ; ! def gyúudaanagaay
 gyúugaa:gyúug Y-Def "earring" ; ! def gyúugaay
 ! gyúugädaagaa GAAY "horned grebe" ; ! def of gyúugädaagagaay is inferred from jellyfish
 g̲a% hlg̲ak'adáang% sg̲alangáay Indec "shrug-the-shoulders song" ;
 g̲a% hlk'ujáaw+CL/Shape+CL/gi:g̲a% hlk'ujáaw Common "white Hudson's Bay blanket or potlatch blanket" ; ! def g̲a hlk'ujáawaay
 g̲a% sk'aaysláangw+CL/Shape+CL/sk'a:g̲a% sk'aaysláangw Common "baby's cradle, baby's hammock" ; ! def g̲a sk'aaysláangwaay
-g̲a% sk'at'íisk'w Common "papoose board" ; def assumed, not attested
+g̲a% sk'at'íisk'w Common "papoose board" ; ! def assumed, not attested
 g̲a% sk'ayáangw+CL/Shape+CL/sk'a:g̲a% sk'ayáangw Common "(baby's) hammock" ; ! def g̲a sk'ayáangwaay
 g̲a% sk'a'áangw+CL/Shape+CL/sk'a:g̲a% sk'a'áangw Common "cradle" ; ! def g̲a sk'a'áangwaay
 g̲a% tl'ajáaw+CL/Shape+CL/tl'a:g̲a% tl'ajáaw Common "tin, sheet metal" ; ! def g̲a tl'ajáawaay
@@ -555,7 +556,7 @@ g̲adgáats'aaw+CL/Shape+CL/g̲a:gadgáats'aaw Common "window" ; ! def g̲adga
 g̲adgáats'aaw% t'áahl% gya'áangwaay+CL/Shape+CL/gi:g̲adgáats'aaw% t'áahl% gya'áangwaay Indec "curtain, drape" ;
 g̲adgáay Indec "light, daylight" ;
 g̲agadáay Indec "the coast, stretch of coastline" ;
-g̲agasdláaw+CL/Shape+CL/hlg̲a:g̲agasdláaw Common "floating bird snare made of a noose on a wooden frame" ; no def attested, just assumed
+g̲agasdláaw+CL/Shape+CL/hlg̲a:g̲agasdláaw Common "floating bird snare made of a noose on a wooden frame" ; ! no def attested, just assumed
 g̲agasdláaw+CL/Shape+CL/g̲a:g̲agasdláaw Common "template or pattern for traditional design elements (e.g. ovoids)" ; ! def g̲agasdláawaay
 g̲agasdláaw+CL/Shape+CL/k̲'íi:g̲agasdláaw Common "model (e.g. for boat-building)" ; ! def g̲agasdláawaay
 g̲agán% xil Indec "leaves of Labrador tea" ;
@@ -599,7 +600,7 @@ g̲ayáaw% k'yuusíi Location "chimney" ;
 g̲ayáaw:g̲ay Common-AAW "smoke" ; ! def g̲ayuwáay
 g̲ayáaw+CL/Shape+CL/sk'a:g̲ayáaw Common "chimney, stovepipe" ; ! def g̲ayáawaay
 ! g̲ayáng BodyPart "one's own blood" ;
-g̲ayáng% sk'i'íi+CL/Shape+CL/sg̲a:g̲ayáng% sk'i'íi Body Part "blood vessel, vein, artery" ;
+g̲ayáng% sk'i'íi+CL/Shape+CL/sg̲a:g̲ayáng% sk'i'íi BodyPart "blood vessel, vein, artery" ;
 g̲ayánsk'yaaw+CL/Shape+CL/sg̲a:g̲ayánsk'yaaw BodyPart "one' s blood vessel, vein, artery" ;
 g̲ayd Common "(one's) ashes" ; ! def g̲aydáay
 g̲áadaang% náay:g̲áadaang% n NAAY "bathroom, bath house" ; ! def g̲áadaang nagáay
@@ -635,7 +636,7 @@ g̲áandaandanaay+CL/Shape+CL/tíi:g̲áandaandanaay Indec "bathroom" ;
 g̲áandaang BodyPart "physical feeling" ;
 g̲áandangaay Indec "physical feeling" ;
 g̲áasil Common "patch of ground" ; ! def g̲áasilaay
-g̲áay% chast'áaw Common "tool made of sea lion rib used to pierce thick sheets of cedar bark" ; no def attested, just assumed
+g̲áay% chast'áaw Common "tool made of sea lion rib used to pierce thick sheets of cedar bark" ; ! no def attested, just assumed
 ! g̲áay% na NAAY "shack made of thick cedar bark" ; ! def g̲áay náay
 g̲áay% ts'úu:g̲áay% ts' Common-UU "thick cambium for a good-sized red cedar" ; ! def g̲áay ts'uwáay
 g̲áay BodyPart "one's fat, blubber" ; ! rfx g̲áayang
@@ -651,11 +652,11 @@ g̲áa'aa+CL/Shape+CL/sk'a:g̲áa' Y-Def "canoe skid" ; ! def g̲áa'aay
 g̲ál:g̲á2l Common "blue mussel" ; ! def g̲aláay
 g̲ál% chagáangw+CL/Shape+CL/cha:g̲ál% chagáangw Common "totebag, knapsack" ; ! def g̲ál chagáangwaay
 g̲ál% hlg̲aawnáangw+CL/Shape+CL/hlg̲a:g̲ál% hlg̲aawnáangw Common "sled, sleigh, child's wagon" ; ! def g̲ál hlg̲aawnáangwaay
-g̲ál% sk'agáangw Common "powder horn" ; no def attested, just assumed
+g̲ál% sk'agáangw Common "powder horn" ; ! no def attested, just assumed
 g̲ál% tl'agáa:g̲ál% tl'ag Y-Def "totebag" ;
 g̲álun+CL/Shape+CL/skáa:g̲álun Common "currant (wild or cultivated)" ; ! def g̲álunaay
 g̲ámaal:g̲ám Common-AAL "wood shavings" ; ! def g̲ámalaay
-g̲ándl+CL/Shape+CL/sg̲a:g̲ándl "water, stream, river" ; ! def g̲ándlaay
+g̲ándl+CL/Shape+CL/sg̲a:g̲ándl Common "water, stream, river" ; ! def g̲ándlaay
 g̲ándl% dáng% kwahyáangwaay Indec "hand pump" ;
 g̲ándl% gyaat'áawaay+CL/Shape+CL/sk'a:g̲ándl% gyaat'áawaay Indec "water pitcher" ;
 g̲ándl% hlg̲eeláa S-Def "well" ;
@@ -676,7 +677,7 @@ g̲ándl% ts'úujuudgaa GAAY "mosquito wriggler, dipper, water ouzel" ; ! def 
 ! g̲ándl% t'áay Common "mouth of a river" ; ! def g̲ándlaay t'áay
 g̲ándl% xyáangs Indec "creek" ;
 g̲ándl% x̲íilaa S-Def "waterhole, spring, well" ;
-g̲ándlaay tláay Indec "the edge of the water" ;
+g̲ándlaay% tláay Indec "the edge of the water" ;
 g̲ánduu Common-UU "hair oil" ; 
 g̲ángk'an Common "coffee, tea" ; ! def g̲ángk'anaay
 ! g̲ángk'an% hlk'u'wíi Common "grounds (for coffee or tea)" ; ! def g̲ángkanaay hlk'u'wíi
@@ -700,11 +701,11 @@ g̲id% gihláalw+CL/Shape+CL/gi:g̲id% gihláalw Common "finely woven waterpro
 g̲idgáang Indec "one's own behavior" ;
 g̲idgáay Indec "the part in such-and-such direction" ;
 g̲ínuu:g̲ín Common-UU "bird down" ; ! def g̲ínuwaay
-g̲u% cha'áangw+CL/Shape+CL/cha:g̲u% cha'ángw "cushion" ; ! def g̲u cha'áangwaay
-g̲u% hlgahláanw+CL/Shape+CL/hlga:g̲u% hlgahláanw "saddle" ; ! def g̲u hlgahláanwaay
+g̲u% cha'áangw+CL/Shape+CL/cha:g̲u% cha'áangw Common "cushion" ; ! def g̲u cha'áangwaay
+g̲u% hlgahláanw+CL/Shape+CL/hlga:g̲u% hlgahláanw Common "saddle" ; ! def g̲u hlgahláanwaay
 g̲u% hlga'áangw% g̲u% k̲'aayslangáa S-Def "rocking chair" ;
 g̲u% hlga'áangw% hltanáa S-Def "easy chair" ;
-g̲u% hlga'áangw% jáng+CL/Shape+CL/hlga:g̲u% hlga'áangw% jáng "sofa, chesterfield" ;
+g̲u% hlga'áangw% jáng+CL/Shape+CL/hlga:g̲u% hlga'áangw% jáng S-Def "sofa, chesterfield" ;
 g̲u% hlga'áangw% k̲'íihlahldaaw Common "arms of an armchair" ; ! def not attested, just assumed
 g̲u% hlga'áangw% k̲'íihlaldaa S-Def "armchair, any chair with arms" ;
 g̲u% hlga'áangw% sk'ángandaa+CL/Shape+CL/sk'a:g̲u% hlga'áangw% sk'ángandaa S-Def "bench" ;
@@ -728,7 +729,7 @@ g̲ud% skuj BodyPart "one's pelvic bone" ; ! rfx g̲udáng skuj
 g̲ud+CL/Shape+CL/ts'as:g̲ud Common "box, trunk, coffin" ; ! def g̲udáay
 g̲ud+CL/Shape+CL/ja:g̲ud BodyPart "one's buttocks (of a human or bear)" ; ! rfx g̲udáng
 g̲ud BodyPart "stern of a boat" ;
-g̲ud BodyPart "the part of an island nearest to other land"
+g̲ud BodyPart "the part of an island nearest to other land" ;
 g̲udángaal:g̲udáng Common-AAL "stinging nettle" ; ! def g̲udángalaay
 g̲udángaal% aad Indec "net made of nettle fiber" ;
 g̲udgwáa% g̲agwíi% 'láanaa Indec "the very last one" ;
@@ -756,7 +757,7 @@ g̲úuj Common "wolf" ; ! def g̲úujaay
 g̲waadúu Indec "loose salmon eggs put in a seal stomach (or skunk cabbage leaves) and allowed to smoke and age" ;
 g̲waagáang Indec "an ache" ;
 g̲wáay Common "whole salmon eggs washed in fresh water until they turn white" ; ! def g̲wáayaay
-g̲wíihlgaalw+CL/Shape+CL/hlga:g̲wíihlgaalw "jackscrew, jack, screwdriver" ; ! def g̲wíigaalwaay
+g̲wíihlgaalw+CL/Shape+CL/hlga:g̲wíihlgaalw Common "jackscrew, jack, screwdriver" ; ! def g̲wíigaalwaay
 hajáa:haj GAAY-Short "Cassin's auklet" ; ! def hajgáay
 Hamíis Proper "a bogeyman" ;
 háabs GAAY "hops" ; ! def háabsgaay
@@ -796,7 +797,7 @@ hldánhl+CL/Shape+CL/hlk̲'uhl:hldánhl Common "blue huckleberry bush" ; ! def
 hldánhl+CL/Shape+CL/k̲'uhl:hldánhl Common "blue huckleberry bush" ; ! def hldánhlaay
 hldánts'iid:hldánts' Common-IID "rufous hummingbird" ; ! def hldánts'adaay
 hldíin Common "cedar bark" ; ! def hldíinaay
-hlgats'áangw+CL/Shape+CL/sk̲'a:hlgats'áangw Common "forked stick used as a support" ; no def attested, just assumed
+hlgats'áangw+CL/Shape+CL/sk̲'a:hlgats'áangw Common "forked stick used as a support" ; ! no def attested, just assumed
 hlgit'ún Common "Canada goose" ; ! def hlgit'unáay
 hlgit'ún Common "figure in the string game" ; ! def hlgit'unáay
 hlgit'ún% t'áangal Indec "saltgrass, goosetongue" ;
@@ -827,7 +828,7 @@ hlg̲áa% k'áldaang:hlg̲áa% k'áld Common-AANG "gravel" ; ! def hlg̲áa k
 hlg̲áalgaay BodyPart "bruise" ;
 hlg̲áalgahl Indec "dye" ;
 hlg̲áawaandlii GAAY "ballast" ; ! def hlg̲áawaandliigaay
-hlg̲áay hlk̲'a'áay Indec "squashberry (bush or branch), high-bush cranberry (bush or branch)" ; clsfs?
+hlg̲áay% hlk̲'a'áay Indec "squashberry (bush or branch), high-bush cranberry (bush or branch)" ; ! clsfs?
 hlg̲álg Common "black dye used for weaving materials" ; ! def hlg̲álgaay
 hlg̲án+CL/Shape+CL/tl'a:hlg̲á2n Common "whale's dorsal fin" ; ! def hlg̲anáay
 hlg̲án+CL/Shape+CL/sk̲'a:hlg̲á2n Common "whale's dorsal fin" ; ! def hlg̲anáay
@@ -857,7 +858,7 @@ hlkujíid Indec "seafood spear" ;
 hlkuxwíi BodyPart "one's lung" ;
 hlkúnsk'un BodyPart "tears running off one's nose" ; ! rfx hlkúnsk'unang 
 hlkúnst'an BodyPart "one's snot, mucus" ; ! rfx hlkúnst'anang
-hlkúnst'an% gisáaw+CL/Shape+CL/gi:hlkúnst'an gisáaw Common "handkerchief" ; ! def hlkúnst'an gisáawaay
+hlkúnst'an% gisáaw+CL/Shape+CL/gi:hlkúnst'an% gisáaw Common "handkerchief" ; ! def hlkúnst'an gisáawaay
 hlkúnst'ajaaw+CL/Shape+CL/gi:hlkúnst'ajaaw Common "handkerchief" ; ! no def attested, just assumed
 hlkyaahlgáaw Common "drill" ; ! def hlkyaahlgáawaay
 ! hlkyaahlgáaw% k̲'áay Common "drill bit" ; ! def internal
@@ -929,7 +930,7 @@ hltánhlk'aa:hltánhlk' Y-Def "shredded red cedar cambium, objects made from sh
 hltánuu:hltán Common-UU "its small feather, its down (of a bird)" ; ! def hltánuwaay
 hltánuu+CL/Shape+CL/cha:hltán Common-UU "feather bed, feather mattress" ; ! def hltánuwaay
 hltánuu% ki% hlk'ujúu S-Def "plumed heads of cottongrass" ;
-hltánuu% ún% cháangwaay+CL/Shape+CL/cha:hltánuu% ún% cháangwaay Indec "feather mattress, feather bed" ; clsf inferred
+hltánuu% ún% cháangwaay+CL/Shape+CL/cha:hltánuu% ún% cháangwaay Indec "feather mattress, feather bed" ; ! clsf inferred
 hlt'aj+CL/Shape+CL/t'a:hlt'aj Common "its curved handle that joins on both sides, its bail handle, its carrying strap, its string, its chain" ; ! def hlt'ajáay
 hlt'aj+CL/Shape+CL/sg̲a:hlt'aj Common "its curved handle that joins on both sides, its bail handle, its carrying strap, its string, its chain" ; ! def hlt'ajáay
 hlt'ámaal:hlt'ám Common-AAL "plumed heads of cottongrass" ; ! def hlt'ámalaay
@@ -1030,8 +1031,8 @@ jáagiid+CL/Shape+CL/cha:jagíid GAAY "woman's blouse" ; ! def jáagiidgaay
 jáajii Indec "snowshoes" ;
 jáam GAAY "jam" ; ! def jáamgaay
 jáam% táawaay+CL/Shape+CL/sk'a:jáam% táawaay Indec "jam jar" ;
-jáam táawaay+CL/Shape+CL/g̲a:jáam% táawaay Indec "jam dish" ;
-jáas dáanggaa Indec "unidentified species of duck (probably American widgeon)" ;
+jáam% táawaay+CL/Shape+CL/g̲a:jáam% táawaay Indec "jam dish" ;
+jáas% dáanggaa Indec "unidentified species of duck (probably American widgeon)" ;
 jáas Kinterm "sister (of a male)" ; ! rfx jáasang ! plu jáaslang
 jáas+CL/Shape+CL/sk'a:jáas Indec "nits" ;
 jáaw GAAY "species of seaweed" ; ! def jáawgaay
@@ -1148,7 +1149,7 @@ Kílaad% x̲aat'áay Proper "Tsimshian people" ;
 Kílaas Proper "Tsimshian people" ;
 Kílaad Proper "Tsimshian people" ;
 Kílaads Proper "Tsimshian people" ;
-kílislang sg̲alangáay Indec "speaking-in-a-trance song" ;
+kílislang% sg̲alangáay Indec "speaking-in-a-trance song" ;
 kíng:kí2ng Common "news" ; ! def kingáay
 Kínggwgaang% Tláahl Indec "the Ten Commandments" ;
 kínhlaaw+CL/Shape+CL/sk̲'a:kínhlaaw Common "spear" ; ! def kínhlaawaay
@@ -1286,7 +1287,7 @@ k̲aj% g̲ángii Indec "hair follicle" ;
 k̲aj% g̲ángwaay Indec "dandruff" ;
 k̲aj% hlk'unáanwaay+CL/Shape+CL/hlk'u:k̲aj% hlk'unáanwaay Indec "hairbrush" ;
 k̲aj% íi% gisk'áalw+CL/Shape+CL/hlga:k̲aj% íi% gisk'áalw Common "hairpin" ; ! def k̲aj íi gisk'áalwaay
-k̲aj jánd Common "species of seaweed" ; ! def k̲aj jándaay
+k̲aj% jánd Common "species of seaweed" ; ! def k̲aj jándaay
 k̲aj% k̲'ál BodyPart "scalp" ;
 k̲aj% k̲'álaad GAAY "wig" ; ! def k̲aj k̲'álaadgaay
 k̲aj% k̲'íisdang Common "ant" ; ! def k̲aj k̲'íisdangaay
@@ -1357,7 +1358,7 @@ k'áam Common "unidentified half-inch long orange and black bug that carries it
 k'áank'aan:k'áank' Common-AAN "green fruit, unripe fruit" ; ! def k'áank'anaay
 k'áaw Common "herring eggs" ; ! def k'áawaay
 k'áaw% núud+CL/Shape+CL/sg̲a:k'áaw% núud GAAY "herring egg season" ; ! def k'áaw núudgaay
-K'áaws Tláay Proper "Craig" ;
+K'áaws% Tláay Proper "Craig" ;
 k'áay Common "giant kelp (on which herring usually lay their eggs)" ; ! def k'áayaay
 k̲áay% sangáay Indec "birthday" ;
 k̲áaygaaw Indec "needle and line for stringing fish" ;
@@ -1469,7 +1470,7 @@ k̲íihlaa% gisáawaay+CL/Shape+CL/gi:k̲íihlaa% gisáawaay Indec "dishtowe
 k̲íihlaa% k̲ugíinaa+CL/Shape+CL/g̲a:k̲íihlaa% k̲ugíinaa Indec "paper plates" ; ! clsf is assumed
 k̲íihlaa% tluwáa Indec "platter" ;
 k'íij+CL/Shape+CL/cha:k'íij BodyPart "one's stomach, abdomen" ; ! rfx k'íijang
-k'íis gáwjaaw Indec "skin drum" ;
+k'íis% gáwjaaw Indec "skin drum" ;
 k̲íisalaay Indec "fasting" ;
 k̲íit'aal:k̲íit' Common-AAL "spruce sapling (up to one foot in diameter)" ; ! def k̲íit'alaay
 k'ím BodyPart "(animal) horn, antler" ;
@@ -1498,9 +1499,9 @@ k'ud% gisáaw% k̲ugíinaa Indec "paper napkin" ;
 k'ud% kijáaw+CL/Shape+CL/gu:k'ud% kij Common-AAW "baseball cap" ; ! def k'ud kijuwáay
 k'ud% kún BodyPart "beak" ;
 k'ud% síiyun BodyPart "lip" ;
-k'ud x̲íilayaay Indec "hole in one's lower lip" ; ! pl k'ud x̲íilaangaay
+k'ud% x̲íilayaay Indec "hole in one's lower lip" ; ! pl k'ud x̲íilaangaay
 k'udáa% sk'ajáaw Indec "piddock" ;
-K'udáagws x̲aad'áay Proper "the Eskimo people, the Inuit people" ;
+K'udáagws% X̲aad'áay Proper "the Eskimo people, the Inuit people" ;
 k'udáng% k'udláanwaay Indec "lipstick" ;
 k'udláanw Common "paint" ; ! def k'udláanwaay
 k'udláanw% hlk'unáanwaay+CL/Shape+CL/hlk'u:k'udláanw% hlk'unáanwaay Indec "paintbrush" ;
@@ -1591,7 +1592,7 @@ k̲waa% k̲uyáas Indec "tombstone, headstone" ;
 k̲waa% náay:k̲waa% n NAAY "brick or stone house" ; ! def k̲waa nagáay
 k̲waa% s'aláa Indec "argilite" ;
 k̲waa% tl'ahláa+CL/Shape+CL/k̲'íi:k̲waa% tl'ahl Y-Def "rock hammer" ; ! def k̲waa tl'ahláay
-k̲waa tl'ahláay Indec "stone sledgehammer" ;
+k̲waa% tl'ahláay Indec "stone sledgehammer" ;
 k̲waa% t'áahlaa+CL/Shape+CL/k̲'íi:k’waa% t'áahl Y-Def "rock anchor" ; ! def k̲waa t'áahlaay
 k̲waa% x̲idgw% k̲'íiyaangw+CL/Shape+CL/k̲'íi:k̲waa% x̲idgw% k̲'íiyaangw Indec "base of a tombstone" ;
 k̲waanáa GAAY "tufted puffin" ; ! def k̲waanáagaay
@@ -1653,7 +1654,7 @@ k'yúu+CL/Shape+CL/k̲'íi:k'y Common-UU "(large) clam, butterclam" ; ! def k'
 k'yúu+CL/Shape+CL/g̲a:k'y Common-UU "door, doorway, gate, gateway, entrance or exit to a building" ; ! def k'yuwáay
 k'yúu+CL/Shape+CL/sg̲a:k'y Common-UU "trail, path, road, street, sidewalk" ; ! def k'yuwáay
 k'yúu% dáagal Indec "butterclam mantle" ;
-k'yúu% hlg̲agad+CL/Shape+CL/hlg̲a:k'yúu% hlg̲agad Indec "ladder" ; clsf is assumed
+k'yúu% hlg̲agad+CL/Shape+CL/hlg̲a:k'yúu% hlg̲agad Indec "ladder" ; ! clsf is assumed
 k'yúu% hlg̲agadáaw+CL/Shape+CL/hlg̲a:k'yúu% hlg̲agadáaw Common "ladder" ; ! def k'yúu hlg̲agadáawaay, clsf is assumed
 k'yúu% ki% gusgíit'uwaay+CL/Shape+CL/k̲'íi:k'yúu% ki% gusgíit'uwaay Indec "padlock" ;
 k'yúu% ki% g̲ayáangw Indec "hinge of door of stockade" ;
@@ -1664,7 +1665,7 @@ k'yúu% x̲ánggaay Indec "clamhole" ;
 ! k'yúu% 'wáa% aa% k̲'íit'as+CL/Shape+CL/skáa:k'yúu% 'wáa% aa% k̲'íit'as Indec "doorknob" ; ! pl k'yúu 'wáa aa k̲'íiyat'iisgaa
 ! k'yúu% 'wáa% aa% skáat'as+CL/Shape+CL/skáa:k'yúu% 'wáa% aa% skáat'as Indec "doorknob" ; ! pl k'yúu 'wáa aa skáa'at'iisgaa
 k'yúu% 'wíi% skáajuwaay+CL/Shape+CL/skáa:k'yúu% 'wíi% skáajuwaay Indec "doorknob" ;
-K'yúust'aa proper "Kyusta" ;
+K'yúust'aa Proper "Kyusta" ;
 k'yée% sdayáangw Indec "net sinker made of perforated stone" ;
 ! k̲'a+CL/Shape+CL/sk̲'a:k̲'a Common "harpoon (for a seal, sea lion or salmon)" ; ! def k̲'a'áay
 k̲'a% k̲'áy:k̲'a% k̲'á2y Common "hide armor shirt" ; ! def k̲'a k̲'ayáay
@@ -1764,7 +1765,7 @@ k̲'áay Indec "the width of a stretch of water" ;
 K̲'áax̂% T'áay Proper "Waterfall cannery" ;
 ! k̲'a'áaw Common "fallen tree" ; ! def k̲'aawáay
 k̲'áax̂uu Indec "male red-breasted merganser" ;
-k̲'ál BodyPart :one's skin" ;
+k̲'ál BodyPart "one's skin" ;
 k̲'ál Indec "an animal's pelt" ;
 k̲'ál Indec "the outer bark or skin of a plant or fruit" ;
 k̲'ál Indec "the outer surface of a hard object (e.g. rock, boat, shoe, etc.)" ;
@@ -1800,7 +1801,7 @@ k̲ée Kinterm "one's brother-in-law" ;
 k̲ée% k̲'aláa% xiláay Indec "contraceptive medicine" ;
 k̲éenguts'ad Indec "marker (e.g. a float on a crab pot)" ;
 k̲'id% g̲it'íis% k̲'íinaay Indec "a bountiful summer, said to occur every four years" ;
-k̲'id 'la'áay Human "carver" ;
+k̲'id% 'la'áay Human "carver" ;
 k̲'idáa% k'ujáaw:k̲'idáa% k'uj Common-AAW "harlequin duck" ; ! def k̲'idáa k'ujuwáay
 k̲'idgáay Indec "a carving" ;
 k̲'iigáay Indec "the old people, the elders" ;
@@ -1996,8 +1997,8 @@ nag̲áa:nag̲ Y-Def "feces" ; ! def nag̲áay
 nag̲áa BodyPart "one's feces" ; ! rfx nag̲áang
 nasáal+CL/Shape+CL/gi:nasáal GAAY "cloth shawl" ; ! def nasáalgaay
 nasáangaa+CL/Shape+CL/sk'a:nasáangaa BodyPart "one's horns" ; ! rfx nasáangaang
-nasáangaa+CL/Shape+CL/sk'a:nasáangaa Body Part "one's antler" ; ! rfx nasáangaang
-nasáangaa+CL/Shape+CL/hlga:nasáangaa Body Part "one's set of antlers" ; ! rfx nasáangaang
+nasáangaa+CL/Shape+CL/sk'a:nasáangaa BodyPart "one's antler" ; ! rfx nasáangaang
+nasáangaa+CL/Shape+CL/hlga:nasáangaa BodyPart "one's set of antlers" ; ! rfx nasáangaang
 nats'áa% xiláay Indec "medicine for long life" ;
 náa+CL/Shape+CL/tíi:náa BodyPart "one's house, dwelling, building, hut, shack, cabin, shelter, establishment" ; ! rfx náa'ang
 náa GAAY "den, burrow" ; ! def náagaay
@@ -2047,7 +2048,7 @@ píichas+CL/Shape+CL/skáa:píichas GAAY "peach" ; ! def píichasgaay
 pláms+CL/Shape+CL/skáa:pláms GAAY "plum" ; ! def plámsgaay
 pláms% xiláa Indec "prune" ;
 sa% dáaw Indec "the upper edge of a mat that is being woven" ;
-saa sangáay BodyPart "one's pride" ; ! rfx saa sangáang
+saa% sangáay BodyPart "one's pride" ; ! rfx saa sangáang
 sablíi GAAY "bread, flour, biscuit, pie crust" ; ! def sablíigaay
 sablíi% g̲aawhldáawaay+CL/Shape+CL/g̲a:sablíi% g̲aawhldáawaay Indec "kneading pan used for setting bread overnight" ;
 sablíi% kitl'áawaay Indec "flour scoop" ;
@@ -2162,7 +2163,7 @@ sdagál Indec "the part of a dried salmon or halibut next to the tail, includin
 sdagwaanáa GAAY "species of storm petrel" ; ! def sdagwaanáagaay
 sdajáaw+CL/Shape+CL/sda:sdajáaw Common "bail handle on a basket or can, trigger guard" ; ! def sdajáawaay
 sdajáaw+CL/Shape+CL/sga:sdajáaw Common "bail handle on a basket or can, trigger guard" ; ! def sdajáawaay
-Sdak'án Porper "Stikine, Wrangell" ;
+Sdak'án Proper "Stikine, Wrangell" ;
 sdast'aangáa BodyPart "one's uvula" ; ! rfx sdast'aangáang
 sdast'aangáa Indec "trigger of a firearm, barb on a traditional halibut hook" ;
 sdáagins+CL/Shape+CL/tl'a:sdáagins GAAY "stockings" ; ! def sdáaginsgaay
@@ -2425,7 +2426,7 @@ sk'áam Common "starfish, sea star" ; ! def sk'áamaay
 sk'áam+CL/Shape+CL/hlga:sk'áam Common "a cross" ; ! def sk'áamaay
 sk'áam% i% hlt'ahldaláa Indec "sunflower starfish" ;
 sk'áam% stla% k̲'ángii% k̲wáan Indec "sunflower starfish" ;
-sk̲áan Kintern "one's paternal aunt" ; ! rfx sk̲áanang
+sk̲áan Kinterm "one's paternal aunt" ; ! rfx sk̲áanang
 sk'áang% k'íij+CL/Shape+CL/sk'a:sk'áang% k'íij Common "swim bladder of a salmon" ; ! def sk'áang k'íijaay
 sk'áang% k'íij Common "species of seaweed" ; ! def sk'áang k'íijaay
 sk'áasdang Common-AAL "collection of pots and pans (new or old)" ; ! def sk'áadangalaay
@@ -2459,8 +2460,8 @@ sk'íihl+CL/Shape+CL/tl'a:sk'íihl Common "salal leaf" ; ! def sk'íihlaay
 ! sk̲íl Common "black cod" ; ! def sk̲íilaay
 sk̲íl% gyuwáay Indec "black cod fishing ground" ;
 sk̲íl% táw:sk̲íl% tá2w Common "black cod oil" ; ! def sk̲íl tawáay
-sk̲íl táw GAAY "flower of a ladyslipper orchid" ; ! def sk̲íl táwgaay
-sk̲íl t'áawal Indec "black cod hook" ;
+sk̲íl% táw GAAY "flower of a ladyslipper orchid" ; ! def sk̲íl táwgaay
+sk̲íl% t'áawal Indec "black cod hook" ;
 ! sk'ín Common "sandpaper" ; ! def sk'íinaay
 sk̲u% skáajaaw+CL/Shape+CL/skáa:sk̲u% skáajaaw Common "ball" ; ! def sk̲u skáajaawaay
 sk̲u% skáajuwaa+CL/Shape+CL/skáa:sk̲u% skáajuwaa S-Def "ball" ; ! def sk̲u skáajuwaas
@@ -2532,7 +2533,7 @@ stáw% xáadaay Indec "sea urchin net" ;
 stáw% x̲asáa Indec "giant red/purple sea urchin" ;
 stáwjaaw% tluwáay Indec "passenger ship" ;
 stíid Common "elderberry bush or wood" ; ! def stíidaay
-stíid gun-gáay Indec "rotten elderberry wood" ;
+stíid% gun-gáay Indec "rotten elderberry wood" ;
 stíidgaa+CL/Shape+CL/g̲a:stíidg Y-Def "labret" ; ! def stíidgaay
 stíidgaa% k'ámaal:stíidgaa% k'ám Common-AAL "bogeywoman" ; ! def stíidgaa k'ámalaay
 stla+CL/Shape+CL/g̲a:stla Indec "fingerspan" ; 
@@ -2623,9 +2624,9 @@ st'a% g̲ud BodyPart "one's little toe" ; ! rfx st'a g̲udáng
 st'a% hlk'únk'+CL/Shape+CL/ja:st'a% hlk'únk' Common "moccasin" ; ! def st'a hlk'únk'aay
 st'a% hlk'únk'% únggwsii Indec "mocassin top" ;
 st'a% kún BodyPart "one's toetip" ;
-st'a% k̲a'ánBodyPart "sole of one's foot" ;
+st'a% k̲a'án BodyPart "sole of one's foot" ;
 st'a% k̲a'án% sgast'áay BodyPart "instep" ;
-st'a k'usíi+CL/Shape+CL/k̲'íi:st'a% k'usíi BodyPart "heel of one's foot or shoe" ; ! rfx st'a k'usáang
+st'a% k'usíi+CL/Shape+CL/k̲'íi:st'a% k'usíi BodyPart "heel of one's foot or shoe" ; ! rfx st'a k'usáang
 st'a% k'ún+CL/Shape+CL/gu:st'a% k'ún BodyPart "one's toenail" ; ! rfx st'a k'unáng
 st'a% k'ún+CL/Shape+CL/sk'a:st'a% k'ún BodyPart "a bird's claw or talon, a deer's hoof" ; ! rfx st'a k'unáng
 st'a% k'wáay BodyPart "ankle" ; ! rfx st'a k'wáayang
@@ -2803,7 +2804,7 @@ táw:tá2w Common "oil, grease, gasoline" ; ! def tawáay
 táw% táawaay+CL/Shape+CL/g̲a:táw% táawaay Indec "dish for serving grease" ;
 táwhlk' Common "food, provisions taken along on a trip" ; ! def táwhlk'aay
 táwk'aa% áaniigaay Indec "garden tools" ;
-táwk'aa gin-gáay Indec "garden tools" ;
+táwk'aa% gin-gáay Indec "garden tools" ;
 táwk'aa% 'la'áay Human "farmer, gardener" ;
 táwk'aan+CL/Shape+CL/g̲a:táwk'aan Common "garden, farm, cultivated field" ;
 táwk'aan% k̲'áasal+CL/Shape+CL/g̲a:táwk'aan% k̲'áasal Indec "a garden site (former or planned)" ;
@@ -2939,7 +2940,7 @@ tl'ahlk'áa+CL/Shape+CL/sk'a:tl'ahlk'áa Indec "salmon milt" ;
 tl'ajgáaw+CL/Shape+CL/tl'a:tl'ajgáaw Common "bandage" ; ! def tl'ajgáawaay
 tl'ak' Common "whetstone, sharpening stone" ; ! def tl'ak'áay
 tl'ak'% aa% xínjuulangaa Indec "grindstone (turned by a crank)" ;
-tl'ak'áaw+CL/Shape+CL/sk'a:tl'ak'áaw "gooseneck barnacle" ; ! def tl'ak'áawaay
+tl'ak'áaw+CL/Shape+CL/sk'a:tl'ak'áaw Common "gooseneck barnacle" ; ! def tl'ak'áawaay
 tl'ak'áaw Common "whetstone, sharpening stone" ; ! def tl'ak'áawaay
 tl'ak'úl+CL/Shape+CL/tl'a:tl'ak'úl BodyPart "one's liver (of mammals and birds)" ; ! rfx tl'ak'uláang
 tl'ak̲'íi'aaw Indec "three-cornered needle used to sew leather" ;
@@ -3198,7 +3199,7 @@ ún% sk̲'at'áa% k̲'aláay Indec "people who can't learn their lesson" ;
 Únsgw% Tlagáay Proper "the Interior" ;
 úunaay Indec "the interior or high part of a land mass" ;
 Waahúu Proper "Hawaii" ;
-Waahúu% k̲'ust'anáay common "sea turtle" ;
+Waahúu% k̲'ust'anáay Common "sea turtle" ;
 wáaj+CL/Shape+CL/k̲'íi:wáaj GAAY "watch" ; ! def wáajgaay
 wáanuug Common "unidentified bird species" ; ! def wáanuugaay
 wáanuwaa GAAY "man-of-war (warship)" ; ! def wáanuwaagaay
@@ -3456,7 +3457,7 @@ x̲áng+CL/Shape+CL/k̲'íi:x̲áng BodyPart "one's face" ; ! rfx x̲ángaan
 x̲ángii+CL/Shape+CL/k̲'íi:x̲áng BodyPart "one's face" ; ! rfx x̲ángaang
 x̲áng% 'wáa% aa% skáagangaay Indec "one's eyeball(s)" ;
 x̲ángaang% dláanwaay+CL/Shape+CL/g̲a:x̲ángaang% dláanwaay Indec "bathroom sink, wash basin" ;
-x̲ánggä% gíinaangw%+CL/Shape+CL/sk̲'a:x̲ánggä% gíinaangw% Common "oar" ; ! def x̲ánggä gíinaangwaay
+x̲ánggä% gíinaangw%+CL/Shape+CL/sk̲'a:x̲ánggä% gíinaangw Common "oar" ; ! def x̲ánggä gíinaangwaay
 x̲ánggä% gíinaangw% k'yuusíi Indec "oarlock" ;
 x̲ánggwsii Location "area in front of something" ;
 x̲ángii% majáay Indec "face paint" ;
@@ -3482,7 +3483,7 @@ x̲áw% sk'atl'áangwaay Indec "teacup" ;
 x̲áw% ts'asláangwaay+CL/Shape+CL/ts'as:x̲áw% ts'asláangwaay Indec "tea kettle" ;
 x̲áw Indec "its juice, broth" ;
 x̲áy% sk̲'at'íisgw Indec "upright sticks making up the frame for a large fish trap" ;
-x̲áy+CL/Shape+CL/sg̲a:x̲áy BodyPart :one's blood vessel, vein, artery, tendon, sinew, gristle" ;
+x̲áy+CL/Shape+CL/sg̲a:x̲áy BodyPart "one's blood vessel, vein, artery, tendon, sinew, gristle" ;
 x̲áyhlaal Common "colored weaving materials (roots, grass, bark, etc.)" ; ! def x̲áyhlaalaay
 x̲i% g̲atl'áa+CL/Shape+CL/g̲a:x̲i% g̲atl' GAAY-Short "washtub" ; ! def x̲i g̲atl'gáay
 ! x̲i% kángaaw Common "sawdust" ; ! def x̲i kángwaay
@@ -3496,8 +3497,8 @@ x̲idsíi Location "area under, below, downstairs from something" ;
 x̲igw+CL/Shape+CL/tl'a:x̲igw Common "saw" ; ! def x̲igwáay
 x̲igw+CL/Shape+CL/hlga:x̲igw Common "saw" ; ! def x̲igwáay
 x̲ihl% hlgihláanw+CL/Shape+CL/hlgi:x̲ihl% hlgihláanw Common "yoke" ; ! def x̲ihl hlgihláanwaay
-x̲ihl k̲'úl BodyPart "the base of one's neck" ; ! rfx x̲ihl k̲'uláng
-x̲ihl k̲'úl BodyPart "the imaginary line through the gills of a salmon" ;
+x̲ihl% k̲'úl BodyPart "the base of one's neck" ; ! rfx x̲ihl k̲'uláng
+x̲ihl% k̲'úl BodyPart "the imaginary line through the gills of a salmon" ;
 x̲iláawg Common "single delight, one-flowered wintergreen, St. Olaf's candlestick" ; ! def x̲iláawgaay
 x̲iláay Indec "blossom, flower" ;
 x̲it'íid:x̲it' Common-IID "bird" ; ! def x̲it'adáay
@@ -3522,7 +3523,7 @@ x̲íl+CL/Shape+CL/sk̲'a:x̲íl BodyPart "one's neck" ; ! rfx x̲íilang
 x̲íl+CL/Shape+CL/tl'a:x̲íl BodyPart "collar of a piece of clothing" ;
 x̲íl% jáng Indec "pintail duck" ;
 x̲íl% ts'ak'íi BodyPart "back of one's neck" ;
-x̲ínul BodyPart "one's lung power, the strength and endurance of one's voice" ! rfx x̲ínulang
+x̲ínul BodyPart "one's lung power, the strength and endurance of one's voice" ; ! rfx x̲ínulang
 ! x̲íw Common "southeast wind" ; ! def x̲íiwaay
 x̲íwii BodyPart "one's rib" ; ! rfx x̲íwaang
 x̲u% t'áangal Indec "species of liverwort" ;
@@ -3570,7 +3571,7 @@ yáanaay% k̲a'án Indec "the sky" ;
 yáangw+CL/Shape+CL/t'a:yáangw Common "a rope tied around a box, basket or barrel to keep the lid on" ; ! def yáangwaay
 yáangw+CL/Shape+CL/sg̲a:yáangw Common "a rope tied around a box, basket or barrel to keep the lid on" ; ! def yáangwaay
 Yáanii% K'agwáa Proper "a bogeywoman" ; 
-Yáanii K'agwáa Indec "a figure in the string game" ;
+Yáanii% K'agwáa Indec "a figure in the string game" ;
 yáanuu+CL/Shape+CL/sk'a:yáan Common-UU "sea cucumber" ; ! def yáanuwaay
 Yáats'% X̲aat'áay Indec "(the) White people" ;
 Yáats'% X̲aat'áay% Kíl Proper "English language" ;

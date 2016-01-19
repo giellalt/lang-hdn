@@ -1,4 +1,4 @@
-_!! Noun inflection
+!! Noun inflection
 !! ---------------
 !! Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
 
@@ -120,7 +120,7 @@ LEXICON GAAY-N
 +N+Def+Dial/NOT-M:n-%>%^DEFgáay # ; 
 +N+Def+Dial/NOT-A:n-%>%^DEFgée # ; 
 
-LEXICON HUMAN
+LEXICON Human
 +N+Sg: # ;
 +N+Pl:%>äláng # ;
 
