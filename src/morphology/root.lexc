@@ -326,7 +326,7 @@ LEXICON Root
 !! The word forms in Northern Haida start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
   Nouns   ;
-!  VerbPrefixes   ;    !!= * @CODE@ 
+  Verbs   ;    !!= * @CODE@ 
 !  Adverbs ;
 !   Adjectives  ;
 !   Pronouns    ;
