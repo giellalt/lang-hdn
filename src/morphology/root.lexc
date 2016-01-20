@@ -40,38 +40,40 @@ s2 !!= * @CODE@ =
 !! Haida has these tags for real, says Jordan.
 +V	!!= * @CODE@ =
 +N	    !!= * @CODE@ =
-+NEGATIVE	!!= * @CODE@ =
-+3rd_PERSON_PLURAL	!!= * @CODE@ =
-+INTERROGATIVE	!!= * @CODE@ =
-+FUTURE	!!= * @CODE@ =
-+PAST	!!= * @CODE@ =
-+PRESENT	!!= * @CODE@ =
-+HABITUAL	!!= * @CODE@ =
-+BIASED	!!= * @CODE@ =
-+CERTAIN	!!= * @CODE@ =
-+SIMPLE	!!= * @CODE@ =
-+RELATIVE	!!= * @CODE@ =
-+NON_FACTIVE	!!= * @CODE@ =
-+IMMEDIATE	!!= * @CODE@ =
-+VERYNEAR	!!= * @CODE@ =
-+REFLEXIVE	!!= * @CODE@ =
++NEG	!!= * @CODE@ = Negative
++3PL	!!= * @CODE@ = 3rd personal definite plural participant
++INTERR	!!= * @CODE@ = Interrogative
++FUT	!!= * @CODE@ = Future
++PAST	!!= * @CODE@ = Past
++PRES	!!= * @CODE@ = Present
++HAB	!!= * @CODE@ = Habitual
++BIAS	!!= * @CODE@ = Biased
++CERT	!!= * @CODE@ = Certain
++SIMP	!!= * @CODE@ = Simple
++REL	!!= * @CODE@ = Relative
++NONFACT	!!= * @CODE@ = Non_Factive
++IMM	!!= * @CODE@ = Immediate
++VNEAR	!!= * @CODE@ = Very near
++RFLX	!!= * @CODE@ = Reflexive
 +NEAR	!!= * @CODE@ =
-+INDIRECT	!!= * @CODE@ =
-+DIRECT	!!= * @CODE@ =
-+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	!!= * @CODE@ =
++INDIR	!!= * @CODE@ = Indirect evidentiality
++DIR	!!= * @CODE@ = Direct evidentiality
++CONT	!!= * @CODE@ = Should keep on verbing
 +SHORT	!!= * @CODE@ =
-+RESIGNED_OBLIGATION	!!= * @CODE@ =
++RES	!!= * @CODE@ = Resigned obligation
 +LONG	!!= * @CODE@ =
-+INTENSIVE	!!= * @CODE@ =
-+IMPERATIVE	!!= * @CODE@ =
-+EVIDENTIAL	!!= * @CODE@ =
-+COUNTERFACTUAL	!!= * @CODE@ =
-+SINGULAR	!!= * @CODE@ =
-+PLURAL	!!= * @CODE@ =
++INTS	!!= * @CODE@ = Intensive
++IMPV	!!= * @CODE@ = Imperative
++EVID	!!= * @CODE@ = Evidential
++CTFACT	!!= * @CODE@ = Counterfactual
++SG	!!= * @CODE@ = Singular
++PL	!!= * @CODE@ = Plural
 +Def	!!= * @CODE@ =
 +Indef	!!= * @CODE@ =
 +Rfx	!!= * @CODE@ = Used for reflexively possessed body parts and kinterms
 +Abs    !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
+
+
 
 !! The actual classifiers
 
