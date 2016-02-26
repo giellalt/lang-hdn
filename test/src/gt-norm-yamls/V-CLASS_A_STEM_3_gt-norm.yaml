@@ -11,45 +11,45 @@ Tests:
 
   Verb - k̲íiya - ENGLISH : # CLASS_A_STEM_3
 
-     k̲íiya+V+SINGULAR+IMPERATIVE: k̲íiyaa
-     k̲íiya+V+IMMEDIATE+PRESENT: k̲íiyaa
-     k̲íiya+V+INTERROGATIVE+SIMPLE+PRESENT: k̲íiyaa
-     k̲íiya+V+SIMPLE+PRESENT: k̲íiyaang
-     k̲íiya+V+INTERROGATIVE+PAST: k̲íiyaayaa
-     k̲íiya+V+INDIRECT+PAST: k̲íiyaayaan
-     k̲íiya+V+RELATIVE: k̲íiyaas
-     k̲íiya+V+RELATIVE+EVIDENTIAL: k̲íiyaayaas
-     k̲íiya+V+NON_FACTIVE: k̲íiyaa.ang
-     k̲íiya+V+PAST+NON_FACTIVE: k̲íiyaayaa.ang
-     k̲íiya+V+INTERROGATIVE+FUTURE+LONG: k̲íiyaaäsaa
-     k̲íiya+V+INTERROGATIVE+FUTURE+SHORT: k̲íiyaaäs
-     k̲íiya+V+SIMPLE+FUTURE: k̲íiyaaäsaang
-     k̲íiya+V+IMMEDIATE+FUTURE: k̲íiyaaäsga
-     k̲íiya+V+RELATIVE+FUTURE: k̲íiyaaäsaas
-     k̲íiya+V+FUTURE+NON_FACTIVE: k̲íiyaaäsaa.ang
-     k̲íiya+V+INTERROGATIVE+NEAR+FUTURE: k̲íiyaa.ang k̲asa'áa
-     k̲íiya+V+NEAR+FUTURE: k̲íiyaa.ang k̲asa'áang
-     k̲íiya+V+INTERROGATIVE+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdláa
-     k̲íiya+V+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdláang
-     k̲íiya+V+BIASED+IMMEDIATE+PRESENT: k̲íiyaa'uuj
-     k̲íiya+V+BIASED+SIMPLE+PRESENT: k̲íiyaa'uujang
-     k̲íiya+V+RESIGNED_OBLIGATION: k̲íiyaaäsaa'uujang
-     k̲íiya+V+BIASED+INTERROGATIVE+PRESENT: k̲íiyaa'us
-     k̲íiya+V+BIASED+INTERROGATIVE+PAST: k̲íiyaa'ujaa
-     k̲íiya+V+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲íiyaa'uujaangaa
-     k̲íiya+V+BIASED+INTERROGATIVE+FUTURE: k̲íiyaaäsaa'us
-     k̲íiya+V+CERTAIN+PRESENT: k̲íiyaa'ahlanggang
-     k̲íiya+V+CERTAIN+PAST: k̲íiyaa'ahlanggan
-     k̲íiya+V+CERTAIN+PAST+HABITUAL: k̲íiyaa'ahlanggiinii
-     k̲íiya+V+CERTAIN+FUTURE: k̲íiyaaäsaa'ahlans
-     k̲íiya+V+CERTAIN+RELATIVE: k̲íiyaa'ahlans
-     k̲íiya+V+INTENSIVE+PAST: k̲íiyaayaa'ahlang
-     k̲íiya+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲íiyaayaa'ahlanggaa
-     k̲íiya+V+COUNTERFACTUAL+PRESENT: k̲íiyaayaa'ahlanggang
-     k̲íiya+V+REFLEXIVE: k̲íiyaa'ahl
-     k̲íiya+V+FUTURE+REFLEXIVE+INTERROGATIVE: k̲íiyaaäseehl
-     k̲íiya+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k̲íiyaa.ang k̲asaa'áng
-     k̲íiya+V+NEGATIVE+NEAR+FUTURE: k̲íiyaa.ang k̲asaa'ánggang
-     k̲íiya+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdlä'áng
-     k̲íiya+V+NEGATIVE+VERYNEAR+FUTURE: k̲íiyaa.ang k̲asaasdlä'ánggang
+     k̲íiya+V+SG+IMPV: k̲íiyaa
+     k̲íiya+V+IMM+PRES: k̲íiyaa
+     k̲íiya+V+INTERR+SIMP+PRES: k̲íiyaa
+     k̲íiya+V+SIMP+PRES: k̲íiyaang
+     k̲íiya+V+INTERR+PAST: k̲íiyaayaa
+     k̲íiya+V+INDIR+PAST: k̲íiyaayaan
+     k̲íiya+V+REL: k̲íiyaas
+     k̲íiya+V+REL+EVID: k̲íiyaayaas
+     k̲íiya+V+NONFACT: k̲íiyaa.ang
+     k̲íiya+V+PAST+NONFACT: k̲íiyaayaa.ang
+     k̲íiya+V+INTERR+FUT+LONG: k̲íiyaaäsaa
+     k̲íiya+V+INTERR+FUT+SHORT: k̲íiyaaäs
+     k̲íiya+V+SIMP+FUT: k̲íiyaaäsaang
+     k̲íiya+V+IMM+FUT: k̲íiyaaäsga
+     k̲íiya+V+REL+FUT: k̲íiyaaäsaas
+     k̲íiya+V+FUT+NONFACT: k̲íiyaaäsaa.ang
+     k̲íiya+V+INTERR+NEAR+FUT: k̲íiyaa.ang k̲asa'áa
+     k̲íiya+V+NEAR+FUT: k̲íiyaa.ang k̲asa'áang
+     k̲íiya+V+INTERR+VNEAR+FUT: k̲íiyaa.ang k̲asaasdláa
+     k̲íiya+V+VNEAR+FUT: k̲íiyaa.ang k̲asaasdláang
+     k̲íiya+V+BIAS+IMM+PRES: k̲íiyaa'uuj
+     k̲íiya+V+BIAS+SIMP+PRES: k̲íiyaa'uujang
+     k̲íiya+V+RES: k̲íiyaaäsaa'uujang
+     k̲íiya+V+BIAS+INTERR+PRES: k̲íiyaa'us
+     k̲íiya+V+BIAS+INTERR+PAST: k̲íiyaa'ujaa
+     k̲íiya+V+BIAS+INTERR+PAST+HAB: k̲íiyaa'uujaangaa
+     k̲íiya+V+BIAS+INTERR+FUT: k̲íiyaaäsaa'us
+     k̲íiya+V+CERT+PRES: k̲íiyaa'ahlanggang
+     k̲íiya+V+CERT+PAST: k̲íiyaa'ahlanggan
+     k̲íiya+V+CERT+PAST+HAB: k̲íiyaa'ahlanggiinii
+     k̲íiya+V+CERT+FUT: k̲íiyaaäsaa'ahlans
+     k̲íiya+V+CERT+REL: k̲íiyaa'ahlans
+     k̲íiya+V+INTS+PAST: k̲íiyaayaa'ahlang
+     k̲íiya+V+CONT: k̲íiyaayaa'ahlanggaa
+     k̲íiya+V+CTFACT+PRES: k̲íiyaayaa'ahlanggang
+     k̲íiya+V+RFLX: k̲íiyaa'ahl
+     k̲íiya+V+FUT+RFLX+INTERR: k̲íiyaaäseehl
+     k̲íiya+V+NEG+INTERR+NEAR+FUT: k̲íiyaa.ang k̲asaa'áng
+     k̲íiya+V+NEG+NEAR+FUT: k̲íiyaa.ang k̲asaa'ánggang
+     k̲íiya+V+NEG+INTERR+VNEAR+FUT: k̲íiyaa.ang k̲asaasdlä'áng
+     k̲íiya+V+NEG+VNEAR+FUT: k̲íiyaa.ang k̲asaasdlä'ánggang
 

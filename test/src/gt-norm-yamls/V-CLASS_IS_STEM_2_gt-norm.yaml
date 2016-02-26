@@ -11,35 +11,35 @@ Tests:
 
   Verb - kíl is - ENGLISH : # CLASS_IS_STEM_2
 
-     kíl is+V+IMMEDIATE+PRESENT: kíl íija
-     kíl is+V+SIMPLE+PRESENT: kíl íijang
-     kíl is+V+DIRECT+PAST: kíl íijan
-     kíl is+V+NON_FACTIVE: kíl íijang
-     kíl is+V+INTERROGATIVE+PRESENT+HABITUAL: kíl íijang
-     kíl is+V+PRESENT+HABITUAL: kíl íijanggang
-     kíl is+V+PRESENT+HABITUAL+NON_FACTIVE: kíl íijangang
-     kíl is+V+DIRECT+PAST+HABITUAL: kíl íijiinii
-     kíl is+V+INTERROGATIVE+PAST+HABITUAL: kíl íijaangaa
-     kíl is+V+INDIRECT+PAST+HABITUAL: kíl íijaangaan
-     kíl is+V+INTERROGATIVE+NEAR+FUTURE: kíl íijang k̲asa'áa
-     kíl is+V+NEAR+FUTURE: kíl íijang k̲asa'áang
-     kíl is+V+INTERROGATIVE+VERYNEAR+FUTURE: kíl íijang k̲asaasdláa
-     kíl is+V+VERYNEAR+FUTURE: kíl íijang k̲asaasdláang
-     kíl is+V+CERTAIN+PRESENT: kíl íij'ahlanggang
-     kíl is+V+CERTAIN+PAST: kíl íij'ahlanggan
-     kíl is+V+CERTAIN+PAST+HABITUAL: kíl íij'ahlanggiinii
-     kíl is+V+CERTAIN+RELATIVE: kíl íij'ahlans
-     kíl is+V+REFLEXIVE: kíl íij'ahl
-     kíl is+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kíl íijang'waa
-     kíl is+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kíl íijang'waang
-     kíl is+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'waa.ang
-     kíl is+V+NEGATIVE+PRESENT+HABITUAL: kíl íijang'anggang
-     kíl is+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'angang
-     kíl is+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kíl íijang k̲asaa'áng
-     kíl is+V+NEGATIVE+NEAR+FUTURE: kíl íijang k̲asaa'ánggang
-     kíl is+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kíl íijang k̲asaasdlä'áng
-     kíl is+V+NEGATIVE+VERYNEAR+FUTURE: kíl íijang k̲asaasdlä'ánggang
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kíl íijang'ang'waa
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kíl íijang'ang'waang
-     kíl is+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kíl íijang'ang'waa.ang
+     kíl is+V+IMM+PRES: kíl íija
+     kíl is+V+SIMP+PRES: kíl íijang
+     kíl is+V+DIR+PAST: kíl íijan
+     kíl is+V+NONFACT: kíl íijang
+     kíl is+V+INTERR+PRES+HAB: kíl íijang
+     kíl is+V+PRES+HAB: kíl íijanggang
+     kíl is+V+PRES+HAB+NONFACT: kíl íijangang
+     kíl is+V+DIR+PAST+HAB: kíl íijiinii
+     kíl is+V+INTERR+PAST+HAB: kíl íijaangaa
+     kíl is+V+INDIR+PAST+HAB: kíl íijaangaan
+     kíl is+V+INTERR+NEAR+FUT: kíl íijang k̲asa'áa
+     kíl is+V+NEAR+FUT: kíl íijang k̲asa'áang
+     kíl is+V+INTERR+VNEAR+FUT: kíl íijang k̲asaasdláa
+     kíl is+V+VNEAR+FUT: kíl íijang k̲asaasdláang
+     kíl is+V+CERT+PRES: kíl íij'ahlanggang
+     kíl is+V+CERT+PAST: kíl íij'ahlanggan
+     kíl is+V+CERT+PAST+HAB: kíl íij'ahlanggiinii
+     kíl is+V+CERT+REL: kíl íij'ahlans
+     kíl is+V+RFLX: kíl íij'ahl
+     kíl is+V+3PL+INTERR+PRES+HAB: kíl íijang'waa
+     kíl is+V+3PL+PRES+HAB: kíl íijang'waang
+     kíl is+V+3PL+PRES+HAB+NONFACT: kíl íijang'waa.ang
+     kíl is+V+NEG+PRES+HAB: kíl íijang'anggang
+     kíl is+V+NEG+PRES+HAB+NONFACT: kíl íijang'angang
+     kíl is+V+NEG+INTERR+NEAR+FUT: kíl íijang k̲asaa'áng
+     kíl is+V+NEG+NEAR+FUT: kíl íijang k̲asaa'ánggang
+     kíl is+V+NEG+INTERR+VNEAR+FUT: kíl íijang k̲asaasdlä'áng
+     kíl is+V+NEG+VNEAR+FUT: kíl íijang k̲asaasdlä'ánggang
+     kíl is+V+NEG+3PL+INTERR+PRES+HAB: kíl íijang'ang'waa
+     kíl is+V+NEG+3PL+PRES+HAB: kíl íijang'ang'waang
+     kíl is+V+NEG+3PL+PRES+HAB+NONFACT: kíl íijang'ang'waa.ang
 

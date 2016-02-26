@@ -11,45 +11,45 @@ Tests:
 
   Verb - k̲e.e - ENGLISH : # CLASS_E.E_STEM_3
 
-     k̲e.e+V+SINGULAR+IMPERATIVE: k̲e.ée
-     k̲e.e+V+IMMEDIATE+PRESENT: k̲e.ée
-     k̲e.e+V+INTERROGATIVE+SIMPLE+PRESENT: k̲e.ée
-     k̲e.e+V+SIMPLE+PRESENT: k̲e.éeng
-     k̲e.e+V+INTERROGATIVE+PAST: k̲e.éeyaa
-     k̲e.e+V+INDIRECT+PAST: k̲e.éeyaan
-     k̲e.e+V+RELATIVE: k̲e.ées
-     k̲e.e+V+RELATIVE+EVIDENTIAL: k̲e.éeyaas
-     k̲e.e+V+NON_FACTIVE: k̲e.ée.ang
-     k̲e.e+V+PAST+NON_FACTIVE: k̲e.éeyaa.ang
-     k̲e.e+V+INTERROGATIVE+FUTURE+LONG: k̲e.éeäsaa
-     k̲e.e+V+INTERROGATIVE+FUTURE+SHORT: k̲e.éeäs
-     k̲e.e+V+SIMPLE+FUTURE: k̲e.éeäsaang
-     k̲e.e+V+IMMEDIATE+FUTURE: k̲e.éeäsga
-     k̲e.e+V+RELATIVE+FUTURE: k̲e.éeäsaas
-     k̲e.e+V+FUTURE+NON_FACTIVE: k̲e.éeäsaa.ang
-     k̲e.e+V+INTERROGATIVE+NEAR+FUTURE: k̲e.ée.ang k̲asa'áa
-     k̲e.e+V+NEAR+FUTURE: k̲e.ée.ang k̲asa'áang
-     k̲e.e+V+INTERROGATIVE+VERYNEAR+FUTURE: k̲e.ée.ang k̲asaasdláa
-     k̲e.e+V+VERYNEAR+FUTURE: k̲e.ée.ang k̲asaasdláang
-     k̲e.e+V+BIASED+IMMEDIATE+PRESENT: k̲e.ée'uuj
-     k̲e.e+V+BIASED+SIMPLE+PRESENT: k̲e.ée'uujang
-     k̲e.e+V+RESIGNED_OBLIGATION: k̲e.éeäsaa'uujang
-     k̲e.e+V+BIASED+INTERROGATIVE+PRESENT: k̲e.ée'us
-     k̲e.e+V+BIASED+INTERROGATIVE+PAST: k̲e.ée'ujaa
-     k̲e.e+V+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲e.ée'uujaangaa
-     k̲e.e+V+BIASED+INTERROGATIVE+FUTURE: k̲e.éeäsaa'us
-     k̲e.e+V+CERTAIN+PRESENT: k̲e.ée'ahlanggang
-     k̲e.e+V+CERTAIN+PAST: k̲e.ée'ahlanggan
-     k̲e.e+V+CERTAIN+PAST+HABITUAL: k̲e.ée'ahlanggiinii
-     k̲e.e+V+CERTAIN+FUTURE: k̲e.éeäsaa'ahlans
-     k̲e.e+V+CERTAIN+RELATIVE: k̲e.ée'ahlans
-     k̲e.e+V+INTENSIVE+PAST: k̲e.éeyaa'ahlang
-     k̲e.e+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲e.éeyaa'ahlanggaa
-     k̲e.e+V+COUNTERFACTUAL+PRESENT: k̲e.éeyaa'ahlanggang
-     k̲e.e+V+REFLEXIVE: k̲e.ée'ahl
-     k̲e.e+V+FUTURE+REFLEXIVE+INTERROGATIVE: k̲e.éeäseehl
-     k̲e.e+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k̲e.ée.ang k̲asaa'áng
-     k̲e.e+V+NEGATIVE+NEAR+FUTURE: k̲e.ée.ang k̲asaa'ánggang
-     k̲e.e+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k̲e.ée.ang k̲asaasdlä'áng
-     k̲e.e+V+NEGATIVE+VERYNEAR+FUTURE: k̲e.ée.ang k̲asaasdlä'ánggang
+     k̲e.e+V+SG+IMPV: k̲e.ée
+     k̲e.e+V+IMM+PRES: k̲e.ée
+     k̲e.e+V+INTERR+SIMP+PRES: k̲e.ée
+     k̲e.e+V+SIMP+PRES: k̲e.éeng
+     k̲e.e+V+INTERR+PAST: k̲e.éeyaa
+     k̲e.e+V+INDIR+PAST: k̲e.éeyaan
+     k̲e.e+V+REL: k̲e.ées
+     k̲e.e+V+REL+EVID: k̲e.éeyaas
+     k̲e.e+V+NONFACT: k̲e.ée.ang
+     k̲e.e+V+PAST+NONFACT: k̲e.éeyaa.ang
+     k̲e.e+V+INTERR+FUT+LONG: k̲e.éeäsaa
+     k̲e.e+V+INTERR+FUT+SHORT: k̲e.éeäs
+     k̲e.e+V+SIMP+FUT: k̲e.éeäsaang
+     k̲e.e+V+IMM+FUT: k̲e.éeäsga
+     k̲e.e+V+REL+FUT: k̲e.éeäsaas
+     k̲e.e+V+FUT+NONFACT: k̲e.éeäsaa.ang
+     k̲e.e+V+INTERR+NEAR+FUT: k̲e.ée.ang k̲asa'áa
+     k̲e.e+V+NEAR+FUT: k̲e.ée.ang k̲asa'áang
+     k̲e.e+V+INTERR+VNEAR+FUT: k̲e.ée.ang k̲asaasdláa
+     k̲e.e+V+VNEAR+FUT: k̲e.ée.ang k̲asaasdláang
+     k̲e.e+V+BIAS+IMM+PRES: k̲e.ée'uuj
+     k̲e.e+V+BIAS+SIMP+PRES: k̲e.ée'uujang
+     k̲e.e+V+RES: k̲e.éeäsaa'uujang
+     k̲e.e+V+BIAS+INTERR+PRES: k̲e.ée'us
+     k̲e.e+V+BIAS+INTERR+PAST: k̲e.ée'ujaa
+     k̲e.e+V+BIAS+INTERR+PAST+HAB: k̲e.ée'uujaangaa
+     k̲e.e+V+BIAS+INTERR+FUT: k̲e.éeäsaa'us
+     k̲e.e+V+CERT+PRES: k̲e.ée'ahlanggang
+     k̲e.e+V+CERT+PAST: k̲e.ée'ahlanggan
+     k̲e.e+V+CERT+PAST+HAB: k̲e.ée'ahlanggiinii
+     k̲e.e+V+CERT+FUT: k̲e.éeäsaa'ahlans
+     k̲e.e+V+CERT+REL: k̲e.ée'ahlans
+     k̲e.e+V+INTS+PAST: k̲e.éeyaa'ahlang
+     k̲e.e+V+CONT: k̲e.éeyaa'ahlanggaa
+     k̲e.e+V+CTFACT+PRES: k̲e.éeyaa'ahlanggang
+     k̲e.e+V+RFLX: k̲e.ée'ahl
+     k̲e.e+V+FUT+RFLX+INTERR: k̲e.éeäseehl
+     k̲e.e+V+NEG+INTERR+NEAR+FUT: k̲e.ée.ang k̲asaa'áng
+     k̲e.e+V+NEG+NEAR+FUT: k̲e.ée.ang k̲asaa'ánggang
+     k̲e.e+V+NEG+INTERR+VNEAR+FUT: k̲e.ée.ang k̲asaasdlä'áng
+     k̲e.e+V+NEG+VNEAR+FUT: k̲e.ée.ang k̲asaasdlä'ánggang
 

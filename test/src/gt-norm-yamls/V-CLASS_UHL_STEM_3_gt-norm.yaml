@@ -11,16 +11,16 @@ Tests:
 
   Verb - k̲áaguhl - ENGLISH : # CLASS_UHL_STEM_3
 
-     k̲áaguhl+V+INTERROGATIVE+PAST: k̲áagwaalaa
-     k̲áaguhl+V+INDIRECT+PAST: k̲áagwaalaan
-     k̲áaguhl+V+RELATIVE+EVIDENTIAL: k̲áagwaalaas
-     k̲áaguhl+V+PAST+NON_FACTIVE: k̲áagwaalaa.ang
-     k̲áaguhl+V+CERTAIN+PRESENT: k̲áagwaal'ahlanggang
-     k̲áaguhl+V+CERTAIN+PAST: k̲áagwaal'ahlanggan
-     k̲áaguhl+V+CERTAIN+PAST+HABITUAL: k̲áagwaal'ahlanggiinii
-     k̲áaguhl+V+CERTAIN+RELATIVE: k̲áagwaal'ahlans
-     k̲áaguhl+V+INTENSIVE+PAST: k̲áagwaalaa'ahlang
-     k̲áaguhl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲áagwaalaa'ahlanggaa
-     k̲áaguhl+V+COUNTERFACTUAL+PRESENT: k̲áagwaalaa'ahlanggang
-     k̲áaguhl+V+REFLEXIVE: k̲áagwaal'ahl
+     k̲áaguhl+V+INTERR+PAST: k̲áagwaalaa
+     k̲áaguhl+V+INDIR+PAST: k̲áagwaalaan
+     k̲áaguhl+V+REL+EVID: k̲áagwaalaas
+     k̲áaguhl+V+PAST+NONFACT: k̲áagwaalaa.ang
+     k̲áaguhl+V+CERT+PRES: k̲áagwaal'ahlanggang
+     k̲áaguhl+V+CERT+PAST: k̲áagwaal'ahlanggan
+     k̲áaguhl+V+CERT+PAST+HAB: k̲áagwaal'ahlanggiinii
+     k̲áaguhl+V+CERT+REL: k̲áagwaal'ahlans
+     k̲áaguhl+V+INTS+PAST: k̲áagwaalaa'ahlang
+     k̲áaguhl+V+CONT: k̲áagwaalaa'ahlanggaa
+     k̲áaguhl+V+CTFACT+PRES: k̲áagwaalaa'ahlanggang
+     k̲áaguhl+V+RFLX: k̲áagwaal'ahl
 

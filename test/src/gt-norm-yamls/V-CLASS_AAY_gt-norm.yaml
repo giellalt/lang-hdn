@@ -11,180 +11,180 @@ Tests:
 
   Verb - jadahlgwáay - ENGLISH : # CLASS_AAY
 
-     jadahlgwáay+V+SINGULAR+IMPERATIVE: jadahlgwáay
-     jadahlgwáay+V+IMMEDIATE+PRESENT: jadahlgwáayga
-     jadahlgwáay+V+INTERROGATIVE+SIMPLE+PRESENT: jadahlgwáay
-     jadahlgwáay+V+SIMPLE+PRESENT: jadahlgwáaygang
-     jadahlgwáay+V+DIRECT+PAST: jadahlgwáaygan
-     jadahlgwáay+V+INTERROGATIVE+PAST: jadahlgwáayaa
-     jadahlgwáay+V+INDIRECT+PAST: jadahlgwáayaan
-     jadahlgwáay+V+RELATIVE: jadahlgwáays
-     jadahlgwáay+V+RELATIVE+EVIDENTIAL: jadahlgwáayaas
-     jadahlgwáay+V+NON_FACTIVE: jadahlgwáayang
-     jadahlgwáay+V+PAST+NON_FACTIVE: jadahlgwáayaa.ang
-     jadahlgwáay+V+INTERROGATIVE+PRESENT+HABITUAL: jadahlgwáaygang
-     jadahlgwáay+V+PRESENT+HABITUAL: jadahlgwáayganggang
-     jadahlgwáay+V+PRESENT+HABITUAL+NON_FACTIVE: jadahlgwáaygangang
-     jadahlgwáay+V+DIRECT+PAST+HABITUAL: jadahlgwáaygiinii
-     jadahlgwáay+V+INTERROGATIVE+PAST+HABITUAL: jadahlgwáaygaangaa
-     jadahlgwáay+V+INDIRECT+PAST+HABITUAL: jadahlgwáaygaangaan
-     jadahlgwáay+V+INTERROGATIVE+FUTURE+LONG: jadahlgwáayäsaa
-     jadahlgwáay+V+INTERROGATIVE+FUTURE+SHORT: jadahlgwáayäs
-     jadahlgwáay+V+SIMPLE+FUTURE: jadahlgwáayäsaang
-     jadahlgwáay+V+IMMEDIATE+FUTURE: jadahlgwáayäsga
-     jadahlgwáay+V+RELATIVE+FUTURE: jadahlgwáayäsaas
-     jadahlgwáay+V+FUTURE+NON_FACTIVE: jadahlgwáayäsaa.ang
-     jadahlgwáay+V+INTERROGATIVE+NEAR+FUTURE: jadahlgwáayang k̲asa'áa
-     jadahlgwáay+V+NEAR+FUTURE: jadahlgwáayang k̲asa'áang
-     jadahlgwáay+V+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdláa
-     jadahlgwáay+V+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdláang
-     jadahlgwáay+V+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'uuj
-     jadahlgwáay+V+BIASED+SIMPLE+PRESENT: jadahlgwáay'uujang
-     jadahlgwáay+V+RESIGNED_OBLIGATION: jadahlgwáayäsaa'uujang
-     jadahlgwáay+V+BIASED+INTERROGATIVE+PRESENT: jadahlgwáay'us
-     jadahlgwáay+V+BIASED+INTERROGATIVE+PAST: jadahlgwáay'ujaa
-     jadahlgwáay+V+BIASED+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'uujaangaa
-     jadahlgwáay+V+BIASED+INTERROGATIVE+FUTURE: jadahlgwáayäsaa'us
-     jadahlgwáay+V+CERTAIN+PRESENT: jadahlgwáay'ahlanggang
-     jadahlgwáay+V+CERTAIN+PAST: jadahlgwáay'ahlanggan
-     jadahlgwáay+V+CERTAIN+PAST+HABITUAL: jadahlgwáay'ahlanggiinii
-     jadahlgwáay+V+CERTAIN+FUTURE: jadahlgwáayäsaa'ahlans
-     jadahlgwáay+V+CERTAIN+RELATIVE: jadahlgwáay'ahlans
-     jadahlgwáay+V+INTENSIVE+PAST: jadahlgwáaygaa'ahlang
-     jadahlgwáay+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: jadahlgwáaygaa'ahlanggaa
-     jadahlgwáay+V+COUNTERFACTUAL+PRESENT: jadahlgwáaygaa'ahlanggang
-     jadahlgwáay+V+REFLEXIVE: jadahlgwáay'ahl
-     jadahlgwáay+V+FUTURE+REFLEXIVE+INTERROGATIVE: jadahlgwáayäseehl
-     jadahlgwáay+V+PLURAL+IMPERATIVE: jadahlgwáay'uu
-     jadahlgwáay+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: jadahlgwáay'waa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: jadahlgwáay'waa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: jadahlgwáay'waang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+DIRECT+PAST: jadahlgwáay'wägan
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: jadahlgwáay'aawaa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INDIRECT+PAST: jadahlgwáay'aawaan
-     jadahlgwáay+V+3rd_PERSON_PLURAL+RELATIVE: jadahlgwáay'waas
-     jadahlgwáay+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: jadahlgwáay'aawaas
-     jadahlgwáay+V+3rd_PERSON_PLURAL+NON_FACTIVE: jadahlgwáay'waa.ang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: jadahlgwáay'aawaa.ang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: jadahlgwáaygang'waa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: jadahlgwáaygang'waang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: jadahlgwáaygang'waa.ang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: jadahlgwáay'wägiinii
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'wägaangaa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: jadahlgwáay'wägaangaan
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: jadahlgwáay'waaäsaa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: jadahlgwáay'waaäs
-     jadahlgwáay+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: jadahlgwáay'waaäsaang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: jadahlgwáay'waaäsga
-     jadahlgwáay+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: jadahlgwáay'waaäsaas
-     jadahlgwáay+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: jadahlgwáay'waaäsaa.ang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asa'áa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asa'áang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdláa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdláang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'waa'uuj
-     jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: jadahlgwáay'waa'uujang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: jadahlgwáay'waaäsaa'uujang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: jadahlgwáay'waa'us
-     jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: jadahlgwáay'waa'ujaa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'waa'uujaangaa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: jadahlgwáay'waaäsaa'us
-     jadahlgwáay+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: jadahlgwáay'waa'ahlanggang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+CERTAIN+PAST: jadahlgwáay'waa'ahlanggan
-     jadahlgwáay+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: jadahlgwáay'waa'ahlanggiinii
-     jadahlgwáay+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: jadahlgwáay'waaäsaa'ahlans
-     jadahlgwáay+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: jadahlgwáay'waa'ahlans
-     jadahlgwáay+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: jadahlgwáay'aawaa'ahlang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: jadahlgwáay'aawaa'ahlanggaa
-     jadahlgwáay+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: jadahlgwáay'aawaa'ahlanggang
-     jadahlgwáay+V+3rd_PERSON_PLURAL+REFLEXIVE: jadahlgwáay'waa'ahl
-     jadahlgwáay+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: jadahlgwáay'waaäseehl
-     jadahlgwáay+V+NEGATIVE+SINGULAR+IMPERATIVE: jadahlgwáay'ang
-     jadahlgwáay+V+NEGATIVE+IMMEDIATE+PRESENT: jadahlgwáay'angga
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: jadahlgwáay'ang
-     jadahlgwáay+V+NEGATIVE+SIMPLE+PRESENT: jadahlgwáay'anggang
-     jadahlgwáay+V+NEGATIVE+DIRECT+PAST: jadahlgwáay'anggan
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+PAST: jadahlgwáay'aangaa
-     jadahlgwáay+V+NEGATIVE+INDIRECT+PAST: jadahlgwáay'aangaan
-     jadahlgwáay+V+NEGATIVE+RELATIVE: jadahlgwáay'ans
-     jadahlgwáay+V+NEGATIVE+RELATIVE+EVIDENTIAL: jadahlgwáay'aangaas
-     jadahlgwáay+V+NEGATIVE+NON_FACTIVE: jadahlgwáay'angang
-     jadahlgwáay+V+NEGATIVE+PAST+NON_FACTIVE: jadahlgwáay'aangaa.ang
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: jadahlgwáay'anggang
-     jadahlgwáay+V+NEGATIVE+PRESENT+HABITUAL: jadahlgwáaygang'anggang
-     jadahlgwáay+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: jadahlgwáaygang'angang
-     jadahlgwáay+V+NEGATIVE+DIRECT+PAST+HABITUAL: jadahlgwáay'anggiinii
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'anggaangaa
-     jadahlgwáay+V+NEGATIVE+INDIRECT+PAST+HABITUAL: jadahlgwáay'anggaangaan
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: jadahlgwáay'angäsaa
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: jadahlgwáay'angäs
-     jadahlgwáay+V+NEGATIVE+SIMPLE+FUTURE: jadahlgwáay'angäsaang
-     jadahlgwáay+V+NEGATIVE+IMMEDIATE+FUTURE: jadahlgwáay'angäsga
-     jadahlgwáay+V+NEGATIVE+RELATIVE+FUTURE: jadahlgwáay'angäsaas
-     jadahlgwáay+V+NEGATIVE+FUTURE+NON_FACTIVE: jadahlgwáay'angäsaa.ang
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: jadahlgwáayang k̲asaa'áng
-     jadahlgwáay+V+NEGATIVE+NEAR+FUTURE: jadahlgwáayang k̲asaa'ánggang
-     jadahlgwáay+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdlä'áng
-     jadahlgwáay+V+NEGATIVE+VERYNEAR+FUTURE: jadahlgwáayang k̲asaasdlä'ánggang
-     jadahlgwáay+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'ang'uuj
-     jadahlgwáay+V+NEGATIVE+BIASED+SIMPLE+PRESENT: jadahlgwáay'ang'uujang
-     jadahlgwáay+V+NEGATIVE+RESIGNED_OBLIGATION: jadahlgwáay'angäsaa'uujang
-     jadahlgwáay+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: jadahlgwáay'ang'us
-     jadahlgwáay+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: jadahlgwáay'ang'ujaa
-     jadahlgwáay+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'ang'uujaangaa
-     jadahlgwáay+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: jadahlgwáay'angäsaa'us
-     jadahlgwáay+V+NEGATIVE+CERTAIN+PRESENT: jadahlgwáay'aang'ahlanggang
-     jadahlgwáay+V+NEGATIVE+CERTAIN+PAST: jadahlgwáay'aang'ahlanggan
-     jadahlgwáay+V+NEGATIVE+CERTAIN+PAST+HABITUAL: jadahlgwáay'aang'ahlanggiinii
-     jadahlgwáay+V+NEGATIVE+CERTAIN+FUTURE: jadahlgwáay'angäsaa'ahlans
-     jadahlgwáay+V+NEGATIVE+CERTAIN+RELATIVE: jadahlgwáay'aang'ahlans
-     jadahlgwáay+V+NEGATIVE+INTENSIVE+PAST: jadahlgwáay'aangaa'ahlang
-     jadahlgwáay+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: jadahlgwáay'aangaa'ahlanggaa
-     jadahlgwáay+V+NEGATIVE+COUNTERFACTUAL+PRESENT: jadahlgwáay'aangaa'ahlanggang
-     jadahlgwáay+V+NEGATIVE+REFLEXIVE: jadahlgwáay'aang'ahl
-     jadahlgwáay+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: jadahlgwáay'angäseehl
-     jadahlgwáay+V+NEGATIVE+PLURAL+IMPERATIVE: jadahlgwáay'ang'uu
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: jadahlgwáay'ang'waa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: jadahlgwáay'ang'waa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: jadahlgwáay'ang'waang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: jadahlgwáay'ang'wägan
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: jadahlgwáay'ang'aawaa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: jadahlgwáay'ang'aawaan
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: jadahlgwáay'ang'waas
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: jadahlgwáay'ang'aawaas
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: jadahlgwáay'ang'waa.ang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: jadahlgwáay'ang'aawaa.ang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: jadahlgwáaygang'ang'waa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: jadahlgwáaygang'ang'waang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: jadahlgwáaygang'ang'waa.ang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: jadahlgwáay'ang'wägiinii
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'ang'wägaangaa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: jadahlgwáay'ang'wägaangaan
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: jadahlgwáay'ang'waaäsaa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: jadahlgwáay'ang'waaäs
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: jadahlgwáay'ang'waaäsaang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: jadahlgwáay'ang'waaäsga
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: jadahlgwáay'ang'waaäsaas
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: jadahlgwáay'ang'waaäsaa.ang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asaa'áng
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: jadahlgwáay'waa.ang k̲asaa'ánggang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdlä'áng
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: jadahlgwáay'waa.ang k̲asaasdlä'ánggang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: jadahlgwáay'ang'waa'uuj
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: jadahlgwáay'ang'waa'uujang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: jadahlgwáay'ang'waaäsaa'uujang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: jadahlgwáay'ang'waa'us
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: jadahlgwáay'ang'waa'ujaa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: jadahlgwáay'ang'waa'uujaangaa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: jadahlgwáay'ang'waaäsaa'us
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: jadahlgwáay'ang'waa'ahlanggang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: jadahlgwáay'ang'waa'ahlanggan
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: jadahlgwáay'ang'waa'ahlanggiinii
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: jadahlgwáay'ang'waaäsaa'ahlans
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: jadahlgwáay'ang'waa'ahlans
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: jadahlgwáay'ang'aawaa'ahlang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: jadahlgwáay'ang'aawaa'ahlanggaa
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: jadahlgwáay'ang'aawaa'ahlanggang
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: jadahlgwáay'ang'waa'ahl
-     jadahlgwáay+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: jadahlgwáay'ang'waaäseehl
+     jadahlgwáay+V+SG+IMPV: jadahlgwáay
+     jadahlgwáay+V+IMM+PRES: jadahlgwáayga
+     jadahlgwáay+V+INTERR+SIMP+PRES: jadahlgwáay
+     jadahlgwáay+V+SIMP+PRES: jadahlgwáaygang
+     jadahlgwáay+V+DIR+PAST: jadahlgwáaygan
+     jadahlgwáay+V+INTERR+PAST: jadahlgwáayaa
+     jadahlgwáay+V+INDIR+PAST: jadahlgwáayaan
+     jadahlgwáay+V+REL: jadahlgwáays
+     jadahlgwáay+V+REL+EVID: jadahlgwáayaas
+     jadahlgwáay+V+NONFACT: jadahlgwáayang
+     jadahlgwáay+V+PAST+NONFACT: jadahlgwáayaa.ang
+     jadahlgwáay+V+INTERR+PRES+HAB: jadahlgwáaygang
+     jadahlgwáay+V+PRES+HAB: jadahlgwáayganggang
+     jadahlgwáay+V+PRES+HAB+NONFACT: jadahlgwáaygangang
+     jadahlgwáay+V+DIR+PAST+HAB: jadahlgwáaygiinii
+     jadahlgwáay+V+INTERR+PAST+HAB: jadahlgwáaygaangaa
+     jadahlgwáay+V+INDIR+PAST+HAB: jadahlgwáaygaangaan
+     jadahlgwáay+V+INTERR+FUT+LONG: jadahlgwáayäsaa
+     jadahlgwáay+V+INTERR+FUT+SHORT: jadahlgwáayäs
+     jadahlgwáay+V+SIMP+FUT: jadahlgwáayäsaang
+     jadahlgwáay+V+IMM+FUT: jadahlgwáayäsga
+     jadahlgwáay+V+REL+FUT: jadahlgwáayäsaas
+     jadahlgwáay+V+FUT+NONFACT: jadahlgwáayäsaa.ang
+     jadahlgwáay+V+INTERR+NEAR+FUT: jadahlgwáayang k̲asa'áa
+     jadahlgwáay+V+NEAR+FUT: jadahlgwáayang k̲asa'áang
+     jadahlgwáay+V+INTERR+VNEAR+FUT: jadahlgwáayang k̲asaasdláa
+     jadahlgwáay+V+VNEAR+FUT: jadahlgwáayang k̲asaasdláang
+     jadahlgwáay+V+BIAS+IMM+PRES: jadahlgwáay'uuj
+     jadahlgwáay+V+BIAS+SIMP+PRES: jadahlgwáay'uujang
+     jadahlgwáay+V+RES: jadahlgwáayäsaa'uujang
+     jadahlgwáay+V+BIAS+INTERR+PRES: jadahlgwáay'us
+     jadahlgwáay+V+BIAS+INTERR+PAST: jadahlgwáay'ujaa
+     jadahlgwáay+V+BIAS+INTERR+PAST+HAB: jadahlgwáay'uujaangaa
+     jadahlgwáay+V+BIAS+INTERR+FUT: jadahlgwáayäsaa'us
+     jadahlgwáay+V+CERT+PRES: jadahlgwáay'ahlanggang
+     jadahlgwáay+V+CERT+PAST: jadahlgwáay'ahlanggan
+     jadahlgwáay+V+CERT+PAST+HAB: jadahlgwáay'ahlanggiinii
+     jadahlgwáay+V+CERT+FUT: jadahlgwáayäsaa'ahlans
+     jadahlgwáay+V+CERT+REL: jadahlgwáay'ahlans
+     jadahlgwáay+V+INTS+PAST: jadahlgwáaygaa'ahlang
+     jadahlgwáay+V+CONT: jadahlgwáaygaa'ahlanggaa
+     jadahlgwáay+V+CTFACT+PRES: jadahlgwáaygaa'ahlanggang
+     jadahlgwáay+V+RFLX: jadahlgwáay'ahl
+     jadahlgwáay+V+FUT+RFLX+INTERR: jadahlgwáayäseehl
+     jadahlgwáay+V+PL+IMPV: jadahlgwáay'uu
+     jadahlgwáay+V+3PL+IMM+PRES: jadahlgwáay'waa
+     jadahlgwáay+V+3PL+INTERR+SIMP+PRES: jadahlgwáay'waa
+     jadahlgwáay+V+3PL+SIMP+PRES: jadahlgwáay'waang
+     jadahlgwáay+V+3PL+DIR+PAST: jadahlgwáay'wägan
+     jadahlgwáay+V+3PL+INTERR+PAST: jadahlgwáay'aawaa
+     jadahlgwáay+V+3PL+INDIR+PAST: jadahlgwáay'aawaan
+     jadahlgwáay+V+3PL+REL: jadahlgwáay'waas
+     jadahlgwáay+V+3PL+REL+EVID: jadahlgwáay'aawaas
+     jadahlgwáay+V+3PL+NONFACT: jadahlgwáay'waa.ang
+     jadahlgwáay+V+3PL+PAST+NONFACT: jadahlgwáay'aawaa.ang
+     jadahlgwáay+V+3PL+INTERR+PRES+HAB: jadahlgwáaygang'waa
+     jadahlgwáay+V+3PL+PRES+HAB: jadahlgwáaygang'waang
+     jadahlgwáay+V+3PL+PRES+HAB+NONFACT: jadahlgwáaygang'waa.ang
+     jadahlgwáay+V+3PL+DIR+PAST+HAB: jadahlgwáay'wägiinii
+     jadahlgwáay+V+3PL+INTERR+PAST+HAB: jadahlgwáay'wägaangaa
+     jadahlgwáay+V+3PL+INDIR+PAST+HAB: jadahlgwáay'wägaangaan
+     jadahlgwáay+V+3PL+INTERR+FUT+LONG: jadahlgwáay'waaäsaa
+     jadahlgwáay+V+3PL+INTERR+FUT+SHORT: jadahlgwáay'waaäs
+     jadahlgwáay+V+3PL+SIMP+FUT: jadahlgwáay'waaäsaang
+     jadahlgwáay+V+3PL+IMM+FUT: jadahlgwáay'waaäsga
+     jadahlgwáay+V+3PL+REL+FUT: jadahlgwáay'waaäsaas
+     jadahlgwáay+V+3PL+FUT+NONFACT: jadahlgwáay'waaäsaa.ang
+     jadahlgwáay+V+3PL+INTERR+NEAR+FUT: jadahlgwáay'waa.ang k̲asa'áa
+     jadahlgwáay+V+3PL+NEAR+FUT: jadahlgwáay'waa.ang k̲asa'áang
+     jadahlgwáay+V+3PL+INTERR+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdláa
+     jadahlgwáay+V+3PL+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdláang
+     jadahlgwáay+V+3PL+BIAS+IMM+PRES: jadahlgwáay'waa'uuj
+     jadahlgwáay+V+3PL+BIAS+SIMP+PRES: jadahlgwáay'waa'uujang
+     jadahlgwáay+V+3PL+RES: jadahlgwáay'waaäsaa'uujang
+     jadahlgwáay+V+3PL+BIAS+INTERR+PRES: jadahlgwáay'waa'us
+     jadahlgwáay+V+3PL+BIAS+INTERR+PAST: jadahlgwáay'waa'ujaa
+     jadahlgwáay+V+3PL+BIAS+INTERR+PAST+HAB: jadahlgwáay'waa'uujaangaa
+     jadahlgwáay+V+3PL+BIAS+INTERR+FUT: jadahlgwáay'waaäsaa'us
+     jadahlgwáay+V+3PL+CERT+PRES: jadahlgwáay'waa'ahlanggang
+     jadahlgwáay+V+3PL+CERT+PAST: jadahlgwáay'waa'ahlanggan
+     jadahlgwáay+V+3PL+CERT+PAST+HAB: jadahlgwáay'waa'ahlanggiinii
+     jadahlgwáay+V+3PL+CERT+FUT: jadahlgwáay'waaäsaa'ahlans
+     jadahlgwáay+V+3PL+CERT+REL: jadahlgwáay'waa'ahlans
+     jadahlgwáay+V+3PL+INTS+PAST: jadahlgwáay'aawaa'ahlang
+     jadahlgwáay+V+3PL+CONT: jadahlgwáay'aawaa'ahlanggaa
+     jadahlgwáay+V+3PL+CTFACT+PRES: jadahlgwáay'aawaa'ahlanggang
+     jadahlgwáay+V+3PL+RFLX: jadahlgwáay'waa'ahl
+     jadahlgwáay+V+3PL+FUT+RFLX+INTERR: jadahlgwáay'waaäseehl
+     jadahlgwáay+V+NEG+SG+IMPV: jadahlgwáay'ang
+     jadahlgwáay+V+NEG+IMM+PRES: jadahlgwáay'angga
+     jadahlgwáay+V+NEG+INTERR+SIMP+PRES: jadahlgwáay'ang
+     jadahlgwáay+V+NEG+SIMP+PRES: jadahlgwáay'anggang
+     jadahlgwáay+V+NEG+DIR+PAST: jadahlgwáay'anggan
+     jadahlgwáay+V+NEG+INTERR+PAST: jadahlgwáay'aangaa
+     jadahlgwáay+V+NEG+INDIR+PAST: jadahlgwáay'aangaan
+     jadahlgwáay+V+NEG+REL: jadahlgwáay'ans
+     jadahlgwáay+V+NEG+REL+EVID: jadahlgwáay'aangaas
+     jadahlgwáay+V+NEG+NONFACT: jadahlgwáay'angang
+     jadahlgwáay+V+NEG+PAST+NONFACT: jadahlgwáay'aangaa.ang
+     jadahlgwáay+V+NEG+INTERR+PRES+HAB: jadahlgwáay'anggang
+     jadahlgwáay+V+NEG+PRES+HAB: jadahlgwáaygang'anggang
+     jadahlgwáay+V+NEG+PRES+HAB+NONFACT: jadahlgwáaygang'angang
+     jadahlgwáay+V+NEG+DIR+PAST+HAB: jadahlgwáay'anggiinii
+     jadahlgwáay+V+NEG+INTERR+PAST+HAB: jadahlgwáay'anggaangaa
+     jadahlgwáay+V+NEG+INDIR+PAST+HAB: jadahlgwáay'anggaangaan
+     jadahlgwáay+V+NEG+INTERR+FUT+LONG: jadahlgwáay'angäsaa
+     jadahlgwáay+V+NEG+INTERR+FUT+SHORT: jadahlgwáay'angäs
+     jadahlgwáay+V+NEG+SIMP+FUT: jadahlgwáay'angäsaang
+     jadahlgwáay+V+NEG+IMM+FUT: jadahlgwáay'angäsga
+     jadahlgwáay+V+NEG+REL+FUT: jadahlgwáay'angäsaas
+     jadahlgwáay+V+NEG+FUT+NONFACT: jadahlgwáay'angäsaa.ang
+     jadahlgwáay+V+NEG+INTERR+NEAR+FUT: jadahlgwáayang k̲asaa'áng
+     jadahlgwáay+V+NEG+NEAR+FUT: jadahlgwáayang k̲asaa'ánggang
+     jadahlgwáay+V+NEG+INTERR+VNEAR+FUT: jadahlgwáayang k̲asaasdlä'áng
+     jadahlgwáay+V+NEG+VNEAR+FUT: jadahlgwáayang k̲asaasdlä'ánggang
+     jadahlgwáay+V+NEG+BIAS+IMM+PRES: jadahlgwáay'ang'uuj
+     jadahlgwáay+V+NEG+BIAS+SIMP+PRES: jadahlgwáay'ang'uujang
+     jadahlgwáay+V+NEG+RES: jadahlgwáay'angäsaa'uujang
+     jadahlgwáay+V+NEG+BIAS+INTERR+PRES: jadahlgwáay'ang'us
+     jadahlgwáay+V+NEG+BIAS+INTERR+PAST: jadahlgwáay'ang'ujaa
+     jadahlgwáay+V+NEG+BIAS+INTERR+PAST+HAB: jadahlgwáay'ang'uujaangaa
+     jadahlgwáay+V+NEG+BIAS+INTERR+FUT: jadahlgwáay'angäsaa'us
+     jadahlgwáay+V+NEG+CERT+PRES: jadahlgwáay'aang'ahlanggang
+     jadahlgwáay+V+NEG+CERT+PAST: jadahlgwáay'aang'ahlanggan
+     jadahlgwáay+V+NEG+CERT+PAST+HAB: jadahlgwáay'aang'ahlanggiinii
+     jadahlgwáay+V+NEG+CERT+FUT: jadahlgwáay'angäsaa'ahlans
+     jadahlgwáay+V+NEG+CERT+REL: jadahlgwáay'aang'ahlans
+     jadahlgwáay+V+NEG+INTS+PAST: jadahlgwáay'aangaa'ahlang
+     jadahlgwáay+V+NEG+CONT: jadahlgwáay'aangaa'ahlanggaa
+     jadahlgwáay+V+NEG+CTFACT+PRES: jadahlgwáay'aangaa'ahlanggang
+     jadahlgwáay+V+NEG+RFLX: jadahlgwáay'aang'ahl
+     jadahlgwáay+V+NEG+FUT+RFLX+INTERR: jadahlgwáay'angäseehl
+     jadahlgwáay+V+NEG+PL+IMPV: jadahlgwáay'ang'uu
+     jadahlgwáay+V+NEG+3PL+IMM+PRES: jadahlgwáay'ang'waa
+     jadahlgwáay+V+NEG+3PL+INTERR+SIMP+PRES: jadahlgwáay'ang'waa
+     jadahlgwáay+V+NEG+3PL+SIMP+PRES: jadahlgwáay'ang'waang
+     jadahlgwáay+V+NEG+3PL+DIR+PAST: jadahlgwáay'ang'wägan
+     jadahlgwáay+V+NEG+3PL+INTERR+PAST: jadahlgwáay'ang'aawaa
+     jadahlgwáay+V+NEG+3PL+INDIR+PAST: jadahlgwáay'ang'aawaan
+     jadahlgwáay+V+NEG+3PL+REL: jadahlgwáay'ang'waas
+     jadahlgwáay+V+NEG+3PL+REL+EVID: jadahlgwáay'ang'aawaas
+     jadahlgwáay+V+NEG+3PL+NONFACT: jadahlgwáay'ang'waa.ang
+     jadahlgwáay+V+NEG+3PL+PAST+NONFACT: jadahlgwáay'ang'aawaa.ang
+     jadahlgwáay+V+NEG+3PL+INTERR+PRES+HAB: jadahlgwáaygang'ang'waa
+     jadahlgwáay+V+NEG+3PL+PRES+HAB: jadahlgwáaygang'ang'waang
+     jadahlgwáay+V+NEG+3PL+PRES+HAB+NONFACT: jadahlgwáaygang'ang'waa.ang
+     jadahlgwáay+V+NEG+3PL+DIR+PAST+HAB: jadahlgwáay'ang'wägiinii
+     jadahlgwáay+V+NEG+3PL+INTERR+PAST+HAB: jadahlgwáay'ang'wägaangaa
+     jadahlgwáay+V+NEG+3PL+INDIR+PAST+HAB: jadahlgwáay'ang'wägaangaan
+     jadahlgwáay+V+NEG+3PL+INTERR+FUT+LONG: jadahlgwáay'ang'waaäsaa
+     jadahlgwáay+V+NEG+3PL+INTERR+FUT+SHORT: jadahlgwáay'ang'waaäs
+     jadahlgwáay+V+NEG+3PL+SIMP+FUT: jadahlgwáay'ang'waaäsaang
+     jadahlgwáay+V+NEG+3PL+IMM+FUT: jadahlgwáay'ang'waaäsga
+     jadahlgwáay+V+NEG+3PL+REL+FUT: jadahlgwáay'ang'waaäsaas
+     jadahlgwáay+V+NEG+3PL+FUT+NONFACT: jadahlgwáay'ang'waaäsaa.ang
+     jadahlgwáay+V+NEG+3PL+INTERR+NEAR+FUT: jadahlgwáay'waa.ang k̲asaa'áng
+     jadahlgwáay+V+NEG+3PL+NEAR+FUT: jadahlgwáay'waa.ang k̲asaa'ánggang
+     jadahlgwáay+V+NEG+3PL+INTERR+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdlä'áng
+     jadahlgwáay+V+NEG+3PL+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdlä'ánggang
+     jadahlgwáay+V+NEG+3PL+BIAS+IMM+PRES: jadahlgwáay'ang'waa'uuj
+     jadahlgwáay+V+NEG+3PL+BIAS+SIMP+PRES: jadahlgwáay'ang'waa'uujang
+     jadahlgwáay+V+NEG+3PL+RES: jadahlgwáay'ang'waaäsaa'uujang
+     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+PRES: jadahlgwáay'ang'waa'us
+     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+PAST: jadahlgwáay'ang'waa'ujaa
+     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+PAST+HAB: jadahlgwáay'ang'waa'uujaangaa
+     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+FUT: jadahlgwáay'ang'waaäsaa'us
+     jadahlgwáay+V+NEG+3PL+CERT+PRES: jadahlgwáay'ang'waa'ahlanggang
+     jadahlgwáay+V+NEG+3PL+CERT+PAST: jadahlgwáay'ang'waa'ahlanggan
+     jadahlgwáay+V+NEG+3PL+CERT+PAST+HAB: jadahlgwáay'ang'waa'ahlanggiinii
+     jadahlgwáay+V+NEG+3PL+CERT+FUT: jadahlgwáay'ang'waaäsaa'ahlans
+     jadahlgwáay+V+NEG+3PL+CERT+REL: jadahlgwáay'ang'waa'ahlans
+     jadahlgwáay+V+NEG+3PL+INTS+PAST: jadahlgwáay'ang'aawaa'ahlang
+     jadahlgwáay+V+NEG+3PL+CONT: jadahlgwáay'ang'aawaa'ahlanggaa
+     jadahlgwáay+V+NEG+3PL+CTFACT+PRES: jadahlgwáay'ang'aawaa'ahlanggang
+     jadahlgwáay+V+NEG+3PL+RFLX: jadahlgwáay'ang'waa'ahl
+     jadahlgwáay+V+NEG+3PL+FUT+RFLX+INTERR: jadahlgwáay'ang'waaäseehl
 

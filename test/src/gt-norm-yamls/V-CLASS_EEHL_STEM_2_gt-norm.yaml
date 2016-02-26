@@ -11,28 +11,28 @@ Tests:
 
   Verb - hltanée.eehl - ENGLISH : # CLASS_EEHL_STEM_2
 
-     hltanée.eehl+V+IMMEDIATE+PRESENT: hltanée.eelga
-     hltanée.eehl+V+SIMPLE+PRESENT: hltanée.eelgang
-     hltanée.eehl+V+DIRECT+PAST: hltanée.eelgan
-     hltanée.eehl+V+INTERROGATIVE+PAST: hltanée.eelaa
-     hltanée.eehl+V+INDIRECT+PAST: hltanée.eelaan
-     hltanée.eehl+V+RELATIVE+EVIDENTIAL: hltanée.eelaas
-     hltanée.eehl+V+PAST+NON_FACTIVE: hltanée.eelaa.ang
-     hltanée.eehl+V+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eelgang
-     hltanée.eehl+V+PRESENT+HABITUAL: hltanée.eelganggang
-     hltanée.eehl+V+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgangang
-     hltanée.eehl+V+DIRECT+PAST+HABITUAL: hltanée.eelgiinii
-     hltanée.eehl+V+INTERROGATIVE+PAST+HABITUAL: hltanée.eelgaangaa
-     hltanée.eehl+V+INDIRECT+PAST+HABITUAL: hltanée.eelgaangaan
-     hltanée.eehl+V+INTENSIVE+PAST: hltanée.eelaa'ahlang
-     hltanée.eehl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: hltanée.eelaa'ahlanggaa
-     hltanée.eehl+V+COUNTERFACTUAL+PRESENT: hltanée.eelaa'ahlanggang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eelgang'waa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hltanée.eelgang'waang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgang'waa.ang
-     hltanée.eehl+V+NEGATIVE+PRESENT+HABITUAL: hltanée.eelgang'anggang
-     hltanée.eehl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgang'angang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eelgang'ang'waa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hltanée.eelgang'ang'waang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hltanée.eelgang'ang'waa.ang
+     hltanée.eehl+V+IMM+PRES: hltanée.eelga
+     hltanée.eehl+V+SIMP+PRES: hltanée.eelgang
+     hltanée.eehl+V+DIR+PAST: hltanée.eelgan
+     hltanée.eehl+V+INTERR+PAST: hltanée.eelaa
+     hltanée.eehl+V+INDIR+PAST: hltanée.eelaan
+     hltanée.eehl+V+REL+EVID: hltanée.eelaas
+     hltanée.eehl+V+PAST+NONFACT: hltanée.eelaa.ang
+     hltanée.eehl+V+INTERR+PRES+HAB: hltanée.eelgang
+     hltanée.eehl+V+PRES+HAB: hltanée.eelganggang
+     hltanée.eehl+V+PRES+HAB+NONFACT: hltanée.eelgangang
+     hltanée.eehl+V+DIR+PAST+HAB: hltanée.eelgiinii
+     hltanée.eehl+V+INTERR+PAST+HAB: hltanée.eelgaangaa
+     hltanée.eehl+V+INDIR+PAST+HAB: hltanée.eelgaangaan
+     hltanée.eehl+V+INTS+PAST: hltanée.eelaa'ahlang
+     hltanée.eehl+V+CONT: hltanée.eelaa'ahlanggaa
+     hltanée.eehl+V+CTFACT+PRES: hltanée.eelaa'ahlanggang
+     hltanée.eehl+V+3PL+INTERR+PRES+HAB: hltanée.eelgang'waa
+     hltanée.eehl+V+3PL+PRES+HAB: hltanée.eelgang'waang
+     hltanée.eehl+V+3PL+PRES+HAB+NONFACT: hltanée.eelgang'waa.ang
+     hltanée.eehl+V+NEG+PRES+HAB: hltanée.eelgang'anggang
+     hltanée.eehl+V+NEG+PRES+HAB+NONFACT: hltanée.eelgang'angang
+     hltanée.eehl+V+NEG+3PL+INTERR+PRES+HAB: hltanée.eelgang'ang'waa
+     hltanée.eehl+V+NEG+3PL+PRES+HAB: hltanée.eelgang'ang'waang
+     hltanée.eehl+V+NEG+3PL+PRES+HAB+NONFACT: hltanée.eelgang'ang'waa.ang
 

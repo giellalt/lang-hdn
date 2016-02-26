@@ -11,180 +11,180 @@ Tests:
 
   Verb - tla g̲u - ENGLISH : # CLASS_U
 
-     tla g̲u+V+SINGULAR+IMPERATIVE: tla g̲u
-     tla g̲u+V+IMMEDIATE+PRESENT: tla g̲uga
-     tla g̲u+V+INTERROGATIVE+SIMPLE+PRESENT: tla g̲u
-     tla g̲u+V+SIMPLE+PRESENT: tla g̲ugáng
-     tla g̲u+V+DIRECT+PAST: tla g̲ugán
-     tla g̲u+V+INTERROGATIVE+PAST: tla g̲uyáa
-     tla g̲u+V+INDIRECT+PAST: tla g̲uyáan
-     tla g̲u+V+RELATIVE: tla g̲us
-     tla g̲u+V+RELATIVE+EVIDENTIAL: tla g̲uyáas
-     tla g̲u+V+NON_FACTIVE: tla g̲uáng
-     tla g̲u+V+PAST+NON_FACTIVE: tla g̲uyáa.ang
-     tla g̲u+V+INTERROGATIVE+PRESENT+HABITUAL: tla g̲ugáng
-     tla g̲u+V+PRESENT+HABITUAL: tla g̲ugánggang
-     tla g̲u+V+PRESENT+HABITUAL+NON_FACTIVE: tla g̲ugángang
-     tla g̲u+V+DIRECT+PAST+HABITUAL: tla g̲ugíinii
-     tla g̲u+V+INTERROGATIVE+PAST+HABITUAL: tla g̲ugáangaa
-     tla g̲u+V+INDIRECT+PAST+HABITUAL: tla g̲ugáangaan
-     tla g̲u+V+INTERROGATIVE+FUTURE+LONG: tla g̲uäsáa
-     tla g̲u+V+INTERROGATIVE+FUTURE+SHORT: tla g̲uäs
-     tla g̲u+V+SIMPLE+FUTURE: tla g̲uäsáang
-     tla g̲u+V+IMMEDIATE+FUTURE: tla g̲uäsga
-     tla g̲u+V+RELATIVE+FUTURE: tla g̲uäsáas
-     tla g̲u+V+FUTURE+NON_FACTIVE: tla g̲uäsáa.ang
-     tla g̲u+V+INTERROGATIVE+NEAR+FUTURE: tla g̲uáng k̲asa'áa
-     tla g̲u+V+NEAR+FUTURE: tla g̲uáng k̲asa'áang
-     tla g̲u+V+INTERROGATIVE+VERYNEAR+FUTURE: tla g̲uáng k̲asaasdláa
-     tla g̲u+V+VERYNEAR+FUTURE: tla g̲uáng k̲asaasdláang
-     tla g̲u+V+BIASED+IMMEDIATE+PRESENT: tla g̲u'úuj
-     tla g̲u+V+BIASED+SIMPLE+PRESENT: tla g̲u'úujang
-     tla g̲u+V+RESIGNED_OBLIGATION: tla g̲uäsáa'uujang
-     tla g̲u+V+BIASED+INTERROGATIVE+PRESENT: tla g̲u'us
-     tla g̲u+V+BIASED+INTERROGATIVE+PAST: tla g̲u'ujáa
-     tla g̲u+V+BIASED+INTERROGATIVE+PAST+HABITUAL: tla g̲u'úujaangaa
-     tla g̲u+V+BIASED+INTERROGATIVE+FUTURE: tla g̲uäsáa'us
-     tla g̲u+V+CERTAIN+PRESENT: tla g̲u'ahlánggang
-     tla g̲u+V+CERTAIN+PAST: tla g̲u'ahlánggan
-     tla g̲u+V+CERTAIN+PAST+HABITUAL: tla g̲u'ahlánggiinii
-     tla g̲u+V+CERTAIN+FUTURE: tla g̲uäsáa'ahlans
-     tla g̲u+V+CERTAIN+RELATIVE: tla g̲u'ahláns
-     tla g̲u+V+INTENSIVE+PAST: tla g̲uyáa'ahlang
-     tla g̲u+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla g̲uyáa'ahlanggaa
-     tla g̲u+V+COUNTERFACTUAL+PRESENT: tla g̲uyáa'ahlanggang
-     tla g̲u+V+REFLEXIVE: tla g̲u'ahl
-     tla g̲u+V+FUTURE+REFLEXIVE+INTERROGATIVE: tla g̲uäséehl
-     tla g̲u+V+PLURAL+IMPERATIVE: tla g̲u'úu
-     tla g̲u+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: tla g̲u'wáa
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: tla g̲u'wáa
-     tla g̲u+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: tla g̲u'wáang
-     tla g̲u+V+3rd_PERSON_PLURAL+DIRECT+PAST: tla g̲u'wägán
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: tla g̲u'áawaa
-     tla g̲u+V+3rd_PERSON_PLURAL+INDIRECT+PAST: tla g̲u'áawaan
-     tla g̲u+V+3rd_PERSON_PLURAL+RELATIVE: tla g̲u'wáas
-     tla g̲u+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: tla g̲u'áawaas
-     tla g̲u+V+3rd_PERSON_PLURAL+NON_FACTIVE: tla g̲u'wáa.ang
-     tla g̲u+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: tla g̲u'áawaa.ang
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: tla g̲ugáng'waa
-     tla g̲u+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: tla g̲ugáng'waang
-     tla g̲u+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: tla g̲ugáng'waa.ang
-     tla g̲u+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: tla g̲u'wägíinii
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: tla g̲u'wägáangaa
-     tla g̲u+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: tla g̲u'wägáangaan
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: tla g̲u'wáaäsaa
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: tla g̲u'wáaäs
-     tla g̲u+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: tla g̲u'wáaäsaang
-     tla g̲u+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: tla g̲u'wáaäsga
-     tla g̲u+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: tla g̲u'wáaäsaas
-     tla g̲u+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: tla g̲u'wáaäsaa.ang
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: tla g̲u'wáa.ang k̲asa'áa
-     tla g̲u+V+3rd_PERSON_PLURAL+NEAR+FUTURE: tla g̲u'wáa.ang k̲asa'áang
-     tla g̲u+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: tla g̲u'wáa.ang k̲asaasdláa
-     tla g̲u+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: tla g̲u'wáa.ang k̲asaasdláang
-     tla g̲u+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: tla g̲u'wáa'uuj
-     tla g̲u+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: tla g̲u'wáa'uujang
-     tla g̲u+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: tla g̲u'wáaäsaa'uujang
-     tla g̲u+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: tla g̲u'wáa'us
-     tla g̲u+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: tla g̲u'wáa'ujaa
-     tla g̲u+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: tla g̲u'wáa'uujaangaa
-     tla g̲u+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: tla g̲u'wáaäsaa'us
-     tla g̲u+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: tla g̲u'wáa'ahlanggang
-     tla g̲u+V+3rd_PERSON_PLURAL+CERTAIN+PAST: tla g̲u'wáa'ahlanggan
-     tla g̲u+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: tla g̲u'wáa'ahlanggiinii
-     tla g̲u+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: tla g̲u'wáaäsaa'ahlans
-     tla g̲u+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: tla g̲u'wáa'ahlans
-     tla g̲u+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: tla g̲u'áawaa'ahlang
-     tla g̲u+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla g̲u'áawaa'ahlanggaa
-     tla g̲u+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla g̲u'áawaa'ahlanggang
-     tla g̲u+V+3rd_PERSON_PLURAL+REFLEXIVE: tla g̲u'wáa'ahl
-     tla g̲u+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla g̲u'wáaäseehl
-     tla g̲u+V+NEGATIVE+SINGULAR+IMPERATIVE: tla g̲u'áng
-     tla g̲u+V+NEGATIVE+IMMEDIATE+PRESENT: tla g̲u'ángga
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: tla g̲u'áng
-     tla g̲u+V+NEGATIVE+SIMPLE+PRESENT: tla g̲u'ánggang
-     tla g̲u+V+NEGATIVE+DIRECT+PAST: tla g̲u'ánggan
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+PAST: tla g̲u'áangaa
-     tla g̲u+V+NEGATIVE+INDIRECT+PAST: tla g̲u'áangaan
-     tla g̲u+V+NEGATIVE+RELATIVE: tla g̲u'áns
-     tla g̲u+V+NEGATIVE+RELATIVE+EVIDENTIAL: tla g̲u'áangaas
-     tla g̲u+V+NEGATIVE+NON_FACTIVE: tla g̲u'angáng
-     tla g̲u+V+NEGATIVE+PAST+NON_FACTIVE: tla g̲u'áangaa.ang
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: tla g̲u'ánggang
-     tla g̲u+V+NEGATIVE+PRESENT+HABITUAL: tla g̲ugáng'anggang
-     tla g̲u+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: tla g̲ugáng'angang
-     tla g̲u+V+NEGATIVE+DIRECT+PAST+HABITUAL: tla g̲u'ánggiinii
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: tla g̲u'ánggaangaa
-     tla g̲u+V+NEGATIVE+INDIRECT+PAST+HABITUAL: tla g̲u'ánggaangaan
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: tla g̲u'ángäsaa
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: tla g̲u'ángäs
-     tla g̲u+V+NEGATIVE+SIMPLE+FUTURE: tla g̲u'ángäsaang
-     tla g̲u+V+NEGATIVE+IMMEDIATE+FUTURE: tla g̲u'ángäsga
-     tla g̲u+V+NEGATIVE+RELATIVE+FUTURE: tla g̲u'ángäsaas
-     tla g̲u+V+NEGATIVE+FUTURE+NON_FACTIVE: tla g̲u'ángäsaa.ang
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: tla g̲uáng k̲asaa'áng
-     tla g̲u+V+NEGATIVE+NEAR+FUTURE: tla g̲uáng k̲asaa'ánggang
-     tla g̲u+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: tla g̲uáng k̲asaasdlä'áng
-     tla g̲u+V+NEGATIVE+VERYNEAR+FUTURE: tla g̲uáng k̲asaasdlä'ánggang
-     tla g̲u+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: tla g̲u'áng'uuj
-     tla g̲u+V+NEGATIVE+BIASED+SIMPLE+PRESENT: tla g̲u'áng'uujang
-     tla g̲u+V+NEGATIVE+RESIGNED_OBLIGATION: tla g̲u'ángäsaa'uujang
-     tla g̲u+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: tla g̲u'áng'us
-     tla g̲u+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: tla g̲u'áng'ujaa
-     tla g̲u+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: tla g̲u'áng'uujaangaa
-     tla g̲u+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: tla g̲u'ángäsaa'us
-     tla g̲u+V+NEGATIVE+CERTAIN+PRESENT: tla g̲u'áang'ahlanggang
-     tla g̲u+V+NEGATIVE+CERTAIN+PAST: tla g̲u'áang'ahlanggan
-     tla g̲u+V+NEGATIVE+CERTAIN+PAST+HABITUAL: tla g̲u'áang'ahlanggiinii
-     tla g̲u+V+NEGATIVE+CERTAIN+FUTURE: tla g̲u'ángäsaa'ahlans
-     tla g̲u+V+NEGATIVE+CERTAIN+RELATIVE: tla g̲u'áang'ahlans
-     tla g̲u+V+NEGATIVE+INTENSIVE+PAST: tla g̲u'áangaa'ahlang
-     tla g̲u+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla g̲u'áangaa'ahlanggaa
-     tla g̲u+V+NEGATIVE+COUNTERFACTUAL+PRESENT: tla g̲u'áangaa'ahlanggang
-     tla g̲u+V+NEGATIVE+REFLEXIVE: tla g̲u'áang'ahl
-     tla g̲u+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: tla g̲u'ángäseehl
-     tla g̲u+V+NEGATIVE+PLURAL+IMPERATIVE: tla g̲u'áng'uu
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: tla g̲u'áng'waa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: tla g̲u'áng'waa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: tla g̲u'áng'waang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: tla g̲u'áng'wägan
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: tla g̲u'áng'aawaa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: tla g̲u'áng'aawaan
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: tla g̲u'áng'waas
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: tla g̲u'áng'aawaas
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: tla g̲u'áng'waa.ang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: tla g̲u'áng'aawaa.ang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: tla g̲ugáng'ang'waa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: tla g̲ugáng'ang'waang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: tla g̲ugáng'ang'waa.ang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: tla g̲u'áng'wägiinii
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: tla g̲u'áng'wägaangaa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: tla g̲u'áng'wägaangaan
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: tla g̲u'áng'waaäsaa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: tla g̲u'áng'waaäs
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: tla g̲u'áng'waaäsaang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: tla g̲u'áng'waaäsga
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: tla g̲u'áng'waaäsaas
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: tla g̲u'áng'waaäsaa.ang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: tla g̲u'wáa.ang k̲asaa'áng
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: tla g̲u'wáa.ang k̲asaa'ánggang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: tla g̲u'wáa.ang k̲asaasdlä'áng
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: tla g̲u'wáa.ang k̲asaasdlä'ánggang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: tla g̲u'áng'waa'uuj
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: tla g̲u'áng'waa'uujang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: tla g̲u'áng'waaäsaa'uujang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: tla g̲u'áng'waa'us
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: tla g̲u'áng'waa'ujaa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: tla g̲u'áng'waa'uujaangaa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: tla g̲u'áng'waaäsaa'us
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: tla g̲u'áng'waa'ahlanggang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: tla g̲u'áng'waa'ahlanggan
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: tla g̲u'áng'waa'ahlanggiinii
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: tla g̲u'áng'waaäsaa'ahlans
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: tla g̲u'áng'waa'ahlans
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: tla g̲u'áng'aawaa'ahlang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: tla g̲u'áng'aawaa'ahlanggaa
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: tla g̲u'áng'aawaa'ahlanggang
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: tla g̲u'áng'waa'ahl
-     tla g̲u+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: tla g̲u'áng'waaäseehl
+     tla g̲u+V+SG+IMPV: tla g̲u
+     tla g̲u+V+IMM+PRES: tla g̲uga
+     tla g̲u+V+INTERR+SIMP+PRES: tla g̲u
+     tla g̲u+V+SIMP+PRES: tla g̲ugáng
+     tla g̲u+V+DIR+PAST: tla g̲ugán
+     tla g̲u+V+INTERR+PAST: tla g̲uyáa
+     tla g̲u+V+INDIR+PAST: tla g̲uyáan
+     tla g̲u+V+REL: tla g̲us
+     tla g̲u+V+REL+EVID: tla g̲uyáas
+     tla g̲u+V+NONFACT: tla g̲uáng
+     tla g̲u+V+PAST+NONFACT: tla g̲uyáa.ang
+     tla g̲u+V+INTERR+PRES+HAB: tla g̲ugáng
+     tla g̲u+V+PRES+HAB: tla g̲ugánggang
+     tla g̲u+V+PRES+HAB+NONFACT: tla g̲ugángang
+     tla g̲u+V+DIR+PAST+HAB: tla g̲ugíinii
+     tla g̲u+V+INTERR+PAST+HAB: tla g̲ugáangaa
+     tla g̲u+V+INDIR+PAST+HAB: tla g̲ugáangaan
+     tla g̲u+V+INTERR+FUT+LONG: tla g̲uäsáa
+     tla g̲u+V+INTERR+FUT+SHORT: tla g̲uäs
+     tla g̲u+V+SIMP+FUT: tla g̲uäsáang
+     tla g̲u+V+IMM+FUT: tla g̲uäsga
+     tla g̲u+V+REL+FUT: tla g̲uäsáas
+     tla g̲u+V+FUT+NONFACT: tla g̲uäsáa.ang
+     tla g̲u+V+INTERR+NEAR+FUT: tla g̲uáng k̲asa'áa
+     tla g̲u+V+NEAR+FUT: tla g̲uáng k̲asa'áang
+     tla g̲u+V+INTERR+VNEAR+FUT: tla g̲uáng k̲asaasdláa
+     tla g̲u+V+VNEAR+FUT: tla g̲uáng k̲asaasdláang
+     tla g̲u+V+BIAS+IMM+PRES: tla g̲u'úuj
+     tla g̲u+V+BIAS+SIMP+PRES: tla g̲u'úujang
+     tla g̲u+V+RES: tla g̲uäsáa'uujang
+     tla g̲u+V+BIAS+INTERR+PRES: tla g̲u'us
+     tla g̲u+V+BIAS+INTERR+PAST: tla g̲u'ujáa
+     tla g̲u+V+BIAS+INTERR+PAST+HAB: tla g̲u'úujaangaa
+     tla g̲u+V+BIAS+INTERR+FUT: tla g̲uäsáa'us
+     tla g̲u+V+CERT+PRES: tla g̲u'ahlánggang
+     tla g̲u+V+CERT+PAST: tla g̲u'ahlánggan
+     tla g̲u+V+CERT+PAST+HAB: tla g̲u'ahlánggiinii
+     tla g̲u+V+CERT+FUT: tla g̲uäsáa'ahlans
+     tla g̲u+V+CERT+REL: tla g̲u'ahláns
+     tla g̲u+V+INTS+PAST: tla g̲uyáa'ahlang
+     tla g̲u+V+CONT: tla g̲uyáa'ahlanggaa
+     tla g̲u+V+CTFACT+PRES: tla g̲uyáa'ahlanggang
+     tla g̲u+V+RFLX: tla g̲u'ahl
+     tla g̲u+V+FUT+RFLX+INTERR: tla g̲uäséehl
+     tla g̲u+V+PL+IMPV: tla g̲u'úu
+     tla g̲u+V+3PL+IMM+PRES: tla g̲u'wáa
+     tla g̲u+V+3PL+INTERR+SIMP+PRES: tla g̲u'wáa
+     tla g̲u+V+3PL+SIMP+PRES: tla g̲u'wáang
+     tla g̲u+V+3PL+DIR+PAST: tla g̲u'wägán
+     tla g̲u+V+3PL+INTERR+PAST: tla g̲u'áawaa
+     tla g̲u+V+3PL+INDIR+PAST: tla g̲u'áawaan
+     tla g̲u+V+3PL+REL: tla g̲u'wáas
+     tla g̲u+V+3PL+REL+EVID: tla g̲u'áawaas
+     tla g̲u+V+3PL+NONFACT: tla g̲u'wáa.ang
+     tla g̲u+V+3PL+PAST+NONFACT: tla g̲u'áawaa.ang
+     tla g̲u+V+3PL+INTERR+PRES+HAB: tla g̲ugáng'waa
+     tla g̲u+V+3PL+PRES+HAB: tla g̲ugáng'waang
+     tla g̲u+V+3PL+PRES+HAB+NONFACT: tla g̲ugáng'waa.ang
+     tla g̲u+V+3PL+DIR+PAST+HAB: tla g̲u'wägíinii
+     tla g̲u+V+3PL+INTERR+PAST+HAB: tla g̲u'wägáangaa
+     tla g̲u+V+3PL+INDIR+PAST+HAB: tla g̲u'wägáangaan
+     tla g̲u+V+3PL+INTERR+FUT+LONG: tla g̲u'wáaäsaa
+     tla g̲u+V+3PL+INTERR+FUT+SHORT: tla g̲u'wáaäs
+     tla g̲u+V+3PL+SIMP+FUT: tla g̲u'wáaäsaang
+     tla g̲u+V+3PL+IMM+FUT: tla g̲u'wáaäsga
+     tla g̲u+V+3PL+REL+FUT: tla g̲u'wáaäsaas
+     tla g̲u+V+3PL+FUT+NONFACT: tla g̲u'wáaäsaa.ang
+     tla g̲u+V+3PL+INTERR+NEAR+FUT: tla g̲u'wáa.ang k̲asa'áa
+     tla g̲u+V+3PL+NEAR+FUT: tla g̲u'wáa.ang k̲asa'áang
+     tla g̲u+V+3PL+INTERR+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdláa
+     tla g̲u+V+3PL+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdláang
+     tla g̲u+V+3PL+BIAS+IMM+PRES: tla g̲u'wáa'uuj
+     tla g̲u+V+3PL+BIAS+SIMP+PRES: tla g̲u'wáa'uujang
+     tla g̲u+V+3PL+RES: tla g̲u'wáaäsaa'uujang
+     tla g̲u+V+3PL+BIAS+INTERR+PRES: tla g̲u'wáa'us
+     tla g̲u+V+3PL+BIAS+INTERR+PAST: tla g̲u'wáa'ujaa
+     tla g̲u+V+3PL+BIAS+INTERR+PAST+HAB: tla g̲u'wáa'uujaangaa
+     tla g̲u+V+3PL+BIAS+INTERR+FUT: tla g̲u'wáaäsaa'us
+     tla g̲u+V+3PL+CERT+PRES: tla g̲u'wáa'ahlanggang
+     tla g̲u+V+3PL+CERT+PAST: tla g̲u'wáa'ahlanggan
+     tla g̲u+V+3PL+CERT+PAST+HAB: tla g̲u'wáa'ahlanggiinii
+     tla g̲u+V+3PL+CERT+FUT: tla g̲u'wáaäsaa'ahlans
+     tla g̲u+V+3PL+CERT+REL: tla g̲u'wáa'ahlans
+     tla g̲u+V+3PL+INTS+PAST: tla g̲u'áawaa'ahlang
+     tla g̲u+V+3PL+CONT: tla g̲u'áawaa'ahlanggaa
+     tla g̲u+V+3PL+CTFACT+PRES: tla g̲u'áawaa'ahlanggang
+     tla g̲u+V+3PL+RFLX: tla g̲u'wáa'ahl
+     tla g̲u+V+3PL+FUT+RFLX+INTERR: tla g̲u'wáaäseehl
+     tla g̲u+V+NEG+SG+IMPV: tla g̲u'áng
+     tla g̲u+V+NEG+IMM+PRES: tla g̲u'ángga
+     tla g̲u+V+NEG+INTERR+SIMP+PRES: tla g̲u'áng
+     tla g̲u+V+NEG+SIMP+PRES: tla g̲u'ánggang
+     tla g̲u+V+NEG+DIR+PAST: tla g̲u'ánggan
+     tla g̲u+V+NEG+INTERR+PAST: tla g̲u'áangaa
+     tla g̲u+V+NEG+INDIR+PAST: tla g̲u'áangaan
+     tla g̲u+V+NEG+REL: tla g̲u'áns
+     tla g̲u+V+NEG+REL+EVID: tla g̲u'áangaas
+     tla g̲u+V+NEG+NONFACT: tla g̲u'angáng
+     tla g̲u+V+NEG+PAST+NONFACT: tla g̲u'áangaa.ang
+     tla g̲u+V+NEG+INTERR+PRES+HAB: tla g̲u'ánggang
+     tla g̲u+V+NEG+PRES+HAB: tla g̲ugáng'anggang
+     tla g̲u+V+NEG+PRES+HAB+NONFACT: tla g̲ugáng'angang
+     tla g̲u+V+NEG+DIR+PAST+HAB: tla g̲u'ánggiinii
+     tla g̲u+V+NEG+INTERR+PAST+HAB: tla g̲u'ánggaangaa
+     tla g̲u+V+NEG+INDIR+PAST+HAB: tla g̲u'ánggaangaan
+     tla g̲u+V+NEG+INTERR+FUT+LONG: tla g̲u'ángäsaa
+     tla g̲u+V+NEG+INTERR+FUT+SHORT: tla g̲u'ángäs
+     tla g̲u+V+NEG+SIMP+FUT: tla g̲u'ángäsaang
+     tla g̲u+V+NEG+IMM+FUT: tla g̲u'ángäsga
+     tla g̲u+V+NEG+REL+FUT: tla g̲u'ángäsaas
+     tla g̲u+V+NEG+FUT+NONFACT: tla g̲u'ángäsaa.ang
+     tla g̲u+V+NEG+INTERR+NEAR+FUT: tla g̲uáng k̲asaa'áng
+     tla g̲u+V+NEG+NEAR+FUT: tla g̲uáng k̲asaa'ánggang
+     tla g̲u+V+NEG+INTERR+VNEAR+FUT: tla g̲uáng k̲asaasdlä'áng
+     tla g̲u+V+NEG+VNEAR+FUT: tla g̲uáng k̲asaasdlä'ánggang
+     tla g̲u+V+NEG+BIAS+IMM+PRES: tla g̲u'áng'uuj
+     tla g̲u+V+NEG+BIAS+SIMP+PRES: tla g̲u'áng'uujang
+     tla g̲u+V+NEG+RES: tla g̲u'ángäsaa'uujang
+     tla g̲u+V+NEG+BIAS+INTERR+PRES: tla g̲u'áng'us
+     tla g̲u+V+NEG+BIAS+INTERR+PAST: tla g̲u'áng'ujaa
+     tla g̲u+V+NEG+BIAS+INTERR+PAST+HAB: tla g̲u'áng'uujaangaa
+     tla g̲u+V+NEG+BIAS+INTERR+FUT: tla g̲u'ángäsaa'us
+     tla g̲u+V+NEG+CERT+PRES: tla g̲u'áang'ahlanggang
+     tla g̲u+V+NEG+CERT+PAST: tla g̲u'áang'ahlanggan
+     tla g̲u+V+NEG+CERT+PAST+HAB: tla g̲u'áang'ahlanggiinii
+     tla g̲u+V+NEG+CERT+FUT: tla g̲u'ángäsaa'ahlans
+     tla g̲u+V+NEG+CERT+REL: tla g̲u'áang'ahlans
+     tla g̲u+V+NEG+INTS+PAST: tla g̲u'áangaa'ahlang
+     tla g̲u+V+NEG+CONT: tla g̲u'áangaa'ahlanggaa
+     tla g̲u+V+NEG+CTFACT+PRES: tla g̲u'áangaa'ahlanggang
+     tla g̲u+V+NEG+RFLX: tla g̲u'áang'ahl
+     tla g̲u+V+NEG+FUT+RFLX+INTERR: tla g̲u'ángäseehl
+     tla g̲u+V+NEG+PL+IMPV: tla g̲u'áng'uu
+     tla g̲u+V+NEG+3PL+IMM+PRES: tla g̲u'áng'waa
+     tla g̲u+V+NEG+3PL+INTERR+SIMP+PRES: tla g̲u'áng'waa
+     tla g̲u+V+NEG+3PL+SIMP+PRES: tla g̲u'áng'waang
+     tla g̲u+V+NEG+3PL+DIR+PAST: tla g̲u'áng'wägan
+     tla g̲u+V+NEG+3PL+INTERR+PAST: tla g̲u'áng'aawaa
+     tla g̲u+V+NEG+3PL+INDIR+PAST: tla g̲u'áng'aawaan
+     tla g̲u+V+NEG+3PL+REL: tla g̲u'áng'waas
+     tla g̲u+V+NEG+3PL+REL+EVID: tla g̲u'áng'aawaas
+     tla g̲u+V+NEG+3PL+NONFACT: tla g̲u'áng'waa.ang
+     tla g̲u+V+NEG+3PL+PAST+NONFACT: tla g̲u'áng'aawaa.ang
+     tla g̲u+V+NEG+3PL+INTERR+PRES+HAB: tla g̲ugáng'ang'waa
+     tla g̲u+V+NEG+3PL+PRES+HAB: tla g̲ugáng'ang'waang
+     tla g̲u+V+NEG+3PL+PRES+HAB+NONFACT: tla g̲ugáng'ang'waa.ang
+     tla g̲u+V+NEG+3PL+DIR+PAST+HAB: tla g̲u'áng'wägiinii
+     tla g̲u+V+NEG+3PL+INTERR+PAST+HAB: tla g̲u'áng'wägaangaa
+     tla g̲u+V+NEG+3PL+INDIR+PAST+HAB: tla g̲u'áng'wägaangaan
+     tla g̲u+V+NEG+3PL+INTERR+FUT+LONG: tla g̲u'áng'waaäsaa
+     tla g̲u+V+NEG+3PL+INTERR+FUT+SHORT: tla g̲u'áng'waaäs
+     tla g̲u+V+NEG+3PL+SIMP+FUT: tla g̲u'áng'waaäsaang
+     tla g̲u+V+NEG+3PL+IMM+FUT: tla g̲u'áng'waaäsga
+     tla g̲u+V+NEG+3PL+REL+FUT: tla g̲u'áng'waaäsaas
+     tla g̲u+V+NEG+3PL+FUT+NONFACT: tla g̲u'áng'waaäsaa.ang
+     tla g̲u+V+NEG+3PL+INTERR+NEAR+FUT: tla g̲u'wáa.ang k̲asaa'áng
+     tla g̲u+V+NEG+3PL+NEAR+FUT: tla g̲u'wáa.ang k̲asaa'ánggang
+     tla g̲u+V+NEG+3PL+INTERR+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdlä'áng
+     tla g̲u+V+NEG+3PL+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdlä'ánggang
+     tla g̲u+V+NEG+3PL+BIAS+IMM+PRES: tla g̲u'áng'waa'uuj
+     tla g̲u+V+NEG+3PL+BIAS+SIMP+PRES: tla g̲u'áng'waa'uujang
+     tla g̲u+V+NEG+3PL+RES: tla g̲u'áng'waaäsaa'uujang
+     tla g̲u+V+NEG+3PL+BIAS+INTERR+PRES: tla g̲u'áng'waa'us
+     tla g̲u+V+NEG+3PL+BIAS+INTERR+PAST: tla g̲u'áng'waa'ujaa
+     tla g̲u+V+NEG+3PL+BIAS+INTERR+PAST+HAB: tla g̲u'áng'waa'uujaangaa
+     tla g̲u+V+NEG+3PL+BIAS+INTERR+FUT: tla g̲u'áng'waaäsaa'us
+     tla g̲u+V+NEG+3PL+CERT+PRES: tla g̲u'áng'waa'ahlanggang
+     tla g̲u+V+NEG+3PL+CERT+PAST: tla g̲u'áng'waa'ahlanggan
+     tla g̲u+V+NEG+3PL+CERT+PAST+HAB: tla g̲u'áng'waa'ahlanggiinii
+     tla g̲u+V+NEG+3PL+CERT+FUT: tla g̲u'áng'waaäsaa'ahlans
+     tla g̲u+V+NEG+3PL+CERT+REL: tla g̲u'áng'waa'ahlans
+     tla g̲u+V+NEG+3PL+INTS+PAST: tla g̲u'áng'aawaa'ahlang
+     tla g̲u+V+NEG+3PL+CONT: tla g̲u'áng'aawaa'ahlanggaa
+     tla g̲u+V+NEG+3PL+CTFACT+PRES: tla g̲u'áng'aawaa'ahlanggang
+     tla g̲u+V+NEG+3PL+RFLX: tla g̲u'áng'waa'ahl
+     tla g̲u+V+NEG+3PL+FUT+RFLX+INTERR: tla g̲u'áng'waaäseehl
 

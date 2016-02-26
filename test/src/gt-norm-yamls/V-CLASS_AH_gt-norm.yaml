@@ -11,180 +11,180 @@ Tests:
 
   Verb - dah - ENGLISH : # CLASS_AH
 
-     dah+V+SINGULAR+IMPERATIVE: dah
-     dah+V+IMMEDIATE+PRESENT: dahga
-     dah+V+INTERROGATIVE+SIMPLE+PRESENT: dah
-     dah+V+SIMPLE+PRESENT: dahgáng
-     dah+V+DIRECT+PAST: dahgán
-     dah+V+INTERROGATIVE+PAST: dahgáa
-     dah+V+INDIRECT+PAST: dahgáan
-     dah+V+RELATIVE: dahs
-     dah+V+RELATIVE+EVIDENTIAL: dahgáas
-     dah+V+NON_FACTIVE: daháng
-     dah+V+PAST+NON_FACTIVE: dahgáa.ang
-     dah+V+INTERROGATIVE+PRESENT+HABITUAL: dahgáng
-     dah+V+PRESENT+HABITUAL: dahgánggang
-     dah+V+PRESENT+HABITUAL+NON_FACTIVE: dahgangáng
-     dah+V+DIRECT+PAST+HABITUAL: dahgíinii
-     dah+V+INTERROGATIVE+PAST+HABITUAL: dahgáangaa
-     dah+V+INDIRECT+PAST+HABITUAL: dahgáangaan
-     dah+V+INTERROGATIVE+FUTURE+LONG: dahäsáa
-     dah+V+INTERROGATIVE+FUTURE+SHORT: dahäs
-     dah+V+SIMPLE+FUTURE: dahäsáang
-     dah+V+IMMEDIATE+FUTURE: dahäsga
-     dah+V+RELATIVE+FUTURE: dahäsáas
-     dah+V+FUTURE+NON_FACTIVE: dahäsáa.ang
-     dah+V+INTERROGATIVE+NEAR+FUTURE: daháng k̲asa'áa
-     dah+V+NEAR+FUTURE: daháng k̲asa'áang
-     dah+V+INTERROGATIVE+VERYNEAR+FUTURE: daháng k̲asaasdláa
-     dah+V+VERYNEAR+FUTURE: daháng k̲asaasdláang
-     dah+V+BIASED+IMMEDIATE+PRESENT: dah'úuj
-     dah+V+BIASED+SIMPLE+PRESENT: dah'úujang
-     dah+V+RESIGNED_OBLIGATION: dahäsáa'uujang
-     dah+V+BIASED+INTERROGATIVE+PRESENT: dah'us
-     dah+V+BIASED+INTERROGATIVE+PAST: dah'ujáa
-     dah+V+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'úujaangaa
-     dah+V+BIASED+INTERROGATIVE+FUTURE: dahäsáa'us
-     dah+V+CERTAIN+PRESENT: dah'ahlánggang
-     dah+V+CERTAIN+PAST: dah'ahlánggan
-     dah+V+CERTAIN+PAST+HABITUAL: dah'ahlánggiinii
-     dah+V+CERTAIN+FUTURE: dahäsáa'ahlans
-     dah+V+CERTAIN+RELATIVE: dah'ahláns
-     dah+V+INTENSIVE+PAST: dahgáa'ahlang
-     dah+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dahgáa'ahlanggaa
-     dah+V+COUNTERFACTUAL+PRESENT: dahgáa'ahlanggang
-     dah+V+REFLEXIVE: dah'ahl
-     dah+V+FUTURE+REFLEXIVE+INTERROGATIVE: dahäséehl
-     dah+V+PLURAL+IMPERATIVE: dah'úu
-     dah+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: dah'wáa
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: dah'wáa
-     dah+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: dah'wáang
-     dah+V+3rd_PERSON_PLURAL+DIRECT+PAST: dah'wägán
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: dah'áawaa
-     dah+V+3rd_PERSON_PLURAL+INDIRECT+PAST: dah'áawaan
-     dah+V+3rd_PERSON_PLURAL+RELATIVE: dah'wáas
-     dah+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: dah'áawaas
-     dah+V+3rd_PERSON_PLURAL+NON_FACTIVE: dah'wáa.ang
-     dah+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: dah'áawaa.ang
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: dahgáng'waa
-     dah+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: dahgáng'waang
-     dah+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: dahgáng'waa.ang
-     dah+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: dah'wägíinii
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: dah'wägáangaa
-     dah+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: dah'wägáangaan
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: dah'wáaäsaa
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: dah'wáaäs
-     dah+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: dah'wáaäsaang
-     dah+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dah'wáaäsga
-     dah+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dah'wáaäsaas
-     dah+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dah'wáaäsaa.ang
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'wáa.ang k̲asa'áa
-     dah+V+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'wáa.ang k̲asa'áang
-     dah+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdláa
-     dah+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdláang
-     dah+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dah'wáa'uuj
-     dah+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dah'wáa'uujang
-     dah+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dah'wáaäsaa'uujang
-     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: dah'wáa'us
-     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: dah'wáa'ujaa
-     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'wáa'uujaangaa
-     dah+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: dah'wáaäsaa'us
-     dah+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: dah'wáa'ahlanggang
-     dah+V+3rd_PERSON_PLURAL+CERTAIN+PAST: dah'wáa'ahlanggan
-     dah+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: dah'wáa'ahlanggiinii
-     dah+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: dah'wáaäsaa'ahlans
-     dah+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: dah'wáa'ahlans
-     dah+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: dah'áawaa'ahlang
-     dah+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dah'áawaa'ahlanggaa
-     dah+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dah'áawaa'ahlanggang
-     dah+V+3rd_PERSON_PLURAL+REFLEXIVE: dah'wáa'ahl
-     dah+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dah'wáaäseehl
-     dah+V+NEGATIVE+SINGULAR+IMPERATIVE: dah'áng
-     dah+V+NEGATIVE+IMMEDIATE+PRESENT: dah'ángga
-     dah+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: dah'áng
-     dah+V+NEGATIVE+SIMPLE+PRESENT: dah'ánggang
-     dah+V+NEGATIVE+DIRECT+PAST: dah'ánggan
-     dah+V+NEGATIVE+INTERROGATIVE+PAST: dah'áangaa
-     dah+V+NEGATIVE+INDIRECT+PAST: dah'áangaan
-     dah+V+NEGATIVE+RELATIVE: dah'áns
-     dah+V+NEGATIVE+RELATIVE+EVIDENTIAL: dah'áangaas
-     dah+V+NEGATIVE+NON_FACTIVE: dah'angáng
-     dah+V+NEGATIVE+PAST+NON_FACTIVE: dah'áangaa.ang
-     dah+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: dah'ánggang
-     dah+V+NEGATIVE+PRESENT+HABITUAL: dahgáng'anggang
-     dah+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: dahgáng'angang
-     dah+V+NEGATIVE+DIRECT+PAST+HABITUAL: dah'ánggiinii
-     dah+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: dah'ánggaangaa
-     dah+V+NEGATIVE+INDIRECT+PAST+HABITUAL: dah'ánggaangaan
-     dah+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: dah'ángäsaa
-     dah+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: dah'ángäs
-     dah+V+NEGATIVE+SIMPLE+FUTURE: dah'ángäsaang
-     dah+V+NEGATIVE+IMMEDIATE+FUTURE: dah'ángäsga
-     dah+V+NEGATIVE+RELATIVE+FUTURE: dah'ángäsaas
-     dah+V+NEGATIVE+FUTURE+NON_FACTIVE: dah'ángäsaa.ang
-     dah+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: daháng k̲asaa'áng
-     dah+V+NEGATIVE+NEAR+FUTURE: daháng k̲asaa'ánggang
-     dah+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: daháng k̲asaasdlä'áng
-     dah+V+NEGATIVE+VERYNEAR+FUTURE: daháng k̲asaasdlä'ánggang
-     dah+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: dah'áng'uuj
-     dah+V+NEGATIVE+BIASED+SIMPLE+PRESENT: dah'áng'uujang
-     dah+V+NEGATIVE+RESIGNED_OBLIGATION: dah'ángäsaa'uujang
-     dah+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: dah'áng'us
-     dah+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: dah'áng'ujaa
-     dah+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'áng'uujaangaa
-     dah+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: dah'ángäsaa'us
-     dah+V+NEGATIVE+CERTAIN+PRESENT: dah'áang'ahlanggang
-     dah+V+NEGATIVE+CERTAIN+PAST: dah'áang'ahlanggan
-     dah+V+NEGATIVE+CERTAIN+PAST+HABITUAL: dah'áang'ahlanggiinii
-     dah+V+NEGATIVE+CERTAIN+FUTURE: dah'ángäsaa'ahlans
-     dah+V+NEGATIVE+CERTAIN+RELATIVE: dah'áang'ahlans
-     dah+V+NEGATIVE+INTENSIVE+PAST: dah'áangaa'ahlang
-     dah+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dah'áangaa'ahlanggaa
-     dah+V+NEGATIVE+COUNTERFACTUAL+PRESENT: dah'áangaa'ahlanggang
-     dah+V+NEGATIVE+REFLEXIVE: dah'áang'ahl
-     dah+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: dah'ángäseehl
-     dah+V+NEGATIVE+PLURAL+IMPERATIVE: dah'áng'uu
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: dah'áng'waa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: dah'áng'waa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: dah'áng'waang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: dah'áng'wägan
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: dah'áng'aawaa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: dah'áng'aawaan
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: dah'áng'waas
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: dah'áng'aawaas
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: dah'áng'waa.ang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: dah'áng'aawaa.ang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: dahgáng'ang'waa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: dahgáng'ang'waang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: dahgáng'ang'waa.ang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: dah'áng'wägiinii
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: dah'áng'wägaangaa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: dah'áng'wägaangaan
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: dah'áng'waaäsaa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: dah'áng'waaäs
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: dah'áng'waaäsaang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: dah'áng'waaäsga
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: dah'áng'waaäsaas
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: dah'áng'waaäsaa.ang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: dah'wáa.ang k̲asaa'áng
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: dah'wáa.ang k̲asaa'ánggang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdlä'áng
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: dah'wáa.ang k̲asaasdlä'ánggang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: dah'áng'waa'uuj
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: dah'áng'waa'uujang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: dah'áng'waaäsaa'uujang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: dah'áng'waa'us
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: dah'áng'waa'ujaa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: dah'áng'waa'uujaangaa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: dah'áng'waaäsaa'us
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: dah'áng'waa'ahlanggang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: dah'áng'waa'ahlanggan
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: dah'áng'waa'ahlanggiinii
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: dah'áng'waaäsaa'ahlans
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: dah'áng'waa'ahlans
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: dah'áng'aawaa'ahlang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dah'áng'aawaa'ahlanggaa
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: dah'áng'aawaa'ahlanggang
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: dah'áng'waa'ahl
-     dah+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: dah'áng'waaäseehl
+     dah+V+SG+IMPV: dah
+     dah+V+IMM+PRES: dahga
+     dah+V+INTERR+SIMP+PRES: dah
+     dah+V+SIMP+PRES: dahgáng
+     dah+V+DIR+PAST: dahgán
+     dah+V+INTERR+PAST: dahgáa
+     dah+V+INDIR+PAST: dahgáan
+     dah+V+REL: dahs
+     dah+V+REL+EVID: dahgáas
+     dah+V+NONFACT: daháng
+     dah+V+PAST+NONFACT: dahgáa.ang
+     dah+V+INTERR+PRES+HAB: dahgáng
+     dah+V+PRES+HAB: dahgánggang
+     dah+V+PRES+HAB+NONFACT: dahgangáng
+     dah+V+DIR+PAST+HAB: dahgíinii
+     dah+V+INTERR+PAST+HAB: dahgáangaa
+     dah+V+INDIR+PAST+HAB: dahgáangaan
+     dah+V+INTERR+FUT+LONG: dahäsáa
+     dah+V+INTERR+FUT+SHORT: dahäs
+     dah+V+SIMP+FUT: dahäsáang
+     dah+V+IMM+FUT: dahäsga
+     dah+V+REL+FUT: dahäsáas
+     dah+V+FUT+NONFACT: dahäsáa.ang
+     dah+V+INTERR+NEAR+FUT: daháng k̲asa'áa
+     dah+V+NEAR+FUT: daháng k̲asa'áang
+     dah+V+INTERR+VNEAR+FUT: daháng k̲asaasdláa
+     dah+V+VNEAR+FUT: daháng k̲asaasdláang
+     dah+V+BIAS+IMM+PRES: dah'úuj
+     dah+V+BIAS+SIMP+PRES: dah'úujang
+     dah+V+RES: dahäsáa'uujang
+     dah+V+BIAS+INTERR+PRES: dah'us
+     dah+V+BIAS+INTERR+PAST: dah'ujáa
+     dah+V+BIAS+INTERR+PAST+HAB: dah'úujaangaa
+     dah+V+BIAS+INTERR+FUT: dahäsáa'us
+     dah+V+CERT+PRES: dah'ahlánggang
+     dah+V+CERT+PAST: dah'ahlánggan
+     dah+V+CERT+PAST+HAB: dah'ahlánggiinii
+     dah+V+CERT+FUT: dahäsáa'ahlans
+     dah+V+CERT+REL: dah'ahláns
+     dah+V+INTS+PAST: dahgáa'ahlang
+     dah+V+CONT: dahgáa'ahlanggaa
+     dah+V+CTFACT+PRES: dahgáa'ahlanggang
+     dah+V+RFLX: dah'ahl
+     dah+V+FUT+RFLX+INTERR: dahäséehl
+     dah+V+PL+IMPV: dah'úu
+     dah+V+3PL+IMM+PRES: dah'wáa
+     dah+V+3PL+INTERR+SIMP+PRES: dah'wáa
+     dah+V+3PL+SIMP+PRES: dah'wáang
+     dah+V+3PL+DIR+PAST: dah'wägán
+     dah+V+3PL+INTERR+PAST: dah'áawaa
+     dah+V+3PL+INDIR+PAST: dah'áawaan
+     dah+V+3PL+REL: dah'wáas
+     dah+V+3PL+REL+EVID: dah'áawaas
+     dah+V+3PL+NONFACT: dah'wáa.ang
+     dah+V+3PL+PAST+NONFACT: dah'áawaa.ang
+     dah+V+3PL+INTERR+PRES+HAB: dahgáng'waa
+     dah+V+3PL+PRES+HAB: dahgáng'waang
+     dah+V+3PL+PRES+HAB+NONFACT: dahgáng'waa.ang
+     dah+V+3PL+DIR+PAST+HAB: dah'wägíinii
+     dah+V+3PL+INTERR+PAST+HAB: dah'wägáangaa
+     dah+V+3PL+INDIR+PAST+HAB: dah'wägáangaan
+     dah+V+3PL+INTERR+FUT+LONG: dah'wáaäsaa
+     dah+V+3PL+INTERR+FUT+SHORT: dah'wáaäs
+     dah+V+3PL+SIMP+FUT: dah'wáaäsaang
+     dah+V+3PL+IMM+FUT: dah'wáaäsga
+     dah+V+3PL+REL+FUT: dah'wáaäsaas
+     dah+V+3PL+FUT+NONFACT: dah'wáaäsaa.ang
+     dah+V+3PL+INTERR+NEAR+FUT: dah'wáa.ang k̲asa'áa
+     dah+V+3PL+NEAR+FUT: dah'wáa.ang k̲asa'áang
+     dah+V+3PL+INTERR+VNEAR+FUT: dah'wáa.ang k̲asaasdláa
+     dah+V+3PL+VNEAR+FUT: dah'wáa.ang k̲asaasdláang
+     dah+V+3PL+BIAS+IMM+PRES: dah'wáa'uuj
+     dah+V+3PL+BIAS+SIMP+PRES: dah'wáa'uujang
+     dah+V+3PL+RES: dah'wáaäsaa'uujang
+     dah+V+3PL+BIAS+INTERR+PRES: dah'wáa'us
+     dah+V+3PL+BIAS+INTERR+PAST: dah'wáa'ujaa
+     dah+V+3PL+BIAS+INTERR+PAST+HAB: dah'wáa'uujaangaa
+     dah+V+3PL+BIAS+INTERR+FUT: dah'wáaäsaa'us
+     dah+V+3PL+CERT+PRES: dah'wáa'ahlanggang
+     dah+V+3PL+CERT+PAST: dah'wáa'ahlanggan
+     dah+V+3PL+CERT+PAST+HAB: dah'wáa'ahlanggiinii
+     dah+V+3PL+CERT+FUT: dah'wáaäsaa'ahlans
+     dah+V+3PL+CERT+REL: dah'wáa'ahlans
+     dah+V+3PL+INTS+PAST: dah'áawaa'ahlang
+     dah+V+3PL+CONT: dah'áawaa'ahlanggaa
+     dah+V+3PL+CTFACT+PRES: dah'áawaa'ahlanggang
+     dah+V+3PL+RFLX: dah'wáa'ahl
+     dah+V+3PL+FUT+RFLX+INTERR: dah'wáaäseehl
+     dah+V+NEG+SG+IMPV: dah'áng
+     dah+V+NEG+IMM+PRES: dah'ángga
+     dah+V+NEG+INTERR+SIMP+PRES: dah'áng
+     dah+V+NEG+SIMP+PRES: dah'ánggang
+     dah+V+NEG+DIR+PAST: dah'ánggan
+     dah+V+NEG+INTERR+PAST: dah'áangaa
+     dah+V+NEG+INDIR+PAST: dah'áangaan
+     dah+V+NEG+REL: dah'áns
+     dah+V+NEG+REL+EVID: dah'áangaas
+     dah+V+NEG+NONFACT: dah'angáng
+     dah+V+NEG+PAST+NONFACT: dah'áangaa.ang
+     dah+V+NEG+INTERR+PRES+HAB: dah'ánggang
+     dah+V+NEG+PRES+HAB: dahgáng'anggang
+     dah+V+NEG+PRES+HAB+NONFACT: dahgáng'angang
+     dah+V+NEG+DIR+PAST+HAB: dah'ánggiinii
+     dah+V+NEG+INTERR+PAST+HAB: dah'ánggaangaa
+     dah+V+NEG+INDIR+PAST+HAB: dah'ánggaangaan
+     dah+V+NEG+INTERR+FUT+LONG: dah'ángäsaa
+     dah+V+NEG+INTERR+FUT+SHORT: dah'ángäs
+     dah+V+NEG+SIMP+FUT: dah'ángäsaang
+     dah+V+NEG+IMM+FUT: dah'ángäsga
+     dah+V+NEG+REL+FUT: dah'ángäsaas
+     dah+V+NEG+FUT+NONFACT: dah'ángäsaa.ang
+     dah+V+NEG+INTERR+NEAR+FUT: daháng k̲asaa'áng
+     dah+V+NEG+NEAR+FUT: daháng k̲asaa'ánggang
+     dah+V+NEG+INTERR+VNEAR+FUT: daháng k̲asaasdlä'áng
+     dah+V+NEG+VNEAR+FUT: daháng k̲asaasdlä'ánggang
+     dah+V+NEG+BIAS+IMM+PRES: dah'áng'uuj
+     dah+V+NEG+BIAS+SIMP+PRES: dah'áng'uujang
+     dah+V+NEG+RES: dah'ángäsaa'uujang
+     dah+V+NEG+BIAS+INTERR+PRES: dah'áng'us
+     dah+V+NEG+BIAS+INTERR+PAST: dah'áng'ujaa
+     dah+V+NEG+BIAS+INTERR+PAST+HAB: dah'áng'uujaangaa
+     dah+V+NEG+BIAS+INTERR+FUT: dah'ángäsaa'us
+     dah+V+NEG+CERT+PRES: dah'áang'ahlanggang
+     dah+V+NEG+CERT+PAST: dah'áang'ahlanggan
+     dah+V+NEG+CERT+PAST+HAB: dah'áang'ahlanggiinii
+     dah+V+NEG+CERT+FUT: dah'ángäsaa'ahlans
+     dah+V+NEG+CERT+REL: dah'áang'ahlans
+     dah+V+NEG+INTS+PAST: dah'áangaa'ahlang
+     dah+V+NEG+CONT: dah'áangaa'ahlanggaa
+     dah+V+NEG+CTFACT+PRES: dah'áangaa'ahlanggang
+     dah+V+NEG+RFLX: dah'áang'ahl
+     dah+V+NEG+FUT+RFLX+INTERR: dah'ángäseehl
+     dah+V+NEG+PL+IMPV: dah'áng'uu
+     dah+V+NEG+3PL+IMM+PRES: dah'áng'waa
+     dah+V+NEG+3PL+INTERR+SIMP+PRES: dah'áng'waa
+     dah+V+NEG+3PL+SIMP+PRES: dah'áng'waang
+     dah+V+NEG+3PL+DIR+PAST: dah'áng'wägan
+     dah+V+NEG+3PL+INTERR+PAST: dah'áng'aawaa
+     dah+V+NEG+3PL+INDIR+PAST: dah'áng'aawaan
+     dah+V+NEG+3PL+REL: dah'áng'waas
+     dah+V+NEG+3PL+REL+EVID: dah'áng'aawaas
+     dah+V+NEG+3PL+NONFACT: dah'áng'waa.ang
+     dah+V+NEG+3PL+PAST+NONFACT: dah'áng'aawaa.ang
+     dah+V+NEG+3PL+INTERR+PRES+HAB: dahgáng'ang'waa
+     dah+V+NEG+3PL+PRES+HAB: dahgáng'ang'waang
+     dah+V+NEG+3PL+PRES+HAB+NONFACT: dahgáng'ang'waa.ang
+     dah+V+NEG+3PL+DIR+PAST+HAB: dah'áng'wägiinii
+     dah+V+NEG+3PL+INTERR+PAST+HAB: dah'áng'wägaangaa
+     dah+V+NEG+3PL+INDIR+PAST+HAB: dah'áng'wägaangaan
+     dah+V+NEG+3PL+INTERR+FUT+LONG: dah'áng'waaäsaa
+     dah+V+NEG+3PL+INTERR+FUT+SHORT: dah'áng'waaäs
+     dah+V+NEG+3PL+SIMP+FUT: dah'áng'waaäsaang
+     dah+V+NEG+3PL+IMM+FUT: dah'áng'waaäsga
+     dah+V+NEG+3PL+REL+FUT: dah'áng'waaäsaas
+     dah+V+NEG+3PL+FUT+NONFACT: dah'áng'waaäsaa.ang
+     dah+V+NEG+3PL+INTERR+NEAR+FUT: dah'wáa.ang k̲asaa'áng
+     dah+V+NEG+3PL+NEAR+FUT: dah'wáa.ang k̲asaa'ánggang
+     dah+V+NEG+3PL+INTERR+VNEAR+FUT: dah'wáa.ang k̲asaasdlä'áng
+     dah+V+NEG+3PL+VNEAR+FUT: dah'wáa.ang k̲asaasdlä'ánggang
+     dah+V+NEG+3PL+BIAS+IMM+PRES: dah'áng'waa'uuj
+     dah+V+NEG+3PL+BIAS+SIMP+PRES: dah'áng'waa'uujang
+     dah+V+NEG+3PL+RES: dah'áng'waaäsaa'uujang
+     dah+V+NEG+3PL+BIAS+INTERR+PRES: dah'áng'waa'us
+     dah+V+NEG+3PL+BIAS+INTERR+PAST: dah'áng'waa'ujaa
+     dah+V+NEG+3PL+BIAS+INTERR+PAST+HAB: dah'áng'waa'uujaangaa
+     dah+V+NEG+3PL+BIAS+INTERR+FUT: dah'áng'waaäsaa'us
+     dah+V+NEG+3PL+CERT+PRES: dah'áng'waa'ahlanggang
+     dah+V+NEG+3PL+CERT+PAST: dah'áng'waa'ahlanggan
+     dah+V+NEG+3PL+CERT+PAST+HAB: dah'áng'waa'ahlanggiinii
+     dah+V+NEG+3PL+CERT+FUT: dah'áng'waaäsaa'ahlans
+     dah+V+NEG+3PL+CERT+REL: dah'áng'waa'ahlans
+     dah+V+NEG+3PL+INTS+PAST: dah'áng'aawaa'ahlang
+     dah+V+NEG+3PL+CONT: dah'áng'aawaa'ahlanggaa
+     dah+V+NEG+3PL+CTFACT+PRES: dah'áng'aawaa'ahlanggang
+     dah+V+NEG+3PL+RFLX: dah'áng'waa'ahl
+     dah+V+NEG+3PL+FUT+RFLX+INTERR: dah'áng'waaäseehl
 

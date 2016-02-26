@@ -11,180 +11,180 @@ Tests:
 
   Verb - sánaaw - ENGLISH : # CLASS_AAW
 
-     sánaaw+V+SINGULAR+IMPERATIVE: sánaaw
-     sánaaw+V+IMMEDIATE+PRESENT: sánaawga
-     sánaaw+V+INTERROGATIVE+SIMPLE+PRESENT: sánaaw
-     sánaaw+V+SIMPLE+PRESENT: sánaawgang
-     sánaaw+V+DIRECT+PAST: sánaawgan
-     sánaaw+V+INTERROGATIVE+PAST: sánaawgaa
-     sánaaw+V+INDIRECT+PAST: sánaawaan
-     sánaaw+V+RELATIVE: sánaaws
-     sánaaw+V+RELATIVE+EVIDENTIAL: sánaawaas
-     sánaaw+V+NON_FACTIVE: sánaaw.ang
-     sánaaw+V+PAST+NON_FACTIVE: sánaawaa.ang
-     sánaaw+V+INTERROGATIVE+PRESENT+HABITUAL: sánaawgang
-     sánaaw+V+PRESENT+HABITUAL: sánaawganggang
-     sánaaw+V+PRESENT+HABITUAL+NON_FACTIVE: sánaawgangang
-     sánaaw+V+DIRECT+PAST+HABITUAL: sánaawgiinii
-     sánaaw+V+INTERROGATIVE+PAST+HABITUAL: sánaawgaangaa
-     sánaaw+V+INDIRECT+PAST+HABITUAL: sánaawgaangaan
-     sánaaw+V+INTERROGATIVE+FUTURE+LONG: sánaawäsaa
-     sánaaw+V+INTERROGATIVE+FUTURE+SHORT: sánaawäs
-     sánaaw+V+SIMPLE+FUTURE: sánaawäsaang
-     sánaaw+V+IMMEDIATE+FUTURE: sánaawäsga
-     sánaaw+V+RELATIVE+FUTURE: sánaawäsaas
-     sánaaw+V+FUTURE+NON_FACTIVE: sánaawäsaa.ang
-     sánaaw+V+INTERROGATIVE+NEAR+FUTURE: sánaawang k̲asa'áa
-     sánaaw+V+NEAR+FUTURE: sánaawang k̲asa'áang
-     sánaaw+V+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang k̲asaasdláa
-     sánaaw+V+VERYNEAR+FUTURE: sánaawang k̲asaasdláang
-     sánaaw+V+BIASED+IMMEDIATE+PRESENT: sánaaw'uuj
-     sánaaw+V+BIASED+SIMPLE+PRESENT: sánaaw'uujang
-     sánaaw+V+RESIGNED_OBLIGATION: sánaawäsaa'uujang
-     sánaaw+V+BIASED+INTERROGATIVE+PRESENT: sánaaw'us
-     sánaaw+V+BIASED+INTERROGATIVE+PAST: sánaaw'ujaa
-     sánaaw+V+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'uujaangaa
-     sánaaw+V+BIASED+INTERROGATIVE+FUTURE: sánaawäsaa'us
-     sánaaw+V+CERTAIN+PRESENT: sánaaw'ahlanggang
-     sánaaw+V+CERTAIN+PAST: sánaaw'ahlanggan
-     sánaaw+V+CERTAIN+PAST+HABITUAL: sánaaw'ahlanggiinii
-     sánaaw+V+CERTAIN+FUTURE: sánaawäsaa'ahlans
-     sánaaw+V+CERTAIN+RELATIVE: sánaaw'ahlans
-     sánaaw+V+INTENSIVE+PAST: sánaawaa'ahlang
-     sánaaw+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaawaa'ahlanggaa
-     sánaaw+V+COUNTERFACTUAL+PRESENT: sánaawaa'ahlanggang
-     sánaaw+V+REFLEXIVE: sánaaw'ahl
-     sánaaw+V+FUTURE+REFLEXIVE+INTERROGATIVE: sánaawäseehl
-     sánaaw+V+PLURAL+IMPERATIVE: sánaaw'uu
-     sánaaw+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sánaaw'waa
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sánaaw'waa
-     sánaaw+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sánaaw'waang
-     sánaaw+V+3rd_PERSON_PLURAL+DIRECT+PAST: sánaaw'wägan
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sánaaw'aawaa
-     sánaaw+V+3rd_PERSON_PLURAL+INDIRECT+PAST: sánaaw'aawaan
-     sánaaw+V+3rd_PERSON_PLURAL+RELATIVE: sánaaw'waas
-     sánaaw+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sánaaw'aawaas
-     sánaaw+V+3rd_PERSON_PLURAL+NON_FACTIVE: sánaaw'waa.ang
-     sánaaw+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sánaaw'aawaa.ang
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sánaawgang'waa
-     sánaaw+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sánaawgang'waang
-     sánaaw+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sánaawgang'waa.ang
-     sánaaw+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sánaaw'wägiinii
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sánaaw'wägaangaa
-     sánaaw+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sánaaw'wägaangaan
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sánaaw'waaäsaa
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sánaaw'waaäs
-     sánaaw+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sánaaw'waaäsaang
-     sánaaw+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sánaaw'waaäsga
-     sánaaw+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sánaaw'waaäsaas
-     sánaaw+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sánaaw'waaäsaa.ang
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang k̲asa'áa
-     sánaaw+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang k̲asa'áang
-     sánaaw+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdláa
-     sánaaw+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdláang
-     sánaaw+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sánaaw'waa'uuj
-     sánaaw+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sánaaw'waa'uujang
-     sánaaw+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sánaaw'waaäsaa'uujang
-     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sánaaw'waa'us
-     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sánaaw'waa'ujaa
-     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'waa'uujaangaa
-     sánaaw+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sánaaw'waaäsaa'us
-     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sánaaw'waa'ahlanggang
-     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+PAST: sánaaw'waa'ahlanggan
-     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sánaaw'waa'ahlanggiinii
-     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sánaaw'waaäsaa'ahlans
-     sánaaw+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sánaaw'waa'ahlans
-     sánaaw+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: sánaaw'aawaa'ahlang
-     sánaaw+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaaw'aawaa'ahlanggaa
-     sánaaw+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sánaaw'aawaa'ahlanggang
-     sánaaw+V+3rd_PERSON_PLURAL+REFLEXIVE: sánaaw'waa'ahl
-     sánaaw+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'waaäseehl
-     sánaaw+V+NEGATIVE+SINGULAR+IMPERATIVE: sánaaw'ang
-     sánaaw+V+NEGATIVE+IMMEDIATE+PRESENT: sánaaw'angga
-     sánaaw+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: sánaaw'ang
-     sánaaw+V+NEGATIVE+SIMPLE+PRESENT: sánaaw'anggang
-     sánaaw+V+NEGATIVE+DIRECT+PAST: sánaaw'anggan
-     sánaaw+V+NEGATIVE+INTERROGATIVE+PAST: sánaaw'aangaa
-     sánaaw+V+NEGATIVE+INDIRECT+PAST: sánaaw'aangaan
-     sánaaw+V+NEGATIVE+RELATIVE: sánaaw'ans
-     sánaaw+V+NEGATIVE+RELATIVE+EVIDENTIAL: sánaaw'aangaas
-     sánaaw+V+NEGATIVE+NON_FACTIVE: sánaaw'angang
-     sánaaw+V+NEGATIVE+PAST+NON_FACTIVE: sánaaw'aangaa.ang
-     sánaaw+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: sánaaw'anggang
-     sánaaw+V+NEGATIVE+PRESENT+HABITUAL: sánaawgang'anggang
-     sánaaw+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sánaawgang'angang
-     sánaaw+V+NEGATIVE+DIRECT+PAST+HABITUAL: sánaaw'anggiinii
-     sánaaw+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: sánaaw'anggaangaa
-     sánaaw+V+NEGATIVE+INDIRECT+PAST+HABITUAL: sánaaw'anggaangaan
-     sánaaw+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: sánaaw'angäsaa
-     sánaaw+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: sánaaw'angäs
-     sánaaw+V+NEGATIVE+SIMPLE+FUTURE: sánaaw'angäsaang
-     sánaaw+V+NEGATIVE+IMMEDIATE+FUTURE: sánaaw'angäsga
-     sánaaw+V+NEGATIVE+RELATIVE+FUTURE: sánaaw'angäsaas
-     sánaaw+V+NEGATIVE+FUTURE+NON_FACTIVE: sánaaw'angäsaa.ang
-     sánaaw+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sánaawang k̲asaa'áng
-     sánaaw+V+NEGATIVE+NEAR+FUTURE: sánaawang k̲asaa'ánggang
-     sánaaw+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sánaawang k̲asaasdlä'áng
-     sánaaw+V+NEGATIVE+VERYNEAR+FUTURE: sánaawang k̲asaasdlä'ánggang
-     sánaaw+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sánaaw'ang'uuj
-     sánaaw+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sánaaw'ang'uujang
-     sánaaw+V+NEGATIVE+RESIGNED_OBLIGATION: sánaaw'angäsaa'uujang
-     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: sánaaw'ang'us
-     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: sánaaw'ang'ujaa
-     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'ang'uujaangaa
-     sánaaw+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: sánaaw'angäsaa'us
-     sánaaw+V+NEGATIVE+CERTAIN+PRESENT: sánaaw'aang'ahlanggang
-     sánaaw+V+NEGATIVE+CERTAIN+PAST: sánaaw'aang'ahlanggan
-     sánaaw+V+NEGATIVE+CERTAIN+PAST+HABITUAL: sánaaw'aang'ahlanggiinii
-     sánaaw+V+NEGATIVE+CERTAIN+FUTURE: sánaaw'angäsaa'ahlans
-     sánaaw+V+NEGATIVE+CERTAIN+RELATIVE: sánaaw'aang'ahlans
-     sánaaw+V+NEGATIVE+INTENSIVE+PAST: sánaaw'aangaa'ahlang
-     sánaaw+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaaw'aangaa'ahlanggaa
-     sánaaw+V+NEGATIVE+COUNTERFACTUAL+PRESENT: sánaaw'aangaa'ahlanggang
-     sánaaw+V+NEGATIVE+REFLEXIVE: sánaaw'aang'ahl
-     sánaaw+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'angäseehl
-     sánaaw+V+NEGATIVE+PLURAL+IMPERATIVE: sánaaw'ang'uu
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sánaaw'ang'waa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sánaaw'ang'waa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sánaaw'ang'waang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: sánaaw'ang'wägan
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sánaaw'ang'aawaa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: sánaaw'ang'aawaan
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: sánaaw'ang'waas
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sánaaw'ang'aawaas
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: sánaaw'ang'waa.ang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sánaaw'ang'aawaa.ang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sánaawgang'ang'waa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sánaawgang'ang'waang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sánaawgang'ang'waa.ang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sánaaw'ang'wägiinii
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sánaaw'ang'wägaangaa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sánaaw'ang'wägaangaan
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sánaaw'ang'waaäsaa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sánaaw'ang'waaäs
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sánaaw'ang'waaäsaang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sánaaw'ang'waaäsga
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sánaaw'ang'waaäsaas
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sánaaw'ang'waaäsaa.ang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sánaaw'waa.ang k̲asaa'áng
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sánaaw'waa.ang k̲asaa'ánggang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdlä'áng
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sánaaw'waa.ang k̲asaasdlä'ánggang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sánaaw'ang'waa'uuj
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sánaaw'ang'waa'uujang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sánaaw'ang'waaäsaa'uujang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sánaaw'ang'waa'us
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sánaaw'ang'waa'ujaa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sánaaw'ang'waa'uujaangaa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sánaaw'ang'waaäsaa'us
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sánaaw'ang'waa'ahlanggang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: sánaaw'ang'waa'ahlanggan
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sánaaw'ang'waa'ahlanggiinii
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sánaaw'ang'waaäsaa'ahlans
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sánaaw'ang'waa'ahlans
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: sánaaw'ang'aawaa'ahlang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sánaaw'ang'aawaa'ahlanggaa
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sánaaw'ang'aawaa'ahlanggang
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sánaaw'ang'waa'ahl
-     sánaaw+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sánaaw'ang'waaäseehl
+     sánaaw+V+SG+IMPV: sánaaw
+     sánaaw+V+IMM+PRES: sánaawga
+     sánaaw+V+INTERR+SIMP+PRES: sánaaw
+     sánaaw+V+SIMP+PRES: sánaawgang
+     sánaaw+V+DIR+PAST: sánaawgan
+     sánaaw+V+INTERR+PAST: sánaawgaa
+     sánaaw+V+INDIR+PAST: sánaawaan
+     sánaaw+V+REL: sánaaws
+     sánaaw+V+REL+EVID: sánaawaas
+     sánaaw+V+NONFACT: sánaaw.ang
+     sánaaw+V+PAST+NONFACT: sánaawaa.ang
+     sánaaw+V+INTERR+PRES+HAB: sánaawgang
+     sánaaw+V+PRES+HAB: sánaawganggang
+     sánaaw+V+PRES+HAB+NONFACT: sánaawgangang
+     sánaaw+V+DIR+PAST+HAB: sánaawgiinii
+     sánaaw+V+INTERR+PAST+HAB: sánaawgaangaa
+     sánaaw+V+INDIR+PAST+HAB: sánaawgaangaan
+     sánaaw+V+INTERR+FUT+LONG: sánaawäsaa
+     sánaaw+V+INTERR+FUT+SHORT: sánaawäs
+     sánaaw+V+SIMP+FUT: sánaawäsaang
+     sánaaw+V+IMM+FUT: sánaawäsga
+     sánaaw+V+REL+FUT: sánaawäsaas
+     sánaaw+V+FUT+NONFACT: sánaawäsaa.ang
+     sánaaw+V+INTERR+NEAR+FUT: sánaawang k̲asa'áa
+     sánaaw+V+NEAR+FUT: sánaawang k̲asa'áang
+     sánaaw+V+INTERR+VNEAR+FUT: sánaawang k̲asaasdláa
+     sánaaw+V+VNEAR+FUT: sánaawang k̲asaasdláang
+     sánaaw+V+BIAS+IMM+PRES: sánaaw'uuj
+     sánaaw+V+BIAS+SIMP+PRES: sánaaw'uujang
+     sánaaw+V+RES: sánaawäsaa'uujang
+     sánaaw+V+BIAS+INTERR+PRES: sánaaw'us
+     sánaaw+V+BIAS+INTERR+PAST: sánaaw'ujaa
+     sánaaw+V+BIAS+INTERR+PAST+HAB: sánaaw'uujaangaa
+     sánaaw+V+BIAS+INTERR+FUT: sánaawäsaa'us
+     sánaaw+V+CERT+PRES: sánaaw'ahlanggang
+     sánaaw+V+CERT+PAST: sánaaw'ahlanggan
+     sánaaw+V+CERT+PAST+HAB: sánaaw'ahlanggiinii
+     sánaaw+V+CERT+FUT: sánaawäsaa'ahlans
+     sánaaw+V+CERT+REL: sánaaw'ahlans
+     sánaaw+V+INTS+PAST: sánaawaa'ahlang
+     sánaaw+V+CONT: sánaawaa'ahlanggaa
+     sánaaw+V+CTFACT+PRES: sánaawaa'ahlanggang
+     sánaaw+V+RFLX: sánaaw'ahl
+     sánaaw+V+FUT+RFLX+INTERR: sánaawäseehl
+     sánaaw+V+PL+IMPV: sánaaw'uu
+     sánaaw+V+3PL+IMM+PRES: sánaaw'waa
+     sánaaw+V+3PL+INTERR+SIMP+PRES: sánaaw'waa
+     sánaaw+V+3PL+SIMP+PRES: sánaaw'waang
+     sánaaw+V+3PL+DIR+PAST: sánaaw'wägan
+     sánaaw+V+3PL+INTERR+PAST: sánaaw'aawaa
+     sánaaw+V+3PL+INDIR+PAST: sánaaw'aawaan
+     sánaaw+V+3PL+REL: sánaaw'waas
+     sánaaw+V+3PL+REL+EVID: sánaaw'aawaas
+     sánaaw+V+3PL+NONFACT: sánaaw'waa.ang
+     sánaaw+V+3PL+PAST+NONFACT: sánaaw'aawaa.ang
+     sánaaw+V+3PL+INTERR+PRES+HAB: sánaawgang'waa
+     sánaaw+V+3PL+PRES+HAB: sánaawgang'waang
+     sánaaw+V+3PL+PRES+HAB+NONFACT: sánaawgang'waa.ang
+     sánaaw+V+3PL+DIR+PAST+HAB: sánaaw'wägiinii
+     sánaaw+V+3PL+INTERR+PAST+HAB: sánaaw'wägaangaa
+     sánaaw+V+3PL+INDIR+PAST+HAB: sánaaw'wägaangaan
+     sánaaw+V+3PL+INTERR+FUT+LONG: sánaaw'waaäsaa
+     sánaaw+V+3PL+INTERR+FUT+SHORT: sánaaw'waaäs
+     sánaaw+V+3PL+SIMP+FUT: sánaaw'waaäsaang
+     sánaaw+V+3PL+IMM+FUT: sánaaw'waaäsga
+     sánaaw+V+3PL+REL+FUT: sánaaw'waaäsaas
+     sánaaw+V+3PL+FUT+NONFACT: sánaaw'waaäsaa.ang
+     sánaaw+V+3PL+INTERR+NEAR+FUT: sánaaw'waa.ang k̲asa'áa
+     sánaaw+V+3PL+NEAR+FUT: sánaaw'waa.ang k̲asa'áang
+     sánaaw+V+3PL+INTERR+VNEAR+FUT: sánaaw'waa.ang k̲asaasdláa
+     sánaaw+V+3PL+VNEAR+FUT: sánaaw'waa.ang k̲asaasdláang
+     sánaaw+V+3PL+BIAS+IMM+PRES: sánaaw'waa'uuj
+     sánaaw+V+3PL+BIAS+SIMP+PRES: sánaaw'waa'uujang
+     sánaaw+V+3PL+RES: sánaaw'waaäsaa'uujang
+     sánaaw+V+3PL+BIAS+INTERR+PRES: sánaaw'waa'us
+     sánaaw+V+3PL+BIAS+INTERR+PAST: sánaaw'waa'ujaa
+     sánaaw+V+3PL+BIAS+INTERR+PAST+HAB: sánaaw'waa'uujaangaa
+     sánaaw+V+3PL+BIAS+INTERR+FUT: sánaaw'waaäsaa'us
+     sánaaw+V+3PL+CERT+PRES: sánaaw'waa'ahlanggang
+     sánaaw+V+3PL+CERT+PAST: sánaaw'waa'ahlanggan
+     sánaaw+V+3PL+CERT+PAST+HAB: sánaaw'waa'ahlanggiinii
+     sánaaw+V+3PL+CERT+FUT: sánaaw'waaäsaa'ahlans
+     sánaaw+V+3PL+CERT+REL: sánaaw'waa'ahlans
+     sánaaw+V+3PL+INTS+PAST: sánaaw'aawaa'ahlang
+     sánaaw+V+3PL+CONT: sánaaw'aawaa'ahlanggaa
+     sánaaw+V+3PL+CTFACT+PRES: sánaaw'aawaa'ahlanggang
+     sánaaw+V+3PL+RFLX: sánaaw'waa'ahl
+     sánaaw+V+3PL+FUT+RFLX+INTERR: sánaaw'waaäseehl
+     sánaaw+V+NEG+SG+IMPV: sánaaw'ang
+     sánaaw+V+NEG+IMM+PRES: sánaaw'angga
+     sánaaw+V+NEG+INTERR+SIMP+PRES: sánaaw'ang
+     sánaaw+V+NEG+SIMP+PRES: sánaaw'anggang
+     sánaaw+V+NEG+DIR+PAST: sánaaw'anggan
+     sánaaw+V+NEG+INTERR+PAST: sánaaw'aangaa
+     sánaaw+V+NEG+INDIR+PAST: sánaaw'aangaan
+     sánaaw+V+NEG+REL: sánaaw'ans
+     sánaaw+V+NEG+REL+EVID: sánaaw'aangaas
+     sánaaw+V+NEG+NONFACT: sánaaw'angang
+     sánaaw+V+NEG+PAST+NONFACT: sánaaw'aangaa.ang
+     sánaaw+V+NEG+INTERR+PRES+HAB: sánaaw'anggang
+     sánaaw+V+NEG+PRES+HAB: sánaawgang'anggang
+     sánaaw+V+NEG+PRES+HAB+NONFACT: sánaawgang'angang
+     sánaaw+V+NEG+DIR+PAST+HAB: sánaaw'anggiinii
+     sánaaw+V+NEG+INTERR+PAST+HAB: sánaaw'anggaangaa
+     sánaaw+V+NEG+INDIR+PAST+HAB: sánaaw'anggaangaan
+     sánaaw+V+NEG+INTERR+FUT+LONG: sánaaw'angäsaa
+     sánaaw+V+NEG+INTERR+FUT+SHORT: sánaaw'angäs
+     sánaaw+V+NEG+SIMP+FUT: sánaaw'angäsaang
+     sánaaw+V+NEG+IMM+FUT: sánaaw'angäsga
+     sánaaw+V+NEG+REL+FUT: sánaaw'angäsaas
+     sánaaw+V+NEG+FUT+NONFACT: sánaaw'angäsaa.ang
+     sánaaw+V+NEG+INTERR+NEAR+FUT: sánaawang k̲asaa'áng
+     sánaaw+V+NEG+NEAR+FUT: sánaawang k̲asaa'ánggang
+     sánaaw+V+NEG+INTERR+VNEAR+FUT: sánaawang k̲asaasdlä'áng
+     sánaaw+V+NEG+VNEAR+FUT: sánaawang k̲asaasdlä'ánggang
+     sánaaw+V+NEG+BIAS+IMM+PRES: sánaaw'ang'uuj
+     sánaaw+V+NEG+BIAS+SIMP+PRES: sánaaw'ang'uujang
+     sánaaw+V+NEG+RES: sánaaw'angäsaa'uujang
+     sánaaw+V+NEG+BIAS+INTERR+PRES: sánaaw'ang'us
+     sánaaw+V+NEG+BIAS+INTERR+PAST: sánaaw'ang'ujaa
+     sánaaw+V+NEG+BIAS+INTERR+PAST+HAB: sánaaw'ang'uujaangaa
+     sánaaw+V+NEG+BIAS+INTERR+FUT: sánaaw'angäsaa'us
+     sánaaw+V+NEG+CERT+PRES: sánaaw'aang'ahlanggang
+     sánaaw+V+NEG+CERT+PAST: sánaaw'aang'ahlanggan
+     sánaaw+V+NEG+CERT+PAST+HAB: sánaaw'aang'ahlanggiinii
+     sánaaw+V+NEG+CERT+FUT: sánaaw'angäsaa'ahlans
+     sánaaw+V+NEG+CERT+REL: sánaaw'aang'ahlans
+     sánaaw+V+NEG+INTS+PAST: sánaaw'aangaa'ahlang
+     sánaaw+V+NEG+CONT: sánaaw'aangaa'ahlanggaa
+     sánaaw+V+NEG+CTFACT+PRES: sánaaw'aangaa'ahlanggang
+     sánaaw+V+NEG+RFLX: sánaaw'aang'ahl
+     sánaaw+V+NEG+FUT+RFLX+INTERR: sánaaw'angäseehl
+     sánaaw+V+NEG+PL+IMPV: sánaaw'ang'uu
+     sánaaw+V+NEG+3PL+IMM+PRES: sánaaw'ang'waa
+     sánaaw+V+NEG+3PL+INTERR+SIMP+PRES: sánaaw'ang'waa
+     sánaaw+V+NEG+3PL+SIMP+PRES: sánaaw'ang'waang
+     sánaaw+V+NEG+3PL+DIR+PAST: sánaaw'ang'wägan
+     sánaaw+V+NEG+3PL+INTERR+PAST: sánaaw'ang'aawaa
+     sánaaw+V+NEG+3PL+INDIR+PAST: sánaaw'ang'aawaan
+     sánaaw+V+NEG+3PL+REL: sánaaw'ang'waas
+     sánaaw+V+NEG+3PL+REL+EVID: sánaaw'ang'aawaas
+     sánaaw+V+NEG+3PL+NONFACT: sánaaw'ang'waa.ang
+     sánaaw+V+NEG+3PL+PAST+NONFACT: sánaaw'ang'aawaa.ang
+     sánaaw+V+NEG+3PL+INTERR+PRES+HAB: sánaawgang'ang'waa
+     sánaaw+V+NEG+3PL+PRES+HAB: sánaawgang'ang'waang
+     sánaaw+V+NEG+3PL+PRES+HAB+NONFACT: sánaawgang'ang'waa.ang
+     sánaaw+V+NEG+3PL+DIR+PAST+HAB: sánaaw'ang'wägiinii
+     sánaaw+V+NEG+3PL+INTERR+PAST+HAB: sánaaw'ang'wägaangaa
+     sánaaw+V+NEG+3PL+INDIR+PAST+HAB: sánaaw'ang'wägaangaan
+     sánaaw+V+NEG+3PL+INTERR+FUT+LONG: sánaaw'ang'waaäsaa
+     sánaaw+V+NEG+3PL+INTERR+FUT+SHORT: sánaaw'ang'waaäs
+     sánaaw+V+NEG+3PL+SIMP+FUT: sánaaw'ang'waaäsaang
+     sánaaw+V+NEG+3PL+IMM+FUT: sánaaw'ang'waaäsga
+     sánaaw+V+NEG+3PL+REL+FUT: sánaaw'ang'waaäsaas
+     sánaaw+V+NEG+3PL+FUT+NONFACT: sánaaw'ang'waaäsaa.ang
+     sánaaw+V+NEG+3PL+INTERR+NEAR+FUT: sánaaw'waa.ang k̲asaa'áng
+     sánaaw+V+NEG+3PL+NEAR+FUT: sánaaw'waa.ang k̲asaa'ánggang
+     sánaaw+V+NEG+3PL+INTERR+VNEAR+FUT: sánaaw'waa.ang k̲asaasdlä'áng
+     sánaaw+V+NEG+3PL+VNEAR+FUT: sánaaw'waa.ang k̲asaasdlä'ánggang
+     sánaaw+V+NEG+3PL+BIAS+IMM+PRES: sánaaw'ang'waa'uuj
+     sánaaw+V+NEG+3PL+BIAS+SIMP+PRES: sánaaw'ang'waa'uujang
+     sánaaw+V+NEG+3PL+RES: sánaaw'ang'waaäsaa'uujang
+     sánaaw+V+NEG+3PL+BIAS+INTERR+PRES: sánaaw'ang'waa'us
+     sánaaw+V+NEG+3PL+BIAS+INTERR+PAST: sánaaw'ang'waa'ujaa
+     sánaaw+V+NEG+3PL+BIAS+INTERR+PAST+HAB: sánaaw'ang'waa'uujaangaa
+     sánaaw+V+NEG+3PL+BIAS+INTERR+FUT: sánaaw'ang'waaäsaa'us
+     sánaaw+V+NEG+3PL+CERT+PRES: sánaaw'ang'waa'ahlanggang
+     sánaaw+V+NEG+3PL+CERT+PAST: sánaaw'ang'waa'ahlanggan
+     sánaaw+V+NEG+3PL+CERT+PAST+HAB: sánaaw'ang'waa'ahlanggiinii
+     sánaaw+V+NEG+3PL+CERT+FUT: sánaaw'ang'waaäsaa'ahlans
+     sánaaw+V+NEG+3PL+CERT+REL: sánaaw'ang'waa'ahlans
+     sánaaw+V+NEG+3PL+INTS+PAST: sánaaw'ang'aawaa'ahlang
+     sánaaw+V+NEG+3PL+CONT: sánaaw'ang'aawaa'ahlanggaa
+     sánaaw+V+NEG+3PL+CTFACT+PRES: sánaaw'ang'aawaa'ahlanggang
+     sánaaw+V+NEG+3PL+RFLX: sánaaw'ang'waa'ahl
+     sánaaw+V+NEG+3PL+FUT+RFLX+INTERR: sánaaw'ang'waaäseehl
 

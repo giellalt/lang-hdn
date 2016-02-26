@@ -11,16 +11,16 @@ Tests:
 
   Verb - ta kún - ENGLISH : # CLASS_UN_STEM_2
 
-     ta kún+V+INTERROGATIVE+PAST: ta kwáanaa
-     ta kún+V+INDIRECT+PAST: ta kwáanaan
-     ta kún+V+RELATIVE+EVIDENTIAL: ta kwáanaas
-     ta kún+V+PAST+NON_FACTIVE: ta kwáanaa.ang
-     ta kún+V+CERTAIN+PRESENT: ta kwáan'ahlanggang
-     ta kún+V+CERTAIN+PAST: ta kwáan'ahlanggan
-     ta kún+V+CERTAIN+PAST+HABITUAL: ta kwáan'ahlanggiinii
-     ta kún+V+CERTAIN+RELATIVE: ta kwáan'ahlans
-     ta kún+V+INTENSIVE+PAST: ta kwáanaa'ahlang
-     ta kún+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: ta kwáanaa'ahlanggaa
-     ta kún+V+COUNTERFACTUAL+PRESENT: ta kwáanaa'ahlanggang
-     ta kún+V+REFLEXIVE: ta kwáan'ahl
+     ta kún+V+INTERR+PAST: ta kwáanaa
+     ta kún+V+INDIR+PAST: ta kwáanaan
+     ta kún+V+REL+EVID: ta kwáanaas
+     ta kún+V+PAST+NONFACT: ta kwáanaa.ang
+     ta kún+V+CERT+PRES: ta kwáan'ahlanggang
+     ta kún+V+CERT+PAST: ta kwáan'ahlanggan
+     ta kún+V+CERT+PAST+HAB: ta kwáan'ahlanggiinii
+     ta kún+V+CERT+REL: ta kwáan'ahlans
+     ta kún+V+INTS+PAST: ta kwáanaa'ahlang
+     ta kún+V+CONT: ta kwáanaa'ahlanggaa
+     ta kún+V+CTFACT+PRES: ta kwáanaa'ahlanggang
+     ta kún+V+RFLX: ta kwáan'ahl
 
