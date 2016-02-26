@@ -11,168 +11,168 @@ Tests:
 
   Verb - k̲áy - ENGLISH : # CLASS_AY_STEM_1
 
-     k̲áy+V+SINGULAR+IMPERATIVE: k̲áy
-     k̲áy+V+IMMEDIATE+PRESENT: k̲áyga
-     k̲áy+V+INTERROGATIVE+SIMPLE+PRESENT: k̲áy
-     k̲áy+V+SIMPLE+PRESENT: k̲áygang
-     k̲áy+V+DIRECT+PAST: k̲áygan
-     k̲áy+V+RELATIVE: k̲áys
-     k̲áy+V+NON_FACTIVE: k̲áyang
-     k̲áy+V+INTERROGATIVE+PRESENT+HABITUAL: k̲áygang
-     k̲áy+V+PRESENT+HABITUAL: k̲áyganggang
-     k̲áy+V+PRESENT+HABITUAL+NON_FACTIVE: k̲áygangang
-     k̲áy+V+DIRECT+PAST+HABITUAL: k̲áygiinii
-     k̲áy+V+INTERROGATIVE+PAST+HABITUAL: k̲áygaangaa
-     k̲áy+V+INDIRECT+PAST+HABITUAL: k̲áygaangaan
-     k̲áy+V+INTERROGATIVE+FUTURE+LONG: k̲áyäsaa
-     k̲áy+V+INTERROGATIVE+FUTURE+SHORT: k̲áyäs
-     k̲áy+V+SIMPLE+FUTURE: k̲áyäsaang
-     k̲áy+V+IMMEDIATE+FUTURE: k̲áyäsga
-     k̲áy+V+RELATIVE+FUTURE: k̲áyäsaas
-     k̲áy+V+FUTURE+NON_FACTIVE: k̲áyäsaa.ang
-     k̲áy+V+INTERROGATIVE+NEAR+FUTURE: k̲áyang k̲asa'áa
-     k̲áy+V+NEAR+FUTURE: k̲áyang k̲asa'áang
-     k̲áy+V+INTERROGATIVE+VERYNEAR+FUTURE: k̲áyang k̲asaasdláa
-     k̲áy+V+VERYNEAR+FUTURE: k̲áyang k̲asaasdláang
-     k̲áy+V+BIASED+IMMEDIATE+PRESENT: k̲áy'uuj
-     k̲áy+V+BIASED+SIMPLE+PRESENT: k̲áy'uujang
-     k̲áy+V+RESIGNED_OBLIGATION: k̲áyäsaa'uujang
-     k̲áy+V+BIASED+INTERROGATIVE+PRESENT: k̲áy'us
-     k̲áy+V+BIASED+INTERROGATIVE+PAST: k̲áy'ujaa
-     k̲áy+V+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲áy'uujaangaa
-     k̲áy+V+BIASED+INTERROGATIVE+FUTURE: k̲áyäsaa'us
-     k̲áy+V+CERTAIN+FUTURE: k̲áyäsaa'ahlans
-     k̲áy+V+FUTURE+REFLEXIVE+INTERROGATIVE: k̲áyäseehl
-     k̲áy+V+PLURAL+IMPERATIVE: k̲áy'uu
-     k̲áy+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: k̲áy'waa
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: k̲áy'waa
-     k̲áy+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: k̲áy'waang
-     k̲áy+V+3rd_PERSON_PLURAL+DIRECT+PAST: k̲áy'wägan
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: k̲áy'aawaa
-     k̲áy+V+3rd_PERSON_PLURAL+INDIRECT+PAST: k̲áy'aawaan
-     k̲áy+V+3rd_PERSON_PLURAL+RELATIVE: k̲áy'waas
-     k̲áy+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: k̲áy'aawaas
-     k̲áy+V+3rd_PERSON_PLURAL+NON_FACTIVE: k̲áy'waa.ang
-     k̲áy+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: k̲áy'aawaa.ang
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: k̲áygang'waa
-     k̲áy+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: k̲áygang'waang
-     k̲áy+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: k̲áygang'waa.ang
-     k̲áy+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: k̲áy'wägiinii
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: k̲áy'wägaangaa
-     k̲áy+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: k̲áy'wägaangaan
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: k̲áy'waaäsaa
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: k̲áy'waaäs
-     k̲áy+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: k̲áy'waaäsaang
-     k̲áy+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: k̲áy'waaäsga
-     k̲áy+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: k̲áy'waaäsaas
-     k̲áy+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: k̲áy'waaäsaa.ang
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: k̲áy'waa.ang k̲asa'áa
-     k̲áy+V+3rd_PERSON_PLURAL+NEAR+FUTURE: k̲áy'waa.ang k̲asa'áang
-     k̲áy+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: k̲áy'waa.ang k̲asaasdláa
-     k̲áy+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: k̲áy'waa.ang k̲asaasdláang
-     k̲áy+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: k̲áy'waa'uuj
-     k̲áy+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: k̲áy'waa'uujang
-     k̲áy+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: k̲áy'waaäsaa'uujang
-     k̲áy+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: k̲áy'waa'us
-     k̲áy+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: k̲áy'waa'ujaa
-     k̲áy+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲áy'waa'uujaangaa
-     k̲áy+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: k̲áy'waaäsaa'us
-     k̲áy+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: k̲áy'waa'ahlanggang
-     k̲áy+V+3rd_PERSON_PLURAL+CERTAIN+PAST: k̲áy'waa'ahlanggan
-     k̲áy+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: k̲áy'waa'ahlanggiinii
-     k̲áy+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: k̲áy'waaäsaa'ahlans
-     k̲áy+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: k̲áy'waa'ahlans
-     k̲áy+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: k̲áy'aawaa'ahlang
-     k̲áy+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲áy'aawaa'ahlanggaa
-     k̲áy+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: k̲áy'aawaa'ahlanggang
-     k̲áy+V+3rd_PERSON_PLURAL+REFLEXIVE: k̲áy'waa'ahl
-     k̲áy+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: k̲áy'waaäseehl
-     k̲áy+V+NEGATIVE+SINGULAR+IMPERATIVE: k̲áy'ang
-     k̲áy+V+NEGATIVE+IMMEDIATE+PRESENT: k̲áy'angga
-     k̲áy+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: k̲áy'ang
-     k̲áy+V+NEGATIVE+SIMPLE+PRESENT: k̲áy'anggang
-     k̲áy+V+NEGATIVE+DIRECT+PAST: k̲áy'anggan
-     k̲áy+V+NEGATIVE+INTERROGATIVE+PAST: k̲áy'aangaa
-     k̲áy+V+NEGATIVE+INDIRECT+PAST: k̲áy'aangaan
-     k̲áy+V+NEGATIVE+RELATIVE: k̲áy'ans
-     k̲áy+V+NEGATIVE+RELATIVE+EVIDENTIAL: k̲áy'aangaas
-     k̲áy+V+NEGATIVE+NON_FACTIVE: k̲áy'angang
-     k̲áy+V+NEGATIVE+PAST+NON_FACTIVE: k̲áy'aangaa.ang
-     k̲áy+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: k̲áy'anggang
-     k̲áy+V+NEGATIVE+PRESENT+HABITUAL: k̲áygang'anggang
-     k̲áy+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: k̲áygang'angang
-     k̲áy+V+NEGATIVE+DIRECT+PAST+HABITUAL: k̲áy'anggiinii
-     k̲áy+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: k̲áy'anggaangaa
-     k̲áy+V+NEGATIVE+INDIRECT+PAST+HABITUAL: k̲áy'anggaangaan
-     k̲áy+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: k̲áy'angäsaa
-     k̲áy+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: k̲áy'angäs
-     k̲áy+V+NEGATIVE+SIMPLE+FUTURE: k̲áy'angäsaang
-     k̲áy+V+NEGATIVE+IMMEDIATE+FUTURE: k̲áy'angäsga
-     k̲áy+V+NEGATIVE+RELATIVE+FUTURE: k̲áy'angäsaas
-     k̲áy+V+NEGATIVE+FUTURE+NON_FACTIVE: k̲áy'angäsaa.ang
-     k̲áy+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k̲áyang k̲asaa'áng
-     k̲áy+V+NEGATIVE+NEAR+FUTURE: k̲áyang k̲asaa'ánggang
-     k̲áy+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k̲áyang k̲asaasdlä'áng
-     k̲áy+V+NEGATIVE+VERYNEAR+FUTURE: k̲áyang k̲asaasdlä'ánggang
-     k̲áy+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: k̲áy'ang'uuj
-     k̲áy+V+NEGATIVE+BIASED+SIMPLE+PRESENT: k̲áy'ang'uujang
-     k̲áy+V+NEGATIVE+RESIGNED_OBLIGATION: k̲áy'angäsaa'uujang
-     k̲áy+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: k̲áy'ang'us
-     k̲áy+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: k̲áy'ang'ujaa
-     k̲áy+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲áy'ang'uujaangaa
-     k̲áy+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: k̲áy'angäsaa'us
-     k̲áy+V+NEGATIVE+CERTAIN+PRESENT: k̲áy'aang'ahlanggang
-     k̲áy+V+NEGATIVE+CERTAIN+PAST: k̲áy'aang'ahlanggan
-     k̲áy+V+NEGATIVE+CERTAIN+PAST+HABITUAL: k̲áy'aang'ahlanggiinii
-     k̲áy+V+NEGATIVE+CERTAIN+FUTURE: k̲áy'angäsaa'ahlans
-     k̲áy+V+NEGATIVE+CERTAIN+RELATIVE: k̲áy'aang'ahlans
-     k̲áy+V+NEGATIVE+INTENSIVE+PAST: k̲áy'aangaa'ahlang
-     k̲áy+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲áy'aangaa'ahlanggaa
-     k̲áy+V+NEGATIVE+COUNTERFACTUAL+PRESENT: k̲áy'aangaa'ahlanggang
-     k̲áy+V+NEGATIVE+REFLEXIVE: k̲áy'aang'ahl
-     k̲áy+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: k̲áy'angäseehl
-     k̲áy+V+NEGATIVE+PLURAL+IMPERATIVE: k̲áy'ang'uu
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: k̲áy'ang'waa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: k̲áy'ang'waa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: k̲áy'ang'waang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: k̲áy'ang'wägan
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: k̲áy'ang'aawaa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: k̲áy'ang'aawaan
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: k̲áy'ang'waas
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: k̲áy'ang'aawaas
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: k̲áy'ang'waa.ang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: k̲áy'ang'aawaa.ang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: k̲áygang'ang'waa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: k̲áygang'ang'waang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: k̲áygang'ang'waa.ang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: k̲áy'ang'wägiinii
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: k̲áy'ang'wägaangaa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: k̲áy'ang'wägaangaan
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: k̲áy'ang'waaäsaa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: k̲áy'ang'waaäs
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: k̲áy'ang'waaäsaang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: k̲áy'ang'waaäsga
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: k̲áy'ang'waaäsaas
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: k̲áy'ang'waaäsaa.ang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: k̲áy'waa.ang k̲asaa'áng
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: k̲áy'waa.ang k̲asaa'ánggang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: k̲áy'waa.ang k̲asaasdlä'áng
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: k̲áy'waa.ang k̲asaasdlä'ánggang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: k̲áy'ang'waa'uuj
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: k̲áy'ang'waa'uujang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: k̲áy'ang'waaäsaa'uujang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: k̲áy'ang'waa'us
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: k̲áy'ang'waa'ujaa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: k̲áy'ang'waa'uujaangaa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: k̲áy'ang'waaäsaa'us
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: k̲áy'ang'waa'ahlanggang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: k̲áy'ang'waa'ahlanggan
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: k̲áy'ang'waa'ahlanggiinii
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: k̲áy'ang'waaäsaa'ahlans
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: k̲áy'ang'waa'ahlans
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: k̲áy'ang'aawaa'ahlang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲áy'ang'aawaa'ahlanggaa
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: k̲áy'ang'aawaa'ahlanggang
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: k̲áy'ang'waa'ahl
-     k̲áy+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: k̲áy'ang'waaäseehl
+     k̲áy+V+SG+IMPV: k̲áy
+     k̲áy+V+IMM+PRES: k̲áyga
+     k̲áy+V+INTERR+SIMP+PRES: k̲áy
+     k̲áy+V+SIMP+PRES: k̲áygang
+     k̲áy+V+DIR+PAST: k̲áygan
+     k̲áy+V+REL: k̲áys
+     k̲áy+V+NONFACT: k̲áyang
+     k̲áy+V+INTERR+PRES+HAB: k̲áygang
+     k̲áy+V+PRES+HAB: k̲áyganggang
+     k̲áy+V+PRES+HAB+NONFACT: k̲áygangang
+     k̲áy+V+DIR+PAST+HAB: k̲áygiinii
+     k̲áy+V+INTERR+PAST+HAB: k̲áygaangaa
+     k̲áy+V+INDIR+PAST+HAB: k̲áygaangaan
+     k̲áy+V+INTERR+FUT+LONG: k̲áyäsaa
+     k̲áy+V+INTERR+FUT+SHORT: k̲áyäs
+     k̲áy+V+SIMP+FUT: k̲áyäsaang
+     k̲áy+V+IMM+FUT: k̲áyäsga
+     k̲áy+V+REL+FUT: k̲áyäsaas
+     k̲áy+V+FUT+NONFACT: k̲áyäsaa.ang
+     k̲áy+V+INTERR+NEAR+FUT: k̲áyang k̲asa'áa
+     k̲áy+V+NEAR+FUT: k̲áyang k̲asa'áang
+     k̲áy+V+INTERR+VNEAR+FUT: k̲áyang k̲asaasdláa
+     k̲áy+V+VNEAR+FUT: k̲áyang k̲asaasdláang
+     k̲áy+V+BIAS+IMM+PRES: k̲áy'uuj
+     k̲áy+V+BIAS+SIMP+PRES: k̲áy'uujang
+     k̲áy+V+RES: k̲áyäsaa'uujang
+     k̲áy+V+BIAS+INTERR+PRES: k̲áy'us
+     k̲áy+V+BIAS+INTERR+PAST: k̲áy'ujaa
+     k̲áy+V+BIAS+INTERR+PAST+HAB: k̲áy'uujaangaa
+     k̲áy+V+BIAS+INTERR+FUT: k̲áyäsaa'us
+     k̲áy+V+CERT+FUT: k̲áyäsaa'ahlans
+     k̲áy+V+FUT+RFLX+INTERR: k̲áyäseehl
+     k̲áy+V+PL+IMPV: k̲áy'uu
+     k̲áy+V+3PL+IMM+PRES: k̲áy'waa
+     k̲áy+V+3PL+INTERR+SIMP+PRES: k̲áy'waa
+     k̲áy+V+3PL+SIMP+PRES: k̲áy'waang
+     k̲áy+V+3PL+DIR+PAST: k̲áy'wägan
+     k̲áy+V+3PL+INTERR+PAST: k̲áy'aawaa
+     k̲áy+V+3PL+INDIR+PAST: k̲áy'aawaan
+     k̲áy+V+3PL+REL: k̲áy'waas
+     k̲áy+V+3PL+REL+EVID: k̲áy'aawaas
+     k̲áy+V+3PL+NONFACT: k̲áy'waa.ang
+     k̲áy+V+3PL+PAST+NONFACT: k̲áy'aawaa.ang
+     k̲áy+V+3PL+INTERR+PRES+HAB: k̲áygang'waa
+     k̲áy+V+3PL+PRES+HAB: k̲áygang'waang
+     k̲áy+V+3PL+PRES+HAB+NONFACT: k̲áygang'waa.ang
+     k̲áy+V+3PL+DIR+PAST+HAB: k̲áy'wägiinii
+     k̲áy+V+3PL+INTERR+PAST+HAB: k̲áy'wägaangaa
+     k̲áy+V+3PL+INDIR+PAST+HAB: k̲áy'wägaangaan
+     k̲áy+V+3PL+INTERR+FUT+LONG: k̲áy'waaäsaa
+     k̲áy+V+3PL+INTERR+FUT+SHORT: k̲áy'waaäs
+     k̲áy+V+3PL+SIMP+FUT: k̲áy'waaäsaang
+     k̲áy+V+3PL+IMM+FUT: k̲áy'waaäsga
+     k̲áy+V+3PL+REL+FUT: k̲áy'waaäsaas
+     k̲áy+V+3PL+FUT+NONFACT: k̲áy'waaäsaa.ang
+     k̲áy+V+3PL+INTERR+NEAR+FUT: k̲áy'waa.ang k̲asa'áa
+     k̲áy+V+3PL+NEAR+FUT: k̲áy'waa.ang k̲asa'áang
+     k̲áy+V+3PL+INTERR+VNEAR+FUT: k̲áy'waa.ang k̲asaasdláa
+     k̲áy+V+3PL+VNEAR+FUT: k̲áy'waa.ang k̲asaasdláang
+     k̲áy+V+3PL+BIAS+IMM+PRES: k̲áy'waa'uuj
+     k̲áy+V+3PL+BIAS+SIMP+PRES: k̲áy'waa'uujang
+     k̲áy+V+3PL+RES: k̲áy'waaäsaa'uujang
+     k̲áy+V+3PL+BIAS+INTERR+PRES: k̲áy'waa'us
+     k̲áy+V+3PL+BIAS+INTERR+PAST: k̲áy'waa'ujaa
+     k̲áy+V+3PL+BIAS+INTERR+PAST+HAB: k̲áy'waa'uujaangaa
+     k̲áy+V+3PL+BIAS+INTERR+FUT: k̲áy'waaäsaa'us
+     k̲áy+V+3PL+CERT+PRES: k̲áy'waa'ahlanggang
+     k̲áy+V+3PL+CERT+PAST: k̲áy'waa'ahlanggan
+     k̲áy+V+3PL+CERT+PAST+HAB: k̲áy'waa'ahlanggiinii
+     k̲áy+V+3PL+CERT+FUT: k̲áy'waaäsaa'ahlans
+     k̲áy+V+3PL+CERT+REL: k̲áy'waa'ahlans
+     k̲áy+V+3PL+INTS+PAST: k̲áy'aawaa'ahlang
+     k̲áy+V+3PL+CONT: k̲áy'aawaa'ahlanggaa
+     k̲áy+V+3PL+CTFACT+PRES: k̲áy'aawaa'ahlanggang
+     k̲áy+V+3PL+RFLX: k̲áy'waa'ahl
+     k̲áy+V+3PL+FUT+RFLX+INTERR: k̲áy'waaäseehl
+     k̲áy+V+NEG+SG+IMPV: k̲áy'ang
+     k̲áy+V+NEG+IMM+PRES: k̲áy'angga
+     k̲áy+V+NEG+INTERR+SIMP+PRES: k̲áy'ang
+     k̲áy+V+NEG+SIMP+PRES: k̲áy'anggang
+     k̲áy+V+NEG+DIR+PAST: k̲áy'anggan
+     k̲áy+V+NEG+INTERR+PAST: k̲áy'aangaa
+     k̲áy+V+NEG+INDIR+PAST: k̲áy'aangaan
+     k̲áy+V+NEG+REL: k̲áy'ans
+     k̲áy+V+NEG+REL+EVID: k̲áy'aangaas
+     k̲áy+V+NEG+NONFACT: k̲áy'angang
+     k̲áy+V+NEG+PAST+NONFACT: k̲áy'aangaa.ang
+     k̲áy+V+NEG+INTERR+PRES+HAB: k̲áy'anggang
+     k̲áy+V+NEG+PRES+HAB: k̲áygang'anggang
+     k̲áy+V+NEG+PRES+HAB+NONFACT: k̲áygang'angang
+     k̲áy+V+NEG+DIR+PAST+HAB: k̲áy'anggiinii
+     k̲áy+V+NEG+INTERR+PAST+HAB: k̲áy'anggaangaa
+     k̲áy+V+NEG+INDIR+PAST+HAB: k̲áy'anggaangaan
+     k̲áy+V+NEG+INTERR+FUT+LONG: k̲áy'angäsaa
+     k̲áy+V+NEG+INTERR+FUT+SHORT: k̲áy'angäs
+     k̲áy+V+NEG+SIMP+FUT: k̲áy'angäsaang
+     k̲áy+V+NEG+IMM+FUT: k̲áy'angäsga
+     k̲áy+V+NEG+REL+FUT: k̲áy'angäsaas
+     k̲áy+V+NEG+FUT+NONFACT: k̲áy'angäsaa.ang
+     k̲áy+V+NEG+INTERR+NEAR+FUT: k̲áyang k̲asaa'áng
+     k̲áy+V+NEG+NEAR+FUT: k̲áyang k̲asaa'ánggang
+     k̲áy+V+NEG+INTERR+VNEAR+FUT: k̲áyang k̲asaasdlä'áng
+     k̲áy+V+NEG+VNEAR+FUT: k̲áyang k̲asaasdlä'ánggang
+     k̲áy+V+NEG+BIAS+IMM+PRES: k̲áy'ang'uuj
+     k̲áy+V+NEG+BIAS+SIMP+PRES: k̲áy'ang'uujang
+     k̲áy+V+NEG+RES: k̲áy'angäsaa'uujang
+     k̲áy+V+NEG+BIAS+INTERR+PRES: k̲áy'ang'us
+     k̲áy+V+NEG+BIAS+INTERR+PAST: k̲áy'ang'ujaa
+     k̲áy+V+NEG+BIAS+INTERR+PAST+HAB: k̲áy'ang'uujaangaa
+     k̲áy+V+NEG+BIAS+INTERR+FUT: k̲áy'angäsaa'us
+     k̲áy+V+NEG+CERT+PRES: k̲áy'aang'ahlanggang
+     k̲áy+V+NEG+CERT+PAST: k̲áy'aang'ahlanggan
+     k̲áy+V+NEG+CERT+PAST+HAB: k̲áy'aang'ahlanggiinii
+     k̲áy+V+NEG+CERT+FUT: k̲áy'angäsaa'ahlans
+     k̲áy+V+NEG+CERT+REL: k̲áy'aang'ahlans
+     k̲áy+V+NEG+INTS+PAST: k̲áy'aangaa'ahlang
+     k̲áy+V+NEG+CONT: k̲áy'aangaa'ahlanggaa
+     k̲áy+V+NEG+CTFACT+PRES: k̲áy'aangaa'ahlanggang
+     k̲áy+V+NEG+RFLX: k̲áy'aang'ahl
+     k̲áy+V+NEG+FUT+RFLX+INTERR: k̲áy'angäseehl
+     k̲áy+V+NEG+PL+IMPV: k̲áy'ang'uu
+     k̲áy+V+NEG+3PL+IMM+PRES: k̲áy'ang'waa
+     k̲áy+V+NEG+3PL+INTERR+SIMP+PRES: k̲áy'ang'waa
+     k̲áy+V+NEG+3PL+SIMP+PRES: k̲áy'ang'waang
+     k̲áy+V+NEG+3PL+DIR+PAST: k̲áy'ang'wägan
+     k̲áy+V+NEG+3PL+INTERR+PAST: k̲áy'ang'aawaa
+     k̲áy+V+NEG+3PL+INDIR+PAST: k̲áy'ang'aawaan
+     k̲áy+V+NEG+3PL+REL: k̲áy'ang'waas
+     k̲áy+V+NEG+3PL+REL+EVID: k̲áy'ang'aawaas
+     k̲áy+V+NEG+3PL+NONFACT: k̲áy'ang'waa.ang
+     k̲áy+V+NEG+3PL+PAST+NONFACT: k̲áy'ang'aawaa.ang
+     k̲áy+V+NEG+3PL+INTERR+PRES+HAB: k̲áygang'ang'waa
+     k̲áy+V+NEG+3PL+PRES+HAB: k̲áygang'ang'waang
+     k̲áy+V+NEG+3PL+PRES+HAB+NONFACT: k̲áygang'ang'waa.ang
+     k̲áy+V+NEG+3PL+DIR+PAST+HAB: k̲áy'ang'wägiinii
+     k̲áy+V+NEG+3PL+INTERR+PAST+HAB: k̲áy'ang'wägaangaa
+     k̲áy+V+NEG+3PL+INDIR+PAST+HAB: k̲áy'ang'wägaangaan
+     k̲áy+V+NEG+3PL+INTERR+FUT+LONG: k̲áy'ang'waaäsaa
+     k̲áy+V+NEG+3PL+INTERR+FUT+SHORT: k̲áy'ang'waaäs
+     k̲áy+V+NEG+3PL+SIMP+FUT: k̲áy'ang'waaäsaang
+     k̲áy+V+NEG+3PL+IMM+FUT: k̲áy'ang'waaäsga
+     k̲áy+V+NEG+3PL+REL+FUT: k̲áy'ang'waaäsaas
+     k̲áy+V+NEG+3PL+FUT+NONFACT: k̲áy'ang'waaäsaa.ang
+     k̲áy+V+NEG+3PL+INTERR+NEAR+FUT: k̲áy'waa.ang k̲asaa'áng
+     k̲áy+V+NEG+3PL+NEAR+FUT: k̲áy'waa.ang k̲asaa'ánggang
+     k̲áy+V+NEG+3PL+INTERR+VNEAR+FUT: k̲áy'waa.ang k̲asaasdlä'áng
+     k̲áy+V+NEG+3PL+VNEAR+FUT: k̲áy'waa.ang k̲asaasdlä'ánggang
+     k̲áy+V+NEG+3PL+BIAS+IMM+PRES: k̲áy'ang'waa'uuj
+     k̲áy+V+NEG+3PL+BIAS+SIMP+PRES: k̲áy'ang'waa'uujang
+     k̲áy+V+NEG+3PL+RES: k̲áy'ang'waaäsaa'uujang
+     k̲áy+V+NEG+3PL+BIAS+INTERR+PRES: k̲áy'ang'waa'us
+     k̲áy+V+NEG+3PL+BIAS+INTERR+PAST: k̲áy'ang'waa'ujaa
+     k̲áy+V+NEG+3PL+BIAS+INTERR+PAST+HAB: k̲áy'ang'waa'uujaangaa
+     k̲áy+V+NEG+3PL+BIAS+INTERR+FUT: k̲áy'ang'waaäsaa'us
+     k̲áy+V+NEG+3PL+CERT+PRES: k̲áy'ang'waa'ahlanggang
+     k̲áy+V+NEG+3PL+CERT+PAST: k̲áy'ang'waa'ahlanggan
+     k̲áy+V+NEG+3PL+CERT+PAST+HAB: k̲áy'ang'waa'ahlanggiinii
+     k̲áy+V+NEG+3PL+CERT+FUT: k̲áy'ang'waaäsaa'ahlans
+     k̲áy+V+NEG+3PL+CERT+REL: k̲áy'ang'waa'ahlans
+     k̲áy+V+NEG+3PL+INTS+PAST: k̲áy'ang'aawaa'ahlang
+     k̲áy+V+NEG+3PL+CONT: k̲áy'ang'aawaa'ahlanggaa
+     k̲áy+V+NEG+3PL+CTFACT+PRES: k̲áy'ang'aawaa'ahlanggang
+     k̲áy+V+NEG+3PL+RFLX: k̲áy'ang'waa'ahl
+     k̲áy+V+NEG+3PL+FUT+RFLX+INTERR: k̲áy'ang'waaäseehl
 

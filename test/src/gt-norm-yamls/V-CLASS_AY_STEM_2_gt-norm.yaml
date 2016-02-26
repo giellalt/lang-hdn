@@ -11,16 +11,16 @@ Tests:
 
   Verb - k̲áy - ENGLISH : # CLASS_AY_STEM_2
 
-     k̲áy+V+INTERROGATIVE+PAST: k̲áayaa
-     k̲áy+V+INDIRECT+PAST: k̲áayaan
-     k̲áy+V+RELATIVE+EVIDENTIAL: k̲áayaas
-     k̲áy+V+PAST+NON_FACTIVE: k̲áayaa.ang
-     k̲áy+V+CERTAIN+PRESENT: k̲áay'ahlanggang
-     k̲áy+V+CERTAIN+PAST: k̲áay'ahlanggan
-     k̲áy+V+CERTAIN+PAST+HABITUAL: k̲áay'ahlanggiinii
-     k̲áy+V+CERTAIN+RELATIVE: k̲áay'ahlans
-     k̲áy+V+INTENSIVE+PAST: k̲áayaa'ahlang
-     k̲áy+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲áayaa'ahlanggaa
-     k̲áy+V+COUNTERFACTUAL+PRESENT: k̲áayaa'ahlanggang
-     k̲áy+V+REFLEXIVE: k̲áay'ahl
+     k̲áy+V+INTERR+PAST: k̲áayaa
+     k̲áy+V+INDIR+PAST: k̲áayaan
+     k̲áy+V+REL+EVID: k̲áayaas
+     k̲áy+V+PAST+NONFACT: k̲áayaa.ang
+     k̲áy+V+CERT+PRES: k̲áay'ahlanggang
+     k̲áy+V+CERT+PAST: k̲áay'ahlanggan
+     k̲áy+V+CERT+PAST+HAB: k̲áay'ahlanggiinii
+     k̲áy+V+CERT+REL: k̲áay'ahlans
+     k̲áy+V+INTS+PAST: k̲áayaa'ahlang
+     k̲áy+V+CONT: k̲áayaa'ahlanggaa
+     k̲áy+V+CTFACT+PRES: k̲áayaa'ahlanggang
+     k̲áy+V+RFLX: k̲áay'ahl
 

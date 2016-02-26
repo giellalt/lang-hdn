@@ -11,168 +11,168 @@ Tests:
 
   Verb - sg̲ál - ENGLISH : # CLASS_AL_STEM_1
 
-     sg̲ál+V+SINGULAR+IMPERATIVE: sg̲ál
-     sg̲ál+V+IMMEDIATE+PRESENT: sg̲álga
-     sg̲ál+V+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál
-     sg̲ál+V+SIMPLE+PRESENT: sg̲álgang
-     sg̲ál+V+DIRECT+PAST: sg̲álgan
-     sg̲ál+V+RELATIVE: sg̲áls
-     sg̲ál+V+NON_FACTIVE: sg̲álang
-     sg̲ál+V+INTERROGATIVE+PRESENT+HABITUAL: sg̲álgang
-     sg̲ál+V+PRESENT+HABITUAL: sg̲álganggang
-     sg̲ál+V+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgangang
-     sg̲ál+V+DIRECT+PAST+HABITUAL: sg̲álgiinii
-     sg̲ál+V+INTERROGATIVE+PAST+HABITUAL: sg̲álgaangaa
-     sg̲ál+V+INDIRECT+PAST+HABITUAL: sg̲álgaangaan
-     sg̲ál+V+INTERROGATIVE+FUTURE+LONG: sg̲áläsaa
-     sg̲ál+V+INTERROGATIVE+FUTURE+SHORT: sg̲áläs
-     sg̲ál+V+SIMPLE+FUTURE: sg̲áläsaang
-     sg̲ál+V+IMMEDIATE+FUTURE: sg̲áläsga
-     sg̲ál+V+RELATIVE+FUTURE: sg̲áläsaas
-     sg̲ál+V+FUTURE+NON_FACTIVE: sg̲áläsaa.ang
-     sg̲ál+V+INTERROGATIVE+NEAR+FUTURE: sg̲álang k̲asa'áa
-     sg̲ál+V+NEAR+FUTURE: sg̲álang k̲asa'áang
-     sg̲ál+V+INTERROGATIVE+VERYNEAR+FUTURE: sg̲álang k̲asaasdláa
-     sg̲ál+V+VERYNEAR+FUTURE: sg̲álang k̲asaasdláang
-     sg̲ál+V+BIASED+IMMEDIATE+PRESENT: sg̲ál'uuj
-     sg̲ál+V+BIASED+SIMPLE+PRESENT: sg̲ál'uujang
-     sg̲ál+V+RESIGNED_OBLIGATION: sg̲áläsaa'uujang
-     sg̲ál+V+BIASED+INTERROGATIVE+PRESENT: sg̲ál'us
-     sg̲ál+V+BIASED+INTERROGATIVE+PAST: sg̲ál'ujaa
-     sg̲ál+V+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'uujaangaa
-     sg̲ál+V+BIASED+INTERROGATIVE+FUTURE: sg̲áläsaa'us
-     sg̲ál+V+CERTAIN+FUTURE: sg̲áläsaa'ahlans
-     sg̲ál+V+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲áläseehl
-     sg̲ál+V+PLURAL+IMPERATIVE: sg̲ál'uu
-     sg̲ál+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sg̲ál'waa
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál'waa
-     sg̲ál+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sg̲ál'waang
-     sg̲ál+V+3rd_PERSON_PLURAL+DIRECT+PAST: sg̲ál'wägan
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sg̲ál'aawaa
-     sg̲ál+V+3rd_PERSON_PLURAL+INDIRECT+PAST: sg̲ál'aawaan
-     sg̲ál+V+3rd_PERSON_PLURAL+RELATIVE: sg̲ál'waas
-     sg̲ál+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sg̲ál'aawaas
-     sg̲ál+V+3rd_PERSON_PLURAL+NON_FACTIVE: sg̲ál'waa.ang
-     sg̲ál+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sg̲ál'aawaa.ang
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sg̲álgang'waa
-     sg̲ál+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sg̲álgang'waang
-     sg̲ál+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgang'waa.ang
-     sg̲ál+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sg̲ál'wägiinii
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sg̲ál'wägaangaa
-     sg̲ál+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sg̲ál'wägaangaan
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sg̲ál'waaäsaa
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sg̲ál'waaäs
-     sg̲ál+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sg̲ál'waaäsaang
-     sg̲ál+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sg̲ál'waaäsga
-     sg̲ál+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sg̲ál'waaäsaas
-     sg̲ál+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sg̲ál'waaäsaa.ang
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sg̲ál'waa.ang k̲asa'áa
-     sg̲ál+V+3rd_PERSON_PLURAL+NEAR+FUTURE: sg̲ál'waa.ang k̲asa'áang
-     sg̲ál+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdláa
-     sg̲ál+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdláang
-     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sg̲ál'waa'uuj
-     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sg̲ál'waa'uujang
-     sg̲ál+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sg̲ál'waaäsaa'uujang
-     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sg̲ál'waa'us
-     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sg̲ál'waa'ujaa
-     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'waa'uujaangaa
-     sg̲ál+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sg̲ál'waaäsaa'us
-     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sg̲ál'waa'ahlanggang
-     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+PAST: sg̲ál'waa'ahlanggan
-     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sg̲ál'waa'ahlanggiinii
-     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sg̲ál'waaäsaa'ahlans
-     sg̲ál+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sg̲ál'waa'ahlans
-     sg̲ál+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: sg̲ál'aawaa'ahlang
-     sg̲ál+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲ál'aawaa'ahlanggaa
-     sg̲ál+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sg̲ál'aawaa'ahlanggang
-     sg̲ál+V+3rd_PERSON_PLURAL+REFLEXIVE: sg̲ál'waa'ahl
-     sg̲ál+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲ál'waaäseehl
-     sg̲ál+V+NEGATIVE+SINGULAR+IMPERATIVE: sg̲ál'ang
-     sg̲ál+V+NEGATIVE+IMMEDIATE+PRESENT: sg̲ál'angga
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál'ang
-     sg̲ál+V+NEGATIVE+SIMPLE+PRESENT: sg̲ál'anggang
-     sg̲ál+V+NEGATIVE+DIRECT+PAST: sg̲ál'anggan
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+PAST: sg̲ál'aangaa
-     sg̲ál+V+NEGATIVE+INDIRECT+PAST: sg̲ál'aangaan
-     sg̲ál+V+NEGATIVE+RELATIVE: sg̲ál'ans
-     sg̲ál+V+NEGATIVE+RELATIVE+EVIDENTIAL: sg̲ál'aangaas
-     sg̲ál+V+NEGATIVE+NON_FACTIVE: sg̲ál'angang
-     sg̲ál+V+NEGATIVE+PAST+NON_FACTIVE: sg̲ál'aangaa.ang
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: sg̲ál'anggang
-     sg̲ál+V+NEGATIVE+PRESENT+HABITUAL: sg̲álgang'anggang
-     sg̲ál+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgang'angang
-     sg̲ál+V+NEGATIVE+DIRECT+PAST+HABITUAL: sg̲ál'anggiinii
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: sg̲ál'anggaangaa
-     sg̲ál+V+NEGATIVE+INDIRECT+PAST+HABITUAL: sg̲ál'anggaangaan
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: sg̲ál'angäsaa
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: sg̲ál'angäs
-     sg̲ál+V+NEGATIVE+SIMPLE+FUTURE: sg̲ál'angäsaang
-     sg̲ál+V+NEGATIVE+IMMEDIATE+FUTURE: sg̲ál'angäsga
-     sg̲ál+V+NEGATIVE+RELATIVE+FUTURE: sg̲ál'angäsaas
-     sg̲ál+V+NEGATIVE+FUTURE+NON_FACTIVE: sg̲ál'angäsaa.ang
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: sg̲álang k̲asaa'áng
-     sg̲ál+V+NEGATIVE+NEAR+FUTURE: sg̲álang k̲asaa'ánggang
-     sg̲ál+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: sg̲álang k̲asaasdlä'áng
-     sg̲ál+V+NEGATIVE+VERYNEAR+FUTURE: sg̲álang k̲asaasdlä'ánggang
-     sg̲ál+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: sg̲ál'ang'uuj
-     sg̲ál+V+NEGATIVE+BIASED+SIMPLE+PRESENT: sg̲ál'ang'uujang
-     sg̲ál+V+NEGATIVE+RESIGNED_OBLIGATION: sg̲ál'angäsaa'uujang
-     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: sg̲ál'ang'us
-     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: sg̲ál'ang'ujaa
-     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'ang'uujaangaa
-     sg̲ál+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: sg̲ál'angäsaa'us
-     sg̲ál+V+NEGATIVE+CERTAIN+PRESENT: sg̲ál'aang'ahlanggang
-     sg̲ál+V+NEGATIVE+CERTAIN+PAST: sg̲ál'aang'ahlanggan
-     sg̲ál+V+NEGATIVE+CERTAIN+PAST+HABITUAL: sg̲ál'aang'ahlanggiinii
-     sg̲ál+V+NEGATIVE+CERTAIN+FUTURE: sg̲ál'angäsaa'ahlans
-     sg̲ál+V+NEGATIVE+CERTAIN+RELATIVE: sg̲ál'aang'ahlans
-     sg̲ál+V+NEGATIVE+INTENSIVE+PAST: sg̲ál'aangaa'ahlang
-     sg̲ál+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲ál'aangaa'ahlanggaa
-     sg̲ál+V+NEGATIVE+COUNTERFACTUAL+PRESENT: sg̲ál'aangaa'ahlanggang
-     sg̲ál+V+NEGATIVE+REFLEXIVE: sg̲ál'aang'ahl
-     sg̲ál+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲ál'angäseehl
-     sg̲ál+V+NEGATIVE+PLURAL+IMPERATIVE: sg̲ál'ang'uu
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: sg̲ál'ang'waa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: sg̲ál'ang'waa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: sg̲ál'ang'waang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: sg̲ál'ang'wägan
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: sg̲ál'ang'aawaa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: sg̲ál'ang'aawaan
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: sg̲ál'ang'waas
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: sg̲ál'ang'aawaas
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: sg̲ál'ang'waa.ang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: sg̲ál'ang'aawaa.ang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: sg̲álgang'ang'waa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: sg̲álgang'ang'waang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: sg̲álgang'ang'waa.ang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: sg̲ál'ang'wägiinii
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: sg̲ál'ang'wägaangaa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: sg̲ál'ang'wägaangaan
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: sg̲ál'ang'waaäsaa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: sg̲ál'ang'waaäs
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: sg̲ál'ang'waaäsaang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: sg̲ál'ang'waaäsga
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: sg̲ál'ang'waaäsaas
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: sg̲ál'ang'waaäsaa.ang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: sg̲ál'waa.ang k̲asaa'áng
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: sg̲ál'waa.ang k̲asaa'ánggang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdlä'áng
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: sg̲ál'waa.ang k̲asaasdlä'ánggang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: sg̲ál'ang'waa'uuj
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: sg̲ál'ang'waa'uujang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: sg̲ál'ang'waaäsaa'uujang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: sg̲ál'ang'waa'us
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: sg̲ál'ang'waa'ujaa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: sg̲ál'ang'waa'uujaangaa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: sg̲ál'ang'waaäsaa'us
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: sg̲ál'ang'waa'ahlanggang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: sg̲ál'ang'waa'ahlanggan
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: sg̲ál'ang'waa'ahlanggiinii
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: sg̲ál'ang'waaäsaa'ahlans
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: sg̲ál'ang'waa'ahlans
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: sg̲ál'ang'aawaa'ahlang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲ál'ang'aawaa'ahlanggaa
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: sg̲ál'ang'aawaa'ahlanggang
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: sg̲ál'ang'waa'ahl
-     sg̲ál+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: sg̲ál'ang'waaäseehl
+     sg̲ál+V+SG+IMPV: sg̲ál
+     sg̲ál+V+IMM+PRES: sg̲álga
+     sg̲ál+V+INTERR+SIMP+PRES: sg̲ál
+     sg̲ál+V+SIMP+PRES: sg̲álgang
+     sg̲ál+V+DIR+PAST: sg̲álgan
+     sg̲ál+V+REL: sg̲áls
+     sg̲ál+V+NONFACT: sg̲álang
+     sg̲ál+V+INTERR+PRES+HAB: sg̲álgang
+     sg̲ál+V+PRES+HAB: sg̲álganggang
+     sg̲ál+V+PRES+HAB+NONFACT: sg̲álgangang
+     sg̲ál+V+DIR+PAST+HAB: sg̲álgiinii
+     sg̲ál+V+INTERR+PAST+HAB: sg̲álgaangaa
+     sg̲ál+V+INDIR+PAST+HAB: sg̲álgaangaan
+     sg̲ál+V+INTERR+FUT+LONG: sg̲áläsaa
+     sg̲ál+V+INTERR+FUT+SHORT: sg̲áläs
+     sg̲ál+V+SIMP+FUT: sg̲áläsaang
+     sg̲ál+V+IMM+FUT: sg̲áläsga
+     sg̲ál+V+REL+FUT: sg̲áläsaas
+     sg̲ál+V+FUT+NONFACT: sg̲áläsaa.ang
+     sg̲ál+V+INTERR+NEAR+FUT: sg̲álang k̲asa'áa
+     sg̲ál+V+NEAR+FUT: sg̲álang k̲asa'áang
+     sg̲ál+V+INTERR+VNEAR+FUT: sg̲álang k̲asaasdláa
+     sg̲ál+V+VNEAR+FUT: sg̲álang k̲asaasdláang
+     sg̲ál+V+BIAS+IMM+PRES: sg̲ál'uuj
+     sg̲ál+V+BIAS+SIMP+PRES: sg̲ál'uujang
+     sg̲ál+V+RES: sg̲áläsaa'uujang
+     sg̲ál+V+BIAS+INTERR+PRES: sg̲ál'us
+     sg̲ál+V+BIAS+INTERR+PAST: sg̲ál'ujaa
+     sg̲ál+V+BIAS+INTERR+PAST+HAB: sg̲ál'uujaangaa
+     sg̲ál+V+BIAS+INTERR+FUT: sg̲áläsaa'us
+     sg̲ál+V+CERT+FUT: sg̲áläsaa'ahlans
+     sg̲ál+V+FUT+RFLX+INTERR: sg̲áläseehl
+     sg̲ál+V+PL+IMPV: sg̲ál'uu
+     sg̲ál+V+3PL+IMM+PRES: sg̲ál'waa
+     sg̲ál+V+3PL+INTERR+SIMP+PRES: sg̲ál'waa
+     sg̲ál+V+3PL+SIMP+PRES: sg̲ál'waang
+     sg̲ál+V+3PL+DIR+PAST: sg̲ál'wägan
+     sg̲ál+V+3PL+INTERR+PAST: sg̲ál'aawaa
+     sg̲ál+V+3PL+INDIR+PAST: sg̲ál'aawaan
+     sg̲ál+V+3PL+REL: sg̲ál'waas
+     sg̲ál+V+3PL+REL+EVID: sg̲ál'aawaas
+     sg̲ál+V+3PL+NONFACT: sg̲ál'waa.ang
+     sg̲ál+V+3PL+PAST+NONFACT: sg̲ál'aawaa.ang
+     sg̲ál+V+3PL+INTERR+PRES+HAB: sg̲álgang'waa
+     sg̲ál+V+3PL+PRES+HAB: sg̲álgang'waang
+     sg̲ál+V+3PL+PRES+HAB+NONFACT: sg̲álgang'waa.ang
+     sg̲ál+V+3PL+DIR+PAST+HAB: sg̲ál'wägiinii
+     sg̲ál+V+3PL+INTERR+PAST+HAB: sg̲ál'wägaangaa
+     sg̲ál+V+3PL+INDIR+PAST+HAB: sg̲ál'wägaangaan
+     sg̲ál+V+3PL+INTERR+FUT+LONG: sg̲ál'waaäsaa
+     sg̲ál+V+3PL+INTERR+FUT+SHORT: sg̲ál'waaäs
+     sg̲ál+V+3PL+SIMP+FUT: sg̲ál'waaäsaang
+     sg̲ál+V+3PL+IMM+FUT: sg̲ál'waaäsga
+     sg̲ál+V+3PL+REL+FUT: sg̲ál'waaäsaas
+     sg̲ál+V+3PL+FUT+NONFACT: sg̲ál'waaäsaa.ang
+     sg̲ál+V+3PL+INTERR+NEAR+FUT: sg̲ál'waa.ang k̲asa'áa
+     sg̲ál+V+3PL+NEAR+FUT: sg̲ál'waa.ang k̲asa'áang
+     sg̲ál+V+3PL+INTERR+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdláa
+     sg̲ál+V+3PL+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdláang
+     sg̲ál+V+3PL+BIAS+IMM+PRES: sg̲ál'waa'uuj
+     sg̲ál+V+3PL+BIAS+SIMP+PRES: sg̲ál'waa'uujang
+     sg̲ál+V+3PL+RES: sg̲ál'waaäsaa'uujang
+     sg̲ál+V+3PL+BIAS+INTERR+PRES: sg̲ál'waa'us
+     sg̲ál+V+3PL+BIAS+INTERR+PAST: sg̲ál'waa'ujaa
+     sg̲ál+V+3PL+BIAS+INTERR+PAST+HAB: sg̲ál'waa'uujaangaa
+     sg̲ál+V+3PL+BIAS+INTERR+FUT: sg̲ál'waaäsaa'us
+     sg̲ál+V+3PL+CERT+PRES: sg̲ál'waa'ahlanggang
+     sg̲ál+V+3PL+CERT+PAST: sg̲ál'waa'ahlanggan
+     sg̲ál+V+3PL+CERT+PAST+HAB: sg̲ál'waa'ahlanggiinii
+     sg̲ál+V+3PL+CERT+FUT: sg̲ál'waaäsaa'ahlans
+     sg̲ál+V+3PL+CERT+REL: sg̲ál'waa'ahlans
+     sg̲ál+V+3PL+INTS+PAST: sg̲ál'aawaa'ahlang
+     sg̲ál+V+3PL+CONT: sg̲ál'aawaa'ahlanggaa
+     sg̲ál+V+3PL+CTFACT+PRES: sg̲ál'aawaa'ahlanggang
+     sg̲ál+V+3PL+RFLX: sg̲ál'waa'ahl
+     sg̲ál+V+3PL+FUT+RFLX+INTERR: sg̲ál'waaäseehl
+     sg̲ál+V+NEG+SG+IMPV: sg̲ál'ang
+     sg̲ál+V+NEG+IMM+PRES: sg̲ál'angga
+     sg̲ál+V+NEG+INTERR+SIMP+PRES: sg̲ál'ang
+     sg̲ál+V+NEG+SIMP+PRES: sg̲ál'anggang
+     sg̲ál+V+NEG+DIR+PAST: sg̲ál'anggan
+     sg̲ál+V+NEG+INTERR+PAST: sg̲ál'aangaa
+     sg̲ál+V+NEG+INDIR+PAST: sg̲ál'aangaan
+     sg̲ál+V+NEG+REL: sg̲ál'ans
+     sg̲ál+V+NEG+REL+EVID: sg̲ál'aangaas
+     sg̲ál+V+NEG+NONFACT: sg̲ál'angang
+     sg̲ál+V+NEG+PAST+NONFACT: sg̲ál'aangaa.ang
+     sg̲ál+V+NEG+INTERR+PRES+HAB: sg̲ál'anggang
+     sg̲ál+V+NEG+PRES+HAB: sg̲álgang'anggang
+     sg̲ál+V+NEG+PRES+HAB+NONFACT: sg̲álgang'angang
+     sg̲ál+V+NEG+DIR+PAST+HAB: sg̲ál'anggiinii
+     sg̲ál+V+NEG+INTERR+PAST+HAB: sg̲ál'anggaangaa
+     sg̲ál+V+NEG+INDIR+PAST+HAB: sg̲ál'anggaangaan
+     sg̲ál+V+NEG+INTERR+FUT+LONG: sg̲ál'angäsaa
+     sg̲ál+V+NEG+INTERR+FUT+SHORT: sg̲ál'angäs
+     sg̲ál+V+NEG+SIMP+FUT: sg̲ál'angäsaang
+     sg̲ál+V+NEG+IMM+FUT: sg̲ál'angäsga
+     sg̲ál+V+NEG+REL+FUT: sg̲ál'angäsaas
+     sg̲ál+V+NEG+FUT+NONFACT: sg̲ál'angäsaa.ang
+     sg̲ál+V+NEG+INTERR+NEAR+FUT: sg̲álang k̲asaa'áng
+     sg̲ál+V+NEG+NEAR+FUT: sg̲álang k̲asaa'ánggang
+     sg̲ál+V+NEG+INTERR+VNEAR+FUT: sg̲álang k̲asaasdlä'áng
+     sg̲ál+V+NEG+VNEAR+FUT: sg̲álang k̲asaasdlä'ánggang
+     sg̲ál+V+NEG+BIAS+IMM+PRES: sg̲ál'ang'uuj
+     sg̲ál+V+NEG+BIAS+SIMP+PRES: sg̲ál'ang'uujang
+     sg̲ál+V+NEG+RES: sg̲ál'angäsaa'uujang
+     sg̲ál+V+NEG+BIAS+INTERR+PRES: sg̲ál'ang'us
+     sg̲ál+V+NEG+BIAS+INTERR+PAST: sg̲ál'ang'ujaa
+     sg̲ál+V+NEG+BIAS+INTERR+PAST+HAB: sg̲ál'ang'uujaangaa
+     sg̲ál+V+NEG+BIAS+INTERR+FUT: sg̲ál'angäsaa'us
+     sg̲ál+V+NEG+CERT+PRES: sg̲ál'aang'ahlanggang
+     sg̲ál+V+NEG+CERT+PAST: sg̲ál'aang'ahlanggan
+     sg̲ál+V+NEG+CERT+PAST+HAB: sg̲ál'aang'ahlanggiinii
+     sg̲ál+V+NEG+CERT+FUT: sg̲ál'angäsaa'ahlans
+     sg̲ál+V+NEG+CERT+REL: sg̲ál'aang'ahlans
+     sg̲ál+V+NEG+INTS+PAST: sg̲ál'aangaa'ahlang
+     sg̲ál+V+NEG+CONT: sg̲ál'aangaa'ahlanggaa
+     sg̲ál+V+NEG+CTFACT+PRES: sg̲ál'aangaa'ahlanggang
+     sg̲ál+V+NEG+RFLX: sg̲ál'aang'ahl
+     sg̲ál+V+NEG+FUT+RFLX+INTERR: sg̲ál'angäseehl
+     sg̲ál+V+NEG+PL+IMPV: sg̲ál'ang'uu
+     sg̲ál+V+NEG+3PL+IMM+PRES: sg̲ál'ang'waa
+     sg̲ál+V+NEG+3PL+INTERR+SIMP+PRES: sg̲ál'ang'waa
+     sg̲ál+V+NEG+3PL+SIMP+PRES: sg̲ál'ang'waang
+     sg̲ál+V+NEG+3PL+DIR+PAST: sg̲ál'ang'wägan
+     sg̲ál+V+NEG+3PL+INTERR+PAST: sg̲ál'ang'aawaa
+     sg̲ál+V+NEG+3PL+INDIR+PAST: sg̲ál'ang'aawaan
+     sg̲ál+V+NEG+3PL+REL: sg̲ál'ang'waas
+     sg̲ál+V+NEG+3PL+REL+EVID: sg̲ál'ang'aawaas
+     sg̲ál+V+NEG+3PL+NONFACT: sg̲ál'ang'waa.ang
+     sg̲ál+V+NEG+3PL+PAST+NONFACT: sg̲ál'ang'aawaa.ang
+     sg̲ál+V+NEG+3PL+INTERR+PRES+HAB: sg̲álgang'ang'waa
+     sg̲ál+V+NEG+3PL+PRES+HAB: sg̲álgang'ang'waang
+     sg̲ál+V+NEG+3PL+PRES+HAB+NONFACT: sg̲álgang'ang'waa.ang
+     sg̲ál+V+NEG+3PL+DIR+PAST+HAB: sg̲ál'ang'wägiinii
+     sg̲ál+V+NEG+3PL+INTERR+PAST+HAB: sg̲ál'ang'wägaangaa
+     sg̲ál+V+NEG+3PL+INDIR+PAST+HAB: sg̲ál'ang'wägaangaan
+     sg̲ál+V+NEG+3PL+INTERR+FUT+LONG: sg̲ál'ang'waaäsaa
+     sg̲ál+V+NEG+3PL+INTERR+FUT+SHORT: sg̲ál'ang'waaäs
+     sg̲ál+V+NEG+3PL+SIMP+FUT: sg̲ál'ang'waaäsaang
+     sg̲ál+V+NEG+3PL+IMM+FUT: sg̲ál'ang'waaäsga
+     sg̲ál+V+NEG+3PL+REL+FUT: sg̲ál'ang'waaäsaas
+     sg̲ál+V+NEG+3PL+FUT+NONFACT: sg̲ál'ang'waaäsaa.ang
+     sg̲ál+V+NEG+3PL+INTERR+NEAR+FUT: sg̲ál'waa.ang k̲asaa'áng
+     sg̲ál+V+NEG+3PL+NEAR+FUT: sg̲ál'waa.ang k̲asaa'ánggang
+     sg̲ál+V+NEG+3PL+INTERR+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdlä'áng
+     sg̲ál+V+NEG+3PL+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdlä'ánggang
+     sg̲ál+V+NEG+3PL+BIAS+IMM+PRES: sg̲ál'ang'waa'uuj
+     sg̲ál+V+NEG+3PL+BIAS+SIMP+PRES: sg̲ál'ang'waa'uujang
+     sg̲ál+V+NEG+3PL+RES: sg̲ál'ang'waaäsaa'uujang
+     sg̲ál+V+NEG+3PL+BIAS+INTERR+PRES: sg̲ál'ang'waa'us
+     sg̲ál+V+NEG+3PL+BIAS+INTERR+PAST: sg̲ál'ang'waa'ujaa
+     sg̲ál+V+NEG+3PL+BIAS+INTERR+PAST+HAB: sg̲ál'ang'waa'uujaangaa
+     sg̲ál+V+NEG+3PL+BIAS+INTERR+FUT: sg̲ál'ang'waaäsaa'us
+     sg̲ál+V+NEG+3PL+CERT+PRES: sg̲ál'ang'waa'ahlanggang
+     sg̲ál+V+NEG+3PL+CERT+PAST: sg̲ál'ang'waa'ahlanggan
+     sg̲ál+V+NEG+3PL+CERT+PAST+HAB: sg̲ál'ang'waa'ahlanggiinii
+     sg̲ál+V+NEG+3PL+CERT+FUT: sg̲ál'ang'waaäsaa'ahlans
+     sg̲ál+V+NEG+3PL+CERT+REL: sg̲ál'ang'waa'ahlans
+     sg̲ál+V+NEG+3PL+INTS+PAST: sg̲ál'ang'aawaa'ahlang
+     sg̲ál+V+NEG+3PL+CONT: sg̲ál'ang'aawaa'ahlanggaa
+     sg̲ál+V+NEG+3PL+CTFACT+PRES: sg̲ál'ang'aawaa'ahlanggang
+     sg̲ál+V+NEG+3PL+RFLX: sg̲ál'ang'waa'ahl
+     sg̲ál+V+NEG+3PL+FUT+RFLX+INTERR: sg̲ál'ang'waaäseehl
 

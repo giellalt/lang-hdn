@@ -11,16 +11,16 @@ Tests:
 
   Verb - sg̲ál - ENGLISH : # CLASS_AL_STEM_2
 
-     sg̲ál+V+INTERROGATIVE+PAST: sg̲áalaa
-     sg̲ál+V+INDIRECT+PAST: sg̲áalaan
-     sg̲ál+V+RELATIVE+EVIDENTIAL: sg̲áalaas
-     sg̲ál+V+PAST+NON_FACTIVE: sg̲áalaa.ang
-     sg̲ál+V+CERTAIN+PRESENT: sg̲áal'ahlanggang
-     sg̲ál+V+CERTAIN+PAST: sg̲áal'ahlanggan
-     sg̲ál+V+CERTAIN+PAST+HABITUAL: sg̲áal'ahlanggiinii
-     sg̲ál+V+CERTAIN+RELATIVE: sg̲áal'ahlans
-     sg̲ál+V+INTENSIVE+PAST: sg̲áalaa'ahlang
-     sg̲ál+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲áalaa'ahlanggaa
-     sg̲ál+V+COUNTERFACTUAL+PRESENT: sg̲áalaa'ahlanggang
-     sg̲ál+V+REFLEXIVE: sg̲áal'ahl
+     sg̲ál+V+INTERR+PAST: sg̲áalaa
+     sg̲ál+V+INDIR+PAST: sg̲áalaan
+     sg̲ál+V+REL+EVID: sg̲áalaas
+     sg̲ál+V+PAST+NONFACT: sg̲áalaa.ang
+     sg̲ál+V+CERT+PRES: sg̲áal'ahlanggang
+     sg̲ál+V+CERT+PAST: sg̲áal'ahlanggan
+     sg̲ál+V+CERT+PAST+HAB: sg̲áal'ahlanggiinii
+     sg̲ál+V+CERT+REL: sg̲áal'ahlans
+     sg̲ál+V+INTS+PAST: sg̲áalaa'ahlang
+     sg̲ál+V+CONT: sg̲áalaa'ahlanggaa
+     sg̲ál+V+CTFACT+PRES: sg̲áalaa'ahlanggang
+     sg̲ál+V+RFLX: sg̲áal'ahl
 

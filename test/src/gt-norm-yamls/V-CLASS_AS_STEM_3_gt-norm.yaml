@@ -11,11 +11,11 @@ Tests:
 
   Verb - dándas - ENGLISH : # CLASS_AS_STEM_3
 
-     dándas+V+INTERROGATIVE+PAST: dándajaa
-     dándas+V+INDIRECT+PAST: dándajaan
-     dándas+V+RELATIVE+EVIDENTIAL: dándajaas
-     dándas+V+PAST+NON_FACTIVE: dándajaa.ang
-     dándas+V+INTENSIVE+PAST: dándajaa'ahlang
-     dándas+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: dándajaa'ahlanggaa
-     dándas+V+COUNTERFACTUAL+PRESENT: dándajaa'ahlanggang
+     dándas+V+INTERR+PAST: dándajaa
+     dándas+V+INDIR+PAST: dándajaan
+     dándas+V+REL+EVID: dándajaas
+     dándas+V+PAST+NONFACT: dándajaa.ang
+     dándas+V+INTS+PAST: dándajaa'ahlang
+     dándas+V+CONT: dándajaa'ahlanggaa
+     dándas+V+CTFACT+PRES: dándajaa'ahlanggang
 

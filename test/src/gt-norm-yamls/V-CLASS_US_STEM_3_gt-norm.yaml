@@ -11,11 +11,11 @@ Tests:
 
   Verb - kus - ENGLISH : # CLASS_US_STEM_3
 
-     kus+V+INTERROGATIVE+PAST: kwíijaa
-     kus+V+INDIRECT+PAST: kwíijaan
-     kus+V+RELATIVE+EVIDENTIAL: kwíijaas
-     kus+V+PAST+NON_FACTIVE: kwíijaa.ang
-     kus+V+INTENSIVE+PAST: kwíijaa'ahlang
-     kus+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kwíijaa'ahlanggaa
-     kus+V+COUNTERFACTUAL+PRESENT: kwíijaa'ahlanggang
+     kus+V+INTERR+PAST: kwíijaa
+     kus+V+INDIR+PAST: kwíijaan
+     kus+V+REL+EVID: kwíijaas
+     kus+V+PAST+NONFACT: kwíijaa.ang
+     kus+V+INTS+PAST: kwíijaa'ahlang
+     kus+V+CONT: kwíijaa'ahlanggaa
+     kus+V+CTFACT+PRES: kwíijaa'ahlanggang
 

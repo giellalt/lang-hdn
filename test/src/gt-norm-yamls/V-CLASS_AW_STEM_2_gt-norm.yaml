@@ -11,16 +11,16 @@ Tests:
 
   Verb - sg̲áw - ENGLISH : # CLASS_AW_STEM_2
 
-     sg̲áw+V+INTERROGATIVE+PAST: sg̲áawaa
-     sg̲áw+V+INDIRECT+PAST: sg̲áawaan
-     sg̲áw+V+RELATIVE+EVIDENTIAL: sg̲áawaas
-     sg̲áw+V+PAST+NON_FACTIVE: sg̲áawaa.ang
-     sg̲áw+V+CERTAIN+PRESENT: sg̲áaw'ahlanggang
-     sg̲áw+V+CERTAIN+PAST: sg̲áaw'ahlanggan
-     sg̲áw+V+CERTAIN+PAST+HABITUAL: sg̲áaw'ahlanggiinii
-     sg̲áw+V+CERTAIN+RELATIVE: sg̲áaw'ahlans
-     sg̲áw+V+INTENSIVE+PAST: sg̲áawaa'ahlang
-     sg̲áw+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: sg̲áawaa'ahlanggaa
-     sg̲áw+V+COUNTERFACTUAL+PRESENT: sg̲áawaa'ahlanggang
-     sg̲áw+V+REFLEXIVE: sg̲áaw'ahl
+     sg̲áw+V+INTERR+PAST: sg̲áawaa
+     sg̲áw+V+INDIR+PAST: sg̲áawaan
+     sg̲áw+V+REL+EVID: sg̲áawaas
+     sg̲áw+V+PAST+NONFACT: sg̲áawaa.ang
+     sg̲áw+V+CERT+PRES: sg̲áaw'ahlanggang
+     sg̲áw+V+CERT+PAST: sg̲áaw'ahlanggan
+     sg̲áw+V+CERT+PAST+HAB: sg̲áaw'ahlanggiinii
+     sg̲áw+V+CERT+REL: sg̲áaw'ahlans
+     sg̲áw+V+INTS+PAST: sg̲áawaa'ahlang
+     sg̲áw+V+CONT: sg̲áawaa'ahlanggaa
+     sg̲áw+V+CTFACT+PRES: sg̲áawaa'ahlanggang
+     sg̲áw+V+RFLX: sg̲áaw'ahl
 
