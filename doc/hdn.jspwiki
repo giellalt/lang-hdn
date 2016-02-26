@@ -11,22 +11,22 @@
 This is free and open source Northern Haida morphology.
 
 
-This file shows the Haida multichar symbols and initial lexica.
+This file shows the Northern Haida multichar symbols and initial lexica.
 
- !!!Multichar_Symbols definitions
+ !!!Definitions for Multichar_Symbols
 
 !!Analysis symbols
 ----------------
 The morphological analyses of wordforms of Northern Haida are presented
-in this system in terms of the following symbols.
+in this system in terms of following symbols.
 
 (It is highly suggested to follow existing standards when adding new tags).
 
-!!Morphophonemes
+The parts-of-speech could perhaps also be (remove irrelevant):
 
 These are vowel morphophonemes which will lose their accent when they are no long in closed syllables
 
- * á2  =
+ * á2  = 
  * é2  =
  * í2  =
  * ú2  =
@@ -35,37 +35,40 @@ These are vowel morphophonemes which will lose their accent when they are no lon
 Haida has these tags for real, says Jordan.
  * +V	 =
  * +N	     =
- * +NEGATIVE	 =
- * +3rd_PERSON_PLURAL	 =
- * +INTERROGATIVE	 =
- * +FUTURE	 =
- * +PAST	 =
- * +PRESENT	 =
- * +HABITUAL	 =
- * +BIASED	 =
- * +CERTAIN	 =
- * +SIMPLE	 =
- * +RELATIVE	 =
- * +NON_FACTIVE	 =
- * +IMMEDIATE	 =
- * +VERYNEAR	 =
- * +REFLEXIVE	 =
+ * +NEG	 = Negative
+ * +3PL	 = 3rd personal definite plural participant
+ * +INTERR	 = Interrogative
+ * +FUT	 = Future
+ * +PAST	 = Past
+ * +PRES	 = Present
+ * +HAB	 = Habitual
+ * +BIAS	 = Biased
+ * +CERT	 = Certain
+ * +SIMP	 = Simple
+ * +REL	 = Relative
+ * +NONFACT	 = Non_Factive
+ * +IMM	 = Immediate
+ * +VNEAR	 = Very near
+ * +RFLX	 = Reflexive
  * +NEAR	 =
- * +INDIRECT	 =
- * +DIRECT	 =
- * +SHOULD_KEEP_ON_VERBING_FOR_A_WHILE	 =
+ * +INDIR	 = Indirect evidentiality
+ * +DIR	 = Direct evidentiality
+ * +CONT	 = Should keep on verbing
  * +SHORT	 =
- * +RESIGNED_OBLIGATION	 =
+ * +RES	 = Resigned obligation
  * +LONG	 =
- * +INTENSIVE	 =
- * +IMPERATIVE	 =
- * +EVIDENTIAL	 =
- * +COUNTERFACTUAL	 =
- * +SINGULAR	 =
- * +PLURAL	 =
+ * +INTS	 = Intensive
+ * +IMPV	 = Imperative
+ * +EVID	 = Evidential
+ * +CTFACT	 = Counterfactual
+ * +SG	 = Singular
+ * +PL	 = Plural
  * +Def	 =
  * +Indef	 =
  * +Rfx	 = Used for reflexively possessed body parts and kinterms
+ * +Abs     = Non-reflexive forms of body parts and kinterms
+
+
 
 The actual classifiers
 
@@ -75,19 +78,19 @@ The actual classifiers
  * +CL/k̲'íi  =
  * +CL/gi  =
  * +CL/gu  =
- * +CL/g̱a  =
+ * +CL/g̲a  =
  * +CL/hlgi  =
- * +CL/hlg̱a  =
- * +CL/hlḵ’uhl  =
+ * +CL/hlg̲a  =
+ * +CL/hlk̲’uhl  =
  * +CL/ja  =
  * +CL/k’u  =
- * +CL/ḵ’íi  =
+ * +CL/k̲’íi  =
  * +CL/sda  =
- * +CL/sg̱a  =
+ * +CL/sg̲a  =
  * +CL/skáa  =
  * +CL/skáa  =
  * +CL/sk’a  =
- * +CL/sḵ’a  =
+ * +CL/sk̲’a  =
  * +CL/stl’a  =
  * +CL/tíi  =
  * +CL/tl’a  =
@@ -161,8 +164,43 @@ The Usage extents are marked using the following tags:
 
 The nominals are inflected in the following Number
 
- * +Sg    = Only relevant for kinterms
- * +Pl    = Only relevant for kinterms
+ * +Sg    =
+ * +Pl    =
+ * +Indef  =
+ * +Def   =
+ * +Abs  =
+ * +Rfx  =
+
+The verbs can have the following morphological features:
+
+ * +1sg    =
+ * +2dl    =
+ * +2pl    =
+ * +2sg    =
+ * +3pl    =
+ * +3sg    =
+ * +Edl    =
+ * +Epl    =
+ * +Fut    =
+ * +FutImp    =
+ * +Hab    =
+ * +Idl    =
+ * +ImmPast    =
+ * +Inf    =
+ * +Ipl    =
+ * +Prs    =
+ * +PrsImp    =
+ * +RemPast    =
+ * +RepPast    =
+
+Verb prefixes
+
+
+
+The TAM flags
+
+
+
 
 
 Verbs and prnouns
@@ -170,9 +208,14 @@ Verbs and prnouns
  * +2Sg     etc
  * +3Sg     third singular
 
- * +1Pl     
- * +2Pl    
- * +3Pl    
+Verbs and pronouns
+ * +1Sg     = first person singular
+ * +2Sg     = second person singular
+ * +3Sg     = third person singular
+
+ * +1Pl     = first person plural
+ * +2Pl     = second person plural
+ * +3Pl     = third person plural
 
 
 
@@ -187,14 +230,21 @@ Special symbols are classified with:
  * +RIGHT  = Right part of paired symbols
 
 The verbs are syntactically split according to transitivity:
- * +TV 
- * +IV 
+ * +TV  
+ * +IV  
 
 Special multiword units are analysed with:
- *  +Multi 
+ *  +Multi  
 
 Non-dictionary words can be recognised with:
- *  +Guess 
+ *  +Guess  
+
+
+Composite UTF-8 characters, i.e. g, k, and x with
+
+
+
+
 
 
 
@@ -226,9 +276,9 @@ given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-The word forms in Haida start from the lexeme roots of basic
+The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
- *   Verbs   ;    
+ *   Verbs   ;     
 
 
 
