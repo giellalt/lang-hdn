@@ -11,180 +11,180 @@ Tests:
 
   Verb - xadáal - ENGLISH : # CLASS_AAL
 
-     xadáal+V+SINGULAR+IMPERATIVE: xadáal
-     xadáal+V+IMMEDIATE+PRESENT: xadáalga
-     xadáal+V+INTERROGATIVE+SIMPLE+PRESENT: xadáal
-     xadáal+V+SIMPLE+PRESENT: xadáalgang
-     xadáal+V+DIRECT+PAST: xadáalgan
-     xadáal+V+INTERROGATIVE+PAST: xadáalaa
-     xadáal+V+INDIRECT+PAST: xadáalaan
-     xadáal+V+RELATIVE: xadáals
-     xadáal+V+RELATIVE+EVIDENTIAL: xadáalaas
-     xadáal+V+NON_FACTIVE: xadáalang
-     xadáal+V+PAST+NON_FACTIVE: xadáalaa.ang
-     xadáal+V+INTERROGATIVE+PRESENT+HABITUAL: xadáalgang
-     xadáal+V+PRESENT+HABITUAL: xadáalganggang
-     xadáal+V+PRESENT+HABITUAL+NON_FACTIVE: xadáalgangang
-     xadáal+V+DIRECT+PAST+HABITUAL: xadáalgiinii
-     xadáal+V+INTERROGATIVE+PAST+HABITUAL: xadáalgaangaa
-     xadáal+V+INDIRECT+PAST+HABITUAL: xadáalgaangaan
-     xadáal+V+INTERROGATIVE+FUTURE+LONG: xadáaläsaa
-     xadáal+V+INTERROGATIVE+FUTURE+SHORT: xadáaläs
-     xadáal+V+SIMPLE+FUTURE: xadáaläsaang
-     xadáal+V+IMMEDIATE+FUTURE: xadáaläsga
-     xadáal+V+RELATIVE+FUTURE: xadáaläsaas
-     xadáal+V+FUTURE+NON_FACTIVE: xadáaläsaa.ang
-     xadáal+V+INTERROGATIVE+NEAR+FUTURE: xadáalang k̲asa'áa
-     xadáal+V+NEAR+FUTURE: xadáalang k̲asa'áang
-     xadáal+V+INTERROGATIVE+VERYNEAR+FUTURE: xadáalang k̲asaasdláa
-     xadáal+V+VERYNEAR+FUTURE: xadáalang k̲asaasdláang
-     xadáal+V+BIASED+IMMEDIATE+PRESENT: xadáal'uuj
-     xadáal+V+BIASED+SIMPLE+PRESENT: xadáal'uujang
-     xadáal+V+RESIGNED_OBLIGATION: xadáaläsaa'uujang
-     xadáal+V+BIASED+INTERROGATIVE+PRESENT: xadáal'us
-     xadáal+V+BIASED+INTERROGATIVE+PAST: xadáal'ujaa
-     xadáal+V+BIASED+INTERROGATIVE+PAST+HABITUAL: xadáal'uujaangaa
-     xadáal+V+BIASED+INTERROGATIVE+FUTURE: xadáaläsaa'us
-     xadáal+V+CERTAIN+PRESENT: xadáal'ahlanggang
-     xadáal+V+CERTAIN+PAST: xadáal'ahlanggan
-     xadáal+V+CERTAIN+PAST+HABITUAL: xadáal'ahlanggiinii
-     xadáal+V+CERTAIN+FUTURE: xadáaläsaa'ahlans
-     xadáal+V+CERTAIN+RELATIVE: xadáal'ahlans
-     xadáal+V+INTENSIVE+PAST: xadáalaa'ahlang
-     xadáal+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xadáalaa'ahlanggaa
-     xadáal+V+COUNTERFACTUAL+PRESENT: xadáalaa'ahlanggang
-     xadáal+V+REFLEXIVE: xadáal'ahl
-     xadáal+V+FUTURE+REFLEXIVE+INTERROGATIVE: xadáaläseehl
-     xadáal+V+PLURAL+IMPERATIVE: xadáal'uu
-     xadáal+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xadáal'waa
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xadáal'waa
-     xadáal+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xadáal'waang
-     xadáal+V+3rd_PERSON_PLURAL+DIRECT+PAST: xadáal'wägan
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xadáal'aawaa
-     xadáal+V+3rd_PERSON_PLURAL+INDIRECT+PAST: xadáal'aawaan
-     xadáal+V+3rd_PERSON_PLURAL+RELATIVE: xadáal'waas
-     xadáal+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xadáal'aawaas
-     xadáal+V+3rd_PERSON_PLURAL+NON_FACTIVE: xadáal'waa.ang
-     xadáal+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xadáal'aawaa.ang
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xadáalgang'waa
-     xadáal+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xadáalgang'waang
-     xadáal+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xadáalgang'waa.ang
-     xadáal+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xadáal'wägiinii
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xadáal'wägaangaa
-     xadáal+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xadáal'wägaangaan
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xadáal'waaäsaa
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xadáal'waaäs
-     xadáal+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xadáal'waaäsaang
-     xadáal+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xadáal'waaäsga
-     xadáal+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xadáal'waaäsaas
-     xadáal+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xadáal'waaäsaa.ang
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xadáal'waa.ang k̲asa'áa
-     xadáal+V+3rd_PERSON_PLURAL+NEAR+FUTURE: xadáal'waa.ang k̲asa'áang
-     xadáal+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdláa
-     xadáal+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdláang
-     xadáal+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xadáal'waa'uuj
-     xadáal+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xadáal'waa'uujang
-     xadáal+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xadáal'waaäsaa'uujang
-     xadáal+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xadáal'waa'us
-     xadáal+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xadáal'waa'ujaa
-     xadáal+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xadáal'waa'uujaangaa
-     xadáal+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xadáal'waaäsaa'us
-     xadáal+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xadáal'waa'ahlanggang
-     xadáal+V+3rd_PERSON_PLURAL+CERTAIN+PAST: xadáal'waa'ahlanggan
-     xadáal+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xadáal'waa'ahlanggiinii
-     xadáal+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xadáal'waaäsaa'ahlans
-     xadáal+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xadáal'waa'ahlans
-     xadáal+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: xadáal'aawaa'ahlang
-     xadáal+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xadáal'aawaa'ahlanggaa
-     xadáal+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xadáal'aawaa'ahlanggang
-     xadáal+V+3rd_PERSON_PLURAL+REFLEXIVE: xadáal'waa'ahl
-     xadáal+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xadáal'waaäseehl
-     xadáal+V+NEGATIVE+SINGULAR+IMPERATIVE: xadáal'ang
-     xadáal+V+NEGATIVE+IMMEDIATE+PRESENT: xadáal'angga
-     xadáal+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: xadáal'ang
-     xadáal+V+NEGATIVE+SIMPLE+PRESENT: xadáal'anggang
-     xadáal+V+NEGATIVE+DIRECT+PAST: xadáal'anggan
-     xadáal+V+NEGATIVE+INTERROGATIVE+PAST: xadáal'aangaa
-     xadáal+V+NEGATIVE+INDIRECT+PAST: xadáal'aangaan
-     xadáal+V+NEGATIVE+RELATIVE: xadáal'ans
-     xadáal+V+NEGATIVE+RELATIVE+EVIDENTIAL: xadáal'aangaas
-     xadáal+V+NEGATIVE+NON_FACTIVE: xadáal'angang
-     xadáal+V+NEGATIVE+PAST+NON_FACTIVE: xadáal'aangaa.ang
-     xadáal+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: xadáal'anggang
-     xadáal+V+NEGATIVE+PRESENT+HABITUAL: xadáalgang'anggang
-     xadáal+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: xadáalgang'angang
-     xadáal+V+NEGATIVE+DIRECT+PAST+HABITUAL: xadáal'anggiinii
-     xadáal+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: xadáal'anggaangaa
-     xadáal+V+NEGATIVE+INDIRECT+PAST+HABITUAL: xadáal'anggaangaan
-     xadáal+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: xadáal'angäsaa
-     xadáal+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: xadáal'angäs
-     xadáal+V+NEGATIVE+SIMPLE+FUTURE: xadáal'angäsaang
-     xadáal+V+NEGATIVE+IMMEDIATE+FUTURE: xadáal'angäsga
-     xadáal+V+NEGATIVE+RELATIVE+FUTURE: xadáal'angäsaas
-     xadáal+V+NEGATIVE+FUTURE+NON_FACTIVE: xadáal'angäsaa.ang
-     xadáal+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: xadáalang k̲asaa'áng
-     xadáal+V+NEGATIVE+NEAR+FUTURE: xadáalang k̲asaa'ánggang
-     xadáal+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: xadáalang k̲asaasdlä'áng
-     xadáal+V+NEGATIVE+VERYNEAR+FUTURE: xadáalang k̲asaasdlä'ánggang
-     xadáal+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: xadáal'ang'uuj
-     xadáal+V+NEGATIVE+BIASED+SIMPLE+PRESENT: xadáal'ang'uujang
-     xadáal+V+NEGATIVE+RESIGNED_OBLIGATION: xadáal'angäsaa'uujang
-     xadáal+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: xadáal'ang'us
-     xadáal+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: xadáal'ang'ujaa
-     xadáal+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: xadáal'ang'uujaangaa
-     xadáal+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: xadáal'angäsaa'us
-     xadáal+V+NEGATIVE+CERTAIN+PRESENT: xadáal'aang'ahlanggang
-     xadáal+V+NEGATIVE+CERTAIN+PAST: xadáal'aang'ahlanggan
-     xadáal+V+NEGATIVE+CERTAIN+PAST+HABITUAL: xadáal'aang'ahlanggiinii
-     xadáal+V+NEGATIVE+CERTAIN+FUTURE: xadáal'angäsaa'ahlans
-     xadáal+V+NEGATIVE+CERTAIN+RELATIVE: xadáal'aang'ahlans
-     xadáal+V+NEGATIVE+INTENSIVE+PAST: xadáal'aangaa'ahlang
-     xadáal+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xadáal'aangaa'ahlanggaa
-     xadáal+V+NEGATIVE+COUNTERFACTUAL+PRESENT: xadáal'aangaa'ahlanggang
-     xadáal+V+NEGATIVE+REFLEXIVE: xadáal'aang'ahl
-     xadáal+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: xadáal'angäseehl
-     xadáal+V+NEGATIVE+PLURAL+IMPERATIVE: xadáal'ang'uu
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xadáal'ang'waa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xadáal'ang'waa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xadáal'ang'waang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: xadáal'ang'wägan
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xadáal'ang'aawaa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: xadáal'ang'aawaan
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: xadáal'ang'waas
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xadáal'ang'aawaas
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: xadáal'ang'waa.ang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xadáal'ang'aawaa.ang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xadáalgang'ang'waa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xadáalgang'ang'waang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xadáalgang'ang'waa.ang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xadáal'ang'wägiinii
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xadáal'ang'wägaangaa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xadáal'ang'wägaangaan
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xadáal'ang'waaäsaa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xadáal'ang'waaäs
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xadáal'ang'waaäsaang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xadáal'ang'waaäsga
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xadáal'ang'waaäsaas
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xadáal'ang'waaäsaa.ang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xadáal'waa.ang k̲asaa'áng
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: xadáal'waa.ang k̲asaa'ánggang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdlä'áng
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xadáal'waa.ang k̲asaasdlä'ánggang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xadáal'ang'waa'uuj
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xadáal'ang'waa'uujang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xadáal'ang'waaäsaa'uujang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xadáal'ang'waa'us
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xadáal'ang'waa'ujaa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xadáal'ang'waa'uujaangaa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xadáal'ang'waaäsaa'us
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xadáal'ang'waa'ahlanggang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: xadáal'ang'waa'ahlanggan
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xadáal'ang'waa'ahlanggiinii
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xadáal'ang'waaäsaa'ahlans
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xadáal'ang'waa'ahlans
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: xadáal'ang'aawaa'ahlang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xadáal'ang'aawaa'ahlanggaa
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xadáal'ang'aawaa'ahlanggang
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: xadáal'ang'waa'ahl
-     xadáal+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xadáal'ang'waaäseehl
+     xadáal+V+SG+IMPV: xadáal
+     xadáal+V+IMM+PRES: xadáalga
+     xadáal+V+INTERR+SIMP+PRES: xadáal
+     xadáal+V+SIMP+PRES: xadáalgang
+     xadáal+V+DIR+PAST: xadáalgan
+     xadáal+V+INTERR+PAST: xadáalaa
+     xadáal+V+INDIR+PAST: xadáalaan
+     xadáal+V+REL: xadáals
+     xadáal+V+REL+EVID: xadáalaas
+     xadáal+V+NONFACT: xadáalang
+     xadáal+V+PAST+NONFACT: xadáalaa.ang
+     xadáal+V+INTERR+PRES+HAB: xadáalgang
+     xadáal+V+PRES+HAB: xadáalganggang
+     xadáal+V+PRES+HAB+NONFACT: xadáalgangang
+     xadáal+V+DIR+PAST+HAB: xadáalgiinii
+     xadáal+V+INTERR+PAST+HAB: xadáalgaangaa
+     xadáal+V+INDIR+PAST+HAB: xadáalgaangaan
+     xadáal+V+INTERR+FUT+LONG: xadáaläsaa
+     xadáal+V+INTERR+FUT+SHORT: xadáaläs
+     xadáal+V+SIMP+FUT: xadáaläsaang
+     xadáal+V+IMM+FUT: xadáaläsga
+     xadáal+V+REL+FUT: xadáaläsaas
+     xadáal+V+FUT+NONFACT: xadáaläsaa.ang
+     xadáal+V+INTERR+NEAR+FUT: xadáalang k̲asa'áa
+     xadáal+V+NEAR+FUT: xadáalang k̲asa'áang
+     xadáal+V+INTERR+VNEAR+FUT: xadáalang k̲asaasdláa
+     xadáal+V+VNEAR+FUT: xadáalang k̲asaasdláang
+     xadáal+V+BIAS+IMM+PRES: xadáal'uuj
+     xadáal+V+BIAS+SIMP+PRES: xadáal'uujang
+     xadáal+V+RES: xadáaläsaa'uujang
+     xadáal+V+BIAS+INTERR+PRES: xadáal'us
+     xadáal+V+BIAS+INTERR+PAST: xadáal'ujaa
+     xadáal+V+BIAS+INTERR+PAST+HAB: xadáal'uujaangaa
+     xadáal+V+BIAS+INTERR+FUT: xadáaläsaa'us
+     xadáal+V+CERT+PRES: xadáal'ahlanggang
+     xadáal+V+CERT+PAST: xadáal'ahlanggan
+     xadáal+V+CERT+PAST+HAB: xadáal'ahlanggiinii
+     xadáal+V+CERT+FUT: xadáaläsaa'ahlans
+     xadáal+V+CERT+REL: xadáal'ahlans
+     xadáal+V+INTS+PAST: xadáalaa'ahlang
+     xadáal+V+CONT: xadáalaa'ahlanggaa
+     xadáal+V+CTFACT+PRES: xadáalaa'ahlanggang
+     xadáal+V+RFLX: xadáal'ahl
+     xadáal+V+FUT+RFLX+INTERR: xadáaläseehl
+     xadáal+V+PL+IMPV: xadáal'uu
+     xadáal+V+3PL+IMM+PRES: xadáal'waa
+     xadáal+V+3PL+INTERR+SIMP+PRES: xadáal'waa
+     xadáal+V+3PL+SIMP+PRES: xadáal'waang
+     xadáal+V+3PL+DIR+PAST: xadáal'wägan
+     xadáal+V+3PL+INTERR+PAST: xadáal'aawaa
+     xadáal+V+3PL+INDIR+PAST: xadáal'aawaan
+     xadáal+V+3PL+REL: xadáal'waas
+     xadáal+V+3PL+REL+EVID: xadáal'aawaas
+     xadáal+V+3PL+NONFACT: xadáal'waa.ang
+     xadáal+V+3PL+PAST+NONFACT: xadáal'aawaa.ang
+     xadáal+V+3PL+INTERR+PRES+HAB: xadáalgang'waa
+     xadáal+V+3PL+PRES+HAB: xadáalgang'waang
+     xadáal+V+3PL+PRES+HAB+NONFACT: xadáalgang'waa.ang
+     xadáal+V+3PL+DIR+PAST+HAB: xadáal'wägiinii
+     xadáal+V+3PL+INTERR+PAST+HAB: xadáal'wägaangaa
+     xadáal+V+3PL+INDIR+PAST+HAB: xadáal'wägaangaan
+     xadáal+V+3PL+INTERR+FUT+LONG: xadáal'waaäsaa
+     xadáal+V+3PL+INTERR+FUT+SHORT: xadáal'waaäs
+     xadáal+V+3PL+SIMP+FUT: xadáal'waaäsaang
+     xadáal+V+3PL+IMM+FUT: xadáal'waaäsga
+     xadáal+V+3PL+REL+FUT: xadáal'waaäsaas
+     xadáal+V+3PL+FUT+NONFACT: xadáal'waaäsaa.ang
+     xadáal+V+3PL+INTERR+NEAR+FUT: xadáal'waa.ang k̲asa'áa
+     xadáal+V+3PL+NEAR+FUT: xadáal'waa.ang k̲asa'áang
+     xadáal+V+3PL+INTERR+VNEAR+FUT: xadáal'waa.ang k̲asaasdláa
+     xadáal+V+3PL+VNEAR+FUT: xadáal'waa.ang k̲asaasdláang
+     xadáal+V+3PL+BIAS+IMM+PRES: xadáal'waa'uuj
+     xadáal+V+3PL+BIAS+SIMP+PRES: xadáal'waa'uujang
+     xadáal+V+3PL+RES: xadáal'waaäsaa'uujang
+     xadáal+V+3PL+BIAS+INTERR+PRES: xadáal'waa'us
+     xadáal+V+3PL+BIAS+INTERR+PAST: xadáal'waa'ujaa
+     xadáal+V+3PL+BIAS+INTERR+PAST+HAB: xadáal'waa'uujaangaa
+     xadáal+V+3PL+BIAS+INTERR+FUT: xadáal'waaäsaa'us
+     xadáal+V+3PL+CERT+PRES: xadáal'waa'ahlanggang
+     xadáal+V+3PL+CERT+PAST: xadáal'waa'ahlanggan
+     xadáal+V+3PL+CERT+PAST+HAB: xadáal'waa'ahlanggiinii
+     xadáal+V+3PL+CERT+FUT: xadáal'waaäsaa'ahlans
+     xadáal+V+3PL+CERT+REL: xadáal'waa'ahlans
+     xadáal+V+3PL+INTS+PAST: xadáal'aawaa'ahlang
+     xadáal+V+3PL+CONT: xadáal'aawaa'ahlanggaa
+     xadáal+V+3PL+CTFACT+PRES: xadáal'aawaa'ahlanggang
+     xadáal+V+3PL+RFLX: xadáal'waa'ahl
+     xadáal+V+3PL+FUT+RFLX+INTERR: xadáal'waaäseehl
+     xadáal+V+NEG+SG+IMPV: xadáal'ang
+     xadáal+V+NEG+IMM+PRES: xadáal'angga
+     xadáal+V+NEG+INTERR+SIMP+PRES: xadáal'ang
+     xadáal+V+NEG+SIMP+PRES: xadáal'anggang
+     xadáal+V+NEG+DIR+PAST: xadáal'anggan
+     xadáal+V+NEG+INTERR+PAST: xadáal'aangaa
+     xadáal+V+NEG+INDIR+PAST: xadáal'aangaan
+     xadáal+V+NEG+REL: xadáal'ans
+     xadáal+V+NEG+REL+EVID: xadáal'aangaas
+     xadáal+V+NEG+NONFACT: xadáal'angang
+     xadáal+V+NEG+PAST+NONFACT: xadáal'aangaa.ang
+     xadáal+V+NEG+INTERR+PRES+HAB: xadáal'anggang
+     xadáal+V+NEG+PRES+HAB: xadáalgang'anggang
+     xadáal+V+NEG+PRES+HAB+NONFACT: xadáalgang'angang
+     xadáal+V+NEG+DIR+PAST+HAB: xadáal'anggiinii
+     xadáal+V+NEG+INTERR+PAST+HAB: xadáal'anggaangaa
+     xadáal+V+NEG+INDIR+PAST+HAB: xadáal'anggaangaan
+     xadáal+V+NEG+INTERR+FUT+LONG: xadáal'angäsaa
+     xadáal+V+NEG+INTERR+FUT+SHORT: xadáal'angäs
+     xadáal+V+NEG+SIMP+FUT: xadáal'angäsaang
+     xadáal+V+NEG+IMM+FUT: xadáal'angäsga
+     xadáal+V+NEG+REL+FUT: xadáal'angäsaas
+     xadáal+V+NEG+FUT+NONFACT: xadáal'angäsaa.ang
+     xadáal+V+NEG+INTERR+NEAR+FUT: xadáalang k̲asaa'áng
+     xadáal+V+NEG+NEAR+FUT: xadáalang k̲asaa'ánggang
+     xadáal+V+NEG+INTERR+VNEAR+FUT: xadáalang k̲asaasdlä'áng
+     xadáal+V+NEG+VNEAR+FUT: xadáalang k̲asaasdlä'ánggang
+     xadáal+V+NEG+BIAS+IMM+PRES: xadáal'ang'uuj
+     xadáal+V+NEG+BIAS+SIMP+PRES: xadáal'ang'uujang
+     xadáal+V+NEG+RES: xadáal'angäsaa'uujang
+     xadáal+V+NEG+BIAS+INTERR+PRES: xadáal'ang'us
+     xadáal+V+NEG+BIAS+INTERR+PAST: xadáal'ang'ujaa
+     xadáal+V+NEG+BIAS+INTERR+PAST+HAB: xadáal'ang'uujaangaa
+     xadáal+V+NEG+BIAS+INTERR+FUT: xadáal'angäsaa'us
+     xadáal+V+NEG+CERT+PRES: xadáal'aang'ahlanggang
+     xadáal+V+NEG+CERT+PAST: xadáal'aang'ahlanggan
+     xadáal+V+NEG+CERT+PAST+HAB: xadáal'aang'ahlanggiinii
+     xadáal+V+NEG+CERT+FUT: xadáal'angäsaa'ahlans
+     xadáal+V+NEG+CERT+REL: xadáal'aang'ahlans
+     xadáal+V+NEG+INTS+PAST: xadáal'aangaa'ahlang
+     xadáal+V+NEG+CONT: xadáal'aangaa'ahlanggaa
+     xadáal+V+NEG+CTFACT+PRES: xadáal'aangaa'ahlanggang
+     xadáal+V+NEG+RFLX: xadáal'aang'ahl
+     xadáal+V+NEG+FUT+RFLX+INTERR: xadáal'angäseehl
+     xadáal+V+NEG+PL+IMPV: xadáal'ang'uu
+     xadáal+V+NEG+3PL+IMM+PRES: xadáal'ang'waa
+     xadáal+V+NEG+3PL+INTERR+SIMP+PRES: xadáal'ang'waa
+     xadáal+V+NEG+3PL+SIMP+PRES: xadáal'ang'waang
+     xadáal+V+NEG+3PL+DIR+PAST: xadáal'ang'wägan
+     xadáal+V+NEG+3PL+INTERR+PAST: xadáal'ang'aawaa
+     xadáal+V+NEG+3PL+INDIR+PAST: xadáal'ang'aawaan
+     xadáal+V+NEG+3PL+REL: xadáal'ang'waas
+     xadáal+V+NEG+3PL+REL+EVID: xadáal'ang'aawaas
+     xadáal+V+NEG+3PL+NONFACT: xadáal'ang'waa.ang
+     xadáal+V+NEG+3PL+PAST+NONFACT: xadáal'ang'aawaa.ang
+     xadáal+V+NEG+3PL+INTERR+PRES+HAB: xadáalgang'ang'waa
+     xadáal+V+NEG+3PL+PRES+HAB: xadáalgang'ang'waang
+     xadáal+V+NEG+3PL+PRES+HAB+NONFACT: xadáalgang'ang'waa.ang
+     xadáal+V+NEG+3PL+DIR+PAST+HAB: xadáal'ang'wägiinii
+     xadáal+V+NEG+3PL+INTERR+PAST+HAB: xadáal'ang'wägaangaa
+     xadáal+V+NEG+3PL+INDIR+PAST+HAB: xadáal'ang'wägaangaan
+     xadáal+V+NEG+3PL+INTERR+FUT+LONG: xadáal'ang'waaäsaa
+     xadáal+V+NEG+3PL+INTERR+FUT+SHORT: xadáal'ang'waaäs
+     xadáal+V+NEG+3PL+SIMP+FUT: xadáal'ang'waaäsaang
+     xadáal+V+NEG+3PL+IMM+FUT: xadáal'ang'waaäsga
+     xadáal+V+NEG+3PL+REL+FUT: xadáal'ang'waaäsaas
+     xadáal+V+NEG+3PL+FUT+NONFACT: xadáal'ang'waaäsaa.ang
+     xadáal+V+NEG+3PL+INTERR+NEAR+FUT: xadáal'waa.ang k̲asaa'áng
+     xadáal+V+NEG+3PL+NEAR+FUT: xadáal'waa.ang k̲asaa'ánggang
+     xadáal+V+NEG+3PL+INTERR+VNEAR+FUT: xadáal'waa.ang k̲asaasdlä'áng
+     xadáal+V+NEG+3PL+VNEAR+FUT: xadáal'waa.ang k̲asaasdlä'ánggang
+     xadáal+V+NEG+3PL+BIAS+IMM+PRES: xadáal'ang'waa'uuj
+     xadáal+V+NEG+3PL+BIAS+SIMP+PRES: xadáal'ang'waa'uujang
+     xadáal+V+NEG+3PL+RES: xadáal'ang'waaäsaa'uujang
+     xadáal+V+NEG+3PL+BIAS+INTERR+PRES: xadáal'ang'waa'us
+     xadáal+V+NEG+3PL+BIAS+INTERR+PAST: xadáal'ang'waa'ujaa
+     xadáal+V+NEG+3PL+BIAS+INTERR+PAST+HAB: xadáal'ang'waa'uujaangaa
+     xadáal+V+NEG+3PL+BIAS+INTERR+FUT: xadáal'ang'waaäsaa'us
+     xadáal+V+NEG+3PL+CERT+PRES: xadáal'ang'waa'ahlanggang
+     xadáal+V+NEG+3PL+CERT+PAST: xadáal'ang'waa'ahlanggan
+     xadáal+V+NEG+3PL+CERT+PAST+HAB: xadáal'ang'waa'ahlanggiinii
+     xadáal+V+NEG+3PL+CERT+FUT: xadáal'ang'waaäsaa'ahlans
+     xadáal+V+NEG+3PL+CERT+REL: xadáal'ang'waa'ahlans
+     xadáal+V+NEG+3PL+INTS+PAST: xadáal'ang'aawaa'ahlang
+     xadáal+V+NEG+3PL+CONT: xadáal'ang'aawaa'ahlanggaa
+     xadáal+V+NEG+3PL+CTFACT+PRES: xadáal'ang'aawaa'ahlanggang
+     xadáal+V+NEG+3PL+RFLX: xadáal'ang'waa'ahl
+     xadáal+V+NEG+3PL+FUT+RFLX+INTERR: xadáal'ang'waaäseehl
 

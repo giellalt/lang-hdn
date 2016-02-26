@@ -11,168 +11,168 @@ Tests:
 
   Verb - xál k̲áat'e.ehl - ENGLISH : # CLASS_E.EHL_STEM_2
 
-     xál k̲áat'e.ehl+V+SINGULAR+IMPERATIVE: xál k̲áat'eehl
-     xál k̲áat'e.ehl+V+IMMEDIATE+PRESENT: xál k̲áat'eehlga
-     xál k̲áat'e.ehl+V+INTERROGATIVE+SIMPLE+PRESENT: xál k̲áat'eehl
-     xál k̲áat'e.ehl+V+SIMPLE+PRESENT: xál k̲áat'eehlgang
-     xál k̲áat'e.ehl+V+DIRECT+PAST: xál k̲áat'eehlgan
-     xál k̲áat'e.ehl+V+RELATIVE: xál k̲áat'eehls
-     xál k̲áat'e.ehl+V+NON_FACTIVE: xál k̲áat'eehlang
-     xál k̲áat'e.ehl+V+INTERROGATIVE+PRESENT+HABITUAL: xál k̲áat'eehlgang
-     xál k̲áat'e.ehl+V+PRESENT+HABITUAL: xál k̲áat'eehlganggang
-     xál k̲áat'e.ehl+V+PRESENT+HABITUAL+NON_FACTIVE: xál k̲áat'eehlgangang
-     xál k̲áat'e.ehl+V+DIRECT+PAST+HABITUAL: xál k̲áat'eehlgiinii
-     xál k̲áat'e.ehl+V+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehlgaangaa
-     xál k̲áat'e.ehl+V+INDIRECT+PAST+HABITUAL: xál k̲áat'eehlgaangaan
-     xál k̲áat'e.ehl+V+INTERROGATIVE+FUTURE+LONG: xál k̲áat'eehläsaa
-     xál k̲áat'e.ehl+V+INTERROGATIVE+FUTURE+SHORT: xál k̲áat'eehläs
-     xál k̲áat'e.ehl+V+SIMPLE+FUTURE: xál k̲áat'eehläsaang
-     xál k̲áat'e.ehl+V+IMMEDIATE+FUTURE: xál k̲áat'eehläsga
-     xál k̲áat'e.ehl+V+RELATIVE+FUTURE: xál k̲áat'eehläsaas
-     xál k̲áat'e.ehl+V+FUTURE+NON_FACTIVE: xál k̲áat'eehläsaa.ang
-     xál k̲áat'e.ehl+V+INTERROGATIVE+NEAR+FUTURE: xál k̲áat'eehlang k̲asa'áa
-     xál k̲áat'e.ehl+V+NEAR+FUTURE: xál k̲áat'eehlang k̲asa'áang
-     xál k̲áat'e.ehl+V+INTERROGATIVE+VERYNEAR+FUTURE: xál k̲áat'eehlang k̲asaasdláa
-     xál k̲áat'e.ehl+V+VERYNEAR+FUTURE: xál k̲áat'eehlang k̲asaasdláang
-     xál k̲áat'e.ehl+V+BIASED+IMMEDIATE+PRESENT: xál k̲áat'eehl'uuj
-     xál k̲áat'e.ehl+V+BIASED+SIMPLE+PRESENT: xál k̲áat'eehl'uujang
-     xál k̲áat'e.ehl+V+RESIGNED_OBLIGATION: xál k̲áat'eehläsaa'uujang
-     xál k̲áat'e.ehl+V+BIASED+INTERROGATIVE+PRESENT: xál k̲áat'eehl'us
-     xál k̲áat'e.ehl+V+BIASED+INTERROGATIVE+PAST: xál k̲áat'eehl'ujaa
-     xál k̲áat'e.ehl+V+BIASED+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'uujaangaa
-     xál k̲áat'e.ehl+V+BIASED+INTERROGATIVE+FUTURE: xál k̲áat'eehläsaa'us
-     xál k̲áat'e.ehl+V+CERTAIN+FUTURE: xál k̲áat'eehläsaa'ahlans
-     xál k̲áat'e.ehl+V+FUTURE+REFLEXIVE+INTERROGATIVE: xál k̲áat'eehläseehl
-     xál k̲áat'e.ehl+V+PLURAL+IMPERATIVE: xál k̲áat'eehl'uu
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xál k̲áat'eehl'waa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xál k̲áat'eehl'waa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xál k̲áat'eehl'waang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+DIRECT+PAST: xál k̲áat'eehl'wägan
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xál k̲áat'eehl'aawaa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST: xál k̲áat'eehl'aawaan
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE: xál k̲áat'eehl'waas
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xál k̲áat'eehl'aawaas
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+NON_FACTIVE: xál k̲áat'eehl'waa.ang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xál k̲áat'eehl'aawaa.ang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xál k̲áat'eehlgang'waa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xál k̲áat'eehlgang'waang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xál k̲áat'eehlgang'waa.ang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xál k̲áat'eehl'wägiinii
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'wägaangaa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xál k̲áat'eehl'wägaangaan
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xál k̲áat'eehl'waaäsaa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xál k̲áat'eehl'waaäs
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xál k̲áat'eehl'waaäsaang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xál k̲áat'eehl'waaäsga
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xál k̲áat'eehl'waaäsaas
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xál k̲áat'eehl'waaäsaa.ang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asa'áa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asa'áang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asaasdláa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asaasdláang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xál k̲áat'eehl'waa'uuj
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xál k̲áat'eehl'waa'uujang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xál k̲áat'eehl'waaäsaa'uujang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xál k̲áat'eehl'waa'us
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xál k̲áat'eehl'waa'ujaa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'waa'uujaangaa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xál k̲áat'eehl'waaäsaa'us
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xál k̲áat'eehl'waa'ahlanggang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST: xál k̲áat'eehl'waa'ahlanggan
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xál k̲áat'eehl'waa'ahlanggiinii
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xál k̲áat'eehl'waaäsaa'ahlans
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xál k̲áat'eehl'waa'ahlans
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: xál k̲áat'eehl'aawaa'ahlang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál k̲áat'eehl'aawaa'ahlanggaa
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál k̲áat'eehl'aawaa'ahlanggang
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+REFLEXIVE: xál k̲áat'eehl'waa'ahl
-     xál k̲áat'e.ehl+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál k̲áat'eehl'waaäseehl
-     xál k̲áat'e.ehl+V+NEGATIVE+SINGULAR+IMPERATIVE: xál k̲áat'eehl'ang
-     xál k̲áat'e.ehl+V+NEGATIVE+IMMEDIATE+PRESENT: xál k̲áat'eehl'angga
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: xál k̲áat'eehl'ang
-     xál k̲áat'e.ehl+V+NEGATIVE+SIMPLE+PRESENT: xál k̲áat'eehl'anggang
-     xál k̲áat'e.ehl+V+NEGATIVE+DIRECT+PAST: xál k̲áat'eehl'anggan
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+PAST: xál k̲áat'eehl'aangaa
-     xál k̲áat'e.ehl+V+NEGATIVE+INDIRECT+PAST: xál k̲áat'eehl'aangaan
-     xál k̲áat'e.ehl+V+NEGATIVE+RELATIVE: xál k̲áat'eehl'ans
-     xál k̲áat'e.ehl+V+NEGATIVE+RELATIVE+EVIDENTIAL: xál k̲áat'eehl'aangaas
-     xál k̲áat'e.ehl+V+NEGATIVE+NON_FACTIVE: xál k̲áat'eehl'angang
-     xál k̲áat'e.ehl+V+NEGATIVE+PAST+NON_FACTIVE: xál k̲áat'eehl'aangaa.ang
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: xál k̲áat'eehl'anggang
-     xál k̲áat'e.ehl+V+NEGATIVE+PRESENT+HABITUAL: xál k̲áat'eehlgang'anggang
-     xál k̲áat'e.ehl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: xál k̲áat'eehlgang'angang
-     xál k̲áat'e.ehl+V+NEGATIVE+DIRECT+PAST+HABITUAL: xál k̲áat'eehl'anggiinii
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'anggaangaa
-     xál k̲áat'e.ehl+V+NEGATIVE+INDIRECT+PAST+HABITUAL: xál k̲áat'eehl'anggaangaan
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: xál k̲áat'eehl'angäsaa
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: xál k̲áat'eehl'angäs
-     xál k̲áat'e.ehl+V+NEGATIVE+SIMPLE+FUTURE: xál k̲áat'eehl'angäsaang
-     xál k̲áat'e.ehl+V+NEGATIVE+IMMEDIATE+FUTURE: xál k̲áat'eehl'angäsga
-     xál k̲áat'e.ehl+V+NEGATIVE+RELATIVE+FUTURE: xál k̲áat'eehl'angäsaas
-     xál k̲áat'e.ehl+V+NEGATIVE+FUTURE+NON_FACTIVE: xál k̲áat'eehl'angäsaa.ang
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: xál k̲áat'eehlang k̲asaa'áng
-     xál k̲áat'e.ehl+V+NEGATIVE+NEAR+FUTURE: xál k̲áat'eehlang k̲asaa'ánggang
-     xál k̲áat'e.ehl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: xál k̲áat'eehlang k̲asaasdlä'áng
-     xál k̲áat'e.ehl+V+NEGATIVE+VERYNEAR+FUTURE: xál k̲áat'eehlang k̲asaasdlä'ánggang
-     xál k̲áat'e.ehl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: xál k̲áat'eehl'ang'uuj
-     xál k̲áat'e.ehl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: xál k̲áat'eehl'ang'uujang
-     xál k̲áat'e.ehl+V+NEGATIVE+RESIGNED_OBLIGATION: xál k̲áat'eehl'angäsaa'uujang
-     xál k̲áat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: xál k̲áat'eehl'ang'us
-     xál k̲áat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: xál k̲áat'eehl'ang'ujaa
-     xál k̲áat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'ang'uujaangaa
-     xál k̲áat'e.ehl+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: xál k̲áat'eehl'angäsaa'us
-     xál k̲áat'e.ehl+V+NEGATIVE+CERTAIN+PRESENT: xál k̲áat'eehl'aang'ahlanggang
-     xál k̲áat'e.ehl+V+NEGATIVE+CERTAIN+PAST: xál k̲áat'eehl'aang'ahlanggan
-     xál k̲áat'e.ehl+V+NEGATIVE+CERTAIN+PAST+HABITUAL: xál k̲áat'eehl'aang'ahlanggiinii
-     xál k̲áat'e.ehl+V+NEGATIVE+CERTAIN+FUTURE: xál k̲áat'eehl'angäsaa'ahlans
-     xál k̲áat'e.ehl+V+NEGATIVE+CERTAIN+RELATIVE: xál k̲áat'eehl'aang'ahlans
-     xál k̲áat'e.ehl+V+NEGATIVE+INTENSIVE+PAST: xál k̲áat'eehl'aangaa'ahlang
-     xál k̲áat'e.ehl+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál k̲áat'eehl'aangaa'ahlanggaa
-     xál k̲áat'e.ehl+V+NEGATIVE+COUNTERFACTUAL+PRESENT: xál k̲áat'eehl'aangaa'ahlanggang
-     xál k̲áat'e.ehl+V+NEGATIVE+REFLEXIVE: xál k̲áat'eehl'aang'ahl
-     xál k̲áat'e.ehl+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: xál k̲áat'eehl'angäseehl
-     xál k̲áat'e.ehl+V+NEGATIVE+PLURAL+IMPERATIVE: xál k̲áat'eehl'ang'uu
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: xál k̲áat'eehl'ang'waa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: xál k̲áat'eehl'ang'waa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: xál k̲áat'eehl'ang'waang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: xál k̲áat'eehl'ang'wägan
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: xál k̲áat'eehl'ang'aawaa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: xál k̲áat'eehl'ang'aawaan
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: xál k̲áat'eehl'ang'waas
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: xál k̲áat'eehl'ang'aawaas
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: xál k̲áat'eehl'ang'waa.ang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: xál k̲áat'eehl'ang'aawaa.ang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: xál k̲áat'eehlgang'ang'waa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: xál k̲áat'eehlgang'ang'waang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: xál k̲áat'eehlgang'ang'waa.ang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: xál k̲áat'eehl'ang'wägiinii
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'ang'wägaangaa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: xál k̲áat'eehl'ang'wägaangaan
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: xál k̲áat'eehl'ang'waaäsaa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: xál k̲áat'eehl'ang'waaäs
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: xál k̲áat'eehl'ang'waaäsaang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: xál k̲áat'eehl'ang'waaäsga
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: xál k̲áat'eehl'ang'waaäsaas
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: xál k̲áat'eehl'ang'waaäsaa.ang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asaa'áng
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asaa'ánggang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asaasdlä'áng
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: xál k̲áat'eehl'waa.ang k̲asaasdlä'ánggang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: xál k̲áat'eehl'ang'waa'uuj
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: xál k̲áat'eehl'ang'waa'uujang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: xál k̲áat'eehl'ang'waaäsaa'uujang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: xál k̲áat'eehl'ang'waa'us
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: xál k̲áat'eehl'ang'waa'ujaa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: xál k̲áat'eehl'ang'waa'uujaangaa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: xál k̲áat'eehl'ang'waaäsaa'us
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: xál k̲áat'eehl'ang'waa'ahlanggang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: xál k̲áat'eehl'ang'waa'ahlanggan
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: xál k̲áat'eehl'ang'waa'ahlanggiinii
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: xál k̲áat'eehl'ang'waaäsaa'ahlans
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: xál k̲áat'eehl'ang'waa'ahlans
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: xál k̲áat'eehl'ang'aawaa'ahlang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál k̲áat'eehl'ang'aawaa'ahlanggaa
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: xál k̲áat'eehl'ang'aawaa'ahlanggang
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: xál k̲áat'eehl'ang'waa'ahl
-     xál k̲áat'e.ehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: xál k̲áat'eehl'ang'waaäseehl
+     xál k̲áat'e.ehl+V+SG+IMPV: xál k̲áat'eehl
+     xál k̲áat'e.ehl+V+IMM+PRES: xál k̲áat'eehlga
+     xál k̲áat'e.ehl+V+INTERR+SIMP+PRES: xál k̲áat'eehl
+     xál k̲áat'e.ehl+V+SIMP+PRES: xál k̲áat'eehlgang
+     xál k̲áat'e.ehl+V+DIR+PAST: xál k̲áat'eehlgan
+     xál k̲áat'e.ehl+V+REL: xál k̲áat'eehls
+     xál k̲áat'e.ehl+V+NONFACT: xál k̲áat'eehlang
+     xál k̲áat'e.ehl+V+INTERR+PRES+HAB: xál k̲áat'eehlgang
+     xál k̲áat'e.ehl+V+PRES+HAB: xál k̲áat'eehlganggang
+     xál k̲áat'e.ehl+V+PRES+HAB+NONFACT: xál k̲áat'eehlgangang
+     xál k̲áat'e.ehl+V+DIR+PAST+HAB: xál k̲áat'eehlgiinii
+     xál k̲áat'e.ehl+V+INTERR+PAST+HAB: xál k̲áat'eehlgaangaa
+     xál k̲áat'e.ehl+V+INDIR+PAST+HAB: xál k̲áat'eehlgaangaan
+     xál k̲áat'e.ehl+V+INTERR+FUT+LONG: xál k̲áat'eehläsaa
+     xál k̲áat'e.ehl+V+INTERR+FUT+SHORT: xál k̲áat'eehläs
+     xál k̲áat'e.ehl+V+SIMP+FUT: xál k̲áat'eehläsaang
+     xál k̲áat'e.ehl+V+IMM+FUT: xál k̲áat'eehläsga
+     xál k̲áat'e.ehl+V+REL+FUT: xál k̲áat'eehläsaas
+     xál k̲áat'e.ehl+V+FUT+NONFACT: xál k̲áat'eehläsaa.ang
+     xál k̲áat'e.ehl+V+INTERR+NEAR+FUT: xál k̲áat'eehlang k̲asa'áa
+     xál k̲áat'e.ehl+V+NEAR+FUT: xál k̲áat'eehlang k̲asa'áang
+     xál k̲áat'e.ehl+V+INTERR+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdláa
+     xál k̲áat'e.ehl+V+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdláang
+     xál k̲áat'e.ehl+V+BIAS+IMM+PRES: xál k̲áat'eehl'uuj
+     xál k̲áat'e.ehl+V+BIAS+SIMP+PRES: xál k̲áat'eehl'uujang
+     xál k̲áat'e.ehl+V+RES: xál k̲áat'eehläsaa'uujang
+     xál k̲áat'e.ehl+V+BIAS+INTERR+PRES: xál k̲áat'eehl'us
+     xál k̲áat'e.ehl+V+BIAS+INTERR+PAST: xál k̲áat'eehl'ujaa
+     xál k̲áat'e.ehl+V+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'uujaangaa
+     xál k̲áat'e.ehl+V+BIAS+INTERR+FUT: xál k̲áat'eehläsaa'us
+     xál k̲áat'e.ehl+V+CERT+FUT: xál k̲áat'eehläsaa'ahlans
+     xál k̲áat'e.ehl+V+FUT+RFLX+INTERR: xál k̲áat'eehläseehl
+     xál k̲áat'e.ehl+V+PL+IMPV: xál k̲áat'eehl'uu
+     xál k̲áat'e.ehl+V+3PL+IMM+PRES: xál k̲áat'eehl'waa
+     xál k̲áat'e.ehl+V+3PL+INTERR+SIMP+PRES: xál k̲áat'eehl'waa
+     xál k̲áat'e.ehl+V+3PL+SIMP+PRES: xál k̲áat'eehl'waang
+     xál k̲áat'e.ehl+V+3PL+DIR+PAST: xál k̲áat'eehl'wägan
+     xál k̲áat'e.ehl+V+3PL+INTERR+PAST: xál k̲áat'eehl'aawaa
+     xál k̲áat'e.ehl+V+3PL+INDIR+PAST: xál k̲áat'eehl'aawaan
+     xál k̲áat'e.ehl+V+3PL+REL: xál k̲áat'eehl'waas
+     xál k̲áat'e.ehl+V+3PL+REL+EVID: xál k̲áat'eehl'aawaas
+     xál k̲áat'e.ehl+V+3PL+NONFACT: xál k̲áat'eehl'waa.ang
+     xál k̲áat'e.ehl+V+3PL+PAST+NONFACT: xál k̲áat'eehl'aawaa.ang
+     xál k̲áat'e.ehl+V+3PL+INTERR+PRES+HAB: xál k̲áat'eehlgang'waa
+     xál k̲áat'e.ehl+V+3PL+PRES+HAB: xál k̲áat'eehlgang'waang
+     xál k̲áat'e.ehl+V+3PL+PRES+HAB+NONFACT: xál k̲áat'eehlgang'waa.ang
+     xál k̲áat'e.ehl+V+3PL+DIR+PAST+HAB: xál k̲áat'eehl'wägiinii
+     xál k̲áat'e.ehl+V+3PL+INTERR+PAST+HAB: xál k̲áat'eehl'wägaangaa
+     xál k̲áat'e.ehl+V+3PL+INDIR+PAST+HAB: xál k̲áat'eehl'wägaangaan
+     xál k̲áat'e.ehl+V+3PL+INTERR+FUT+LONG: xál k̲áat'eehl'waaäsaa
+     xál k̲áat'e.ehl+V+3PL+INTERR+FUT+SHORT: xál k̲áat'eehl'waaäs
+     xál k̲áat'e.ehl+V+3PL+SIMP+FUT: xál k̲áat'eehl'waaäsaang
+     xál k̲áat'e.ehl+V+3PL+IMM+FUT: xál k̲áat'eehl'waaäsga
+     xál k̲áat'e.ehl+V+3PL+REL+FUT: xál k̲áat'eehl'waaäsaas
+     xál k̲áat'e.ehl+V+3PL+FUT+NONFACT: xál k̲áat'eehl'waaäsaa.ang
+     xál k̲áat'e.ehl+V+3PL+INTERR+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asa'áa
+     xál k̲áat'e.ehl+V+3PL+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asa'áang
+     xál k̲áat'e.ehl+V+3PL+INTERR+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdláa
+     xál k̲áat'e.ehl+V+3PL+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdláang
+     xál k̲áat'e.ehl+V+3PL+BIAS+IMM+PRES: xál k̲áat'eehl'waa'uuj
+     xál k̲áat'e.ehl+V+3PL+BIAS+SIMP+PRES: xál k̲áat'eehl'waa'uujang
+     xál k̲áat'e.ehl+V+3PL+RES: xál k̲áat'eehl'waaäsaa'uujang
+     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+PRES: xál k̲áat'eehl'waa'us
+     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+PAST: xál k̲áat'eehl'waa'ujaa
+     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'waa'uujaangaa
+     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+FUT: xál k̲áat'eehl'waaäsaa'us
+     xál k̲áat'e.ehl+V+3PL+CERT+PRES: xál k̲áat'eehl'waa'ahlanggang
+     xál k̲áat'e.ehl+V+3PL+CERT+PAST: xál k̲áat'eehl'waa'ahlanggan
+     xál k̲áat'e.ehl+V+3PL+CERT+PAST+HAB: xál k̲áat'eehl'waa'ahlanggiinii
+     xál k̲áat'e.ehl+V+3PL+CERT+FUT: xál k̲áat'eehl'waaäsaa'ahlans
+     xál k̲áat'e.ehl+V+3PL+CERT+REL: xál k̲áat'eehl'waa'ahlans
+     xál k̲áat'e.ehl+V+3PL+INTS+PAST: xál k̲áat'eehl'aawaa'ahlang
+     xál k̲áat'e.ehl+V+3PL+CONT: xál k̲áat'eehl'aawaa'ahlanggaa
+     xál k̲áat'e.ehl+V+3PL+CTFACT+PRES: xál k̲áat'eehl'aawaa'ahlanggang
+     xál k̲áat'e.ehl+V+3PL+RFLX: xál k̲áat'eehl'waa'ahl
+     xál k̲áat'e.ehl+V+3PL+FUT+RFLX+INTERR: xál k̲áat'eehl'waaäseehl
+     xál k̲áat'e.ehl+V+NEG+SG+IMPV: xál k̲áat'eehl'ang
+     xál k̲áat'e.ehl+V+NEG+IMM+PRES: xál k̲áat'eehl'angga
+     xál k̲áat'e.ehl+V+NEG+INTERR+SIMP+PRES: xál k̲áat'eehl'ang
+     xál k̲áat'e.ehl+V+NEG+SIMP+PRES: xál k̲áat'eehl'anggang
+     xál k̲áat'e.ehl+V+NEG+DIR+PAST: xál k̲áat'eehl'anggan
+     xál k̲áat'e.ehl+V+NEG+INTERR+PAST: xál k̲áat'eehl'aangaa
+     xál k̲áat'e.ehl+V+NEG+INDIR+PAST: xál k̲áat'eehl'aangaan
+     xál k̲áat'e.ehl+V+NEG+REL: xál k̲áat'eehl'ans
+     xál k̲áat'e.ehl+V+NEG+REL+EVID: xál k̲áat'eehl'aangaas
+     xál k̲áat'e.ehl+V+NEG+NONFACT: xál k̲áat'eehl'angang
+     xál k̲áat'e.ehl+V+NEG+PAST+NONFACT: xál k̲áat'eehl'aangaa.ang
+     xál k̲áat'e.ehl+V+NEG+INTERR+PRES+HAB: xál k̲áat'eehl'anggang
+     xál k̲áat'e.ehl+V+NEG+PRES+HAB: xál k̲áat'eehlgang'anggang
+     xál k̲áat'e.ehl+V+NEG+PRES+HAB+NONFACT: xál k̲áat'eehlgang'angang
+     xál k̲áat'e.ehl+V+NEG+DIR+PAST+HAB: xál k̲áat'eehl'anggiinii
+     xál k̲áat'e.ehl+V+NEG+INTERR+PAST+HAB: xál k̲áat'eehl'anggaangaa
+     xál k̲áat'e.ehl+V+NEG+INDIR+PAST+HAB: xál k̲áat'eehl'anggaangaan
+     xál k̲áat'e.ehl+V+NEG+INTERR+FUT+LONG: xál k̲áat'eehl'angäsaa
+     xál k̲áat'e.ehl+V+NEG+INTERR+FUT+SHORT: xál k̲áat'eehl'angäs
+     xál k̲áat'e.ehl+V+NEG+SIMP+FUT: xál k̲áat'eehl'angäsaang
+     xál k̲áat'e.ehl+V+NEG+IMM+FUT: xál k̲áat'eehl'angäsga
+     xál k̲áat'e.ehl+V+NEG+REL+FUT: xál k̲áat'eehl'angäsaas
+     xál k̲áat'e.ehl+V+NEG+FUT+NONFACT: xál k̲áat'eehl'angäsaa.ang
+     xál k̲áat'e.ehl+V+NEG+INTERR+NEAR+FUT: xál k̲áat'eehlang k̲asaa'áng
+     xál k̲áat'e.ehl+V+NEG+NEAR+FUT: xál k̲áat'eehlang k̲asaa'ánggang
+     xál k̲áat'e.ehl+V+NEG+INTERR+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdlä'áng
+     xál k̲áat'e.ehl+V+NEG+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdlä'ánggang
+     xál k̲áat'e.ehl+V+NEG+BIAS+IMM+PRES: xál k̲áat'eehl'ang'uuj
+     xál k̲áat'e.ehl+V+NEG+BIAS+SIMP+PRES: xál k̲áat'eehl'ang'uujang
+     xál k̲áat'e.ehl+V+NEG+RES: xál k̲áat'eehl'angäsaa'uujang
+     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+PRES: xál k̲áat'eehl'ang'us
+     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+PAST: xál k̲áat'eehl'ang'ujaa
+     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'ang'uujaangaa
+     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+FUT: xál k̲áat'eehl'angäsaa'us
+     xál k̲áat'e.ehl+V+NEG+CERT+PRES: xál k̲áat'eehl'aang'ahlanggang
+     xál k̲áat'e.ehl+V+NEG+CERT+PAST: xál k̲áat'eehl'aang'ahlanggan
+     xál k̲áat'e.ehl+V+NEG+CERT+PAST+HAB: xál k̲áat'eehl'aang'ahlanggiinii
+     xál k̲áat'e.ehl+V+NEG+CERT+FUT: xál k̲áat'eehl'angäsaa'ahlans
+     xál k̲áat'e.ehl+V+NEG+CERT+REL: xál k̲áat'eehl'aang'ahlans
+     xál k̲áat'e.ehl+V+NEG+INTS+PAST: xál k̲áat'eehl'aangaa'ahlang
+     xál k̲áat'e.ehl+V+NEG+CONT: xál k̲áat'eehl'aangaa'ahlanggaa
+     xál k̲áat'e.ehl+V+NEG+CTFACT+PRES: xál k̲áat'eehl'aangaa'ahlanggang
+     xál k̲áat'e.ehl+V+NEG+RFLX: xál k̲áat'eehl'aang'ahl
+     xál k̲áat'e.ehl+V+NEG+FUT+RFLX+INTERR: xál k̲áat'eehl'angäseehl
+     xál k̲áat'e.ehl+V+NEG+PL+IMPV: xál k̲áat'eehl'ang'uu
+     xál k̲áat'e.ehl+V+NEG+3PL+IMM+PRES: xál k̲áat'eehl'ang'waa
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+SIMP+PRES: xál k̲áat'eehl'ang'waa
+     xál k̲áat'e.ehl+V+NEG+3PL+SIMP+PRES: xál k̲áat'eehl'ang'waang
+     xál k̲áat'e.ehl+V+NEG+3PL+DIR+PAST: xál k̲áat'eehl'ang'wägan
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+PAST: xál k̲áat'eehl'ang'aawaa
+     xál k̲áat'e.ehl+V+NEG+3PL+INDIR+PAST: xál k̲áat'eehl'ang'aawaan
+     xál k̲áat'e.ehl+V+NEG+3PL+REL: xál k̲áat'eehl'ang'waas
+     xál k̲áat'e.ehl+V+NEG+3PL+REL+EVID: xál k̲áat'eehl'ang'aawaas
+     xál k̲áat'e.ehl+V+NEG+3PL+NONFACT: xál k̲áat'eehl'ang'waa.ang
+     xál k̲áat'e.ehl+V+NEG+3PL+PAST+NONFACT: xál k̲áat'eehl'ang'aawaa.ang
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+PRES+HAB: xál k̲áat'eehlgang'ang'waa
+     xál k̲áat'e.ehl+V+NEG+3PL+PRES+HAB: xál k̲áat'eehlgang'ang'waang
+     xál k̲áat'e.ehl+V+NEG+3PL+PRES+HAB+NONFACT: xál k̲áat'eehlgang'ang'waa.ang
+     xál k̲áat'e.ehl+V+NEG+3PL+DIR+PAST+HAB: xál k̲áat'eehl'ang'wägiinii
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+PAST+HAB: xál k̲áat'eehl'ang'wägaangaa
+     xál k̲áat'e.ehl+V+NEG+3PL+INDIR+PAST+HAB: xál k̲áat'eehl'ang'wägaangaan
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+FUT+LONG: xál k̲áat'eehl'ang'waaäsaa
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+FUT+SHORT: xál k̲áat'eehl'ang'waaäs
+     xál k̲áat'e.ehl+V+NEG+3PL+SIMP+FUT: xál k̲áat'eehl'ang'waaäsaang
+     xál k̲áat'e.ehl+V+NEG+3PL+IMM+FUT: xál k̲áat'eehl'ang'waaäsga
+     xál k̲áat'e.ehl+V+NEG+3PL+REL+FUT: xál k̲áat'eehl'ang'waaäsaas
+     xál k̲áat'e.ehl+V+NEG+3PL+FUT+NONFACT: xál k̲áat'eehl'ang'waaäsaa.ang
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaa'áng
+     xál k̲áat'e.ehl+V+NEG+3PL+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaa'ánggang
+     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdlä'áng
+     xál k̲áat'e.ehl+V+NEG+3PL+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdlä'ánggang
+     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+IMM+PRES: xál k̲áat'eehl'ang'waa'uuj
+     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+SIMP+PRES: xál k̲áat'eehl'ang'waa'uujang
+     xál k̲áat'e.ehl+V+NEG+3PL+RES: xál k̲áat'eehl'ang'waaäsaa'uujang
+     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+PRES: xál k̲áat'eehl'ang'waa'us
+     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+PAST: xál k̲áat'eehl'ang'waa'ujaa
+     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'ang'waa'uujaangaa
+     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+FUT: xál k̲áat'eehl'ang'waaäsaa'us
+     xál k̲áat'e.ehl+V+NEG+3PL+CERT+PRES: xál k̲áat'eehl'ang'waa'ahlanggang
+     xál k̲áat'e.ehl+V+NEG+3PL+CERT+PAST: xál k̲áat'eehl'ang'waa'ahlanggan
+     xál k̲áat'e.ehl+V+NEG+3PL+CERT+PAST+HAB: xál k̲áat'eehl'ang'waa'ahlanggiinii
+     xál k̲áat'e.ehl+V+NEG+3PL+CERT+FUT: xál k̲áat'eehl'ang'waaäsaa'ahlans
+     xál k̲áat'e.ehl+V+NEG+3PL+CERT+REL: xál k̲áat'eehl'ang'waa'ahlans
+     xál k̲áat'e.ehl+V+NEG+3PL+INTS+PAST: xál k̲áat'eehl'ang'aawaa'ahlang
+     xál k̲áat'e.ehl+V+NEG+3PL+CONT: xál k̲áat'eehl'ang'aawaa'ahlanggaa
+     xál k̲áat'e.ehl+V+NEG+3PL+CTFACT+PRES: xál k̲áat'eehl'ang'aawaa'ahlanggang
+     xál k̲áat'e.ehl+V+NEG+3PL+RFLX: xál k̲áat'eehl'ang'waa'ahl
+     xál k̲áat'e.ehl+V+NEG+3PL+FUT+RFLX+INTERR: xál k̲áat'eehl'ang'waaäseehl
 

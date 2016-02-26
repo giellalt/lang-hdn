@@ -11,38 +11,38 @@ Tests:
 
   Verb - kúnid - ENGLISH : # CLASS_ID_STEM_2
 
-     kúnid+V+IMMEDIATE+PRESENT: kúniida
-     kúnid+V+SIMPLE+PRESENT: kúniidang
-     kúnid+V+DIRECT+PAST: kúniidan
-     kúnid+V+NON_FACTIVE: kúniidang
-     kúnid+V+INTERROGATIVE+PRESENT+HABITUAL: kúniidang
-     kúnid+V+PRESENT+HABITUAL: kúniidanggang
-     kúnid+V+PRESENT+HABITUAL+NON_FACTIVE: kúniidangang
-     kúnid+V+DIRECT+PAST+HABITUAL: kúniidiinii
-     kúnid+V+INTERROGATIVE+PAST+HABITUAL: kúniidaangaa
-     kúnid+V+INDIRECT+PAST+HABITUAL: kúniidaangaan
-     kúnid+V+INTERROGATIVE+NEAR+FUTURE: kúniidang k̲asa'áa
-     kúnid+V+NEAR+FUTURE: kúniidang k̲asa'áang
-     kúnid+V+INTERROGATIVE+VERYNEAR+FUTURE: kúniidang k̲asaasdláa
-     kúnid+V+VERYNEAR+FUTURE: kúniidang k̲asaasdláang
-     kúnid+V+CERTAIN+PRESENT: kúniid'ahlanggang
-     kúnid+V+CERTAIN+PAST: kúniid'ahlanggan
-     kúnid+V+CERTAIN+PAST+HABITUAL: kúniid'ahlanggiinii
-     kúnid+V+CERTAIN+RELATIVE: kúniid'ahlans
-     kúnid+V+INTENSIVE+PAST: kúniidaa'ahlang
-     kúnid+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kúniidaa'ahlanggaa
-     kúnid+V+COUNTERFACTUAL+PRESENT: kúniidaa'ahlanggang
-     kúnid+V+REFLEXIVE: kúniid'ahl
-     kúnid+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kúniidang'waa
-     kúnid+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kúniidang'waang
-     kúnid+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'waa.ang
-     kúnid+V+NEGATIVE+PRESENT+HABITUAL: kúniidang'anggang
-     kúnid+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'angang
-     kúnid+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kúniidang k̲asaa'áng
-     kúnid+V+NEGATIVE+NEAR+FUTURE: kúniidang k̲asaa'ánggang
-     kúnid+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kúniidang k̲asaasdlä'áng
-     kúnid+V+NEGATIVE+VERYNEAR+FUTURE: kúniidang k̲asaasdlä'ánggang
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kúniidang'ang'waa
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kúniidang'ang'waang
-     kúnid+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kúniidang'ang'waa.ang
+     kúnid+V+IMM+PRES: kúniida
+     kúnid+V+SIMP+PRES: kúniidang
+     kúnid+V+DIR+PAST: kúniidan
+     kúnid+V+NONFACT: kúniidang
+     kúnid+V+INTERR+PRES+HAB: kúniidang
+     kúnid+V+PRES+HAB: kúniidanggang
+     kúnid+V+PRES+HAB+NONFACT: kúniidangang
+     kúnid+V+DIR+PAST+HAB: kúniidiinii
+     kúnid+V+INTERR+PAST+HAB: kúniidaangaa
+     kúnid+V+INDIR+PAST+HAB: kúniidaangaan
+     kúnid+V+INTERR+NEAR+FUT: kúniidang k̲asa'áa
+     kúnid+V+NEAR+FUT: kúniidang k̲asa'áang
+     kúnid+V+INTERR+VNEAR+FUT: kúniidang k̲asaasdláa
+     kúnid+V+VNEAR+FUT: kúniidang k̲asaasdláang
+     kúnid+V+CERT+PRES: kúniid'ahlanggang
+     kúnid+V+CERT+PAST: kúniid'ahlanggan
+     kúnid+V+CERT+PAST+HAB: kúniid'ahlanggiinii
+     kúnid+V+CERT+REL: kúniid'ahlans
+     kúnid+V+INTS+PAST: kúniidaa'ahlang
+     kúnid+V+CONT: kúniidaa'ahlanggaa
+     kúnid+V+CTFACT+PRES: kúniidaa'ahlanggang
+     kúnid+V+RFLX: kúniid'ahl
+     kúnid+V+3PL+INTERR+PRES+HAB: kúniidang'waa
+     kúnid+V+3PL+PRES+HAB: kúniidang'waang
+     kúnid+V+3PL+PRES+HAB+NONFACT: kúniidang'waa.ang
+     kúnid+V+NEG+PRES+HAB: kúniidang'anggang
+     kúnid+V+NEG+PRES+HAB+NONFACT: kúniidang'angang
+     kúnid+V+NEG+INTERR+NEAR+FUT: kúniidang k̲asaa'áng
+     kúnid+V+NEG+NEAR+FUT: kúniidang k̲asaa'ánggang
+     kúnid+V+NEG+INTERR+VNEAR+FUT: kúniidang k̲asaasdlä'áng
+     kúnid+V+NEG+VNEAR+FUT: kúniidang k̲asaasdlä'ánggang
+     kúnid+V+NEG+3PL+INTERR+PRES+HAB: kúniidang'ang'waa
+     kúnid+V+NEG+3PL+PRES+HAB: kúniidang'ang'waang
+     kúnid+V+NEG+3PL+PRES+HAB+NONFACT: kúniidang'ang'waa.ang
 

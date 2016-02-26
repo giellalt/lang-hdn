@@ -11,168 +11,168 @@ Tests:
 
   Verb - chíigang - ENGLISH : # CLASS_ANG_STEM_1
 
-     chíigang+V+SINGULAR+IMPERATIVE: chíigang
-     chíigang+V+IMMEDIATE+PRESENT: chíigangga
-     chíigang+V+INTERROGATIVE+SIMPLE+PRESENT: chíigang
-     chíigang+V+SIMPLE+PRESENT: chíiganggang
-     chíigang+V+DIRECT+PAST: chíiganggan
-     chíigang+V+RELATIVE: chíigangs
-     chíigang+V+NON_FACTIVE: chíigangang
-     chíigang+V+INTERROGATIVE+PRESENT+HABITUAL: chíiganggang
-     chíigang+V+PRESENT+HABITUAL: chíigangganggang
-     chíigang+V+PRESENT+HABITUAL+NON_FACTIVE: chíiganggangang
-     chíigang+V+DIRECT+PAST+HABITUAL: chíiganggiinii
-     chíigang+V+INTERROGATIVE+PAST+HABITUAL: chíiganggaangaa
-     chíigang+V+INDIRECT+PAST+HABITUAL: chíiganggaangaan
-     chíigang+V+INTERROGATIVE+FUTURE+LONG: chíigangäsaa
-     chíigang+V+INTERROGATIVE+FUTURE+SHORT: chíigangäs
-     chíigang+V+SIMPLE+FUTURE: chíigangäsaang
-     chíigang+V+IMMEDIATE+FUTURE: chíigangäsga
-     chíigang+V+RELATIVE+FUTURE: chíigangäsaas
-     chíigang+V+FUTURE+NON_FACTIVE: chíigangäsaa.ang
-     chíigang+V+INTERROGATIVE+NEAR+FUTURE: chíigangang k̲asa'áa
-     chíigang+V+NEAR+FUTURE: chíigangang k̲asa'áang
-     chíigang+V+INTERROGATIVE+VERYNEAR+FUTURE: chíigangang k̲asaasdláa
-     chíigang+V+VERYNEAR+FUTURE: chíigangang k̲asaasdláang
-     chíigang+V+BIASED+IMMEDIATE+PRESENT: chíigang'uuj
-     chíigang+V+BIASED+SIMPLE+PRESENT: chíigang'uujang
-     chíigang+V+RESIGNED_OBLIGATION: chíigangäsaa'uujang
-     chíigang+V+BIASED+INTERROGATIVE+PRESENT: chíigang'us
-     chíigang+V+BIASED+INTERROGATIVE+PAST: chíigang'ujaa
-     chíigang+V+BIASED+INTERROGATIVE+PAST+HABITUAL: chíigang'uujaangaa
-     chíigang+V+BIASED+INTERROGATIVE+FUTURE: chíigangäsaa'us
-     chíigang+V+CERTAIN+FUTURE: chíigangäsaa'ahlans
-     chíigang+V+FUTURE+REFLEXIVE+INTERROGATIVE: chíigangäseehl
-     chíigang+V+PLURAL+IMPERATIVE: chíigang'uu
-     chíigang+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: chíigang'waa
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: chíigang'waa
-     chíigang+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: chíigang'waang
-     chíigang+V+3rd_PERSON_PLURAL+DIRECT+PAST: chíigang'wägan
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: chíigang'aawaa
-     chíigang+V+3rd_PERSON_PLURAL+INDIRECT+PAST: chíigang'aawaan
-     chíigang+V+3rd_PERSON_PLURAL+RELATIVE: chíigang'waas
-     chíigang+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: chíigang'aawaas
-     chíigang+V+3rd_PERSON_PLURAL+NON_FACTIVE: chíigang'waa.ang
-     chíigang+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: chíigang'aawaa.ang
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: chíiganggang'waa
-     chíigang+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: chíiganggang'waang
-     chíigang+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: chíiganggang'waa.ang
-     chíigang+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: chíigang'wägiinii
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: chíigang'wägaangaa
-     chíigang+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: chíigang'wägaangaan
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: chíigang'waaäsaa
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: chíigang'waaäs
-     chíigang+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: chíigang'waaäsaang
-     chíigang+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: chíigang'waaäsga
-     chíigang+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: chíigang'waaäsaas
-     chíigang+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: chíigang'waaäsaa.ang
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: chíigang'waa.ang k̲asa'áa
-     chíigang+V+3rd_PERSON_PLURAL+NEAR+FUTURE: chíigang'waa.ang k̲asa'áang
-     chíigang+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdláa
-     chíigang+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdláang
-     chíigang+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: chíigang'waa'uuj
-     chíigang+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: chíigang'waa'uujang
-     chíigang+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: chíigang'waaäsaa'uujang
-     chíigang+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: chíigang'waa'us
-     chíigang+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: chíigang'waa'ujaa
-     chíigang+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: chíigang'waa'uujaangaa
-     chíigang+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: chíigang'waaäsaa'us
-     chíigang+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: chíigang'waa'ahlanggang
-     chíigang+V+3rd_PERSON_PLURAL+CERTAIN+PAST: chíigang'waa'ahlanggan
-     chíigang+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: chíigang'waa'ahlanggiinii
-     chíigang+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: chíigang'waaäsaa'ahlans
-     chíigang+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: chíigang'waa'ahlans
-     chíigang+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: chíigang'aawaa'ahlang
-     chíigang+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: chíigang'aawaa'ahlanggaa
-     chíigang+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: chíigang'aawaa'ahlanggang
-     chíigang+V+3rd_PERSON_PLURAL+REFLEXIVE: chíigang'waa'ahl
-     chíigang+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: chíigang'waaäseehl
-     chíigang+V+NEGATIVE+SINGULAR+IMPERATIVE: chíigang'ang
-     chíigang+V+NEGATIVE+IMMEDIATE+PRESENT: chíigang'angga
-     chíigang+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: chíigang'ang
-     chíigang+V+NEGATIVE+SIMPLE+PRESENT: chíigang'anggang
-     chíigang+V+NEGATIVE+DIRECT+PAST: chíigang'anggan
-     chíigang+V+NEGATIVE+INTERROGATIVE+PAST: chíigang'aangaa
-     chíigang+V+NEGATIVE+INDIRECT+PAST: chíigang'aangaan
-     chíigang+V+NEGATIVE+RELATIVE: chíigang'ans
-     chíigang+V+NEGATIVE+RELATIVE+EVIDENTIAL: chíigang'aangaas
-     chíigang+V+NEGATIVE+NON_FACTIVE: chíigang'angang
-     chíigang+V+NEGATIVE+PAST+NON_FACTIVE: chíigang'aangaa.ang
-     chíigang+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: chíigang'anggang
-     chíigang+V+NEGATIVE+PRESENT+HABITUAL: chíiganggang'anggang
-     chíigang+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: chíiganggang'angang
-     chíigang+V+NEGATIVE+DIRECT+PAST+HABITUAL: chíigang'anggiinii
-     chíigang+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: chíigang'anggaangaa
-     chíigang+V+NEGATIVE+INDIRECT+PAST+HABITUAL: chíigang'anggaangaan
-     chíigang+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: chíigang'angäsaa
-     chíigang+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: chíigang'angäs
-     chíigang+V+NEGATIVE+SIMPLE+FUTURE: chíigang'angäsaang
-     chíigang+V+NEGATIVE+IMMEDIATE+FUTURE: chíigang'angäsga
-     chíigang+V+NEGATIVE+RELATIVE+FUTURE: chíigang'angäsaas
-     chíigang+V+NEGATIVE+FUTURE+NON_FACTIVE: chíigang'angäsaa.ang
-     chíigang+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: chíigangang k̲asaa'áng
-     chíigang+V+NEGATIVE+NEAR+FUTURE: chíigangang k̲asaa'ánggang
-     chíigang+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: chíigangang k̲asaasdlä'áng
-     chíigang+V+NEGATIVE+VERYNEAR+FUTURE: chíigangang k̲asaasdlä'ánggang
-     chíigang+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: chíigang'ang'uuj
-     chíigang+V+NEGATIVE+BIASED+SIMPLE+PRESENT: chíigang'ang'uujang
-     chíigang+V+NEGATIVE+RESIGNED_OBLIGATION: chíigang'angäsaa'uujang
-     chíigang+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: chíigang'ang'us
-     chíigang+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: chíigang'ang'ujaa
-     chíigang+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: chíigang'ang'uujaangaa
-     chíigang+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: chíigang'angäsaa'us
-     chíigang+V+NEGATIVE+CERTAIN+PRESENT: chíigang'aang'ahlanggang
-     chíigang+V+NEGATIVE+CERTAIN+PAST: chíigang'aang'ahlanggan
-     chíigang+V+NEGATIVE+CERTAIN+PAST+HABITUAL: chíigang'aang'ahlanggiinii
-     chíigang+V+NEGATIVE+CERTAIN+FUTURE: chíigang'angäsaa'ahlans
-     chíigang+V+NEGATIVE+CERTAIN+RELATIVE: chíigang'aang'ahlans
-     chíigang+V+NEGATIVE+INTENSIVE+PAST: chíigang'aangaa'ahlang
-     chíigang+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: chíigang'aangaa'ahlanggaa
-     chíigang+V+NEGATIVE+COUNTERFACTUAL+PRESENT: chíigang'aangaa'ahlanggang
-     chíigang+V+NEGATIVE+REFLEXIVE: chíigang'aang'ahl
-     chíigang+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: chíigang'angäseehl
-     chíigang+V+NEGATIVE+PLURAL+IMPERATIVE: chíigang'ang'uu
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: chíigang'ang'waa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: chíigang'ang'waa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: chíigang'ang'waang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: chíigang'ang'wägan
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: chíigang'ang'aawaa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: chíigang'ang'aawaan
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: chíigang'ang'waas
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: chíigang'ang'aawaas
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: chíigang'ang'waa.ang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: chíigang'ang'aawaa.ang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: chíiganggang'ang'waa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: chíiganggang'ang'waang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: chíiganggang'ang'waa.ang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: chíigang'ang'wägiinii
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: chíigang'ang'wägaangaa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: chíigang'ang'wägaangaan
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: chíigang'ang'waaäsaa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: chíigang'ang'waaäs
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: chíigang'ang'waaäsaang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: chíigang'ang'waaäsga
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: chíigang'ang'waaäsaas
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: chíigang'ang'waaäsaa.ang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: chíigang'waa.ang k̲asaa'áng
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: chíigang'waa.ang k̲asaa'ánggang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdlä'áng
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: chíigang'waa.ang k̲asaasdlä'ánggang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: chíigang'ang'waa'uuj
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: chíigang'ang'waa'uujang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: chíigang'ang'waaäsaa'uujang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: chíigang'ang'waa'us
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: chíigang'ang'waa'ujaa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: chíigang'ang'waa'uujaangaa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: chíigang'ang'waaäsaa'us
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: chíigang'ang'waa'ahlanggang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: chíigang'ang'waa'ahlanggan
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: chíigang'ang'waa'ahlanggiinii
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: chíigang'ang'waaäsaa'ahlans
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: chíigang'ang'waa'ahlans
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: chíigang'ang'aawaa'ahlang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: chíigang'ang'aawaa'ahlanggaa
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: chíigang'ang'aawaa'ahlanggang
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: chíigang'ang'waa'ahl
-     chíigang+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: chíigang'ang'waaäseehl
+     chíigang+V+SG+IMPV: chíigang
+     chíigang+V+IMM+PRES: chíigangga
+     chíigang+V+INTERR+SIMP+PRES: chíigang
+     chíigang+V+SIMP+PRES: chíiganggang
+     chíigang+V+DIR+PAST: chíiganggan
+     chíigang+V+REL: chíigangs
+     chíigang+V+NONFACT: chíigangang
+     chíigang+V+INTERR+PRES+HAB: chíiganggang
+     chíigang+V+PRES+HAB: chíigangganggang
+     chíigang+V+PRES+HAB+NONFACT: chíiganggangang
+     chíigang+V+DIR+PAST+HAB: chíiganggiinii
+     chíigang+V+INTERR+PAST+HAB: chíiganggaangaa
+     chíigang+V+INDIR+PAST+HAB: chíiganggaangaan
+     chíigang+V+INTERR+FUT+LONG: chíigangäsaa
+     chíigang+V+INTERR+FUT+SHORT: chíigangäs
+     chíigang+V+SIMP+FUT: chíigangäsaang
+     chíigang+V+IMM+FUT: chíigangäsga
+     chíigang+V+REL+FUT: chíigangäsaas
+     chíigang+V+FUT+NONFACT: chíigangäsaa.ang
+     chíigang+V+INTERR+NEAR+FUT: chíigangang k̲asa'áa
+     chíigang+V+NEAR+FUT: chíigangang k̲asa'áang
+     chíigang+V+INTERR+VNEAR+FUT: chíigangang k̲asaasdláa
+     chíigang+V+VNEAR+FUT: chíigangang k̲asaasdláang
+     chíigang+V+BIAS+IMM+PRES: chíigang'uuj
+     chíigang+V+BIAS+SIMP+PRES: chíigang'uujang
+     chíigang+V+RES: chíigangäsaa'uujang
+     chíigang+V+BIAS+INTERR+PRES: chíigang'us
+     chíigang+V+BIAS+INTERR+PAST: chíigang'ujaa
+     chíigang+V+BIAS+INTERR+PAST+HAB: chíigang'uujaangaa
+     chíigang+V+BIAS+INTERR+FUT: chíigangäsaa'us
+     chíigang+V+CERT+FUT: chíigangäsaa'ahlans
+     chíigang+V+FUT+RFLX+INTERR: chíigangäseehl
+     chíigang+V+PL+IMPV: chíigang'uu
+     chíigang+V+3PL+IMM+PRES: chíigang'waa
+     chíigang+V+3PL+INTERR+SIMP+PRES: chíigang'waa
+     chíigang+V+3PL+SIMP+PRES: chíigang'waang
+     chíigang+V+3PL+DIR+PAST: chíigang'wägan
+     chíigang+V+3PL+INTERR+PAST: chíigang'aawaa
+     chíigang+V+3PL+INDIR+PAST: chíigang'aawaan
+     chíigang+V+3PL+REL: chíigang'waas
+     chíigang+V+3PL+REL+EVID: chíigang'aawaas
+     chíigang+V+3PL+NONFACT: chíigang'waa.ang
+     chíigang+V+3PL+PAST+NONFACT: chíigang'aawaa.ang
+     chíigang+V+3PL+INTERR+PRES+HAB: chíiganggang'waa
+     chíigang+V+3PL+PRES+HAB: chíiganggang'waang
+     chíigang+V+3PL+PRES+HAB+NONFACT: chíiganggang'waa.ang
+     chíigang+V+3PL+DIR+PAST+HAB: chíigang'wägiinii
+     chíigang+V+3PL+INTERR+PAST+HAB: chíigang'wägaangaa
+     chíigang+V+3PL+INDIR+PAST+HAB: chíigang'wägaangaan
+     chíigang+V+3PL+INTERR+FUT+LONG: chíigang'waaäsaa
+     chíigang+V+3PL+INTERR+FUT+SHORT: chíigang'waaäs
+     chíigang+V+3PL+SIMP+FUT: chíigang'waaäsaang
+     chíigang+V+3PL+IMM+FUT: chíigang'waaäsga
+     chíigang+V+3PL+REL+FUT: chíigang'waaäsaas
+     chíigang+V+3PL+FUT+NONFACT: chíigang'waaäsaa.ang
+     chíigang+V+3PL+INTERR+NEAR+FUT: chíigang'waa.ang k̲asa'áa
+     chíigang+V+3PL+NEAR+FUT: chíigang'waa.ang k̲asa'áang
+     chíigang+V+3PL+INTERR+VNEAR+FUT: chíigang'waa.ang k̲asaasdláa
+     chíigang+V+3PL+VNEAR+FUT: chíigang'waa.ang k̲asaasdláang
+     chíigang+V+3PL+BIAS+IMM+PRES: chíigang'waa'uuj
+     chíigang+V+3PL+BIAS+SIMP+PRES: chíigang'waa'uujang
+     chíigang+V+3PL+RES: chíigang'waaäsaa'uujang
+     chíigang+V+3PL+BIAS+INTERR+PRES: chíigang'waa'us
+     chíigang+V+3PL+BIAS+INTERR+PAST: chíigang'waa'ujaa
+     chíigang+V+3PL+BIAS+INTERR+PAST+HAB: chíigang'waa'uujaangaa
+     chíigang+V+3PL+BIAS+INTERR+FUT: chíigang'waaäsaa'us
+     chíigang+V+3PL+CERT+PRES: chíigang'waa'ahlanggang
+     chíigang+V+3PL+CERT+PAST: chíigang'waa'ahlanggan
+     chíigang+V+3PL+CERT+PAST+HAB: chíigang'waa'ahlanggiinii
+     chíigang+V+3PL+CERT+FUT: chíigang'waaäsaa'ahlans
+     chíigang+V+3PL+CERT+REL: chíigang'waa'ahlans
+     chíigang+V+3PL+INTS+PAST: chíigang'aawaa'ahlang
+     chíigang+V+3PL+CONT: chíigang'aawaa'ahlanggaa
+     chíigang+V+3PL+CTFACT+PRES: chíigang'aawaa'ahlanggang
+     chíigang+V+3PL+RFLX: chíigang'waa'ahl
+     chíigang+V+3PL+FUT+RFLX+INTERR: chíigang'waaäseehl
+     chíigang+V+NEG+SG+IMPV: chíigang'ang
+     chíigang+V+NEG+IMM+PRES: chíigang'angga
+     chíigang+V+NEG+INTERR+SIMP+PRES: chíigang'ang
+     chíigang+V+NEG+SIMP+PRES: chíigang'anggang
+     chíigang+V+NEG+DIR+PAST: chíigang'anggan
+     chíigang+V+NEG+INTERR+PAST: chíigang'aangaa
+     chíigang+V+NEG+INDIR+PAST: chíigang'aangaan
+     chíigang+V+NEG+REL: chíigang'ans
+     chíigang+V+NEG+REL+EVID: chíigang'aangaas
+     chíigang+V+NEG+NONFACT: chíigang'angang
+     chíigang+V+NEG+PAST+NONFACT: chíigang'aangaa.ang
+     chíigang+V+NEG+INTERR+PRES+HAB: chíigang'anggang
+     chíigang+V+NEG+PRES+HAB: chíiganggang'anggang
+     chíigang+V+NEG+PRES+HAB+NONFACT: chíiganggang'angang
+     chíigang+V+NEG+DIR+PAST+HAB: chíigang'anggiinii
+     chíigang+V+NEG+INTERR+PAST+HAB: chíigang'anggaangaa
+     chíigang+V+NEG+INDIR+PAST+HAB: chíigang'anggaangaan
+     chíigang+V+NEG+INTERR+FUT+LONG: chíigang'angäsaa
+     chíigang+V+NEG+INTERR+FUT+SHORT: chíigang'angäs
+     chíigang+V+NEG+SIMP+FUT: chíigang'angäsaang
+     chíigang+V+NEG+IMM+FUT: chíigang'angäsga
+     chíigang+V+NEG+REL+FUT: chíigang'angäsaas
+     chíigang+V+NEG+FUT+NONFACT: chíigang'angäsaa.ang
+     chíigang+V+NEG+INTERR+NEAR+FUT: chíigangang k̲asaa'áng
+     chíigang+V+NEG+NEAR+FUT: chíigangang k̲asaa'ánggang
+     chíigang+V+NEG+INTERR+VNEAR+FUT: chíigangang k̲asaasdlä'áng
+     chíigang+V+NEG+VNEAR+FUT: chíigangang k̲asaasdlä'ánggang
+     chíigang+V+NEG+BIAS+IMM+PRES: chíigang'ang'uuj
+     chíigang+V+NEG+BIAS+SIMP+PRES: chíigang'ang'uujang
+     chíigang+V+NEG+RES: chíigang'angäsaa'uujang
+     chíigang+V+NEG+BIAS+INTERR+PRES: chíigang'ang'us
+     chíigang+V+NEG+BIAS+INTERR+PAST: chíigang'ang'ujaa
+     chíigang+V+NEG+BIAS+INTERR+PAST+HAB: chíigang'ang'uujaangaa
+     chíigang+V+NEG+BIAS+INTERR+FUT: chíigang'angäsaa'us
+     chíigang+V+NEG+CERT+PRES: chíigang'aang'ahlanggang
+     chíigang+V+NEG+CERT+PAST: chíigang'aang'ahlanggan
+     chíigang+V+NEG+CERT+PAST+HAB: chíigang'aang'ahlanggiinii
+     chíigang+V+NEG+CERT+FUT: chíigang'angäsaa'ahlans
+     chíigang+V+NEG+CERT+REL: chíigang'aang'ahlans
+     chíigang+V+NEG+INTS+PAST: chíigang'aangaa'ahlang
+     chíigang+V+NEG+CONT: chíigang'aangaa'ahlanggaa
+     chíigang+V+NEG+CTFACT+PRES: chíigang'aangaa'ahlanggang
+     chíigang+V+NEG+RFLX: chíigang'aang'ahl
+     chíigang+V+NEG+FUT+RFLX+INTERR: chíigang'angäseehl
+     chíigang+V+NEG+PL+IMPV: chíigang'ang'uu
+     chíigang+V+NEG+3PL+IMM+PRES: chíigang'ang'waa
+     chíigang+V+NEG+3PL+INTERR+SIMP+PRES: chíigang'ang'waa
+     chíigang+V+NEG+3PL+SIMP+PRES: chíigang'ang'waang
+     chíigang+V+NEG+3PL+DIR+PAST: chíigang'ang'wägan
+     chíigang+V+NEG+3PL+INTERR+PAST: chíigang'ang'aawaa
+     chíigang+V+NEG+3PL+INDIR+PAST: chíigang'ang'aawaan
+     chíigang+V+NEG+3PL+REL: chíigang'ang'waas
+     chíigang+V+NEG+3PL+REL+EVID: chíigang'ang'aawaas
+     chíigang+V+NEG+3PL+NONFACT: chíigang'ang'waa.ang
+     chíigang+V+NEG+3PL+PAST+NONFACT: chíigang'ang'aawaa.ang
+     chíigang+V+NEG+3PL+INTERR+PRES+HAB: chíiganggang'ang'waa
+     chíigang+V+NEG+3PL+PRES+HAB: chíiganggang'ang'waang
+     chíigang+V+NEG+3PL+PRES+HAB+NONFACT: chíiganggang'ang'waa.ang
+     chíigang+V+NEG+3PL+DIR+PAST+HAB: chíigang'ang'wägiinii
+     chíigang+V+NEG+3PL+INTERR+PAST+HAB: chíigang'ang'wägaangaa
+     chíigang+V+NEG+3PL+INDIR+PAST+HAB: chíigang'ang'wägaangaan
+     chíigang+V+NEG+3PL+INTERR+FUT+LONG: chíigang'ang'waaäsaa
+     chíigang+V+NEG+3PL+INTERR+FUT+SHORT: chíigang'ang'waaäs
+     chíigang+V+NEG+3PL+SIMP+FUT: chíigang'ang'waaäsaang
+     chíigang+V+NEG+3PL+IMM+FUT: chíigang'ang'waaäsga
+     chíigang+V+NEG+3PL+REL+FUT: chíigang'ang'waaäsaas
+     chíigang+V+NEG+3PL+FUT+NONFACT: chíigang'ang'waaäsaa.ang
+     chíigang+V+NEG+3PL+INTERR+NEAR+FUT: chíigang'waa.ang k̲asaa'áng
+     chíigang+V+NEG+3PL+NEAR+FUT: chíigang'waa.ang k̲asaa'ánggang
+     chíigang+V+NEG+3PL+INTERR+VNEAR+FUT: chíigang'waa.ang k̲asaasdlä'áng
+     chíigang+V+NEG+3PL+VNEAR+FUT: chíigang'waa.ang k̲asaasdlä'ánggang
+     chíigang+V+NEG+3PL+BIAS+IMM+PRES: chíigang'ang'waa'uuj
+     chíigang+V+NEG+3PL+BIAS+SIMP+PRES: chíigang'ang'waa'uujang
+     chíigang+V+NEG+3PL+RES: chíigang'ang'waaäsaa'uujang
+     chíigang+V+NEG+3PL+BIAS+INTERR+PRES: chíigang'ang'waa'us
+     chíigang+V+NEG+3PL+BIAS+INTERR+PAST: chíigang'ang'waa'ujaa
+     chíigang+V+NEG+3PL+BIAS+INTERR+PAST+HAB: chíigang'ang'waa'uujaangaa
+     chíigang+V+NEG+3PL+BIAS+INTERR+FUT: chíigang'ang'waaäsaa'us
+     chíigang+V+NEG+3PL+CERT+PRES: chíigang'ang'waa'ahlanggang
+     chíigang+V+NEG+3PL+CERT+PAST: chíigang'ang'waa'ahlanggan
+     chíigang+V+NEG+3PL+CERT+PAST+HAB: chíigang'ang'waa'ahlanggiinii
+     chíigang+V+NEG+3PL+CERT+FUT: chíigang'ang'waaäsaa'ahlans
+     chíigang+V+NEG+3PL+CERT+REL: chíigang'ang'waa'ahlans
+     chíigang+V+NEG+3PL+INTS+PAST: chíigang'ang'aawaa'ahlang
+     chíigang+V+NEG+3PL+CONT: chíigang'ang'aawaa'ahlanggaa
+     chíigang+V+NEG+3PL+CTFACT+PRES: chíigang'ang'aawaa'ahlanggang
+     chíigang+V+NEG+3PL+RFLX: chíigang'ang'waa'ahl
+     chíigang+V+NEG+3PL+FUT+RFLX+INTERR: chíigang'ang'waaäseehl
 

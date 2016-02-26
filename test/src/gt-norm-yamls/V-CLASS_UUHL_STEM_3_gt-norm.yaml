@@ -11,16 +11,16 @@ Tests:
 
   Verb - t'ahlgúuhl - ENGLISH : # CLASS_UUHL_STEM_3
 
-     t'ahlgúuhl+V+INTERROGATIVE+PAST: t'ahlgwáalaa
-     t'ahlgúuhl+V+INDIRECT+PAST: t'ahlgwáalaan
-     t'ahlgúuhl+V+RELATIVE+EVIDENTIAL: t'ahlgwáalaas
-     t'ahlgúuhl+V+PAST+NON_FACTIVE: t'ahlgwáalaa.ang
-     t'ahlgúuhl+V+CERTAIN+PRESENT: t'ahlgwáal'ahlanggang
-     t'ahlgúuhl+V+CERTAIN+PAST: t'ahlgwáal'ahlanggan
-     t'ahlgúuhl+V+CERTAIN+PAST+HABITUAL: t'ahlgwáal'ahlanggiinii
-     t'ahlgúuhl+V+CERTAIN+RELATIVE: t'ahlgwáal'ahlans
-     t'ahlgúuhl+V+INTENSIVE+PAST: t'ahlgwáalaa'ahlang
-     t'ahlgúuhl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: t'ahlgwáalaa'ahlanggaa
-     t'ahlgúuhl+V+COUNTERFACTUAL+PRESENT: t'ahlgwáalaa'ahlanggang
-     t'ahlgúuhl+V+REFLEXIVE: t'ahlgwáal'ahl
+     t'ahlgúuhl+V+INTERR+PAST: t'ahlgwáalaa
+     t'ahlgúuhl+V+INDIR+PAST: t'ahlgwáalaan
+     t'ahlgúuhl+V+REL+EVID: t'ahlgwáalaas
+     t'ahlgúuhl+V+PAST+NONFACT: t'ahlgwáalaa.ang
+     t'ahlgúuhl+V+CERT+PRES: t'ahlgwáal'ahlanggang
+     t'ahlgúuhl+V+CERT+PAST: t'ahlgwáal'ahlanggan
+     t'ahlgúuhl+V+CERT+PAST+HAB: t'ahlgwáal'ahlanggiinii
+     t'ahlgúuhl+V+CERT+REL: t'ahlgwáal'ahlans
+     t'ahlgúuhl+V+INTS+PAST: t'ahlgwáalaa'ahlang
+     t'ahlgúuhl+V+CONT: t'ahlgwáalaa'ahlanggaa
+     t'ahlgúuhl+V+CTFACT+PRES: t'ahlgwáalaa'ahlanggang
+     t'ahlgúuhl+V+RFLX: t'ahlgwáal'ahl
 

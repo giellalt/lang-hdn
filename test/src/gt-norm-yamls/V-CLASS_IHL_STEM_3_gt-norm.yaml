@@ -11,16 +11,16 @@ Tests:
 
   Verb - hlgihl - ENGLISH : # CLASS_IHL_STEM_3
 
-     hlgihl+V+INTERROGATIVE+PAST: hlgéelaa
-     hlgihl+V+INDIRECT+PAST: hlgéelaan
-     hlgihl+V+RELATIVE+EVIDENTIAL: hlgéelaas
-     hlgihl+V+PAST+NON_FACTIVE: hlgéelaa.ang
-     hlgihl+V+CERTAIN+PRESENT: hlgéel'ahlanggang
-     hlgihl+V+CERTAIN+PAST: hlgéel'ahlanggan
-     hlgihl+V+CERTAIN+PAST+HABITUAL: hlgéel'ahlanggiinii
-     hlgihl+V+CERTAIN+RELATIVE: hlgéel'ahlans
-     hlgihl+V+INTENSIVE+PAST: hlgéelaa'ahlang
-     hlgihl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: hlgéelaa'ahlanggaa
-     hlgihl+V+COUNTERFACTUAL+PRESENT: hlgéelaa'ahlanggang
-     hlgihl+V+REFLEXIVE: hlgéel'ahl
+     hlgihl+V+INTERR+PAST: hlgéelaa
+     hlgihl+V+INDIR+PAST: hlgéelaan
+     hlgihl+V+REL+EVID: hlgéelaas
+     hlgihl+V+PAST+NONFACT: hlgéelaa.ang
+     hlgihl+V+CERT+PRES: hlgéel'ahlanggang
+     hlgihl+V+CERT+PAST: hlgéel'ahlanggan
+     hlgihl+V+CERT+PAST+HAB: hlgéel'ahlanggiinii
+     hlgihl+V+CERT+REL: hlgéel'ahlans
+     hlgihl+V+INTS+PAST: hlgéelaa'ahlang
+     hlgihl+V+CONT: hlgéelaa'ahlanggaa
+     hlgihl+V+CTFACT+PRES: hlgéelaa'ahlanggang
+     hlgihl+V+RFLX: hlgéel'ahl
 

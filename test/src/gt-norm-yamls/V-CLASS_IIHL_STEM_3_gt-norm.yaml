@@ -11,16 +11,16 @@ Tests:
 
   Verb - níihl - ENGLISH : # CLASS_IIHL_STEM_3
 
-     níihl+V+INTERROGATIVE+PAST: néelaa
-     níihl+V+INDIRECT+PAST: néelaan
-     níihl+V+RELATIVE+EVIDENTIAL: néelaas
-     níihl+V+PAST+NON_FACTIVE: néelaa.ang
-     níihl+V+CERTAIN+PRESENT: néel'ahlanggang
-     níihl+V+CERTAIN+PAST: néel'ahlanggan
-     níihl+V+CERTAIN+PAST+HABITUAL: néel'ahlanggiinii
-     níihl+V+CERTAIN+RELATIVE: néel'ahlans
-     níihl+V+INTENSIVE+PAST: néelaa'ahlang
-     níihl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: néelaa'ahlanggaa
-     níihl+V+COUNTERFACTUAL+PRESENT: néelaa'ahlanggang
-     níihl+V+REFLEXIVE: néel'ahl
+     níihl+V+INTERR+PAST: néelaa
+     níihl+V+INDIR+PAST: néelaan
+     níihl+V+REL+EVID: néelaas
+     níihl+V+PAST+NONFACT: néelaa.ang
+     níihl+V+CERT+PRES: néel'ahlanggang
+     níihl+V+CERT+PAST: néel'ahlanggan
+     níihl+V+CERT+PAST+HAB: néel'ahlanggiinii
+     níihl+V+CERT+REL: néel'ahlans
+     níihl+V+INTS+PAST: néelaa'ahlang
+     níihl+V+CONT: néelaa'ahlanggaa
+     níihl+V+CTFACT+PRES: néelaa'ahlanggang
+     níihl+V+RFLX: néel'ahl
 

@@ -11,35 +11,35 @@ Tests:
 
   Verb - kus - ENGLISH : # CLASS_US_STEM_2
 
-     kus+V+IMMEDIATE+PRESENT: kuja
-     kus+V+SIMPLE+PRESENT: kujáng
-     kus+V+DIRECT+PAST: kuján
-     kus+V+NON_FACTIVE: kujáng
-     kus+V+INTERROGATIVE+PRESENT+HABITUAL: kujáng
-     kus+V+PRESENT+HABITUAL: kujánggang
-     kus+V+PRESENT+HABITUAL+NON_FACTIVE: kujángang
-     kus+V+DIRECT+PAST+HABITUAL: kujíinii
-     kus+V+INTERROGATIVE+PAST+HABITUAL: kujáangaa
-     kus+V+INDIRECT+PAST+HABITUAL: kujáangaan
-     kus+V+INTERROGATIVE+NEAR+FUTURE: kujáng k̲asa'áa
-     kus+V+NEAR+FUTURE: kujáng k̲asa'áang
-     kus+V+INTERROGATIVE+VERYNEAR+FUTURE: kujáng k̲asaasdláa
-     kus+V+VERYNEAR+FUTURE: kujáng k̲asaasdláang
-     kus+V+CERTAIN+PRESENT: kuj'ahlánggang
-     kus+V+CERTAIN+PAST: kuj'ahlánggan
-     kus+V+CERTAIN+PAST+HABITUAL: kuj'ahlánggiinii
-     kus+V+CERTAIN+RELATIVE: kuj'ahláns
-     kus+V+REFLEXIVE: kuj'ahl
-     kus+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujáng'waa
-     kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujáng'waang
-     kus+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujáng'waa.ang
-     kus+V+NEGATIVE+PRESENT+HABITUAL: kujáng'anggang
-     kus+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kujáng'angang
-     kus+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: kujáng k̲asaa'áng
-     kus+V+NEGATIVE+NEAR+FUTURE: kujáng k̲asaa'ánggang
-     kus+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: kujáng k̲asaasdlä'áng
-     kus+V+NEGATIVE+VERYNEAR+FUTURE: kujáng k̲asaasdlä'ánggang
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kujáng'ang'waa
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kujáng'ang'waang
-     kus+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kujáng'ang'waa.ang
+     kus+V+IMM+PRES: kuja
+     kus+V+SIMP+PRES: kujáng
+     kus+V+DIR+PAST: kuján
+     kus+V+NONFACT: kujáng
+     kus+V+INTERR+PRES+HAB: kujáng
+     kus+V+PRES+HAB: kujánggang
+     kus+V+PRES+HAB+NONFACT: kujángang
+     kus+V+DIR+PAST+HAB: kujíinii
+     kus+V+INTERR+PAST+HAB: kujáangaa
+     kus+V+INDIR+PAST+HAB: kujáangaan
+     kus+V+INTERR+NEAR+FUT: kujáng k̲asa'áa
+     kus+V+NEAR+FUT: kujáng k̲asa'áang
+     kus+V+INTERR+VNEAR+FUT: kujáng k̲asaasdláa
+     kus+V+VNEAR+FUT: kujáng k̲asaasdláang
+     kus+V+CERT+PRES: kuj'ahlánggang
+     kus+V+CERT+PAST: kuj'ahlánggan
+     kus+V+CERT+PAST+HAB: kuj'ahlánggiinii
+     kus+V+CERT+REL: kuj'ahláns
+     kus+V+RFLX: kuj'ahl
+     kus+V+3PL+INTERR+PRES+HAB: kujáng'waa
+     kus+V+3PL+PRES+HAB: kujáng'waang
+     kus+V+3PL+PRES+HAB+NONFACT: kujáng'waa.ang
+     kus+V+NEG+PRES+HAB: kujáng'anggang
+     kus+V+NEG+PRES+HAB+NONFACT: kujáng'angang
+     kus+V+NEG+INTERR+NEAR+FUT: kujáng k̲asaa'áng
+     kus+V+NEG+NEAR+FUT: kujáng k̲asaa'ánggang
+     kus+V+NEG+INTERR+VNEAR+FUT: kujáng k̲asaasdlä'áng
+     kus+V+NEG+VNEAR+FUT: kujáng k̲asaasdlä'ánggang
+     kus+V+NEG+3PL+INTERR+PRES+HAB: kujáng'ang'waa
+     kus+V+NEG+3PL+PRES+HAB: kujáng'ang'waang
+     kus+V+NEG+3PL+PRES+HAB+NONFACT: kujáng'ang'waa.ang
 

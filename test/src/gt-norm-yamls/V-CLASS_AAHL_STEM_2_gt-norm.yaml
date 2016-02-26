@@ -11,28 +11,28 @@ Tests:
 
   Verb - skyáahl - ENGLISH : # CLASS_AAHL_STEM_2
 
-     skyáahl+V+IMMEDIATE+PRESENT: skyáalga
-     skyáahl+V+SIMPLE+PRESENT: skyáalgang
-     skyáahl+V+DIRECT+PAST: skyáalgan
-     skyáahl+V+INTERROGATIVE+PAST: skyáalaa
-     skyáahl+V+INDIRECT+PAST: skyáalaan
-     skyáahl+V+RELATIVE+EVIDENTIAL: skyáalaas
-     skyáahl+V+PAST+NON_FACTIVE: skyáalaa.ang
-     skyáahl+V+INTERROGATIVE+PRESENT+HABITUAL: skyáalgang
-     skyáahl+V+PRESENT+HABITUAL: skyáalganggang
-     skyáahl+V+PRESENT+HABITUAL+NON_FACTIVE: skyáalgangang
-     skyáahl+V+DIRECT+PAST+HABITUAL: skyáalgiinii
-     skyáahl+V+INTERROGATIVE+PAST+HABITUAL: skyáalgaangaa
-     skyáahl+V+INDIRECT+PAST+HABITUAL: skyáalgaangaan
-     skyáahl+V+INTENSIVE+PAST: skyáalaa'ahlang
-     skyáahl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: skyáalaa'ahlanggaa
-     skyáahl+V+COUNTERFACTUAL+PRESENT: skyáalaa'ahlanggang
-     skyáahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: skyáalgang'waa
-     skyáahl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: skyáalgang'waang
-     skyáahl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: skyáalgang'waa.ang
-     skyáahl+V+NEGATIVE+PRESENT+HABITUAL: skyáalgang'anggang
-     skyáahl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: skyáalgang'angang
-     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: skyáalgang'ang'waa
-     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: skyáalgang'ang'waang
-     skyáahl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: skyáalgang'ang'waa.ang
+     skyáahl+V+IMM+PRES: skyáalga
+     skyáahl+V+SIMP+PRES: skyáalgang
+     skyáahl+V+DIR+PAST: skyáalgan
+     skyáahl+V+INTERR+PAST: skyáalaa
+     skyáahl+V+INDIR+PAST: skyáalaan
+     skyáahl+V+REL+EVID: skyáalaas
+     skyáahl+V+PAST+NONFACT: skyáalaa.ang
+     skyáahl+V+INTERR+PRES+HAB: skyáalgang
+     skyáahl+V+PRES+HAB: skyáalganggang
+     skyáahl+V+PRES+HAB+NONFACT: skyáalgangang
+     skyáahl+V+DIR+PAST+HAB: skyáalgiinii
+     skyáahl+V+INTERR+PAST+HAB: skyáalgaangaa
+     skyáahl+V+INDIR+PAST+HAB: skyáalgaangaan
+     skyáahl+V+INTS+PAST: skyáalaa'ahlang
+     skyáahl+V+CONT: skyáalaa'ahlanggaa
+     skyáahl+V+CTFACT+PRES: skyáalaa'ahlanggang
+     skyáahl+V+3PL+INTERR+PRES+HAB: skyáalgang'waa
+     skyáahl+V+3PL+PRES+HAB: skyáalgang'waang
+     skyáahl+V+3PL+PRES+HAB+NONFACT: skyáalgang'waa.ang
+     skyáahl+V+NEG+PRES+HAB: skyáalgang'anggang
+     skyáahl+V+NEG+PRES+HAB+NONFACT: skyáalgang'angang
+     skyáahl+V+NEG+3PL+INTERR+PRES+HAB: skyáalgang'ang'waa
+     skyáahl+V+NEG+3PL+PRES+HAB: skyáalgang'ang'waang
+     skyáahl+V+NEG+3PL+PRES+HAB+NONFACT: skyáalgang'ang'waa.ang
 

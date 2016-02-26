@@ -11,168 +11,168 @@ Tests:
 
   Verb - g̲íihlgii - ENGLISH : # CLASS_II_STEM_1
 
-     g̲íihlgii+V+SINGULAR+IMPERATIVE: g̲íihlgii
-     g̲íihlgii+V+IMMEDIATE+PRESENT: g̲íihlgiiga
-     g̲íihlgii+V+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii
-     g̲íihlgii+V+SIMPLE+PRESENT: g̲íihlgiigang
-     g̲íihlgii+V+DIRECT+PAST: g̲íihlgiigan
-     g̲íihlgii+V+RELATIVE: g̲íihlgiis
-     g̲íihlgii+V+NON_FACTIVE: g̲íihlgiiang
-     g̲íihlgii+V+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgiigang
-     g̲íihlgii+V+PRESENT+HABITUAL: g̲íihlgiiganggang
-     g̲íihlgii+V+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigangang
-     g̲íihlgii+V+DIRECT+PAST+HABITUAL: g̲íihlgiigiinii
-     g̲íihlgii+V+INTERROGATIVE+PAST+HABITUAL: g̲íihlgiigaangaa
-     g̲íihlgii+V+INDIRECT+PAST+HABITUAL: g̲íihlgiigaangaan
-     g̲íihlgii+V+INTERROGATIVE+FUTURE+LONG: g̲íihlgiiäsaa
-     g̲íihlgii+V+INTERROGATIVE+FUTURE+SHORT: g̲íihlgiiäs
-     g̲íihlgii+V+SIMPLE+FUTURE: g̲íihlgiiäsaang
-     g̲íihlgii+V+IMMEDIATE+FUTURE: g̲íihlgiiäsga
-     g̲íihlgii+V+RELATIVE+FUTURE: g̲íihlgiiäsaas
-     g̲íihlgii+V+FUTURE+NON_FACTIVE: g̲íihlgiiäsaa.ang
-     g̲íihlgii+V+INTERROGATIVE+NEAR+FUTURE: g̲íihlgiiang k̲asa'áa
-     g̲íihlgii+V+NEAR+FUTURE: g̲íihlgiiang k̲asa'áang
-     g̲íihlgii+V+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdláa
-     g̲íihlgii+V+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdláang
-     g̲íihlgii+V+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'uuj
-     g̲íihlgii+V+BIASED+SIMPLE+PRESENT: g̲íihlgii'uujang
-     g̲íihlgii+V+RESIGNED_OBLIGATION: g̲íihlgiiäsaa'uujang
-     g̲íihlgii+V+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'us
-     g̲íihlgii+V+BIASED+INTERROGATIVE+PAST: g̲íihlgii'ujaa
-     g̲íihlgii+V+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'uujaangaa
-     g̲íihlgii+V+BIASED+INTERROGATIVE+FUTURE: g̲íihlgiiäsaa'us
-     g̲íihlgii+V+CERTAIN+FUTURE: g̲íihlgiiäsaa'ahlans
-     g̲íihlgii+V+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgiiäseehl
-     g̲íihlgii+V+PLURAL+IMPERATIVE: g̲íihlgii'uu
-     g̲íihlgii+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: g̲íihlgii'waa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii'waa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: g̲íihlgii'waang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+DIRECT+PAST: g̲íihlgii'wägan
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: g̲íihlgii'aawaa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INDIRECT+PAST: g̲íihlgii'aawaan
-     g̲íihlgii+V+3rd_PERSON_PLURAL+RELATIVE: g̲íihlgii'waas
-     g̲íihlgii+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: g̲íihlgii'aawaas
-     g̲íihlgii+V+3rd_PERSON_PLURAL+NON_FACTIVE: g̲íihlgii'waa.ang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: g̲íihlgii'aawaa.ang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgiigang'waa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: g̲íihlgiigang'waang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigang'waa.ang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: g̲íihlgii'wägiinii
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'wägaangaa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: g̲íihlgii'wägaangaan
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: g̲íihlgii'waaäsaa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: g̲íihlgii'waaäs
-     g̲íihlgii+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: g̲íihlgii'waaäsaang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: g̲íihlgii'waaäsga
-     g̲íihlgii+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: g̲íihlgii'waaäsaas
-     g̲íihlgii+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: g̲íihlgii'waaäsaa.ang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asa'áa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asa'áang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdláa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdláang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'waa'uuj
-     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: g̲íihlgii'waa'uujang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: g̲íihlgii'waaäsaa'uujang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'waa'us
-     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: g̲íihlgii'waa'ujaa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'waa'uujaangaa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: g̲íihlgii'waaäsaa'us
-     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: g̲íihlgii'waa'ahlanggang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PAST: g̲íihlgii'waa'ahlanggan
-     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: g̲íihlgii'waa'ahlanggiinii
-     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: g̲íihlgii'waaäsaa'ahlans
-     g̲íihlgii+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: g̲íihlgii'waa'ahlans
-     g̲íihlgii+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: g̲íihlgii'aawaa'ahlang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgii'aawaa'ahlanggaa
-     g̲íihlgii+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: g̲íihlgii'aawaa'ahlanggang
-     g̲íihlgii+V+3rd_PERSON_PLURAL+REFLEXIVE: g̲íihlgii'waa'ahl
-     g̲íihlgii+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgii'waaäseehl
-     g̲íihlgii+V+NEGATIVE+SINGULAR+IMPERATIVE: g̲íihlgii'ang
-     g̲íihlgii+V+NEGATIVE+IMMEDIATE+PRESENT: g̲íihlgii'angga
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii'ang
-     g̲íihlgii+V+NEGATIVE+SIMPLE+PRESENT: g̲íihlgii'anggang
-     g̲íihlgii+V+NEGATIVE+DIRECT+PAST: g̲íihlgii'anggan
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+PAST: g̲íihlgii'aangaa
-     g̲íihlgii+V+NEGATIVE+INDIRECT+PAST: g̲íihlgii'aangaan
-     g̲íihlgii+V+NEGATIVE+RELATIVE: g̲íihlgii'ans
-     g̲íihlgii+V+NEGATIVE+RELATIVE+EVIDENTIAL: g̲íihlgii'aangaas
-     g̲íihlgii+V+NEGATIVE+NON_FACTIVE: g̲íihlgii'angang
-     g̲íihlgii+V+NEGATIVE+PAST+NON_FACTIVE: g̲íihlgii'aangaa.ang
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgii'anggang
-     g̲íihlgii+V+NEGATIVE+PRESENT+HABITUAL: g̲íihlgiigang'anggang
-     g̲íihlgii+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigang'angang
-     g̲íihlgii+V+NEGATIVE+DIRECT+PAST+HABITUAL: g̲íihlgii'anggiinii
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'anggaangaa
-     g̲íihlgii+V+NEGATIVE+INDIRECT+PAST+HABITUAL: g̲íihlgii'anggaangaan
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: g̲íihlgii'angäsaa
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: g̲íihlgii'angäs
-     g̲íihlgii+V+NEGATIVE+SIMPLE+FUTURE: g̲íihlgii'angäsaang
-     g̲íihlgii+V+NEGATIVE+IMMEDIATE+FUTURE: g̲íihlgii'angäsga
-     g̲íihlgii+V+NEGATIVE+RELATIVE+FUTURE: g̲íihlgii'angäsaas
-     g̲íihlgii+V+NEGATIVE+FUTURE+NON_FACTIVE: g̲íihlgii'angäsaa.ang
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: g̲íihlgiiang k̲asaa'áng
-     g̲íihlgii+V+NEGATIVE+NEAR+FUTURE: g̲íihlgiiang k̲asaa'ánggang
-     g̲íihlgii+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdlä'áng
-     g̲íihlgii+V+NEGATIVE+VERYNEAR+FUTURE: g̲íihlgiiang k̲asaasdlä'ánggang
-     g̲íihlgii+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'ang'uuj
-     g̲íihlgii+V+NEGATIVE+BIASED+SIMPLE+PRESENT: g̲íihlgii'ang'uujang
-     g̲íihlgii+V+NEGATIVE+RESIGNED_OBLIGATION: g̲íihlgii'angäsaa'uujang
-     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'ang'us
-     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: g̲íihlgii'ang'ujaa
-     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'ang'uujaangaa
-     g̲íihlgii+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: g̲íihlgii'angäsaa'us
-     g̲íihlgii+V+NEGATIVE+CERTAIN+PRESENT: g̲íihlgii'aang'ahlanggang
-     g̲íihlgii+V+NEGATIVE+CERTAIN+PAST: g̲íihlgii'aang'ahlanggan
-     g̲íihlgii+V+NEGATIVE+CERTAIN+PAST+HABITUAL: g̲íihlgii'aang'ahlanggiinii
-     g̲íihlgii+V+NEGATIVE+CERTAIN+FUTURE: g̲íihlgii'angäsaa'ahlans
-     g̲íihlgii+V+NEGATIVE+CERTAIN+RELATIVE: g̲íihlgii'aang'ahlans
-     g̲íihlgii+V+NEGATIVE+INTENSIVE+PAST: g̲íihlgii'aangaa'ahlang
-     g̲íihlgii+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgii'aangaa'ahlanggaa
-     g̲íihlgii+V+NEGATIVE+COUNTERFACTUAL+PRESENT: g̲íihlgii'aangaa'ahlanggang
-     g̲íihlgii+V+NEGATIVE+REFLEXIVE: g̲íihlgii'aang'ahl
-     g̲íihlgii+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgii'angäseehl
-     g̲íihlgii+V+NEGATIVE+PLURAL+IMPERATIVE: g̲íihlgii'ang'uu
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: g̲íihlgii'ang'waa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: g̲íihlgii'ang'waa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: g̲íihlgii'ang'waang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: g̲íihlgii'ang'wägan
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: g̲íihlgii'ang'aawaa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: g̲íihlgii'ang'aawaan
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: g̲íihlgii'ang'waas
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: g̲íihlgii'ang'aawaas
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: g̲íihlgii'ang'waa.ang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: g̲íihlgii'ang'aawaa.ang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: g̲íihlgiigang'ang'waa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: g̲íihlgiigang'ang'waang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: g̲íihlgiigang'ang'waa.ang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: g̲íihlgii'ang'wägiinii
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'ang'wägaangaa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: g̲íihlgii'ang'wägaangaan
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: g̲íihlgii'ang'waaäsaa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: g̲íihlgii'ang'waaäs
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: g̲íihlgii'ang'waaäsaang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: g̲íihlgii'ang'waaäsga
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: g̲íihlgii'ang'waaäsaas
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: g̲íihlgii'ang'waaäsaa.ang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asaa'áng
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: g̲íihlgii'waa.ang k̲asaa'ánggang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdlä'áng
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: g̲íihlgii'waa.ang k̲asaasdlä'ánggang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: g̲íihlgii'ang'waa'uuj
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: g̲íihlgii'ang'waa'uujang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: g̲íihlgii'ang'waaäsaa'uujang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: g̲íihlgii'ang'waa'us
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: g̲íihlgii'ang'waa'ujaa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: g̲íihlgii'ang'waa'uujaangaa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: g̲íihlgii'ang'waaäsaa'us
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: g̲íihlgii'ang'waa'ahlanggang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: g̲íihlgii'ang'waa'ahlanggan
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: g̲íihlgii'ang'waa'ahlanggiinii
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: g̲íihlgii'ang'waaäsaa'ahlans
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: g̲íihlgii'ang'waa'ahlans
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: g̲íihlgii'ang'aawaa'ahlang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgii'ang'aawaa'ahlanggaa
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: g̲íihlgii'ang'aawaa'ahlanggang
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: g̲íihlgii'ang'waa'ahl
-     g̲íihlgii+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: g̲íihlgii'ang'waaäseehl
+     g̲íihlgii+V+SG+IMPV: g̲íihlgii
+     g̲íihlgii+V+IMM+PRES: g̲íihlgiiga
+     g̲íihlgii+V+INTERR+SIMP+PRES: g̲íihlgii
+     g̲íihlgii+V+SIMP+PRES: g̲íihlgiigang
+     g̲íihlgii+V+DIR+PAST: g̲íihlgiigan
+     g̲íihlgii+V+REL: g̲íihlgiis
+     g̲íihlgii+V+NONFACT: g̲íihlgiiang
+     g̲íihlgii+V+INTERR+PRES+HAB: g̲íihlgiigang
+     g̲íihlgii+V+PRES+HAB: g̲íihlgiiganggang
+     g̲íihlgii+V+PRES+HAB+NONFACT: g̲íihlgiigangang
+     g̲íihlgii+V+DIR+PAST+HAB: g̲íihlgiigiinii
+     g̲íihlgii+V+INTERR+PAST+HAB: g̲íihlgiigaangaa
+     g̲íihlgii+V+INDIR+PAST+HAB: g̲íihlgiigaangaan
+     g̲íihlgii+V+INTERR+FUT+LONG: g̲íihlgiiäsaa
+     g̲íihlgii+V+INTERR+FUT+SHORT: g̲íihlgiiäs
+     g̲íihlgii+V+SIMP+FUT: g̲íihlgiiäsaang
+     g̲íihlgii+V+IMM+FUT: g̲íihlgiiäsga
+     g̲íihlgii+V+REL+FUT: g̲íihlgiiäsaas
+     g̲íihlgii+V+FUT+NONFACT: g̲íihlgiiäsaa.ang
+     g̲íihlgii+V+INTERR+NEAR+FUT: g̲íihlgiiang k̲asa'áa
+     g̲íihlgii+V+NEAR+FUT: g̲íihlgiiang k̲asa'áang
+     g̲íihlgii+V+INTERR+VNEAR+FUT: g̲íihlgiiang k̲asaasdláa
+     g̲íihlgii+V+VNEAR+FUT: g̲íihlgiiang k̲asaasdláang
+     g̲íihlgii+V+BIAS+IMM+PRES: g̲íihlgii'uuj
+     g̲íihlgii+V+BIAS+SIMP+PRES: g̲íihlgii'uujang
+     g̲íihlgii+V+RES: g̲íihlgiiäsaa'uujang
+     g̲íihlgii+V+BIAS+INTERR+PRES: g̲íihlgii'us
+     g̲íihlgii+V+BIAS+INTERR+PAST: g̲íihlgii'ujaa
+     g̲íihlgii+V+BIAS+INTERR+PAST+HAB: g̲íihlgii'uujaangaa
+     g̲íihlgii+V+BIAS+INTERR+FUT: g̲íihlgiiäsaa'us
+     g̲íihlgii+V+CERT+FUT: g̲íihlgiiäsaa'ahlans
+     g̲íihlgii+V+FUT+RFLX+INTERR: g̲íihlgiiäseehl
+     g̲íihlgii+V+PL+IMPV: g̲íihlgii'uu
+     g̲íihlgii+V+3PL+IMM+PRES: g̲íihlgii'waa
+     g̲íihlgii+V+3PL+INTERR+SIMP+PRES: g̲íihlgii'waa
+     g̲íihlgii+V+3PL+SIMP+PRES: g̲íihlgii'waang
+     g̲íihlgii+V+3PL+DIR+PAST: g̲íihlgii'wägan
+     g̲íihlgii+V+3PL+INTERR+PAST: g̲íihlgii'aawaa
+     g̲íihlgii+V+3PL+INDIR+PAST: g̲íihlgii'aawaan
+     g̲íihlgii+V+3PL+REL: g̲íihlgii'waas
+     g̲íihlgii+V+3PL+REL+EVID: g̲íihlgii'aawaas
+     g̲íihlgii+V+3PL+NONFACT: g̲íihlgii'waa.ang
+     g̲íihlgii+V+3PL+PAST+NONFACT: g̲íihlgii'aawaa.ang
+     g̲íihlgii+V+3PL+INTERR+PRES+HAB: g̲íihlgiigang'waa
+     g̲íihlgii+V+3PL+PRES+HAB: g̲íihlgiigang'waang
+     g̲íihlgii+V+3PL+PRES+HAB+NONFACT: g̲íihlgiigang'waa.ang
+     g̲íihlgii+V+3PL+DIR+PAST+HAB: g̲íihlgii'wägiinii
+     g̲íihlgii+V+3PL+INTERR+PAST+HAB: g̲íihlgii'wägaangaa
+     g̲íihlgii+V+3PL+INDIR+PAST+HAB: g̲íihlgii'wägaangaan
+     g̲íihlgii+V+3PL+INTERR+FUT+LONG: g̲íihlgii'waaäsaa
+     g̲íihlgii+V+3PL+INTERR+FUT+SHORT: g̲íihlgii'waaäs
+     g̲íihlgii+V+3PL+SIMP+FUT: g̲íihlgii'waaäsaang
+     g̲íihlgii+V+3PL+IMM+FUT: g̲íihlgii'waaäsga
+     g̲íihlgii+V+3PL+REL+FUT: g̲íihlgii'waaäsaas
+     g̲íihlgii+V+3PL+FUT+NONFACT: g̲íihlgii'waaäsaa.ang
+     g̲íihlgii+V+3PL+INTERR+NEAR+FUT: g̲íihlgii'waa.ang k̲asa'áa
+     g̲íihlgii+V+3PL+NEAR+FUT: g̲íihlgii'waa.ang k̲asa'áang
+     g̲íihlgii+V+3PL+INTERR+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdláa
+     g̲íihlgii+V+3PL+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdláang
+     g̲íihlgii+V+3PL+BIAS+IMM+PRES: g̲íihlgii'waa'uuj
+     g̲íihlgii+V+3PL+BIAS+SIMP+PRES: g̲íihlgii'waa'uujang
+     g̲íihlgii+V+3PL+RES: g̲íihlgii'waaäsaa'uujang
+     g̲íihlgii+V+3PL+BIAS+INTERR+PRES: g̲íihlgii'waa'us
+     g̲íihlgii+V+3PL+BIAS+INTERR+PAST: g̲íihlgii'waa'ujaa
+     g̲íihlgii+V+3PL+BIAS+INTERR+PAST+HAB: g̲íihlgii'waa'uujaangaa
+     g̲íihlgii+V+3PL+BIAS+INTERR+FUT: g̲íihlgii'waaäsaa'us
+     g̲íihlgii+V+3PL+CERT+PRES: g̲íihlgii'waa'ahlanggang
+     g̲íihlgii+V+3PL+CERT+PAST: g̲íihlgii'waa'ahlanggan
+     g̲íihlgii+V+3PL+CERT+PAST+HAB: g̲íihlgii'waa'ahlanggiinii
+     g̲íihlgii+V+3PL+CERT+FUT: g̲íihlgii'waaäsaa'ahlans
+     g̲íihlgii+V+3PL+CERT+REL: g̲íihlgii'waa'ahlans
+     g̲íihlgii+V+3PL+INTS+PAST: g̲íihlgii'aawaa'ahlang
+     g̲íihlgii+V+3PL+CONT: g̲íihlgii'aawaa'ahlanggaa
+     g̲íihlgii+V+3PL+CTFACT+PRES: g̲íihlgii'aawaa'ahlanggang
+     g̲íihlgii+V+3PL+RFLX: g̲íihlgii'waa'ahl
+     g̲íihlgii+V+3PL+FUT+RFLX+INTERR: g̲íihlgii'waaäseehl
+     g̲íihlgii+V+NEG+SG+IMPV: g̲íihlgii'ang
+     g̲íihlgii+V+NEG+IMM+PRES: g̲íihlgii'angga
+     g̲íihlgii+V+NEG+INTERR+SIMP+PRES: g̲íihlgii'ang
+     g̲íihlgii+V+NEG+SIMP+PRES: g̲íihlgii'anggang
+     g̲íihlgii+V+NEG+DIR+PAST: g̲íihlgii'anggan
+     g̲íihlgii+V+NEG+INTERR+PAST: g̲íihlgii'aangaa
+     g̲íihlgii+V+NEG+INDIR+PAST: g̲íihlgii'aangaan
+     g̲íihlgii+V+NEG+REL: g̲íihlgii'ans
+     g̲íihlgii+V+NEG+REL+EVID: g̲íihlgii'aangaas
+     g̲íihlgii+V+NEG+NONFACT: g̲íihlgii'angang
+     g̲íihlgii+V+NEG+PAST+NONFACT: g̲íihlgii'aangaa.ang
+     g̲íihlgii+V+NEG+INTERR+PRES+HAB: g̲íihlgii'anggang
+     g̲íihlgii+V+NEG+PRES+HAB: g̲íihlgiigang'anggang
+     g̲íihlgii+V+NEG+PRES+HAB+NONFACT: g̲íihlgiigang'angang
+     g̲íihlgii+V+NEG+DIR+PAST+HAB: g̲íihlgii'anggiinii
+     g̲íihlgii+V+NEG+INTERR+PAST+HAB: g̲íihlgii'anggaangaa
+     g̲íihlgii+V+NEG+INDIR+PAST+HAB: g̲íihlgii'anggaangaan
+     g̲íihlgii+V+NEG+INTERR+FUT+LONG: g̲íihlgii'angäsaa
+     g̲íihlgii+V+NEG+INTERR+FUT+SHORT: g̲íihlgii'angäs
+     g̲íihlgii+V+NEG+SIMP+FUT: g̲íihlgii'angäsaang
+     g̲íihlgii+V+NEG+IMM+FUT: g̲íihlgii'angäsga
+     g̲íihlgii+V+NEG+REL+FUT: g̲íihlgii'angäsaas
+     g̲íihlgii+V+NEG+FUT+NONFACT: g̲íihlgii'angäsaa.ang
+     g̲íihlgii+V+NEG+INTERR+NEAR+FUT: g̲íihlgiiang k̲asaa'áng
+     g̲íihlgii+V+NEG+NEAR+FUT: g̲íihlgiiang k̲asaa'ánggang
+     g̲íihlgii+V+NEG+INTERR+VNEAR+FUT: g̲íihlgiiang k̲asaasdlä'áng
+     g̲íihlgii+V+NEG+VNEAR+FUT: g̲íihlgiiang k̲asaasdlä'ánggang
+     g̲íihlgii+V+NEG+BIAS+IMM+PRES: g̲íihlgii'ang'uuj
+     g̲íihlgii+V+NEG+BIAS+SIMP+PRES: g̲íihlgii'ang'uujang
+     g̲íihlgii+V+NEG+RES: g̲íihlgii'angäsaa'uujang
+     g̲íihlgii+V+NEG+BIAS+INTERR+PRES: g̲íihlgii'ang'us
+     g̲íihlgii+V+NEG+BIAS+INTERR+PAST: g̲íihlgii'ang'ujaa
+     g̲íihlgii+V+NEG+BIAS+INTERR+PAST+HAB: g̲íihlgii'ang'uujaangaa
+     g̲íihlgii+V+NEG+BIAS+INTERR+FUT: g̲íihlgii'angäsaa'us
+     g̲íihlgii+V+NEG+CERT+PRES: g̲íihlgii'aang'ahlanggang
+     g̲íihlgii+V+NEG+CERT+PAST: g̲íihlgii'aang'ahlanggan
+     g̲íihlgii+V+NEG+CERT+PAST+HAB: g̲íihlgii'aang'ahlanggiinii
+     g̲íihlgii+V+NEG+CERT+FUT: g̲íihlgii'angäsaa'ahlans
+     g̲íihlgii+V+NEG+CERT+REL: g̲íihlgii'aang'ahlans
+     g̲íihlgii+V+NEG+INTS+PAST: g̲íihlgii'aangaa'ahlang
+     g̲íihlgii+V+NEG+CONT: g̲íihlgii'aangaa'ahlanggaa
+     g̲íihlgii+V+NEG+CTFACT+PRES: g̲íihlgii'aangaa'ahlanggang
+     g̲íihlgii+V+NEG+RFLX: g̲íihlgii'aang'ahl
+     g̲íihlgii+V+NEG+FUT+RFLX+INTERR: g̲íihlgii'angäseehl
+     g̲íihlgii+V+NEG+PL+IMPV: g̲íihlgii'ang'uu
+     g̲íihlgii+V+NEG+3PL+IMM+PRES: g̲íihlgii'ang'waa
+     g̲íihlgii+V+NEG+3PL+INTERR+SIMP+PRES: g̲íihlgii'ang'waa
+     g̲íihlgii+V+NEG+3PL+SIMP+PRES: g̲íihlgii'ang'waang
+     g̲íihlgii+V+NEG+3PL+DIR+PAST: g̲íihlgii'ang'wägan
+     g̲íihlgii+V+NEG+3PL+INTERR+PAST: g̲íihlgii'ang'aawaa
+     g̲íihlgii+V+NEG+3PL+INDIR+PAST: g̲íihlgii'ang'aawaan
+     g̲íihlgii+V+NEG+3PL+REL: g̲íihlgii'ang'waas
+     g̲íihlgii+V+NEG+3PL+REL+EVID: g̲íihlgii'ang'aawaas
+     g̲íihlgii+V+NEG+3PL+NONFACT: g̲íihlgii'ang'waa.ang
+     g̲íihlgii+V+NEG+3PL+PAST+NONFACT: g̲íihlgii'ang'aawaa.ang
+     g̲íihlgii+V+NEG+3PL+INTERR+PRES+HAB: g̲íihlgiigang'ang'waa
+     g̲íihlgii+V+NEG+3PL+PRES+HAB: g̲íihlgiigang'ang'waang
+     g̲íihlgii+V+NEG+3PL+PRES+HAB+NONFACT: g̲íihlgiigang'ang'waa.ang
+     g̲íihlgii+V+NEG+3PL+DIR+PAST+HAB: g̲íihlgii'ang'wägiinii
+     g̲íihlgii+V+NEG+3PL+INTERR+PAST+HAB: g̲íihlgii'ang'wägaangaa
+     g̲íihlgii+V+NEG+3PL+INDIR+PAST+HAB: g̲íihlgii'ang'wägaangaan
+     g̲íihlgii+V+NEG+3PL+INTERR+FUT+LONG: g̲íihlgii'ang'waaäsaa
+     g̲íihlgii+V+NEG+3PL+INTERR+FUT+SHORT: g̲íihlgii'ang'waaäs
+     g̲íihlgii+V+NEG+3PL+SIMP+FUT: g̲íihlgii'ang'waaäsaang
+     g̲íihlgii+V+NEG+3PL+IMM+FUT: g̲íihlgii'ang'waaäsga
+     g̲íihlgii+V+NEG+3PL+REL+FUT: g̲íihlgii'ang'waaäsaas
+     g̲íihlgii+V+NEG+3PL+FUT+NONFACT: g̲íihlgii'ang'waaäsaa.ang
+     g̲íihlgii+V+NEG+3PL+INTERR+NEAR+FUT: g̲íihlgii'waa.ang k̲asaa'áng
+     g̲íihlgii+V+NEG+3PL+NEAR+FUT: g̲íihlgii'waa.ang k̲asaa'ánggang
+     g̲íihlgii+V+NEG+3PL+INTERR+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdlä'áng
+     g̲íihlgii+V+NEG+3PL+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdlä'ánggang
+     g̲íihlgii+V+NEG+3PL+BIAS+IMM+PRES: g̲íihlgii'ang'waa'uuj
+     g̲íihlgii+V+NEG+3PL+BIAS+SIMP+PRES: g̲íihlgii'ang'waa'uujang
+     g̲íihlgii+V+NEG+3PL+RES: g̲íihlgii'ang'waaäsaa'uujang
+     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+PRES: g̲íihlgii'ang'waa'us
+     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+PAST: g̲íihlgii'ang'waa'ujaa
+     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+PAST+HAB: g̲íihlgii'ang'waa'uujaangaa
+     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+FUT: g̲íihlgii'ang'waaäsaa'us
+     g̲íihlgii+V+NEG+3PL+CERT+PRES: g̲íihlgii'ang'waa'ahlanggang
+     g̲íihlgii+V+NEG+3PL+CERT+PAST: g̲íihlgii'ang'waa'ahlanggan
+     g̲íihlgii+V+NEG+3PL+CERT+PAST+HAB: g̲íihlgii'ang'waa'ahlanggiinii
+     g̲íihlgii+V+NEG+3PL+CERT+FUT: g̲íihlgii'ang'waaäsaa'ahlans
+     g̲íihlgii+V+NEG+3PL+CERT+REL: g̲íihlgii'ang'waa'ahlans
+     g̲íihlgii+V+NEG+3PL+INTS+PAST: g̲íihlgii'ang'aawaa'ahlang
+     g̲íihlgii+V+NEG+3PL+CONT: g̲íihlgii'ang'aawaa'ahlanggaa
+     g̲íihlgii+V+NEG+3PL+CTFACT+PRES: g̲íihlgii'ang'aawaa'ahlanggang
+     g̲íihlgii+V+NEG+3PL+RFLX: g̲íihlgii'ang'waa'ahl
+     g̲íihlgii+V+NEG+3PL+FUT+RFLX+INTERR: g̲íihlgii'ang'waaäseehl
 

@@ -11,22 +11,22 @@ Tests:
 
   Verb - k'ajúu - ENGLISH : # CLASS_UU_STEM_2
 
-     k'ajúu+V+INTERROGATIVE+PAST: k'ajáawaa
-     k'ajúu+V+INDIRECT+PAST: k'ajáawaan
-     k'ajúu+V+RELATIVE+EVIDENTIAL: k'ajáawaas
-     k'ajúu+V+NON_FACTIVE: k'ajáawang
-     k'ajúu+V+PAST+NON_FACTIVE: k'ajáawaa.ang
-     k'ajúu+V+INTERROGATIVE+NEAR+FUTURE: k'ajáawang k̲asa'áa
-     k'ajúu+V+NEAR+FUTURE: k'ajáawang k̲asa'áang
-     k'ajúu+V+INTERROGATIVE+VERYNEAR+FUTURE: k'ajáawang k̲asaasdláa
-     k'ajúu+V+VERYNEAR+FUTURE: k'ajáawang k̲asaasdláang
-     k'ajúu+V+CERTAIN+RELATIVE: k'ajáaw'ahlans
-     k'ajúu+V+INTENSIVE+PAST: k'ajáawaa'ahlang
-     k'ajúu+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k'ajáawaa'ahlanggaa
-     k'ajúu+V+COUNTERFACTUAL+PRESENT: k'ajáawaa'ahlanggang
-     k'ajúu+V+REFLEXIVE: k'ajáaw'ahl
-     k'ajúu+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k'ajáawang k̲asaa'áng
-     k'ajúu+V+NEGATIVE+NEAR+FUTURE: k'ajáawang k̲asaa'ánggang
-     k'ajúu+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k'ajáawang k̲asaasdlä'áng
-     k'ajúu+V+NEGATIVE+VERYNEAR+FUTURE: k'ajáawang k̲asaasdlä'ánggang
+     k'ajúu+V+INTERR+PAST: k'ajáawaa
+     k'ajúu+V+INDIR+PAST: k'ajáawaan
+     k'ajúu+V+REL+EVID: k'ajáawaas
+     k'ajúu+V+NONFACT: k'ajáawang
+     k'ajúu+V+PAST+NONFACT: k'ajáawaa.ang
+     k'ajúu+V+INTERR+NEAR+FUT: k'ajáawang k̲asa'áa
+     k'ajúu+V+NEAR+FUT: k'ajáawang k̲asa'áang
+     k'ajúu+V+INTERR+VNEAR+FUT: k'ajáawang k̲asaasdláa
+     k'ajúu+V+VNEAR+FUT: k'ajáawang k̲asaasdláang
+     k'ajúu+V+CERT+REL: k'ajáaw'ahlans
+     k'ajúu+V+INTS+PAST: k'ajáawaa'ahlang
+     k'ajúu+V+CONT: k'ajáawaa'ahlanggaa
+     k'ajúu+V+CTFACT+PRES: k'ajáawaa'ahlanggang
+     k'ajúu+V+RFLX: k'ajáaw'ahl
+     k'ajúu+V+NEG+INTERR+NEAR+FUT: k'ajáawang k̲asaa'áng
+     k'ajúu+V+NEG+NEAR+FUT: k'ajáawang k̲asaa'ánggang
+     k'ajúu+V+NEG+INTERR+VNEAR+FUT: k'ajáawang k̲asaasdlä'áng
+     k'ajúu+V+NEG+VNEAR+FUT: k'ajáawang k̲asaasdlä'ánggang
 

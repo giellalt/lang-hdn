@@ -11,16 +11,16 @@ Tests:
 
   Verb - k̲'usägúng - ENGLISH : # CLASS_UNG_STEM_2
 
-     k̲'usägúng+V+INTERROGATIVE+PAST: k̲'usägwáangaa
-     k̲'usägúng+V+INDIRECT+PAST: k̲'usägwáangaan
-     k̲'usägúng+V+RELATIVE+EVIDENTIAL: k̲'usägwáangaas
-     k̲'usägúng+V+PAST+NON_FACTIVE: k̲'usägwáangaa.ang
-     k̲'usägúng+V+CERTAIN+PRESENT: k̲'usägwáang'ahlanggang
-     k̲'usägúng+V+CERTAIN+PAST: k̲'usägwáang'ahlanggan
-     k̲'usägúng+V+CERTAIN+PAST+HABITUAL: k̲'usägwáang'ahlanggiinii
-     k̲'usägúng+V+CERTAIN+RELATIVE: k̲'usägwáang'ahlans
-     k̲'usägúng+V+INTENSIVE+PAST: k̲'usägwáangaa'ahlang
-     k̲'usägúng+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: k̲'usägwáangaa'ahlanggaa
-     k̲'usägúng+V+COUNTERFACTUAL+PRESENT: k̲'usägwáangaa'ahlanggang
-     k̲'usägúng+V+REFLEXIVE: k̲'usägwáang'ahl
+     k̲'usägúng+V+INTERR+PAST: k̲'usägwáangaa
+     k̲'usägúng+V+INDIR+PAST: k̲'usägwáangaan
+     k̲'usägúng+V+REL+EVID: k̲'usägwáangaas
+     k̲'usägúng+V+PAST+NONFACT: k̲'usägwáangaa.ang
+     k̲'usägúng+V+CERT+PRES: k̲'usägwáang'ahlanggang
+     k̲'usägúng+V+CERT+PAST: k̲'usägwáang'ahlanggan
+     k̲'usägúng+V+CERT+PAST+HAB: k̲'usägwáang'ahlanggiinii
+     k̲'usägúng+V+CERT+REL: k̲'usägwáang'ahlans
+     k̲'usägúng+V+INTS+PAST: k̲'usägwáangaa'ahlang
+     k̲'usägúng+V+CONT: k̲'usägwáangaa'ahlanggaa
+     k̲'usägúng+V+CTFACT+PRES: k̲'usägwáangaa'ahlanggang
+     k̲'usägúng+V+RFLX: k̲'usägwáang'ahl
 

@@ -11,16 +11,16 @@ Tests:
 
   Verb - xál k̲áat'e.ehl - ENGLISH : # CLASS_E.EHL_STEM_3
 
-     xál k̲áat'e.ehl+V+INTERROGATIVE+PAST: xál k̲áat'e.eelaa
-     xál k̲áat'e.ehl+V+INDIRECT+PAST: xál k̲áat'e.eelaan
-     xál k̲áat'e.ehl+V+RELATIVE+EVIDENTIAL: xál k̲áat'e.eelaas
-     xál k̲áat'e.ehl+V+PAST+NON_FACTIVE: xál k̲áat'e.eelaa.ang
-     xál k̲áat'e.ehl+V+CERTAIN+PRESENT: xál k̲áat'e.eel'ahlanggang
-     xál k̲áat'e.ehl+V+CERTAIN+PAST: xál k̲áat'e.eel'ahlanggan
-     xál k̲áat'e.ehl+V+CERTAIN+PAST+HABITUAL: xál k̲áat'e.eel'ahlanggiinii
-     xál k̲áat'e.ehl+V+CERTAIN+RELATIVE: xál k̲áat'e.eel'ahlans
-     xál k̲áat'e.ehl+V+INTENSIVE+PAST: xál k̲áat'e.eelaa'ahlang
-     xál k̲áat'e.ehl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: xál k̲áat'e.eelaa'ahlanggaa
-     xál k̲áat'e.ehl+V+COUNTERFACTUAL+PRESENT: xál k̲áat'e.eelaa'ahlanggang
-     xál k̲áat'e.ehl+V+REFLEXIVE: xál k̲áat'e.eel'ahl
+     xál k̲áat'e.ehl+V+INTERR+PAST: xál k̲áat'e.eelaa
+     xál k̲áat'e.ehl+V+INDIR+PAST: xál k̲áat'e.eelaan
+     xál k̲áat'e.ehl+V+REL+EVID: xál k̲áat'e.eelaas
+     xál k̲áat'e.ehl+V+PAST+NONFACT: xál k̲áat'e.eelaa.ang
+     xál k̲áat'e.ehl+V+CERT+PRES: xál k̲áat'e.eel'ahlanggang
+     xál k̲áat'e.ehl+V+CERT+PAST: xál k̲áat'e.eel'ahlanggan
+     xál k̲áat'e.ehl+V+CERT+PAST+HAB: xál k̲áat'e.eel'ahlanggiinii
+     xál k̲áat'e.ehl+V+CERT+REL: xál k̲áat'e.eel'ahlans
+     xál k̲áat'e.ehl+V+INTS+PAST: xál k̲áat'e.eelaa'ahlang
+     xál k̲áat'e.ehl+V+CONT: xál k̲áat'e.eelaa'ahlanggaa
+     xál k̲áat'e.ehl+V+CTFACT+PRES: xál k̲áat'e.eelaa'ahlanggang
+     xál k̲áat'e.ehl+V+RFLX: xál k̲áat'e.eel'ahl
 

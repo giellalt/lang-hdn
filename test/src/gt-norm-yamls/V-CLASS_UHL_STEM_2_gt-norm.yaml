@@ -11,30 +11,30 @@ Tests:
 
   Verb - k̲áaguhl - ENGLISH : # CLASS_UHL_STEM_2
 
-     k̲áaguhl+V+IMMEDIATE+PRESENT: k̲áagulga
-     k̲áaguhl+V+SIMPLE+PRESENT: k̲áagulgang
-     k̲áaguhl+V+DIRECT+PAST: k̲áagulgan
-     k̲áaguhl+V+NON_FACTIVE: k̲áagul.ang
-     k̲áaguhl+V+INTERROGATIVE+PRESENT+HABITUAL: k̲áagulgang
-     k̲áaguhl+V+PRESENT+HABITUAL: k̲áagulganggang
-     k̲áaguhl+V+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgangang
-     k̲áaguhl+V+DIRECT+PAST+HABITUAL: k̲áagulgiinii
-     k̲áaguhl+V+INTERROGATIVE+PAST+HABITUAL: k̲áagulgaangaa
-     k̲áaguhl+V+INDIRECT+PAST+HABITUAL: k̲áagulgaangaan
-     k̲áaguhl+V+INTERROGATIVE+NEAR+FUTURE: k̲áagulang k̲asa'áa
-     k̲áaguhl+V+NEAR+FUTURE: k̲áagulang k̲asa'áang
-     k̲áaguhl+V+INTERROGATIVE+VERYNEAR+FUTURE: k̲áagulang k̲asaasdláa
-     k̲áaguhl+V+VERYNEAR+FUTURE: k̲áagulang k̲asaasdláang
-     k̲áaguhl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: k̲áagulgang'waa
-     k̲áaguhl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: k̲áagulgang'waang
-     k̲áaguhl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgang'waa.ang
-     k̲áaguhl+V+NEGATIVE+PRESENT+HABITUAL: k̲áagulgang'anggang
-     k̲áaguhl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgang'angang
-     k̲áaguhl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: k̲áagulang k̲asaa'áng
-     k̲áaguhl+V+NEGATIVE+NEAR+FUTURE: k̲áagulang k̲asaa'ánggang
-     k̲áaguhl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: k̲áagulang k̲asaasdlä'áng
-     k̲áaguhl+V+NEGATIVE+VERYNEAR+FUTURE: k̲áagulang k̲asaasdlä'ánggang
-     k̲áaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: k̲áagulgang'ang'waa
-     k̲áaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: k̲áagulgang'ang'waang
-     k̲áaguhl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: k̲áagulgang'ang'waa.ang
+     k̲áaguhl+V+IMM+PRES: k̲áagulga
+     k̲áaguhl+V+SIMP+PRES: k̲áagulgang
+     k̲áaguhl+V+DIR+PAST: k̲áagulgan
+     k̲áaguhl+V+NONFACT: k̲áagul.ang
+     k̲áaguhl+V+INTERR+PRES+HAB: k̲áagulgang
+     k̲áaguhl+V+PRES+HAB: k̲áagulganggang
+     k̲áaguhl+V+PRES+HAB+NONFACT: k̲áagulgangang
+     k̲áaguhl+V+DIR+PAST+HAB: k̲áagulgiinii
+     k̲áaguhl+V+INTERR+PAST+HAB: k̲áagulgaangaa
+     k̲áaguhl+V+INDIR+PAST+HAB: k̲áagulgaangaan
+     k̲áaguhl+V+INTERR+NEAR+FUT: k̲áagulang k̲asa'áa
+     k̲áaguhl+V+NEAR+FUT: k̲áagulang k̲asa'áang
+     k̲áaguhl+V+INTERR+VNEAR+FUT: k̲áagulang k̲asaasdláa
+     k̲áaguhl+V+VNEAR+FUT: k̲áagulang k̲asaasdláang
+     k̲áaguhl+V+3PL+INTERR+PRES+HAB: k̲áagulgang'waa
+     k̲áaguhl+V+3PL+PRES+HAB: k̲áagulgang'waang
+     k̲áaguhl+V+3PL+PRES+HAB+NONFACT: k̲áagulgang'waa.ang
+     k̲áaguhl+V+NEG+PRES+HAB: k̲áagulgang'anggang
+     k̲áaguhl+V+NEG+PRES+HAB+NONFACT: k̲áagulgang'angang
+     k̲áaguhl+V+NEG+INTERR+NEAR+FUT: k̲áagulang k̲asaa'áng
+     k̲áaguhl+V+NEG+NEAR+FUT: k̲áagulang k̲asaa'ánggang
+     k̲áaguhl+V+NEG+INTERR+VNEAR+FUT: k̲áagulang k̲asaasdlä'áng
+     k̲áaguhl+V+NEG+VNEAR+FUT: k̲áagulang k̲asaasdlä'ánggang
+     k̲áaguhl+V+NEG+3PL+INTERR+PRES+HAB: k̲áagulgang'ang'waa
+     k̲áaguhl+V+NEG+3PL+PRES+HAB: k̲áagulgang'ang'waang
+     k̲áaguhl+V+NEG+3PL+PRES+HAB+NONFACT: k̲áagulgang'ang'waa.ang
 

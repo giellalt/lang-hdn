@@ -11,156 +11,156 @@ Tests:
 
   Verb - hltanée.eehl - ENGLISH : # CLASS_EEHL_STEM_1
 
-     hltanée.eehl+V+SINGULAR+IMPERATIVE: hltanée.eehl
-     hltanée.eehl+V+INTERROGATIVE+SIMPLE+PRESENT: hltanée.eehl
-     hltanée.eehl+V+RELATIVE: hltanée.eehls
-     hltanée.eehl+V+NON_FACTIVE: hltanée.eehlang
-     hltanée.eehl+V+INTERROGATIVE+FUTURE+LONG: hltanée.eehläsaa
-     hltanée.eehl+V+INTERROGATIVE+FUTURE+SHORT: hltanée.eehläs
-     hltanée.eehl+V+SIMPLE+FUTURE: hltanée.eehläsaang
-     hltanée.eehl+V+IMMEDIATE+FUTURE: hltanée.eehläsga
-     hltanée.eehl+V+RELATIVE+FUTURE: hltanée.eehläsaas
-     hltanée.eehl+V+FUTURE+NON_FACTIVE: hltanée.eehläsaa.ang
-     hltanée.eehl+V+INTERROGATIVE+NEAR+FUTURE: hltanée.eehlang k̲asa'áa
-     hltanée.eehl+V+NEAR+FUTURE: hltanée.eehlang k̲asa'áang
-     hltanée.eehl+V+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdláa
-     hltanée.eehl+V+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdláang
-     hltanée.eehl+V+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'uuj
-     hltanée.eehl+V+BIASED+SIMPLE+PRESENT: hltanée.eehl'uujang
-     hltanée.eehl+V+RESIGNED_OBLIGATION: hltanée.eehläsaa'uujang
-     hltanée.eehl+V+BIASED+INTERROGATIVE+PRESENT: hltanée.eehl'us
-     hltanée.eehl+V+BIASED+INTERROGATIVE+PAST: hltanée.eehl'ujaa
-     hltanée.eehl+V+BIASED+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'uujaangaa
-     hltanée.eehl+V+BIASED+INTERROGATIVE+FUTURE: hltanée.eehläsaa'us
-     hltanée.eehl+V+CERTAIN+PRESENT: hltanée.eehl'ahlanggang
-     hltanée.eehl+V+CERTAIN+PAST: hltanée.eehl'ahlanggan
-     hltanée.eehl+V+CERTAIN+PAST+HABITUAL: hltanée.eehl'ahlanggiinii
-     hltanée.eehl+V+CERTAIN+FUTURE: hltanée.eehläsaa'ahlans
-     hltanée.eehl+V+CERTAIN+RELATIVE: hltanée.eehl'ahlans
-     hltanée.eehl+V+REFLEXIVE: hltanée.eehl'ahl
-     hltanée.eehl+V+FUTURE+REFLEXIVE+INTERROGATIVE: hltanée.eehläseehl
-     hltanée.eehl+V+PLURAL+IMPERATIVE: hltanée.eehl'uu
-     hltanée.eehl+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: hltanée.eehl'waa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: hltanée.eehl'waa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: hltanée.eehl'waang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+DIRECT+PAST: hltanée.eehl'wägan
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: hltanée.eehl'aawaa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST: hltanée.eehl'aawaan
-     hltanée.eehl+V+3rd_PERSON_PLURAL+RELATIVE: hltanée.eehl'waas
-     hltanée.eehl+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: hltanée.eehl'aawaas
-     hltanée.eehl+V+3rd_PERSON_PLURAL+NON_FACTIVE: hltanée.eehl'waa.ang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: hltanée.eehl'aawaa.ang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: hltanée.eehl'wägiinii
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'wägaangaa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: hltanée.eehl'wägaangaan
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: hltanée.eehl'waaäsaa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: hltanée.eehl'waaäs
-     hltanée.eehl+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: hltanée.eehl'waaäsaang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: hltanée.eehl'waaäsga
-     hltanée.eehl+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: hltanée.eehl'waaäsaas
-     hltanée.eehl+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: hltanée.eehl'waaäsaa.ang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asa'áa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asa'áang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdláa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdláang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'waa'uuj
-     hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: hltanée.eehl'waa'uujang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: hltanée.eehl'waaäsaa'uujang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: hltanée.eehl'waa'us
-     hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: hltanée.eehl'waa'ujaa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'waa'uujaangaa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: hltanée.eehl'waaäsaa'us
-     hltanée.eehl+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: hltanée.eehl'waa'ahlanggang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST: hltanée.eehl'waa'ahlanggan
-     hltanée.eehl+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: hltanée.eehl'waa'ahlanggiinii
-     hltanée.eehl+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: hltanée.eehl'waaäsaa'ahlans
-     hltanée.eehl+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: hltanée.eehl'waa'ahlans
-     hltanée.eehl+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: hltanée.eehl'aawaa'ahlang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: hltanée.eehl'aawaa'ahlanggaa
-     hltanée.eehl+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: hltanée.eehl'aawaa'ahlanggang
-     hltanée.eehl+V+3rd_PERSON_PLURAL+REFLEXIVE: hltanée.eehl'waa'ahl
-     hltanée.eehl+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: hltanée.eehl'waaäseehl
-     hltanée.eehl+V+NEGATIVE+SINGULAR+IMPERATIVE: hltanée.eehl'ang
-     hltanée.eehl+V+NEGATIVE+IMMEDIATE+PRESENT: hltanée.eehl'angga
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: hltanée.eehl'ang
-     hltanée.eehl+V+NEGATIVE+SIMPLE+PRESENT: hltanée.eehl'anggang
-     hltanée.eehl+V+NEGATIVE+DIRECT+PAST: hltanée.eehl'anggan
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+PAST: hltanée.eehl'aangaa
-     hltanée.eehl+V+NEGATIVE+INDIRECT+PAST: hltanée.eehl'aangaan
-     hltanée.eehl+V+NEGATIVE+RELATIVE: hltanée.eehl'ans
-     hltanée.eehl+V+NEGATIVE+RELATIVE+EVIDENTIAL: hltanée.eehl'aangaas
-     hltanée.eehl+V+NEGATIVE+NON_FACTIVE: hltanée.eehl'angang
-     hltanée.eehl+V+NEGATIVE+PAST+NON_FACTIVE: hltanée.eehl'aangaa.ang
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: hltanée.eehl'anggang
-     hltanée.eehl+V+NEGATIVE+DIRECT+PAST+HABITUAL: hltanée.eehl'anggiinii
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'anggaangaa
-     hltanée.eehl+V+NEGATIVE+INDIRECT+PAST+HABITUAL: hltanée.eehl'anggaangaan
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: hltanée.eehl'angäsaa
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: hltanée.eehl'angäs
-     hltanée.eehl+V+NEGATIVE+SIMPLE+FUTURE: hltanée.eehl'angäsaang
-     hltanée.eehl+V+NEGATIVE+IMMEDIATE+FUTURE: hltanée.eehl'angäsga
-     hltanée.eehl+V+NEGATIVE+RELATIVE+FUTURE: hltanée.eehl'angäsaas
-     hltanée.eehl+V+NEGATIVE+FUTURE+NON_FACTIVE: hltanée.eehl'angäsaa.ang
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: hltanée.eehlang k̲asaa'áng
-     hltanée.eehl+V+NEGATIVE+NEAR+FUTURE: hltanée.eehlang k̲asaa'ánggang
-     hltanée.eehl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdlä'áng
-     hltanée.eehl+V+NEGATIVE+VERYNEAR+FUTURE: hltanée.eehlang k̲asaasdlä'ánggang
-     hltanée.eehl+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'ang'uuj
-     hltanée.eehl+V+NEGATIVE+BIASED+SIMPLE+PRESENT: hltanée.eehl'ang'uujang
-     hltanée.eehl+V+NEGATIVE+RESIGNED_OBLIGATION: hltanée.eehl'angäsaa'uujang
-     hltanée.eehl+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: hltanée.eehl'ang'us
-     hltanée.eehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: hltanée.eehl'ang'ujaa
-     hltanée.eehl+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'ang'uujaangaa
-     hltanée.eehl+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: hltanée.eehl'angäsaa'us
-     hltanée.eehl+V+NEGATIVE+CERTAIN+PRESENT: hltanée.eehl'aang'ahlanggang
-     hltanée.eehl+V+NEGATIVE+CERTAIN+PAST: hltanée.eehl'aang'ahlanggan
-     hltanée.eehl+V+NEGATIVE+CERTAIN+PAST+HABITUAL: hltanée.eehl'aang'ahlanggiinii
-     hltanée.eehl+V+NEGATIVE+CERTAIN+FUTURE: hltanée.eehl'angäsaa'ahlans
-     hltanée.eehl+V+NEGATIVE+CERTAIN+RELATIVE: hltanée.eehl'aang'ahlans
-     hltanée.eehl+V+NEGATIVE+INTENSIVE+PAST: hltanée.eehl'aangaa'ahlang
-     hltanée.eehl+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: hltanée.eehl'aangaa'ahlanggaa
-     hltanée.eehl+V+NEGATIVE+COUNTERFACTUAL+PRESENT: hltanée.eehl'aangaa'ahlanggang
-     hltanée.eehl+V+NEGATIVE+REFLEXIVE: hltanée.eehl'aang'ahl
-     hltanée.eehl+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: hltanée.eehl'angäseehl
-     hltanée.eehl+V+NEGATIVE+PLURAL+IMPERATIVE: hltanée.eehl'ang'uu
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: hltanée.eehl'ang'waa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: hltanée.eehl'ang'waa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: hltanée.eehl'ang'waang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: hltanée.eehl'ang'wägan
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: hltanée.eehl'ang'aawaa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: hltanée.eehl'ang'aawaan
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: hltanée.eehl'ang'waas
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: hltanée.eehl'ang'aawaas
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: hltanée.eehl'ang'waa.ang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: hltanée.eehl'ang'aawaa.ang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: hltanée.eehl'ang'wägiinii
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'ang'wägaangaa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: hltanée.eehl'ang'wägaangaan
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: hltanée.eehl'ang'waaäsaa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: hltanée.eehl'ang'waaäs
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: hltanée.eehl'ang'waaäsaang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: hltanée.eehl'ang'waaäsga
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: hltanée.eehl'ang'waaäsaas
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: hltanée.eehl'ang'waaäsaa.ang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asaa'áng
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: hltanée.eehl'waa.ang k̲asaa'ánggang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdlä'áng
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: hltanée.eehl'waa.ang k̲asaasdlä'ánggang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: hltanée.eehl'ang'waa'uuj
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: hltanée.eehl'ang'waa'uujang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: hltanée.eehl'ang'waaäsaa'uujang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: hltanée.eehl'ang'waa'us
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: hltanée.eehl'ang'waa'ujaa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: hltanée.eehl'ang'waa'uujaangaa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: hltanée.eehl'ang'waaäsaa'us
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: hltanée.eehl'ang'waa'ahlanggang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: hltanée.eehl'ang'waa'ahlanggan
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: hltanée.eehl'ang'waa'ahlanggiinii
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: hltanée.eehl'ang'waaäsaa'ahlans
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: hltanée.eehl'ang'waa'ahlans
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: hltanée.eehl'ang'aawaa'ahlang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: hltanée.eehl'ang'aawaa'ahlanggaa
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: hltanée.eehl'ang'aawaa'ahlanggang
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: hltanée.eehl'ang'waa'ahl
-     hltanée.eehl+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: hltanée.eehl'ang'waaäseehl
+     hltanée.eehl+V+SG+IMPV: hltanée.eehl
+     hltanée.eehl+V+INTERR+SIMP+PRES: hltanée.eehl
+     hltanée.eehl+V+REL: hltanée.eehls
+     hltanée.eehl+V+NONFACT: hltanée.eehlang
+     hltanée.eehl+V+INTERR+FUT+LONG: hltanée.eehläsaa
+     hltanée.eehl+V+INTERR+FUT+SHORT: hltanée.eehläs
+     hltanée.eehl+V+SIMP+FUT: hltanée.eehläsaang
+     hltanée.eehl+V+IMM+FUT: hltanée.eehläsga
+     hltanée.eehl+V+REL+FUT: hltanée.eehläsaas
+     hltanée.eehl+V+FUT+NONFACT: hltanée.eehläsaa.ang
+     hltanée.eehl+V+INTERR+NEAR+FUT: hltanée.eehlang k̲asa'áa
+     hltanée.eehl+V+NEAR+FUT: hltanée.eehlang k̲asa'áang
+     hltanée.eehl+V+INTERR+VNEAR+FUT: hltanée.eehlang k̲asaasdláa
+     hltanée.eehl+V+VNEAR+FUT: hltanée.eehlang k̲asaasdláang
+     hltanée.eehl+V+BIAS+IMM+PRES: hltanée.eehl'uuj
+     hltanée.eehl+V+BIAS+SIMP+PRES: hltanée.eehl'uujang
+     hltanée.eehl+V+RES: hltanée.eehläsaa'uujang
+     hltanée.eehl+V+BIAS+INTERR+PRES: hltanée.eehl'us
+     hltanée.eehl+V+BIAS+INTERR+PAST: hltanée.eehl'ujaa
+     hltanée.eehl+V+BIAS+INTERR+PAST+HAB: hltanée.eehl'uujaangaa
+     hltanée.eehl+V+BIAS+INTERR+FUT: hltanée.eehläsaa'us
+     hltanée.eehl+V+CERT+PRES: hltanée.eehl'ahlanggang
+     hltanée.eehl+V+CERT+PAST: hltanée.eehl'ahlanggan
+     hltanée.eehl+V+CERT+PAST+HAB: hltanée.eehl'ahlanggiinii
+     hltanée.eehl+V+CERT+FUT: hltanée.eehläsaa'ahlans
+     hltanée.eehl+V+CERT+REL: hltanée.eehl'ahlans
+     hltanée.eehl+V+RFLX: hltanée.eehl'ahl
+     hltanée.eehl+V+FUT+RFLX+INTERR: hltanée.eehläseehl
+     hltanée.eehl+V+PL+IMPV: hltanée.eehl'uu
+     hltanée.eehl+V+3PL+IMM+PRES: hltanée.eehl'waa
+     hltanée.eehl+V+3PL+INTERR+SIMP+PRES: hltanée.eehl'waa
+     hltanée.eehl+V+3PL+SIMP+PRES: hltanée.eehl'waang
+     hltanée.eehl+V+3PL+DIR+PAST: hltanée.eehl'wägan
+     hltanée.eehl+V+3PL+INTERR+PAST: hltanée.eehl'aawaa
+     hltanée.eehl+V+3PL+INDIR+PAST: hltanée.eehl'aawaan
+     hltanée.eehl+V+3PL+REL: hltanée.eehl'waas
+     hltanée.eehl+V+3PL+REL+EVID: hltanée.eehl'aawaas
+     hltanée.eehl+V+3PL+NONFACT: hltanée.eehl'waa.ang
+     hltanée.eehl+V+3PL+PAST+NONFACT: hltanée.eehl'aawaa.ang
+     hltanée.eehl+V+3PL+DIR+PAST+HAB: hltanée.eehl'wägiinii
+     hltanée.eehl+V+3PL+INTERR+PAST+HAB: hltanée.eehl'wägaangaa
+     hltanée.eehl+V+3PL+INDIR+PAST+HAB: hltanée.eehl'wägaangaan
+     hltanée.eehl+V+3PL+INTERR+FUT+LONG: hltanée.eehl'waaäsaa
+     hltanée.eehl+V+3PL+INTERR+FUT+SHORT: hltanée.eehl'waaäs
+     hltanée.eehl+V+3PL+SIMP+FUT: hltanée.eehl'waaäsaang
+     hltanée.eehl+V+3PL+IMM+FUT: hltanée.eehl'waaäsga
+     hltanée.eehl+V+3PL+REL+FUT: hltanée.eehl'waaäsaas
+     hltanée.eehl+V+3PL+FUT+NONFACT: hltanée.eehl'waaäsaa.ang
+     hltanée.eehl+V+3PL+INTERR+NEAR+FUT: hltanée.eehl'waa.ang k̲asa'áa
+     hltanée.eehl+V+3PL+NEAR+FUT: hltanée.eehl'waa.ang k̲asa'áang
+     hltanée.eehl+V+3PL+INTERR+VNEAR+FUT: hltanée.eehl'waa.ang k̲asaasdláa
+     hltanée.eehl+V+3PL+VNEAR+FUT: hltanée.eehl'waa.ang k̲asaasdláang
+     hltanée.eehl+V+3PL+BIAS+IMM+PRES: hltanée.eehl'waa'uuj
+     hltanée.eehl+V+3PL+BIAS+SIMP+PRES: hltanée.eehl'waa'uujang
+     hltanée.eehl+V+3PL+RES: hltanée.eehl'waaäsaa'uujang
+     hltanée.eehl+V+3PL+BIAS+INTERR+PRES: hltanée.eehl'waa'us
+     hltanée.eehl+V+3PL+BIAS+INTERR+PAST: hltanée.eehl'waa'ujaa
+     hltanée.eehl+V+3PL+BIAS+INTERR+PAST+HAB: hltanée.eehl'waa'uujaangaa
+     hltanée.eehl+V+3PL+BIAS+INTERR+FUT: hltanée.eehl'waaäsaa'us
+     hltanée.eehl+V+3PL+CERT+PRES: hltanée.eehl'waa'ahlanggang
+     hltanée.eehl+V+3PL+CERT+PAST: hltanée.eehl'waa'ahlanggan
+     hltanée.eehl+V+3PL+CERT+PAST+HAB: hltanée.eehl'waa'ahlanggiinii
+     hltanée.eehl+V+3PL+CERT+FUT: hltanée.eehl'waaäsaa'ahlans
+     hltanée.eehl+V+3PL+CERT+REL: hltanée.eehl'waa'ahlans
+     hltanée.eehl+V+3PL+INTS+PAST: hltanée.eehl'aawaa'ahlang
+     hltanée.eehl+V+3PL+CONT: hltanée.eehl'aawaa'ahlanggaa
+     hltanée.eehl+V+3PL+CTFACT+PRES: hltanée.eehl'aawaa'ahlanggang
+     hltanée.eehl+V+3PL+RFLX: hltanée.eehl'waa'ahl
+     hltanée.eehl+V+3PL+FUT+RFLX+INTERR: hltanée.eehl'waaäseehl
+     hltanée.eehl+V+NEG+SG+IMPV: hltanée.eehl'ang
+     hltanée.eehl+V+NEG+IMM+PRES: hltanée.eehl'angga
+     hltanée.eehl+V+NEG+INTERR+SIMP+PRES: hltanée.eehl'ang
+     hltanée.eehl+V+NEG+SIMP+PRES: hltanée.eehl'anggang
+     hltanée.eehl+V+NEG+DIR+PAST: hltanée.eehl'anggan
+     hltanée.eehl+V+NEG+INTERR+PAST: hltanée.eehl'aangaa
+     hltanée.eehl+V+NEG+INDIR+PAST: hltanée.eehl'aangaan
+     hltanée.eehl+V+NEG+REL: hltanée.eehl'ans
+     hltanée.eehl+V+NEG+REL+EVID: hltanée.eehl'aangaas
+     hltanée.eehl+V+NEG+NONFACT: hltanée.eehl'angang
+     hltanée.eehl+V+NEG+PAST+NONFACT: hltanée.eehl'aangaa.ang
+     hltanée.eehl+V+NEG+INTERR+PRES+HAB: hltanée.eehl'anggang
+     hltanée.eehl+V+NEG+DIR+PAST+HAB: hltanée.eehl'anggiinii
+     hltanée.eehl+V+NEG+INTERR+PAST+HAB: hltanée.eehl'anggaangaa
+     hltanée.eehl+V+NEG+INDIR+PAST+HAB: hltanée.eehl'anggaangaan
+     hltanée.eehl+V+NEG+INTERR+FUT+LONG: hltanée.eehl'angäsaa
+     hltanée.eehl+V+NEG+INTERR+FUT+SHORT: hltanée.eehl'angäs
+     hltanée.eehl+V+NEG+SIMP+FUT: hltanée.eehl'angäsaang
+     hltanée.eehl+V+NEG+IMM+FUT: hltanée.eehl'angäsga
+     hltanée.eehl+V+NEG+REL+FUT: hltanée.eehl'angäsaas
+     hltanée.eehl+V+NEG+FUT+NONFACT: hltanée.eehl'angäsaa.ang
+     hltanée.eehl+V+NEG+INTERR+NEAR+FUT: hltanée.eehlang k̲asaa'áng
+     hltanée.eehl+V+NEG+NEAR+FUT: hltanée.eehlang k̲asaa'ánggang
+     hltanée.eehl+V+NEG+INTERR+VNEAR+FUT: hltanée.eehlang k̲asaasdlä'áng
+     hltanée.eehl+V+NEG+VNEAR+FUT: hltanée.eehlang k̲asaasdlä'ánggang
+     hltanée.eehl+V+NEG+BIAS+IMM+PRES: hltanée.eehl'ang'uuj
+     hltanée.eehl+V+NEG+BIAS+SIMP+PRES: hltanée.eehl'ang'uujang
+     hltanée.eehl+V+NEG+RES: hltanée.eehl'angäsaa'uujang
+     hltanée.eehl+V+NEG+BIAS+INTERR+PRES: hltanée.eehl'ang'us
+     hltanée.eehl+V+NEG+BIAS+INTERR+PAST: hltanée.eehl'ang'ujaa
+     hltanée.eehl+V+NEG+BIAS+INTERR+PAST+HAB: hltanée.eehl'ang'uujaangaa
+     hltanée.eehl+V+NEG+BIAS+INTERR+FUT: hltanée.eehl'angäsaa'us
+     hltanée.eehl+V+NEG+CERT+PRES: hltanée.eehl'aang'ahlanggang
+     hltanée.eehl+V+NEG+CERT+PAST: hltanée.eehl'aang'ahlanggan
+     hltanée.eehl+V+NEG+CERT+PAST+HAB: hltanée.eehl'aang'ahlanggiinii
+     hltanée.eehl+V+NEG+CERT+FUT: hltanée.eehl'angäsaa'ahlans
+     hltanée.eehl+V+NEG+CERT+REL: hltanée.eehl'aang'ahlans
+     hltanée.eehl+V+NEG+INTS+PAST: hltanée.eehl'aangaa'ahlang
+     hltanée.eehl+V+NEG+CONT: hltanée.eehl'aangaa'ahlanggaa
+     hltanée.eehl+V+NEG+CTFACT+PRES: hltanée.eehl'aangaa'ahlanggang
+     hltanée.eehl+V+NEG+RFLX: hltanée.eehl'aang'ahl
+     hltanée.eehl+V+NEG+FUT+RFLX+INTERR: hltanée.eehl'angäseehl
+     hltanée.eehl+V+NEG+PL+IMPV: hltanée.eehl'ang'uu
+     hltanée.eehl+V+NEG+3PL+IMM+PRES: hltanée.eehl'ang'waa
+     hltanée.eehl+V+NEG+3PL+INTERR+SIMP+PRES: hltanée.eehl'ang'waa
+     hltanée.eehl+V+NEG+3PL+SIMP+PRES: hltanée.eehl'ang'waang
+     hltanée.eehl+V+NEG+3PL+DIR+PAST: hltanée.eehl'ang'wägan
+     hltanée.eehl+V+NEG+3PL+INTERR+PAST: hltanée.eehl'ang'aawaa
+     hltanée.eehl+V+NEG+3PL+INDIR+PAST: hltanée.eehl'ang'aawaan
+     hltanée.eehl+V+NEG+3PL+REL: hltanée.eehl'ang'waas
+     hltanée.eehl+V+NEG+3PL+REL+EVID: hltanée.eehl'ang'aawaas
+     hltanée.eehl+V+NEG+3PL+NONFACT: hltanée.eehl'ang'waa.ang
+     hltanée.eehl+V+NEG+3PL+PAST+NONFACT: hltanée.eehl'ang'aawaa.ang
+     hltanée.eehl+V+NEG+3PL+DIR+PAST+HAB: hltanée.eehl'ang'wägiinii
+     hltanée.eehl+V+NEG+3PL+INTERR+PAST+HAB: hltanée.eehl'ang'wägaangaa
+     hltanée.eehl+V+NEG+3PL+INDIR+PAST+HAB: hltanée.eehl'ang'wägaangaan
+     hltanée.eehl+V+NEG+3PL+INTERR+FUT+LONG: hltanée.eehl'ang'waaäsaa
+     hltanée.eehl+V+NEG+3PL+INTERR+FUT+SHORT: hltanée.eehl'ang'waaäs
+     hltanée.eehl+V+NEG+3PL+SIMP+FUT: hltanée.eehl'ang'waaäsaang
+     hltanée.eehl+V+NEG+3PL+IMM+FUT: hltanée.eehl'ang'waaäsga
+     hltanée.eehl+V+NEG+3PL+REL+FUT: hltanée.eehl'ang'waaäsaas
+     hltanée.eehl+V+NEG+3PL+FUT+NONFACT: hltanée.eehl'ang'waaäsaa.ang
+     hltanée.eehl+V+NEG+3PL+INTERR+NEAR+FUT: hltanée.eehl'waa.ang k̲asaa'áng
+     hltanée.eehl+V+NEG+3PL+NEAR+FUT: hltanée.eehl'waa.ang k̲asaa'ánggang
+     hltanée.eehl+V+NEG+3PL+INTERR+VNEAR+FUT: hltanée.eehl'waa.ang k̲asaasdlä'áng
+     hltanée.eehl+V+NEG+3PL+VNEAR+FUT: hltanée.eehl'waa.ang k̲asaasdlä'ánggang
+     hltanée.eehl+V+NEG+3PL+BIAS+IMM+PRES: hltanée.eehl'ang'waa'uuj
+     hltanée.eehl+V+NEG+3PL+BIAS+SIMP+PRES: hltanée.eehl'ang'waa'uujang
+     hltanée.eehl+V+NEG+3PL+RES: hltanée.eehl'ang'waaäsaa'uujang
+     hltanée.eehl+V+NEG+3PL+BIAS+INTERR+PRES: hltanée.eehl'ang'waa'us
+     hltanée.eehl+V+NEG+3PL+BIAS+INTERR+PAST: hltanée.eehl'ang'waa'ujaa
+     hltanée.eehl+V+NEG+3PL+BIAS+INTERR+PAST+HAB: hltanée.eehl'ang'waa'uujaangaa
+     hltanée.eehl+V+NEG+3PL+BIAS+INTERR+FUT: hltanée.eehl'ang'waaäsaa'us
+     hltanée.eehl+V+NEG+3PL+CERT+PRES: hltanée.eehl'ang'waa'ahlanggang
+     hltanée.eehl+V+NEG+3PL+CERT+PAST: hltanée.eehl'ang'waa'ahlanggan
+     hltanée.eehl+V+NEG+3PL+CERT+PAST+HAB: hltanée.eehl'ang'waa'ahlanggiinii
+     hltanée.eehl+V+NEG+3PL+CERT+FUT: hltanée.eehl'ang'waaäsaa'ahlans
+     hltanée.eehl+V+NEG+3PL+CERT+REL: hltanée.eehl'ang'waa'ahlans
+     hltanée.eehl+V+NEG+3PL+INTS+PAST: hltanée.eehl'ang'aawaa'ahlang
+     hltanée.eehl+V+NEG+3PL+CONT: hltanée.eehl'ang'aawaa'ahlanggaa
+     hltanée.eehl+V+NEG+3PL+CTFACT+PRES: hltanée.eehl'ang'aawaa'ahlanggang
+     hltanée.eehl+V+NEG+3PL+RFLX: hltanée.eehl'ang'waa'ahl
+     hltanée.eehl+V+NEG+3PL+FUT+RFLX+INTERR: hltanée.eehl'ang'waaäseehl
 

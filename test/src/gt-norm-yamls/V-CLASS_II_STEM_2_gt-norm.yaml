@@ -11,16 +11,16 @@ Tests:
 
   Verb - g̲íihlgii - ENGLISH : # CLASS_II_STEM_2
 
-     g̲íihlgii+V+INTERROGATIVE+PAST: g̲íihlgaayaa
-     g̲íihlgii+V+INDIRECT+PAST: g̲íihlgaayaan
-     g̲íihlgii+V+RELATIVE+EVIDENTIAL: g̲íihlgaayaas
-     g̲íihlgii+V+PAST+NON_FACTIVE: g̲íihlgaayaa.ang
-     g̲íihlgii+V+CERTAIN+PRESENT: g̲íihlgaay'ahlanggang
-     g̲íihlgii+V+CERTAIN+PAST: g̲íihlgaay'ahlanggan
-     g̲íihlgii+V+CERTAIN+PAST+HABITUAL: g̲íihlgaay'ahlanggiinii
-     g̲íihlgii+V+CERTAIN+RELATIVE: g̲íihlgaay'ahlans
-     g̲íihlgii+V+INTENSIVE+PAST: g̲íihlgaayaa'ahlang
-     g̲íihlgii+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: g̲íihlgaayaa'ahlanggaa
-     g̲íihlgii+V+COUNTERFACTUAL+PRESENT: g̲íihlgaayaa'ahlanggang
-     g̲íihlgii+V+REFLEXIVE: g̲íihlgaay'ahl
+     g̲íihlgii+V+INTERR+PAST: g̲íihlgaayaa
+     g̲íihlgii+V+INDIR+PAST: g̲íihlgaayaan
+     g̲íihlgii+V+REL+EVID: g̲íihlgaayaas
+     g̲íihlgii+V+PAST+NONFACT: g̲íihlgaayaa.ang
+     g̲íihlgii+V+CERT+PRES: g̲íihlgaay'ahlanggang
+     g̲íihlgii+V+CERT+PAST: g̲íihlgaay'ahlanggan
+     g̲íihlgii+V+CERT+PAST+HAB: g̲íihlgaay'ahlanggiinii
+     g̲íihlgii+V+CERT+REL: g̲íihlgaay'ahlans
+     g̲íihlgii+V+INTS+PAST: g̲íihlgaayaa'ahlang
+     g̲íihlgii+V+CONT: g̲íihlgaayaa'ahlanggaa
+     g̲íihlgii+V+CTFACT+PRES: g̲íihlgaayaa'ahlanggang
+     g̲íihlgii+V+RFLX: g̲íihlgaay'ahl
 

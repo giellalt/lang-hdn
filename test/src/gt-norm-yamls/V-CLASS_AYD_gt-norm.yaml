@@ -11,180 +11,180 @@ Tests:
 
   Verb - káa.ayd - ENGLISH : # CLASS_AYD
 
-     káa.ayd+V+SINGULAR+IMPERATIVE: káa.ayd
-     káa.ayd+V+IMMEDIATE+PRESENT: káa.ayda
-     káa.ayd+V+INTERROGATIVE+SIMPLE+PRESENT: káa.ayd
-     káa.ayd+V+SIMPLE+PRESENT: káa.aydang
-     káa.ayd+V+DIRECT+PAST: káa.aydan
-     káa.ayd+V+INTERROGATIVE+PAST: káa.aydaa
-     káa.ayd+V+INDIRECT+PAST: káa.aydaan
-     káa.ayd+V+RELATIVE: káa.ayds
-     káa.ayd+V+RELATIVE+EVIDENTIAL: káa.aydaas
-     káa.ayd+V+NON_FACTIVE: káa.aydang
-     káa.ayd+V+PAST+NON_FACTIVE: káa.aydaa.ang
-     káa.ayd+V+INTERROGATIVE+PRESENT+HABITUAL: káa.aydang
-     káa.ayd+V+PRESENT+HABITUAL: káa.aydanggang
-     káa.ayd+V+PRESENT+HABITUAL+NON_FACTIVE: káa.aydangang
-     káa.ayd+V+DIRECT+PAST+HABITUAL: káa.aydiinii
-     káa.ayd+V+INTERROGATIVE+PAST+HABITUAL: káa.aydaangaa
-     káa.ayd+V+INDIRECT+PAST+HABITUAL: káa.aydaangaan
-     káa.ayd+V+INTERROGATIVE+FUTURE+LONG: káa.aydäsaa
-     káa.ayd+V+INTERROGATIVE+FUTURE+SHORT: káa.aydäs
-     káa.ayd+V+SIMPLE+FUTURE: káa.aydäsaang
-     káa.ayd+V+IMMEDIATE+FUTURE: káa.aydäsga
-     káa.ayd+V+RELATIVE+FUTURE: káa.aydäsaas
-     káa.ayd+V+FUTURE+NON_FACTIVE: káa.aydäsaa.ang
-     káa.ayd+V+INTERROGATIVE+NEAR+FUTURE: káa.aydang k̲asa'áa
-     káa.ayd+V+NEAR+FUTURE: káa.aydang k̲asa'áang
-     káa.ayd+V+INTERROGATIVE+VERYNEAR+FUTURE: káa.aydang k̲asaasdláa
-     káa.ayd+V+VERYNEAR+FUTURE: káa.aydang k̲asaasdláang
-     káa.ayd+V+BIASED+IMMEDIATE+PRESENT: káa.ayd'uuj
-     káa.ayd+V+BIASED+SIMPLE+PRESENT: káa.ayd'uujang
-     káa.ayd+V+RESIGNED_OBLIGATION: káa.aydäsaa'uujang
-     káa.ayd+V+BIASED+INTERROGATIVE+PRESENT: káa.ayd'us
-     káa.ayd+V+BIASED+INTERROGATIVE+PAST: káa.ayd'ujaa
-     káa.ayd+V+BIASED+INTERROGATIVE+PAST+HABITUAL: káa.ayd'uujaangaa
-     káa.ayd+V+BIASED+INTERROGATIVE+FUTURE: káa.aydäsaa'us
-     káa.ayd+V+CERTAIN+PRESENT: káa.ayd'ahlanggang
-     káa.ayd+V+CERTAIN+PAST: káa.ayd'ahlanggan
-     káa.ayd+V+CERTAIN+PAST+HABITUAL: káa.ayd'ahlanggiinii
-     káa.ayd+V+CERTAIN+FUTURE: káa.aydäsaa'ahlans
-     káa.ayd+V+CERTAIN+RELATIVE: káa.ayd'ahlans
-     káa.ayd+V+INTENSIVE+PAST: káa.aydaa'ahlang
-     káa.ayd+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: káa.aydaa'ahlanggaa
-     káa.ayd+V+COUNTERFACTUAL+PRESENT: káa.aydaa'ahlanggang
-     káa.ayd+V+REFLEXIVE: káa.ayd'ahl
-     káa.ayd+V+FUTURE+REFLEXIVE+INTERROGATIVE: káa.aydäseehl
-     káa.ayd+V+PLURAL+IMPERATIVE: káa.ayd'uu
-     káa.ayd+V+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: káa.ayd'waa
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: káa.ayd'waa
-     káa.ayd+V+3rd_PERSON_PLURAL+SIMPLE+PRESENT: káa.ayd'waang
-     káa.ayd+V+3rd_PERSON_PLURAL+DIRECT+PAST: káa.ayd'wägan
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: káa.ayd'aawaa
-     káa.ayd+V+3rd_PERSON_PLURAL+INDIRECT+PAST: káa.ayd'aawaan
-     káa.ayd+V+3rd_PERSON_PLURAL+RELATIVE: káa.ayd'waas
-     káa.ayd+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: káa.ayd'aawaas
-     káa.ayd+V+3rd_PERSON_PLURAL+NON_FACTIVE: káa.ayd'waa.ang
-     káa.ayd+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: káa.ayd'aawaa.ang
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: káa.aydang'waa
-     káa.ayd+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: káa.aydang'waang
-     káa.ayd+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: káa.aydang'waa.ang
-     káa.ayd+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: káa.ayd'wägiinii
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: káa.ayd'wägaangaa
-     káa.ayd+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: káa.ayd'wägaangaan
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: káa.ayd'waaäsaa
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: káa.ayd'waaäs
-     káa.ayd+V+3rd_PERSON_PLURAL+SIMPLE+FUTURE: káa.ayd'waaäsaang
-     káa.ayd+V+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: káa.ayd'waaäsga
-     káa.ayd+V+3rd_PERSON_PLURAL+RELATIVE+FUTURE: káa.ayd'waaäsaas
-     káa.ayd+V+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: káa.ayd'waaäsaa.ang
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: káa.ayd'waa.ang k̲asa'áa
-     káa.ayd+V+3rd_PERSON_PLURAL+NEAR+FUTURE: káa.ayd'waa.ang k̲asa'áang
-     káa.ayd+V+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdláa
-     káa.ayd+V+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdláang
-     káa.ayd+V+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: káa.ayd'waa'uuj
-     káa.ayd+V+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: káa.ayd'waa'uujang
-     káa.ayd+V+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: káa.ayd'waaäsaa'uujang
-     káa.ayd+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: káa.ayd'waa'us
-     káa.ayd+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: káa.ayd'waa'ujaa
-     káa.ayd+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: káa.ayd'waa'uujaangaa
-     káa.ayd+V+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: káa.ayd'waaäsaa'us
-     káa.ayd+V+3rd_PERSON_PLURAL+CERTAIN+PRESENT: káa.ayd'waa'ahlanggang
-     káa.ayd+V+3rd_PERSON_PLURAL+CERTAIN+PAST: káa.ayd'waa'ahlanggan
-     káa.ayd+V+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: káa.ayd'waa'ahlanggiinii
-     káa.ayd+V+3rd_PERSON_PLURAL+CERTAIN+FUTURE: káa.ayd'waaäsaa'ahlans
-     káa.ayd+V+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: káa.ayd'waa'ahlans
-     káa.ayd+V+3rd_PERSON_PLURAL+INTENSIVE+PAST: káa.ayd'aawaa'ahlang
-     káa.ayd+V+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: káa.ayd'aawaa'ahlanggaa
-     káa.ayd+V+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: káa.ayd'aawaa'ahlanggang
-     káa.ayd+V+3rd_PERSON_PLURAL+REFLEXIVE: káa.ayd'waa'ahl
-     káa.ayd+V+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: káa.ayd'waaäseehl
-     káa.ayd+V+NEGATIVE+SINGULAR+IMPERATIVE: káa.ayd'ang
-     káa.ayd+V+NEGATIVE+IMMEDIATE+PRESENT: káa.ayd'angga
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+SIMPLE+PRESENT: káa.ayd'ang
-     káa.ayd+V+NEGATIVE+SIMPLE+PRESENT: káa.ayd'anggang
-     káa.ayd+V+NEGATIVE+DIRECT+PAST: káa.ayd'anggan
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+PAST: káa.ayd'aangaa
-     káa.ayd+V+NEGATIVE+INDIRECT+PAST: káa.ayd'aangaan
-     káa.ayd+V+NEGATIVE+RELATIVE: káa.ayd'ans
-     káa.ayd+V+NEGATIVE+RELATIVE+EVIDENTIAL: káa.ayd'aangaas
-     káa.ayd+V+NEGATIVE+NON_FACTIVE: káa.ayd'angang
-     káa.ayd+V+NEGATIVE+PAST+NON_FACTIVE: káa.ayd'aangaa.ang
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: káa.ayd'anggang
-     káa.ayd+V+NEGATIVE+PRESENT+HABITUAL: káa.aydang'anggang
-     káa.ayd+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: káa.aydang'angang
-     káa.ayd+V+NEGATIVE+DIRECT+PAST+HABITUAL: káa.ayd'anggiinii
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: káa.ayd'anggaangaa
-     káa.ayd+V+NEGATIVE+INDIRECT+PAST+HABITUAL: káa.ayd'anggaangaan
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+FUTURE+LONG: káa.ayd'angäsaa
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+FUTURE+SHORT: káa.ayd'angäs
-     káa.ayd+V+NEGATIVE+SIMPLE+FUTURE: káa.ayd'angäsaang
-     káa.ayd+V+NEGATIVE+IMMEDIATE+FUTURE: káa.ayd'angäsga
-     káa.ayd+V+NEGATIVE+RELATIVE+FUTURE: káa.ayd'angäsaas
-     káa.ayd+V+NEGATIVE+FUTURE+NON_FACTIVE: káa.ayd'angäsaa.ang
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: káa.aydang k̲asaa'áng
-     káa.ayd+V+NEGATIVE+NEAR+FUTURE: káa.aydang k̲asaa'ánggang
-     káa.ayd+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: káa.aydang k̲asaasdlä'áng
-     káa.ayd+V+NEGATIVE+VERYNEAR+FUTURE: káa.aydang k̲asaasdlä'ánggang
-     káa.ayd+V+NEGATIVE+BIASED+IMMEDIATE+PRESENT: káa.ayd'ang'uuj
-     káa.ayd+V+NEGATIVE+BIASED+SIMPLE+PRESENT: káa.ayd'ang'uujang
-     káa.ayd+V+NEGATIVE+RESIGNED_OBLIGATION: káa.ayd'angäsaa'uujang
-     káa.ayd+V+NEGATIVE+BIASED+INTERROGATIVE+PRESENT: káa.ayd'ang'us
-     káa.ayd+V+NEGATIVE+BIASED+INTERROGATIVE+PAST: káa.ayd'ang'ujaa
-     káa.ayd+V+NEGATIVE+BIASED+INTERROGATIVE+PAST+HABITUAL: káa.ayd'ang'uujaangaa
-     káa.ayd+V+NEGATIVE+BIASED+INTERROGATIVE+FUTURE: káa.ayd'angäsaa'us
-     káa.ayd+V+NEGATIVE+CERTAIN+PRESENT: káa.ayd'aang'ahlanggang
-     káa.ayd+V+NEGATIVE+CERTAIN+PAST: káa.ayd'aang'ahlanggan
-     káa.ayd+V+NEGATIVE+CERTAIN+PAST+HABITUAL: káa.ayd'aang'ahlanggiinii
-     káa.ayd+V+NEGATIVE+CERTAIN+FUTURE: káa.ayd'angäsaa'ahlans
-     káa.ayd+V+NEGATIVE+CERTAIN+RELATIVE: káa.ayd'aang'ahlans
-     káa.ayd+V+NEGATIVE+INTENSIVE+PAST: káa.ayd'aangaa'ahlang
-     káa.ayd+V+NEGATIVE+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: káa.ayd'aangaa'ahlanggaa
-     káa.ayd+V+NEGATIVE+COUNTERFACTUAL+PRESENT: káa.ayd'aangaa'ahlanggang
-     káa.ayd+V+NEGATIVE+REFLEXIVE: káa.ayd'aang'ahl
-     káa.ayd+V+NEGATIVE+FUTURE+REFLEXIVE+INTERROGATIVE: káa.ayd'angäseehl
-     káa.ayd+V+NEGATIVE+PLURAL+IMPERATIVE: káa.ayd'ang'uu
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+PRESENT: káa.ayd'ang'waa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+SIMPLE+PRESENT: káa.ayd'ang'waa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+PRESENT: káa.ayd'ang'waang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST: káa.ayd'ang'wägan
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST: káa.ayd'ang'aawaa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST: káa.ayd'ang'aawaan
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE: káa.ayd'ang'waas
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: káa.ayd'ang'aawaas
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: káa.ayd'ang'waa.ang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: káa.ayd'ang'aawaa.ang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: káa.aydang'ang'waa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: káa.aydang'ang'waang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: káa.aydang'ang'waa.ang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: káa.ayd'ang'wägiinii
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: káa.ayd'ang'wägaangaa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: káa.ayd'ang'wägaangaan
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+LONG: káa.ayd'ang'waaäsaa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+FUTURE+SHORT: káa.ayd'ang'waaäs
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+SIMPLE+FUTURE: káa.ayd'ang'waaäsaang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+IMMEDIATE+FUTURE: káa.ayd'ang'waaäsga
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+FUTURE: káa.ayd'ang'waaäsaas
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+NON_FACTIVE: káa.ayd'ang'waaäsaa.ang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+NEAR+FUTURE: káa.ayd'waa.ang k̲asaa'áng
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+NEAR+FUTURE: káa.ayd'waa.ang k̲asaa'ánggang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdlä'áng
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+VERYNEAR+FUTURE: káa.ayd'waa.ang k̲asaasdlä'ánggang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+IMMEDIATE+PRESENT: káa.ayd'ang'waa'uuj
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+SIMPLE+PRESENT: káa.ayd'ang'waa'uujang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+RESIGNED_OBLIGATION: káa.ayd'ang'waaäsaa'uujang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PRESENT: káa.ayd'ang'waa'us
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST: káa.ayd'ang'waa'ujaa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+PAST+HABITUAL: káa.ayd'ang'waa'uujaangaa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+BIASED+INTERROGATIVE+FUTURE: káa.ayd'ang'waaäsaa'us
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PRESENT: káa.ayd'ang'waa'ahlanggang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST: káa.ayd'ang'waa'ahlanggan
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+PAST+HABITUAL: káa.ayd'ang'waa'ahlanggiinii
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+FUTURE: káa.ayd'ang'waaäsaa'ahlans
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+CERTAIN+RELATIVE: káa.ayd'ang'waa'ahlans
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+INTENSIVE+PAST: káa.ayd'ang'aawaa'ahlang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: káa.ayd'ang'aawaa'ahlanggaa
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+COUNTERFACTUAL+PRESENT: káa.ayd'ang'aawaa'ahlanggang
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+REFLEXIVE: káa.ayd'ang'waa'ahl
-     káa.ayd+V+NEGATIVE+3rd_PERSON_PLURAL+FUTURE+REFLEXIVE+INTERROGATIVE: káa.ayd'ang'waaäseehl
+     káa.ayd+V+SG+IMPV: káa.ayd
+     káa.ayd+V+IMM+PRES: káa.ayda
+     káa.ayd+V+INTERR+SIMP+PRES: káa.ayd
+     káa.ayd+V+SIMP+PRES: káa.aydang
+     káa.ayd+V+DIR+PAST: káa.aydan
+     káa.ayd+V+INTERR+PAST: káa.aydaa
+     káa.ayd+V+INDIR+PAST: káa.aydaan
+     káa.ayd+V+REL: káa.ayds
+     káa.ayd+V+REL+EVID: káa.aydaas
+     káa.ayd+V+NONFACT: káa.aydang
+     káa.ayd+V+PAST+NONFACT: káa.aydaa.ang
+     káa.ayd+V+INTERR+PRES+HAB: káa.aydang
+     káa.ayd+V+PRES+HAB: káa.aydanggang
+     káa.ayd+V+PRES+HAB+NONFACT: káa.aydangang
+     káa.ayd+V+DIR+PAST+HAB: káa.aydiinii
+     káa.ayd+V+INTERR+PAST+HAB: káa.aydaangaa
+     káa.ayd+V+INDIR+PAST+HAB: káa.aydaangaan
+     káa.ayd+V+INTERR+FUT+LONG: káa.aydäsaa
+     káa.ayd+V+INTERR+FUT+SHORT: káa.aydäs
+     káa.ayd+V+SIMP+FUT: káa.aydäsaang
+     káa.ayd+V+IMM+FUT: káa.aydäsga
+     káa.ayd+V+REL+FUT: káa.aydäsaas
+     káa.ayd+V+FUT+NONFACT: káa.aydäsaa.ang
+     káa.ayd+V+INTERR+NEAR+FUT: káa.aydang k̲asa'áa
+     káa.ayd+V+NEAR+FUT: káa.aydang k̲asa'áang
+     káa.ayd+V+INTERR+VNEAR+FUT: káa.aydang k̲asaasdláa
+     káa.ayd+V+VNEAR+FUT: káa.aydang k̲asaasdláang
+     káa.ayd+V+BIAS+IMM+PRES: káa.ayd'uuj
+     káa.ayd+V+BIAS+SIMP+PRES: káa.ayd'uujang
+     káa.ayd+V+RES: káa.aydäsaa'uujang
+     káa.ayd+V+BIAS+INTERR+PRES: káa.ayd'us
+     káa.ayd+V+BIAS+INTERR+PAST: káa.ayd'ujaa
+     káa.ayd+V+BIAS+INTERR+PAST+HAB: káa.ayd'uujaangaa
+     káa.ayd+V+BIAS+INTERR+FUT: káa.aydäsaa'us
+     káa.ayd+V+CERT+PRES: káa.ayd'ahlanggang
+     káa.ayd+V+CERT+PAST: káa.ayd'ahlanggan
+     káa.ayd+V+CERT+PAST+HAB: káa.ayd'ahlanggiinii
+     káa.ayd+V+CERT+FUT: káa.aydäsaa'ahlans
+     káa.ayd+V+CERT+REL: káa.ayd'ahlans
+     káa.ayd+V+INTS+PAST: káa.aydaa'ahlang
+     káa.ayd+V+CONT: káa.aydaa'ahlanggaa
+     káa.ayd+V+CTFACT+PRES: káa.aydaa'ahlanggang
+     káa.ayd+V+RFLX: káa.ayd'ahl
+     káa.ayd+V+FUT+RFLX+INTERR: káa.aydäseehl
+     káa.ayd+V+PL+IMPV: káa.ayd'uu
+     káa.ayd+V+3PL+IMM+PRES: káa.ayd'waa
+     káa.ayd+V+3PL+INTERR+SIMP+PRES: káa.ayd'waa
+     káa.ayd+V+3PL+SIMP+PRES: káa.ayd'waang
+     káa.ayd+V+3PL+DIR+PAST: káa.ayd'wägan
+     káa.ayd+V+3PL+INTERR+PAST: káa.ayd'aawaa
+     káa.ayd+V+3PL+INDIR+PAST: káa.ayd'aawaan
+     káa.ayd+V+3PL+REL: káa.ayd'waas
+     káa.ayd+V+3PL+REL+EVID: káa.ayd'aawaas
+     káa.ayd+V+3PL+NONFACT: káa.ayd'waa.ang
+     káa.ayd+V+3PL+PAST+NONFACT: káa.ayd'aawaa.ang
+     káa.ayd+V+3PL+INTERR+PRES+HAB: káa.aydang'waa
+     káa.ayd+V+3PL+PRES+HAB: káa.aydang'waang
+     káa.ayd+V+3PL+PRES+HAB+NONFACT: káa.aydang'waa.ang
+     káa.ayd+V+3PL+DIR+PAST+HAB: káa.ayd'wägiinii
+     káa.ayd+V+3PL+INTERR+PAST+HAB: káa.ayd'wägaangaa
+     káa.ayd+V+3PL+INDIR+PAST+HAB: káa.ayd'wägaangaan
+     káa.ayd+V+3PL+INTERR+FUT+LONG: káa.ayd'waaäsaa
+     káa.ayd+V+3PL+INTERR+FUT+SHORT: káa.ayd'waaäs
+     káa.ayd+V+3PL+SIMP+FUT: káa.ayd'waaäsaang
+     káa.ayd+V+3PL+IMM+FUT: káa.ayd'waaäsga
+     káa.ayd+V+3PL+REL+FUT: káa.ayd'waaäsaas
+     káa.ayd+V+3PL+FUT+NONFACT: káa.ayd'waaäsaa.ang
+     káa.ayd+V+3PL+INTERR+NEAR+FUT: káa.ayd'waa.ang k̲asa'áa
+     káa.ayd+V+3PL+NEAR+FUT: káa.ayd'waa.ang k̲asa'áang
+     káa.ayd+V+3PL+INTERR+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdláa
+     káa.ayd+V+3PL+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdláang
+     káa.ayd+V+3PL+BIAS+IMM+PRES: káa.ayd'waa'uuj
+     káa.ayd+V+3PL+BIAS+SIMP+PRES: káa.ayd'waa'uujang
+     káa.ayd+V+3PL+RES: káa.ayd'waaäsaa'uujang
+     káa.ayd+V+3PL+BIAS+INTERR+PRES: káa.ayd'waa'us
+     káa.ayd+V+3PL+BIAS+INTERR+PAST: káa.ayd'waa'ujaa
+     káa.ayd+V+3PL+BIAS+INTERR+PAST+HAB: káa.ayd'waa'uujaangaa
+     káa.ayd+V+3PL+BIAS+INTERR+FUT: káa.ayd'waaäsaa'us
+     káa.ayd+V+3PL+CERT+PRES: káa.ayd'waa'ahlanggang
+     káa.ayd+V+3PL+CERT+PAST: káa.ayd'waa'ahlanggan
+     káa.ayd+V+3PL+CERT+PAST+HAB: káa.ayd'waa'ahlanggiinii
+     káa.ayd+V+3PL+CERT+FUT: káa.ayd'waaäsaa'ahlans
+     káa.ayd+V+3PL+CERT+REL: káa.ayd'waa'ahlans
+     káa.ayd+V+3PL+INTS+PAST: káa.ayd'aawaa'ahlang
+     káa.ayd+V+3PL+CONT: káa.ayd'aawaa'ahlanggaa
+     káa.ayd+V+3PL+CTFACT+PRES: káa.ayd'aawaa'ahlanggang
+     káa.ayd+V+3PL+RFLX: káa.ayd'waa'ahl
+     káa.ayd+V+3PL+FUT+RFLX+INTERR: káa.ayd'waaäseehl
+     káa.ayd+V+NEG+SG+IMPV: káa.ayd'ang
+     káa.ayd+V+NEG+IMM+PRES: káa.ayd'angga
+     káa.ayd+V+NEG+INTERR+SIMP+PRES: káa.ayd'ang
+     káa.ayd+V+NEG+SIMP+PRES: káa.ayd'anggang
+     káa.ayd+V+NEG+DIR+PAST: káa.ayd'anggan
+     káa.ayd+V+NEG+INTERR+PAST: káa.ayd'aangaa
+     káa.ayd+V+NEG+INDIR+PAST: káa.ayd'aangaan
+     káa.ayd+V+NEG+REL: káa.ayd'ans
+     káa.ayd+V+NEG+REL+EVID: káa.ayd'aangaas
+     káa.ayd+V+NEG+NONFACT: káa.ayd'angang
+     káa.ayd+V+NEG+PAST+NONFACT: káa.ayd'aangaa.ang
+     káa.ayd+V+NEG+INTERR+PRES+HAB: káa.ayd'anggang
+     káa.ayd+V+NEG+PRES+HAB: káa.aydang'anggang
+     káa.ayd+V+NEG+PRES+HAB+NONFACT: káa.aydang'angang
+     káa.ayd+V+NEG+DIR+PAST+HAB: káa.ayd'anggiinii
+     káa.ayd+V+NEG+INTERR+PAST+HAB: káa.ayd'anggaangaa
+     káa.ayd+V+NEG+INDIR+PAST+HAB: káa.ayd'anggaangaan
+     káa.ayd+V+NEG+INTERR+FUT+LONG: káa.ayd'angäsaa
+     káa.ayd+V+NEG+INTERR+FUT+SHORT: káa.ayd'angäs
+     káa.ayd+V+NEG+SIMP+FUT: káa.ayd'angäsaang
+     káa.ayd+V+NEG+IMM+FUT: káa.ayd'angäsga
+     káa.ayd+V+NEG+REL+FUT: káa.ayd'angäsaas
+     káa.ayd+V+NEG+FUT+NONFACT: káa.ayd'angäsaa.ang
+     káa.ayd+V+NEG+INTERR+NEAR+FUT: káa.aydang k̲asaa'áng
+     káa.ayd+V+NEG+NEAR+FUT: káa.aydang k̲asaa'ánggang
+     káa.ayd+V+NEG+INTERR+VNEAR+FUT: káa.aydang k̲asaasdlä'áng
+     káa.ayd+V+NEG+VNEAR+FUT: káa.aydang k̲asaasdlä'ánggang
+     káa.ayd+V+NEG+BIAS+IMM+PRES: káa.ayd'ang'uuj
+     káa.ayd+V+NEG+BIAS+SIMP+PRES: káa.ayd'ang'uujang
+     káa.ayd+V+NEG+RES: káa.ayd'angäsaa'uujang
+     káa.ayd+V+NEG+BIAS+INTERR+PRES: káa.ayd'ang'us
+     káa.ayd+V+NEG+BIAS+INTERR+PAST: káa.ayd'ang'ujaa
+     káa.ayd+V+NEG+BIAS+INTERR+PAST+HAB: káa.ayd'ang'uujaangaa
+     káa.ayd+V+NEG+BIAS+INTERR+FUT: káa.ayd'angäsaa'us
+     káa.ayd+V+NEG+CERT+PRES: káa.ayd'aang'ahlanggang
+     káa.ayd+V+NEG+CERT+PAST: káa.ayd'aang'ahlanggan
+     káa.ayd+V+NEG+CERT+PAST+HAB: káa.ayd'aang'ahlanggiinii
+     káa.ayd+V+NEG+CERT+FUT: káa.ayd'angäsaa'ahlans
+     káa.ayd+V+NEG+CERT+REL: káa.ayd'aang'ahlans
+     káa.ayd+V+NEG+INTS+PAST: káa.ayd'aangaa'ahlang
+     káa.ayd+V+NEG+CONT: káa.ayd'aangaa'ahlanggaa
+     káa.ayd+V+NEG+CTFACT+PRES: káa.ayd'aangaa'ahlanggang
+     káa.ayd+V+NEG+RFLX: káa.ayd'aang'ahl
+     káa.ayd+V+NEG+FUT+RFLX+INTERR: káa.ayd'angäseehl
+     káa.ayd+V+NEG+PL+IMPV: káa.ayd'ang'uu
+     káa.ayd+V+NEG+3PL+IMM+PRES: káa.ayd'ang'waa
+     káa.ayd+V+NEG+3PL+INTERR+SIMP+PRES: káa.ayd'ang'waa
+     káa.ayd+V+NEG+3PL+SIMP+PRES: káa.ayd'ang'waang
+     káa.ayd+V+NEG+3PL+DIR+PAST: káa.ayd'ang'wägan
+     káa.ayd+V+NEG+3PL+INTERR+PAST: káa.ayd'ang'aawaa
+     káa.ayd+V+NEG+3PL+INDIR+PAST: káa.ayd'ang'aawaan
+     káa.ayd+V+NEG+3PL+REL: káa.ayd'ang'waas
+     káa.ayd+V+NEG+3PL+REL+EVID: káa.ayd'ang'aawaas
+     káa.ayd+V+NEG+3PL+NONFACT: káa.ayd'ang'waa.ang
+     káa.ayd+V+NEG+3PL+PAST+NONFACT: káa.ayd'ang'aawaa.ang
+     káa.ayd+V+NEG+3PL+INTERR+PRES+HAB: káa.aydang'ang'waa
+     káa.ayd+V+NEG+3PL+PRES+HAB: káa.aydang'ang'waang
+     káa.ayd+V+NEG+3PL+PRES+HAB+NONFACT: káa.aydang'ang'waa.ang
+     káa.ayd+V+NEG+3PL+DIR+PAST+HAB: káa.ayd'ang'wägiinii
+     káa.ayd+V+NEG+3PL+INTERR+PAST+HAB: káa.ayd'ang'wägaangaa
+     káa.ayd+V+NEG+3PL+INDIR+PAST+HAB: káa.ayd'ang'wägaangaan
+     káa.ayd+V+NEG+3PL+INTERR+FUT+LONG: káa.ayd'ang'waaäsaa
+     káa.ayd+V+NEG+3PL+INTERR+FUT+SHORT: káa.ayd'ang'waaäs
+     káa.ayd+V+NEG+3PL+SIMP+FUT: káa.ayd'ang'waaäsaang
+     káa.ayd+V+NEG+3PL+IMM+FUT: káa.ayd'ang'waaäsga
+     káa.ayd+V+NEG+3PL+REL+FUT: káa.ayd'ang'waaäsaas
+     káa.ayd+V+NEG+3PL+FUT+NONFACT: káa.ayd'ang'waaäsaa.ang
+     káa.ayd+V+NEG+3PL+INTERR+NEAR+FUT: káa.ayd'waa.ang k̲asaa'áng
+     káa.ayd+V+NEG+3PL+NEAR+FUT: káa.ayd'waa.ang k̲asaa'ánggang
+     káa.ayd+V+NEG+3PL+INTERR+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdlä'áng
+     káa.ayd+V+NEG+3PL+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdlä'ánggang
+     káa.ayd+V+NEG+3PL+BIAS+IMM+PRES: káa.ayd'ang'waa'uuj
+     káa.ayd+V+NEG+3PL+BIAS+SIMP+PRES: káa.ayd'ang'waa'uujang
+     káa.ayd+V+NEG+3PL+RES: káa.ayd'ang'waaäsaa'uujang
+     káa.ayd+V+NEG+3PL+BIAS+INTERR+PRES: káa.ayd'ang'waa'us
+     káa.ayd+V+NEG+3PL+BIAS+INTERR+PAST: káa.ayd'ang'waa'ujaa
+     káa.ayd+V+NEG+3PL+BIAS+INTERR+PAST+HAB: káa.ayd'ang'waa'uujaangaa
+     káa.ayd+V+NEG+3PL+BIAS+INTERR+FUT: káa.ayd'ang'waaäsaa'us
+     káa.ayd+V+NEG+3PL+CERT+PRES: káa.ayd'ang'waa'ahlanggang
+     káa.ayd+V+NEG+3PL+CERT+PAST: káa.ayd'ang'waa'ahlanggan
+     káa.ayd+V+NEG+3PL+CERT+PAST+HAB: káa.ayd'ang'waa'ahlanggiinii
+     káa.ayd+V+NEG+3PL+CERT+FUT: káa.ayd'ang'waaäsaa'ahlans
+     káa.ayd+V+NEG+3PL+CERT+REL: káa.ayd'ang'waa'ahlans
+     káa.ayd+V+NEG+3PL+INTS+PAST: káa.ayd'ang'aawaa'ahlang
+     káa.ayd+V+NEG+3PL+CONT: káa.ayd'ang'aawaa'ahlanggaa
+     káa.ayd+V+NEG+3PL+CTFACT+PRES: káa.ayd'ang'aawaa'ahlanggang
+     káa.ayd+V+NEG+3PL+RFLX: káa.ayd'ang'waa'ahl
+     káa.ayd+V+NEG+3PL+FUT+RFLX+INTERR: káa.ayd'ang'waaäseehl
 

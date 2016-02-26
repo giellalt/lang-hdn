@@ -11,30 +11,30 @@ Tests:
 
   Verb - áljahl - ENGLISH : # CLASS_AHL_STEM_2
 
-     áljahl+V+IMMEDIATE+PRESENT: áljalga
-     áljahl+V+SIMPLE+PRESENT: áljalgang
-     áljahl+V+DIRECT+PAST: áljalgan
-     áljahl+V+NON_FACTIVE: áljal.ang
-     áljahl+V+INTERROGATIVE+PRESENT+HABITUAL: áljalgang
-     áljahl+V+PRESENT+HABITUAL: áljalganggang
-     áljahl+V+PRESENT+HABITUAL+NON_FACTIVE: áljalgangang
-     áljahl+V+DIRECT+PAST+HABITUAL: áljalgiinii
-     áljahl+V+INTERROGATIVE+PAST+HABITUAL: áljalgaangaa
-     áljahl+V+INDIRECT+PAST+HABITUAL: áljalgaangaan
-     áljahl+V+INTERROGATIVE+NEAR+FUTURE: áljalang k̲asa'áa
-     áljahl+V+NEAR+FUTURE: áljalang k̲asa'áang
-     áljahl+V+INTERROGATIVE+VERYNEAR+FUTURE: áljalang k̲asaasdláa
-     áljahl+V+VERYNEAR+FUTURE: áljalang k̲asaasdláang
-     áljahl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: áljalgang'waa
-     áljahl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: áljalgang'waang
-     áljahl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: áljalgang'waa.ang
-     áljahl+V+NEGATIVE+PRESENT+HABITUAL: áljalgang'anggang
-     áljahl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: áljalgang'angang
-     áljahl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: áljalang k̲asaa'áng
-     áljahl+V+NEGATIVE+NEAR+FUTURE: áljalang k̲asaa'ánggang
-     áljahl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: áljalang k̲asaasdlä'áng
-     áljahl+V+NEGATIVE+VERYNEAR+FUTURE: áljalang k̲asaasdlä'ánggang
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: áljalgang'ang'waa
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: áljalgang'ang'waang
-     áljahl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: áljalgang'ang'waa.ang
+     áljahl+V+IMM+PRES: áljalga
+     áljahl+V+SIMP+PRES: áljalgang
+     áljahl+V+DIR+PAST: áljalgan
+     áljahl+V+NONFACT: áljal.ang
+     áljahl+V+INTERR+PRES+HAB: áljalgang
+     áljahl+V+PRES+HAB: áljalganggang
+     áljahl+V+PRES+HAB+NONFACT: áljalgangang
+     áljahl+V+DIR+PAST+HAB: áljalgiinii
+     áljahl+V+INTERR+PAST+HAB: áljalgaangaa
+     áljahl+V+INDIR+PAST+HAB: áljalgaangaan
+     áljahl+V+INTERR+NEAR+FUT: áljalang k̲asa'áa
+     áljahl+V+NEAR+FUT: áljalang k̲asa'áang
+     áljahl+V+INTERR+VNEAR+FUT: áljalang k̲asaasdláa
+     áljahl+V+VNEAR+FUT: áljalang k̲asaasdláang
+     áljahl+V+3PL+INTERR+PRES+HAB: áljalgang'waa
+     áljahl+V+3PL+PRES+HAB: áljalgang'waang
+     áljahl+V+3PL+PRES+HAB+NONFACT: áljalgang'waa.ang
+     áljahl+V+NEG+PRES+HAB: áljalgang'anggang
+     áljahl+V+NEG+PRES+HAB+NONFACT: áljalgang'angang
+     áljahl+V+NEG+INTERR+NEAR+FUT: áljalang k̲asaa'áng
+     áljahl+V+NEG+NEAR+FUT: áljalang k̲asaa'ánggang
+     áljahl+V+NEG+INTERR+VNEAR+FUT: áljalang k̲asaasdlä'áng
+     áljahl+V+NEG+VNEAR+FUT: áljalang k̲asaasdlä'ánggang
+     áljahl+V+NEG+3PL+INTERR+PRES+HAB: áljalgang'ang'waa
+     áljahl+V+NEG+3PL+PRES+HAB: áljalgang'ang'waang
+     áljahl+V+NEG+3PL+PRES+HAB+NONFACT: áljalgang'ang'waa.ang
 

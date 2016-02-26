@@ -11,30 +11,30 @@ Tests:
 
   Verb - hlgihl - ENGLISH : # CLASS_IHL_STEM_2
 
-     hlgihl+V+IMMEDIATE+PRESENT: hlgílga
-     hlgihl+V+SIMPLE+PRESENT: hlgílgang
-     hlgihl+V+DIRECT+PAST: hlgílgan
-     hlgihl+V+NON_FACTIVE: hlgílang
-     hlgihl+V+INTERROGATIVE+PRESENT+HABITUAL: hlgílgang
-     hlgihl+V+PRESENT+HABITUAL: hlgílganggang
-     hlgihl+V+PRESENT+HABITUAL+NON_FACTIVE: hlgílgangang
-     hlgihl+V+DIRECT+PAST+HABITUAL: hlgílgiinii
-     hlgihl+V+INTERROGATIVE+PAST+HABITUAL: hlgílgaangaa
-     hlgihl+V+INDIRECT+PAST+HABITUAL: hlgílgaangaan
-     hlgihl+V+INTERROGATIVE+NEAR+FUTURE: hlgílang k̲asa'áa
-     hlgihl+V+NEAR+FUTURE: hlgílang k̲asa'áang
-     hlgihl+V+INTERROGATIVE+VERYNEAR+FUTURE: hlgílang k̲asaasdláa
-     hlgihl+V+VERYNEAR+FUTURE: hlgílang k̲asaasdláang
-     hlgihl+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hlgílgang'waa
-     hlgihl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hlgílgang'waang
-     hlgihl+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hlgílgang'waa.ang
-     hlgihl+V+NEGATIVE+PRESENT+HABITUAL: hlgílgang'anggang
-     hlgihl+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: hlgílgang'angang
-     hlgihl+V+NEGATIVE+INTERROGATIVE+NEAR+FUTURE: hlgílang k̲asaa'áng
-     hlgihl+V+NEGATIVE+NEAR+FUTURE: hlgílang k̲asaa'ánggang
-     hlgihl+V+NEGATIVE+INTERROGATIVE+VERYNEAR+FUTURE: hlgílang k̲asaasdlä'áng
-     hlgihl+V+NEGATIVE+VERYNEAR+FUTURE: hlgílang k̲asaasdlä'ánggang
-     hlgihl+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: hlgílgang'ang'waa
-     hlgihl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: hlgílgang'ang'waang
-     hlgihl+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: hlgílgang'ang'waa.ang
+     hlgihl+V+IMM+PRES: hlgílga
+     hlgihl+V+SIMP+PRES: hlgílgang
+     hlgihl+V+DIR+PAST: hlgílgan
+     hlgihl+V+NONFACT: hlgílang
+     hlgihl+V+INTERR+PRES+HAB: hlgílgang
+     hlgihl+V+PRES+HAB: hlgílganggang
+     hlgihl+V+PRES+HAB+NONFACT: hlgílgangang
+     hlgihl+V+DIR+PAST+HAB: hlgílgiinii
+     hlgihl+V+INTERR+PAST+HAB: hlgílgaangaa
+     hlgihl+V+INDIR+PAST+HAB: hlgílgaangaan
+     hlgihl+V+INTERR+NEAR+FUT: hlgílang k̲asa'áa
+     hlgihl+V+NEAR+FUT: hlgílang k̲asa'áang
+     hlgihl+V+INTERR+VNEAR+FUT: hlgílang k̲asaasdláa
+     hlgihl+V+VNEAR+FUT: hlgílang k̲asaasdláang
+     hlgihl+V+3PL+INTERR+PRES+HAB: hlgílgang'waa
+     hlgihl+V+3PL+PRES+HAB: hlgílgang'waang
+     hlgihl+V+3PL+PRES+HAB+NONFACT: hlgílgang'waa.ang
+     hlgihl+V+NEG+PRES+HAB: hlgílgang'anggang
+     hlgihl+V+NEG+PRES+HAB+NONFACT: hlgílgang'angang
+     hlgihl+V+NEG+INTERR+NEAR+FUT: hlgílang k̲asaa'áng
+     hlgihl+V+NEG+NEAR+FUT: hlgílang k̲asaa'ánggang
+     hlgihl+V+NEG+INTERR+VNEAR+FUT: hlgílang k̲asaasdlä'áng
+     hlgihl+V+NEG+VNEAR+FUT: hlgílang k̲asaasdlä'ánggang
+     hlgihl+V+NEG+3PL+INTERR+PRES+HAB: hlgílgang'ang'waa
+     hlgihl+V+NEG+3PL+PRES+HAB: hlgílgang'ang'waang
+     hlgihl+V+NEG+3PL+PRES+HAB+NONFACT: hlgílgang'ang'waa.ang
 

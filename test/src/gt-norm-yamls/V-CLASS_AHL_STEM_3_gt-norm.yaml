@@ -11,16 +11,16 @@ Tests:
 
   Verb - áljahl - ENGLISH : # CLASS_AHL_STEM_3
 
-     áljahl+V+INTERROGATIVE+PAST: áljaalaa
-     áljahl+V+INDIRECT+PAST: áljaalaan
-     áljahl+V+RELATIVE+EVIDENTIAL: áljaalaas
-     áljahl+V+PAST+NON_FACTIVE: áljaalaa.ang
-     áljahl+V+CERTAIN+PRESENT: áljaal'ahlanggang
-     áljahl+V+CERTAIN+PAST: áljaal'ahlanggan
-     áljahl+V+CERTAIN+PAST+HABITUAL: áljaal'ahlanggiinii
-     áljahl+V+CERTAIN+RELATIVE: áljaal'ahlans
-     áljahl+V+INTENSIVE+PAST: áljaalaa'ahlang
-     áljahl+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: áljaalaa'ahlanggaa
-     áljahl+V+COUNTERFACTUAL+PRESENT: áljaalaa'ahlanggang
-     áljahl+V+REFLEXIVE: áljaal'ahl
+     áljahl+V+INTERR+PAST: áljaalaa
+     áljahl+V+INDIR+PAST: áljaalaan
+     áljahl+V+REL+EVID: áljaalaas
+     áljahl+V+PAST+NONFACT: áljaalaa.ang
+     áljahl+V+CERT+PRES: áljaal'ahlanggang
+     áljahl+V+CERT+PAST: áljaal'ahlanggan
+     áljahl+V+CERT+PAST+HAB: áljaal'ahlanggiinii
+     áljahl+V+CERT+REL: áljaal'ahlans
+     áljahl+V+INTS+PAST: áljaalaa'ahlang
+     áljahl+V+CONT: áljaalaa'ahlanggaa
+     áljahl+V+CTFACT+PRES: áljaalaa'ahlanggang
+     áljahl+V+RFLX: áljaal'ahl
 

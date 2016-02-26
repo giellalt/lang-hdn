@@ -11,16 +11,16 @@ Tests:
 
   Verb - chíigang - ENGLISH : # CLASS_ANG_STEM_2
 
-     chíigang+V+INTERROGATIVE+PAST: chíigaangaa
-     chíigang+V+INDIRECT+PAST: chíigaangaan
-     chíigang+V+RELATIVE+EVIDENTIAL: chíigaangaas
-     chíigang+V+PAST+NON_FACTIVE: chíigaangaa.ang
-     chíigang+V+CERTAIN+PRESENT: chíigaang'ahlanggang
-     chíigang+V+CERTAIN+PAST: chíigaang'ahlanggan
-     chíigang+V+CERTAIN+PAST+HABITUAL: chíigaang'ahlanggiinii
-     chíigang+V+CERTAIN+RELATIVE: chíigaang'ahlans
-     chíigang+V+INTENSIVE+PAST: chíigaangaa'ahlang
-     chíigang+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: chíigaangaa'ahlanggaa
-     chíigang+V+COUNTERFACTUAL+PRESENT: chíigaangaa'ahlanggang
-     chíigang+V+REFLEXIVE: chíigaang'ahl
+     chíigang+V+INTERR+PAST: chíigaangaa
+     chíigang+V+INDIR+PAST: chíigaangaan
+     chíigang+V+REL+EVID: chíigaangaas
+     chíigang+V+PAST+NONFACT: chíigaangaa.ang
+     chíigang+V+CERT+PRES: chíigaang'ahlanggang
+     chíigang+V+CERT+PAST: chíigaang'ahlanggan
+     chíigang+V+CERT+PAST+HAB: chíigaang'ahlanggiinii
+     chíigang+V+CERT+REL: chíigaang'ahlans
+     chíigang+V+INTS+PAST: chíigaangaa'ahlang
+     chíigang+V+CONT: chíigaangaa'ahlanggaa
+     chíigang+V+CTFACT+PRES: chíigaangaa'ahlanggang
+     chíigang+V+RFLX: chíigaang'ahl
 

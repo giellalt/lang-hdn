@@ -11,11 +11,11 @@ Tests:
 
   Verb - kíl is - ENGLISH : # CLASS_IS_STEM_3
 
-     kíl is+V+INTERROGATIVE+PAST: kíl ijáa
-     kíl is+V+INDIRECT+PAST: kíl ijáan
-     kíl is+V+RELATIVE+EVIDENTIAL: kíl ijáas
-     kíl is+V+PAST+NON_FACTIVE: kíl ijáa.ang
-     kíl is+V+INTENSIVE+PAST: kíl ijáa'ahlang
-     kíl is+V+SHOULD_KEEP_ON_VERBING_FOR_A_WHILE: kíl ijáa'ahlanggaa
-     kíl is+V+COUNTERFACTUAL+PRESENT: kíl ijáa'ahlanggang
+     kíl is+V+INTERR+PAST: kíl ijáa
+     kíl is+V+INDIR+PAST: kíl ijáan
+     kíl is+V+REL+EVID: kíl ijáas
+     kíl is+V+PAST+NONFACT: kíl ijáa.ang
+     kíl is+V+INTS+PAST: kíl ijáa'ahlang
+     kíl is+V+CONT: kíl ijáa'ahlanggaa
+     kíl is+V+CTFACT+PRES: kíl ijáa'ahlanggang
 
