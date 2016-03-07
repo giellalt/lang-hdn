@@ -8,7 +8,9 @@
 
 # List any local additions here:
 GT_LOCAL_FSTSPELLER_FILTER_SRCS=remove-everything-to-the-right-of-space.regex \
-                                remove-everything-to-the-left-of-space.regex
+                                remove-everything-to-the-left-of-space.regex  \
+                                remove-edge-spaces.regex \
+                                remove-space-strings.regex
 
 # Only build these things if speller fst's are enabled:
 if WANT_SPELLERS

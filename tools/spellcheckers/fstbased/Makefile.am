@@ -9,11 +9,15 @@ SUBDIRS = filters . desktop mobile
 
 generator-fstspeller-gt-norm.%: generator-fstspeller-gt-norm.tmp.% \
                           filters/remove-everything-to-the-right-of-space.% \
-                          filters/remove-everything-to-the-left-of-space.%
+                          filters/remove-everything-to-the-left-of-space.% \
+                          filters/remove-edge-spaces.% \
+                          filters/remove-space-strings.%
 	$(AM_V_XFST_TOOL)$(PRINTF) "read regex \
-			[   @\"$<\" .o. \
-			( [ @\"filters/remove-everything-to-the-left-of-space.$*\" \
-			.o. @\"filters/remove-everything-to-the-right-of-space.$*\" ] ) ] \
+				@\"$<\" \
+			.o. @\"filters/remove-everything-to-the-left-of-space.$*\" \
+			.o. @\"filters/remove-everything-to-the-right-of-space.$*\" \
+			.o. @\"filters/remove-edge-spaces.$*\" \
+			.o. @\"filters/remove-space-strings.$*\" \
 			;\n\
 		 save stack $@\n\
 		 quit\n" | $(XFST_TOOL)
