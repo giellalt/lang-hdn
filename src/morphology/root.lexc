@@ -72,6 +72,8 @@ s2 !!= * @CODE@ =
 +Indef	!!= * @CODE@ =
 +Rfx	!!= * @CODE@ = Used for reflexively possessed body parts and kinterms
 +Abs    !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
++Pron	    !!= * @CODE@ =
++Ptcl	    !!= * @CODE@ =
 
 
 
