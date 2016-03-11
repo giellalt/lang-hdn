@@ -29,12 +29,14 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/adjectives.lexc \
 			 stems/nouns.lexc \
 			 stems/prefixes.lexc \
+			 stems/pronouns.lexc \
+			 stems/adverbs.lexc \
 			 stems/postpositions.lexc \
+			 stems/particles.lexc \
 			 stems/punctuation.lexc   \
 			 stems/verbs.lexc \
 			 stems/numerals.lexc \
 			 affixes/adjectives.lexc 
-#			 stems/pronouns.lexc \
 #			 affixes/propernouns.lexc \
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
