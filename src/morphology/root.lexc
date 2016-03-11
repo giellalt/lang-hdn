@@ -331,12 +331,12 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
   Nouns   ;
   Verbs   ;    !!= * @CODE@ 
-!  Adverbs ;
-!   Adjectives  ;
-!   Pronouns    ;
-   Numerals    ;
-   Particles ;
-   Postpositions ;
+  Adverbs ;
+  Adjectives  ;
+  Pronouns    ;
+  Numerals    ;
+  Particles ;
+  Postpositions ;
 ! Punctuation ;
 
 
