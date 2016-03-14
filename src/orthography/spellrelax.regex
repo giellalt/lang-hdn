@@ -10,9 +10,11 @@
 ú (->) ú ,	# composed apostrophe
 Í (->) I , # no apostrophe
 Á (->) A , # no apostrophe
+É (->) E , # no apostrophe
 Ú (->) U , # no apostrophe
 í (->) i , # no apostrophe
 á (->) a , # no apostrophe
+é (->) e , # no apostrophe
 ú (->) u , # no apostrophe
 ' (->) q , # apostroph
 ' (->) ’ , # right single quot
