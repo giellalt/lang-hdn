@@ -31,7 +31,10 @@ x̲ (->) x̱ , # 0331 macron below
 k̲ (->) ḵ , # 1E35 small letter k with line below
 
 ä (->) a ,
-ï (->) i
+ï (->) i ,
+
+%  (->) %- , # group multipart words with hyphen instead of space
+%  (->) %_   # group multipart words with underscore instead of space
 ;
 
 # Explanation:
