@@ -3,70 +3,70 @@
 !! Pronouns in UNDEFINED language are references to things.
 
 LEXICON Pronouns
-Hl Pronounlex "I" ; 1sg agent
-dáng Pronounlex "you (sg)" ; 2sg agent
-'ll Pronounlex "he, she, it, they" ; 3 agent
-t'aláng Pronounlex "we" ; 1pl agent
-daláng Pronounlex "you (pl)"; 2pl agent
-tl' Pronounlex "they, people" ; 3pl indef agent
-tl'ä Pronounlex "they, people" ; 3pl indef agent
-Hláa Pronounlex "I" ; 1sg agent (full)
-dáa Pronounlex "you (sg)" ; 2sg agent (full)
-'láa Pronounlex "he, she, it, they" ; 3 agent (full)
-t'aláng Pronounlex "we" ; 1pl agent (full)
-daláng Pronounlex "you (pl)"; 2pl agent (full)
-tl'áa Pronounlex "they, people" ; 3pl indef agent (full)
-díi Pronounlex "me" ; 1sg patient
-dáng Pronounlex "you (sg)" ; 2sg patient
-'ll Pronounlex "him, her, it, them" ; 3 patient
-íitl' Pronounlex "us" ; 1pl patient
-daláng Pronounlex "you (pl)" ; 2pl patient
-tl' Pronounlex "them, people" ; 3pl indef patient 
-tl'ä Pronounlex "them, people" ; 3pl indef patient 
-díi Pronounlex "me" ; 1sg patient (full)
-dáng Pronounlex "you (sg)" ; 2sg patient (full)
-'láa Pronounlex "him, her, it, them" ; 3 patient (full)
-íitl' Pronounlex "us" ; 1pl patient (full)
-daláng Pronounlex "you (pl)" ; 2pl patient (full)
-tl'áa Pronounlex "them, people" ; 3pl indef patient (full) 
-díi Pronounlex "me" ; 1sg object
-dáng Pronounlex "you (sg)" ; 2sg object
-'láa Pronounlex "him, her, it, them" ; 3 object
-íitl' Pronounlex "us" ; 1pl object
-daláng Pronounlex "you (pl)" ; 2pl object
-tl'áa Pronounlex "them, people" ; 3pl indef object 
-gyáagan Pronounlex "my" ; 1sg alienable Px Type 1
-dáng% gyaa Pronounlex "your (sg)" ; 2sg alienable Px Type 1
-'láa% gyaa Pronounlex "his, her, its, their" ; 3 alienable Px Type 1
-íitl'% gyaa Pronounlex "our" ; 1pl alienable Px Type 1
-daláng% gyaa Pronounlex "your (pl)"; 2pl alienable Px Type 1
-tl'áa% gyaa Pronounlex "their, people's" ; 3pl indef alienable Px Type 1
-díi Pronounlex "my" ; 1sg inalienable Px
-dáng Pronounlex "your (sg)" ; 2sg inalienable Px
-'ll Pronounlex "his, her, its, their" ; 3 inalienable Px
-íitl Pronounlex "our" ; 1pl inalienable Px
-daláng Pronounlex "your (pl)"; 2pl inalienable Px
-tl'áa Pronounlex "their, people's" ; 3pl indef inalienable Px
-díinaa Pronounlex "my" ; 1sg alienable Px Type 2
-dáangaa Pronounlex "your (sg)" ; 2sg alienable Px Type 2
-'láangaa Pronounlex "his, her, its, their" ; 3 alienable Px Type 2
-íitl'aangaa Pronounlex "our" ; 1pl alienable Px Type 2
-daláangaa Pronounlex "your (pl)"; 2pl alienable Px Type 2
-tl'áangaa Pronounlex "their, people's" ; 3pl indef alienable Px Type 2
-díi Pronounlex "my" ; 1sg alienable Px Type 3
-dáa Pronounlex "your (sg)" ; 2sg alienable Px Type 3
-'láa Pronounlex "his, her, its, their" ; 3 alienable Px Type 3
-íitl'aa Pronounlex "our" ; 1pl alienable Px Type 3
-daláang Pronounlex "your (pl)"; 2pl alienable Px Type 3
-tl'áa Pronounlex "their, people's" ; 3pl indef alienable Px Type 3
-gu Pronounlex "each other" ; reciprocal object
-gud Pronounlex "each other" ; reciprocal object 
-án Pronounlex "each other" ; reflexive object
-áng Pronounlex "each other" ; reflexive object
-agán Pronounlex "each other" ; reciprocal object
-agáng Pronounlex "each other" ; reciprocal object
-nang Pronounlex "someone" ; 3sg indef singular
-angáa Pronounlex "one's own" ; reflexive possessive
+Hl Pronounlex "I" ; ! 1sg agent
+dáng Pronounlex "you (sg)" ; ! 2sg agent
+'ll Pronounlex "he, she, it, they" ; ! 3 agent
+t'aláng Pronounlex "we" ; ! 1pl agent
+daláng Pronounlex "you (pl)"; ! 2pl agent
+tl' Pronounlex "they, people" ; ! 3pl indef agent
+tl'ä Pronounlex "they, people" ; ! 3pl indef agent
+Hláa Pronounlex "I" ; ! 1sg agent (full)
+dáa Pronounlex "you (sg)" ; ! 2sg agent (full)
+'láa Pronounlex "he, she, it, they" ; ! 3 agent (full)
+t'aláng Pronounlex "we" ; ! 1pl agent (full)
+daláng Pronounlex "you (pl)"; ! 2pl agent (full)
+tl'áa Pronounlex "they, people" ; ! 3pl indef agent (full)
+díi Pronounlex "me" ; ! 1sg patient
+dáng Pronounlex "you (sg)" ; ! 2sg patient
+'ll Pronounlex "him, her, it, them" ; ! 3 patient
+íitl' Pronounlex "us" ; ! 1pl patient
+daláng Pronounlex "you (pl)" ; ! 2pl patient
+tl' Pronounlex "them, people" ; ! 3pl indef patient 
+tl'ä Pronounlex "them, people" ; ! 3pl indef patient 
+díi Pronounlex "me" ; ! 1sg patient (full)
+dáng Pronounlex "you (sg)" ; ! 2sg patient (full)
+'láa Pronounlex "him, her, it, them" ; ! 3 patient (full)
+íitl' Pronounlex "us" ; ! 1pl patient (full)
+daláng Pronounlex "you (pl)" ; ! 2pl patient (full)
+tl'áa Pronounlex "them, people" ; ! 3pl indef patient (full) 
+díi Pronounlex "me" ; ! 1sg object
+dáng Pronounlex "you (sg)" ; ! 2sg object
+'láa Pronounlex "him, her, it, them" ; ! 3 object
+íitl' Pronounlex "us" ; ! 1pl object
+daláng Pronounlex "you (pl)" ; ! 2pl object
+tl'áa Pronounlex "them, people" ; ! 3pl indef object 
+gyáagan Pronounlex "my" ; ! 1sg alienable Px Type 1
+dáng% gyaa Pronounlex "your (sg)" ; ! 2sg alienable Px Type 1
+'láa% gyaa Pronounlex "his, her, its, their" ; ! 3 alienable Px Type 1
+íitl'% gyaa Pronounlex "our" ; ! 1pl alienable Px Type 1
+daláng% gyaa Pronounlex "your (pl)"; ! 2pl alienable Px Type 1
+tl'áa% gyaa Pronounlex "their, people's" ; ! 3pl indef alienable Px Type 1
+díi Pronounlex "my" ; ! 1sg inalienable Px
+dáng Pronounlex "your (sg)" ; ! 2sg inalienable Px
+'ll Pronounlex "his, her, its, their" ; ! 3 inalienable Px
+íitl Pronounlex "our" ; ! 1pl inalienable Px
+daláng Pronounlex "your (pl)"; ! 2pl inalienable Px
+tl'áa Pronounlex "their, people's" ; ! 3pl indef inalienable Px
+díinaa Pronounlex "my" ; ! 1sg alienable Px Type 2
+dáangaa Pronounlex "your (sg)" ; ! 2sg alienable Px Type 2
+'láangaa Pronounlex "his, her, its, their" ; ! 3 alienable Px Type 2
+íitl'aangaa Pronounlex "our" ; ! 1pl alienable Px Type 2
+daláangaa Pronounlex "your (pl)"; ! 2pl alienable Px Type 2
+tl'áangaa Pronounlex "their, people's" ; ! 3pl indef alienable Px Type 2
+díi Pronounlex "my" ; ! 1sg alienable Px Type 3
+dáa Pronounlex "your (sg)" ; ! 2sg alienable Px Type 3
+'láa Pronounlex "his, her, its, their" ; ! 3 alienable Px Type 3
+íitl'aa Pronounlex "our" ; ! 1pl alienable Px Type 3
+daláang Pronounlex "your (pl)"; ! 2pl alienable Px Type 3
+tl'áa Pronounlex "their, people's" ; ! 3pl indef alienable Px Type 3
+gu Pronounlex "each other" ; ! reciprocal object
+gud Pronounlex "each other" ; ! reciprocal object 
+án Pronounlex "each other" ; ! reflexive object
+áng Pronounlex "each other" ; ! reflexive object
+agán Pronounlex "each other" ; ! reciprocal object
+agáng Pronounlex "each other" ; ! reciprocal object
+nang Pronounlex "someone" ; ! 3sg indef singular
+angáa Pronounlex "one's own" ; ! reflexive possessive
 
 ! vim: set ft=xfst-lexc:
 
