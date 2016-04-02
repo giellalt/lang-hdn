@@ -1,0 +1,6 @@
+source hdn-diacritic-unify.regex
+
+save stack hdn-diacritic-unify.fst
+
+quit
+
