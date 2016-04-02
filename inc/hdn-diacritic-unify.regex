@@ -1,0 +1,19 @@
+read regex [
+# Accented characters
+Í <- Í , # composed apostrophe
+Á <- Á ,	# composed apostrophe
+Ú <- Ú ,	# composed apostrophe
+í <- í ,	# composed apostrophe
+á <- á ,	# composed apostrophe
+ú <- ú ,	# composed apostrophe
+# Minuscule underlined characters
+g̲ <- g̱ , # 0331 macron below
+k̲ <- ḵ , # 0331 macron below
+x̲ <- x̱ , # 0331 macron below
+k̲ <- ḵ ,  # 1E35 small letter k with line below
+# Capital underlined composed letters <- macron below
+G̲ <- G̱ ,
+K̲ <- Ḵ ,
+X̲ <- X̱
+] ;
+
