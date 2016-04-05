@@ -31,14 +31,14 @@ LEXICON cl_descriptive
 cháam Classifier_Verbs "relatively long and narrow cylindrical object" ;
 
 LEXICON cl_sound
-ál Classifier_Verbs "stylized high-pitched female laughter" ;
+ál Classifier_Verbs "stylized high-pitched female laughter" ;
 dab Classifier_Verbs "ound of a soft, heavy object striking" ;
-cháam Classifier_Verbs "loud high-pitched voice" ; !only w/ CL+daga and CL+gangáang
+cháam Classifier_Verbs "loud high-pitched voice" ; !only w/ CL+daga and CL+gangáang
 
 LEXICON cl_color
-dám Classifier_Verbs "be transparent, be translucent" ; !only w/ CL+dala
-gáng Classifier_Verbs "pale color, pastel color" ; !only w/ CL+dala
-hlgáw Classifier_Verbs "be transparent" ; !only w/ CL+dala
+dám Classifier_Verbs "be transparent, be translucent" ; !only w/ CL+dala
+gáng Classifier_Verbs "pale color, pastel color" ; !only w/ CL+dala
+hlgáw Classifier_Verbs "be transparent" ; !only w/ CL+dala
 
 LEXICON Classifier_Verbs
 « Classifier_Verbstems ;
