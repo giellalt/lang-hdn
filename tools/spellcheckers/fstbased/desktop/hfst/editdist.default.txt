@@ -4,7 +4,6 @@
 a
 b
 c
-č
 d
 e
 f
@@ -29,6 +28,19 @@ w
 x
 y
 z
+á
+é
+ó
+ú
+í
+à
+è
+ò
+ù
+ì
+g̲
+k̲
+x̲
 -
 .
 0
@@ -46,8 +58,20 @@ z
 ## Transition pairs + weight - section separator:
 @@
 
-## Transition pair specifications + weight:
-a	á	0.4
+## Transition pair specifications:
+a	á	0.6
+e	é	0.6
+o	ó	0.6
+u	ú	0.6
+i	í	0.6
+a	à	0.3
+e	è	0.3
+o	ò	0.3
+u	ù	0.3
+i	ì	0.3
+g	g̲	0.1
+k	k̲	0.1
+x	x̲	0.1
 
 ## Swaps:
 ## Change dh into hd with the weight 0.5:
