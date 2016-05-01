@@ -32,6 +32,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/pronouns.lexc \
 			 stems/adverbs.lexc \
 			 stems/postpositions.lexc \
+			 stems/hdn-propernouns.lexc \
 			 stems/particles.lexc \
 			 stems/punctuation.lexc   \
 			 stems/verbs.lexc \

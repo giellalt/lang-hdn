@@ -337,6 +337,7 @@ LEXICON Root
   Numerals    ;
   Particles ;
   Postpositions ;
-! Punctuation ;
+  Propernouns ;
+  Punctuation ;
 
 
