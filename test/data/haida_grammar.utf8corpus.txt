@@ -113,14 +113,14 @@
 & Betty is female .
 & Betty and Jane are female .
 
-# Díi ˝usdiyáagang .
-# Íitl' ˝ujangáagang .
+# Díi x̲usdiyáagang .
+# Íitl' x̲ujangáagang .
 
 & I'm broke .
 & We're broke .
 
-# Nang íihlangaas ˝áldangaagang .
-# Íihlaants'ädaay ˝áldaants'ädaagang .
+# Nang íihlangaas x̲áldangaagang .
+# Íihlaants'ädaay x̲áldaants'ädaagang .
 
 & The man is a slave .
 & The men are slaves .
@@ -252,10 +252,10 @@
 & You stared at him/her .
 & He/she stared at him/her .
 
-& 'Láa t'aláng g̲atl'áanggan .
-& 'Láa daláng g̲atl'áanggan .
-& 'Láa 'll g̲atl'áang'wägan .
-& 'Láa tl' g̲atl'áanggan .
+# 'Láa t'aláng g̲atl'áanggan .
+# 'Láa daláng g̲atl'áanggan .
+# 'Láa 'll g̲atl'áang'wägan .
+# 'Láa tl' g̲atl'áanggan .
 
 & We stared at him/her .
 & You folks stared at him/her .
@@ -263,9 +263,9 @@
 & People stared at him/her .
 
 
-# Steve ta ˝áwdaang .
+# Steve ta x̲áwdaang .
 # Paul naawhláang .
-# Cathy ˝áng k̲álgaadaang .
+# Cathy x̲áng k̲álgaadaang .
 # Jennie sda skáawnanggang .
 # Frank hlkúnst'iijan .
 
@@ -435,7 +435,7 @@
 
 
 
-# Kathy g̲áan ˝awáay dáalt'asdägan .
+# Kathy g̲áan x̲awáay dáalt'asdägan .
 # Joe Bill xijuuláanggan .
 # Amy dáalaay sg̲álts'ägan .
 # Sarah Andy k̲'íisdluwägan .
@@ -921,7 +921,7 @@
 # 'Láa íisdä jáast'ägan .
 # 'Ll stláay ii k'áwdaalgang .
 # 'Ll jáa ii g̲ahlägán .
-# Áajii ˝áay t'álgä k̲éenggaagang .
+# Áajii x̲áay t'álgä k̲éenggaagang .
 
 & Joe's boat is in demand .
 & The fish looks delicious .
@@ -1073,7 +1073,7 @@
 
 # Húu 'll hlg̲ánggulaa'ahlanggiinii .
 # 'Ll k'u xajáang'ahlanggiinii .
-# K̲igw 'll ˝áay'ahlanggiinii .
+# K̲igw 'll x̲áay'ahlanggiinii .
 
 & He must used to have worked there .
 & She must used to have smoked .
@@ -1223,7 +1223,7 @@
 
 # Tlaawhlayée díi 'll sk̲'ad'adägán .
 # G̲áa k'ajuwée 'láa Hl sk̲'ad'adáaäsaang .
-# K̲igw ˝áaygee íitl' 'll sk̲'ad'adáang .
+# K̲igw x̲áaygee íitl' 'll sk̲'ad'adáang .
 
 & He taught me to fix it .
 & I will teach him to sing it .
@@ -1505,7 +1505,7 @@
 & Finish eating right away!
 
 & 'Ll st'i dlajúudaang .
-# 'Ll gudangáay 'láa ˝ajúudä'waang .
+# 'Ll gudangáay 'láa x̲ajúudä'waang .
 # G̲íi 'll hlg̲ánggulaa dlajúudaang .
 # 'Ll kingáa dlajúudägan .
 # Náay 'll tlaawhláa dlajúudaang .
@@ -1520,7 +1520,7 @@
 # Adaahl gwa'áaw gayéedäsaang .
 # Anáa 'll is gayéedhanggang .
 # 'Ll k̲'adíi gayéedang .
-# Hl tla ˝áasdlä gayéedan .
+# Hl tla x̲áasdlä gayéedan .
 # 'Láa Hl k̲íng gayéedan .
 
 & It might rain tomorrow .
@@ -1888,7 +1888,7 @@
 
 
 # Íitl' gä 'll tlaayd xaaydán .
-# 'Ll ta ˝áy xaaydáng .
+# 'Ll ta x̲áy xaaydáng .
 # Án t'aláng sáanjuudä xa'áanggan .
 # Daláng gw ta tl'íi xa'áangaa?
 # Hl hlg̲ánggulä xaaydäsáang .
@@ -1927,11 +1927,11 @@
 & It will rain repeatedly for short periods of time .
 
 
-# G̲íi 'll hlg̲ánggulä ˝ánsgiidang .
-# Gwa'áaw ˝ánsgiidan .
-# Gud áa t'aláng gúusuu ˝ánsgiidan .
-# Gám xayáa ˝ánsgad'anggang .
-# Gám xayáa ˝ánsgad'anggang .
+# G̲íi 'll hlg̲ánggulä x̲ánsgiidang .
+# Gwa'áaw x̲ánsgiidan .
+# Gud áa t'aláng gúusuu x̲ánsgiidan .
+# Gám xayáa x̲ánsgad'anggang .
+# Gám xayáa x̲ánsgad'anggang .
 
 & She has been working on it for quite a while .
 & It rained for quite a while .
@@ -2087,7 +2087,7 @@
 # 'Láa gä Hl diyínghiidan .
 # Gíisand uu gwa'áawhidaa?
 # Gáawaan 'll tlaawhlähid'ánggang .
-# Gám gin ˝áwlaa 'll táahid'anggang .
+# Gám gin x̲áwlaa 'll táahid'anggang .
 
 & She started to sing .
 & I started to look for him .
@@ -2241,7 +2241,7 @@
 
 # Díi 'll st'i dlajúudahalgan .
 # G̲íi 'láa Hl hlg̲ánggulä dlajúudahalgan .
-# Íitl' 'll k'ajúu ˝ajúudahalgan .
+# Íitl' 'll k'ajúu x̲ajúudahalgan .
 
 & He told me to act like I'm sick .
 & I told him to act like he's working on it .
@@ -2256,7 +2256,7 @@
 & He accidentally fell down right away .
 
 
-# 'Ll tla ˝áasdlä gayéed gíigang .
+# 'Ll tla x̲áasdlä gayéed gíigang .
 & She has already spilled it accidentally .
 # 'Láa aa 'll gúusuu gayéed gíigang .
 & He has already accidentally talked to her .
@@ -2266,7 +2266,7 @@
 
 # 'Ll k'ajúu gayéed gínggang .
 # Anáa 'll is gíng gayéedang .
-# 'Ll tla ˝asdlä gayéed gínggan .
+# 'Ll tla x̲asdlä gayéed gínggan .
 
 & They might be singing on the boat .
 & He might be at home on the boat [houseboat] .
@@ -2299,7 +2299,7 @@
 & I accidentally drank too much coffee .
 
 # 'Ll ta tl'íi gáay g̲áayaagang .
-# K̲igw Hl ˝áy gáay g̲áayaagang .
+# K̲igw Hl x̲áy gáay g̲áayaagang .
 # T'aláng xyáahl gáay g̲áayaagang .
 
 & She already knows how to sew .
@@ -2534,14 +2534,14 @@
 
 # 'Ll ta k'udláan g̲áayaa jíingaagang .
 # T'aláng xyáal g̲áayaa jíingaagang .
-# Dáng gw ta ˝áay g̲áayaa jíingaa?
+# Dáng gw ta x̲áay g̲áayaa jíingaa?
 
 & She has known for a long time how to paint .
 & We have known for a long time how to dance .
 & Have you known for a long time how to weave?
 
 # 'Ll tlaawhláa g̲áayaa saliyáagang .
-# Dáng ta ˝áay g̲áayaa saliyáagang .
+# Dáng ta x̲áay g̲áayaa saliyáagang .
 # 'Ll xyáal g̲áayaa saliyáa'waang .
 
 & It looks like she know how to fix it .
@@ -2590,7 +2590,7 @@
 & You told her to finish working on it .
 
 # G̲íi Hl hlg̲ánggulä g̲íihldä'uhlägan .
-# 'Ll ta ˝áy g̲íihldä'uhlaaäsaang .
+# 'Ll ta x̲áy g̲íihldä'uhlaaäsaang .
 # Dáa gw k'udlán g̲íihldä'uhlaayaa?
 
 & I finished working on it in the morning .
@@ -2656,7 +2656,7 @@
 & I really don't know how to dance .
 # X̲aad Kíl 'll gúusaaw k̲'alä g̲usdláang . 
 & He really doesn't know how to speak Haida .
-# Íitl' ta ˝áay k̲'alä g̲usdlägán .
+# Íitl' ta x̲áay k̲'alä g̲usdlägán .
 & We really didn't know how to weave .
 
 # G̲áalgwaa tadä g̲usdlä saliyáagang .
@@ -2815,7 +2815,7 @@
 & We have each eaten this much so far .
 
 
-# K̲igw chasdáng Hl ˝áy íihlhiidang .
+# K̲igw chasdáng Hl x̲áy íihlhiidang .
 # Na tíisdang 'll k'udlán íihlhiidang .
 # Gin k̲wáan 'll tlaawhlä íihlhiidang .
 
@@ -2901,7 +2901,7 @@
 & I've been trying for a long time to help you .
 # Nang 'll dah sánsdlä jíingaagang .
 & He's been trying for a long time to buy one .
-# 'Ll ta ˝áy sánsdlä jíingaagang .
+# 'Ll ta x̲áy sánsdlä jíingaagang .
 & She's been trying for a long time to weave .
 
 # Hláa uu k'ajúu jíingaa tláagaanggan .
@@ -3005,7 +3005,7 @@
 
 # 'Ll tlaawhláa k̲'alä saliyáagang .
 # 'Ll xyáal k̲'alä saliyáagang .
-# K̲igw 'll ˝áay k̲'alä saliyáagang .
+# K̲igw 'll x̲áay k̲'alä saliyáagang .
 
 & It looks like he doesn't know how to fix it .
 & It looks like she doesn't know how to dance .
@@ -3043,378 +3043,326 @@
 # Gám Hl hlg̲ánggulä sáang hlangáa'anggang . 
 & I'm not allowed to say I'll work .
 
-$ G̲íi tl' hlg̲ánggulä sáangaganggan .
-$ Nang t'aláng dah sáangaganggan .
-$ 'Ll skáadaang sáangagang'wägan .
+# G̲íi tl' hlg̲ánggulä sáangaganggan .
+# Nang t'aláng dah sáangaganggan .
+# 'Ll skáadaang sáangagang'wägan .
 
 & People each said they will work on it .
 & We each said we will buy one .
 & They each said they will pick berries .
 
-& 285
 
-& sángang k̲asaä
-& Meaning gonna say will V
-& G̲íi 'll hlg̲ánggulä sángang k̲asa'áang .
-& Dáng gä 'll tlaayd sángang k̲asa'áang .
-& Nang Hl dah sángang k̲asaagán .
+# G̲íi 'll hlg̲ánggulä sángang k̲asa'áang .
+# Dáng gä 'll tlaayd sángang k̲asa'áang .
+# Nang Hl dah sángang k̲asaagán .
 
 & He's gonna say he will work on it .
 & She's gonna say she will help you .
 & I was gonna say I will buy one .
 
-& sánghahl
-& Meaning tell to say will V
-& 'Láa Hl tlaawhlä sánghalgan .
-& Nang díi 'll dah sánghalgan .
-& Náay dáng 'll k'udlán sánghalgan .
+
+# 'Láa Hl tlaawhlä sánghalgan .
+# Nang díi 'll dah sánghalgan .
+# Náay dáng 'll k'udlán sánghalgan .
 
 & I told him to say he will fix it .
 & She told me to say I will buy one .
 & He told you to say you will paint the house .
 
-& sánsdlä gíi
-& Meaning have already tried to V, always try to V
-& 'Ll tlaawhlä sánsdlä gíigang .
-& Dáa gw dlán sánsdlä gíi?
-& Dáng gä 'll tlaayd sánsdlä gíiganggang .
 
-& 286
+# 'Ll tlaawhlä sánsdlä gíigang .
+# Dáa gw dlán sánsdlä gíi?
+# Dáng gä 'll tlaayd sánsdlä gíiganggang .
 
 & He has already tried to fix it .
 & Have you already tried to wash it?
 & She always tries to help you .
 
-& sánsdlaa hlangáa
-& Meaning can try to V
-& Dáng tlaawhlä sánsdlaa hlangaang .
-& Dáng gä Hl tlaayd sánsdlaa hlangaang .
-& G̲íi 'll hlg̲ánggulä sánsdlaa hlangaang .
+
+# Dáng tlaawhlä sánsdlaa hlangaang .
+# Dáng gä Hl tlaayd sánsdlaa hlangaang .
+# G̲íi 'll hlg̲ánggulä sánsdlaa hlangaang .
 
 & You can try to fix it .
 & I can try to help you .
 & She can try to work on it .
 
-& sánsdlä saliyáa
-& Meaning look like tried to V
-& Dáng tlaawhlä sánsdlä saliyáagang .
-& 'Ll tl'íi sánsdlä saliyáagang .
-& Daláng k'udlán sánsdlä saliyáagang .
+
+# Dáng tlaawhlä sánsdlä saliyáagang .
+# 'Ll tl'íi sánsdlä saliyáagang .
+# Daláng k'udlán sánsdlä saliyáagang .
 
 & It looks like you tried to fix it .
 & It looks like he tried to sew it .
 & It look like you folks tried to paint it .
 
-& sánsdlä sáng
-& Meaning say will try to V
-& Dáng gä 'll tlaayd sánsdlä sánggan .
-& Nang Hl dah sánsdlä sánggan .
-& 'Ll tlaawhlä sánsdlä sánggan .
+
+# Dáng gä 'll tlaayd sánsdlä sánggan .
+# Nang Hl dah sánsdlä sánggan .
+# 'Ll tlaawhlä sánsdlä sánggan .
 
 & He said he will try to help you .
 & I said I will try to buy one .
 & She said she will try to fix it .
 
-& 287
 
-& sáng sánsdla
-& Meaning try to say will V
-& Nang Hl dah sáng sánsdlägan .
-& Díi gä 'll tlaayd sáng sánsdlägan .
-& G̲íi 'll hlg̲ánggulä sáng sánsdlägan .
+# Nang Hl dah sáng sánsdlägan .
+# Díi gä 'll tlaayd sáng sánsdlägan .
+# G̲íi 'll hlg̲ánggulä sáng sánsdlägan .
 
 & I tried to say I will buy one .
 & She tried to say she will help me .
 & He tried to say he will work on it .
 
-& sánsdlä tláagaang ~ tláagaang sánsdlä
-& Meaning try to V first
-& Hláa uu tlaawhlä sánsdlä tláagaanggan .
-& Dáng gä Hl tlaayd sánsdlä tláagaanggan .
-& G̲íi 'll hlg̲ánggulä sánsdlä tláagaanggang .
+
+# Hláa uu tlaawhlä sánsdlä tláagaanggan .
+# Dáng gä Hl tlaayd sánsdlä tláagaanggan .
+# G̲íi 'll hlg̲ánggulä sánsdlä tláagaanggang .
 
 & I was the first to try to fix it .
 & I tried to help you first .
 & He's trying to work on it first .
 
-& sánsdlahahl
-& Meaning tell to try to V
-& Nang díi 'll dah sánsdlahalgan .
+
+# Nang díi 'll dah sánsdlahalgan .
 & She told me to try to buy one .
-& 'Láa Hl tlaawhlä sánsdlahahläsaang . I will tell him to try to fix it .
-& Íitl' 'll skáadaang sánsdlahalgan .
+# 'Láa Hl tlaawhlä sánsdlahahläsaang . I will tell him to try to fix it .
+# Íitl' 'll skáadaang sánsdlahalgan .
 & He told us to try to pick berries .
 
-& 288
 
-& tláagaang déed
-& Meaning V right away first thing
-& Nang 'll dah tláagaang déedan .
-& 'Ll ta ˝áy tláagaang déedan .
-& Hl dlán tláagaang déedan .
+# Nang 'll dah tláagaang déedan .
+# 'Ll ta x̲áy tláagaang déedan .
+# Hl dlán tláagaang déedan .
 
 & He bought one right away first thing .
 & She finished weaving right away first thing .
 & I finished washing it right away first thing .
 
-& tláagaang gayéed
-& Meaning might V first, accidentally V'ed first
-& Hláa uu k'ajúu tláagaang gayéedang .
+# Hláa uu k'ajúu tláagaang gayéedang .
 & I might be the first one to sing .
-& Nang 'll dah tláagaang gayéedang .
+# Nang 'll dah tláagaang gayéedang .
 & He might buy one first .
-& 'Láa aa Hl gúusuu tláagaang gayéedan . I accidentally talked to him first .
+# 'Láa aa Hl gúusuu tláagaang gayéedan . 
+& I accidentally talked to him first .
 
-& tláagaang gíi
-& Meaning already V'ed first, always V first
-& Hl tlaawhlä tláagaang gíigang .
+# Hl tlaawhlä tláagaang gíigang .
 & I have already fixed it first .
-& Nang 'll dah tláagaang gíigang .
+# Nang 'll dah tláagaang gíigang .
 & She has already bought one first .
-& Díi gä 'll tlaayd tláagaang gíiganggang . She always helps me first .
+# Díi gä 'll tlaayd tláagaang gíiganggang . 
+She always helps me first .
 
-& 289
 
-& tláagaang guda
-& Meaning want to V first
-& Díi xyáahl tláagaang gudáang .
+# Díi xyáahl tláagaang gudáang .
 & I want to be the first one to dance .
-& Nang 'll dah tláagaang gudáang . She wants to buy one first .
-& Íitl' dlán tláagaang gudáang .
+# Nang 'll dah tláagaang gudáang . 
+& She wants to buy one first .
+# Íitl' dlán tláagaang gudáang .
 & We want to wash it first .
 
-& tláagaang g̲íihlda
-& Meaning finish V first
-& Hláa uu k'udlán tláagaang g̲íihldägan . I was the first one to finish painting it .
-& K̲igwáay 'll ˝áy tláagaang g̲íihldägan .
+
+# Hláa uu k'udlán tláagaang g̲íihldägan . 
+& I was the first one to finish painting it .
+# K̲igwáay 'll x̲áy tláagaang g̲íihldägan .
 & She finished weaving the basket first .
-& T'aláng tlaawhlä tláagaang g̲iihldägan . We finished fixing it first .
+# T'aláng tlaawhlä tláagaang g̲iihldägan . 
+& We finished fixing it first .
 
-& tláagaang hlangáa
-& Meaning can V first
-& Náay uu Hl k'udlán tláagaang hlangaang .
-& K̲igwáay 'll ˝áy tláagaang hlangaang .
-& Dáng ta hlg̲áy tláagaang hlangaang .
 
-& 290
+# Náay uu Hl k'udlán tláagaang hlangaang .
+# K̲igwáay 'll x̲áy tláagaang hlangaang .
+# Dáng ta hlg̲áy tláagaang hlangaang .
+
 
 & It's the house that I can paint first .
 & She can weave the basket first .
 & You can dig clams first .
 
-& tláagaang saliyáa
-& Meaning look like V'ed first
-& 'Láa uu nang dah tláagaang saliyáagang .
-& 'Ll dlán tláagaang saliyáagang .
-& Dáng gä 'll tlaayd tláagaang saliyáagang .
+
+# 'Láa uu nang dah tláagaang saliyáagang .
+# 'Ll dlán tláagaang saliyáagang .
+# Dáng gä 'll tlaayd tláagaang saliyáagang .
 
 & It looks like he was the first to buy one .
 & It looks like she washed it first .
 & It looks like she helped you first .
 
-& tláagaang sáng
-& Meaning say will V first
-& Hl dlán tláagaang sánggan .
-& I said I will wash it first .
-& 'Ll ta ˝áy tláagaang sánggan .
-& She said she will weave first .
-& 'Ll 'wáadaa tláagaang sáng'wägan . They said they will shop first .
 
-& tláagaangagang
-& Meaning each V first individually
-& T'aláng skáadaang tláagaangaganggan .
+# Hl dlán tláagaang sánggan .
+& I said I will wash it first .
+# 'Ll ta x̲áy tláagaang sánggan .
+& She said she will weave first .
+# 'Ll 'wáadaa tláagaang sáng'wägan . 
+& They said they will shop first .
+
+
+# T'aláng skáadaang tláagaangaganggan .
 & We each picked berries first .
-& Tl' 'wáadluwaan ta hlg̲áy tláagaangaganggan . Everyone each dug clams first .
-& 'Ll 'wáadaa tláagaangagang'wägan .
+# Tl' 'wáadluwaan ta hlg̲áy tláagaangaganggan . 
+& Everyone each dug clams first .
+# 'Ll 'wáadaa tláagaangagang'wägan .
 & They each shopped first .
 
-& 291
 
-& tláagaangang k̲asaä
-& Meaning gonna V first
-& Hláa uu nang dah tláagaangang k̲asa'áang .
-& 'Ll dlán tláagaangang k̲asa'áang .
-& Dáng gä 'll tlaayd tláagaangang k̲asa'áang .
+# Hláa uu nang dah tláagaangang k̲asa'áang .
+# 'Ll dlán tláagaangang k̲asa'áang .
+# Dáng gä 'll tlaayd tláagaangang k̲asa'áang .
 
 & I'm gonna be the first to buy one .
 & She's gonna wash it first .
 & He's gonna help you first .
 
-& tláagaanghahl
-& Meaning tell to V first
-& Nang díi 'll dah tláagaanghalgan .
-& 'Láa gä díi dáng tlaayd tláagaanghalgan .
-& 'Láa Hl tlaawhlä tláagaanghalgan .
+
+# Nang díi 'll dah tláagaanghalgan .
+# 'Láa gä díi dáng tlaayd tláagaanghalgan .
+# 'Láa Hl tlaawhlä tláagaanghalgan .
 
 & He told me to be the first to buy one .
 & You told me to help her first .
 & I told him to fix it first .
 
-& 'láa déed
-& Meaning V well right away
-& 'Ll tlaawhlä 'láa déedan .
-& X̲aad Kíl 'll sk̲'ad'ä 'láa déedan .
-& K̲íihlgaay 'll dlán 'láa déedan .
+# 'Ll tlaawhlä 'láa déedan .
+# X̲aad Kíl 'll sk̲'ad'ä 'láa déedan .
+# K̲íihlgaay 'll dlán 'láa déedan .
 
 & He finished fixing it well right away .
 & She learned Haida well right away .
 & He finished washing the dishes well right away .
 
-& 292
 
-& 'láa gayéed
-& Meaning might V well
-& 'Ll tlaawhlä 'láa gayéedang .
-& 'Ll k'ajúu 'láa gayéedang .
-& X̲aad Kíl 'll gúusuu 'láa gayéedang .
+# 'Ll tlaawhlä 'láa gayéedang .
+# 'Ll k'ajúu 'láa gayéedang .
+# X̲aad Kíl 'll gúusuu 'láa gayéedang .
 
 & He might fix it well .
 & She might sing well .
 & He might speak Haida well .
 
-& 'láa gíi
-& Meaning already V'ed well, always V well
-& Náay 'll k'udlán 'láa gíigang .
-& Daláng xyáahl 'láa gíiganggang .
-& Díi gä 'll gyáa sg̲áw 'láa gíiganggang .
+# Náay 'll k'udlán 'láa gíigang .
+# Daláng xyáahl 'láa gíiganggang .
+# Díi gä 'll gyáa sg̲áw 'láa gíiganggang .
 
 & He has already painted the house well .
 & You folks always dance well .
 & He always pays me well .
 
-& 'láa g̲usdla
-& Meaning V very well, V very nicely, do a very good job V'ing
-& 'Ll k'ajúu 'láa g̲usdláang .
+
+# 'Ll k'ajúu 'láa g̲usdláang .
 & He sings very well .
-& K̲igwáay 'll ˝áy 'láa g̲usdlägán .
+# K̲igwáay 'll x̲áy 'láa g̲usdlägán .
 & She wove the basket very nicely .
-& K̲íihlgaay 'll dlán 'láa g̲usdlägán . He did a very good job washing the dishes .
+# K̲íihlgaay 'll dlán 'láa g̲usdlägán . 
+& He did a very good job washing the dishes .
 
-& 293
 
-& 'láa hlangáa
-& Meaning can V well
-& Daláng k'ajúu 'láa hlangaang .
-& 'Ll ta tl'íi 'láa hlangaang .
-& X̲aad Kíl 'll gúusuu 'láa hlangaang .
+# Daláng k'ajúu 'láa hlangaang .
+# 'Ll ta tl'íi 'láa hlangaang .
+# X̲aad Kíl 'll gúusuu 'láa hlangaang .
 
 & You folks can sing well .
 & She can sew nicely .
 & He can speak Haida well .
 
-& 'láa jíingaa
-& Meaning V well for a long time
-& 'Ll k'ajúu 'láa jíingaagang .
-& X̲aad Kíl 'll gúusuu 'láa jíingaagan .
-& G̲íi 'll hlg̲ánggulä 'láa jíingaagang .
+
+# 'Ll k'ajúu 'láa jíingaagang .
+# X̲aad Kíl 'll gúusuu 'láa jíingaagan .
+# G̲íi 'll hlg̲ánggulä 'láa jíingaagang .
 
 & She has sung well for a long time .
 & He spoke Haida well for a long time .
 & He has been working on it well for a long time .
 
-& 'láa saliyáa
-& Meaning look like V'ed well
-& 'Ll tlaawhlä 'láa saliyáagang .
+
+# 'Ll tlaawhlä 'láa saliyáagang .
 & It looks like he fixed it well .
-& 'Láa gä dáng gyáa sg̲áw 'láa saliyáagang . It looks like you paid him well .
-& K̲igwáay 'll ˝áy 'láa saliyáagang .
+# 'Láa gä dáng gyáa sg̲áw 'láa saliyáagang . 
+& It looks like you paid him well .
+# K̲igwáay 'll x̲áy 'láa saliyáagang .
 & It looks like she wove the basket well .
 
-& 294
 
-& 'láa sáng
-& Meaning say will V well
-& 'Ll tlaawhlä 'láa sánggan .
+# 'Ll tlaawhlä 'láa sánggan .
 & He said he will fix it well .
-& Náay 'll k'udlán 'láa sánggan .
+# Náay 'll k'udlán 'láa sánggan .
 & She said she will paint the house nicely .
-& Díi gä 'll gyáa sg̲áw 'láa sánggan . He said he will pay me well .
+# Díi gä 'll gyáa sg̲áw 'láa sánggan . 
+& He said he will pay me well .
 
-& 'láa tláagaang
-& Meaning V well first
-& 'Láa uu xyáahl 'láa tláagaanggan .
-& 'Ll dlán 'láa tláagaanggan .
-& 'Láa gä Hl gyáa sg̲áw 'láa tlaagaanggan .
+
+# 'Láa uu xyáahl 'láa tláagaanggan .
+# 'Ll dlán 'láa tláagaanggan .
+# 'Láa gä Hl gyáa sg̲áw 'láa tlaagaanggan .
 
 & He was the first one to dance well .
 & He washed it well first .
 & I paid her well first .
 
-& 'láa .agang
-& Meaning each individually V well
-& 'Ll xyáahl 'láa .agang'wägan .
-& G̲íi t'aláng hlg̲ánggulä 'láa .aganggan .
-& Daláng k'ajúu 'láa .aganggang .
 
-& 295
+# 'Ll xyáahl 'láa .agang'wägan .
+# G̲íi t'aláng hlg̲ánggulä 'láa .aganggan .
+# Daláng k'ajúu 'láa .aganggang .
+
 
 & They each danced well .
 & We each did a good job on it .
 & You each sang well .
 
-& 'láagwaang (sg) / 'laa jaadáng (pl)
-& Meaning V around well
-& 'Ll xyáahl 'láagwaanggang .
-& 'Ll skáadaang 'láagwaanggang .
-& 'Ll 'wáadaa 'láa jaadáng'wägan .
+
+# 'Ll xyáahl 'láagwaanggang .
+# 'Ll skáadaang 'láagwaanggang .
+# 'Ll 'wáadaa 'láa jaadáng'wägan .
 
 & She is dancing around nicely .
 & She is out picking berries well .
 & They shopped well here and there .
 
-& 'láahahl
-& Meaning tell to V well
-& Díi 'll tlaawhlä 'láahalgan .
+
+# Díi 'll tlaawhlä 'láahalgan .
 & He told me to fix it well .
-& G̲íi 'láa Hl hlg̲ánggulä 'láahalgan . I told her to do a good job on it .
-& Dáng t'aláng dlán 'láahalgan .
+# G̲íi 'láa Hl hlg̲ánggulä 'láahalgan . 
+& I told her to do a good job on it .
+# Dáng t'aláng dlán 'láahalgan .
 & We told you to wash it well .
 
-& 'láahid
-& Meaning start to V well
-& Hl ta tl'íi 'láahiidang .
-& X̲aad Kíl dáng gúusuu 'láahiidang .
-& T'aláng xyáahl 'láahiidan .
+
+# Hl ta tl'íi 'láahiidang .
+# X̲aad Kíl dáng gúusuu 'láahiidang .
+# T'aláng xyáahl 'láahiidan .
 
 & I've started to sew well .
 & You've started to speak Haida well .
 & We started to dance well .
 
-& 296
 
-& V-agang déed
-& Meaning each individually V right away
-& Tl' ist'i'íidagang déedan .
+# Tl' ist'i'íidagang déedan .
 & People each left right away .
-& T'aláng sk̲'ad'áa .agang déedan .
+# T'aláng sk̲'ad'áa .agang déedan .
 & We each learned it right away .
-& Ga 'll diyéengagang déed'wägan . They each looked for it right away .
+# Ga 'll diyéengagang déed'wägan . 
+& They each looked for it right away .
 
-& V-agang gayéed
-& Meaning might each individually V, each individually V accidentally
-& Tl' 'wáadluwaan ist'i'íidagang gayéedang . Everyone might each leave .
-& Nang 'll dahagáng gayéed'waang .
+
+# Tl' 'wáadluwaan ist'i'íidagang gayéedang . 
+& Everyone might each leave .
+# Nang 'll dahagáng gayéed'waang .
 & They might each buy one .
-& T'aláng ˝adáldaangagang gayéedan .
+# T'aláng x̲adáldaangagang gayéedan .
 & We each accidentally fell down .
 
-& V-agang gíi
-& Meaning have already each V'ed, always each V
-& Nang t'aláng dahagáng gíigang .
-& Daláng xyáalagang gíigang .
-& 'Ll k'ajáawagang gíigang'waang .
+
+# Nang t'aláng dahagáng gíigang .
+# Daláng xyáalagang gíigang .
+# 'Ll k'ajáawagang gíigang'waang .
 
 & We have each already bought one .
 & You folks have each already danced .
 & They always each sing individually .
 
-& 297
 
-& V-agang g̲usdla
-& Meaning each individually really V
-& G̲íi t'aláng hlg̲ánggulaa .agang g̲usdláang .
-& Ga íitl' hlg̲wáa .aydagang g̲usdláang .
-& Ga 'll diyéengagang g̲usdlä'wägan .
+# G̲íi t'aláng hlg̲ánggulaa .agang g̲usdláang .
+# Ga íitl' hlg̲wáa .aydagang g̲usdláang .
+# Ga 'll diyéengagang g̲usdlä'wägan .
 
 & We've each worked hard on it .
 & We're each very afraid of it .
@@ -3522,7 +3470,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 
 & 301
 
-& V-hahl dlajúuda (sg) / V-hahl ˝ajúuda
+& V-hahl dlajúuda (sg) / V-hahl x̲ajúuda
 & Meaning act like tell to V
 & Díi dáng tlaawhlahahl dlajúudaang .
 & Dáng 'll k̲áaydhahl dlajúudaang .
@@ -3823,7 +3771,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning to try to start to V
 & 'Ll tlaawhlahid gudánggang .
 & She is trying to start to fix it .
-& K̲igw Hl ˝áyhid gudánggang .
+& K̲igw Hl x̲áyhid gudánggang .
 & I am trying to start to weave a basket .
 & Náay 'll k'udlánhid gudánggang . He is trying to start to paint the house .
 
@@ -3890,7 +3838,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & V-hid sánsdla ~ sánsdlahid
 & Meaning try to start to V
 & 'Ll tlaawhlahid sánsdlaang .
-& K̲igw Hl ˝áyhid sánsdlaang .
+& K̲igw Hl x̲áyhid sánsdlaang .
 & Náay 'll k'udlánhid sánsdlaang .
 
 & She is trying to start to fix it .
@@ -4033,7 +3981,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning look like has V'ed too much
 & Dáng gatáa .ad saliyáagang .
 & Gin 'll dahad saliyáagang .
-& K̲igw Hl ˝áyad saliyáagang .
+& K̲igw Hl x̲áyad saliyáagang .
 
 & It looks like you have eaten too much .
 & It looks like he bought too many things .
@@ -4072,7 +4020,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & V-'uhlä gíi
 & Meaning have already V'ed all night long, always V all night
 & G̲íi Hl hlg̲ánggulä'uhlä gíigang .
-& 'Ll ta ˝áy'uhlä gíiganggang .
+& 'Ll ta x̲áy'uhlä gíiganggang .
 & Hl xyáahl'uhlä gíigiinii .
 
 & I have already worked on it all night .
@@ -4084,7 +4032,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Díi xyáahl'uhlaa gudáang .
 & I want to dance all night .
 & G̲íi 'll hlg̲ánggulä'uhlaa gudáang . She wants to work on it all night .
-& 'Ll ta ˝áy'uhlaa gudáang .
+& 'Ll ta x̲áy'uhlaa gudáang .
 & She wants to weave all night .
 
 & 320
@@ -4134,7 +4082,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & V-'uhlaa .agang
 & Meaning each individually V all night
 & T'aláng hlg̲ánggulä'uhlaa .aganggan .
-& K̲igw 'll ˝áy'uhlaa .agang'wägan .
+& K̲igw 'll x̲áy'uhlaa .agang'wägan .
 & Ga daláng diyíng'uhlaa .aganggan .
 
 & We each worked all night .
@@ -4443,7 +4391,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 
 & 332
 
-& dlajúudä áahlgang (sg) / ˝ajúudä áahlgang (pl)
+& dlajúudä áahlgang (sg) / x̲ajúudä áahlgang (pl)
 & Meaning poorly act like V
 & 'Ll st'i dlajúudä áahlgangang .
 & He's doing a poor job of acting like he's sick .
@@ -4483,7 +4431,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & He might act like he's sick .
 & 'Ll k̲'wíid dlajúudä gayéedang .
 & She might act like she's hungry .
-& 'Ll gatáa ˝ajúudä gayéed'waang . They might act like they're eating .
+& 'Ll gatáa x̲ajúudä gayéed'waang . They might act like they're eating .
 
 & dlajúudä gíi
 & Meaning already act like V, always act like V
@@ -4491,7 +4439,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & He has already acted like he's sick .
 & 'Ll k̲'wíid dlajúudä gíiganggang .
 & She is always acting like she's hungry .
-& 'Ll hlg̲ánggulaa ˝ajúudä gíigang'waang . They always act like they're working .
+& 'Ll hlg̲ánggulaa x̲ajúudä gíigang'waang . They always act like they're working .
 
 & 334
 
@@ -4501,7 +4449,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & He is trying to act like he's sick .
 & 'Ll k̲'wíid dlajúudä gudánggang .
 & She is trying to act like she's hungry .
-& 'Ll hlg̲ánggulaa ˝ajúudä gudáng'waang . They are trying to act like they're working .
+& 'Ll hlg̲ánggulaa x̲ajúudä gudáng'waang . They are trying to act like they're working .
 
 & dlajúudä g̲aawnáng
 & Meaning act like V off and on
@@ -4509,7 +4457,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & He is acting like he's sick off and on .
 & 'Ll k̲'wíid dlajúudä g̲aawnánggan .
 & She acted like she was hungry off and on .
-& 'Ll ta ˝áay ˝ajúudä g̲aawnáng'waang . They're acting like they're weaving off and on .
+& 'Ll ta x̲áay x̲ajúudä g̲aawnáng'waang . They're acting like they're weaving off and on .
 
 & dlajúudaa g̲áayaa
 & Meaning know how to act like V
@@ -4628,11 +4576,11 @@ $ 'Ll skáadaang sáangagang'wägan .
 & She's been acting hungry for a little while .
 & He's been acting cold for a little while .
 
-& dlajúudä ˝ánsgad
+& dlajúudä x̲ánsgad
 & Meaning act like V for quite a while
-& 'Ll st'i dlajúudä ˝ánsgiidang .
-& 'Ll k̲'wíid dlajúudä ˝ánsgiidang .
-& 'Ll xwáay dlajúudä ˝ánsgiidang .
+& 'Ll st'i dlajúudä x̲ánsgiidang .
+& 'Ll k̲'wíid dlajúudä x̲ánsgiidang .
+& 'Ll xwáay dlajúudä x̲ánsgiidang .
 
 & He's been acting sick for quite a while .
 & She's been acting hungry for quite a while .
@@ -4640,11 +4588,11 @@ $ 'Ll skáadaang sáangagang'wägan .
 
 & 339
 
-& ˝ajúudaa .agang
+& x̲ajúudaa .agang
 & Meaning each individually act like V
-& 'Ll st'i ˝ajúudaa .agang'waang .
-& 'Ll k̲'wíid ˝ajúudaa .agang'waang .
-& 'Ll xwáay ˝ajúudaa .agang'waang .
+& 'Ll st'i x̲ajúudaa .agang'waang .
+& 'Ll k̲'wíid x̲ajúudaa .agang'waang .
+& 'Ll xwáay x̲ajúudaa .agang'waang .
 
 & They're each acting sick .
 & They're each acting hungry .
@@ -4686,7 +4634,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning V only very infrequently
 & Ga 'll diyíng g̲aawnáng g̲usdláang .
 & He looks for it very only very infrequently .
-& T'aláng ta ˝áy g̲aawnáng g̲usdláang .
+& T'aláng ta x̲áy g̲aawnáng g̲usdláang .
 & We weave only very infrequently
 & G̲íi 'll hlg̲ánggulä g̲aawnáng g̲usdlägán . She worked on it only very infrequently .
 
@@ -4778,12 +4726,12 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Tl' xyáahl k̲wáanhiidan .
 & Lots of people started to dance .
 
-& k̲wáan ˝ánsgad
+& k̲wáan x̲ánsgad
 & Meaning many V for quite a while, V many for quite a while
-& Tl' k'ajúu k̲wáan ˝ánsgiidan .
+& Tl' k'ajúu k̲wáan x̲ánsgiidan .
 & Lots of people sang for quite a while .
-& Dáalaa 'll daa k̲wáan ˝ánsgiidan . He had lots of money for quite a while .
-& Hldáan Hl táa k̲wáan ˝ánsgiidan . I ate lots of blueberries for quite a while .
+& Dáalaa 'll daa k̲wáan x̲ánsgiidan . He had lots of money for quite a while .
+& Hldáan Hl táa k̲wáan x̲ánsgiidan . I ate lots of blueberries for quite a while .
 
 & 344
 
@@ -4809,7 +4757,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning have already V'ed lots, always V lots
 & Tl' k'ajúu k̲wáan gíigang .
 & Hldáan Hl táa k̲wáan gíigan .
-& K̲igw 'll ˝áy k̲wáan gíiganggang .
+& K̲igw 'll x̲áy k̲wáan gíiganggang .
 
 & Lots of people have already sung .
 & I've already eaten lots of blueberries .
@@ -4822,7 +4770,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Tl' k'ajúu k̲wáanaganggan .
 & Lots of people each sang .
 & Hldáan t'aláng táa k̲wáanaganggan . We each ate lots of blueberries .
-& K̲igw 'll ˝áy k̲wáanagang'wägan .
+& K̲igw 'll x̲áy k̲wáanagang'wägan .
 & They each wove lots of baskets .
 
 & k̲wáan jahlíi
@@ -4839,7 +4787,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning V too many
 & Hldáan Hl táa k̲wáan'iidan .
 & Náay 'll k'udlán k̲wáan'iidan .
-& K̲igw 'll ˝áy k̲wáan'iidan .
+& K̲igw 'll x̲áy k̲wáan'iidan .
 
 & I ate too many blueberries .
 & She painted too many houses .
@@ -4849,7 +4797,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 
 & k̲wáan tláagaang
 & Meaning V lots first
-& Hláa uu k̲igw ˝áy k̲wáan tláagaanggan . I was the first to weave lots of baskets .
+& Hláa uu k̲igw x̲áy k̲wáan tláagaanggan . I was the first to weave lots of baskets .
 & K̲íihlaa 'll dlán k̲wáan tláagaanggan .
 & He washed lots of dishes first .
 & Hldáan 'll táa k̲wáan tláagaanggan .
@@ -4858,7 +4806,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & k̲wáan déed
 & Meaning V lots right away
 & Hldáan 'll táa k̲wáan déedan .
-& K̲igw Hl ˝áy k̲wáan déedan .
+& K̲igw Hl x̲áy k̲wáan déedan .
 & K̲íihlaa 'll dlán k̲wáan déedan .
 
 & He ate lots of blueberries right away .
@@ -4868,7 +4816,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & k̲wáan k̲'uhldä
 & Meaning V lots in secret
 & Hldáan 'll táa k̲wáan k̲'uhldägán .
-& K̲igw Hl ˝áy k̲wáan k̲'uhldägán .
+& K̲igw Hl x̲áy k̲wáan k̲'uhldägán .
 & Tl' gatáa k̲wáan k̲'uhldägán .
 
 & He ate lots of blueberries in secret .
@@ -4880,7 +4828,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & k̲wáan hlangáa
 & Meaning can V lots
 & Hldáan 'll táa k̲wáan hlangaang .
-& K̲igw 'll ˝áy k̲wáan hlangaang .
+& K̲igw 'll x̲áy k̲wáan hlangaang .
 & Tl' k'ajúu k̲wáan hlangaang .
 
 & He can eat lots of blueberries .
@@ -4891,7 +4839,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning V very many
 & Hldáan 'll táa k̲wáan g̲usdlägán .
 & Tl' k'ajúu k̲wáan g̲usdlägán .
-& K̲igw 'll ˝áy k̲wáan g̲usdlägán .
+& K̲igw 'll x̲áy k̲wáan g̲usdlägán .
 
 & She ate very many blueberries .
 & Very many people sang .
@@ -4901,7 +4849,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning start to V in secret
 & G̲íi 'll hlg̲ánggulä k̲'uhldahíidan .
 & Dúus 'll daa k̲'uhldahíidan .
-& K̲igw 'll ˝áy k̲'uhldahíidan .
+& K̲igw 'll x̲áy k̲'uhldahíidan .
 
 & She started to work on it in secret .
 & He started to keep a cat in secret .
@@ -4919,11 +4867,11 @@ $ 'Ll skáadaang sáangagang'wägan .
 & She bought one in complete secrecy .
 & He helped me in complete secrecy .
 
-& k̲'uhldä ˝ánsgad
+& k̲'uhldä x̲ánsgad
 & Meaning V in secret for quite a while
-& G̲íi 'll hlg̲ánggulä k̲'uhldä ˝ánsgiidan .
-& Díi gä 'll tlaayd k̲'uhldä ˝ánsgiidan .
-& 'Ll k'ajúu k̲'uhldä ˝ánsgad'wägan .
+& G̲íi 'll hlg̲ánggulä k̲'uhldä x̲ánsgiidan .
+& Díi gä 'll tlaayd k̲'uhldä x̲ánsgiidan .
+& 'Ll k'ajúu k̲'uhldä x̲ánsgad'wägan .
 
 & He worked on it in secret for quite a while .
 & She helped me in secret for quite a while .
@@ -4945,7 +4893,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & Meaning V in secret twice
 & 'Ll k̲áayd k̲'uhldáa sdánggan .
 & 'Láa gwíi Hl k̲íng k̲'uhldáa sdánggan .
-& K̲igw 'll ˝áy k̲'uhldáa sdánggan .
+& K̲igw 'll x̲áy k̲'uhldáa sdánggan .
 
 & She left in secret twice .
 & I looked at her in secret twice .
@@ -4986,7 +4934,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & k̲'uhldáa hlangáa
 & Meaning can V in secret
 & 'Ll tlaawhlä k̲'uhldáa hlangaang .
-& K̲igw 'll ˝áy k̲'uhldáa hlangaang .
+& K̲igw 'll x̲áy k̲'uhldáa hlangaang .
 & Ga t'aláng diyíng k̲'uhldáa hlangaang .
 
 & He can fix it in secret .
@@ -4998,7 +4946,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & G̲íi 'll hlg̲ánggulä k̲'uhldä jíingaagan . She worked on it in secret for a long time .
 & Ga Hl diyíng k̲'uhldä jíingaagan .
 & I looked for it in secret for a long time .
-& K̲igw 'll ˝áy k̲'uhldä jíingaagang .
+& K̲igw 'll x̲áy k̲'uhldä jíingaagang .
 & He has woven baskets in secret for a long time .
 
 & 351
@@ -5006,7 +4954,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & k̲'uhldä tláagaang
 & Meaning V in secret first
 & Hláa uu nang dah k̲'uhldä tláagaanggan .
-& K̲igw 'll ˝áy k̲'uhldä tláagaanggan .
+& K̲igw 'll x̲áy k̲'uhldä tláagaanggan .
 & 'Láa gä Hl tlaayd k̲'uhldä tláagaanggan .
 
 & I was the first to buy one in secret .
@@ -5037,11 +4985,11 @@ $ 'Ll skáadaang sáangagang'wägan .
 & He fell down hard twice .
 & We were very sick twice .
 
-# 'Ll k'ajúu ˝ánsgiid sdánggan .
+# 'Ll k'ajúu x̲ánsgiid sdánggan .
 & She sang twice for quite a while .
-# G̲íi 'll hlg̲ánggulä ˝ánsgiid sdánggan .
+# G̲íi 'll hlg̲ánggulä x̲ánsgiid sdánggan .
 & He worked on it twice for quite a while .
-# Díi aa 'll gúusuu ˝ánsgiid sdánggan . 
+# Díi aa 'll gúusuu x̲ánsgiid sdánggan . 
 & She talked to me twice for quite a while .
 
 
@@ -5092,7 +5040,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 
 & gudáang sdáng
 & Meaning try twice to V
-& K̲igw 'll ˝áy gudáang sdánggan .
+& K̲igw 'll x̲áy gudáang sdánggan .
 & Nang Hl dah gudáang sdánggan .
 & 'Ll k̲áayd gudáang sdánggan .
 
@@ -5144,7 +5092,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 
 & sánsdlaa sdáng
 & Meaning try twice to V
-& K̲igw 'll ˝áy sánsdlaa sdánggan .
+& K̲igw 'll x̲áy sánsdlaa sdánggan .
 & Nang Hl dah sánsdlaa sdánggan .
 & 'Ll k̲áayd sánsdlaa sdánggan .
 
@@ -5207,7 +5155,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & xaaydhid (SG) / xa'áanghid (PL)
 & Meaning start to V a little bit
 & G̲íi 'll hlg̲ánggulä xaaydhíidang .
-& K̲igwáay 'll ˝áy xaaydhíidan .
+& K̲igwáay 'll x̲áy xaaydhíidan .
 & Hl gatáa xaaydhíidang .
 
 & He's starting to work on it a little bit .
@@ -5262,12 +5210,12 @@ $ 'Ll skáadaang sáangagang'wägan .
 & We ate a little bit right away .
 
 
-# 'Ll st'i xaayd ˝ánsgiidan .
+# 'Ll st'i xaayd x̲ánsgiidan .
 & She was a little bit sick for quite a while .
 
-# Díi xwíi xaayd ˝ánsgiidang .
+# Díi xwíi xaayd x̲ánsgiidang .
 & I've been a little bit cold for quite a while .
-# 'Láa an únsadaa xaayd ˝ánsgiidang . 
+# 'Láa an únsadaa xaayd x̲ánsgiidang . 
 & He's been kind of well-know for quite a while .
 
 # 'Ll st'i xaayd jíingaagang .
@@ -5363,40 +5311,40 @@ $ 'Ll skáadaang sáangagang'wägan .
 & I rested in secret for a little while .
 & He looked for it in secret for a little while .
 
-# Án 'll sáanjuudä ˝ánsgad gíigang .
-# T'aláng xyáahl ˝ánsgad gíigang .
-# 'Ll ta ˝áy ˝ánsgad gíiganggang .
+# Án 'll sáanjuudä x̲ánsgad gíigang .
+# T'aláng xyáahl x̲ánsgad gíigang .
+# 'Ll ta x̲áy x̲ánsgad gíiganggang .
 
 & He has already rested for quite a while .
 & We have already danced for quite a while .
 & She always weaves for quite a while .
 
-# Án t'aláng sáanjuudä ˝ánsgiidaganggan . 
+# Án t'aláng sáanjuudä x̲ánsgiidaganggan . 
 & We each rested for quite a while .
 
-# Daláng xyáahl ˝ánsgiidaganggan .
+# Daláng xyáahl x̲ánsgiidaganggan .
 & You each danced for quite a while .
-# G̲íi 'll hlg̲ánggulä ˝ánsgiidagang'wägan . 
+# G̲íi 'll hlg̲ánggulä x̲ánsgiidagang'wägan . 
 & They each worked on it for quite a while .
 
-# Án 'll sáanjuudä ˝ánsgadhiidan . 
+# Án 'll sáanjuudä x̲ánsgadhiidan . 
 & She started to rest for quite a while .
-# Díi aa 'll gúusuu ˝ánsgadhiidan . 
+# Díi aa 'll gúusuu x̲ánsgadhiidan . 
 & He started to talk to me for quite a while .
-& G̲íi Hl hlg̲ánggulä ˝ánsgadhiidan . 
+& G̲íi Hl hlg̲ánggulä x̲ánsgadhiidan . 
 & I started to work on it for quite a while .
 
-# Án 'll sáanjuudä ˝ánsgad gayéedang .
-# G̲íi Hl hlg̲ánggulä ˝ánsgad gayéedang .
-# Dáng aa 'll gúusuu ˝ánsgad gayéedang .
+# Án 'll sáanjuudä x̲ánsgad gayéedang .
+# G̲íi Hl hlg̲ánggulä x̲ánsgad gayéedang .
+# Dáng aa 'll gúusuu x̲ánsgad gayéedang .
 
 & He might rest for quite a while .
 & I might work on it for quite a while .
 & She might talk to you for quite a while .
 
-# 'Ll xyáahl ˝ánsgiid hlangaang .
-# G̲íi 'll hlg̲ánggulä ˝ánsgiid hlangaang .
-# Hl k̲áa ˝ánsgiid hlangaang .
+# 'Ll xyáahl x̲ánsgiid hlangaang .
+# G̲íi 'll hlg̲ánggulä x̲ánsgiid hlangaang .
+# Hl k̲áa x̲ánsgiid hlangaang .
 
 
 
@@ -5404,28 +5352,28 @@ $ 'Ll skáadaang sáangagang'wägan .
 & She can work on it for quite a while .
 & I can walk for quite a while .
 
-# Díi st'i g̲usdlä ˝ánsgiidang .
-# Íitl' xwíi g̲usdlä ˝ánsgiidang .
-# 'Ll k̲'ud g̲usdlä ˝ánsgiidang .
+# Díi st'i g̲usdlä x̲ánsgiidang .
+# Íitl' xwíi g̲usdlä x̲ánsgiidang .
+# 'Ll k̲'ud g̲usdlä x̲ánsgiidang .
 
 & I've been very sick for quite a while .
 & We've been very cold for quite a while .
 & She's been very hungry for quite a while .
 
-# Án 'll sáanjuudä ˝ánsgad sánggan . 
+# Án 'll sáanjuudä x̲ánsgad sánggan . 
 & She said she will rest for quite a while .
-# G̲íi Hl hlg̲ánggulä ˝ánsgad sánggan . 
+# G̲íi Hl hlg̲ánggulä x̲ánsgad sánggan . 
 & I said I will work on it for quite a while .
-# 'Ll xyáahl ˝ánsgad sáng'wägan .
+# 'Ll xyáahl x̲ánsgad sáng'wägan .
 & They said they will dance for quite a while .
 
-# G̲íi 'll hlg̲ánggulä sáng ˝ánsgiidang . 
+# G̲íi 'll hlg̲ánggulä sáng x̲ánsgiidang . 
 & He has said for quite a while he will work on it .
 
-# Díi gä dáng tlaayd sáng ˝ánsgiidan . 
+# Díi gä dáng tlaayd sáng x̲ánsgiidan . 
 & You said for quite a while you will help me .
 
-# 'Ll k̲áayd sáng ˝ánsgiidang .
+# 'Ll k̲áayd sáng x̲ánsgiidang .
 & She has said for quite a while she will leave .
 
 # 'Ll k'ajáaw sdáangagang yahk'áa'wägan .
@@ -5526,7 +5474,7 @@ $ 'Ll skáadaang sáangagang'wägan .
 & He has repainted two houses so far .
 # K̲ugíin k̲'íisdang 'll k̲'áalang 'laa ílgang . 
 & She has rewritten two books so far .
-# X̲ánjaangw ˝asdáng 'll dlán 'laa ílgang . 
+# X̲ánjaangw x̲asdáng 'll dlán 'laa ílgang . 
 He has rewashed two windows so far .
 
 & 'laa ín (SG) 'laa in-ga (PL)
@@ -5539,111 +5487,101 @@ He has rewashed two windows so far .
 & She left to go rewrite the book .
 & He left to go rewash the windows .
 
-& 'laa ínwa
-& Meaning arrive to V over again
-& Náay 'll k'udlán 'laa ínwägan .
+
+# Náay 'll k'udlán 'laa ínwägan .
 & He came to repaint the house .
-& K̲ugíinaay 'll k̲'áalang 'laa ínwägan . She came to rewrite the book .
-& X̲ánjaangwáay 'll dlán 'laa ínwägan . He came to rewash the windows .
+# K̲ugíinaay 'll k̲'áalang 'laa ínwägan . 
+& She came to rewrite the book .
+# X̲ánjaangwáay 'll dlán 'laa ínwägan . 
+& He came to rewash the windows .
 
-& 372
 
-& 'laa jíingaa
-& Meaning V over again for a long time
-& Náay 'll k'udlán 'laa jíingaagang . He's been repainting the house for a long time .
-& 'Ll k̲'áalang 'laa jíingaagang .
+# Náay 'll k'udlán 'laa jíingaagang . 
+& He's been repainting the house for a long time .
+# 'Ll k̲'áalang 'laa jíingaagang .
 & She's been rewriting it for a long time .
-& 'Ll dlán 'laa jíingaagang .
+# 'Ll dlán 'laa jíingaagang .
 & He's been rewashing it for a long time .
 
-& 'laa k'wa'áydang
-& Meaning pretend to V over again
-& Náay 'll k'udlán 'laa k'wa'áydanggan .
-& He pretended to repaint the house .
-& K̲ugíinaay 'll k̲'áalang 'laa k'wa'áydanggan . She pretended to rewrite the book .
-& X̲ánjaangwaay 'll dlán 'laa k'wa'áydanggan . He pretended to rewash the windows .
 
-& 'laa k̲wáan
-& Meaning V lots over again
-& Na 'll k'udlán 'laa k̲wáan-gan .
-& K̲ugíin 'll k̲'áalang 'laa k̲wáan-gan .
-& X̲ánjaangw 'll dlán 'laa k̲wáan-gan .
+# Náay 'll k'udlán 'laa k'wa'áydanggan .
+& He pretended to repaint the house .
+# K̲ugíinaay 'll k̲'áalang 'laa k'wa'áydanggan . 
+& She pretended to rewrite the book .
+# X̲ánjaangwaay 'll dlán 'laa k'wa'áydanggan . 
+& He pretended to rewash the windows .
+
+# Na 'll k'udlán 'laa k̲wáan-gan .
+# K̲ugíin 'll k̲'áalang 'laa k̲wáan-gan .
+# X̲ánjaangw 'll dlán 'laa k̲wáan-gan .
 
 & He repainted lots of houses .
 & She rewrote lots of books .
 & He rewashed lots of windows .
 
-& 373
 
-& 'la'áa k̲'ala
-& Meaning not know how to V over again
-& Náay 'll k'udlán 'la'áa k̲'aláang .
+
+# Náay 'll k'udlán 'la'áa k̲'aláang .
 & He doesn't know how to repaint the house .
-& K̲ugíinaay 'll k̲'áalang 'la'áa k̲'aláang . She doesn't know how to rewrite the book .
-& X̲ánjaangwaay 'll dlán 'la'áa k̲'aláang . He doesn't know how to rewash the windows .
+# K̲ugíinaay 'll k̲'áalang 'la'áa k̲'aláang . 
+& She doesn't know how to rewrite the book .
+# X̲ánjaangwaay 'll dlán 'la'áa k̲'aláang . 
+& He doesn't know how to rewash the windows .
 
-& 'la'áa g̲áayaa
-& Meaning know how to V over again
-& Náay 'll k'udlán 'la'áa g̲áayaagang .
-& K̲ugíinaay 'll k̲'áalang 'la'áa g̲áayaagang .
-& X̲ánjaangwaay 'll dlán 'la'áa g̲áayaagang .
+# Náay 'll k'udlán 'la'áa g̲áayaagang .
+# K̲ugíinaay 'll k̲'áalang 'la'áa g̲áayaagang .
+# X̲ánjaangwaay 'll dlán 'la'áa g̲áayaagang .
 
 & He knows how to repaint the house .
 & She knows how to rewrite the book .
 & He knows how to rewash the windows .
 
-& 'laa k̲'uhlda
-& Meaning V over again in secret
-& Náay 'll k'udlán 'laa k̲'uhldägán .
-& K̲ugíinaay 'll k̲'áalang 'laa k̲'uhldägán .
-& X̲ánjaangwaay 'll dlán 'laa k̲'uhldägán .
-
-& 374
+# Náay 'll k'udlán 'laa k̲'uhldägán .
+# K̲ugíinaay 'll k̲'áalang 'laa k̲'uhldägán .
+# X̲ánjaangwaay 'll dlán 'laa k̲'uhldägán .
 
 & He repainted the house in secret .
 & She rewrote the book in secret .
 & He rewashed the windows in secret .
 
-& 'laa saliyáa
-& Meaning look like has V'ed over again
-& Náay 'll k'udlán 'laa saliyáagang .
+
+# Náay 'll k'udlán 'laa saliyáagang .
 & It looks like he has repainted the house .
-& K̲ugíinaay 'll k̲'áalang 'laa saliyáagang . It looks like she has rewritten the book .
-& X̲ánjaangwaay 'll dlán 'laa saliyáagang . It looks like he has rewashed the windows .
+# K̲ugíinaay 'll k̲'áalang 'laa saliyáagang . 
+& It looks like she has rewritten the book .
+# X̲ánjaangwaay 'll dlán 'laa saliyáagang . 
+& It looks like he has rewashed the windows .
 
-& 'laa sáng
-& Meaning say will V again
-& Náay 'll k'udlán 'laa sánggan .
+# Náay 'll k'udlán 'laa sánggan .
 & He said he will repaint the house .
-& K̲ugíinaay 'll k̲'áalang 'laa sánggan . She said she will rewrite the book .
-& X̲ánjaangwaay 'll dlán 'laa sánggan . He said he will rewash the windows .
+# K̲ugíinaay 'll k̲'áalang 'laa sánggan . 
+& She said she will rewrite the book .
+# X̲ánjaangwaay 'll dlán 'laa sánggan . 
+& He said he will rewash the windows .
 
-& 'laa sánsdla
-& Meaning try to V over again
-& Náay 'll k'udlán 'laa sánsdlaang .
+# Náay 'll k'udlán 'laa sánsdlaang .
 & He is trying to repaint the house .
-& K̲ugíin 'll k̲'áalang 'laa sánsdlaang .
+# K̲ugíin 'll k̲'áalang 'laa sánsdlaang .
 & She is trying to rewrite the book .
-& X̲ánjaangwaay 'll dlán 'laa sánsdlaang . He is trying to rewash the windows .
+# X̲ánjaangwaay 'll dlán 'laa sánsdlaang . 
+& He is trying to rewash the windows .
 
-& 375
 
-& 'laa tláagaang
-& Meaning V over again first
-& Náay 'll k'udlán 'laa tláagaanggan .
-& K̲ugíinaay 'll k̲'áalang 'laa tláaganggan .
-& X̲ánjaangwaay 'll dlán 'laa tláagaanggan .
+
+# Náay 'll k'udlán 'laa tláagaanggan .
+# K̲ugíinaay 'll k̲'áalang 'laa tláaganggan .
+# X̲ánjaangwaay 'll dlán 'laa tláagaanggan .
 
 & He repainted the house first .
 & She rewrote the book first .
 & He rewashed the windows first .
 
-& 'laa xaayd (SG) 'laa xa'áang (PL)
-& Meaning V over again a little bit, kind of V over again
-& Náay 'll k'udlán 'laa xaaydán .
+# Náay 'll k'udlán 'laa xaaydán .
 & He kind of repainted the house .
-& K̲ugíinaay 'll k̲'áalang 'laa xaaydán . She kind of rewrote the book .
-& X̲ánjaangwaay 'll dlán 'laa xaaydán . He kind of rewashed the windows .
+# K̲ugíinaay 'll k̲'áalang 'laa xaaydán . 
+& She kind of rewrote the book .
+# X̲ánjaangwaay 'll dlán 'laa xaaydán . 
+& He kind of rewashed the windows .
 
 & 'laa xananáng
 & Meaning V over again a bit every once in a while
@@ -5664,12 +5602,12 @@ He has rewashed two windows so far .
 & K̲ugíinaay 'll k̲'áalang 'laa xatl'ägán . She rewrote the book for a little while .
 & X̲ánjaangwaay 'll dlán 'laa xatl'ägán . He rewashed the windows for a little while .
 
-& 'laa ˝ánsgad
+& 'laa x̲ánsgad
 & Meaning V over again for quite a while
-& Náay 'll k'udlán 'laa ˝ánsgiidan .
+& Náay 'll k'udlán 'laa x̲ánsgiidan .
 & He repainted the house for quite a while .
-& K̲ugíinaay 'll k̲'áalang 'laa ˝ánsgiidan . She rewrote the book for quite a while .
-& X̲ánjaangwaay 'll dlán 'laa ˝ánsgiidan . He rewashed the windows for quite a while .
+& K̲ugíinaay 'll k̲'áalang 'laa x̲ánsgiidan . She rewrote the book for quite a while .
+& X̲ánjaangwaay 'll dlán 'laa x̲ánsgiidan . He rewashed the windows for quite a while .
 
 & 'laa 'láa
 & Meaning V over again well
