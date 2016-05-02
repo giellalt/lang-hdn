@@ -902,61 +902,26 @@
 & He/she told him/her to chase him/her .
 & He/she told him/her to chase us .
 & He/she told him/her to chase you folks .
-& 40
 
-& 'Láa 'láa 'll xijuuláanghahl'wägan .
+
+'Láa 'láa 'll xijuuláanghahl'wägan .
 & Tl'áa 'láa 'll xijuuláanghalgan .
 
 & He/she told him/her to chase them .
 & He/she told him/her to chase people .
 
-& 41
 
-& Extended Verbs
-& Extended Environmental Verbs
-& [X gä]
-& [X gä]
-& [X gä]
-& [X g̲ahl]
-& [X g̲ahl]
-& [X g̲an]
-& [X g̲íisdä]
-& [X g̲íi]
-& [X g̲íi]
-& [X t'álgä]
 
-& sdahliyáa
-& gud k̲awyáa
-& k̲eh k̲'íisgadaa
-& dáalsgadaa
-& 'wáadaagaa
-& xangala'ad
-& jáast'a
-& k'áwdaal
-& g̲ahla
-& k̲éenggaa
-
-& for X to be wanted, to be in demand
-& for X to look delicious
-& for X to have gone out of sight
-& for X to be useful
-& for X to be for sale
-& for it to be too early for X
-& for a sudden feeling of fear to pass through X
-& for X to be ice-cold
-& for X to fall to pieces upon hearing bad news
-& for X to be hated
-
-& Joe gyaa tluwáay gä sdahliyáagang .
-& Chíinaay gä gud k̲awyáagang .
-& Tluwáay gä k̲eh k̲'íisgadaagan .
-& Áajii k̲ugíinaay ahl dáalsgadaagang .
-& Náay ahl 'wáadaagaagang .
-& Díi an xangala'íidang .
-& 'Láa íisdä jáast'ägan .
-& 'Ll stláay ii k'áwdaalgang .
-& 'Ll jáa ii g̲ahlägán .
-& Áajii ˝áay t'álgä k̲éenggaagang .
+# Joe gyaa tluwáay gä sdahliyáagang .
+# Chíinaay gä gud k̲awyáagang .
+# Tluwáay gä k̲eh k̲'íisgadaagan .
+# Áajii k̲ugíinaay ahl dáalsgadaagang .
+# Náay ahl 'wáadaagaagang .
+# Díi an xangala'íidang .
+# 'Láa íisdä jáast'ägan .
+# 'Ll stláay ii k'áwdaalgang .
+# 'Ll jáa ii g̲ahlägán .
+# Áajii ˝áay t'álgä k̲éenggaagang .
 
 & Joe's boat is in demand .
 & The fish looks delicious .
@@ -977,7 +942,6 @@
 # Joe an Steve k'waasugánggan .
 # Gwáalaay ii Jane guusganánggang .
 
-& Verb phrase
 
 & John is tracking the deer .
 & Mary asked for more bread .
@@ -987,7 +951,7 @@
 
 
 
-& John k'áadaay dluu dúugang .
+# John k'áadaay dluu dúugang .
 # Mary sablíi gwíi súuhlägan .
 # Ann dajangáay ahl dáayanggan .
 # Steve Joe an k'waasugánggan .
@@ -1017,7 +981,7 @@
 & They are tracking the deer .
 & People are tracking the deer .
 
-& Dáng gä Hl gyúust'ayaang .
+# Dáng gä Hl gyúust'ayaang .
 # Náanang gä 'll kihlgíidan .
 # Betty dáalaay gä k̲ínsgägan .
 # Díi gúusdä 'll g̲íidang .
@@ -1043,22 +1007,6 @@
 & Jane is rummaging around in the bag .
 & She squeezed the apple in her hand .
 
-& Extended Passive Descriptive Verbs
-& [Sp] [X dlaa]
-& [Sp] [X gä]
-& [Sp] [X gwáaduu]
-& [Sp] [X gwíi]
-& [Sp] [X g̲ahl]
-& [Sp] [X g̲an]
-& [Sp] [X g̲âa]
-
-& ijgáa
-& k̲eht'ajáa
-& gudáng
-& g̲ida
-& gwáayg'angaa
-& áanaasiyaa
-& k'úugaa
 
 
 & Joe dlaa Jim ijgáagang .
@@ -1095,7 +1043,6 @@
 # Joe dlaa íitl' ijgáagang .
 # Joe dlaa daláng ijgáagang .
 
-& Verb phrase
 
 & I am younger than Joe .
 & You are younger than Joe .
@@ -1103,7 +1050,7 @@
 & We are younger than Joe .
 & You folks are younger than Joe .
 
-# Joe dlaa 'll ijgáa'waang .
+# Joe dlaa 'll ijgáa'waang .
 # Joe dlaa tl' ijgáagang .
 
 & They are younger than Joe .
@@ -1532,7 +1479,7 @@
 & He fell down hard .
 & It's really raining hard .
 
-& 
+
 # 'Ll st'i dagwáanggang .
 # Daláng gw k̲'ud dagwáangaa?
 # Gatáa dagwáang'uu hlaa!
@@ -1598,14 +1545,18 @@
 
 # Díi tl'aagáa gíigan .
 & I was always tired and weary .
+
 # 'Ll hlkwiida gíigang .
 & She is always in a hurry .
-# Díi an 'll sg̲anuwáa gíiäsaang . He will always be angry with me .
-# Will Do First
-# K'ayáay Hl táa gíiäsaang .
-# 'Ll xyáahl gíiäsaang .
 
+# Díi an 'll sg̲anuwáa gíiäsaang . 
+& He will always be angry with me .
+
+
+# K'ayáay Hl táa gíiäsaang .
 & I will eat the apple first .
+
+# 'Ll xyáahl gíiäsaang .
 & She will dance first before anything else .
 
 
@@ -1816,7 +1767,7 @@
 & He will pretend to help me .
 & Don't pretend to sing!
 
-& 
+
 # Gwa'áaw k̲íidgaanggang .
 # Díi st'igahl k̲íidgaanggan .
 # Gíisd uu gúusuu k̲íidgaanggang?
@@ -1863,7 +1814,7 @@
 # Gíisd uu g̲áanaay táa k̲'uhldáayaa?
 # Dáng gä gin Hl k̲'áalang k̲'uhldáaäsaang .
 
-& 231
+
 
 & He has secretly fixed it .
 & She secretly looked for it .
@@ -1909,11 +1860,11 @@
 & What are you trying to say to me?
 
 
-& T'aláng k'ajáaw sdánggan .
-& 'Ll k̲ats'áa sdánggan .
-& Dáng gä Hl tlaayd sdángäsaang .
-& Dáng aa gw 'll gúusaaw sdáangaa?
-& 'Ll tlaawhláa sdáng'ilgang .
+# T'aláng k'ajáaw sdánggan .
+# 'Ll k̲ats'áa sdánggan .
+# Dáng gä Hl tlaayd sdángäsaang .
+# Dáng aa gw 'll gúusaaw sdáangaa?
+# 'Ll tlaawhláa sdáng'ilgang .
 
 & We sang twice .
 & She came in twice .
@@ -1921,18 +1872,13 @@
 & Did he talk to you twice?
 & He has fixed it twice now .
 
-& 233
 
-& tláagaang
-& Meaning for the first time, first
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [0683]
-& Example Sentences
-& 'Láa Hl k̲íng tláagaanggan .
-& Gíisand uu náay 'll k'udlán tláagaangaa?
-& Dáng gä uu Hl tlaayd tláagaanggan .
-& Hláa uu dáng gä tlaayd tláagaanggan .
-& Hl g̲áadang tláagaanggan .
+# Example Sentences
+# 'Láa Hl k̲íng tláagaanggan .
+# Gíisand uu náay 'll k'udlán tláagaangaa?
+# Dáng gä uu Hl tlaayd tláagaanggan .
+# Hláa uu dáng gä tlaayd tláagaanggan .
+# Hl g̲áadang tláagaanggan .
 
 & I first saw him yesterday .
 & When did he first paint the house?
@@ -1940,16 +1886,12 @@
 & I was the first one to help you .
 & I bathed first before anything else .
 
-& xaayd (sg) / xa'áang (pl)
-& Meaning a little bit, manage to do a bit of, kind of
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage With punctual and accomplishment verbs only? [1181]
-& Example Sentences
-& Íitl' gä 'll tlaayd xaaydán .
-& 'Ll ta ˝áy xaaydáng .
-& Án t'aláng sáanjuudä xa'áanggan .
-& Daláng gw ta tl'íi xa'áangaa?
-& Hl hlg̲ánggulä xaaydäsáang .
+
+# Íitl' gä 'll tlaayd xaaydán .
+# 'Ll ta ˝áy xaaydáng .
+# Án t'aláng sáanjuudä xa'áanggan .
+# Daláng gw ta tl'íi xa'áangaa?
+# Hl hlg̲ánggulä xaaydäsáang .
 
 & He helped us a little bit .
 & She is doing a bit of knitting .
@@ -1957,18 +1899,12 @@
 & Did you folks do a little sewing?
 & I will do a bit of work .
 
-& 234
 
-& xananáng
-& Meaning V a bit every little while
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [0739]
-& Example Sentences
-& 'Ll gatáa xananánggan .
-& Hl ta k̲'áalang xananánggang .
-& T'aláng k'ajúu xananánggiinii .
-& 'Láa aa Hl gúusuu xananánggan .
-& 'Ll náang xananáng'wägan .
+# 'Ll gatáa xananánggan .
+# Hl ta k̲'áalang xananánggang .
+# T'aláng k'ajúu xananánggiinii .
+# 'Láa aa Hl gúusuu xananánggan .
+# 'Ll náang xananáng'wägan .
 
 & She ate a bit every little while .
 & I'm writing a little bit every once in a while .
@@ -1976,18 +1912,13 @@
 & I spoke to him a little once in a while .
 & They played a bit every little while .
 
-& xatl'a (sg) / xak'a (pl)
-& Meaning V for a little while
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage If a single event is described, use xatl'a . If there are plural events,
-& use xak'a . [0704]
 
-& Example Sentences
-& G̲íi Hl hlg̲ánggulä xatl'ägán .
-& Díi gä 'll tlaayd xatl'ägán .
-& Díi aa hl gúusuu xatl'áa .
-& Gwa'áaw xatl'áaäsaang .
-& Gwa'áaw xak'áaäsaang .
+
+# G̲íi Hl hlg̲ánggulä xatl'ägán .
+# Díi gä 'll tlaayd xatl'ägán .
+# Díi aa hl gúusuu xatl'áa .
+# Gwa'áaw xatl'áaäsaang .
+# Gwa'áaw xak'áaäsaang .
 
 & I worked on it for a little while .
 & She helped me for a little while .
@@ -1995,18 +1926,12 @@
 & It will rain for a little while .
 & It will rain repeatedly for short periods of time .
 
-& 235
 
-& ˝ánsgad
-& Meaning V for quite a while, V for a long time
-& Pronunciation Does not trigger any changes in pronunciation o preceding verbs
-& Usage Can be interpreted either outside or inside Negative scope . [1556]
-& Example Sentences
-& G̲íi 'll hlg̲ánggulä ˝ánsgiidang .
-& Gwa'áaw ˝ánsgiidan .
-& Gud áa t'aláng gúusuu ˝ánsgiidan .
-& Gám xayáa ˝ánsgad'anggang .
-& Gám xayáa ˝ánsgad'anggang .
+# G̲íi 'll hlg̲ánggulä ˝ánsgiidang .
+# Gwa'áaw ˝ánsgiidan .
+# Gud áa t'aláng gúusuu ˝ánsgiidan .
+# Gám xayáa ˝ánsgad'anggang .
+# Gám xayáa ˝ánsgad'anggang .
 
 & She has been working on it for quite a while .
 & It rained for quite a while .
@@ -2014,16 +1939,12 @@
 & It hasn't been sunny long .
 & It hasn't been sunny in a long time .
 
-& yahk'áa
-& Meaning just, only, merely
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage Occurs basically with number verbs . [1753]
-& Example Sentences
-& Jagwaa yahk'áagang .
-& 'Ll stánsang yahk'áa'waang .
-& Gám hlg̲únahl yahk'áa'anggang .
-& Sdáng'iihl yahk'áagan .
-& K'asgad tléehl yahk'áagang .
+
+# Jagwaa yahk'áagang .
+# 'Ll stánsang yahk'áa'waang .
+# Gám hlg̲únahl yahk'áa'anggang .
+# Sdáng'iihl yahk'áagan .
+# K'asgad tléehl yahk'áagang .
 
 & There are just seven .
 & There are just four of them .
@@ -2031,18 +1952,13 @@
 & It increased/decreased to just two .
 & It's only five o'clock .
 
-& 236
 
-& 'la .a
-& Meaning V over again, re-V
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [0855]
-& Example Sentences
-& Náay 'll k'udlán 'laagán .
-& 'Ll k̲áayd 'laagáng .
-& Tluwáay Hl tlaawhlä 'la'áaäsaang .
-& Gasán tl'aa uu dáng dáang 'la .áayaa?
-& Gám k̲'áalang 'laa'áng!
+
+# Náay 'll k'udlán 'laagán .
+# 'Ll k̲áayd 'laagáng .
+# Tluwáay Hl tlaawhlä 'la'áaäsaang .
+# Gasán tl'aa uu dáng dáang 'la .áayaa?
+# Gám k̲'áalang 'laa'áng!
 
 & He repainted the house .
 & She left again (after returning) .
@@ -2050,16 +1966,13 @@
 & Why did you throw it away again?
 & Don't rewrite it!
 
-& 'láa
-& Meaning well, nicely
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [0855]
-& Example Sentences
-& Hl tlaawhlä 'láagan .
-& X̲aad Kíl 'll sk̲'ad'a 'láagan .
-& Gíisd uu náay k'udlán 'láagaa?
-& Dáng gw k̲'adä 'láagaa?
-& 'Láa gä hl gyáa sg̲áw 'láa'uu!
+
+
+# Hl tlaawhlä 'láagan .
+# X̲aad Kíl 'll sk̲'ad'a 'láagan .
+# Gíisd uu náay k'udlán 'láagaa?
+# Dáng gw k̲'adä 'láagaa?
+# 'Láa gä hl gyáa sg̲áw 'láa'uu!
 
 & I fixed it well .
 & She learned Haida well .
@@ -2067,22 +1980,12 @@
 & Did you sleep well?
 & Pay him well, you folks!
 
-& 237
 
-& -aa'aa (sg) / -aa'aaga (pl)
-& Meaning leave to go V
-& Pronunciation Triggers obligatory ablaut for all preceding polysyllabic verbs, as
-& well as for monosyllabic verbs ending in -d, -s or -hl . Triggers
-& optional ablaut for all other monosyllabic verbs .
-
-& Usage If the subject is singular, or several people going in a group, use aa'aa . If the subject is plural, use -aa'aaga . [1251]
-
-& Example Sentences
-& Táaw 'll daháa'aagan .
-& 'Ll tlaawhláa .aagan .
-& Dáng gä 'll tlaaydáa'aagan .
-& 'Láa gä t'aláng diyéengaa'aagägan .
-& Gíisd uu náay k'udláanaa'aagaa?
+# Táaw 'll daháa'aagan .
+# 'Ll tlaawhláa .aagan .
+# Dáng gä 'll tlaaydáa'aagan .
+# 'Láa gä t'aláng diyéengaa'aagägan .
+# Gíisd uu náay k'udláanaa'aagaa?
 
 & He left to go buy some food .
 & He went to go fix it .
@@ -2090,74 +1993,49 @@
 & We left to go look for him .
 & Who left to go paint the house?
 
-& -ad
-& Meaning really V, very V, too V, V too much
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [1269]
-& Example Sentences
-& Hl gatáa'iidan .
-& T'íihlä'iidang .
-& Gám g̲ángk'an 'll níihlad'anggan .
-& Gíisd uu hlg̲ánggulä'iidang?
-& Dajangáay gw í'waanadaa?
+
+
+# Hl gatáa'iidan .
+# T'íihlä'iidang .
+# Gám g̲ángk'an 'll níihlad'anggan .
+# Gíisd uu hlg̲ánggulä'iidang?
+# Dajangáay gw í'waanadaa?
 
 & I ate too much .
 & It's very wet . It's too wet .
 & She didn't drink too much coffee .
 & Who is working too much?
 & Was the hat too big?
-& 238
 
-& -agang
-& Meaning individually, each, one by one
-& Pronunciation Triggers ablaut in all classes of preceding verbs .
-& Usage Applies only to Subjects . It is outside the scope of negation . The
 
-& Change-of-State version is -agahl ‘come to do individually' . [1571]
-
-& Example Sentences
-& Náay áangaa tl'ä k'udláanaganggang .
-& Tl'ä 'wáadluwaan xyáalaganggan .
-& Gám díi aa tl'ä gúusaawagang'anggan .
-& 'Láa gä t'aláng tlaaydagánggan .
+# Náay áangaa tl'ä k'udláanaganggang .
+# Tl'ä 'wáadluwaan xyáalaganggan .
+# Gám díi aa tl'ä gúusaawagang'anggan .
+# 'Láa gä t'aláng tlaaydagánggan .
 
 & People are each painting their own house .
 & Everyone was dancing on their own .
 & No one spoke to me .
 & We each helped him individually .
 
-& -ang k̲asaä
-& Meaning gonna V, all ready to V
-& Pronunciation Triggers obligatory ablaut on preceding -d, -s, AHL-class, IIHL-class
-& and polysyllabic UU-class verbs . Triggers optional ablaut in
-& preceding verbs of all other classes .
 
-& Usage Expresses greater certainty than the Simple Future . Change-of-State
-& form is -ang k̲asaasdla ‘just about to V' . Inside or outside scope of
-& negation . [1413]
-
-& Example Sentences
-& Gwa'áawang k̲asa'áang .
-& G̲íi Hl hlg̲ánggulaang k̲asa'áang .
-& Dáng an 'll dahang k̲asaagán .
-& Hl k̲áaydang k̲asaasdláang .
+# G̲íi Hl hlg̲ánggulaang k̲asa'áang .
+# Dáng an 'll dahang k̲asaagán .
+# Hl k̲áaydang k̲asaasdláang .
 
 & It's gonna rain .
 & I'm gonna work on it .
 & He was gonna buy it for you .
 & I'm just about to leave .
-& 239
 
-& -dáal
-& Meaning go along V'ing, V along; V soon, almost ready to V
-& Pronunciation Does not trigger any pronunciation changes in preceding verbs
-& Usage With achievement verbs, it means ‘soon' . [0085]
-& Example Sentences
-& 'Ll k'ajúudaalgan .
-& 'Láa aa Hl gúusuudaalgan .
-& Dáa gw k̲'áahluudaal?
-& Náay 'll k'udlándaalgang .
-& K̲igwáay 'll nangéehldädaalgang .
+
+ 
+
+# 'Ll k'ajúudaalgan .
+# 'Láa aa Hl gúusuudaalgan .
+# Dáa gw k̲'áahluudaal?
+# Náay 'll k'udlándaalgang .
+# K̲igwáay 'll nangéehldädaalgang .
 
 & She was going along singing .
 & I went along talking to him .
@@ -2165,20 +2043,12 @@
 & He is almost ready to paint the house .
 & She is putting the basket on sale soon .
 
-& -gwaang (sg) / jaadáng (pl)
-& Meaning go around V'ing here and there
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage Use the suffix -gwaang when the Subject is singular . When it is
-& plural, use the separate verb jaadáng . [0884]
 
-& Example Sentences
-& 'Ll sg̲áyhlägwaanggan .
-& 'Ll náanggwaang'waang .
-& Gasán tl'aa uu dáng k̲ínggwaanggang?
-& 'Láa gä Hl diyínggwaanggang .
-& 'Láa gä t'aláng diyíng jaadánggang .
-
-& 240
+# 'Ll sg̲áyhlägwaanggan .
+# 'Ll náanggwaang'waang .
+# Gasán tl'aa uu dáng k̲ínggwaanggang?
+# 'Láa gä Hl diyínggwaanggang .
+# 'Láa gä t'aláng diyíng jaadánggang .
 
 & She was going around crying .
 & They're going around playing .
@@ -2186,16 +2056,12 @@
 & I'm looking around for him .
 & We're looking around for him .
 
-& -gya'ang (sg) / -gya'aang (pl)
-& Meaning V standing around
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [0873]
-& Example Sentences
-& 'Ll k'ajúugya'anggan .
-& X̲aad kihlgä 'll gúusuugya'anggang .
-& Gíisd uu wáadl'an sg̲áyhlägya'anggang?
-& 'Ll gatáagya'anggang .
-& 'Ll gatáagya'aang'waang .
+
+# 'Ll k'ajúugya'anggan .
+# X̲aad kihlgä 'll gúusuugya'anggang .
+# Gíisd uu wáadl'an sg̲áyhlägya'anggang?
+# 'Ll gatáagya'anggang .
+# 'Ll gatáagya'aang'waang .
 
 & She stood around singing .
 & He is standing around speaking Haida .
@@ -2203,16 +2069,12 @@
 & He is standing around eating .
 & They are standing around eating .
 
-& -hahl
-& Meaning tell to V, order to V
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage It is outside the scope of negation . [1564]
-& Example Sentences
-& G̲íi díi 'll hlg̲ánggulähalgan .
-& 'Láa Hl tlaawhlähálgan .
-& Gíisd uu díi gä dáng tlaaydháalaa?
-& Gám díi 'll táahahl'anggan .
-& Ga 'láa Hl diyínghahläsaang .
+
+# G̲íi díi 'll hlg̲ánggulähalgan .
+# 'Láa Hl tlaawhlähálgan .
+# Gíisd uu díi gä dáng tlaaydháalaa?
+# Gám díi 'll táahahl'anggan .
+# Ga 'láa Hl diyínghahläsaang .
 
 & He told me to work on it .
 & I told him to fix it .
@@ -2220,20 +2082,12 @@
 & He told me not to eat it .
 & I will tell him to look for it .
 
-& 241
 
-& -hid
-& Meaning start to V, begin to V
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage It is outside the scope of negation, except when gáawaan ‘not yet' is
-& used . [1183]
-
-& Example Sentences
-& 'Ll k'ajúuhiidan .
-& 'Láa gä Hl diyínghiidan .
-& Gíisand uu gwa'áawhidaa?
-& Gáawaan 'll tlaawhlähid'ánggang .
-& Gám gin ˝áwlaa 'll táahid'anggang .
+# 'Ll k'ajúuhiidan .
+# 'Láa gä Hl diyínghiidan .
+# Gíisand uu gwa'áawhidaa?
+# Gáawaan 'll tlaawhlähid'ánggang .
+# Gám gin ˝áwlaa 'll táahid'anggang .
 
 & She started to sing .
 & I started to look for him .
@@ -2241,16 +2095,12 @@
 & He hasn't started to fix it yet .
 & She is starting to not eat sweets anymore .
 
-& -sga
-& Meaning almost V, could have V'ed, nearly V'ed
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage [0496]
-& Example Sentences
-& G̲ándlaay k̲ahlsgáang .
-& Dáalaay Hl k̲íiyäsgagan .
-& Díi 'll k̲íngsgagan .
-& Dáng gä Hl tlaaydsgagan .
-& Íitl' k'ut'ahlgäsgagan .
+
+# G̲ándlaay k̲ahlsgáang .
+# Dáalaay Hl k̲íiyäsgagan .
+# Díi 'll k̲íngsgagan .
+# Dáng gä Hl tlaaydsgagan .
+# Íitl' k'ut'ahlgäsgagan .
 
 & The river has nearly frozen .
 & I almost found the money . I could have found the money .
@@ -2258,21 +2108,12 @@
 & I could have helped you .
 & We nearly died .
 
-& 242
 
-& -'uhla
-& Meaning V in the morning, V all night long
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage Tends to mean ‘in the morning' with stative and punctual verbs, but
-& ‘all night long' with durative verbs . It is outside the scope of
-& negation . [1720]
-
-& Example Sentences
-& 'Ll k̲'áahluu'uhlägan .
-& Gwa'áaw'uhlägan .
-& Hl gatáa'uhlaaäsaang .
-& 'Ll sg̲áyhlä'uhlägan .
-& Gám 'll k̲'a'uhlä'ánggan .
+# 'Ll k̲'áahluu'uhlägan .
+# Gwa'áaw'uhlägan .
+# Hl gatáa'uhlaaäsaang .
+# 'Ll sg̲áyhlä'uhlägan .
+# Gám 'll k̲'a'uhlä'ánggan .
 
 & She woke up in the morning .
 & It rained in the morning . / It rained all night .
@@ -2280,961 +2121,731 @@
 & He cried all night long .
 & All night long he didn't sleep (he did something else) .
 
-& -'wa (sg) / -'wa'áang
-& Meaning V sitting, sit around V'ing
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage If the subject is singular, use -'wa . If it is plural, use -'wa'aang .
-& [1708]
 
-& Example Sentences
-& 'Ll gut'ägúng'waang .
-& 'Ll sk'isdlä'wägán .
-& Jíingaa 'll sg̲áyhlä'wägan .
-& Gíisd uu 'láa aa gúusuu'waang?
-& Gudahl 'll náang'wa'aang'waang .
+# 'Ll gut'ägúng'waang .
+# 'Ll sk'isdlä'wägán .
+# Jíingaa 'll sg̲áyhlä'wägan .
+# Gíisd uu 'láa aa gúusuu'waang?
+# Gudahl 'll náang'wa'aang'waang .
 
 & He is sitting there pondering .
 & He sat there full .
 & She sat there crying for a long time .
 & Who is sitting there talking to her?
 & They are sitting there playing together .
-& 243
 
-& áahlgang gíi
-& Meaning always V not all that well, already V'ed poorly
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& G̲íi 'll hlg̲ánggulä áahlgang gíiganggang .
+# G̲íi 'll hlg̲ánggulä áahlgang gíiganggang .
 & She always does a mediocre job on it .
-& 'Ll tl'íi áahlgang gíigan .
+# 'Ll tl'íi áahlgang gíigan .
 & He has already sewn it poorly .
 
-& áahlgang sáng
-& Meaning say will V poorly
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& Náay Hl k'udlán áahlgang sánggan .
+
+# Náay Hl k'udlán áahlgang sánggan .
 & I said I would do a poor job of painting the house .
 
-& 244
 
-& áahlgaangagang
-& Meaning individually V poorly
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& T'aláng ta tl'íi áahlgaangaganggan .
+# T'aláng ta tl'íi áahlgaangaganggan .
 & We each individually did a poor job of sewing .
-& Tl'ä 'wáadluwaan xyáahl áahlgaangaganggan .
+# Tl'ä 'wáadluwaan xyáahl áahlgaangaganggan .
 & Everyone each did a poor job of dancing .
 
-& áahlganggwaang (sg) / áahlgang jaadáng (pl)
-& Meaning V around poorly
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& 'Ll t'a skáawnang áahlganggwaanggang .
+
+# 'Ll t'a skáawnang áahlganggwaanggang .
 & He's doing a poor job of biking around . [He keeps falling down]
-& Díi gä 'll diyíng áahlganggwaanggan .
+# Díi gä 'll diyíng áahlganggwaanggan .
 & He did a poor job of looking around for me . [It took him forever to find me]
 
-& 245
 
-& áahlgang'uhla
-& Meaning V poorly in the morning, V poorly all night long
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& 'Ll k̲'a áahlgang'uhlägan .
+# 'Ll k̲'a áahlgang'uhlägan .
 & She slept poorly all night long .
-& G̲íi 'll hlg̲ánggulä áahlgang'uhlägan .
+# G̲íi 'll hlg̲ánggulä áahlgang'uhlägan .
 & He did a poor job working on it all night .
 
-& déed gíi ~ gíi déed
-& Meaning already V'ed right away; always V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& 'Láa aa Hl gúusuu déed gíigang .
+
+# 'Láa aa Hl gúusuu déed gíigang .
 & I have already spoken to him right away .
-& Nang íihlangaas k̲áayd déed gíigan .
+
+# Nang íihlangaas k̲áayd déed gíigan .
 & The man already left right away .
-& Díi tláal gatáa déed gíiganggang .
+
+# Díi tláal gatáa déed gíiganggang .
 & My husband always finishes eating right away .
 
-& 246
 
-& déed guda
-& Meaning want to V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage The subject optionally becomes Passive . The Change-of-State form
-& is déed gudasdla ‘come to want to V right away' .
-
-& Example Sentences
-& Hl k̲áayd déed gudáang .
+# Hl k̲áayd déed gudáang .
 & I want to leave right away .
-& Náay 'll k'udlán déed gudägán .
+# Náay 'll k'udlán déed gudägán .
 & She wanted to finish painting the house right away .
-& Dáng aa Hl gúusuu déed gudáang .
+# Dáng aa Hl gúusuu déed gudáang .
 & I want to speak to you right away .
 
-& déed g̲áayaa
-& Meaning know how to V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage Requires Passive Subject pronouns . Change-of-State form is déed
-& g̲áayeehl ‘come to know how to V right away' .
 
-& Example Sentences
-& 'Ll tlaawhlä déed g̲áayaagang .
-& Díi tláng g̲aláng déed g̲áayaagang .
-& 'Ll sk̲'ad'ä déed g̲áayaagang .
+# 'Ll tlaawhlä déed g̲áayaagang .
+# Díi tláng g̲aláng déed g̲áayaagang .
+# 'Ll sk̲'ad'ä déed g̲áayaagang .
 
 & He knows how to fix it right away .
 & I know how to cook it right away .
 & She knows how to learn it right away .
-& 247
 
-& déed hlangaa
-& Meaning can V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage Takes an irregular Present tense déed hlangaang .
-& Example Sentences
-& Gíisd uu áajii tlaawhlä déed hlangaang?
-& Dáng gä Hl tlaayd déed hlangaang .
-& T'aláng ist'iid déed hlangaang .
+# Gíisd uu áajii tlaawhlä déed hlangaang?
+# Dáng gä Hl tlaayd déed hlangaang .
+# T'aláng ist'iid déed hlangaang .
 
 & Who can fix this right away?
 & I can help you right away .
 & We can leave right away .
 
-& déed k̲'ala
-& Meaning not know how to V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Usage Requires the use of Passive Subject pronouns
-& Example Sentences
-& Díi tlaawhlä déed k̲'aláang .
-& Íitl' gä 'll tlaayd déed k̲'aláang .
-& Íitl' dlán déed k̲'alägán .
+
+# Díi tlaawhlä déed k̲'aláang .
+# Íitl' gä 'll tlaayd déed k̲'aláang .
+# Íitl' dlán déed k̲'alägán .
 
 & I don't know how to fix it right away .
 & She doesn't know how to help us right away .
 & We didn't know how to wash it right away .
 
-& 248
 
-& déed sáng
-& Meaning say will V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& Náay 'll k'udlán déed sánggan .
+# Náay 'll k'udlán déed sánggan .
 & He said he'd paint the house right away .
-& 'Ll k̲áayd déed sánggan .
+# 'Ll k̲áayd déed sánggan .
 & She said she'd leave right away .
-& Gám díi gä 'll tlaayd déed sáng'anggan . She said she wouldn't help me right away .
+# Gám díi gä 'll tlaayd déed sáng'anggan . 
+& She said she wouldn't help me right away .
 
-& déed sánsdla
-& Meaning try to V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& Ga Hl diyíng déed sánsdlaang .
-& Náay 'll k'udlán déed sánsdlägan .
-& 'Ll k̲áayd déed sánsdlägan .
+# Ga Hl diyíng déed sánsdlaang .
+# Náay 'll k'udlán déed sánsdlägan .
+# 'Ll k̲áayd déed sánsdlägan .
 
 & I'm trying to look for it right away .
 & She tried to pain the house right away .
 & He tried to leave right away .
 
-& 249
 
-& déedang k̲asaä
-& Meaning gonna V right away
-& Pronunciation Does not trigger any changes in pronunciation of preceding verbs
-& Example Sentences
-& Hl k̲áayd déedang k̲asa'áang .
+# Hl k̲áayd déedang k̲asa'áang .
 & I'm gonna leave right away .
-& Náay 'll k'udlán déedang k̲asa'áang .
+# Náay 'll k'udlán déedang k̲asa'áang .
 & He's gonna finish painting the house right away .
-& K̲íihlgaay Hl dlán déedang k̲asa'áang .
+# K̲íihlgaay Hl dlán déedang k̲asa'áang .
 & I'm gonna finish washing the dishes right away .
 
-& 250
 
-& déedsga
-& Meaning almost Ved right away, could have Ved right away
-& 'Ll k̲áayd déedsgägan .
-& 'Ll k'ut'ahl déedsgägan .
-& Dáalaay Hl k̲íiyä déedsgägan .
+# 'Ll k̲áayd déedsgägan .
+# 'Ll k'ut'ahl déedsgägan .
+# Dáalaay Hl k̲íiyä déedsgägan .
 
 & She almost left right away .
 & He almost died right away .
 & I almost found the money right away .
 
-& dlajúudahahl (sg) / ˝ajúudahahl (pl)
-& Meaning tell to act like V
-& Díi 'll st'i dlajúudahalgan .
-& G̲íi 'láa Hl hlg̲ánggulä dlajúudahalgan .
-& Íitl' 'll k'ajúu ˝ajúudahalgan .
+
+# Díi 'll st'i dlajúudahalgan .
+# G̲íi 'láa Hl hlg̲ánggulä dlajúudahalgan .
+# Íitl' 'll k'ajúu ˝ajúudahalgan .
 
 & He told me to act like I'm sick .
 & I told him to act like he's working on it .
 & She told us to act like we're singing .
 
-& gayéed déed
-& Meaning might V right away, accidentally Ved right away
-& 'Ll tlaawhlä gayéed déedang .
+
+# 'Ll tlaawhlä gayéed déedang .
 & He might fix it right away .
-& Hldáanaay 'll táa gayéed déedan . She accidentally ate the blueberries right away .
-& 'Ll dladahldä gayéed déedan .
+# Hldáanaay 'll táa gayéed déedan . 
+& She accidentally ate the blueberries right away .
+# 'Ll dladahldä gayéed déedan .
 & He accidentally fell down right away .
 
-& 251
 
-& gayéed gíi
-& Meaning already Ved accidentally; might always V
-& 'Ll tla ˝áasdlä gayéed gíigang .
+# 'Ll tla ˝áasdlä gayéed gíigang .
 & She has already spilled it accidentally .
-& 'Láa aa 'll gúusuu gayéed gíigang .
+# 'Láa aa 'll gúusuu gayéed gíigang .
 & He has already accidentally talked to her .
-& Díi an 'll sg̲anuwáa gayéed gíiganggang . He might always be angry with me .
+# Díi an 'll sg̲anuwáa gayéed gíiganggang . 
+& He might always be angry with me .
 
-& gayéed gíng ~ gíng gayéed
-& Meaning accidentally V'ed on the water; might V on the water
-& 'Ll k'ajúu gayéed gínggang .
-& Anáa 'll is gíng gayéedang .
-& 'Ll tla ˝asdlä gayéed gínggan .
+
+# 'Ll k'ajúu gayéed gínggang .
+# Anáa 'll is gíng gayéedang .
+# 'Ll tla ˝asdlä gayéed gínggan .
 
 & They might be singing on the boat .
 & He might be at home on the boat [houseboat] .
 & She accidentally spilled it on the boat .
 
-& gayéed hlangaa
-& Meaning might be able to V
-& Hl tlaawhlä gayéed hlangaang .
-& Dáng gä 'll tlaayd gayéed hlangaang .
-& Dáalaay 'll k̲íiyä gayéed hlangaang .
 
-& 252
+# Hl tlaawhlä gayéed hlangaang .
+# Dáng gä 'll tlaayd gayéed hlangaang .
+# Dáalaay 'll k̲íiyä gayéed hlangaang .
+
 
 & I might be able to fix it .
 & She might be able to help you .
 & He might be able to find the money .
 
-& gayéed saliyáa
-& Meaning look like might V
-& Dáng gä 'll tlaayd gayéed saliyáagang . It looks like he might help you .
-& Gwa'áaw gayéed saliyáagan .
+
+# Dáng gä 'll tlaayd gayéed saliyáagang . 
+& It looks like he might help you .
+# Gwa'áaw gayéed saliyáagan .
 & It looked like it might rain .
-& 'Láa gw dah gayéed saliyáa?
+# 'Láa gw dah gayéed saliyáa?
 & Does it look like he might buy it?
 
-& gayéedad
-& Meaning might V too much, might really V, accidentally V too much
-& X̲áay gatáa gayéediidang .
-& Ta k'íina gayéediidang .
-& G̲ángk'an Hl níihl gayéediidan .
+# X̲áay gatáa gayéediidang .
+# Ta k'íina gayéediidang .
+# G̲ángk'an Hl níihl gayéediidan .
 
 & The dog might eat too much .
 & The weather might be too hot .
 & I accidentally drank too much coffee .
 
-& gáay g̲áayaa
-& Meaning already know how to V
-& 'Ll ta tl'íi gáay g̲áayaagang .
-& K̲igw Hl ˝áy gáay g̲áayaagang .
-& T'aláng xyáahl gáay g̲áayaagang .
+# 'Ll ta tl'íi gáay g̲áayaagang .
+# K̲igw Hl ˝áy gáay g̲áayaagang .
+# T'aláng xyáahl gáay g̲áayaagang .
 
 & She already knows how to sew .
 & I already know how to weave a basket .
 & We already know how to dance .
 
-& 253
 
-& gáay hlangaa
-& Meaning can always V
-& Dáng gä Hl tlaayd gáay hlangaang .
-& Dáng k̲áayd gáay hlangaang .
-& Nang g̲áwtlaa dáng dah gáay hlangaang .
+# Dáng gä Hl tlaayd gáay hlangaang .
+# Dáng k̲áayd gáay hlangaang .
+# Nang g̲áwtlaa dáng dah gáay hlangaang .
 
 & I can always help you .
 & You can always leave .
 & You can always buy a new one .
 
-& gíi saliyáa
-& Meaning look like already V'ed
-& 'Ll k̲áayd gíi saliyáagang .
-& Gwa'áaw gíi saliyáagang .
-& 'Ll tlaawhlä gíi saliyáagang .
+# 'Ll k̲áayd gíi saliyáagang .
+# Gwa'áaw gíi saliyáagang .
+# 'Ll tlaawhlä gíi saliyáagang .
 
 & It looks like he already left .
 & It looks like it already rained .
 & It looks like she already fixed it .
 
-& gíi sáng
-& Meaning say that will always V
-& Díi gä 'll tlaayd gíi sángganggang .
-& X̲aad Kíl 'll gúusuu gíi sángganggang .
-& Áadl'an 'll náa gíi sángganggang .
-
-& 254
+# Díi gä 'll tlaayd gíi sángganggang .
+# X̲aad Kíl 'll gúusuu gíi sángganggang .
+# Áadl'an 'll náa gíi sángganggang .
 
 & He says that he will always help me .
 & She says she will always speak Haida .
 & He says he will always live here .
 
-& sáng gíi
-& Meaning already said will V, always says will V
-& 'Ll tlaawhlä sáng gíigang .
-& Dáng gä Hl tlaayd sáng gíigang .
-& Ga 'll diyíng sáng gíiganggang .
+# 'Ll tlaawhlä sáng gíigang .
+# Dáng gä Hl tlaayd sáng gíigang .
+# Ga 'll diyíng sáng gíiganggang .
 
 & He has already said he will fix it .
 & I've already said I will help you .
 & She always says she will look for it .
 
-& gíihahl
-& Meaning tell to always V?? already told to V??
-& X̲aad Kíl díi 'll gúusuu gíihalgan .
-
+# X̲aad Kíl díi 'll gúusuu gíihalgan .
 & He told me to always speak Haida .
 
-& gudä gíi
-& Meaning always want to V
-& Pronunciation Triggers ablaut in all preceding verbs .
-& Usage Optionally requires Passive Subject pronouns
-& Díi aa 'll gúusaaw gudä gíiganggang .
-& Gudahl 'll náang gudä gíigang'waang .
-& Díi xyáal gudä gíigiinii .
-
-& 255
+# Díi aa 'll gúusaaw gudä gíiganggang .
+# Gudahl 'll náang gudä gíigang'waang .
+# Díi xyáal gudä gíigiinii .
 
 & She always wants to talk to me .
 & They always want to play together .
 & I always used to want to dance .
 
-& gíng gíi
-& Meaning already V on the water, always V on the water
-& T'aláng gatáa gíng gíigang .
-& 'Láa aa Hl gúusuu gíng gíigan .
-& 'Ll k'ajúu gíng gíiganggang .
+# T'aláng gatáa gíng gíigang .
+# 'Láa aa Hl gúusuu gíng gíigan .
+# 'Ll k'ajúu gíng gíiganggang .
 
 & We've already eaten on the boat .
 & I had already talked to him on the boat .
 & She always sings on the boat .
 
-& gyáang guda ~ gudä gíng
-& Meaning want to V on the water
-& T'aláng gatáa gyáang gudáang .
-& T'aláng gatáa gudä gínggang .
-& Díi hlg̲ánggulä gyáang gudáang .
-& Díi hlg̲ánggulaa gudä gínggang .
+# T'aláng gatáa gyáang gudáang .
+# T'aláng gatáa gudä gínggang .
+# Díi hlg̲ánggulä gyáang gudáang .
+# Díi hlg̲ánggulaa gudä gínggang .
 
 & We want to eat on the boat .
 & We want to eat on the boat .
 & I want to work on the boat .
 & I want to work on the boat .
 
-& gyáang hlangaa
-& Meaning can V on the water
-& Dáng gatáa gyáang hlangaang .
-& 'Ll tlaawhlä gyáang hlangáaäsaang .
-& Gám Hl k̲'adä gyáang hlangáa'anggang .
-
-& 256
+# Dáng gatáa gyáang hlangaang .
+# 'Ll tlaawhlä gyáang hlangáaäsaang .
+# Gám Hl k̲'adä gyáang hlangáa'anggang .
 
 & You can eat on the boat .
 & He will be able to fix it on the boat .
 & I cannot sleep on the boat .
 
-& gíng jíingaa ~ jíingaa gíng
-& Meaning V for a long time on the water
-& T'aláng gatáa gíng jíingaagan .
-& 'Ll xyáahl gíng jíingaa'wägan .
-& Hl k̲'adä gíng jíingaagan .
+# T'aláng gatáa gíng jíingaagan .
+# 'Ll xyáahl gíng jíingaa'wägan .
+# Hl k̲'adä gíng jíingaagan .
 
 & We ate for a long time on the boat .
 & They danced for a long time on the boat .
 & I slept for a long time on the boat .
 
-& gíng k'wa'áydang ~ k'wa'áydang gíng
-& Meaning pretend to V on the water
-& Hl k̲'adä gíng k'wa'áydanggan .
-& 'Ll k'ajúu gíng k'wa'áydanggan .
-& 'Ll hlg̲ánggulä gíng k'wa'áydanggang .
+# Hl k̲'adä gíng k'wa'áydanggan .
+# 'Ll k'ajúu gíng k'wa'áydanggan .
+# 'Ll hlg̲ánggulä gíng k'wa'áydanggang .
 
 & I pretended to sleep on the boat .
 & She pretended to sing on the boat .
 & He pretends to work on the boat .
 
-& gíng saliyáa
-& Meaning look like V on the water
-& 'Ll gatáa gíng saliyáagang .
-& 'Ll tlaawhlä gíng saliyáagang .
-& Dáng k'udlán gíng saliyáagang .
+# 'Ll gatáa gíng saliyáagang .
+# 'Ll tlaawhlä gíng saliyáagang .
+# Dáng k'udlán gíng saliyáagang .
 
 & It looks like he ate on the boat .
 & It looks like she fixed it on the boat .
 & It looks like you painted it on the boat .
 
-& 257
-
-& gíng sáng ~ sáng gíng
-& Meaning say will V on the water
-& 'Ll gatáa gíng sánggan .
-& G̲íi Hl hlg̲ánggulä gíng sánggan .
-& 'Ll k̲'adä gíng sánggan .
+# 'Ll gatáa gíng sánggan .
+# G̲íi Hl hlg̲ánggulä gíng sánggan .
+# 'Ll k̲'adä gíng sánggan .
 
 & He said he will eat on the boat .
 & I said I will work on it on the boat .
 & She said she will sleep on the boat .
 
-& gíngang k̲asaä
-& Meaning gonna V on the water
-& T'aláng gatáa gíngang k̲asa'áang .
-& 'Ll k̲'adä gíngang k̲asa'áang .
-& 'Láa aa Hl gúusuu gíngang k̲asa'áang .
+# T'aláng gatáa gíngang k̲asa'áang .
+# 'Ll k̲'adä gíngang k̲asa'áang .
+# 'Láa aa Hl gúusuu gíngang k̲asa'áang .
 
 & We're gonna eat on the boat .
 & He's gonna sleep on the boat .
 & I'm gonna talk to him on the boat .
 
-& gínghahl
-& Meaning tell to V on the water
-& Díi 'll gatáa gínghalgan .
-& Dáng aa díi 'll gúusuu gínghalgan .
-& 'Láa Hl k̲'adä gínghalgan .
+# Díi 'll gatáa gínghalgan .
+# Dáng aa díi 'll gúusuu gínghalgan .
+# 'Láa Hl k̲'adä gínghalgan .
 
 & He told me to eat on the boat .
 & She told me to talk to you on the boat .
 & I told her to sleep on the boat .
 
-& 258
 
-& gudä g̲usdla
-& Meaning very much want to V, really want to V
-& Dáng gä Hl tlaayd gudä g̲usdláang . I really want to help you .
-& Dáalaay 'll k̲íiyaa gudä g̲usdlägán .
+# Dáng gä Hl tlaayd gudä g̲usdláang . 
+& I really want to help you .
+# Dáalaay 'll k̲íiyaa gudä g̲usdlägán .
 & She really wanted to find the money .
-& Gám 'láa aa Hl gúusaaw gudä g̲usdlä'ánggang . I really don't want to talk to her .
+# Gám 'láa aa Hl gúusaaw gudä g̲usdlä'ánggang . 
+& I really don't want to talk to her .
 
-& gudä jíingaa
-& Meaning want for a long time to V
-& Anáa Hl íis gudä jíingaagang .
-& 'Ll tlaawhláa gudä jíingaagan .
-& 'Ll k̲'adáa gudä jíingaagang .
+# Anáa Hl íis gudä jíingaagang .
+# 'Ll tlaawhláa gudä jíingaagan .
+# 'Ll k̲'adáa gudä jíingaagang .
 
 & I've wanted for a long time to be home .
 & He wanted for a long time to fix it .
 & She's wanted for a long time to sleep .
 
-& jíingaa guda
-& Meaning want to V for a long time
-& Díi xyáahl jíingaa gudáang .
-& 'Ll k̲'adä jíingaa gudáang .
-& G̲íi díi hlg̲ánggulä jíingaa gudáang .
+# Díi xyáahl jíingaa gudáang .
+# 'Ll k̲'adä jíingaa gudáang .
+# G̲íi díi hlg̲ánggulä jíingaa gudáang .
 
 & I want to dance for a long time .
 & He wants to sleep for a long time .
 & I want to work on it for a long time .
 
-& 259
-
-& gudáa .agang
-& Meaning individually want to V
-& 'Láa aa íitl' gúusaaw gudáa .aganggang . We each want to talk to him individually .
-& Tl'ä k'udláan gudáa .aganggan .
+# 'Láa aa íitl' gúusaaw gudáa .aganggang . 
+& We each want to talk to him individually .
+# Tl'ä k'udláan gudáa .aganggan .
 & People wanted to paint it individually .
-& 'Ll ist'i'íid gudáa .agangang .
+# 'Ll ist'i'íid gudáa .agangang .
 & They each want to leave individually .
 
-& gudáng gíi
-& Meaning already tried to V, always tries to V
-& Hl tlaawhlä gudáng gíigang .
-& Dáalaay 'll k̲íiyä gudáng gíigan .
-& Íitl' gä 'll tlaayd gudáng gíiganggang .
+# Hl tlaawhlä gudáng gíigang .
+# Dáalaay 'll k̲íiyä gudáng gíigan .
+# Íitl' gä 'll tlaayd gudáng gíiganggang .
 
 & I've already tried to fix it .
 & She'd already tried to find the money .
 & She always tries to help us .
 
-& gudáng g̲usdla
-& Meaning really try to V
-& 'Ll tlaawhlä gudáng g̲usdláang .
-& Hl dah gudáng g̲usdlägán .
-& Dáalaay 'll k̲íiyä gudáng g̲usdlägán .
+# 'Ll tlaawhlä gudáng g̲usdláang .
+# Hl dah gudáng g̲usdlägán .
+# Dáalaay 'll k̲íiyä gudáng g̲usdlägán .
 
 & She is really trying to fix it .
 & I really tried to buy it .
 & He really tried to find the money .
 
-& 260
-
-& gudáang hlangáa
-& Meaning can try to V
-& Dáng gä Hl gudáang hlangaang .
+# Dáng gä Hl gudáang hlangaang .
 & I can try to help you .
-& Dáalaay t'aláng k̲íiyä gudáang hlangaang . We can try to find the money .
-& 'Ll tlaawhlä gudáang hlangáagan .
+# Dáalaay t'aláng k̲íiyä gudáang hlangaang . 
+& We can try to find the money .
+# 'Ll tlaawhlä gudáang hlangáagan .
 & She was able to try to fix it .
 
-& gudáng jíingaa
-& Meaning try for a long time to V
-& Dáalaay Hl k̲íiyä gudáng jíingaagan .
-& 'Ll tlaawhlä gudáng jíingaagang .
-& Náay t'aláng dah gudáng jíingaagan .
+# Dáalaay Hl k̲íiyä gudáng jíingaagan .
+# 'Ll tlaawhlä gudáng jíingaagang .
+# Náay t'aláng dah gudáng jíingaagan .
 
 & I tried for a long time to find the money .
 & She's been trying for a long time to fix it .
 & We tried for a long time to buy the house .
 
-& gudáng saliyáa
-& Meaning look like tried to V
-& 'Ll tlaawhlä gudáng saliyáagang .
+# 'Ll tlaawhlä gudáng saliyáagang .
 & It looks like he tried to fix it .
-& Dáng k'udlán gudáng saliyáagang .
+# Dáng k'udlán gudáng saliyáagang .
 & It looks like you tried to paint it .
-& Dáng gä 'll tlaayd gudáng saliyáagang . It looks like she tried to help you .
+# Dáng gä 'll tlaayd gudáng saliyáagang . 
+& It looks like she tried to help you .
 
-& 261
 
-& gudáng sáng
-& Meaning say will try to V
-& 'Ll tlaawhlä gudáng sánggan .
-& 'Láa gä dáng tlaayd gudáng sánggan .
-& Dáalaay Hl k̲íiyä gudáng sánggang .
+# 'Ll tlaawhlä gudáng sánggan .
+# 'Láa gä dáng tlaayd gudáng sánggan .
+# Dáalaay Hl k̲íiyä gudáng sánggang .
 
 & He said he will try to fix it .
 & You said you will try to help him .
 & I said I will try to find the money .
 
-& gudáangagang
-& Meaning individually try to V
-& T'aláng hlg̲ánggulä gudáangaganggan . We each tried to work individually .
-& 'Ll k̲íiyä gudáangagang'wägan .
+# T'aláng hlg̲ánggulä gudáangaganggan . 
+& We each tried to work individually .
+# 'Ll k̲íiyä gudáangagang'wägan .
 & They each tried to find it individually .
-& 'Láa aa 'll gúusuu guáangagang'wägan . They each tried to talk to her individually .
+# 'Láa aa 'll gúusuu guáangagang'wägan . 
+& They each tried to talk to her individually .
 
-& gudánggwaang (sg) / gudáng jaadáng (pl)
-& Meaning try to V around
 
-& 262
-
-& gudánghahl
-& Meaning tell to try to V
-& Díi 'll tlaawhlä gudánghalgan .
+# Díi 'll tlaawhlä gudánghalgan .
 & He told me to try to fix it .
-& Díi gä dáng 'll tlaayd gudánghalgan . She told you to try to help me .
-& Dáalaay 'láa Hl k̲íiyä gudánghalgan . I told him to try to find the money .
+# Díi gä dáng 'll tlaayd gudánghalgan . 
+& She told you to try to help me .
+# Dáalaay 'láa Hl k̲íiyä gudánghalgan . 
+& I told him to try to find the money .
 
-& gudáng'uhla
-& Meaning try to V all night long
-& Hl k̲'adä gudáng'uhlägan .
-& 'Ll tlaawhlä gudáng'uhlägan .
-& T'aláng k'udlán gudáng'uhlaaäsaang .
+# Hl k̲'adä gudáng'uhlägan .
+# 'Ll tlaawhlä gudáng'uhlägan .
+# T'aláng k'udlán gudáng'uhlaaäsaang .
 
 & I tried to sleep all night long .
 & She tried to fix it all night long .
 & We will try to paint it all night long .
 
-& g̲áayaa g̲usdla ~ g̲usdláa g̲áayaa
-& Meaning really know how to V
-& 'Ll tlaawhláa g̲áayaa g̲usdláang .
+# 'Ll tlaawhláa g̲áayaa g̲usdláang .
 & She really knows how to fix it .
-& 'Ll k'ajáaw g̲áayaa g̲usdlä'wáang .
+# 'Ll k'ajáaw g̲áayaa g̲usdlä'wáang .
 & They really know how to sing .
-& X̲aad Kíl dang gúusaaw g̲áayaa g̲usdláang . You really know how to speak Haida .
+# X̲aad Kíl dang gúusaaw g̲áayaa g̲usdláang . 
+& You really know how to speak Haida .
 
-& 263
-
-& g̲áayaa jíingaa
-& Meaning know for a long time how to V
-& 'Ll ta k'udláan g̲áayaa jíingaagang .
-& T'aláng xyáal g̲áayaa jíingaagang .
-& Dáng gw ta ˝áay g̲áayaa jíingaa?
+# 'Ll ta k'udláan g̲áayaa jíingaagang .
+# T'aláng xyáal g̲áayaa jíingaagang .
+# Dáng gw ta ˝áay g̲áayaa jíingaa?
 
 & She has known for a long time how to paint .
 & We have known for a long time how to dance .
 & Have you known for a long time how to weave?
 
-& g̲áayaa saliyáa
-& Meaning looks like knew how to V
-& 'Ll tlaawhláa g̲áayaa saliyáagang .
-& Dáng ta ˝áay g̲áayaa saliyáagang .
-& 'Ll xyáal g̲áayaa saliyáa'waang .
+# 'Ll tlaawhláa g̲áayaa saliyáagang .
+# Dáng ta ˝áay g̲áayaa saliyáagang .
+# 'Ll xyáal g̲áayaa saliyáa'waang .
 
 & It looks like she know how to fix it .
 & It looks like you know how to weave .
 & It looks like they know how to dance .
 
-& g̲íihldä déed
-& Meaning finish V'ing right away
-& Náay 'll k'udlán g̲íihldä déedan .
-& Hl gatáa g̲íihldä déedan .
-& Gínt'ajaay 'll tl'íi g̲íihldä déedan .
+
+# Náay 'll k'udlán g̲íihldä déedan .
+# Hl gatáa g̲íihldä déedan .
+# Gínt'ajaay 'll tl'íi g̲íihldä déedan .
 
 & He finished painting the house right away .
 & I finished eating right away .
 & She finished sewing the blanket right away .
 
-& 264
 
-& g̲íihldaa hlangáa
-& Meaning can finish V'ing
-& Náay dáng k'udlán g̲íihldaa hlangaang .
-& Adaahl 'll tlaawhlä g̲íihldaa hlangaang .
-& Gám Hl táa g̲íihldaa hlangáa'anggang .
+# Náay dáng k'udlán g̲íihldaa hlangaang .
+# Adaahl 'll tlaawhlä g̲íihldaa hlangaang .
+# Gám Hl táa g̲íihldaa hlangáa'anggang .
 
 & You can finish painting the house .
 & He can finish fixing it tomorrow .
 & I cannot finish eating it .
 
-& g̲íihldä saliyáa
-& Meaning look like finished V'ing
-& 'Ll tlaawhlä g̲íihldä saliyáagang .
+# 'Ll tlaawhlä g̲íihldä saliyáagang .
 & It looks like he finished fixing it .
-& Náay 'll k'udlán g̲íihldä saliyáagang . It looks like she finished painting the house .
-& 'Ll táa g̲íihldä saliyáa'waang .
+# Náay 'll k'udlán g̲íihldä saliyáagang . 
+& It looks like she finished painting the house .
+# 'Ll táa g̲íihldä saliyáa'waang .
 & It looks like they finished eating it .
 
-& g̲íihldaa .agang
-& Meaning each finish V'ing individually
-& G̲íi t'aláng hlg̲ánggulä g̲íihldaa .aganggan .
-& Ga tl'ä diyíng g̲íihldaa .aganggan .
-& 'Ll skáadaang g̲íihldaa .agang'wägan .
+# G̲íi t'aláng hlg̲ánggulä g̲íihldaa .aganggan .
+# Ga tl'ä diyíng g̲íihldaa .aganggan .
+# 'Ll skáadaang g̲íihldaa .agang'wägan .
 
-& 265
 
 & We each finished working on it .
 & People each finished looking for it .
 & They each finished picking berries .
 
-& g̲íihldahahl
-& Meaning tell to finish V'ing
-& Díi 'll tlaawhlä g̲íihldahalgan .
+# Díi 'll tlaawhlä g̲íihldahalgan .
 & She told me to finish fixing it .
-& Náay 'll Hl k'udlán g̲íihldahalgan .
+# Náay 'll Hl k'udlán g̲íihldahalgan .
 & I told him to finish painting the house .
-& G̲íi 'láa dáng hlg̲ánggulä g̲íihldahalgan . You told her to finish working on it .
+# G̲íi 'láa dáng hlg̲ánggulä g̲íihldahalgan . 
+& You told her to finish working on it .
 
-& g̲íihldä'uhla
-& Meaning finish V'ing in the morning
-& G̲íi Hl hlg̲ánggulä g̲íihldä'uhlägan .
-& 'Ll ta ˝áy g̲íihldä'uhlaaäsaang .
-& Dáa gw k'udlán g̲íihldä'uhlaayaa?
+# G̲íi Hl hlg̲ánggulä g̲íihldä'uhlägan .
+# 'Ll ta ˝áy g̲íihldä'uhlaaäsaang .
+# Dáa gw k'udlán g̲íihldä'uhlaayaa?
 
 & I finished working on it in the morning .
 & She will finish weaving in the morning .
 & Did you finish painting it in the morning?
 
-& g̲usdlä gayéed
-& Meaning might really V, accidentally really V'ed
-& Tadä g̲usdlä gayéedang .
-& G̲íi 'll hlg̲ánggulä g̲usdlä gayéedang .
-& K'úunaay 'll tla g̲u g̲usdlä gayéedan .
-
-& 266
+# Tadä g̲usdlä gayéedang .
+# G̲íi 'll hlg̲ánggulä g̲usdlä gayéedang .
+# K'úunaay 'll tla g̲u g̲usdlä gayéedan .
 
 & It might be really cold .
 & He might work hard on it .
 & She accidentally really burnt the pants .
 
-& g̲usdlä gíi
-& Meaning already really V'ed, always really V
-& K̲íihlgaay Hl dlán g̲usdlä gíigang .
-& G̲íi 'll hlg̲ánggulä g̲usdlä gíigan .
-& Tadä g̲usdlä gíiganggang .
+# K̲íihlgaay Hl dlán g̲usdlä gíigang .
+# G̲íi 'll hlg̲ánggulä g̲usdlä gíigan .
+# Tadä g̲usdlä gíiganggang .
 
 & I've already really washed the dishes .
 & She'd already worked hard on it .
 & It's always really cold .
 
-& g̲usdlä g̲íihlda
-& Meaning finish really V'ing hard
-& G̲íi 'll hlg̲ánggulä g̲usdlä g̲íihldaang .
-& T'aláng xyáahl g̲usdlä g̲iihldaang .
-& 'Ll tlaawhlä g̲usdlä g̲íihldaang .
+# G̲íi 'll hlg̲ánggulä g̲usdlä g̲íihldaang .
+# T'aláng xyáahl g̲usdlä g̲iihldaang .
+# 'Ll tlaawhlä g̲usdlä g̲íihldaang .
 
 & He has finished working hard on it .
 & We have finished dancing hard .
 & She has finished really fixing it up .
 
-& g̲usdláa hlangáa
-& Meaning can really V hard
-& 'Ll xyáahl g̲usdláa hlangaang .
-& 'Ll tlaawhlä g̲usdláa hlangaang .
-& Gám 'll k̲áa g̲usdláa hlangáa'anggang .
-
-& 267
+# 'Ll xyáahl g̲usdláa hlangaang .
+# 'Ll tlaawhlä g̲usdláa hlangaang .
+# Gám 'll k̲áa g̲usdláa hlangáa'anggang .
 
 & He can really dance hard .
 & She can really fix it .
 & She can't really walk fast .
 
-& g̲usdlä jíingaa
-& Meaning for a long time V hard
-& G̲íi 'll hlg̲ánggulä g̲usdlä jíingaagan . For a long time she worked hard on it .
-& 'Ll xyáahl g̲usdlä jíingaa'wägan .
+# G̲íi 'll hlg̲ánggulä g̲usdlä jíingaagan . 
+& For a long time she worked hard on it .
+# 'Ll xyáahl g̲usdlä jíingaa'wägan .
 & For a long time they danced hard .
-& Tadä g̲usdlä jíingaagang .
+# Tadä g̲usdlä jíingaagang .
 & It has been really cold for a long time .
 
-& g̲usdlä k'wa'áydang
-& Meaning pretend to V hard
-& G̲íi Hl hlg̲ánggulä g̲usdlä k'wa'áydanggang .
-& 'Ll gut'ägúng g̲usdlä k'wa'áydanggan .
-& Dáng gä 'll tlaayd g̲usdlä k'wa'áydanggang .
+# G̲íi Hl hlg̲ánggulä g̲usdlä k'wa'áydanggang .
+# 'Ll gut'ägúng g̲usdlä k'wa'áydanggan .
+# Dáng gä 'll tlaayd g̲usdlä k'wa'áydanggang .
 
 & I'm pretending to work hard on it .
 & She pretended to really think hard .
 & He is pretending to really help you .
 
-& k'wa'áydang g̲usdlä
-& Meaning really pretend to V
-& G̲íi 'll hlg̲ánggulä k'wa'áydang g̲usdláang . She is really pretending to work on it .
-& X̲aad Kíl 'll gúusuu k'wa'áydang g̲usdláang . He is really pretending to speak Haida .
-& 'Ll gut'ägúng k'wa'áydang g̲usdlägán .
+# G̲íi 'll hlg̲ánggulä k'wa'áydang g̲usdláang . 
+& She is really pretending to work on it .
+# X̲aad Kíl 'll gúusuu k'wa'áydang g̲usdláang . 
+& He is really pretending to speak Haida .
+# 'Ll gut'ägúng k'wa'áydang g̲usdlägán .
 & He really pretended to think hard .
 
-& 268
 
-& k̲'alä g̲usdla
-& Meaning really not know how to V
-& Díi xyáal k̲'alä g̲usdláang .
+# Díi xyáal k̲'alä g̲usdláang .
 & I really don't know how to dance .
-& X̲aad Kíl 'll gúusaaw k̲'alä g̲usdláang . He really doesn't know how to speak Haida .
-& Íitl' ta ˝áay k̲'alä g̲usdlägán .
+# X̲aad Kíl 'll gúusaaw k̲'alä g̲usdláang . 
+& He really doesn't know how to speak Haida .
+# Íitl' ta ˝áay k̲'alä g̲usdlägán .
 & We really didn't know how to weave .
 
-& g̲usdlä saliyáa
-& Meaning look like really V'ed hard
-& G̲áalgwaa tadä g̲usdlä saliyáagang .
-& G̲íi 'll hlg̲ánggulä g̲usdlä saliyáagang .
-& K̲íihlgaay 'll dlán g̲usdlä saliyáagang .
+# G̲áalgwaa tadä g̲usdlä saliyáagang .
+# G̲íi 'll hlg̲ánggulä g̲usdlä saliyáagang .
+# K̲íihlgaay 'll dlán g̲usdlä saliyáagang .
 
 & It looks like it was really cold last night .
 & It looks like she really worked hard on it .
 & It looks like he really washed the dishes .
 
-& g̲usdlä sáng
-& Meaning say will really V hard
-& G̲íi Hl hlg̲ánggulä g̲usdlä sánggan .
-& K̲íihlgaay 'll dlán g̲usdlä sánggan .
-& 'Ll xyáahl g̲usdlä sáng'wägan .
+# G̲íi Hl hlg̲ánggulä g̲usdlä sánggan .
+# K̲íihlgaay 'll dlán g̲usdlä sánggan .
+# 'Ll xyáahl g̲usdlä sáng'wägan .
 
 & I said I will work hard on it .
 & She said she will really wash the dishes .
 & They said they will really dance hard .
 
-& 269
 
-& g̲usdlä sánsdla
-& Meaning try to V really hard
-& G̲íi 'll hlg̲ánggulä g̲usdlä sánsdlaang .
-& K̲íihlgaay Hl dlán g̲usdlä sánsdlaang .
-& T'aláng xyáahl g̲usdlä sánsdlaang .
+# G̲íi 'll hlg̲ánggulä g̲usdlä sánsdlaang .
+# K̲íihlgaay Hl dlán g̲usdlä sánsdlaang .
+# T'aláng xyáahl g̲usdlä sánsdlaang .
 
 & He is trying work hard on it .
 & I am trying to really wash the dishes .
 & We are trying to dance hard .
 
-& sánsdlä g̲usdla
-& Meaning try really hard to V
-& G̲íi Hl hlg̲ánggulä sánsdlä g̲usdláang .
-& K̲íihlgaay 'll dlán sánsdlä g̲usdláang .
-& X̲aad Kíl 'll gúusuu sánsdlä g̲usdláang .
+# G̲íi Hl hlg̲ánggulä sánsdlä g̲usdláang .
+# K̲íihlgaay 'll dlán sánsdlä g̲usdláang .
+# X̲aad Kíl 'll gúusuu sánsdlä g̲usdláang .
 
 & I'm trying hard to work on it .
 & She is trying hard to wash the dishes .
 & He is trying hard to speak Haida .
 
-& g̲usdláang k̲asaä
-& Meaning gonna really V hard
-& T'aláng hlg̲ánggulä g̲usdláang k̲asa'áang . We're gonna work really hard .
-& 'Ll xyáahl g̲usdláang k̲asa'áang .
+# T'aláng hlg̲ánggulä g̲usdláang k̲asa'áang . 
+& We're gonna work really hard .
+# 'Ll xyáahl g̲usdláang k̲asa'áang .
 & He is gonna dance hard .
-& Tadä g̲usdláang k̲asa'áang .
+# Tadä g̲usdláang k̲asa'áang .
 & It's gonna be really cold .
 
-& 270
-
-& g̲usdlägwáang (sg) / g̲usdlä jaadáng (pl)
-& Meaning go around really V'ing
-& 'Ll sg̲áyhlä g̲usdlägwáanggan .
+# 'Ll sg̲áyhlä g̲usdlägwáanggan .
 & She was really going around crying hard .
-& 'Ll st'i g̲usdlägwáanggang .
+# 'Ll st'i g̲usdlägwáanggang .
 & He is going around really sick .
-& T'aláng skáadaang g̲usdlä jaadánggan . We were out really picking berries .
+# T'aláng skáadaang g̲usdlä jaadánggan . 
+& We were out really picking berries .
 
-& g̲usdlahahl
-& Meaning tell to really V hard
-& 'Láa Hl hlg̲ánggulä g̲usdlähálgan .
-& Díi 'll xyáahl g̲usdlahálgan .
-& Dáng t'aláng gut'ägúng g̲usdlahálgan .
+# 'Láa Hl hlg̲ánggulä g̲usdlähálgan .
+# Díi 'll xyáahl g̲usdlahálgan .
+# Dáng t'aláng gut'ägúng g̲usdlahálgan .
 
 & I told her to really work hard .
 & He told me to dance really hard .
 & We told you to think really hard .
 
-& g̲usdláa .aa (sg) / g̲usdáa .aaga (pl)
-& Meaning leave to go really V hard
-& 'Ll hlg̲ánggulä g̲usdláa .aagan .
+# 'Ll hlg̲ánggulä g̲usdláa .aagan .
 & He left to go work hard .
-& T'aláng k'ajúu g̲usdláa .aagägan . We left to go sing hard .
-& Ga 'll diyíng g̲usdláa .aagang .
+# T'aláng k'ajúu g̲usdláa .aagägan . 
+& We left to go sing hard .
+# Ga 'll diyíng g̲usdláa .aagang .
 & He has left to really go look for it .
 
-& 271
 
-& g̲usdlä'uhla
-& Meaning really V hard all night long
-& G̲íi 'll hlg̲ánggulä g̲usdlä'uhlägán . She really worked hard on it all night .
-& Díi st'i g̲usdlä'uhlägán .
+# G̲íi 'll hlg̲ánggulä g̲usdlä'uhlägán . 
+& She really worked hard on it all night .
+# Díi st'i g̲usdlä'uhlägán .
 & I was really sick all night .
-& Tadä g̲usdlä'uhláaäsaang .
+# Tadä g̲usdlä'uhláaäsaang .
 & It will be really cold all night .
 
-& ín déed (sg) / in-gä déed (pl)
-& Meaning leave in a vehicle to V right away
-& Ga 'll diyíng ín déedan .
-& Náay Hl k'udlán ín déedan .
-& T'aláng 'wáadaa ín déedan .
+# Ga 'll diyíng ín déedan .
+# Náay Hl k'udlán ín déedan .
+# T'aláng 'wáadaa ín déedan .
 
 & She left to go look for it right away .
 & I left to go paint the house right away .
 & We left (together) to go shopping .
 
-& ín gíi (sg) / in-gä gíi (pl)
-& Meaning already left in a vehicle to go V, always leave to go V
-& 'Ll skáadaang ín gíigang .
-& Náay 'll k'udlán ín gíigan .
-& 'Ll ta hlg̲áy ín gíiganggang .
+# 'Ll skáadaang ín gíigang .
+# Náay 'll k'udlán ín gíigan .
+# 'Ll ta hlg̲áy ín gíiganggang .
 
 & She has already left to go pick berries .
 & He had already left to go paint the house .
 & He always leaves to go dig clams .
 
-& 272
-
-& ín gíng (sg) / in-gä gíng
-& Meaning leave in a vehicle to go V on the water
-& 'Ll gatáa ín gínggan .
-& 'Ll k̲'adä ín gínggang .
-& Hl hlg̲ánggulä ín gínggan .
+# 'Ll gatáa ín gínggan .
+# 'Ll k̲'adä ín gínggang .
+# Hl hlg̲ánggulä ín gínggan .
 
 & She left to go eat on the boat .
 & He has left to go sleep on the boat .
 & I left to go work on the boat .
 
-& éen hlangáa (sg) / in-gáa hlangáa (pl)
-& Meaning can leave in a vehicle to go V
-& Dáng skáadaang éen hlangaang .
-& Ga 'll diyíng éen hlangaang .
-& Gám Hl 'wáadaa éen hlangáa'anggang .
+# Dáng skáadaang éen hlangaang .
+# Ga 'll diyíng éen hlangaang .
+# Gám Hl 'wáadaa éen hlangáa'anggang .
 
 & You can leave to go pick berries .
 & She can leave to go look for it .
 & I can't leave to go shopping .
 
-& ín saliyáa (sg) / in-gä saliyáa (pl)
-& Meaning look like left in a vehicle to go V
-& G̲íi 'll hlg̲ánggulä ín saliyáagang . It looks like he left to go work on it .
-& 'Ll 'wáadaa in-gä saliyáa'waang . It looks like they left to go shopping .
-& 'Ll xyáahl ín saliyáagan .
+# G̲íi 'll hlg̲ánggulä ín saliyáagang . 
+& It looks like he left to go work on it .
+# 'Ll 'wáadaa in-gä saliyáa'waang . 
+& It looks like they left to go shopping .
+# 'Ll xyáahl ín saliyáagan .
 & It looked like she left to go dance .
 
-& 273
 
-& ín sáng (sg) / in-gä sáng (pl)
-& Meaning say will leave in a vehicle to go V
-& Ga 'll diyíng ín sánggan .
+# Ga 'll diyíng ín sánggan .
 & She said she will leave to go look for it .
-& Dáng gä 'll tlaayd ín sánggan . He said he will leave to go help you .
-& Hl skáadaang ín sánggan .
+# Dáng gä 'll tlaayd ín sánggan . 
+& He said he will leave to go help you .
+# Hl skáadaang ín sánggan .
 & I said I will leave to go pick berries .
 
-& ín tláagaang (sg) / in-gä tláagaang (pl)
-& Meaning leave in a vehicle to go V first
-& Hláa uu ga diyíng ín tláagaanggan .
-& T'aláng skáadaang in-gä tláagaanggan .
-& 'Ll 'wáadaa ín tláagaangäsaang .
+
+# Hláa uu ga diyíng ín tláagaanggan .
+# T'aláng skáadaang in-gä tláagaanggan .
+# 'Ll 'wáadaa ín tláagaangäsaang .
 
 & I was the first to leave to go look for it .
 & We left to go pick berries first .
 & She will leave to go shopping first .
 
-& ínhahl (sg) / in-gahahl (pl)
-& Meaning tell to leave in a vehicle to go V
-& Díi 'll 'wáadaa ínhalgan .
+# Díi 'll 'wáadaa ínhalgan .
 & She told me to leave to go shopping .
-& Ga 'láa Hl diyíng ínhalgan .
+# Ga 'láa Hl diyíng ínhalgan .
 & I told him to leave to go look for it .
-& Gíisd uu dáng skáadaang ínhaalaa? Who told you to leave to go pick berries?
+# Gíisd uu dáng skáadaang ínhaalaa? 
+& Who told you to leave to go pick berries?
 
-& 274
 
-& éehl hlangáa
-& Meaning has been able to V this many so far
-& Áasdluu Hl táa éehl hlangaang .
+# Áasdluu Hl táa éehl hlangaang .
 & I've been able to eat this much so far .
-& Gíisdluu 'll tlaawhlä éehl hlangaang? How many has he been able to build so far?
-& Tl' stánsang k'ajúu éehl hlangaang . Four people have been able to sing so far .
+# Gíisdluu 'll tlaawhlä éehl hlangaang? 
+& How many has he been able to build so far?
+# Tl' stánsang k'ajúu éehl hlangaang . 
+& Four people have been able to sing so far .
 
-& íihl saliyáa
-& Meaning look like has V'ed this many so far
-& Áasdluu 'll táa íihl saliyáagang .
+# Áasdluu 'll táa íihl saliyáagang .
 & It looks like he's been able to eat this much so far .
-& Tl' sdáng k'ajúu íihl saliyáagang . It looks like two people have been able to sing so far .
-& Wáasdluu 'll skáadaang íihl saliyáagang .
-& It looks like she's been able to pick that
-& many berries so far .
+# Tl' sdáng k'ajúu íihl saliyáagang . 
+& It looks like two people have been able to sing so far .
+# Wáasdluu 'll skáadaang íihl saliyáagang .
+& It looks like she's been able to pick that many berries so far .
 
-& éehlagang
-& Meaning individually V this many so far
-& Tl' stánsang k'ajúu éehlaganggang .
+# Tl' stánsang k'ajúu éehlaganggang .
 & Four people have each sung so far .
-& K̲ugíin k̲'íisdang tl' dah éehlaganggang . People've each bought two books so far .
-& Áasdluu t'aláng táa éehlaganggang .
+# K̲ugíin k̲'íisdang tl' dah éehlaganggang . 
+& People've each bought two books so far .
+# Áasdluu t'aláng táa éehlaganggang .
 & We have each eaten this much so far .
 
-& 275
 
-& íihlhid
-& Meaning have started to V this much so far
-& K̲igw chasdáng Hl ˝áy íihlhiidang .
-& Na tíisdang 'll k'udlán íihlhiidang .
-& Gin k̲wáan 'll tlaawhlä íihlhiidang .
+# K̲igw chasdáng Hl ˝áy íihlhiidang .
+# Na tíisdang 'll k'udlán íihlhiidang .
+# Gin k̲wáan 'll tlaawhlä íihlhiidang .
 
 & I've started to weave two baskets so far .
 & He's started to paint two houses so far .
 & She's started to fix many things so far .
 
-& jíingaa gayéed
-& Meaning might V for a long time
-& Anáa 'll is jíingaa gayéedang .
-& G̲íi Hl hlg̲ánggulä jíingaa gayéedang .
-& 'Ll k̲'adä jíingaa gayeáadang .
+# Anáa 'll is jíingaa gayéedang .
+# G̲íi Hl hlg̲ánggulä jíingaa gayéedang .
+# 'Ll k̲'adä jíingaa gayeáadang .
 
 & She might be home for a long time .
 & I might work on it for a long time .
 & She might sleep for a long time .
 
-& jíingaa gíi
-& Meaning have already V'ed for a long time; always V for a long time
-& 'Ll k'ajúu jíingaa gíigang .
+# 'Ll k'ajúu jíingaa gíigang .
 & She's already sung for a long time .
-& Ga Hl diyíng jíingaa gíigang .
+# Ga Hl diyíng jíingaa gíigang .
 & I've already been looking for it for a long time .
-& Díi aa 'll gúusuu jíingaa gíiganggang . He always talks to me for a long time .
+# Díi aa 'll gúusuu jíingaa gíiganggang . 
+& He always talks to me for a long time .
 
-& 276
-
-& jíingaa hlangáa
-& Meaning can V for a long time
-& 'Ll xyáahl jíingaa hlangaang .
-& G̲íi Hl hlg̲ánggulä jíingaa hlangáagan .
-& 'Ll 'wáadaa jíingaa hlangaang .
+# 'Ll xyáahl jíingaa hlangaang .
+# G̲íi Hl hlg̲ánggulä jíingaa hlangáagan .
+# 'Ll 'wáadaa jíingaa hlangaang .
 
 & He can dance for a long time .
 & I was able to work on it for a long time .
 & She can shop for a long time .
 
-& jíingaa ín (sg) / jíingaa in-gä
-& Meaning leave in a vehicle to go V for a long time
 & 'Ll skáadaang jíingaa ín-gan .
 & 'Ll xyáahl jíingaa ín-gang .
 & 'Ll 'wáadaa jíingaa ín-gan .
@@ -3243,106 +2854,85 @@
 & He's left to go dance for a long time .
 & He left to go shopping for a long time .
 
-& k̲'ala jíingaa
-& Meaning for a long time have not know how to V
-& Hl ta tl'áay k̲'alä jíingaagang .
-& 'Ll tlaawhláa k̲'alä jíingaagang .
-& 'Ll xyáal k̲'alä jíingaagang .
+# Hl ta tl'áay k̲'alä jíingaagang .
+# 'Ll tlaawhláa k̲'alä jíingaagang .
+# 'Ll xyáal k̲'alä jíingaagang .
 
 & For a long time I've not known how to sew .
 & For a long time he's not known how to fix it .
 & For a long time he's not known how to dance .
 
-& 277
 
-& jíingaa saliyáa
-& Meaning look like have V'ed for a long time
-& G̲íi 'll hlg̲ánggulä jíingaa saliyáagang .
-& Dáng 'wáadaa jíingaa saliyáagang .
-& 'Ll gatáa jíingaa saliyáagang .
+
+# G̲íi 'll hlg̲ánggulä jíingaa saliyáagang .
+# Dáng 'wáadaa jíingaa saliyáagang .
+# 'Ll gatáa jíingaa saliyáagang .
 
 & It looks like she worked on it for a long time .
 & It looks like you shopped for a long time .
 & It looks like he ate for a long time .
 
-& jíingaa sáng
-& Meaning say will V for a long time
-& 'Ll k'ajúu jíingaa sánggan .
-& G̲íi 'll hlg̲ánggulä jíingaa sánggan .
-& Gám 'll k̲'a jíingaa sáng'anggan .
+# 'Ll k'ajúu jíingaa sánggan .
+# G̲íi 'll hlg̲ánggulä jíingaa sánggan .
+# Gám 'll k̲'a jíingaa sáng'anggan .
 
 & She said she will sing for a long time .
 & He said he will work on it for a long time .
 & He said he will not sleep for a long time .
 
-& sáng jíingaa
-& Meaning say for a long time will V
-& 'Ll k'ajúu sáng jíingaagang .
-& G̲íi 'll hlg̲ánggulä sáng jíingaagang .
-& Nang Hl dah sáng jíingaagang .
+# 'Ll k'ajúu sáng jíingaagang .
+# G̲íi 'll hlg̲ánggulä sáng jíingaagang .
+# Nang Hl dah sáng jíingaagang .
 
 & She's said for a long time she will sing .
 & He's said for a long time he will work on it .
 & I've said for a long time I will buy one .
 
-& 278
 
-& jíingaa sánsdla
-& Meaning try to V for a long time
-& 'Ll xyáahl jíingaa sánsdlägan .
-& G̲íi 'll hlg̲ánggulä jíingaa sánsdlägan .
-& Anáa 'll is jíingaa sánsdlägan .
+# 'Ll xyáahl jíingaa sánsdlägan .
+# G̲íi 'll hlg̲ánggulä jíingaa sánsdlägan .
+# Anáa 'll is jíingaa sánsdlägan .
 
 & He tried to dance for a long time .
 & She tried to work on it for a long time .
 & He tried to be home for a long time .
 
-& sánsdlä jíingaa
-& Meaning try for a long time to V
-& Dáng gä Hl tlaayd sánsdlä jíingaagang . I've been trying for a long time to help you .
-& Nang 'll dah sánsdlä jíingaagang .
+# Dáng gä Hl tlaayd sánsdlä jíingaagang . 
+& I've been trying for a long time to help you .
+# Nang 'll dah sánsdlä jíingaagang .
 & He's been trying for a long time to buy one .
-& 'Ll ta ˝áy sánsdlä jíingaagang .
+# 'Ll ta ˝áy sánsdlä jíingaagang .
 & She's been trying for a long time to weave .
 
-& jíingaa tláagaang
-& Meaning V for a long time first
-& Hláa uu k'ajúu jíingaa tláagaanggan .
-& 'Ll 'wáadaa jíingaa tláagaanggan .
-& Díi aa 'll gúusuu jíingaa tláagaanggan .
-
-& 279
+# Hláa uu k'ajúu jíingaa tláagaanggan .
+# 'Ll 'wáadaa jíingaa tláagaanggan .
+# Díi aa 'll gúusuu jíingaa tláagaanggan .
 
 & I was the first one to sing for a long time .
 & She shopped for a long time first .
 & He talked to me for a long time first .
 
-& jíingaahahl
-& Meaning tell to V for a long time
-& G̲íi díi 'll hlg̲ánggulä jíingaahalgan .
-& Dáng aa 'láa Hl gúusuu jíingaahalgan .
-& Íitl' 'll xyáahl jíingaahalganggang .
+# G̲íi díi 'll hlg̲ánggulä jíingaahalgan .
+# Dáng aa 'láa Hl gúusuu jíingaahalgan .
+# Íitl' 'll xyáahl jíingaahalganggang .
 
 & She told me to work on it for a long time .
 & I told her to talk to you for a long time .
 & He always tells us to dance for a long time .
 
-& jíingaahid
-& Meaning start to V for a long time
-& Gwa'áaw jíingaahiidang .
-& K'yuu Hl g̲id jíingaahiidan .
-& 'Ll k'ajúu jíingaahiidang .
+# Gwa'áaw jíingaahiidang .
+# K'yuu Hl g̲id jíingaahiidan .
+# 'Ll k'ajúu jíingaahiidang .
 
 & It has started to rain for a long time .
 & I started to wait for it for a long time .
 & She has started to sing for a long time .
 
-& jíingaa'aa .aa (sg) / jíingaa'aa .aaga (pl)
-& Meaning leave on foot to go V for a long time
-& 'Ll skáadaang jíingaa'aa .aagan .
+# 'Ll skáadaang jíingaa'aa .aagan .
 & She left to go pick berries for a long time .
-& 'Ll 'wáadaa jíingaa'aa .aagä'wägan . They left to go shopping for a long time .
-& Hl ta hlg̲áy jíingaa'aa .aaäsaang .
+# 'Ll 'wáadaa jíingaa'aa .aagä'wägan . 
+& They left to go shopping for a long time .
+# Hl ta hlg̲áy jíingaa'aa .aaäsaang .
 & I will leave to go dig clams for a long time .
 
 & 280
