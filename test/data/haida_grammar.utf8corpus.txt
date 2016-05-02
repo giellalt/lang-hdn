@@ -2029,7 +2029,7 @@
 & I'm just about to leave .
 
 
- 
+
 
 # 'Ll k'ajúudaalgan .
 # 'Láa aa Hl gúusuudaalgan .
@@ -3128,7 +3128,8 @@
 
 # Nang díi 'll dah sánsdlahalgan .
 & She told me to try to buy one .
-# 'Láa Hl tlaawhlä sánsdlahahläsaang . I will tell him to try to fix it .
+# 'Láa Hl tlaawhlä sánsdlahahläsaang . 
+& I will tell him to try to fix it .
 # Íitl' 'll skáadaang sánsdlahalgan .
 & He told us to try to pick berries .
 
@@ -3153,7 +3154,7 @@
 # Nang 'll dah tláagaang gíigang .
 & She has already bought one first .
 # Díi gä 'll tlaayd tláagaang gíiganggang . 
-She always helps me first .
+& She always helps me first .
 
 
 # Díi xyáahl tláagaang gudáang .
@@ -3668,9 +3669,12 @@ She always helps me first .
 & I really told her to wash the dishes .
 
 
-# Tl' stánsang nang Hl dahhahl ílgang . I have told four people to buy one so far .
-# Tl' stánsang nang díi dahhahl ílgang . Four people have told me to buy one so far .
-# Gíisdluu dáng 'll tlaawhlahahl ílgang? How many has she told you to build so far?
+# Tl' stánsang nang Hl dahhahl ílgang . 
+& I have told four people to buy one so far .
+# Tl' stánsang nang díi dahhahl ílgang . 
+& Four people have told me to buy one so far .
+# Gíisdluu dáng 'll tlaawhlahahl ílgang? 
+& How many has she told you to build so far?
 
 # G̲íi 'll hlg̲ánggulä áahlganghiidan .
 # 'Ll k'ajúu áahlganghiidan .
@@ -5337,7 +5341,6 @@ She always helps me first .
 & He almost rewashed the windows .
 
 
-
 # Náay 'll k'udlán 'laa'uhlägán .
 # K̲ugíinaay 'll k̲'áalang 'laa'uhlägán .
 # X̲ánjaangwaay 'll dlán 'laa'uhlägán .
@@ -5346,4 +5349,3 @@ She always helps me first .
 & She was rewriting the book all night .
 & He was rewashing the windows all night .
 
-
