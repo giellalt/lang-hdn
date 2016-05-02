@@ -1,404 +1,411 @@
-479: 
- V SG IMPV
- V INTERR SIMP PRES
-
-333: 
+532: 
  V INTERR SIMP PRES
  V SG IMPV
 
-305: 
+266: 
+ V SG IMPV
+ V INTERR SIMP PRES
+
+213: 
+ V INTERR PRES HAB
+ V SIMP PRES
+
+199: 
  V SIMP PRES
  V INTERR PRES HAB
 
-270: 
+176: 
+ Pron
+ V INTERR SIMP PRES
+ V SG IMPV
+
+145: 
+ V INTERR SIMP PRES
+ V SG IMPV
+ Pron
+
+145: 
+ Pron
+ N
+
+125: 
  N
  Pron
 
-176: 
- V SG IMPV
- Pron
- V INTERR SIMP PRES
-
-146: 
+79: 
  V SG IMPV
  V INTERR SIMP PRES
  Pron
-
-107: 
- V INTERR PRES HAB
- V SIMP PRES
-
-85: 
- Pron
- V INTERR SIMP PRES
- V SG IMPV
 
 62: 
- V SG IMPV
- V INTERR SIMP PRES
  CL/Shape CL/sg̲a N Abs
-
-59: 
- N Def
- N Indef
  V INTERR SIMP PRES
  V SG IMPV
 
-55: 
+50: 
  V SIMP PRES
- V NONFACT
  V INTERR PRES HAB
+ V NONFACT
 
-47: 
- V SG IMPV
- V IMM PRES
+49: 
+ N Def
  V INTERR SIMP PRES
+ V SG IMPV
+ N Indef
 
 45: 
+ V SG IMPV
  CL/Shape CL/skáa N Indef
  V INTERR SIMP PRES
- V SG IMPV
 
 40: 
- Ptcl
  Po
+ Ptcl
 
-38: 
- N Def
+40: 
+ V SG IMPV
+ V IMM PRES
+ V INTERR SIMP PRES
+
+40: 
+ CL/Shape CL/sg̲a N Indef
  N Indef
 
-38: 
- Ptcl
- V SG IMPV
+36: 
+ V IMM PRES
  V INTERR SIMP PRES
+ V SG IMPV
 
-37: 
- V INTERR SIMP PRES
+35: 
  V SG IMPV
+ V INTERR SIMP PRES
  Adv
 
-33: 
- V IMM PRES
- V SG IMPV
+31: 
  V INTERR SIMP PRES
-
-30: 
+ Ptcl
  V SG IMPV
- 
-
- V INTERR SIMP PRES
 
 30: 
  Ptcl
  Adv
 
 28: 
+ V INTERR SIMP PRES
+ V IMM PRES
+ V SG IMPV
+
+23: 
+ N Def
  N Indef
- CL/Shape CL/sg̲a N Indef
 
 22: 
- CL/Shape CL/sg̲a N Abs
  V INTERR SIMP PRES
  V SG IMPV
+ CL/Shape CL/sg̲a N Abs
 
 20: 
- V INTERR SIMP PRES
- V SG IMPV
- V IMM PRES
-
-17: 
- V INTERR SIMP PRES
- V IMM PRES
- V SG IMPV
+ N Indef
+ N Def
 
 16: 
- CL/Shape CL/sg̲a N Indef
+ N Rfx
+ CL/Shape CL/ja N Rfx
+
+13: 
+ V NONFACT
+ V SIMP PRES
+ V INTERR PRES HAB
+
+12: 
+ Adv
  N Indef
 
 12: 
- N Sg Abs
+ V NEG SIMP PRES
+ V NEG INTERR PRES HAB
+
+12: 
  Pron
+ N Sg Abs
 
 11: 
- Adv
- N Indef
-
-11: 
- CL/Shape CL/k̲'íi N Indef
  CL/Shape CL/sk'a N Indef
-
-11: 
- Po
- N Indef
- N Def
+ CL/Shape CL/k̲'íi N Indef
 
 10: 
- V NEG INTERR PRES HAB
- V NEG SIMP PRES
+ V SG IMPV
+ V INTERR SIMP PRES
+ V IMM PRES
+
+10: 
+ V INTERR SIMP PRES
+ 
+
+ V SG IMPV
 
 9: 
- N Rfx
- CL/Shape CL/ja N Rfx
+ N Indef
+ N Def
+ Po
 
 8: 
+ N Def
+ Po
+ N Indef
+
+8: 
+ N Def
+ N Indef
  V SG IMPV
  V INTERR SIMP PRES
- Po
 
 7: 
- CL/Shape CL/ja N Rfx
- N Rfx
+ V INTERR SIMP PRES
+ V SG IMPV
+ 
+
+
+7: 
+ Po
+ V SG IMPV
+ V INTERR SIMP PRES
 
 6: 
  N Indef
  N Abs
 
-6: 
- N Def
- N Indef
- Po
-
-6: 
- V INTERR PRES HAB
- V NONFACT
- V SIMP PRES
-
 5: 
- N Indef
- N Def
-
-5: 
- CL/Shape CL/k̲'íi N Def
  CL/Shape CL/tl'a N Def
+ CL/Shape CL/k̲'íi N Def
 
 4: 
- V NEG SIMP PRES
- V NEG INTERR PRES HAB
-
-4: 
- V SG IMPV
  V INTERR SIMP PRES
- N Indef
-
-4: 
  V SG IMPV
  Po
+
+3: 
  V INTERR SIMP PRES
-
-3: 
- CL/Shape CL/hlga N Indef
- N Indef
-
-3: 
  V SG IMPV
- V INTERR SIMP PRES
  N Sg Abs
 
 3: 
- CL/Shape CL/hlk̲'uhl N Def
- CL/Shape CL/skáa N Def
-
-2: 
- CL/Shape CL/k̲'íi N Def
  CL/Shape CL/g̲a N Def
  CL/Shape CL/skáa N Def
-
-2: 
- CL/Shape CL/hlg̲a N Indef
- CL/Shape CL/skáa N Indef
- CL/Shape CL/sg̲a N Indef
- CL/Shape CL/k̲'íi N Indef
- CL/Shape CL/g̲a N Indef
-
-2: 
- CL/Shape CL/k̲'íi N Abs
- CL/Shape CL/k̲'íi N Indef
  CL/Shape CL/k̲'íi N Def
 
-2: 
- CL/Shape CL/tl'a N Def
- CL/Shape CL/k'u N Indef
- CL/Shape CL/cha N Def
- CL/Shape CL/tl'a N Indef
- CL/Shape CL/cha N Indef
- CL/Shape CL/k'u N Def
-
-2: 
- CL/Shape CL/skáa N Indef
- CL/Shape CL/g̲a N Indef
- CL/Shape CL/k̲'íi N Indef
-
-2: 
+3: 
  N Indef
- CL/Human CL/dla N Indef
+ CL/Shape CL/hlga N Indef
+
+3: 
+ V INTERR SIMP PRES
+ V SG IMPV
+ N Indef
 
 2: 
+ CL/Shape CL/g̲a N Indef
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/skáa N Indef
+
+2: 
+ CL/Shape CL/k'u N Def
+ CL/Shape CL/cha N Def
+ CL/Shape CL/tl'a N Def
+ CL/Shape CL/cha N Indef
+ CL/Shape CL/tl'a N Indef
+ CL/Shape CL/k'u N Indef
+
+2: 
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/k̲'íi N Abs
  CL/Shape CL/k̲'íi N Def
- CL/Shape CL/g̲a N Def
+
+2: 
+ CL/Shape CL/sk'a N Indef
+ CL/Shape CL/sk'a N Def
+ N Sg Abs
+
+2: 
+ CL/Human CL/dla N Indef
+ N Indef
+
+2: 
+ CL/Shape CL/skáa N Def
+ CL/Shape CL/hlk̲'uhl N Def
+
+2: 
+ N Def
+ V INTERR SIMP PRES
+ N Indef
+ V SG IMPV
+
+2: 
+ CL/Human CL/dla N Def
+ N Def
+
+2: 
+ CL/Shape CL/sg̲a N Indef
+ CL/Shape CL/g̲a N Indef
+ CL/Shape CL/hlg̲a N Indef
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/skáa N Indef
+
+2: 
+ CL/Shape CL/sg̲a N Def
+ CL/Shape CL/k̲'íi N Def
  CL/Shape CL/hlg̲a N Def
  CL/Shape CL/skáa N Def
- CL/Shape CL/sg̲a N Def
+ CL/Shape CL/g̲a N Def
 
 2: 
  CL/Shape CL/tl'a N Def
- CL/Shape CL/cha N Def
  CL/Shape CL/k'u N Def
+ CL/Shape CL/cha N Def
 
 2: 
- V NONFACT
- V SIMP PRES
- V INTERR PRES HAB
-
-2: 
- N Def
- CL/Human CL/dla N Def
-
-2: 
- N Indef
- Adv
+ V NEG INTERR PRES HAB
+ V NEG SIMP PRES
 
 1: 
+ V SG IMPV
+ V INTERR SIMP PRES
  Po
- CL/Shape CL/sg̲a N Indef
- CL/Shape CL/hlga N Indef
 
 1: 
  N Rfx
  V NONFACT
 
 1: 
- V NONFACT
- N Rfx
-
-1: 
- CL/Shape CL/cha N Def
- CL/Shape CL/tl'a N Def
- CL/Shape CL/k'u N Def
-
-1: 
- CL/Shape CL/tl'a N Def
- CL/Shape CL/k̲'íi N Def
- CL/Shape CL/g̲a N Def
-
-1: 
- V INTERR SIMP PRES
- 
-
- V SG IMPV
-
-1: 
- N Sg Abs
- CL/Shape CL/sk'a N Indef
- CL/Shape CL/sk'a N Def
-
-1: 
- V INTERR SIMP PRES
- V SG IMPV
  N Indef
-
-1: 
- CL/Shape CL/cha N Indef
- CL/Shape CL/k'u N Def
- CL/Shape CL/tl'a N Indef
- CL/Shape CL/cha N Def
- CL/Shape CL/k'u N Indef
- CL/Shape CL/tl'a N Def
-
-1: 
- CL/Shape CL/sk̲'a N Def
- CL/Shape CL/sg̲a N Def
- CL/Shape CL/sk'a N Def
-
-1: 
- CL/Shape CL/g̲a N Def
- CL/Shape CL/skáa N Def
- CL/Shape CL/k̲'íi N Def
-
-1: 
- N Abs
- N Indef
- V SG IMPV
- CL/Shape CL/tíi N Abs
- V INTERR SIMP PRES
-
-1: 
- V INTERR PRES HAB
- V SIMP PRES
- V NONFACT
-
-1: 
- CL/Shape CL/sk̲'u N Def
- CL/Shape CL/k̲'íi N Indef
- CL/Shape CL/sk̲'u N Indef
- V INTERR SIMP PRES
- V SG IMPV
-
-1: 
  CL/Shape CL/sk'a N Abs
+ N Def
  CL/Shape CL/skáa N Abs
- N Indef
- N Def
 
 1: 
- V SG IMPV
- V INTERR SIMP PRES
  Adv
-
-1: 
- CL/Shape CL/sk'a N Indef
- CL/Shape CL/sk'a N Def
- N Sg Abs
-
-1: 
- CL/Human CL/dla N Indef
- N Indef
-
-1: 
- CL/Shape CL/skáa N Def
- CL/Shape CL/sk̲'a N Def
- CL/Shape CL/k̲'íi N Def
-
-1: 
- CL/Shape CL/k̲'íi N Indef
- CL/Shape CL/skáa N Indef
- CL/Shape CL/sk̲'a N Indef
-
-1: 
- V INTERR SIMP PRES
- V SG IMPV
- 
-
-
-1: 
- CL/Shape CL/k̲'íi N Indef
  V INTERR SIMP PRES
  V SG IMPV
 
 1: 
- CL/Shape CL/g̲a N Def
- N Def
- CL/Shape CL/k̲'a N Def
- CL/Shape CL/k̲'íi N Abs
- CL/Shape CL/k̲'íi N Def
- CL/Shape CL/k̲'íi N Indef
- CL/Shape CL/k̲'a N Indef
- N Abs
- N Indef
- CL/Shape CL/g̲a N Indef
-
-1: 
- CL/Shape CL/g̲a N Indef
- CL/Shape CL/k̲'íi N Indef
  CL/Shape CL/skáa N Indef
- CL/Shape CL/sg̲a N Indef
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/g̲a N Indef
  CL/Shape CL/hlg̲a N Indef
-
-1: 
- CL/Shape CL/ts'as N Indef
- N Abs
- CL/Shape CL/ja N Abs
+ CL/Shape CL/sg̲a N Indef
 
 1: 
  CL/Shape CL/hlga N Def
  N Def
+
+1: 
+ CL/Shape CL/tíi N Abs
+ V INTERR SIMP PRES
+ V SG IMPV
+ N Abs
+ N Indef
+
+1: 
+ CL/Shape CL/ja N Abs
+ N Abs
+ CL/Shape CL/ts'as N Indef
+
+1: 
+ 
+
+ V SG IMPV
+ V INTERR SIMP PRES
+
+1: 
+ V SG IMPV
+ N Indef
+ V INTERR SIMP PRES
+
+1: 
+ CL/Shape CL/sk̲'a N Indef
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/skáa N Indef
+
+1: 
+ CL/Shape CL/hlk̲'uhl N Def
+ CL/Shape CL/skáa N Def
+
+1: 
+ CL/Shape CL/cha N Def
+ CL/Shape CL/k'u N Def
+ CL/Shape CL/tl'a N Def
+
+1: 
+ CL/Shape CL/sg̲a N Def
+ CL/Shape CL/sk̲'a N Def
+ CL/Shape CL/sk'a N Def
+
+1: 
+ V NONFACT
+ V INTERR PRES HAB
+ V SIMP PRES
+
+1: 
+ N Indef
+ Adv
+
+1: 
+ CL/Shape CL/tl'a N Indef
+ CL/Shape CL/cha N Indef
+ CL/Shape CL/k'u N Indef
+ CL/Shape CL/tl'a N Def
+ CL/Shape CL/k'u N Def
+ CL/Shape CL/cha N Def
+
+1: 
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/tl'a N Def
+ CL/Shape CL/g̲a N Def
+
+1: 
+ CL/Shape CL/hlga N Indef
+ Po
+ CL/Shape CL/sg̲a N Indef
+
+1: 
+ V NONFACT
+ N Rfx
+
+1: 
+ CL/Shape CL/k̲'íi N Indef
+ N Indef
+ CL/Shape CL/k̲'a N Indef
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/g̲a N Def
+ N Abs
+ CL/Shape CL/k̲'a N Def
+ CL/Shape CL/k̲'íi N Abs
+ CL/Shape CL/g̲a N Indef
+ N Def
+
+1: 
+ V INTERR SIMP PRES
+ CL/Shape CL/k̲'íi N Indef
+ V SG IMPV
+
+1: 
+ CL/Shape CL/skáa N Def
+ CL/Shape CL/sk̲'a N Def
+ CL/Shape CL/k̲'íi N Def
+
+1: 
+ N Indef
+ CL/Human CL/dla N Indef
+
+1: 
+ V INTERR SIMP PRES
+ N Indef
+ V SG IMPV
+
+1: 
+ V INTERR SIMP PRES
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/sk̲'u N Def
+ V SG IMPV
+ CL/Shape CL/sk̲'u N Indef
 
