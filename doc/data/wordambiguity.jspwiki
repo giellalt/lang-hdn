@@ -1,0 +1,1181 @@
+
+
+This gives the homonymy patterns for the most commonambiguos words in our Northern Haida Brochure corpus.
+
+{{{
+176
+"<'Láa>" Pron V INTERR SIMP PRES V SG IMPV
+	"'láa" Pron
+	"'láa" V INTERR SIMP PRES
+	"'láa" V SG IMPV
+145
+"<'láa>" Pron V INTERR SIMP PRES V SG IMPV
+	"'láa" V SG IMPV
+	"'láa" V INTERR SIMP PRES
+	"'láa" Pron
+137
+"<Hl>" Ptcl N Pron
+	"hl" Ptcl
+	"Hl" Pron
+	"Hl" N
+133
+"<Hl>" N Pron Ptcl
+	"Hl" N
+	"Hl" Pron
+	"hl" Ptcl
+79
+"<'laa>" Pron V INTERR SIMP PRES V SG IMPV
+	"'láa" V SG IMPV
+	"'láa" Pron
+	"'láa" V INTERR SIMP PRES
+75
+"<k'udlán>" V INTERR SIMP PRES V SG IMPV
+	"k'udlán" V SG IMPV
+	"k'udlán" V INTERR SIMP PRES
+66
+"<saliyáagang>" V INTERR PRES HAB V SIMP PRES V INTERR PRES HAB V SIMP PRES
+	"salïyáa" V INTERR PRES HAB
+	"salïyáa" V SIMP PRES
+	"saliyáa" V SIMP PRES
+	"saliyáa" V INTERR PRES HAB
+62
+"<dlán>" CL/Shape CL/sg̲a N Abs V INTERR SIMP PRES V SG IMPV
+	"dlán" V INTERR SIMP PRES
+	"dlán" V SG IMPV
+	"dlán" CL/Shape CL/sg̲a N Abs
+54
+"<k'ajúu>" V INTERR SIMP PRES V SG IMPV V INTERR SIMP PRES V SG IMPV
+	"k'ajúu" V SG IMPV
+	"k'ajúu" V INTERR SIMP PRES
+	"k̲'ajúu" V INTERR SIMP PRES
+	"k̲'ajúu" V SG IMPV
+53
+"<gíigang>" V INTERR PRES HAB V SIMP PRES
+	"gíi" V INTERR PRES HAB
+	"gíi" V SIMP PRES
+49
+"<xyáahl>" N Def N Indef V INTERR SIMP PRES V SG IMPV
+	"xyáahl" V INTERR SIMP PRES
+	"xyáahl" N Indef
+	"xyáahl" V SG IMPV
+	"xyáahl" N Def
+45
+"<gatáa>" V INTERR SIMP PRES V SG IMPV
+	"gatáa" V INTERR SIMP PRES
+	"gatáa" V SG IMPV
+45
+"<dah>" CL/Shape CL/skáa N Indef V INTERR SIMP PRES V SG IMPV
+	"dah" V INTERR SIMP PRES
+	"dah" CL/Shape CL/skáa N Indef
+	"dah" V SG IMPV
+44
+"<gúusuu>" V INTERR SIMP PRES V SG IMPV
+	"gúusuu" V SG IMPV
+	"gúusuu" V INTERR SIMP PRES
+43
+"<st'i>" V INTERR SIMP PRES V SG IMPV
+	"st'i" V SG IMPV
+	"st'i" V INTERR SIMP PRES
+42
+"<gayéedang>" V INTERR PRES HAB V NONFACT V SIMP PRES
+	"gayéed" V SIMP PRES
+	"gayéed" V NONFACT
+	"gayéed" V INTERR PRES HAB
+41
+"<k̲'áalang>" V INTERR SIMP PRES V SG IMPV
+	"k̲'áalang" V SG IMPV
+	"k̲'áalang" V INTERR SIMP PRES
+40
+"<gw>" Po Ptcl
+	"gw" Ptcl
+	"gw" Po
+37
+"<hlangaang>" V SIMP PRES V INTERR SIMP PRES V SG IMPV
+	"hlángaang" V INTERR SIMP PRES
+	"hlángaang" V SG IMPV
+	"hlánga" V SIMP PRES
+37
+"<hlangaang>" V INTERR SIMP PRES V SG IMPV V SIMP PRES
+	"hlánga" V SIMP PRES
+	"hlángaang" V INTERR SIMP PRES
+	"hlángaang" V SG IMPV
+35
+"<jíingaagang>" V INTERR PRES HAB V SIMP PRES
+	"jíingaa" V SIMP PRES
+	"jíingaa" V INTERR PRES HAB
+33
+"<Nang>" N Pron
+	"Nang" N
+	"nang" Pron
+33
+"<Nang>" Pron N
+	"Nang" N
+	"nang" Pron
+32
+"<jíingaa>" Adv V INTERR SIMP PRES V SG IMPV
+	"jíingaa" V INTERR SIMP PRES
+	"jíingaa" Adv
+	"jíingaa" V SG IMPV
+31
+"<k̲wáan>" Ptcl V INTERR SIMP PRES V SG IMPV
+	"k̲wáan" Ptcl
+	"k̲wáan" V SG IMPV
+	"k̲wáan" V INTERR SIMP PRES
+30
+"<áwyaa>" V INTERR SIMP PRES V SG IMPV
+	"áwyaa" V INTERR SIMP PRES
+	"áwyaa" V SG IMPV
+30
+"<Gám>" Adv Ptcl
+	"gám" Adv
+	"gám" Ptcl
+26
+"<táa>" V INTERR SIMP PRES V SG IMPV
+	"táa" V INTERR SIMP PRES
+	"táa" V SG IMPV
+25
+"<sg̲áanuwaagang>" V INTERR PRES HAB V SIMP PRES
+	"sg̲áanuwaa" V INTERR PRES HAB
+	"sg̲áanuwaa" V SIMP PRES
+24
+"<sáng>" CL/Shape CL/sg̲a N Indef N Indef
+	"sáng" CL/Shape CL/sg̲a N Indef
+	"sáng" N Indef
+24
+"<dagwáang>" V INTERR SIMP PRES V SG IMPV
+	"dagwáang" V INTERR SIMP PRES
+	"dagwáang" V SG IMPV
+24
+"<tláagaang>" V INTERR SIMP PRES V SG IMPV
+	"tláagaang" V INTERR SIMP PRES
+	"tláagaang" V SG IMPV
+24
+"<skáadaang>" V INTERR SIMP PRES V SG IMPV
+	"skáadaang" V INTERR SIMP PRES
+	"skáadaang" V SG IMPV
+22
+"<k̲'wíid>" N Def N Indef
+	"k̲'wíid" N Def
+	"k̲'wíid" N Indef
+22
+"<aa>" Po Adv
+	"áa" Adv
+	"aa" Po
+22
+"<x̲áy>" CL/Shape CL/sg̲a N Abs V INTERR SIMP PRES V SG IMPV
+	"x̲áy" V INTERR SIMP PRES
+	"x̲áy" CL/Shape CL/sg̲a N Abs
+	"x̲áy" V SG IMPV
+21
+"<k̲áayd>" V INTERR SIMP PRES V SG IMPV
+	"k̲áayd" V INTERR SIMP PRES
+	"k̲áayd" V SG IMPV
+20
+"<aa>" Adv Po
+	"áa" Adv
+	"aa" Po
+19
+"<tlaawhláa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"tlaawhla" V SG IMPV
+	"tlaawhla" V INTERR SIMP PRES
+	"tlaawhla" V IMM PRES
+17
+"<gudáang>" N Indef V SIMP PRES
+	"gudáang" N Indef
+	"guda" V SIMP PRES
+17
+"<gu>" V INTERR SIMP PRES V SG IMPV Pron
+	"gu" Pron
+	"g̲u" V INTERR SIMP PRES
+	"g̲u" V SG IMPV
+16
+"<gíng>" V INTERR SIMP PRES V SG IMPV
+	"gíng" V SG IMPV
+	"gíng" V INTERR SIMP PRES
+16
+"<sang>" CL/Shape CL/sg̲a N Indef N Indef
+	"sáng" N Indef
+	"sáng" CL/Shape CL/sg̲a N Indef
+16
+"<gu>" Pron V INTERR SIMP PRES V SG IMPV
+	"gu" Pron
+	"g̲u" V SG IMPV
+	"g̲u" V INTERR SIMP PRES
+16
+"<'wáadaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"'wáada" V INTERR SIMP PRES
+	"'wáada" V IMM PRES
+	"'wáada" V SG IMPV
+16
+"<Ga>" V SG IMPV Po N
+	"gä" Po
+	"ga" V SG IMPV
+	"Ga" N
+16
+"<g̲áayaagang>" V INTERR PRES HAB V SIMP PRES
+	"g̲áayaa" V SIMP PRES
+	"g̲áayaa" V INTERR PRES HAB
+14
+"<gayéed>" V INTERR SIMP PRES V SG IMPV
+	"gayéed" V INTERR SIMP PRES
+	"gayéed" V SG IMPV
+14
+"<sajúugang>" V INTERR PRES HAB V SIMP PRES
+	"sajúu" V SIMP PRES
+	"sajúu" V INTERR PRES HAB
+13
+"<gudáang>" V SIMP PRES N Indef
+	"gudáang" N Indef
+	"guda" V SIMP PRES
+12
+"<g̲usdláa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"g̲usdla" V SG IMPV
+	"g̲usdla" V IMM PRES
+	"g̲usdla" V INTERR SIMP PRES
+11
+"<gudánggang>" V INTERR PRES HAB V SIMP PRES
+	"gudáng" V INTERR PRES HAB
+	"gudáng" V SIMP PRES
+11
+"<Ga>" N Po V SG IMPV
+	"Ga" N
+	"ga" V SG IMPV
+	"gä" Po
+11
+"<x̲ánsgiidang>" V INTERR PRES HAB V NONFACT V SIMP PRES
+	"x̲ánsgad" V SIMP PRES
+	"x̲ánsgad" V INTERR PRES HAB
+	"x̲ánsgad" V NONFACT
+11
+"<Ga>" Po V SG IMPV N
+	"gä" Po
+	"ga" V SG IMPV
+	"Ga" N
+10
+"<sdáng>"  V INTERR SIMP PRES V SG IMPV
+	"sdáng" V SG IMPV
+	"sdáng" V INTERR SIMP PRES
+	"sdáng" 
+
+10
+"<gúusaaw>" CL/Shape CL/k̲'íi N Indef CL/Shape CL/sk'a N Indef
+	"gúusaaw" CL/Shape CL/sk'a N Indef
+	"gúusaaw" CL/Shape CL/k̲'íi N Indef
+10
+"<Ga>" N V SG IMPV Po
+	"ga" V SG IMPV
+	"gä" Po
+	"Ga" N
+10
+"<k̲'uhldáa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"k̲'uhlda" V SG IMPV
+	"k̲'uhlda" V INTERR SIMP PRES
+	"k̲'uhlda" V IMM PRES
+9
+"<dlajúudaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"dlajúuda" V IMM PRES
+	"dlajúuda" V INTERR SIMP PRES
+	"dlajúuda" V SG IMPV
+9
+"<gudáng>" V INTERR SIMP PRES V SG IMPV CL/Shape CL/ja N Rfx N Rfx
+	"g̲ud" N Rfx
+	"g̲ud" CL/Shape CL/ja N Rfx
+	"gudáng" V SG IMPV
+	"gudáng" V INTERR SIMP PRES
+9
+"<x̲ánsgad>" V INTERR SIMP PRES V SG IMPV
+	"x̲ánsgad" V INTERR SIMP PRES
+	"x̲ánsgad" V SG IMPV
+9
+"<xatl'áa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"xatl'a" V IMM PRES
+	"xatl'a" V INTERR SIMP PRES
+	"xatl'a" V SG IMPV
+9
+"<g̲agwíigang>" V INTERR PRES HAB V SIMP PRES
+	"g̲agwíi" V SIMP PRES
+	"g̲agwíi" V INTERR PRES HAB
+9
+"<k̲asaa>" V INTERR SIMP PRES V SG IMPV
+	"k̲asaa" V SG IMPV
+	"k̲asaa" V INTERR SIMP PRES
+9
+"<an>" N Def N Indef Po Pron
+	"an" Po
+	"an" N Indef
+	"an" N Def
+	"án" Pron
+8
+"<dúugang>" V INTERR PRES HAB V SIMP PRES
+	"dúu" V INTERR PRES HAB
+	"dúu" V SIMP PRES
+8
+"<hlg̲ánggulaa>" N Def N Indef V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"hlg̲ánggulaa" N Indef
+	"hlg̲ánggulaa" N Def
+	"hlg̲ánggula" V IMM PRES
+	"hlg̲ánggula" V INTERR SIMP PRES
+	"hlg̲ánggula" V SG IMPV
+8
+"<sg̲áw>" N Def N Indef V INTERR SIMP PRES V SG IMPV
+	"sg̲áw" N Indef
+	"sg̲áw" V INTERR SIMP PRES
+	"sg̲áw" N Def
+	"sg̲áw" V SG IMPV
+8
+"<an>" Pron N Def N Indef Po
+	"án" Pron
+	"an" N Indef
+	"an" Po
+	"an" N Def
+8
+"<hlg̲ánggulaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV N Def N Indef
+	"hlg̲ánggula" V IMM PRES
+	"hlg̲ánggula" V INTERR SIMP PRES
+	"hlg̲ánggula" V SG IMPV
+	"hlg̲ánggulaa" N Indef
+	"hlg̲ánggulaa" N Def
+8
+"<ijgáagang>" V INTERR PRES HAB V SIMP PRES
+	"ijgáa" V INTERR PRES HAB
+	"ijgáa" V SIMP PRES
+7
+"<áalgaagang>" V INTERR PRES HAB V SIMP PRES
+	"áalgaa" V SIMP PRES
+	"áalgaa" V INTERR PRES HAB
+7
+"<g̲atl'áanggang>" V INTERR PRES HAB V SIMP PRES
+	"g̲atl'áang" V SIMP PRES
+	"g̲atl'áang" V INTERR PRES HAB
+7
+"<ta_tl'íi>" V INTERR SIMP PRES V SG IMPV
+	"ta_tl'íi" V SG IMPV
+	"ta_tl'íi" V INTERR SIMP PRES
+7
+"<áwyaagang>" V INTERR PRES HAB V SIMP PRES
+	"áwyaa" V SIMP PRES
+	"áwyaa" V INTERR PRES HAB
+7
+"<ta_x̲áy>" V INTERR SIMP PRES V SG IMPV
+	"ta_x̲áy" V INTERR SIMP PRES
+	"ta_x̲áy" V SG IMPV
+7
+"<gudáng>" CL/Shape CL/ja N Rfx N Rfx V INTERR SIMP PRES V SG IMPV
+	"g̲ud" N Rfx
+	"g̲ud" CL/Shape CL/ja N Rfx
+	"gudáng" V INTERR SIMP PRES
+	"gudáng" V SG IMPV
+6
+"<Dáa>" N Sg Abs Pron
+	"dáa" Pron
+	"dáa" N Sg Abs
+6
+"<g̲íihldaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"g̲íihlda" V IMM PRES
+	"g̲íihlda" V INTERR SIMP PRES
+	"g̲íihlda" V SG IMPV
+6
+"<hlangáa'anggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"hlangáa" V NEG SIMP PRES
+	"hlangáa" V NEG INTERR PRES HAB
+6
+"<Gin>" Adv N Indef N Indef
+	"gin" N Indef
+	"gin" Adv
+	"gín" N Indef
+6
+"<sánsdlaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"sánsdla" V IMM PRES
+	"sánsdla" V INTERR SIMP PRES
+	"sánsdla" V SG IMPV
+6
+"<jahlíi>" V INTERR SIMP PRES V SG IMPV
+	"jahlíi" V INTERR SIMP PRES
+	"jahlíi" V SG IMPV
+6
+"<stánsang>"  V INTERR SIMP PRES V SG IMPV
+	"stánsang" V INTERR SIMP PRES
+	"stánsang" 
+
+	"stánsang" V SG IMPV
+6
+"<g̲aawnánggang>" V INTERR PRES HAB V SIMP PRES
+	"g̲aawnáng" V INTERR PRES HAB
+	"g̲aawnáng" V SIMP PRES
+6
+"<xyáalgang>" V INTERR PRES HAB V SIMP PRES
+	"xyáahl" V SIMP PRES
+	"xyáahl" V INTERR PRES HAB
+6
+"<únsiidang>" V INTERR PRES HAB V NONFACT V SIMP PRES
+	"únsad" V SIMP PRES
+	"únsad" V NONFACT
+	"únsad" V INTERR PRES HAB
+6
+"<ta_hlg̲áy>" V INTERR SIMP PRES V SG IMPV
+	"ta_hlg̲áy" V INTERR SIMP PRES
+	"ta_hlg̲áy" V SG IMPV
+6
+"<gáay>" N Abs N Indef
+	"g̲áay" N Indef
+	"g̲áay" N Abs
+5
+"<k̲ugíinaay>" CL/Shape CL/k̲'íi N Def CL/Shape CL/tl'a N Def
+	"k̲ugíin" CL/Shape CL/tl'a N Def
+	"k̲ugíin" CL/Shape CL/k̲'íi N Def
+5
+"<st'igáng>" V INTERR PRES HAB V SIMP PRES
+	"st'i" V INTERR PRES HAB
+	"st'i" V SIMP PRES
+5
+"<g̲áayaa>" V INTERR SIMP PRES V SG IMPV V INTERR PAST
+	"g̲áy" V INTERR PAST
+	"g̲áayaa" V INTERR SIMP PRES
+	"g̲áayaa" V SG IMPV
+5
+"<Gin>" N Indef Adv N Indef
+	"gin" N Indef
+	"gin" Adv
+	"gín" N Indef
+5
+"<k̲'ud>" V INTERR SIMP PRES V SG IMPV
+	"k̲'ud" V INTERR SIMP PRES
+	"k̲'ud" V SG IMPV
+5
+"<xwíi>" V INTERR SIMP PRES V SG IMPV
+	"xwíi" V INTERR SIMP PRES
+	"xwíi" V SG IMPV
+5
+"<saliyáa'waang>" V 3PL SIMP PRES V 3PL SIMP PRES
+	"salïyáa" V 3PL SIMP PRES
+	"saliyáa" V 3PL SIMP PRES
+4
+"<gut'ägúng>" V INTERR SIMP PRES V SG IMPV
+	"gut'ägúng" V INTERR SIMP PRES
+	"gut'ägúng" V SG IMPV
+4
+"<jahlíigang>" V INTERR PRES HAB V SIMP PRES
+	"jahlíi" V SIMP PRES
+	"jahlíi" V INTERR PRES HAB
+4
+"<tl'íi>" V INTERR SIMP PRES V SG IMPV
+	"tl'íi" V INTERR SIMP PRES
+	"tl'íi" V SG IMPV
+4
+"<gínggang>" V INTERR PRES HAB V SIMP PRES
+	"gíng" V SIMP PRES
+	"gíng" V INTERR PRES HAB
+4
+"<ii>" Po V INTERR SIMP PRES V SG IMPV Po
+	"ii" Po
+	"íi" Po
+	"íi" V INTERR SIMP PRES
+	"íi" V SG IMPV
+4
+"<gíi>" V INTERR SIMP PRES V SG IMPV Po
+	"g̲íi" Po
+	"gíi" V SG IMPV
+	"gíi" V INTERR SIMP PRES
+4
+"<áahlganggang>" V INTERR PRES HAB V SIMP PRES
+	"áahlgang" V SIMP PRES
+	"áahlgang" V INTERR PRES HAB
+4
+"<dagwáanggang>" V INTERR PRES HAB V SIMP PRES
+	"dagwáang" V SIMP PRES
+	"dagwáang" V INTERR PRES HAB
+4
+"<g̲áayaa>" V INTERR PAST V INTERR SIMP PRES V SG IMPV
+	"g̲áy" V INTERR PAST
+	"g̲áayaa" V INTERR SIMP PRES
+	"g̲áayaa" V SG IMPV
+4
+"<g̲aawnáng>" V INTERR SIMP PRES V SG IMPV
+	"g̲aawnáng" V SG IMPV
+	"g̲aawnáng" V INTERR SIMP PRES
+4
+"<áawgang>" V INTERR PRES HAB V SIMP PRES
+	"áaw" V SIMP PRES
+	"áaw" V INTERR PRES HAB
+3
+"<Xayáa>" V INTERR SIMP PRES V SG IMPV
+	"xayáa" V INTERR SIMP PRES
+	"xayáa" V SG IMPV
+3
+"<k'wa'áydaang>" N Def N Indef
+	"k'wa'áydaang" N Def
+	"k'wa'áydaang" N Indef
+3
+"<xayáa>" V INTERR SIMP PRES V SG IMPV V INTERR SIMP PRES V SG IMPV
+	"x̲ayáa" V INTERR SIMP PRES
+	"x̲ayáa" V SG IMPV
+	"xayáa" V INTERR SIMP PRES
+	"xayáa" V SG IMPV
+3
+"<Gíisdluu>" Adv V INTERR SIMP PRES V SG IMPV
+	"gíisdluu" Adv
+	"gíisdluu" V INTERR SIMP PRES
+	"gíisdluu" V SG IMPV
+3
+"<náang>" N Indef V INTERR SIMP PRES V SG IMPV
+	"náang" N Indef
+	"náang" V INTERR SIMP PRES
+	"náang" V SG IMPV
+3
+"<gudáa>" Po V INTERR SIMP PRES V SG IMPV V IMM PRES V INTERR SIMP PRES V SG IMPV Po V INTERR SIMP PRES V SG IMPV
+	"g̲udáa" V SG IMPV
+	"g̲udáa" Po
+	"g̲udáa" V INTERR SIMP PRES
+	"guda" V SG IMPV
+	"guda" V IMM PRES
+	"guda" V INTERR SIMP PRES
+	"gudáa" V SG IMPV
+	"gudáa" Po
+	"gudáa" V INTERR SIMP PRES
+3
+"<Táaw>" CL/Shape CL/hlga N Indef N Indef
+	"táaw" N Indef
+	"táaw" CL/Shape CL/hlga N Indef
+3
+"<saliyáagan>" V DIR PAST V DIR PAST
+	"saliyáa" V DIR PAST
+	"salïyáa" V DIR PAST
+3
+"<daa>" N Sg Abs Pron
+	"dáa" Pron
+	"dáa" N Sg Abs
+3
+"<Gatáa>" V INTERR SIMP PRES V SG IMPV
+	"gatáa" V INTERR SIMP PRES
+	"gatáa" V SG IMPV
+3
+"<guusganánggang>" V INTERR PRES HAB V SIMP PRES
+	"guusganáng" V INTERR PRES HAB
+	"guusganáng" V SIMP PRES
+3
+"<dáa>" N Sg Abs Pron
+	"dáa" N Sg Abs
+	"dáa" Pron
+3
+"<áahlgang>" V INTERR SIMP PRES V SG IMPV
+	"áahlgang" V INTERR SIMP PRES
+	"áahlgang" V SG IMPV
+3
+"<g̲id>" V INTERR SIMP PRES V SG IMPV
+	"g̲id" V SG IMPV
+	"g̲id" V INTERR SIMP PRES
+3
+"<k̲íidgaanggang>" V INTERR PRES HAB V SIMP PRES
+	"k̲íidgaang" V INTERR PRES HAB
+	"k̲íidgaang" V SIMP PRES
+3
+"<k̲áa>" N Sg Abs V INTERR SIMP PRES V SG IMPV
+	"k̲áa" V INTERR SIMP PRES
+	"k̲áa" V SG IMPV
+	"k̲áa" N Sg Abs
+3
+"<g̲aa>" Po Po
+	"g̲áa" Po
+	"g̲aa" Po
+3
+"<k̲íng>" V INTERR SIMP PRES V SG IMPV
+	"k̲íng" V SG IMPV
+	"k̲íng" V INTERR SIMP PRES
+2
+"<Chíinaay>" CL/Human CL/dla N Def N Def
+	"chíin" N Def
+	"chíin" CL/Human CL/dla N Def
+2
+"<gudä'ánggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"guda" V NEG SIMP PRES
+	"guda" V NEG INTERR PRES HAB
+2
+"<ts'a'áawgang>" V INTERR PRES HAB V SIMP PRES
+	"ts'a'áaw" V INTERR PRES HAB
+	"ts'a'áaw" V SIMP PRES
+2
+"<níihl>" V INTERR SIMP PRES V SG IMPV
+	"níihl" V SG IMPV
+	"níihl" V INTERR SIMP PRES
+2
+"<áanaasiyaagang>" V INTERR PRES HAB V SIMP PRES
+	"áanaasiyaa" V SIMP PRES
+	"áanaasiyaa" V INTERR PRES HAB
+2
+"<únsadaa>" V INTERR PAST V INTERR SIMP PRES V SG IMPV
+	"únsad" V INTERR PAST
+	"únsadaa" V INTERR SIMP PRES
+	"únsadaa" V SG IMPV
+2
+"<gwáayg'angaagang>" V INTERR PRES HAB V SIMP PRES
+	"gwáayg'angaa" V SIMP PRES
+	"gwáayg'angaa" V INTERR PRES HAB
+2
+"<Gwáalaay>" CL/Shape CL/cha N Def CL/Shape CL/cha N Indef CL/Shape CL/k'u N Def CL/Shape CL/k'u N Indef CL/Shape CL/tl'a N Def CL/Shape CL/tl'a N Indef CL/Shape CL/cha N Def CL/Shape CL/k'u N Def CL/Shape CL/tl'a N Def
+	"gwáahl" CL/Shape CL/cha N Def
+	"gwáahl" CL/Shape CL/tl'a N Def
+	"gwáahl" CL/Shape CL/k'u N Def
+	"gwáalaay" CL/Shape CL/tl'a N Def
+	"gwáalaay" CL/Shape CL/cha N Def
+	"gwáalaay" CL/Shape CL/k'u N Indef
+	"gwáalaay" CL/Shape CL/k'u N Def
+	"gwáalaay" CL/Shape CL/cha N Indef
+	"gwáalaay" CL/Shape CL/tl'a N Indef
+2
+"<hats'asáa>" V INTERR SIMP PRES V SG IMPV
+	"hats'asáa" V SG IMPV
+	"hats'asáa" V INTERR SIMP PRES
+2
+"<x̲ánsgad'anggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"x̲ánsgad" V NEG SIMP PRES
+	"x̲ánsgad" V NEG INTERR PRES HAB
+2
+"<g̲u>" V INTERR SIMP PRES V SG IMPV
+	"g̲u" V SG IMPV
+	"g̲u" V INTERR SIMP PRES
+2
+"<Tlúu>" CL/Shape CL/g̲a N Indef CL/Shape CL/k̲'íi N Indef CL/Shape CL/skáa N Indef
+	"tlúu" CL/Shape CL/k̲'íi N Indef
+	"tlúu" CL/Shape CL/g̲a N Indef
+	"tlúu" CL/Shape CL/skáa N Indef
+2
+"<sk̲'ad'áa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"sk̲'ad'a" V IMM PRES
+	"sk̲'ad'a" V INTERR SIMP PRES
+	"sk̲'ad'a" V SG IMPV
+2
+"<Chíin>" CL/Human CL/dla N Indef N Indef
+	"chíin" CL/Human CL/dla N Indef
+	"chíin" N Indef
+2
+"<k̲'ayáa>" V INTERR SIMP PRES V SG IMPV
+	"k̲'ayáa" V INTERR SIMP PRES
+	"k̲'ayáa" V SG IMPV
+2
+"<k̲'agáangad>" V INTERR SIMP PRES V SG IMPV
+	"k̲'agáangad" V SG IMPV
+	"k̲'agáangad" V INTERR SIMP PRES
+2
+"<St'a>" CL/Shape CL/k̲'íi N Abs CL/Shape CL/k̲'íi N Def CL/Shape CL/k̲'íi N Indef
+	"st'a" CL/Shape CL/k̲'íi N Def
+	"st'a" CL/Shape CL/k̲'íi N Abs
+	"st'a" CL/Shape CL/k̲'íi N Indef
+2
+"<k̲'íigaa>" V INTERR SIMP PRES V SG IMPV
+	"k̲'íigaa" V SG IMPV
+	"k̲'íigaa" V INTERR SIMP PRES
+2
+"<sg̲anuwáa>" V INTERR SIMP PRES V SG IMPV
+	"sg̲anuwáa" V INTERR SIMP PRES
+	"sg̲anuwáa" V SG IMPV
+2
+"<gíi>" Po V INTERR SIMP PRES V SG IMPV
+	"gíi" V INTERR SIMP PRES
+	"gíi" V SG IMPV
+	"g̲íi" Po
+2
+"<jáas>" V REL CL/Shape CL/sk'a N Def CL/Shape CL/sk'a N Indef N Sg Abs
+	"jáas" N Sg Abs
+	"jáas" CL/Shape CL/sk'a N Def
+	"jáas" CL/Shape CL/sk'a N Indef
+	"ja" V REL
+2
+"<gudaang>" N Indef V SIMP PRES
+	"guda" V SIMP PRES
+	"gudáang" N Indef
+2
+"<K'yuwáay>" CL/Shape CL/g̲a N Def CL/Shape CL/hlg̲a N Def CL/Shape CL/k̲'íi N Def CL/Shape CL/sg̲a N Def CL/Shape CL/skáa N Def
+	"k'yúu" CL/Shape CL/hlg̲a N Def
+	"k'yúu" CL/Shape CL/skáa N Def
+	"k'yúu" CL/Shape CL/sg̲a N Def
+	"k'yúu" CL/Shape CL/k̲'íi N Def
+	"k'yúu" CL/Shape CL/g̲a N Def
+2
+"<yahk'áagang>" V INTERR PRES HAB V SIMP PRES
+	"yahk'áa" V INTERR PRES HAB
+	"yahk'áa" V SIMP PRES
+2
+"<K'ayáay>" CL/Shape CL/hlk̲'uhl N Def CL/Shape CL/skáa N Def
+	"k'áy" CL/Shape CL/hlk̲'uhl N Def
+	"k'áy" CL/Shape CL/skáa N Def
+2
+"<dláan>" V INTERR SIMP PRES V SG IMPV
+	"dláan" V INTERR SIMP PRES
+	"dláan" V SG IMPV
+2
+"<k̲eht'ajáagang>" V INTERR PRES HAB V SIMP PRES
+	"k̲eht'ajáa" V INTERR PRES HAB
+	"k̲eht'ajáa" V SIMP PRES
+2
+"<Tluwáay>" CL/Shape CL/g̲a N Def CL/Shape CL/k̲'íi N Def CL/Shape CL/skáa N Def
+	"tlúu" CL/Shape CL/skáa N Def
+	"tlúu" CL/Shape CL/k̲'íi N Def
+	"tlúu" CL/Shape CL/g̲a N Def
+2
+"<tl'aa>" Pron Ptcl
+	"tl'áa" Pron
+	"tl'aa" Ptcl
+2
+"<K'yuu>" CL/Shape CL/g̲a N Indef CL/Shape CL/hlg̲a N Indef CL/Shape CL/k̲'íi N Indef CL/Shape CL/sg̲a N Indef CL/Shape CL/skáa N Indef
+	"k'yúu" CL/Shape CL/sg̲a N Indef
+	"k'yúu" CL/Shape CL/k̲'íi N Indef
+	"k'yúu" CL/Shape CL/skáa N Indef
+	"k'yúu" CL/Shape CL/hlg̲a N Indef
+	"k'yúu" CL/Shape CL/g̲a N Indef
+2
+"<k̲uyáa>" V INTERR SIMP PRES V SG IMPV
+	"k̲uyáa" V SG IMPV
+	"k̲uyáa" V INTERR SIMP PRES
+2
+"<xi>" V INTERR SIMP PRES V SG IMPV
+	"x̲i" V INTERR SIMP PRES
+	"x̲i" V SG IMPV
+2
+"<k'úugaagang>" V INTERR PRES HAB V SIMP PRES
+	"k'úugaa" V INTERR PRES HAB
+	"k'úugaa" V SIMP PRES
+1
+"<x̲áldaants'ädaagang>" V INTERR PRES HAB V SIMP PRES
+	"x̲áldaants'ädaa" V SIMP PRES
+	"x̲áldaants'ädaa" V INTERR PRES HAB
+1
+"<sdahliyáagang>" V INTERR PRES HAB V SIMP PRES
+	"sdahliyáa" V SIMP PRES
+	"sdahliyáa" V INTERR PRES HAB
+1
+"<g̲áwtlaa>" V INTERR SIMP PRES V SG IMPV
+	"g̲áwtlaa" V SG IMPV
+	"g̲áwtlaa" V INTERR SIMP PRES
+1
+"<náa>" CL/Shape CL/tíi N Abs N Abs N Indef V INTERR SIMP PRES V SG IMPV
+	"náa" V SG IMPV
+	"náa" V INTERR SIMP PRES
+	"náa" N Abs
+	"náa" N Indef
+	"náa" CL/Shape CL/tíi N Abs
+1
+"<dúu>" V INTERR SIMP PRES V SG IMPV
+	"dúu" V SG IMPV
+	"dúu" V INTERR SIMP PRES
+1
+"<Gúusaaw>" CL/Shape CL/k̲'íi N Indef CL/Shape CL/sk'a N Indef
+	"gúusaaw" CL/Shape CL/sk'a N Indef
+	"gúusaaw" CL/Shape CL/k̲'íi N Indef
+1
+"<jáadaagang>" V INTERR PRES HAB V SIMP PRES
+	"jáadaa" V INTERR PRES HAB
+	"jáadaa" V SIMP PRES
+1
+"<kingáa>" V INTERR SIMP PRES V SG IMPV
+	"kingáa" V SG IMPV
+	"kingáa" V INTERR SIMP PRES
+1
+"<xangala'íidang>" V INTERR PRES HAB V NONFACT V SIMP PRES
+	"xangala'ad" V SIMP PRES
+	"xangala'ad" V NONFACT
+	"xangala'ad" V INTERR PRES HAB
+1
+"<ta_k̲'áalang>" V INTERR SIMP PRES V SG IMPV
+	"ta_k̲'áalang" V INTERR SIMP PRES
+	"ta_k̲'áalang" V SG IMPV
+1
+"<Sdaláagang>" V INTERR PRES HAB V SIMP PRES
+	"sdaláa" V INTERR PRES HAB
+	"sdaláa" V SIMP PRES
+1
+"<Náanang>" N Rfx V NONFACT
+	"náan" V NONFACT
+	"náan" N Rfx
+1
+"<gin>" N Indef Adv N Indef
+	"gin" Adv
+	"gin" N Indef
+	"gín" N Indef
+1
+"<g̲áan>" CL/Shape CL/k̲'íi N Indef CL/Shape CL/skáa N Indef CL/Shape CL/sk̲'a N Indef
+	"g̲áan" CL/Shape CL/k̲'íi N Indef
+	"g̲áan" CL/Shape CL/sk̲'a N Indef
+	"g̲áan" CL/Shape CL/skáa N Indef
+1
+"<k̲'áw>" V INTERR SIMP PRES V SG IMPV
+	"k̲'áw" V INTERR SIMP PRES
+	"k̲'áw" V SG IMPV
+1
+"<k̲'adíi>" V INTERR SIMP PRES V SG IMPV
+	"k̲'adíi" V INTERR SIMP PRES
+	"k̲'adíi" V SG IMPV
+1
+"<tláahl>"  V INTERR SIMP PRES V SG IMPV
+	"tláahl" V SG IMPV
+	"tláahl" 
+
+	"tláahl" V INTERR SIMP PRES
+1
+"<tluwáay>" CL/Shape CL/g̲a N Def CL/Shape CL/k̲'íi N Def CL/Shape CL/skáa N Def
+	"tlúu" CL/Shape CL/skáa N Def
+	"tlúu" CL/Shape CL/g̲a N Def
+	"tlúu" CL/Shape CL/k̲'íi N Def
+1
+"<sk̲'íilaa>" V INTERR SIMP PRES V SG IMPV
+	"sk̲'íilaa" V INTERR SIMP PRES
+	"sk̲'íilaa" V SG IMPV
+1
+"<k'wáayandaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"k'wáayanda" V SG IMPV
+	"k'wáayanda" V INTERR SIMP PRES
+	"k'wáayanda" V IMM PRES
+1
+"<gwáalaay>" CL/Shape CL/cha N Def CL/Shape CL/k'u N Def CL/Shape CL/tl'a N Def CL/Shape CL/cha N Def CL/Shape CL/cha N Indef CL/Shape CL/k'u N Def CL/Shape CL/k'u N Indef CL/Shape CL/tl'a N Def CL/Shape CL/tl'a N Indef
+	"gwáalaay" CL/Shape CL/tl'a N Def
+	"gwáalaay" CL/Shape CL/cha N Def
+	"gwáalaay" CL/Shape CL/cha N Indef
+	"gwáalaay" CL/Shape CL/tl'a N Indef
+	"gwáalaay" CL/Shape CL/k'u N Indef
+	"gwáalaay" CL/Shape CL/k'u N Def
+	"gwáahl" CL/Shape CL/k'u N Def
+	"gwáahl" CL/Shape CL/cha N Def
+	"gwáahl" CL/Shape CL/tl'a N Def
+1
+"<k'áwdaalgang>" V INTERR PRES HAB V SIMP PRES
+	"k'áwdaal" V INTERR PRES HAB
+	"k'áwdaal" V SIMP PRES
+1
+"<k'ajáawang>" V NONFACT V NONFACT
+	"k̲'ajúu" V NONFACT
+	"k'ajúu" V NONFACT
+1
+"<dahlgánggang>" V INTERR PRES HAB V SIMP PRES
+	"dahlgáng" V SIMP PRES
+	"dahlgáng" V INTERR PRES HAB
+1
+"<sgaahlgwáaygang>" V INTERR PRES HAB V SIMP PRES V INTERR PRES HAB V SIMP PRES
+	"sgaahlgwáay" V INTERR PRES HAB
+	"sgaahlgwáay" V SIMP PRES
+	"sg̲aahlgwáay" V INTERR PRES HAB
+	"sg̲aahlgwáay" V SIMP PRES
+1
+"<ga>" Po V SG IMPV
+	"ga" V SG IMPV
+	"gä" Po
+1
+"<k̲'anáay>" CL/Shape CL/sg̲a N Def CL/Shape CL/sk'a N Def CL/Shape CL/sk̲'a N Def
+	"k̲'án" CL/Shape CL/sk̲'a N Def
+	"k̲'án" CL/Shape CL/sk'a N Def
+	"k̲'án" CL/Shape CL/sg̲a N Def
+1
+"<ga>" V SG IMPV Po
+	"gä" Po
+	"ga" V SG IMPV
+1
+"<t'áahl>" CL/Shape CL/hlga N Indef CL/Shape CL/sg̲a N Indef Po
+	"t'áahl" CL/Shape CL/hlga N Indef
+	"t'áahl" CL/Shape CL/sg̲a N Indef
+	"t'áahl" Po
+1
+"<Dúus>" V REL N Indef
+	"dúu" V REL
+	"dúus" N Indef
+1
+"<kíng>" N Indef V INTERR SIMP PRES V SG IMPV V INTERR SIMP PRES V SG IMPV
+	"k̲íng" V SG IMPV
+	"k̲íng" V INTERR SIMP PRES
+	"kíng" N Indef
+	"kíng" V INTERR SIMP PRES
+	"kíng" V SG IMPV
+1
+"<náanang>" N Rfx V NONFACT
+	"náan" N Rfx
+	"náan" V NONFACT
+1
+"<g̲usdlä'ánggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"g̲usdla" V NEG SIMP PRES
+	"g̲usdla" V NEG INTERR PRES HAB
+1
+"<jáng>" V INTERR SIMP PRES V SG IMPV
+	"jáng" V INTERR SIMP PRES
+	"jáng" V SG IMPV
+1
+"<sdaláagang>" V INTERR PRES HAB V SIMP PRES
+	"sdaláa" V SIMP PRES
+	"sdaláa" V INTERR PRES HAB
+1
+"<k̲íihlgaay>" CL/Shape CL/g̲a N Def CL/Shape CL/k̲'íi N Def CL/Shape CL/tl'a N Def
+	"k̲íihlaa" CL/Shape CL/tl'a N Def
+	"k̲íihlaa" CL/Shape CL/k̲'íi N Def
+	"k̲íihlaa" CL/Shape CL/g̲a N Def
+1
+"<gudaang>" V SIMP PRES N Indef
+	"guda" V SIMP PRES
+	"gudáang" N Indef
+1
+"<x̲áldangaagang>" V INTERR PRES HAB V SIMP PRES
+	"x̲áldangaa" V INTERR PRES HAB
+	"x̲áldangaa" V SIMP PRES
+1
+"<hlk̲'íniidan>" V DIR PAST V DIR PAST
+	"hlk̲'ínid" V DIR PAST
+	"hlk̲'ínad" V DIR PAST
+1
+"<dáalsgadaagang>" V INTERR PRES HAB V SIMP PRES
+	"dáalsgadaa" V SIMP PRES
+	"dáalsgadaa" V INTERR PRES HAB
+1
+"<sgángasälanggang>" V INTERR PRES HAB V SIMP PRES
+	"sgángasälang" V INTERR PRES HAB
+	"sgángasälang" V SIMP PRES
+1
+"<Tangáagang>" V INTERR PRES HAB V SIMP PRES
+	"tangáa" V INTERR PRES HAB
+	"tangáa" V SIMP PRES
+1
+"<súu>" Po V INTERR SIMP PRES V SG IMPV
+	"súu" V INTERR SIMP PRES
+	"súu" Po
+	"súu" V SG IMPV
+1
+"<g̲áadang>" V INTERR SIMP PRES V SG IMPV
+	"g̲áadang" V INTERR SIMP PRES
+	"g̲áadang" V SG IMPV
+1
+"<tíi>" V INTERR SIMP PRES V SG IMPV
+	"tíi" V SG IMPV
+	"tíi" V INTERR SIMP PRES
+1
+"<Jagwaa>"  V INTERR SIMP PRES V SG IMPV
+	"jagwaa" V INTERR SIMP PRES
+	"jagwaa" 
+
+	"jagwaa" V SG IMPV
+1
+"<dáang>" V INTERR SIMP PRES V SG IMPV
+	"dáang" V SG IMPV
+	"dáang" V INTERR SIMP PRES
+1
+"<kyáagaang>" N Def N Indef V INTERR SIMP PRES V SG IMPV
+	"kyáagaang" N Def
+	"kyáagaang" V SG IMPV
+	"kyáagaang" N Indef
+	"kyáagaang" V INTERR SIMP PRES
+1
+"<x̲áwlaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"x̲áwla" V INTERR SIMP PRES
+	"x̲áwla" V IMM PRES
+	"x̲áwla" V SG IMPV
+1
+"<k̲'ahljúu>" N Def N Indef V INTERR SIMP PRES V SG IMPV
+	"k̲'ahljúu" N Def
+	"k̲'ahljúu" V SG IMPV
+	"k̲'ahljúu" N Indef
+	"k̲'ahljúu" V INTERR SIMP PRES
+1
+"<yahk'áa'anggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"yahk'áa" V NEG SIMP PRES
+	"yahk'áa" V NEG INTERR PRES HAB
+1
+"<tl'aagáa>" V INTERR SIMP PRES V SG IMPV
+	"tl'aagáa" V INTERR SIMP PRES
+	"tl'aagáa" V SG IMPV
+1
+"<x̲áng>" CL/Shape CL/g̲a N Def CL/Shape CL/g̲a N Indef CL/Shape CL/k̲'a N Def CL/Shape CL/k̲'a N Indef CL/Shape CL/k̲'íi N Abs CL/Shape CL/k̲'íi N Def CL/Shape CL/k̲'íi N Indef N Abs N Def N Indef CL/Shape CL/k̲'íi N Abs
+	"x̲áng" CL/Shape CL/k̲'íi N Def
+	"x̲áng" CL/Shape CL/k̲'a N Def
+	"x̲áng" N Indef
+	"x̲áng" CL/Shape CL/g̲a N Def
+	"x̲áng" CL/Shape CL/k̲'íi N Indef
+	"x̲áng" N Def
+	"x̲áng" CL/Shape CL/k̲'íi N Abs
+	"x̲áng" CL/Shape CL/k̲'a N Indef
+	"x̲áng" N Abs
+	"x̲áng" CL/Shape CL/g̲a N Indef
+	"x̲ángii" CL/Shape CL/k̲'íi N Abs
+1
+"<g̲áanaay>" CL/Shape CL/k̲'íi N Def CL/Shape CL/skáa N Def CL/Shape CL/sk̲'a N Def
+	"g̲áan" CL/Shape CL/skáa N Def
+	"g̲áan" CL/Shape CL/sk̲'a N Def
+	"g̲áan" CL/Shape CL/k̲'íi N Def
+1
+"<k̲'adáa>" Po V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"k̲'adáa" Po
+	"k̲'ada" V INTERR SIMP PRES
+	"k̲'ada" V IMM PRES
+	"k̲'ada" V SG IMPV
+1
+"<ii>" Po Po V INTERR SIMP PRES V SG IMPV
+	"ii" Po
+	"íi" Po
+	"íi" V INTERR SIMP PRES
+	"íi" V SG IMPV
+1
+"<k̲áaydang>" V INTERR PRES HAB V NONFACT V SIMP PRES
+	"k̲áayd" V NONFACT
+	"k̲áayd" V INTERR PRES HAB
+	"k̲áayd" V SIMP PRES
+1
+"<nangáagang>" V INTERR PRES HAB V SIMP PRES
+	"nangáa" V SIMP PRES
+	"nangáa" V INTERR PRES HAB
+1
+"<k'ut'ahl>" V INTERR SIMP PRES V SG IMPV
+	"k'ut'ahl" V SG IMPV
+	"k'ut'ahl" V INTERR SIMP PRES
+1
+"<Nangáagang>" V INTERR PRES HAB V SIMP PRES
+	"nangáa" V INTERR PRES HAB
+	"nangáa" V SIMP PRES
+1
+"<K̲íng>" N Indef V INTERR SIMP PRES V SG IMPV
+	"kíng" N Indef
+	"kíng" V INTERR SIMP PRES
+	"kíng" V SG IMPV
+1
+"<tangáagang>" V INTERR PRES HAB V SIMP PRES
+	"tangáa" V INTERR PRES HAB
+	"tangáa" V SIMP PRES
+1
+"<tláagaanggang>" V INTERR PRES HAB V SIMP PRES
+	"tláagaang" V SIMP PRES
+	"tláagaang" V INTERR PRES HAB
+1
+"<k'adangáa>" V INTERR SIMP PRES V SG IMPV
+	"k'adangáa" V INTERR SIMP PRES
+	"k'adangáa" V SG IMPV
+1
+"<k'yuu>" CL/Shape CL/g̲a N Indef CL/Shape CL/hlg̲a N Indef CL/Shape CL/k̲'íi N Indef CL/Shape CL/sg̲a N Indef CL/Shape CL/skáa N Indef
+	"k'yúu" CL/Shape CL/sg̲a N Indef
+	"k'yúu" CL/Shape CL/k̲'íi N Indef
+	"k'yúu" CL/Shape CL/skáa N Indef
+	"k'yúu" CL/Shape CL/hlg̲a N Indef
+	"k'yúu" CL/Shape CL/g̲a N Indef
+1
+"<k̲wáan'ilgang>" V INTERR PRES HAB V SIMP PRES
+	"k̲wáan'iihl" V SIMP PRES
+	"k̲wáan'iihl" V INTERR PRES HAB
+1
+"<Jaadgáay>" N Def N Indef
+	"jaadgáay" N Def
+	"jaadgáay" N Indef
+1
+"<gyaanáagang>" V INTERR PRES HAB V SIMP PRES
+	"gyaanáa" V INTERR PRES HAB
+	"gyaanáa" V SIMP PRES
+1
+"<k̲íiyaa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"k̲íiya" V SG IMPV
+	"k̲íiya" V INTERR SIMP PRES
+	"k̲íiya" V IMM PRES
+1
+"<Jáabäniigaagang>" V INTERR PRES HAB V SIMP PRES
+	"Jáabäniigaa" V SIMP PRES
+	"Jáabäniigaa" V INTERR PRES HAB
+1
+"<xananánggang>" V INTERR PRES HAB V SIMP PRES
+	"xananáng" V SIMP PRES
+	"xananáng" V INTERR PRES HAB
+1
+"<Tlaawhláa>" V IMM PRES V INTERR SIMP PRES V SG IMPV
+	"tlaawhla" V SG IMPV
+	"tlaawhla" V INTERR SIMP PRES
+	"tlaawhla" V IMM PRES
+1
+"<gin>" Adv N Indef N Indef
+	"gin" Adv
+	"gin" N Indef
+	"gín" N Indef
+1
+"<'wáadaagaagang>" V INTERR PRES HAB V SIMP PRES
+	"'wáadaagaa" V INTERR PRES HAB
+	"'wáadaagaa" V SIMP PRES
+1
+"<g̲íidang>" V INTERR PRES HAB V NONFACT V SIMP PRES V INTERR PRES HAB V NONFACT V SIMP PRES
+	"g̲id" V NONFACT
+	"g̲id" V INTERR PRES HAB
+	"g̲id" V SIMP PRES
+	"g̲ad" V NONFACT
+	"g̲ad" V INTERR PRES HAB
+	"g̲ad" V SIMP PRES
+1
+"<'láagang>" V INTERR PRES HAB V SIMP PRES
+	"'láa" V INTERR PRES HAB
+	"'láa" V SIMP PRES
+1
+"<Táawaay>" CL/Shape CL/hlga N Def N Def
+	"táaw" N Def
+	"táaw" CL/Shape CL/hlga N Def
+1
+"<K'asgad>" CL/Shape CL/k̲'íi N Indef CL/Shape CL/sk̲'u N Def CL/Shape CL/sk̲'u N Indef V INTERR SIMP PRES V SG IMPV
+	"k'asgad" V SG IMPV
+	"k'asgad" CL/Shape CL/sk̲'u N Indef
+	"k'asgad" CL/Shape CL/k̲'íi N Indef
+	"k'asgad" CL/Shape CL/sk̲'u N Def
+	"k'asgad" V INTERR SIMP PRES
+1
+"<Jíingaa>" Adv V INTERR SIMP PRES V SG IMPV
+	"jíingaa" V INTERR SIMP PRES
+	"jíingaa" Adv
+	"jíingaa" V SG IMPV
+1
+"<gud>" Pron CL/Shape CL/ja N Abs CL/Shape CL/ts'as N Indef N Abs
+	"g̲ud" CL/Shape CL/ts'as N Indef
+	"g̲ud" N Abs
+	"g̲ud" CL/Shape CL/ja N Abs
+	"gud" Pron
+1
+"<ts'úuwii>" CL/Shape CL/sk'a N Abs CL/Shape CL/skáa N Abs N Def N Indef
+	"ts'úuwii" CL/Shape CL/sk'a N Abs
+	"ts'úuwii" N Indef
+	"ts'úuwii" CL/Shape CL/skáa N Abs
+	"ts'úuwii" N Def
+1
+"<hlangaa'ánggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"hlangaa" V NEG INTERR PRES HAB
+	"hlangaa" V NEG SIMP PRES
+1
+"<gyáaw>" N Def N Indef
+	"gyáaw" N Def
+	"gyáaw" N Indef
+1
+"<jáa>" V IMM PRES V INTERR SIMP PRES V SG IMPV N Sg Abs
+	"jáa" N Sg Abs
+	"ja" V SG IMPV
+	"ja" V IMM PRES
+	"ja" V INTERR SIMP PRES
+1
+"<íinaa>" V INTERR SIMP PRES V SG IMPV
+	"íinaa" V INTERR SIMP PRES
+	"íinaa" V SG IMPV
+1
+"<Gáawaan>" Adv V INDIR PAST
+	"gáw" V INDIR PAST
+	"gáawaan" Adv
+1
+"<chíin>" CL/Human CL/dla N Indef N Indef
+	"chíin" CL/Human CL/dla N Indef
+	"chíin" N Indef
+1
+"<k̲éenggaagang>" V INTERR PRES HAB V SIMP PRES
+	"k̲éenggaa" V INTERR PRES HAB
+	"k̲éenggaa" V SIMP PRES
+1
+"<k̲'íisgiidang>" V INTERR PRES HAB V NONFACT V SIMP PRES
+	"k̲'íisgad" V NONFACT
+	"k̲'íisgad" V INTERR PRES HAB
+	"k̲'íisgad" V SIMP PRES
+1
+"<ts'áanggang>" V INTERR PRES HAB V SIMP PRES
+	"ts'áang" V SIMP PRES
+	"ts'áang" V INTERR PRES HAB
+1
+"<k'ayáay>" CL/Shape CL/hlk̲'uhl N Def CL/Shape CL/skáa N Def N Def
+	"k̲'áy" N Def
+	"k'áy" CL/Shape CL/hlk̲'uhl N Def
+	"k'áy" CL/Shape CL/skáa N Def
+1
+"<Dáalaa>" CL/Shape CL/k̲'íi N Indef V INTERR SIMP PRES V SG IMPV
+	"dáalaa" V INTERR SIMP PRES
+	"dáalaa" CL/Shape CL/k̲'íi N Indef
+	"dáalaa" V SG IMPV
+1
+"<jíingaa'anggang>" V NEG INTERR PRES HAB V NEG SIMP PRES
+	"jíingaa" V NEG INTERR PRES HAB
+	"jíingaa" V NEG SIMP PRES
+}}}
