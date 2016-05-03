@@ -74,8 +74,8 @@ s2 !!= * @CODE@ =
 +Abs    !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
 +Pron	    !!= * @CODE@ =
 +Ptcl	    !!= * @CODE@ =
-
-
++COND-AUX1  !!= * @CODE@ = Used before non-ablauting secondary verbs
++COND-AUX2  !!= * @CODE@ = Used before ablauting secondary verbs
 
 !! The actual classifiers
 

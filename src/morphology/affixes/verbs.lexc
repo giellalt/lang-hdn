@@ -17,6 +17,8 @@
 ! ========================================================================== !
 
 LEXICON CLASS-AA !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -196,6 +198,8 @@ LEXICON CLASS-AA !!= @CODE@
 
 
 LEXICON CLASS-AAL !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -374,6 +378,8 @@ LEXICON CLASS-AAL !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AAN !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>%.ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -552,6 +558,8 @@ LEXICON CLASS-AAN !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AANG !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -730,6 +738,8 @@ LEXICON CLASS-AANG !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AAW !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -908,6 +918,8 @@ LEXICON CLASS-AAW !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AAY !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -1086,6 +1098,8 @@ LEXICON CLASS-AAY !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AH !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -1264,6 +1278,8 @@ LEXICON CLASS-AH !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AYD !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>a # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -1442,6 +1458,8 @@ LEXICON CLASS-AYD !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-EE !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -1620,6 +1638,8 @@ LEXICON CLASS-EE !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-EED !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -1798,6 +1818,8 @@ LEXICON CLASS-EED !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-I !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -1976,6 +1998,8 @@ LEXICON CLASS-I !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-IID !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>a # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -2154,6 +2178,8 @@ LEXICON CLASS-IID !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-U !!= @CODE@
++V+COND-AUX1:%> # ;
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -2333,6 +2359,7 @@ LEXICON CLASS-U !!= @CODE@
 
 
 LEXICON CLASS-AAHL-STEM
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -2487,6 +2514,7 @@ LEXICON CLASS-AAHL-STEM
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 !LEXICON CLASS-AAHL-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+IMM+PRES:%>%^ENDBga # ;
 +V+SIMP+PRES:%>%^ENDBgáng # ;
 +V+DIR+PAST:%>%^ENDBgán # ;
@@ -2517,6 +2545,7 @@ LEXICON CLASS-AD-STEM
  :íid CLASS-AD-STEM-2 ;
 
 LEXICON CLASS-AD-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV: # ;
 +V+INTERR+SIMP+PRES: # ;
 +V+INTERR+PAST:áa # ;
@@ -2661,6 +2690,7 @@ LEXICON CLASS-AD-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:'áng'waaäseehl # ;
 
 LEXICON CLASS-AD-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+IMM+PRES:%>a # ;
 +V+SIMP+PRES:%>áng # ;
 +V+DIR+PAST:%>an # ;
@@ -2702,6 +2732,7 @@ LEXICON CLASS-AL-STEM
 
 
 LEXICON CLASS-AL-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -2868,6 +2899,7 @@ LEXICON CLASS-AL-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AL-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -2886,6 +2918,7 @@ LEXICON CLASS-AN-STEM
  :an CLASS-AN-STEM-2 ;
 
 LEXICON CLASS-AN-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>%.ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -3052,6 +3085,7 @@ LEXICON CLASS-AN-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AN-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -3070,6 +3104,7 @@ LEXICON CLASS-ANG-STEM
  :ang CLASS-ANG-STEM-2 ;
 
 LEXICON CLASS-ANG-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -3236,6 +3271,7 @@ LEXICON CLASS-ANG-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-ANG-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -3254,6 +3290,7 @@ LEXICON CLASS-AW-STEM
  :aw CLASS-AW-STEM-2 ;
 
 LEXICON CLASS-AW-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -3420,6 +3457,7 @@ LEXICON CLASS-AW-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AW-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:aa # ;
 +V+INDIR+PAST:aan # ;
 +V+REL+EVID:aas # ;
@@ -3438,6 +3476,7 @@ LEXICON CLASS-AY-STEM
  :ay CLASS-AY-STEM-2 ;
 
 LEXICON CLASS-AY-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -3604,6 +3643,7 @@ LEXICON CLASS-AY-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-AY-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -3623,6 +3663,7 @@ LEXICON CLASS-EEHL-STEM
 
 
 LEXICON CLASS-EEHL-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -3777,6 +3818,7 @@ LEXICON CLASS-EEHL-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-EEHL-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+SIMP+PRES:%>gáng # ;
 +V+DIR+PAST:%>gán # ;
@@ -3807,6 +3849,7 @@ LEXICON CLASS-ID-STEM
  :íid CLASS-ID-STEM-2 ;
 
 LEXICON CLASS-ID-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV: # ;
 +V+INTERR+SIMP+PRES: # ;
 +V+INTERR+PAST:aa # ;
@@ -3951,6 +3994,7 @@ LEXICON CLASS-ID-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:'ang'waaäseehl # ;
 
 LEXICON CLASS-ID-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+IMM+PRES:%>a # ;
 +V+SIMP+PRES:%>áng # ;
 +V+DIR+PAST:%>an # ;
@@ -3991,6 +4035,7 @@ LEXICON CLASS-II-STEM
  :áay CLASS-II-STEM-2 ;
 
 LEXICON CLASS-II-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -4157,6 +4202,7 @@ LEXICON CLASS-II-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-II-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -4176,6 +4222,7 @@ LEXICON CLASS-IN-STEM
 
 
 LEXICON CLASS-IN-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>%.ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -4342,6 +4389,7 @@ LEXICON CLASS-IN-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-IN-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -4360,6 +4408,7 @@ LEXICON CLASS-ING-STEM
  :éeng CLASS-ING-STEM-2 ;
 
 LEXICON CLASS-ING-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -4526,6 +4575,7 @@ LEXICON CLASS-ING-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-ING-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -4544,6 +4594,7 @@ LEXICON CLASS-UD-STEM
  :wíid CLASS-UD-STEM-2 ;
 
 LEXICON CLASS-UD-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV: # ;
 +V+INTERR+SIMP+PRES: # ;
 +V+INTERR+PAST:aa # ;
@@ -4688,6 +4739,7 @@ LEXICON CLASS-UD-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:'ang'waaäseehl # ;
 
 LEXICON CLASS-UD-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+IMM+PRES:%>a # ;
 +V+SIMP+PRES:%>áng # ;
 +V+DIR+PAST:%>an # ;
@@ -4728,6 +4780,7 @@ LEXICON CLASS-UN-STEM
  :wáan CLASS-UN-STEM-2 ;
 
 LEXICON CLASS-UN-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>%.ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -4894,6 +4947,7 @@ LEXICON CLASS-UN-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-UN-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -4912,6 +4966,7 @@ LEXICON CLASS-UNG-STEM
  :wáang CLASS-UNG-STEM-2 ;
 
 LEXICON CLASS-UNG-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -5078,6 +5133,7 @@ LEXICON CLASS-UNG-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-UNG-STEM-2 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -5097,6 +5153,7 @@ LEXICON CLASS-UU-STEM
 
 
 LEXICON CLASS-UU-STEM-1 !!= @CODE@  
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -5257,6 +5314,7 @@ LEXICON CLASS-UU-STEM-1 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-UU-STEM-2  !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -5282,6 +5340,7 @@ LEXICON CLASS-A-STEM
 :áa CLASS-A-STEM-3 ;
 
 LEXICON CLASS-A-STEM-2  !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+DIR+PAST:%>gán # ;
 +V+INTERR+PRES+HAB:%>gáng # ;
 +V+PRES+HAB:%>gánggang # ;
@@ -5419,6 +5478,7 @@ LEXICON CLASS-A-STEM-2  !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-A-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -5468,6 +5528,7 @@ LEXICON CLASS-A-STEM-3 !!= @CODE@
 
 
 LEXICON CLASS-AHL-STEM !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+INTERR+PAST:%>%^ENDEáa # ;
 +V+INDIR+PAST:%>%^ENDEáan # ;
 +V+REL+EVID:%>%^ENDEáas # ;
@@ -5652,6 +5713,7 @@ LEXICON CLASS-AS-STEM
  :áj CLASS-AS-STEM-3 ;
 
 LEXICON CLASS-AS-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -5825,6 +5887,7 @@ LEXICON CLASS-AS-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>ang'ang'waa%.ang # ;
 
 LEXICON CLASS-AS-STEM-3 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -5841,6 +5904,7 @@ LEXICON CLASS-E.E-STEM
 
 
 LEXICON CLASS-E.E-STEM-2 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+DIR+PAST:%>gán # ;
 +V+INTERR+PRES+HAB:%>gáng # ;
 +V+PRES+HAB:%>gánggang # ;
@@ -5978,6 +6042,7 @@ LEXICON CLASS-E.E-STEM-2 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-E.E-STEM-3 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -6029,6 +6094,7 @@ LEXICON CLASS-E.EHL-STEM
 !# ;:
 
 LEXICON CLASS-E.EHL-STEM-2 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%>ga # ;
 +V+INTERR+SIMP+PRES:%> # ;
@@ -6195,6 +6261,7 @@ LEXICON CLASS-E.EHL-STEM-2 !!= @CODE@
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 LEXICON CLASS-E.EHL-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -6214,6 +6281,7 @@ LEXICON CLASS-IHL-STEM
  :éel CLASS-IHL-STEM-3 ;
 
 LEXICON CLASS-IHL-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -6382,6 +6450,7 @@ LEXICON CLASS-IHL-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>gáng'ang'waa%.ang # ;
 
 LEXICON CLASS-IHL-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -6402,6 +6471,7 @@ LEXICON CLASS-IIHL-STEM
 
 
 LEXICON CLASS-IIHL-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -6570,6 +6640,7 @@ LEXICON CLASS-IIHL-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>gáng'ang'waa%.ang # ;
 
 LEXICON CLASS-IIHL-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:aa # ;
 +V+INDIR+PAST:aan # ;
 +V+REL+EVID:aas # ;
@@ -6589,6 +6660,7 @@ LEXICON CLASS-IS-STEM
  :ij CLASS-IS-STEM-3 ;
 
 LEXICON CLASS-IS-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -6762,6 +6834,7 @@ LEXICON CLASS-IS-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>ang'ang'waa%.ang # ;
 
 LEXICON CLASS-IS-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -6776,6 +6849,7 @@ LEXICON CLASS-UHL-STEM
  :wáal CLASS-UHL-STEM-3 ;
  
 LEXICON CLASS-UHL-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -6944,6 +7018,7 @@ LEXICON CLASS-UHL-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>gáng'ang'waa%.ang # ;
 
 LEXICON CLASS-UHL-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:aa # ;
 +V+INDIR+PAST:aan # ;
 +V+REL+EVID:aas # ;
@@ -6963,6 +7038,7 @@ LEXICON CLASS-US-STEM
  :wíij CLASS-US-STEM-3 ;
 
 LEXICON CLASS-US-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -7136,6 +7212,7 @@ LEXICON CLASS-US-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>áng'ang'waa%.ang # ;
 
 LEXICON CLASS-US-STEM-3 !!= @CODE@
++V+COND-AUX2:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
@@ -7150,6 +7227,7 @@ LEXICON CLASS-UUHL-STEM
  :wáal CLASS-UUHL-STEM-3 ;
  
 LEXICON CLASS-UUHL-STEM-1 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+SG+IMPV:%> # ;
 +V+INTERR+SIMP+PRES:%> # ;
 +V+REL:%>s # ;
@@ -7318,6 +7396,7 @@ LEXICON CLASS-UUHL-STEM-2 !!= @CODE@
 +V+NEG+3PL+PRES+HAB+NONFACT:%>gáng'ang'waa%.ang # ;
 
 LEXICON CLASS-UUHL-STEM-3 !!= @CODE@
++V+COND-AUX1:%> # ;
 +V+INTERR+PAST:%>áa # ;
 +V+INDIR+PAST:%>áan # ;
 +V+REL+EVID:%>áas # ;
