@@ -23,3 +23,11 @@ tr ' ' '\n' | tr '=' ' '|uhdn|lookup2cg | vislcg3 -g src/syntax/disambiguation.c
 }}}
 
 
+!!!Strategies for disambiguation
+
+Look at common ambiguity patterns
+
+* [Grammar ambiguity|data/grammarambiguity.html]
+* [Word ambiguity|data/wordambiguity.html]
+
+To create similar statics, use the {{sum-cg.pl}} script (write ''sum-cg.pl --help'' in order to get just that.
