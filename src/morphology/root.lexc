@@ -76,6 +76,9 @@ s2 !!= * @CODE@ =
 +Ptcl	    !!= * @CODE@ =
 +COND-AUX1  !!= * @CODE@ = Used before non-ablauting secondary verbs
 +COND-AUX2  !!= * @CODE@ = Used before ablauting secondary verbs
++EXT        !!= * @CODE@ = Extensional suffix -dáal
++CIRCUM     !!= * @CODE@ = Circumambulative suffix -gwáang
+
 
 !! The actual classifiers
 
