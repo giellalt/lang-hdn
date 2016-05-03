@@ -5339,11 +5339,10 @@ LEXICON CLASS-UU-STEM-2  !!= @CODE@
 +V+NEG+VNEAR+FUT:%>áng% k̲asaasdlä'ánggang # ;
 
 LEXICON CLASS-A-STEM
-+V+SG+IMPV:a # ;
-:ä CLASS-A-STEM-2 ;
-:áa CLASS-A-STEM-3 ;
+ :ä CLASS-A-STEM-1 ;
+ :áa CLASS-A-STEM-2 ;
 
-LEXICON CLASS-A-STEM-2  !!= @CODE@
+LEXICON CLASS-A-STEM-1  !!= @CODE@
 +V+COND-AUX1:%> # ;
 +V+DIR+PAST:%>gán # ;
 +V+INTERR+PRES+HAB:%>gáng # ;
@@ -5481,7 +5480,7 @@ LEXICON CLASS-A-STEM-2  !!= @CODE@
 +V+NEG+3PL+RFLX:%>'áng'waa'ahl # ;
 +V+NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
-LEXICON CLASS-A-STEM-3 !!= @CODE@
+LEXICON CLASS-A-STEM-2 !!= @CODE@
 +V+COND-AUX2:%> # ;
 +V+SG+IMPV:%> # ;
 +V+IMM+PRES:%> # ;
@@ -5532,7 +5531,8 @@ LEXICON CLASS-A-STEM-3 !!= @CODE@
 
 
 LEXICON CLASS-AHL-STEM !!= @CODE@
-+V+COND-AUX1:%> # ;
++V+COND-AUX1:%>%^ENDC # ; ! 
++V+COND-AUX2:%>%^ENDE # ; ! 
 +V+INTERR+PAST:%>%^ENDEáa # ;
 +V+INDIR+PAST:%>%^ENDEáan # ;
 +V+REL+EVID:%>%^ENDEáas # ;
