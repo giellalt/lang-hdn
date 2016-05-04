@@ -30,39 +30,25 @@ TRNUMAB ;  !!= # The @CODE@ lexicon (abbrs trans wrt. numberals)
 
 !! !Dividing between abbreviations with and witout final period
 
-LEXICON ab-dot-noun-adj   !!= * __@CODE@__
-ab-dot-noun ;
-ab-dot-adj ;
 
 LEXICON ab-noun   !!= * __@CODE@__
 ab-nodot-noun ;
 ab-dot-noun ;
 
-LEXICON ab-adj   !!= * __@CODE@__
-ab-nodot-adj ;
-ab-dot-adj ;
 
 LEXICON ab-adv   !!= * __@CODE@__
 ab-nodot-adv ;
 ab-dot-adv ;
-
-LEXICON ab-num   !!= * __@CODE@__
-ab-nodot-num ;
-ab-dot-num;
 
 !! !The lexicons that add tags
 
 LEXICON ab-nodot-noun   !!= * __@CODE@__  The bulk
        +N+ABBR:      # ; ! no period, that is.
 
-LEXICON ab-nodot-adj   !!= * __@CODE@__
-+A+ABBR # ; ! no period, that is.
 
 LEXICON ab-nodot-adv   !!= * __@CODE@__
- +Adv+ABBR: # ; ! no period, that is.
+ +ABBR: # ; ! no period, that is.
 
-LEXICON ab-nodot-num   !!= * __@CODE@__
-+Num+ABBR: # ; ! no period, that is.
 
 
 LEXICON ab-dot-noun   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
@@ -74,72 +60,15 @@ LEXICON ab-dot-adj   !!= * __@CODE@__  This is the lexicon for abbrs that must h
 +A+ABBR:%.%> # ;
 
 LEXICON ab-dot-adv   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-+Adv+ABBR:%.%> # ; ! Adv without case.
-
-LEXICON ab-dot-num   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-! +ABBR:%.%> # ;
-+Num+ABBR+Nom:%.%> # ;
-+Num+ABBR+Acc:%.%> # ;
-+Num+ABBR+Gen:%.%> # ;
-
-LEXICON ab-dot-cc   !!= * __@CODE@__
-+CC+ABBR:%.%> # ;
++ABBR:%.%> # ; ! Adv without case.
 
 
 ! Then, as an afterthought, come our two verbs, gč. and vrd.
 
-LEXICON ab-verb   !!= * __@CODE@__  A lexicon for "gč." and perhaps also other abbreviated verbs.
-ab-dot-verb ;
-ab-nodot-verb ;
-ab-dot-IVprfprc ;
 
-LEXICON ab-dot-verb   !!= * __@CODE@__
-+V+ABBR+TV+Imprt:%.%> # ; ! Period.
 
-LEXICON ab-nodot-verb   !!= * __@CODE@__
-+V+ABBR+TV+Imprt:%> # ; ! No period.
-! # ;
 
-! riegádan:
 
-LEXICON ab-dot-IVprfprc   !!= * __@CODE@__
-+V+ABBR+IV+PrfPrc:%.%> # ; ! Period.
-
-LEXICON SYMBOLconnector   !!= * __@CODE@__
-  +Attr+Use/Circ:   # ; ! §
-  +Sg+Nom+Use/Circ:   # ; ! §
-!          +Sg+Gen:   # ; ! §
-!          +Sg+Acc:   # ; ! §
- +Err/Orth+Use/Circ:   SYMBOLsuff ; ! §as
-         +Use/Circ:%: SYMBOLsuff ; ! §:s
- +Err/Orth+Use/Circ:%- SYMBOLsuff ; ! §-as ! Perhaps.
- +Err/Orth+Use/Circ:%' SYMBOLsuff ; ! §'as ! Perhaps.
-
-LEXICON SYMBOLsuff   !!= * __@CODE@__
-!                       # ; ! § 14 (no case on the bare §). Oh, yes. Case.
-         +Sg+Gen:       # ;	! §    (case suffix on the rest, in case of explicit
-         +Sg+Acc:       # ;	!       suffix)
- +Sg+Gen+Err/Orth:a      # ;	! §:a  (case suffix on the rest, in case of explicit
- +Sg+Acc+Err/Orth:a      # ;	!       suffix)
- +Sg+Ill+Err/Orth:ij     # ;
-         +Sg+Ill:i      # ;
-         +Sg+Loc:s      # ;  ! §:s
- +Sg+Loc+Err/Orth:as     # ;  ! §:as
-         +Sg+Com:in     # ;
-            +Ess:n      # ;
-    +Ess+Err/Orth:an     # ;
-         +Pl+Nom:t      # ;
-         +Pl+Gen:id     # ;
-         +Pl+Acc:id     # ;
-         +Pl+Ill:ide    # ;
-         +Pl+Loc:in     # ;
-         +Pl+Com:igujn  # ;
- +Pl+Nom+Err/Orth:at     # ;
- +Pl+Gen+Err/Orth:ajd    # ;
- +Pl+Acc+Err/Orth:ajd    # ;
- +Pl+Ill+Err/Orth:ajde   # ;
- +Pl+Loc+Err/Orth:ajn    # ;
- +Pl+Com+Err/Orth:ajgujn # ;
 
 
 
@@ -150,11 +79,11 @@ LEXICON SYMBOLsuff   !!= * __@CODE@__
 ! -------------------------------------------
 
 LEXICON SYMBOLS   !!= * __@CODE@__ is for iscellaneous abbr symbols
- §+N+ABBR+Use/Circ:§  SYMBOLconnector ; ! §:s
-§§+N+ABBR+Use/Circ:§§ SYMBOLconnector ; !§§:ain
- $+N+ABBR+Use/Circ:$  SYMBOLconnector ; ! $:s
- €+N+ABBR+Use/Circ:€  SYMBOLconnector ; ! €:s
- £+N+ABBR+Use/Circ:£  SYMBOLconnector ; ! £:s
+ §+N+ABBR:§    #  ; ! §:s
+§§+N+ABBR:§§   #  ; !§§:ain
+ $+N+ABBR:$    #  ; ! $:s
+ €+N+ABBR:€    #  ; ! €:s
+ £+N+ABBR:£    #  ; ! £:s
  ®+N+ABBR:® # ;
  ©+N+ABBR:© # ;
 
@@ -169,9 +98,9 @@ LEXICON ITRAB   !!= * __@CODE@__ are intransitive abbreviations, A.S. etc.
 ! in order to account for numbering !
 ! of paragraphs etc. !
 
-1p+Use/Circ:1p ab-noun; ! !
-2p+Use/Circ:2p ab-noun; ! !
-3p+Use/Circ:3p ab-noun; ! !
+1p:1p ab-noun; ! !
+2p:2p ab-noun; ! !
+3p:3p ab-noun; ! !
 
 
 A.L ab-dot-noun ;
@@ -185,17 +114,6 @@ Dep:Dep9 ab-noun ;
 ! at the end of the sentence !
 ! ============================================================ !
 
-LEXICON NOAB   !!= * __@CODE@__ du, gen, jur
-
-!! This class contains homonyms, which are both intransitive
-!! abbreviations and normal words. The abbreviation usage
-!! is less common and thus only the occurences in the middle of
-!! the sentnece (when next word has small letters) can be 
-!! considered as true cases.
-
-du ab-dot-noun ; !dualis
-gen ab-dot-noun ; ! genitiivi
-jur ab-dot-adj ; !juridihkalaš !
 
 
 
@@ -232,7 +150,7 @@ LEXICON TRAB   !!= * __@CODE@__ contains transitive abbreviations
 ! TRAB attributes (St. ...) here called ab and ab-dot or at-ab?
 
 
-1.aman+Use/Circ:1.aman ab-dot-noun; ! !1.amanuensis
+1.aman:1.aman ab-dot-noun; ! !1.amanuensis
 
 ! Here comes the initials
 ! They are found in names etc.
@@ -283,45 +201,6 @@ Z:Z ab-dot-noun;
 Ŋ:Ŋ ab-dot-noun;
 Á:Á ab-dot-noun;
 
-! A-klasse  LOWER-CASE-DOUBLETS
-!A:A ab-nodot-noun;
-!B:B ab-nodot-noun;
-!C:C ab-nodot-noun;
-!D:D ab-nodot-noun;
-!E:E ab-nodot-noun;
-!F:F ab-nodot-noun;
-!G:G ab-nodot-noun;
-!H:H ab-nodot-noun;
-!I:I ab-nodot-noun;
-!J:J ab-nodot-noun;
-!K:K ab-nodot-noun;
-!L:L ab-nodot-noun;
-!M:M ab-nodot-noun;
-!N:N ab-nodot-noun;
-!O:O ab-nodot-noun;
-!P:P ab-nodot-noun;
-!Q:Q ab-nodot-noun;
-!R:R ab-nodot-noun;
-!S:S ab-nodot-noun;
-!T:T ab-nodot-noun;
-!U:U ab-nodot-noun;
-!V:V ab-nodot-noun;
-!W:W ab-nodot-noun;
-!X:X ab-nodot-noun;
-!Y:Y ab-nodot-noun;
-!Z:Z ab-nodot-noun;
-!Æ:Æ ab-nodot-noun;
-!Ø:Ø ab-nodot-noun;
-!Å:Å ab-nodot-noun;
-!Ä:Ä ab-nodot-noun;
-!Ö:Ö ab-nodot-noun;
-!Č:Č ab-nodot-noun;
-!Š:Š ab-nodot-noun;
-!Ž:Ž ab-nodot-noun;
-!Ŧ:Ŧ ab-nodot-noun;
-!Đ:Đ ab-nodot-noun;
-!Ŋ:Ŋ ab-nodot-noun;
-!Á:Á ab-nodot-noun;
 
 ! a-klasse
 ž:ž ab-nodot-noun;
@@ -403,62 +282,4 @@ z:z ab-dot-noun; !
 
 
 
-
-! This set has been moved to acr-sme-lex.txt
-! under LEXICON smallacro!   
-
-! Here comes a set of acronyms, but
-! since they mix small and capital
-! letters, they are listed here, and
-! not generated in acr-sme-lex.txt
-
-!Art ab-nodot-noun ;
-!Bb:Bb9 ab-nodot-noun ;
-!Bbl ab-nodot-noun ; !Bargobirašlávdegoddi
-!DnB:DnB ab-nodot-noun ;
-!Dssn:Dssn9 ab-nodot-noun ;
-!FBb ab-nodot-noun ;
-!FGb ab-nodot-noun ;
-!Flf ab-nodot-noun ;
-!FoU ab-nodot-noun ;
-!Gb ab-nodot-noun ; !Guovddášbellodat
-!Ger ab-dot-noun ;
-!ImO ab-nodot-noun ;
-!Jd ab-nodot-noun ;
-!Ji ab-nodot-noun ;
-!K-ent ab-nodot-noun ; !Kåfjord Entertainment
-!KBb ab-nodot-noun ; !Kárášjoga Bargiidbellodat
-!KoKo ab-nodot-noun ; !Sirkkus KoKo
-!KoKS ab-nodot-noun ;
-!KrÁ ab-nodot-noun ;
-!KáB ab-nodot-noun ;
-!LaW ab-nodot-noun ;
-!LuW ab-nodot-noun ;
-!MiF ab-nodot-noun ; !Musikk i Finnmark
-!Med-fak ab-nodot-noun ;
-!MuVá ab-nodot-noun ;
-!NgL ab-nodot-noun ;
-!NoKTuRNL ab-nodot-noun ;
-!Norfu ab-nodot-noun ;
-!Or ab-nodot-noun ;
-!Rp:Rp9 ab-nodot-noun ;
-!Sf ab-nodot-noun ;
-!SfB ab-nodot-noun ;
-!SfF ab-nodot-noun ;
-!Sfruo ab-nodot-noun ;
-!SMSAm ab-nodot-noun ;
-!StA ab-nodot-noun ;
-!SáB ab-nodot-noun ;
-!SvJT:SvJT9 ab-nodot-noun ;
-!UiB:UiB9 ab-nodot-noun ;
-!UiO ab-nodot-noun ;
-!UiT ab-nodot-noun ;
-!UiTø ab-nodot-noun ;
-!Gwh:Gwh9 ab-nodot-noun ;
-
-LEXICON NUMNOAB   !!= * __@CODE@__ su, dii
-
-
-su ab-dot-adv ; !La stå!
-dii ab-adv ; !diibmu, La stå!
 
