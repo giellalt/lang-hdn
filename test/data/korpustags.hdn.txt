@@ -49,7 +49,7 @@
 % Bias: -|BIAS|CERT|CONT|CTFACT
 % Mood: -|INTERR|INDIR|SIMP|NEAR|VNEAR|IMM|DIR|REL|RES|RFLX|INTS
 % Tense: -|FUT|PAST|PRES|EVID
-% Function: -|HAB
+% Habitive: -|HAB
 % Nonfact: -|NONFACT
 % Impv: -|IMPV
 % Length: -|LONG|SHORT
@@ -133,7 +133,7 @@ IMPV
 
 
 HAB
-#Function
+#Habitive
 
 LONG
 SHORT
