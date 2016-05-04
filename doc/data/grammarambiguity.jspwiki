@@ -1,152 +1,222 @@
 
+
 Homonymy patterns:
 
 {{{
-532: 
- V INTERR SIMP PRES
- V SG IMPV
-
 266: 
- V SG IMPV
- V INTERR SIMP PRES
-
-213: 
- V INTERR PRES HAB
- V SIMP PRES
-
-199: 
  V SIMP PRES
  V INTERR PRES HAB
 
 176: 
- Pron
  V INTERR SIMP PRES
+ Pron
+ V COND-AUX2
+ V COND-AUX1
  V SG IMPV
 
-145: 
+148: 
+ V INTERR PRES HAB
+ V SIMP PRES
+
+142: 
+ Pron
+ V COND-AUX2
+ V COND-AUX1
  V INTERR SIMP PRES
  V SG IMPV
- Pron
-
-145: 
- Pron
- N
 
 125: 
- N
- Pron
+ V COND-AUX1
+ V INTERR SIMP PRES
+ V SG IMPV
 
-79: 
+124: 
+ V INTERR SIMP PRES
+ V COND-AUX1
+ V SG IMPV
+
+109: 
+ V INTERR SIMP PRES
+ V COND-AUX2
+ V COND-AUX1
+ V SG IMPV
+
+100: 
  V SG IMPV
  V INTERR SIMP PRES
+ V COND-AUX1
+
+85: 
+ V SG IMPV
+ V INTERR SIMP PRES
+ V COND-AUX2
+ V COND-AUX1
+
+75: 
+ V INTERR SIMP PRES
+ V COND-AUX2
  Pron
+ V COND-AUX1
+ V SG IMPV
+
+67: 
+ V COND-AUX1
+ V COND-AUX2
+ V INTERR SIMP PRES
+ V SG IMPV
 
 62: 
- CL/Shape CL/sg̲a N Abs
+ V COND-AUX1
  V INTERR SIMP PRES
+ CL/Shape CL/sg̲a N Abs
  V SG IMPV
 
-50: 
+57: 
+ V SG IMPV
+ V COND-AUX1
+ V COND-AUX2
+ V INTERR SIMP PRES
+
+49: 
+ N Indef
+ V SG IMPV
+ V INTERR SIMP PRES
+ N Def
+ V COND-AUX1
+
+48: 
  V SIMP PRES
  V INTERR PRES HAB
  V NONFACT
 
-49: 
- N Def
- V INTERR SIMP PRES
+47: 
+ V IMM PRES
  V SG IMPV
- N Indef
+ V INTERR SIMP PRES
+ V COND-AUX2
 
 45: 
  V SG IMPV
  CL/Shape CL/skáa N Indef
+ V COND-AUX1
+ V COND-AUX2
  V INTERR SIMP PRES
 
 40: 
+ Ptcl
  Po
+
+38: 
+ V SG IMPV
+ V INTERR SIMP PRES
+ V COND-AUX1
+ V COND-AUX2
+
+33: 
+ V SG IMPV
+ V COND-AUX2
+ V COND-AUX1
+ V INTERR SIMP PRES
+ Adv
+
+30: 
+ Adv
  Ptcl
 
-40: 
- V SG IMPV
- V IMM PRES
+27: 
+ V COND-AUX2
+ V COND-AUX1
  V INTERR SIMP PRES
+ V SG IMPV
 
-40: 
+27: 
+ N Def
+ N Indef
+
+24: 
  CL/Shape CL/sg̲a N Indef
  N Indef
 
-36: 
- V IMM PRES
+24: 
  V INTERR SIMP PRES
+ V COND-AUX1
+ V COND-AUX2
  V SG IMPV
-
-35: 
- V SG IMPV
- V INTERR SIMP PRES
- Adv
-
-31: 
- V INTERR SIMP PRES
- Ptcl
- V SG IMPV
-
-30: 
- Ptcl
- Adv
-
-28: 
- V INTERR SIMP PRES
- V IMM PRES
- V SG IMPV
-
-23: 
- N Def
- N Indef
 
 22: 
  V INTERR SIMP PRES
+ V COND-AUX1
  V SG IMPV
  CL/Shape CL/sg̲a N Abs
 
-20: 
- N Indef
- N Def
+21: 
+ V INTERR SIMP PRES
+ V COND-AUX2
+ V IMM PRES
+ V SG IMPV
+
+16: 
+ Ptcl
+ V SG IMPV
+ V INTERR SIMP PRES
+ V COND-AUX1
+ V COND-AUX2
 
 16: 
  N Rfx
  CL/Shape CL/ja N Rfx
 
-13: 
- V NONFACT
- V SIMP PRES
- V INTERR PRES HAB
+16: 
+ V SG IMPV
+ V COND-AUX1
+ V INTERR SIMP PRES
 
-12: 
+15: 
+ V INTERR SIMP PRES
+ V COND-AUX2
+ V COND-AUX1
+ Ptcl
+ V SG IMPV
+
+15: 
+ V COND-AUX2
+ V INTERR SIMP PRES
+ V SG IMPV
+ V IMM PRES
+
+13: 
  Adv
  N Indef
 
 12: 
- V NEG SIMP PRES
- V NEG INTERR PRES HAB
-
-12: 
- Pron
- N Sg Abs
+ V NONFACT
+ V SIMP PRES
+ V INTERR PRES HAB
 
 11: 
- CL/Shape CL/sk'a N Indef
- CL/Shape CL/k̲'íi N Indef
-
-10: 
  V SG IMPV
- V INTERR SIMP PRES
  V IMM PRES
+ V COND-AUX2
+ V INTERR SIMP PRES
+
+11: 
+ V NEG INTERR PRES HAB
+ V NEG SIMP PRES
+
+11: 
+ N Sg Abs
+ Pron
+
+10: 
+ N Indef
+ N Def
 
 10: 
  V INTERR SIMP PRES
+ V COND-AUX1
+ V SG IMPV
  
 
- V SG IMPV
 
 9: 
  N Indef
@@ -154,71 +224,117 @@ Homonymy patterns:
  Po
 
 8: 
- N Def
  Po
+ N Def
  N Indef
 
 8: 
+ V INTERR SIMP PRES
  N Def
+ V COND-AUX1
  N Indef
  V SG IMPV
- V INTERR SIMP PRES
-
-7: 
- V INTERR SIMP PRES
- V SG IMPV
- 
-
-
-7: 
- Po
- V SG IMPV
- V INTERR SIMP PRES
 
 6: 
- N Indef
- N Abs
+ CL/Shape CL/sk'a N Indef
+ CL/Shape CL/k̲'íi N Indef
+
+6: 
+ 
+
+ V SG IMPV
+ V COND-AUX1
+ V INTERR SIMP PRES
+
+5: 
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/sk'a N Indef
 
 5: 
  CL/Shape CL/tl'a N Def
  CL/Shape CL/k̲'íi N Def
 
-4: 
- V INTERR SIMP PRES
+5: 
  V SG IMPV
+ V COND-AUX2
+ V COND-AUX1
+ V INTERR SIMP PRES
+
+5: 
+ V CIRCUM SIMP PRES
+ V CIRCUM INTERR PRES HAB
+
+4: 
+ V SG IMPV
+ V COND-AUX2
+ V COND-AUX1
  Po
+ V INTERR SIMP PRES
+
+4: 
+ N Indef
+ N Abs
+
+3: 
+ V SG IMPV
+ V COND-AUX1
+ V INTERR SIMP PRES
+ Adv
+
+3: 
+ N Indef
+ CL/Human CL/dla N Indef
 
 3: 
  V INTERR SIMP PRES
+ V COND-AUX1
+ V COND-AUX2
  V SG IMPV
  N Sg Abs
 
 3: 
- CL/Shape CL/g̲a N Def
- CL/Shape CL/skáa N Def
- CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/cha N Def
+ CL/Shape CL/k'u N Def
+ CL/Shape CL/tl'a N Def
+
+3: 
+ V SG IMPV
+ N Indef
+ V COND-AUX2
+ V COND-AUX1
+ V INTERR SIMP PRES
+
+3: 
+ V NEG SIMP PRES
+ V NEG INTERR PRES HAB
 
 3: 
  N Indef
  CL/Shape CL/hlga N Indef
 
-3: 
- V INTERR SIMP PRES
- V SG IMPV
+2: 
+ CL/Shape CL/g̲a N Def
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/skáa N Def
+
+2: 
+ N Abs
  N Indef
 
 2: 
- CL/Shape CL/g̲a N Indef
- CL/Shape CL/k̲'íi N Indef
- CL/Shape CL/skáa N Indef
-
-2: 
- CL/Shape CL/k'u N Def
- CL/Shape CL/cha N Def
- CL/Shape CL/tl'a N Def
  CL/Shape CL/cha N Indef
+ CL/Shape CL/cha N Def
+ CL/Shape CL/k'u N Def
  CL/Shape CL/tl'a N Indef
  CL/Shape CL/k'u N Indef
+ CL/Shape CL/tl'a N Def
+
+2: 
+ CL/Shape CL/g̲a N Indef
+ CL/Shape CL/sg̲a N Indef
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/hlg̲a N Indef
+ CL/Shape CL/skáa N Indef
 
 2: 
  CL/Shape CL/k̲'íi N Indef
@@ -226,118 +342,100 @@ Homonymy patterns:
  CL/Shape CL/k̲'íi N Def
 
 2: 
- CL/Shape CL/sk'a N Indef
- CL/Shape CL/sk'a N Def
- N Sg Abs
+ V EXT SIMP PRES
+ V EXT INTERR PRES HAB
 
 2: 
- CL/Human CL/dla N Indef
- N Indef
-
-2: 
- CL/Shape CL/skáa N Def
- CL/Shape CL/hlk̲'uhl N Def
-
-2: 
- N Def
- V INTERR SIMP PRES
- N Indef
- V SG IMPV
-
-2: 
- CL/Human CL/dla N Def
- N Def
-
-2: 
- CL/Shape CL/sg̲a N Indef
  CL/Shape CL/g̲a N Indef
- CL/Shape CL/hlg̲a N Indef
  CL/Shape CL/k̲'íi N Indef
  CL/Shape CL/skáa N Indef
+
+2: 
+ CL/Shape CL/hlk̲'uhl N Def
+ CL/Shape CL/skáa N Def
+
+2: 
+ V SG IMPV
+ N Indef
+ V COND-AUX1
+ V INTERR SIMP PRES
+
+2: 
+ V NONFACT
+ V INTERR PRES HAB
+ V SIMP PRES
 
 2: 
  CL/Shape CL/sg̲a N Def
  CL/Shape CL/k̲'íi N Def
- CL/Shape CL/hlg̲a N Def
  CL/Shape CL/skáa N Def
+ CL/Shape CL/hlg̲a N Def
  CL/Shape CL/g̲a N Def
 
 2: 
- CL/Shape CL/tl'a N Def
- CL/Shape CL/k'u N Def
- CL/Shape CL/cha N Def
+ N Def
+ CL/Human CL/dla N Def
 
 2: 
- V NEG INTERR PRES HAB
- V NEG SIMP PRES
-
-1: 
- V SG IMPV
- V INTERR SIMP PRES
- Po
-
-1: 
- N Rfx
+ V INTERR PRES HAB
+ V SIMP PRES
  V NONFACT
 
 1: 
- N Indef
- CL/Shape CL/sk'a N Abs
- N Def
- CL/Shape CL/skáa N Abs
-
-1: 
- Adv
- V INTERR SIMP PRES
- V SG IMPV
-
-1: 
- CL/Shape CL/skáa N Indef
- CL/Shape CL/k̲'íi N Indef
- CL/Shape CL/g̲a N Indef
- CL/Shape CL/hlg̲a N Indef
  CL/Shape CL/sg̲a N Indef
+ CL/Shape CL/hlga N Indef
+ Po
+
+1: 
+ V SG IMPV
+ 
+
+ V COND-AUX1
+ V INTERR SIMP PRES
+
+1: 
+ V EXT INTERR PRES HAB
+ V EXT SIMP PRES
+
+1: 
+ CL/Shape CL/ts'as N Indef
+ N Abs
+ CL/Shape CL/ja N Abs
+
+1: 
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/sk̲'a N Def
+ CL/Shape CL/skáa N Def
+
+1: 
+ CL/Shape CL/sk'a N Indef
+ N Sg Abs
+ CL/Shape CL/sk'a N Def
+
+1: 
+ CL/Shape CL/tl'a N Def
+ CL/Shape CL/k'u N Indef
+ CL/Shape CL/tl'a N Indef
+ CL/Shape CL/k'u N Def
+ CL/Shape CL/cha N Def
+ CL/Shape CL/cha N Indef
 
 1: 
  CL/Shape CL/hlga N Def
  N Def
 
 1: 
- CL/Shape CL/tíi N Abs
- V INTERR SIMP PRES
- V SG IMPV
- N Abs
- N Indef
+ V EXT INTERR SIMP PRES
+ V EXT COND-AUX2
+ V EXT SG IMPV
+ V EXT COND-AUX1
 
 1: 
- CL/Shape CL/ja N Abs
- N Abs
- CL/Shape CL/ts'as N Indef
-
-1: 
- 
-
- V SG IMPV
- V INTERR SIMP PRES
-
-1: 
- V SG IMPV
- N Indef
- V INTERR SIMP PRES
-
-1: 
- CL/Shape CL/sk̲'a N Indef
  CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/hlg̲a N Indef
  CL/Shape CL/skáa N Indef
-
-1: 
- CL/Shape CL/hlk̲'uhl N Def
- CL/Shape CL/skáa N Def
-
-1: 
- CL/Shape CL/cha N Def
- CL/Shape CL/k'u N Def
- CL/Shape CL/tl'a N Def
+ CL/Shape CL/g̲a N Indef
+ CL/Shape CL/sg̲a N Indef
 
 1: 
  CL/Shape CL/sg̲a N Def
@@ -346,70 +444,132 @@ Homonymy patterns:
 
 1: 
  V NONFACT
- V INTERR PRES HAB
- V SIMP PRES
-
-1: 
- N Indef
- Adv
-
-1: 
- CL/Shape CL/tl'a N Indef
- CL/Shape CL/cha N Indef
- CL/Shape CL/k'u N Indef
- CL/Shape CL/tl'a N Def
- CL/Shape CL/k'u N Def
- CL/Shape CL/cha N Def
-
-1: 
- CL/Shape CL/k̲'íi N Def
- CL/Shape CL/tl'a N Def
- CL/Shape CL/g̲a N Def
-
-1: 
- CL/Shape CL/hlga N Indef
- Po
- CL/Shape CL/sg̲a N Indef
-
-1: 
- V NONFACT
  N Rfx
 
 1: 
- CL/Shape CL/k̲'íi N Indef
+ V SG IMPV
  N Indef
- CL/Shape CL/k̲'a N Indef
- CL/Shape CL/k̲'íi N Def
- CL/Shape CL/g̲a N Def
- N Abs
- CL/Shape CL/k̲'a N Def
- CL/Shape CL/k̲'íi N Abs
- CL/Shape CL/g̲a N Indef
+ V COND-AUX1
  N Def
+ V INTERR SIMP PRES
+
+1: 
+ N Indef
+ N Abs
+ CL/Shape CL/g̲a N Def
+ CL/Shape CL/k̲'íi N Abs
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/g̲a N Indef
+ CL/Shape CL/k̲'a N Indef
+ CL/Shape CL/k̲'íi N Indef
+ N Def
+ CL/Shape CL/k̲'a N Def
+
+1: 
+ N Rfx
+ V NONFACT
 
 1: 
  V INTERR SIMP PRES
- CL/Shape CL/k̲'íi N Indef
+ N Def
+ V COND-AUX1
+ V COND-AUX2
+ N Indef
  V SG IMPV
+
+1: 
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/g̲a N Def
+ CL/Shape CL/tl'a N Def
 
 1: 
  CL/Shape CL/skáa N Def
- CL/Shape CL/sk̲'a N Def
- CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/hlk̲'uhl N Def
 
 1: 
- N Indef
- CL/Human CL/dla N Indef
-
-1: 
+ V COND-AUX2
+ V COND-AUX1
  V INTERR SIMP PRES
- N Indef
+ CL/Shape CL/k̲'íi N Indef
  V SG IMPV
 
 1: 
+ Po
  V INTERR SIMP PRES
+ V COND-AUX2
+ V COND-AUX1
+ V SG IMPV
+
+1: 
+ V SG IMPV
+ V INTERR SIMP PRES
+ Po
+ V COND-AUX1
+ V COND-AUX2
+
+1: 
+ CL/Shape CL/sk'a N Abs
+ CL/Shape CL/skáa N Abs
+ N Indef
+ N Def
+
+1: 
+ CL/Shape CL/k̲'íi N Indef
+ CL/Shape CL/skáa N Indef
+ CL/Shape CL/sk̲'a N Indef
+
+1: 
+ V SG IMPV
+ V INTERR SIMP PRES
+ Adv
+ V COND-AUX2
+ V COND-AUX1
+
+1: 
+ V SG IMPV
+ Po
+ V INTERR SIMP PRES
+ V COND-AUX2
+ V COND-AUX1
+
+1: 
+ CL/Shape CL/k̲'íi N Def
+ CL/Shape CL/skáa N Def
+ CL/Shape CL/g̲a N Def
+
+1: 
+ V COND-AUX1
+ V COND-AUX2
+ V INTERR SIMP PRES
+ V SG IMPV
+ N Abs
+ N Indef
+ CL/Shape CL/tíi N Abs
+
+1: 
+ V COND-AUX1
+ Po
+ V INTERR SIMP PRES
+ V SG IMPV
+
+1: 
+ V COND-AUX2
+ V COND-AUX1
+ V INTERR SIMP PRES
+ 
+
+ V SG IMPV
+
+1: 
+ CL/Shape CL/sk'a N Def
+ N Sg Abs
+ CL/Shape CL/sk'a N Indef
+
+1: 
  CL/Shape CL/k̲'íi N Indef
  CL/Shape CL/sk̲'u N Def
  V SG IMPV
  CL/Shape CL/sk̲'u N Indef
+ V COND-AUX1
+ V INTERR SIMP PRES
 }}}
