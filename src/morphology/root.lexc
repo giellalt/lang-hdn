@@ -78,8 +78,15 @@ s2 !!= * @CODE@ =
 +COND-AUX1  !!= * @CODE@ = Used before non-ablauting secondary verbs
 +COND-AUX2  !!= * @CODE@ = Used before ablauting secondary verbs
 +EXT        !!= * @CODE@ = Extensional suffix -dáal
-+CIRCUM     !!= * @CODE@ = Circumambulative suffix -gwáang
-
++CIRCUM     !!= * @CODE@ = Circumambulative singular suffix -gwáang
++STAND-SG   !!= * @CODE@ = Singular standing quasi-infl suffix -gya'áng
++STAND-PL   !!= * @CODE@ = Plural standing quasi-infl suffix -gya'áang
++ORDER      !!= * @CODE@ = Quasi-infl suffix -hahl "tell to V"
++INCEP      !!= * @CODE@ = Quasi-infl suffix -hid "start to V"
++ALMOST     !!= * @CODE@ = Quasi-infl suffix -sgä "almost V"
++NOCTURN    !!= * @CODE@ = Quasi-infl suffix -'uhla "V all night"
++SIT-SG     !!= * @CODE@ = Quasi-infl suffix -'wä "V sitting (sg)"
++SIT-PL     !!= * @CODE@ = Quasi-infl suffix -'wa'áang "V sitting (pl)"
 
 !! The actual classifiers
 

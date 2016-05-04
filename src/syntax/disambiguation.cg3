@@ -27,6 +27,7 @@ DELIMITERS = "<.>" "<!>" "<?>" "<¶>";
 LIST BOS = (>>>) (<s>); 
 LIST EOS = (<<<) (</s>); # vislcg and CG-2 together.
 
+LIST WORD = V N Pron Ptcl ? ;
 LIST V = V ;	 
 LIST N = N ;	     
 LIST Pron = Pron ;
@@ -62,6 +63,14 @@ LIST Def = Def ;
 LIST Indef = Indef ; 
 LIST Rfx = Rfx ;
 LIST Abs = Abs ;
+LIST Ptcl = Ptcl ;
+LIST No-Subject = "kíng" "t'aawad" ;
+LIST Active-Subject = "xyáahl" "dlán" "k̲íng" ;
+LIST Passive-Subject = "k̲'íisgad" "st'i" ; 
+LIST IMPV-FOC = "hl" "hlaa" ;
+LIST SUBJ = N Pron ;
+LIST AUX = ("'láa" V) ;
+LIST COND-AUX1 = COND-AUX1 ;
 
 LIST CHA = ("cha«.*"r) ; # cha«dáal
 LIST DLA = ("dla«.*"r) ; # dla«dáal
@@ -71,6 +80,7 @@ LIST CLtypes = CL/Shape CL/Manner CL/Human CL/Human_Male CL/Human_Female CL/Desc
 
 SET CL-VERB = V + CLtypes ;
 SET NOT-CL-VERB = V - CL-VERB ;
+
 
 ########################                  #########################
 ########################                  #########################
@@ -82,10 +92,23 @@ BEFORE-SECTIONS
 
 SECTION
 
+REMOVE:Only_Hl_at_start_of_sentence Ptcl IF (0 ("<Hl>")) ;
+
+SELECT:Imperative IMPV IF (*0 IMPV-FOC) ;
+  #$ G̲íi hl hlg̲ánggulaa. # "Work on it!"
+
+REMOVE:Active_Subject_Verbs_Require_Subjects Active-Subject IF (NOT *0 SUBJ) ;
+
+SELECT:Non-Final_Primary_Verb_Followed_by_AUX COND-AUX1 IF (1 AUX) ;
+
+REMOVE:False_positive_imperatives IMPV IF (NOT *0 IMPV-FOC) ;
+
+REMOVE:INTERR_must_be_final INTERR IF (1 WORD) ;
+
 REMOVE CL-VERB IF (0 NOT-CL-VERB) ;
 
-REMOVE INTERR IF (-1 Pron)(0 SIMP);
-REMOVE INTERR IF (-1 N)(0 SIMP);
+# REMOVE INTERR IF (-1 Pron)(0 SIMP);
+# REMOVE INTERR IF (-1 N)(0 SIMP);
 
 REMOVE Pron IF (-1 Pron)(0 N + Abs);
 
@@ -135,7 +158,6 @@ LIST @X = @X ;
 
 LIST SYNTAG = (@CNP) (@CVP) (@<SUBJ) (@SUBJ>) (@-FSUBJ>) (@<OBJ) (@OBJ>) (@<IOBJ) (@IOBJ>)  (@>A) (@A<) (@>N)  (@N<)  (@<SPRED) (@SPRED>) (@<OPRED) (@OPRED>) (@+FAUXV) (@+FMAINV) (@-FAUXV) (@-FMAINV) (@ADVL) (@-F<ADVL) (@<ADVL) (@ADVL>) (@P<) (@APP) (@HNOUN) ;
 
-SET SUBJ =  (@<SUBJ) OR (@SUBJ>) OR (@-FSUBJ>) ;
 
 AFTER-SECTIONS
 
