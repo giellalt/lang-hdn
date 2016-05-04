@@ -53,67 +53,25 @@ ab-dot-num;
 !! !The lexicons that add tags
 
 LEXICON ab-nodot-noun   !!= * __@CODE@__  The bulk
-       +N+ABBR+Attr:      # ; ! no period, that is.
-        +N+ABBR+Nom:      # ; ! no period, that is.
-        +N+ABBR+Acc:      # ; ! no period, that is.
-        +N+ABBR+Gen:      # ; ! no period, that is.
-        +N+ABBR+Ill:%>%:i   # ; ! no period, that is.
-        +N+ABBR+Loc:%>%:s   # ; ! no period, that is.
-        +N+ABBR+Com:%>%:in  # ; ! no period, that is.
-        +N+ABBR+Ess:%>%:n   # ; ! no period, that is.
-+N+ABBR+Ill+Err/Orth:%>%:ii  # ; ! no period, that is. !
-+N+ABBR+Loc+Err/Orth:%>%:as  # ; ! no period, that is. !
-+N+ABBR+Com+Err/Orth:%>%:ain # ;! no period, that is. !
-+N+ABBR+Com+Err/Orth:%>%:iin # ;! no period, that is. !
-+N+ABBR+Ess+Err/Orth:%>%:an  # ; ! no period, that is. !
-+N+ABBR: RHyph ;
+       +N+ABBR:      # ; ! no period, that is.
 
 LEXICON ab-nodot-adj   !!= * __@CODE@__
-!+ABBR:%> # ; ! no period, that is.
-+A+ABBR+Attr:%> # ; ! no period, that is.
-+A+ABBR+Nom:%> # ; ! no period, that is.
-+A+ABBR+Acc:%> # ; ! no period, that is.
-+A+ABBR+Gen:%> # ; ! no period, that is.
-+A+ABBR: RHyph ;
++A+ABBR # ; ! no period, that is.
 
 LEXICON ab-nodot-adv   !!= * __@CODE@__
- +Adv+ABBR:%> # ; ! no period, that is.
- +Adv+ABBR+Attr:%> # ; ! no period, that is.
- +Adv+ABBR+Nom:%> # ; ! no period, that is.
- +Adv+ABBR+Acc:%> # ; ! no period, that is.
- +Adv+ABBR+Gen:%> # ; ! no period, that is.
- +Adv+ABBR: RHyph ;
+ +Adv+ABBR: # ; ! no period, that is.
 
 LEXICON ab-nodot-num   !!= * __@CODE@__
-!+ABBR:%> # ; ! no period, that is.
-+Num+ABBR+Nom:%> # ; ! no period, that is.
-+Num+ABBR+Acc:%> # ; ! no period, that is.
-+Num+ABBR+Gen:%> # ; ! no period, that is.
-+Num+ABBR: RHyph ;
++Num+ABBR: # ; ! no period, that is.
 
 
 LEXICON ab-dot-noun   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-       +N+ABBR+Attr:%.%>      # ;
-        +N+ABBR+Nom:%.%>      # ;
-        +N+ABBR+Acc:%.%>      # ;
-        +N+ABBR+Gen:%.%>      # ;
-!        +N+ABBR+Ill:%.%>%:i   # ;
-!        +N+ABBR+Loc:%.%>%:s   # ;
-!        +N+ABBR+Com:%.%>%:in  # ;
-!        +N+ABBR+Ess:%.%>%:n   # ;
-!+N+ABBR+Ill+Err/Orth:%.%>%:ii  # ; !
-!+N+ABBR+Loc+Err/Orth:%.%>%:as  # ; !
-!+N+ABBR+Com+Err/Orth:%.%>%:ain # ; !
-!+N+ABBR+Com+Err/Orth:%.%>%:iin # ; !
-!+N+ABBR+Ess+Err/Orth:%.%>%:an  # ; !
-!+N+ABBR:%. RHyph ;
+       +N+ABBR:%.%>      # ;
+
 
 
 LEXICON ab-dot-adj   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-+A+ABBR+Attr:%.%> # ;
-+A+ABBR+Nom:%.%> # ;
-+A+ABBR+Acc:%.%> # ;
-+A+ABBR+Gen:%.%> # ;
++A+ABBR:%.%> # ;
 
 LEXICON ab-dot-adv   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
 +Adv+ABBR:%.%> # ; ! Adv without case.
@@ -148,40 +106,40 @@ LEXICON ab-dot-IVprfprc   !!= * __@CODE@__
 +V+ABBR+IV+PrfPrc:%.%> # ; ! Period.
 
 LEXICON SYMBOLconnector   !!= * __@CODE@__
-  +Attr+Use/Circ:   K ; ! §
-  +Sg+Nom+Use/Circ:   K ; ! §
-!          +Sg+Gen:   K ; ! §
-!          +Sg+Acc:   K ; ! §
+  +Attr+Use/Circ:   # ; ! §
+  +Sg+Nom+Use/Circ:   # ; ! §
+!          +Sg+Gen:   # ; ! §
+!          +Sg+Acc:   # ; ! §
  +Err/Orth+Use/Circ:   SYMBOLsuff ; ! §as
          +Use/Circ:%: SYMBOLsuff ; ! §:s
  +Err/Orth+Use/Circ:%- SYMBOLsuff ; ! §-as ! Perhaps.
  +Err/Orth+Use/Circ:%' SYMBOLsuff ; ! §'as ! Perhaps.
 
 LEXICON SYMBOLsuff   !!= * __@CODE@__
-!                       K ; ! § 14 (no case on the bare §). Oh, yes. Case.
-         +Sg+Gen:       K ;	! §    (case suffix on the rest, in case of explicit
-         +Sg+Acc:       K ;	!       suffix)
- +Sg+Gen+Err/Orth:a      K ;	! §:a  (case suffix on the rest, in case of explicit
- +Sg+Acc+Err/Orth:a      K ;	!       suffix)
- +Sg+Ill+Err/Orth:ij     K ;
-         +Sg+Ill:i      K ;
-         +Sg+Loc:s      K ;  ! §:s
- +Sg+Loc+Err/Orth:as     K ;  ! §:as
-         +Sg+Com:in     K ;
-            +Ess:n      K ;
-    +Ess+Err/Orth:an     K ;
-         +Pl+Nom:t      K ;
-         +Pl+Gen:id     K ;
-         +Pl+Acc:id     K ;
-         +Pl+Ill:ide    K ;
-         +Pl+Loc:in     K ;
-         +Pl+Com:igujn  K ;
- +Pl+Nom+Err/Orth:at     K ;
- +Pl+Gen+Err/Orth:ajd    K ;
- +Pl+Acc+Err/Orth:ajd    K ;
- +Pl+Ill+Err/Orth:ajde   K ;
- +Pl+Loc+Err/Orth:ajn    K ;
- +Pl+Com+Err/Orth:ajgujn K ;
+!                       # ; ! § 14 (no case on the bare §). Oh, yes. Case.
+         +Sg+Gen:       # ;	! §    (case suffix on the rest, in case of explicit
+         +Sg+Acc:       # ;	!       suffix)
+ +Sg+Gen+Err/Orth:a      # ;	! §:a  (case suffix on the rest, in case of explicit
+ +Sg+Acc+Err/Orth:a      # ;	!       suffix)
+ +Sg+Ill+Err/Orth:ij     # ;
+         +Sg+Ill:i      # ;
+         +Sg+Loc:s      # ;  ! §:s
+ +Sg+Loc+Err/Orth:as     # ;  ! §:as
+         +Sg+Com:in     # ;
+            +Ess:n      # ;
+    +Ess+Err/Orth:an     # ;
+         +Pl+Nom:t      # ;
+         +Pl+Gen:id     # ;
+         +Pl+Acc:id     # ;
+         +Pl+Ill:ide    # ;
+         +Pl+Loc:in     # ;
+         +Pl+Com:igujn  # ;
+ +Pl+Nom+Err/Orth:at     # ;
+ +Pl+Gen+Err/Orth:ajd    # ;
+ +Pl+Acc+Err/Orth:ajd    # ;
+ +Pl+Ill+Err/Orth:ajde   # ;
+ +Pl+Loc+Err/Orth:ajn    # ;
+ +Pl+Com+Err/Orth:ajgujn # ;
 
 
 
