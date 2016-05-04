@@ -36,6 +36,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/particles.lexc \
 			 stems/punctuation.lexc   \
 			 stems/verbs.lexc \
+			 stems/abbreviations.lexc \
 			 stems/numerals.lexc \
 			 affixes/adjectives.lexc 
 #			 affixes/propernouns.lexc \
