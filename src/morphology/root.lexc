@@ -218,7 +218,10 @@ s2 !!= * @CODE@ =
 
 !! Verb prefixes
 
-+MWE
+
+!! Muilti word expressions
+
++MWE  !! tag for generating the MWE for abbr 
 
 !! The TAM flags
 
@@ -343,5 +346,6 @@ LEXICON Root
   Postpositions ;
   Propernouns ;
   Punctuation ;
+  Abbreviation ;
 
 
