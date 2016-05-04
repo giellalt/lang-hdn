@@ -8397,7 +8397,7 @@ tla% yaagaláa CLASS-AA "for S to have been straightened out, unfolded, smoothed
 tla% yahda:tla% yahd CLASS-A-STEM "for S to do C properly" ;
 tla% yahdayáa CLASS-AA "for S to have been done right" ;
 tlaad:tla CLASS-AD-STEM "for S to help X1 (with X2)" ;
-tlaayd:tlaayd CLASS-AYD-STEM "for S to help X1 (with X2)" ;
+tlaayd:tlaayd CLASS-AYD "for S to help X1 (with X2)" ;
 tla'ad:tla' CLASS-AD-STEM "for S to break C (sg) in two by with their hands" ;
 tlaadáa CLASS-AA "for X to be on a pension or receive welfare" ;
 tla'adáa CLASS-AA "for S (sg) to have been broken in two by hand" ;
@@ -9796,12 +9796,12 @@ yáanuwaa CLASS-AA "for there to be sea cucumbers in location" ;
 Yáats'% X̲aat'áa CLASS-AA "for S to be White, be a White person" ;
 yáa%.aa%.aa CLASS-AA "for S (sg) to be a parent of X" ;
 yáa%.alaa%.aa CLASS-AA "for S (pl) to be parents of X" ;
-yuwa:yuw CLASS-A-STEM "for S to have their legs extended or stretched out (in direction)" 
+yuwa:yuw CLASS-A-STEM "for S to have their legs extended or stretched out (in direction)" ;
 sáng:sá CLASS-ANG-STEM "for S to say that they will V" ; !! V2
 déed CLASS-EED "to V right away, before anything else" ; !! V2
 ín: CLASS-IN-STEM "to leave in a single vehicle to go and V" ; !! V2
 k'wa'áydang:k'wa'áyda CLASS-ANG-STEM "to pretend to V" ; !! V2
-k'u% xajáang CLASS-AANG "for S to smoke a cigarette" ;
+k'u% xajáang+MWE:k'u% xajáang CLASS-AANG "for S to smoke a cigarette" ;
 
 
 
