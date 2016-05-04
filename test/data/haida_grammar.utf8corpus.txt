@@ -153,14 +153,14 @@
 
 
 
-# X̲id'adáay xi k̲'áawt'algan .
-# X̲id'adáay xi k̲'áwsdlat'algan .
+# X̲id'adáay xi=k̲'áawt'algan .
+# X̲id'adáay xi=k̲'áwsdlat'algan .
 
-& ^ The bird landed .
-& ^ The birds landed .
+& The bird landed .
+& The birds landed .
 
-# K̲ugíinaay da tl'asdliyáagang .
-# K̲ugíinaay da tl'asuwáagang .
+# K̲ugíinaay da=tl'asdliyáagang .
+# K̲ugíinaay da=tl'asuwáagang .
 
 & The page has been turned .
 & The pages have been turned .
