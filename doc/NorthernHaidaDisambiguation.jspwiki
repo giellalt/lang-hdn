@@ -27,8 +27,7 @@ solutions. Here is a pipeline that gives an analysis.
 Note the = symbol, it is used to mark MWEs in the text.
 
 {{{
-cat test/data/haida_grammar.utf8corpus.txt |grep "#"|cut -c3-|\
-tr ' ' '\n' | tr '=' ' '|uhdn|lookup2cg | vislcg3 -g src/syntax/disambiguation.cg3
+cat test/data/haida_grammar.utf8corpus.txt |grep "#"|cut -c3-|tr ' ' '\n' | tr '=' ' '|uhdn|lookup2cg | vislcg3 -g src/syntax/disambiguation.cg3
 }}}
 
 
@@ -45,8 +44,8 @@ To create similar statics, use the {{sum-cg.pl}} script (write ''sum-cg.pl --hel
 !!!Status
 
 * [Words missing from the analyser|data/missing.haidagrammarcorpus]
-* Grammatical homonymy|grammarambiguity.html
+* [Grammatical homonymy|grammarambiguity.html]
 
 * [Grammar ambiguity| grammarambiguity.html]
 * [The list of missing words| missing.haidagrammarcorpus]
-* |Word sense disambiguation|wordambiguity.html]
+* [Word sense disambiguation|wordambiguity.html]
