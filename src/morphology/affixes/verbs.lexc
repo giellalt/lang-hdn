@@ -20,13 +20,36 @@ LEXICON CLASS-AA !!= @CODE@
 +V:                     CLASS-AA-INFL ;
 +V+EXT:dáal             CLASS-AAL-INFL  ;
 +V+CIRCUM:gwáang        CLASS-AANG-INFL  ;
-! +V+STAND-SG:gya'áng     CLASS-ANG-STEM-1-INFL  ;
-! +V+STAND-SG:gya'áang    CLASS-ANG-STEM-2-INFL  ;
-! +V+STAND-PL:gya'áang    CLASS-AANG-INFL  ;
-! +V+ORDER:hahl           CLASS-AHL-STEM-INFL  ;
-! +V+INCEP:hid            CLASS-ID-STEM-1-INFL  ;
-! +V+INCEP:híid           CLASS-ID-STEM-2-INFL  ;
- 
+! +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
+! +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
+! +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
+! +V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
+! +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
+! +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
+! +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
+! +V+ALMOST:sgáa                 CLASS-A-STEM-2-INFL  ;
+! +V+NOCTURN:'uhlä               CLASS-A-STEM-1-INFL  ;
+! +V+NOCTURN:'uhláa              CLASS-A-STEM-2-INFL  ;
+! +V+SIT-SG:'wä                  CLASS-A-STEM-1-INFL  ;
+! +V+SIT-SG:'wáa                 CLASS-A-STEM-2-INFL  ;
+! +V+SIT-PL:'wa'áang             CLASS-AANG-INFL  ;
+! +V+NOCTURN+DIST:'uhláa'agang   CLASS-ANG-STEM-1-INFL  ;
+! +V+NOCTURN+DIST:'uhláa'agaang  CLASS-ANG-STEM-2-INFL  ;
+! +V+ORDER+DIST:háalagang        CLASS-ANG-STEM-1-INFL  ;
+! +V+ORDER+DIST:háalaagaang      CLASS-ANG-STEM-2-INFL  ;
+! +V+ORDER+INCEP:hahlhid         CLASS-ID-STEM-1-INFL  ;
+! +V+ORDER+INCEP:hahlhíid        CLASS-ID-STEM-2-INFL  ;
+! +V+ORDER+ALMOST:hahlsgä        CLASS-A-STEM-1-INFL  ;
+! +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
+! +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
+! +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
+! +V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
+! +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
+! +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
+! +V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
+
+
+
 
 LEXICON CLASS-AA-INFL
 +COND-AUX1:%> # ;
