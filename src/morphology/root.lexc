@@ -38,8 +38,9 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 s2 !!= * @CODE@ =
 
 !! Haida has these tags for real, says Jordan.
-+V	!!= * @CODE@ =
-+N	    !!= * @CODE@ =
++V	!!= * @CODE@ = Verbs
++N	    !!= * @CODE@ = Nouns
++Prop	    !!= * @CODE@ = Proper nouns
 +NEG	!!= * @CODE@ = Negative
 +3PL	!!= * @CODE@ = 3rd personal definite plural participant
 +INTERR	!!= * @CODE@ = Interrogative

@@ -22,8 +22,9 @@ These are vowel morphophonemes which will lose their accent when they are no lon
  * s2  =
 
 Haida has these tags for real, says Jordan.
- * +V	 =
- * +N	     =
+ * +V	 = Verbs
+ * +N	     = Nouns
+ * +Prop	     = Proper nouns
  * +NEG	 = Negative
  * +3PL	 = 3rd personal definite plural participant
  * +INTERR	 = Interrogative
