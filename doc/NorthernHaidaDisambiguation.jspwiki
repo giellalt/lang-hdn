@@ -31,3 +31,13 @@ Look at common ambiguity patterns
 * [Word ambiguity|data/wordambiguity.html]
 
 To create similar statics, use the {{sum-cg.pl}} script (write ''sum-cg.pl --help'' in order to get just that.
+
+
+!!!Status
+
+* [Words missing from the analyser|data/missing.haidagrammarcorpus]
+* Grammatical homonymy|grammarambiguity.html
+
+* [Grammar ambiguity| grammarambiguity.html]
+* [The list of missing words| missing.haidagrammarcorpus]
+* |Word sense disambiguation|wordambiguity.html]
