@@ -1978,7 +1978,7 @@ mánggii GAAY "monkey" ; ! def mánggiigaay
 múulaa GAAY "sawmill" ; ! def múulgaay, ~múulaagaay
 múulaa:múul GAAY-Short "sawmill" ; ! def múulgaay, ~múulaagaay
 múuluu Indec "donkey" ;
-! na+CL/Shape+CL/tíi:na Common "house, dwelling, building, hut, cabin, shack, shelter, establishment" ; ! def náay
+na+CL/Shape+CL/tíi:n NAAY "house, dwelling, building, hut, cabin, shack, shelter, establishment" ; ! def náay
 na% k̲áahlii% hlk'unáanwaay+CL/Shape+CL/hlk̲'u:na% k̲áahlii% hlk'unáanwaay Indec "scrubbrush" ;
 na% k̲áahlii% k̲ugíinaay Indec "wallpaper" ;
 na% k̲'áasal+CL/Shape+CL/g̲a:na% k̲'áasal Indec "a house site (former or planned)" ;
