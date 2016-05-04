@@ -58,7 +58,10 @@ Haida has these tags for real, says Jordan.
  * +Abs     = Non-reflexive forms of body parts and kinterms
  * +Pron	     =
  * +Ptcl	     =
-
+ * +COND-AUX1   = Used before non-ablauting secondary verbs
+ * +COND-AUX2   = Used before ablauting secondary verbs
+ * +EXT         = Extensional suffix -dáal
+ * +CIRCUM      = Circumambulative suffix -gwáang
 
 
 The actual classifiers
