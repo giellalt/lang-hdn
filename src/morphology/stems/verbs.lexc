@@ -614,9 +614,9 @@ dánts'a:dánts' CLASS-A-STEM "for S to have strong arms for rowing" ;
 dánts'ad:dánts' CLASS-AD-STEM "for S to lace up O [said of shoes or a corset]" ;
 dánts'a%.a:dánts'a%. CLASS-A-STEM "for S to hug C" ;
 dányaang CLASS-AANG "for S to be ill-at-ease about X, be self-conscious about X" ;
-di%.íng:di%. CLASS-ING-STEM "for S to scout, search (for X)" ;
-di%.íng% k̲'agwsdluwa:di%.íng% k̲'agwsdluw CLASS-A-STEM "for S to search all over (for X)" ;
-di%.ínsga:di%.ínsg CLASS-A-STEM "for S to fail to find X" ;
+diyíng:diy CLASS-ING-STEM "for S to scout, search (for X)" ;
+diyíng% k̲'agwsdluwa:diyíng% k̲'agwsdluw CLASS-A-STEM "for S to search all over (for X)" ;
+diyínsga:diyínsg CLASS-A-STEM "for S to fail to find X" ;
 díigud:díig CLASS-UD-STEM "for S to bum food" ;
 díinaa CLASS-AA "for there to be a cave or tunnel in a location" ;
 dlaa% gut'a:dlaa% gut' CLASS-A-STEM "for S to be a rascal, be naughty, be sneaky, be promiscuous" ;
@@ -8397,6 +8397,7 @@ tla% yaagaláa CLASS-AA "for S to have been straightened out, unfolded, smoothed
 tla% yahda:tla% yahd CLASS-A-STEM "for S to do C properly" ;
 tla% yahdayáa CLASS-AA "for S to have been done right" ;
 tlaad:tla CLASS-AD-STEM "for S to help X1 (with X2)" ;
+tlaayd:tlaayd CLASS-AYD-STEM "for S to help X1 (with X2)" ;
 tla'ad:tla' CLASS-AD-STEM "for S to break C (sg) in two by with their hands" ;
 tlaadáa CLASS-AA "for X to be on a pension or receive welfare" ;
 tla'adáa CLASS-AA "for S (sg) to have been broken in two by hand" ;
@@ -8933,16 +8934,16 @@ UNIT% sdáng:UNIT% sdá CLASS-ANG-STEM "for S to be two units long, heavy, etc."
 únt'a%.agang:únt'a%.agá CLASS-ANG-STEM "for S to be running in a big swell (said of waves)" ;
 únuda:únud CLASS-A-STEM "for S (sg) to have their back on the floor or ground (in location) (in direction)" ;
 únwaang CLASS-AANG "for S (pl) to have their backs on the floor or ground (in location) (in direction)" ;
-V% dáalgaa CLASS-AA "to have been V-ed sitting in a row" ;
-V% dlajúudaaga:V% dlajúudaag CLASS-A-STEM "to habitually act like V" ;
-V% gayéedaa CLASS-AA "to have accidentally Ved, to have happened to have Ved" ;
-V% g̲íihldayaa CLASS-AA "be finished having been V'ed" ;
-V% jíingagaa CLASS-AA "to have been V'ed for a long time" ;
-V% k'wa%.áydanda:V% k'wa%.áydand CLASS-A-STEM "pretend to V" ;
-V% 'laayáa CLASS-AA "for S to have been re-Ved, Ved over again" ;
-V% sángyayaa CLASS-AA "have been V'ed all day" ;
-V% tláagangaa CLASS-AA "to have been V'ed first" ;
-V% xatl'iyáa CLASS-AA "have been Ved for a while" ;
+dáalgaa CLASS-AA "to have been V-ed sitting in a row" ; !! V2
+dlajúudaaga:dlajúudaag CLASS-A-STEM "to habitually act like V" ; !! V2
+gayéedaa CLASS-AA "to have accidentally Ved, to have happened to have Ved" ; !! V2
+g̲íihldayaa CLASS-AA "be finished having been V'ed" ; !! V2
+jíingagaa CLASS-AA "to have been V'ed for a long time" ; !! V2
+k'wa%.áydanda:k'wa%.áydand CLASS-A-STEM "pretend to V" ; !! V2
+'laayáa CLASS-AA "for S to have been re-Ved, Ved over again" ; !! V2
+sángyayaa CLASS-AA "have been V'ed all day" ; !! V2
+tláagangaa CLASS-AA "to have been V'ed first" ; !! V2
+xatl'iyáa CLASS-AA "have been Ved for a while" ; !! V2
 'wa% k̲a'án%.gwaa CLASS-AA "for S to kill themselves, commit suicide out of spite" ;
 waadée CLASS-EE "for S to spin around in one spot [said of a child]" ;
 'wagä% 'la'áaygaa CLASS-AA "for S to be the host of a doing" ;
@@ -9795,4 +9796,12 @@ yáanuwaa CLASS-AA "for there to be sea cucumbers in location" ;
 Yáats'% X̲aat'áa CLASS-AA "for S to be White, be a White person" ;
 yáa%.aa%.aa CLASS-AA "for S (sg) to be a parent of X" ;
 yáa%.alaa%.aa CLASS-AA "for S (pl) to be parents of X" ;
-yuwa:yuw CLASS-A-STEM "for S to have their legs extended or stretched out (in direction)" ;
+yuwa:yuw CLASS-A-STEM "for S to have their legs extended or stretched out (in direction)" 
+sáng:sá CLASS-ANG-STEM "for S to say that they will V" ; !! V2
+déed CLASS-EED "to V right away, before anything else" ; !! V2
+ín: CLASS-IN-STEM "to leave in a single vehicle to go and V" ; !! V2
+k'wa'áydang:k'wa'áyda CLASS-ANG-STEM "to pretend to V" ; !! V2
+k'u% xajáang CLASS-AANG "for S to smoke a cigarette" ;
+
+
+
