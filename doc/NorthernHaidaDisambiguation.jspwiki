@@ -9,6 +9,15 @@ This file gives an nverview of some still ad hoc solutions for disambiguation.
   sentence initial "# " symbol. They all have a translation in
   English, marked with an initial "&".
 
+!!!Making missinglist
+
+
+{{{
+cat test/data/haida_grammar.utf8corpus.txt |grep "#"|cut -c3-|\
+tr ' ' '\n' | tr '=' ' '|uhdn|grep '?' |cut -f1 | sort |\ 
+uniq -c | sort -nr > doc/data/missing.haidagrammarcorpus}}}
+
+
 !!!How to analyse
 
 Haida differs from the other languuages in not having an adjusted
