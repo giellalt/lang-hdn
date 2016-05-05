@@ -73,8 +73,15 @@ Haida has these tags for real, says Jordan.
  * +COND-AUX1   = Used before non-ablauting secondary verbs
  * +COND-AUX2   = Used before ablauting secondary verbs
  * +EXT         = Extensional suffix -dáal
- * +CIRCUM      = Circumambulative suffix -gwáang
-
+ * +CIRCUM      = Circumambulative singular suffix -gwáang
+ * +STAND-SG    = Singular standing quasi-infl suffix -gya'áng
+ * +STAND-PL    = Plural standing quasi-infl suffix -gya'áang
+ * +ORDER       = Quasi-infl suffix -hahl "tell to V"
+ * +INCEP       = Quasi-infl suffix -hid "start to V"
+ * +ALMOST      = Quasi-infl suffix -sgä "almost V"
+ * +NOCTURN     = Quasi-infl suffix -'uhla "V all night"
+ * +SIT-SG      = Quasi-infl suffix -'wä "V sitting (sg)"
+ * +SIT-PL      = Quasi-infl suffix -'wa'áang "V sitting (pl)"
 
 The actual classifiers
 
@@ -202,6 +209,9 @@ The verbs can have the following morphological features:
 Verb prefixes
 
 
+Muilti word expressions
+
+tag for generating the MWE for abbr 
 
 The TAM flags
 
@@ -291,6 +301,9 @@ word classes, or optionally from prefixes:
 Northern Haida verb affixes                       
 
  LEXICON CLASS-AA 
+
+
+
 
 
  LEXICON CLASS-AAL 
@@ -466,6 +479,15 @@ Northern Haida verb affixes
  LEXICON CLASS-A-STEM-2-INFL 
 
 
+ LEXICON CLASS-A.A-STEM 
+
+ LEXICON CLASS-A.A-STEM-1-INFL  
+
+ LEXICON CLASS-A.A-STEM-2-INFL 
+
+
+
+
 
  LEXICON CLASS-AHL-STEM 
 
@@ -602,3 +624,24 @@ Northern Haida verb stems
  LEXICON Classifier_Verbstems  
 
  LEXICON Verbs 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
+
+
