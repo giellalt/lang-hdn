@@ -83,6 +83,37 @@ Haida has these tags for real, says Jordan.
  * +SIT-SG      = Quasi-infl suffix -'wä "V sitting (sg)"
  * +SIT-PL      = Quasi-infl suffix -'wa'áang "V sitting (pl)"
 
+Valency Tags
+
+ * +V0	       = Environmental verbs (no subject) [0]
+ * +VI	       = Impersonal Descriptive verbs [Si]
+ * +VA	       = Active Descriptive verbs [Sa]
+ * +VP	       = Passive Descriptive verbs [Sp]
+ * +VAO       = Active Dynamic verbs [Sa] [O]
+ * +VAOR      = Active Dynamic Reflexive verbs [Sa] [Or]
+ * +VPO       = Passive Dynamic verbs [Sp] [O]
+ * +VIO       = Impersonal Dynamic verbs [Si] [O]
+ * +VAC       = Active Causative verbs [Sa] [C]
+ * +VACR      = Active Causative Reflexive verbs [Sa] [Cr]
+ * +VPC       = Passive Causative verbs [Sp] [C]
+ * +VIC       = Impersonal Causative verbs [Si] [C]
+ * +VACO      = Active Transcausative verbs [Sa] [C] [O]
+ * +V0-X	   = Extended Environmental verbs (no subject) [0] [X]
+ * +VI-X	   = Extended Impersonal Descriptive verbs [Si] [X]
+ * +VA-X	   = Extended Active Descriptive verbs [Sa] [X]
+ * +VP-X	   = Extended Passive Descriptive verbs [Sp] [X]
+ * +VAO-X     = Extended Active Dynamic verbs [Sa] [O] [X]
+ * +VAOR-X    = Extended Active Dynamic Reflexive verbs [Sa] [Or] [X]
+ * +VPO-X     = Extended Passive Dynamic verbs [Sp] [O] [X]
+ * +VIO-X     = Extended Impersonal Dynamic verbs [Si] [O] [X]
+ * +VAC-X     = Extended Active Causative verbs [Sa] [C] [X]
+ * +VACR-X    = Extended Active Causative Reflexive verbs [Sa] [Cr] [X]
+ * +VPC-X     = Extended Passive Causative verbs [Sp] [C] [X]
+ * +VIC-X     = Extended Impersonal Causative verbs [Si] [C] [X]
+ * +VACO-X    = Extended Active Transcausative verbs [Sa] [C] [O] [X]
+
+
+
 The actual classifiers
 
  * +CL/dla  =
@@ -359,14 +390,14 @@ Northern Haida verb affixes
  LEXICON CLASS-U-INFL 
 
 
- LEXICON CLASS-AAHL-STEM 
+ LEXICON CLASS-AAHL 
 
 
 
  LEXICON CLASS-AAHL-STEM-2-INFL 
 
 
- LEXICON CLASS-AD-STEM 
+ LEXICON CLASS-AD 
 
 
  LEXICON CLASS-AD-STEM-1-INFL 
@@ -374,7 +405,7 @@ Northern Haida verb affixes
  LEXICON CLASS-AD-STEM-2-INFL 
 
 
- LEXICON CLASS-AL-STEM 
+ LEXICON CLASS-AL 
 
 
  LEXICON CLASS-AL-STEM-1-INFL 
@@ -382,20 +413,20 @@ Northern Haida verb affixes
  LEXICON CLASS-AL-STEM-2-INFL 
 
 
- LEXICON CLASS-AN-STEM 
+ LEXICON CLASS-AN 
 
  LEXICON CLASS-AN-STEM-1-INFL 
 
  LEXICON CLASS-AN-STEM-2-INFL 
 
- LEXICON CLASS-ANG-STEM 
+ LEXICON CLASS-ANG 
 
 
  LEXICON CLASS-ANG-STEM-1-INFL 
 
  LEXICON CLASS-ANG-STEM-2-INFL 
 
- LEXICON CLASS-AW-STEM 
+ LEXICON CLASS-AW 
 
 
  LEXICON CLASS-AW-STEM-1-INFL 
@@ -403,20 +434,20 @@ Northern Haida verb affixes
  LEXICON CLASS-AW-STEM-2-INFL 
 
 
- LEXICON CLASS-AY-STEM 
+ LEXICON CLASS-AY 
 
  LEXICON CLASS-AY-STEM-1-INFL 
 
  LEXICON CLASS-AY-STEM-2-INFL 
 
 
- LEXICON CLASS-EEHL-STEM 
+ LEXICON CLASS-EEHL 
 
  LEXICON CLASS-EEHL-STEM-1-INFL 
 
  LEXICON CLASS-EEHL-STEM-2-INFL 
 
- LEXICON CLASS-ID-STEM 
+ LEXICON CLASS-ID 
 
 
  LEXICON CLASS-ID-STEM-1-INFL 
@@ -424,62 +455,62 @@ Northern Haida verb affixes
  LEXICON CLASS-ID-STEM-2-INFL 
 
 
- LEXICON CLASS-II-STEM 
+ LEXICON CLASS-II 
 
  LEXICON CLASS-II-STEM-1-INFL 
 
  LEXICON CLASS-II-STEM-2-INFL 
 
- LEXICON CLASS-IN-STEM 
+ LEXICON CLASS-IN 
 
  LEXICON CLASS-IN-STEM-1-INFL 
 
  LEXICON CLASS-IN-STEM-2-INFL 
 
 
- LEXICON CLASS-ING-STEM 
+ LEXICON CLASS-ING 
 
  LEXICON CLASS-ING-STEM-1-INFL 
 
  LEXICON CLASS-ING-STEM-2-INFL 
 
 
- LEXICON CLASS-UD-STEM 
+ LEXICON CLASS-UD 
 
  LEXICON CLASS-UD-STEM-1-INFL 
 
  LEXICON CLASS-UD-STEM-2-INFL 
 
 
- LEXICON CLASS-UN-STEM 
+ LEXICON CLASS-UN 
 
  LEXICON CLASS-UN-STEM-1-INFL 
 
  LEXICON CLASS-UN-STEM-2-INFL 
 
 
- LEXICON CLASS-UNG-STEM 
+ LEXICON CLASS-UNG 
 
  LEXICON CLASS-UNG-STEM-1-INFL 
 
  LEXICON CLASS-UNG-STEM-2-INFL 
 
 
- LEXICON CLASS-UU-STEM 
+ LEXICON CLASS-UU 
 
  LEXICON CLASS-UU-STEM-1-INFL   
 
  LEXICON CLASS-UU-STEM-2-INFL  
 
 
- LEXICON CLASS-A-STEM 
+ LEXICON CLASS-A 
 
  LEXICON CLASS-A-STEM-1-INFL  
 
  LEXICON CLASS-A-STEM-2-INFL 
 
 
- LEXICON CLASS-A.A-STEM 
+ LEXICON CLASS-A.A 
 
  LEXICON CLASS-A.A-STEM-1-INFL  
 
@@ -490,13 +521,13 @@ Northern Haida verb affixes
 
 
 
- LEXICON CLASS-AHL-STEM 
+ LEXICON CLASS-AHL 
 
 
- LEXICON CLASS-AHL-STEM-INFL 
+ LEXICON CLASS-AHL-INFL 
 
 
- LEXICON CLASS-AS-STEM 
+ LEXICON CLASS-AS 
 
  LEXICON CLASS-AS-STEM-1-INFL 
 
@@ -505,14 +536,14 @@ Northern Haida verb affixes
  LEXICON CLASS-AS-STEM-3-INFL 
 
 
- LEXICON CLASS-E.E-STEM 
+ LEXICON CLASS-E.E 
 
  LEXICON CLASS-E.E-STEM-1-INFL 
 
  LEXICON CLASS-E.E-STEM-2-INFL 
 
 
- LEXICON CLASS-E.EHL-STEM 
+ LEXICON CLASS-E.EHL 
 
  !LEXICON CLASS-E.EHL-STEM-1 
 
@@ -521,7 +552,7 @@ Northern Haida verb affixes
  LEXICON CLASS-E.EHL-STEM-2-INFL 
 
 
- LEXICON CLASS-IHL-STEM 
+ LEXICON CLASS-IHL 
 
  LEXICON CLASS-IHL-STEM-1-INFL 
 
@@ -530,7 +561,7 @@ Northern Haida verb affixes
  LEXICON CLASS-IHL-STEM-3-INFL 
 
 
- LEXICON CLASS-IIHL-STEM 
+ LEXICON CLASS-IIHL 
 
  LEXICON CLASS-IIHL-STEM-1-INFL 
 
@@ -539,7 +570,7 @@ Northern Haida verb affixes
  LEXICON CLASS-IIHL-STEM-3-INFL 
 
 
- LEXICON CLASS-IS-STEM 
+ LEXICON CLASS-IS 
 
  LEXICON CLASS-IS-STEM-1-INFL 
 
@@ -548,7 +579,7 @@ Northern Haida verb affixes
  LEXICON CLASS-IS-STEM-3-INFL 
 
 
- LEXICON CLASS-UHL-STEM 
+ LEXICON CLASS-UHL 
 
  LEXICON CLASS-UHL-STEM-1-INFL 
 
@@ -557,7 +588,7 @@ Northern Haida verb affixes
  LEXICON CLASS-UHL-STEM-3-INFL 
 
 
- LEXICON CLASS-US-STEM 
+ LEXICON CLASS-US 
 
  LEXICON CLASS-US-STEM-1-INFL 
 
@@ -566,7 +597,7 @@ Northern Haida verb affixes
  LEXICON CLASS-US-STEM-3-INFL 
 
 
- LEXICON CLASS-UUHL-STEM 
+ LEXICON CLASS-UUHL 
 
  LEXICON CLASS-UUHL-STEM-1-INFL 
 
