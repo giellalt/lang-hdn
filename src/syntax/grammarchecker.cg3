@@ -79,12 +79,14 @@ SET NOT-CL-VERB = V - CL-VERB ;
 
 SECTION
 
-MAP (@inc_CL) TARGET CL-VERB IF (NOT 0 CHA LINK *0 N + CL/cha) ;
-MAP (@inc_CL) TARGET CL-VERB IF (NOT 0 DLA LINK *0 N + CL/dla) ;
+MAP (@incorrect_CL) TARGET CL-VERB IF (NOT 0 CHA LINK *0 N + CL/cha) ;
+MAP (@incorrect_CL) TARGET CL-VERB IF (NOT 0 DLA LINK *0 N + CL/dla) ;
 
 # for testing:
 # chíin chagáng
 # gwáahl dlagáng
+# gwáahl chagáng
+# chíin dlagáng
 
 
 
