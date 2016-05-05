@@ -4,6 +4,9 @@ Northern Haida verb affixes
  LEXICON CLASS-AA 
 
 
+
+
+
  LEXICON CLASS-AAL 
 
  LEXICON CLASS-AAL-INFL 
@@ -175,6 +178,15 @@ Northern Haida verb affixes
  LEXICON CLASS-A-STEM-1-INFL  
 
  LEXICON CLASS-A-STEM-2-INFL 
+
+
+ LEXICON CLASS-A.A-STEM 
+
+ LEXICON CLASS-A.A-STEM-1-INFL  
+
+ LEXICON CLASS-A.A-STEM-2-INFL 
+
+
 
 
 
