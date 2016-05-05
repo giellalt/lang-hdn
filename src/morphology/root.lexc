@@ -88,6 +88,37 @@ s2 !!= * @CODE@ =
 +SIT-SG     !!= * @CODE@ = Quasi-infl suffix -'wä "V sitting (sg)"
 +SIT-PL     !!= * @CODE@ = Quasi-infl suffix -'wa'áang "V sitting (pl)"
 
+!! Valency Tags
+
++V0	      !!= * @CODE@ = Environmental verbs (no subject) [0]
++VI	      !!= * @CODE@ = Impersonal Descriptive verbs [Si]
++VA	      !!= * @CODE@ = Active Descriptive verbs [Sa]
++VP	      !!= * @CODE@ = Passive Descriptive verbs [Sp]
++VAO      !!= * @CODE@ = Active Dynamic verbs [Sa] [O]
++VAOR     !!= * @CODE@ = Active Dynamic Reflexive verbs [Sa] [Or]
++VPO      !!= * @CODE@ = Passive Dynamic verbs [Sp] [O]
++VIO      !!= * @CODE@ = Impersonal Dynamic verbs [Si] [O]
++VAC      !!= * @CODE@ = Active Causative verbs [Sa] [C]
++VACR     !!= * @CODE@ = Active Causative Reflexive verbs [Sa] [Cr]
++VPC      !!= * @CODE@ = Passive Causative verbs [Sp] [C]
++VIC      !!= * @CODE@ = Impersonal Causative verbs [Si] [C]
++VACO     !!= * @CODE@ = Active Transcausative verbs [Sa] [C] [O]
++V0-X	  !!= * @CODE@ = Extended Environmental verbs (no subject) [0] [X]
++VI-X	  !!= * @CODE@ = Extended Impersonal Descriptive verbs [Si] [X]
++VA-X	  !!= * @CODE@ = Extended Active Descriptive verbs [Sa] [X]
++VP-X	  !!= * @CODE@ = Extended Passive Descriptive verbs [Sp] [X]
++VAO-X    !!= * @CODE@ = Extended Active Dynamic verbs [Sa] [O] [X]
++VAOR-X   !!= * @CODE@ = Extended Active Dynamic Reflexive verbs [Sa] [Or] [X]
++VPO-X    !!= * @CODE@ = Extended Passive Dynamic verbs [Sp] [O] [X]
++VIO-X    !!= * @CODE@ = Extended Impersonal Dynamic verbs [Si] [O] [X]
++VAC-X    !!= * @CODE@ = Extended Active Causative verbs [Sa] [C] [X]
++VACR-X   !!= * @CODE@ = Extended Active Causative Reflexive verbs [Sa] [Cr] [X]
++VPC-X    !!= * @CODE@ = Extended Passive Causative verbs [Sp] [C] [X]
++VIC-X    !!= * @CODE@ = Extended Impersonal Causative verbs [Si] [C] [X]
++VACO-X   !!= * @CODE@ = Extended Active Transcausative verbs [Sa] [C] [O] [X]
+
+
+
 !! The actual classifiers
 
 +CL/dla !!= * @CODE@ =
