@@ -23,7 +23,7 @@ LEXICON CLASS-AA !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -43,10 +43,10 @@ LEXICON CLASS-AA !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-AA-INFL
@@ -236,7 +236,7 @@ LEXICON CLASS-AAL !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -256,10 +256,10 @@ LEXICON CLASS-AAL !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-AAL-INFL !!= @CODE@
@@ -449,7 +449,7 @@ LEXICON CLASS-AAN !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -469,10 +469,10 @@ LEXICON CLASS-AAN !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AAN-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -661,7 +661,7 @@ LEXICON CLASS-AANG !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -681,10 +681,10 @@ LEXICON CLASS-AANG !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AANG-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -873,7 +873,7 @@ LEXICON CLASS-AAW !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -893,10 +893,10 @@ LEXICON CLASS-AAW !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AAW-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -1085,7 +1085,7 @@ LEXICON CLASS-AAY !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -1105,10 +1105,10 @@ LEXICON CLASS-AAY !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AAY-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -1297,7 +1297,7 @@ LEXICON CLASS-AH !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -1317,10 +1317,10 @@ LEXICON CLASS-AH !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AH-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -1510,7 +1510,7 @@ LEXICON CLASS-AYD !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -1530,10 +1530,10 @@ LEXICON CLASS-AYD !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AYD-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -1723,7 +1723,7 @@ LEXICON CLASS-EE !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -1743,10 +1743,10 @@ LEXICON CLASS-EE !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-EE-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -1935,7 +1935,7 @@ LEXICON CLASS-EED !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -1955,10 +1955,10 @@ LEXICON CLASS-EED !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-EED-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -2148,7 +2148,7 @@ LEXICON CLASS-I !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -2168,10 +2168,10 @@ LEXICON CLASS-I !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-I-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -2361,7 +2361,7 @@ LEXICON CLASS-IID !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -2381,10 +2381,10 @@ LEXICON CLASS-IID !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-IID-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -2574,7 +2574,7 @@ LEXICON CLASS-U !!= @CODE@
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -2594,10 +2594,10 @@ LEXICON CLASS-U !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-U-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -2780,7 +2780,7 @@ LEXICON CLASS-U-INFL !!= @CODE@
 +NEG+3PL+FUT+RFLX+INTERR:%>'áng'waaäseehl # ;
 
 
-LEXICON CLASS-AAHL-STEM !!= @CODE@
+LEXICON CLASS-AAHL !!= @CODE@
 +V:hl               CLASS-AAHL-STEM-1-INFL ;
 +V:l                CLASS-AAHL-STEM-2-INFL ;
 +V+EXT:hldáal       CLASS-AAL-INFL  ;
@@ -2788,7 +2788,7 @@ LEXICON CLASS-AAHL-STEM !!= @CODE@
 +V+STAND-SG:hlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:hlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:hlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:hlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:hlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -2808,10 +2808,10 @@ LEXICON CLASS-AAHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:hlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:hl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:hl'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-AAHL-STEM-1-INFL
@@ -2997,7 +2997,7 @@ LEXICON CLASS-AAHL-STEM-2-INFL !!= @CODE@
 +NEG+3PL+PRES+HAB+NONFACT:%>%^ENDBgáng'ang'waa%.ang # ;
 
 
-LEXICON CLASS-AD-STEM !!= @CODE@
+LEXICON CLASS-AD !!= @CODE@
 +V:ad               CLASS-AD-STEM-1-INFL ;
 +V:íid              CLASS-AD-STEM-2-INFL ;
 +V+EXT:addáal       CLASS-AAL-INFL  ;
@@ -3005,7 +3005,7 @@ LEXICON CLASS-AD-STEM !!= @CODE@
 +V+STAND-SG:adgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:adgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:adgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:adhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:adhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:adhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:adhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:adsgä                  CLASS-A-STEM-1-INFL  ;
@@ -3025,10 +3025,10 @@ LEXICON CLASS-AD-STEM !!= @CODE@
 +V+ORDER+ALMOST:adhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:adhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:adhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:adhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:adhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:adhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:adhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ad'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ad'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-AD-STEM-1-INFL !!= @CODE@
@@ -3214,7 +3214,7 @@ LEXICON CLASS-AD-STEM-2-INFL !!= @CODE@
 +NEG+3PL+PRES+HAB+NONFACT:%>ang'ang'waa%.ang # ;
 
 
-LEXICON CLASS-AL-STEM !!= @CODE@
+LEXICON CLASS-AL !!= @CODE@
 +V:l               CLASS-AL-STEM-1-INFL ;
 +V:al              CLASS-AL-STEM-2-INFL ;
 +V+EXT:ldáal       CLASS-AAL-INFL  ;
@@ -3222,7 +3222,7 @@ LEXICON CLASS-AL-STEM !!= @CODE@
 +V+STAND-SG:lgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:lgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:lgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:lhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:lhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:lhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:lhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:lsgä                  CLASS-A-STEM-1-INFL  ;
@@ -3242,10 +3242,10 @@ LEXICON CLASS-AL-STEM !!= @CODE@
 +V+ORDER+ALMOST:lhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:lhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:lhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:lhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:lhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:lhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:lhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:l'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:l'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-AL-STEM-1-INFL !!= @CODE@
@@ -3431,7 +3431,7 @@ LEXICON CLASS-AL-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-AN-STEM !!= @CODE@
+LEXICON CLASS-AN !!= @CODE@
 +V:n               CLASS-AN-STEM-1-INFL ;
 +V:an              CLASS-AN-STEM-2-INFL ;
 +V+EXT:ndáal       CLASS-AAL-INFL  ;
@@ -3439,7 +3439,7 @@ LEXICON CLASS-AN-STEM !!= @CODE@
 +V+STAND-SG:n-gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:n-gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:n-gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:nhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:nhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:nhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:nhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:nsgä                  CLASS-A-STEM-1-INFL  ;
@@ -3459,10 +3459,10 @@ LEXICON CLASS-AN-STEM !!= @CODE@
 +V+ORDER+ALMOST:nhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:nhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:nhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:nhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:nhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:nhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:nhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:n'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:n'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AN-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -3646,7 +3646,7 @@ LEXICON CLASS-AN-STEM-2-INFL !!= @CODE@
 +CTFACT+PRES:%>áa'ahlanggang # ;
 +RFLX:%>'ahl # ;
 
-LEXICON CLASS-ANG-STEM !!= @CODE@
+LEXICON CLASS-ANG !!= @CODE@
 +V:ng               CLASS-ANG-STEM-1-INFL ;
 +V:ang              CLASS-ANG-STEM-2-INFL ;
 +V+EXT:ngdáal       CLASS-AAL-INFL  ;
@@ -3654,7 +3654,7 @@ LEXICON CLASS-ANG-STEM !!= @CODE@
 +V+STAND-SG:nggya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:nggya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:nggya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:nghahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:nghahl                  CLASS-AHL-INFL  ;
 +V+INCEP:nghid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:nghíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:ngsgä                  CLASS-A-STEM-1-INFL  ;
@@ -3674,10 +3674,10 @@ LEXICON CLASS-ANG-STEM !!= @CODE@
 +V+ORDER+ALMOST:nghahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:nghahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:nghahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:nghidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:nghidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:nghidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:nghidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ng'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ng'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-ANG-STEM-1-INFL !!= @CODE@
@@ -3862,7 +3862,7 @@ LEXICON CLASS-ANG-STEM-2-INFL !!= @CODE@
 +CTFACT+PRES:%>áa'ahlanggang # ;
 +RFLX:%>'ahl # ;
 
-LEXICON CLASS-AW-STEM !!= @CODE@
+LEXICON CLASS-AW !!= @CODE@
 +V:w               CLASS-AW-STEM-1-INFL ;
 +V:aw              CLASS-AW-STEM-2-INFL ;
 +V+EXT:wdáal       CLASS-AAL-INFL  ;
@@ -3870,7 +3870,7 @@ LEXICON CLASS-AW-STEM !!= @CODE@
 +V+STAND-SG:wgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:wgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:wgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:whahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:whahl                  CLASS-AHL-INFL  ;
 +V+INCEP:whid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:whíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:wsgä                  CLASS-A-STEM-1-INFL  ;
@@ -3890,10 +3890,10 @@ LEXICON CLASS-AW-STEM !!= @CODE@
 +V+ORDER+ALMOST:whahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:whahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:whahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:whidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:whidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:whidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:whidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:w'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:w'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-AW-STEM-1-INFL !!= @CODE@
@@ -4079,7 +4079,7 @@ LEXICON CLASS-AW-STEM-2-INFL !!= @CODE@
 +RFLX:'ahl # ;
 
 
-LEXICON CLASS-AY-STEM !!= @CODE@
+LEXICON CLASS-AY !!= @CODE@
 +V:y               CLASS-AY-STEM-1-INFL ;
 +V:ay              CLASS-AY-STEM-2-INFL ;
 +V+EXT:ydáal       CLASS-AAL-INFL  ;
@@ -4087,7 +4087,7 @@ LEXICON CLASS-AY-STEM !!= @CODE@
 +V+STAND-SG:ygya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ygya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ygya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:yhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:yhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:yhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:yhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:ysgä                  CLASS-A-STEM-1-INFL  ;
@@ -4107,10 +4107,10 @@ LEXICON CLASS-AY-STEM !!= @CODE@
 +V+ORDER+ALMOST:yhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:yhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:yhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:yhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:yhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:yhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:yhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:y'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:y'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AY-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -4295,7 +4295,7 @@ LEXICON CLASS-AY-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-EEHL-STEM !!= @CODE@
+LEXICON CLASS-EEHL !!= @CODE@
 +V:eehl              CLASS-EEHL-STEM-1-INFL ;
 +V:éel               CLASS-EEHL-STEM-2-INFL ;
 +V+EXT:éehldaal      CLASS-AAL-INFL  ;
@@ -4303,7 +4303,7 @@ LEXICON CLASS-EEHL-STEM !!= @CODE@
 +V+STAND-SG:éehlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:éehlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:éehlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:éehlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:éehlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:éehlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:éehlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:éehlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -4323,10 +4323,10 @@ LEXICON CLASS-EEHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:éehlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:éehlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:éehlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:éehlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:éehlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:éehlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:éehlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:éehl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:éehl'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-EEHL-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -4510,7 +4510,7 @@ LEXICON CLASS-EEHL-STEM-2-INFL !!= @CODE@
 +NEG+3PL+PRES+HAB:%>gáng'ang'waang # ;
 +NEG+3PL+PRES+HAB+NONFACT:%>gáng'ang'waa%.ang # ;
 
-LEXICON CLASS-ID-STEM !!= @CODE@
+LEXICON CLASS-ID !!= @CODE@
 +V:id               CLASS-ID-STEM-1-INFL ;
 +V:íid              CLASS-ID-STEM-2-INFL ;
 +V+EXT:iddáal       CLASS-AAL-INFL  ;
@@ -4518,7 +4518,7 @@ LEXICON CLASS-ID-STEM !!= @CODE@
 +V+STAND-SG:idgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:idgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:idgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:idhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:idhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:idhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:idhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:idsgä                  CLASS-A-STEM-1-INFL  ;
@@ -4538,10 +4538,10 @@ LEXICON CLASS-ID-STEM !!= @CODE@
 +V+ORDER+ALMOST:idhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:idhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:idhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:idhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:idhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:idhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:idhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:id'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:id'uhlahahl     CLASS-AHL-INFL  ;
 
 
 LEXICON CLASS-ID-STEM-1-INFL !!= @CODE@
@@ -4727,7 +4727,7 @@ LEXICON CLASS-ID-STEM-2-INFL !!= @CODE@
 +NEG+3PL+PRES+HAB+NONFACT:%>ang'ang'waa%.ang # ;
 
 
-LEXICON CLASS-II-STEM !!= @CODE@
+LEXICON CLASS-II !!= @CODE@
 +V:íi               CLASS-II-STEM-1-INFL ;
 +V:áay              CLASS-II-STEM-2-INFL ;
 +V+EXT:íidaal       CLASS-AAL-INFL  ;
@@ -4735,7 +4735,7 @@ LEXICON CLASS-II-STEM !!= @CODE@
 +V+STAND-SG:íigya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:íigya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:íigya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:íihahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:íihahl                  CLASS-AHL-INFL  ;
 +V+INCEP:íihid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:íihíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:íisgä                  CLASS-A-STEM-1-INFL  ;
@@ -4755,10 +4755,10 @@ LEXICON CLASS-II-STEM !!= @CODE@
 +V+ORDER+ALMOST:íihahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:íihahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:íihahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:íihidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:íihidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:íihidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:íihidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:íi'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:íi'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-II-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -4942,7 +4942,7 @@ LEXICON CLASS-II-STEM-2-INFL !!= @CODE@
 +CTFACT+PRES:%>áa'ahlanggang # ;
 +RFLX:%>'ahl # ;
 
-LEXICON CLASS-IN-STEM !!= @CODE@
+LEXICON CLASS-IN !!= @CODE@
 +V:ín                CLASS-IN-STEM-1-INFL ;
 +V:éen               CLASS-IN-STEM-2-INFL ;
 +V+EXT:índaal        CLASS-AAL-INFL  ;
@@ -4950,7 +4950,7 @@ LEXICON CLASS-IN-STEM !!= @CODE@
 +V+STAND-SG:ín-gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ín-gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ín-gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ínhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ínhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ínhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ínhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:ínsgä                  CLASS-A-STEM-1-INFL  ;
@@ -4970,10 +4970,10 @@ LEXICON CLASS-IN-STEM !!= @CODE@
 +V+ORDER+ALMOST:ínhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ínhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ínhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ínhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ínhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ínhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ínhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ín'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ín'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-IN-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -5158,7 +5158,7 @@ LEXICON CLASS-IN-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-ING-STEM !!= @CODE@
+LEXICON CLASS-ING !!= @CODE@
 +V:íng               CLASS-ING-STEM-1-INFL ;
 +V:éeng              CLASS-ING-STEM-2-INFL ;
 +V+EXT:íngdaal       CLASS-AAL-INFL  ;
@@ -5166,7 +5166,7 @@ LEXICON CLASS-ING-STEM !!= @CODE@
 +V+STAND-SG:ínggya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ínggya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ínggya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ínghahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ínghahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ínghid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ínghíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:íngsgä                  CLASS-A-STEM-1-INFL  ;
@@ -5186,10 +5186,10 @@ LEXICON CLASS-ING-STEM !!= @CODE@
 +V+ORDER+ALMOST:ínghahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ínghahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ínghahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ínghidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ínghidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ínghidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ínghidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:íng'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:íng'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-ING-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -5374,7 +5374,7 @@ LEXICON CLASS-ING-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-UD-STEM !!= @CODE@
+LEXICON CLASS-UD !!= @CODE@
 +V:ud                CLASS-UD-STEM-1-INFL ;
 +V:wíid              CLASS-UD-STEM-2-INFL ;
 +V+EXT:uddáal        CLASS-AAL-INFL  ;
@@ -5382,7 +5382,7 @@ LEXICON CLASS-UD-STEM !!= @CODE@
 +V+STAND-SG:udgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:udgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:udgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:udhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:udhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:udhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:udhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:udsgä                  CLASS-A-STEM-1-INFL  ;
@@ -5402,10 +5402,10 @@ LEXICON CLASS-UD-STEM !!= @CODE@
 +V+ORDER+ALMOST:udhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:udhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:udhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:udhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:udhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:udhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:udhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ud'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ud'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-UD-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -5590,7 +5590,7 @@ LEXICON CLASS-UD-STEM-2-INFL !!= @CODE@
 +NEG+3PL+PRES+HAB+NONFACT:%>ang'ang'waa%.ang # ;
 
 
-LEXICON CLASS-UN-STEM !!= @CODE@
+LEXICON CLASS-UN !!= @CODE@
 +V:ún                CLASS-UN-STEM-1-INFL ;
 +V:wáan              CLASS-UN-STEM-2-INFL ;
 +V+EXT:úndaal        CLASS-AAL-INFL  ;
@@ -5598,7 +5598,7 @@ LEXICON CLASS-UN-STEM !!= @CODE@
 +V+STAND-SG:ún-gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ún-gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ún-gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:únhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:únhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:únhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:únhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:únsgä                  CLASS-A-STEM-1-INFL  ;
@@ -5618,10 +5618,10 @@ LEXICON CLASS-UN-STEM !!= @CODE@
 +V+ORDER+ALMOST:únhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:únhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:únhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:únhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:únhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:únhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:únhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ún'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ún'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-UN-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -5806,7 +5806,7 @@ LEXICON CLASS-UN-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-UNG-STEM !!= @CODE@
+LEXICON CLASS-UNG !!= @CODE@
 +V:úng                CLASS-UNG-STEM-1-INFL ;
 +V:wáang              CLASS-UNG-STEM-2-INFL ;
 +V+EXT:úndaal         CLASS-AAL-INFL  ;
@@ -5814,7 +5814,7 @@ LEXICON CLASS-UNG-STEM !!= @CODE@
 +V+STAND-SG:únggya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:únggya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:únggya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:únghahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:únghahl                  CLASS-AHL-INFL  ;
 +V+INCEP:únghid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:únghíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:úngsgä                  CLASS-A-STEM-1-INFL  ;
@@ -5834,10 +5834,10 @@ LEXICON CLASS-UNG-STEM !!= @CODE@
 +V+ORDER+ALMOST:únghahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:únghahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:únghahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:únghidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:únghidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:únghidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:únghidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:úng'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:úng'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-UNG-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -6022,7 +6022,7 @@ LEXICON CLASS-UNG-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-UU-STEM !!= @CODE@
+LEXICON CLASS-UU !!= @CODE@
 +V:úu                CLASS-UU-STEM-1-INFL ;
 +V:áaw               CLASS-UU-STEM-2-INFL ;
 +V+EXT:úudaal        CLASS-AAL-INFL  ;
@@ -6030,7 +6030,7 @@ LEXICON CLASS-UU-STEM !!= @CODE@
 +V+STAND-SG:úugya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:úugya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:úugya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:úuhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:úuhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:úuhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:úuhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:úusgä                  CLASS-A-STEM-1-INFL  ;
@@ -6050,10 +6050,10 @@ LEXICON CLASS-UU-STEM !!= @CODE@
 +V+ORDER+ALMOST:úuhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:úuhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:úuhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:úuhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:úuhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:úuhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:úuhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:úu'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:úu'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-UU-STEM-1-INFL !!= @CODE@  
 +COND-AUX1:%> # ;
@@ -6238,7 +6238,7 @@ LEXICON CLASS-UU-STEM-2-INFL  !!= @CODE@
 +NEG+VNEAR+FUT:%>áng% k̲asaasdlä'ánggang # ;
 
 
-LEXICON CLASS-A-STEM !!= @CODE@
+LEXICON CLASS-A !!= @CODE@
 +V:ä                CLASS-A-STEM-1-INFL ;
 +V:áa               CLASS-A-STEM-2-INFL ;
 +V+EXT:ädáal        CLASS-AAL-INFL  ;
@@ -6246,7 +6246,7 @@ LEXICON CLASS-A-STEM !!= @CODE@
 +V+STAND-SG:ägya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ägya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ägya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ähahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ähahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ähid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ähíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:asgä                  CLASS-A-STEM-1-INFL  ;
@@ -6266,10 +6266,10 @@ LEXICON CLASS-A-STEM !!= @CODE@
 +V+ORDER+ALMOST:ähahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ähahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ähahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ähidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ähidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ähidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ähidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ä'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ä'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-A-STEM-1-INFL  !!= @CODE@
 +COND-AUX1:%> # ;
@@ -6454,7 +6454,7 @@ LEXICON CLASS-A-STEM-2-INFL !!= @CODE@
 +NEG+VNEAR+FUT:%>%.áng% k̲asaasdlä'ánggang # ;
 
 
-LEXICON CLASS-A.A-STEM !!= @CODE@
+LEXICON CLASS-A.A !!= @CODE@
 +V:a                CLASS-A.A-STEM-1-INFL ;
 +V:'áa              CLASS-A.A-STEM-2-INFL ;
 +V+EXT:adáal        CLASS-AAL-INFL  ;
@@ -6462,7 +6462,7 @@ LEXICON CLASS-A.A-STEM !!= @CODE@
 +V+STAND-SG:agya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:agya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:agya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ahahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ahahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ahid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ahíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:asgä                  CLASS-A-STEM-1-INFL  ;
@@ -6482,10 +6482,10 @@ LEXICON CLASS-A.A-STEM !!= @CODE@
 +V+ORDER+ALMOST:ahahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ahahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ahahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ahidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ahidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ahidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ahidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:a'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:a'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-A.A-STEM-1-INFL  !!= @CODE@
 +COND-AUX1:%> # ;
@@ -6679,14 +6679,14 @@ LEXICON CLASS-A.A-STEM-2-INFL !!= @CODE@
 
 ! I think all of these won't work because the stem system is different here
 
-LEXICON CLASS-AHL-STEM !!= @CODE@
-+V                   CLASS-AHL-STEM-INFL ;
+LEXICON CLASS-AHL !!= @CODE@
++V                   CLASS-AHL-INFL ;
 +V+EXT:daal        CLASS-AAL-INFL  ;
 +V+CIRCUM:gwaang   CLASS-AANG-INFL  ;
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:gya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:gya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:hahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:hahl                  CLASS-AHL-INFL  ;
 +V+INCEP:hid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:híid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:sgä                  CLASS-A-STEM-1-INFL  ;
@@ -6706,13 +6706,13 @@ LEXICON CLASS-AHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:hahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:hahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:hidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:hidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:hidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:hidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:'uhlahahl     CLASS-AHL-INFL  ;
 
 
-LEXICON CLASS-AHL-STEM-INFL !!= @CODE@
+LEXICON CLASS-AHL-INFL !!= @CODE@
 +COND-AUX1:%>%^ENDC # ; ! 
 +COND-AUX2:%>%^ENDE # ; ! 
 +INTERR+PAST:%>%^ENDEáa # ;
@@ -6893,7 +6893,7 @@ LEXICON CLASS-AHL-STEM-INFL !!= @CODE@
 +VNEAR+FUT:%>%^ENDHáng% k̲asaasdláang # ; 
 
 
-LEXICON CLASS-AS-STEM !!= @CODE@
+LEXICON CLASS-AS !!= @CODE@
 +V:as               CLASS-AS-STEM-1-INFL ;
 +V:íij              CLASS-AS-STEM-2-INFL ;
 +V:áj               CLASS-AS-STEM-3-INFL ;
@@ -6902,7 +6902,7 @@ LEXICON CLASS-AS-STEM !!= @CODE@
 +V+STAND-SG:asgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:asgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:asgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ashahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ashahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ashid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ashíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:asgä                  CLASS-A-STEM-1-INFL  ;
@@ -6922,10 +6922,10 @@ LEXICON CLASS-AS-STEM !!= @CODE@
 +V+ORDER+ALMOST:ashahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ashahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ashahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ashidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ashidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ashidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ashidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:as'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:as'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-AS-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -7112,15 +7112,15 @@ LEXICON CLASS-AS-STEM-3-INFL !!= @CODE@
 +CTFACT+PRES:%>áa'ahlanggang # ;
 
 
-LEXICON CLASS-E.E-STEM !!= @CODE@
+LEXICON CLASS-E.E !!= @CODE@
 +V:ee               CLASS-E.E-STEM-1-INFL ;
-+V:e'ée            CLASS-E.E-STEM-2-INFL ;
++V:e'ée             CLASS-E.E-STEM-2-INFL ;
 +V+EXT:eedáal       CLASS-AAL-INFL  ;
 +V+CIRCUM:eegwáang  CLASS-AANG-INFL  ;
 +V+STAND-SG:eegya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:eegya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:eegya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:eehahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:eehahl                  CLASS-AHL-INFL  ;
 +V+INCEP:eehid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:eehíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:eesgä                  CLASS-A-STEM-1-INFL  ;
@@ -7140,10 +7140,10 @@ LEXICON CLASS-E.E-STEM !!= @CODE@
 +V+ORDER+ALMOST:eehahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:eehahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:eehahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:eehidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:eehidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:eehidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:eehidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ee'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ee'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-E.E-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -7329,7 +7329,7 @@ LEXICON CLASS-E.E-STEM-2-INFL !!= @CODE@
 +NEG+VNEAR+FUT:%>%.áng% k̲asaasdlä'ánggang # ;
 
 
-LEXICON CLASS-E.EHL-STEM !!= @CODE@
+LEXICON CLASS-E.EHL !!= @CODE@
 +V:ehl                 CLASS-E.EHL-STEM-1-INFL ;
 +V:'éel               CLASS-E.EHL-STEM-2-INFL ;
 +V+EXT:ehldaal       CLASS-AAL-INFL  ;
@@ -7337,7 +7337,7 @@ LEXICON CLASS-E.EHL-STEM !!= @CODE@
 +V+STAND-SG:ehlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ehlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ehlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ehlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ehlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ehlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ehlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:ehlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -7357,10 +7357,10 @@ LEXICON CLASS-E.EHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:ehlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ehlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ehlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ehlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ehlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ehlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ehlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ehl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ehl'uhlahahl     CLASS-AHL-INFL  ;
 
 !LEXICON CLASS-E.EHL-STEM-1 !!= @CODE@
 !# ;:
@@ -7548,7 +7548,7 @@ LEXICON CLASS-E.EHL-STEM-2-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-IHL-STEM !!= @CODE@
+LEXICON CLASS-IHL !!= @CODE@
 +V:ihl                 CLASS-IHL-STEM-1-INFL ;
 +V:íl                  CLASS-IHL-STEM-2-INFL ;
 +V:éel                 CLASS-IHL-STEM-3-INFL ;
@@ -7557,7 +7557,7 @@ LEXICON CLASS-IHL-STEM !!= @CODE@
 +V+STAND-SG:ihlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:ihlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:ihlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ihlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ihlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ihlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ihlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:ihlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -7577,10 +7577,10 @@ LEXICON CLASS-IHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:ihlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ihlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ihlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ihlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ihlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ihlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ihlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:ihl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:ihl'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-IHL-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -7767,7 +7767,7 @@ LEXICON CLASS-IHL-STEM-3-INFL !!= @CODE@
 +RFLX:%>'ahl # ;
 
 
-LEXICON CLASS-IIHL-STEM !!= @CODE@
+LEXICON CLASS-IIHL !!= @CODE@
 +V:íihl                  CLASS-IIHL-STEM-1-INFL ;
 +V:íl                    CLASS-IIHL-STEM-2-INFL ;
 +V:éel                   CLASS-IIHL-STEM-3-INFL ;
@@ -7776,7 +7776,7 @@ LEXICON CLASS-IIHL-STEM !!= @CODE@
 +V+STAND-SG:íihlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:íihlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:íihlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:íihlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:íihlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:íihlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:íihlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:íihlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -7796,10 +7796,10 @@ LEXICON CLASS-IIHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:íihlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:íihlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:íihlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:íihlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:íihlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:íihlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:íihlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:íihl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:íihl'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-IIHL-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -7986,7 +7986,7 @@ LEXICON CLASS-IIHL-STEM-3-INFL !!= @CODE@
 +RFLX:'ahl # ;
 
 
-LEXICON CLASS-IS-STEM !!= @CODE@
+LEXICON CLASS-IS !!= @CODE@
 +V:is                  CLASS-IS-STEM-1-INFL ;
 +V:íij                 CLASS-IS-STEM-2-INFL ;
 +V:ij                  CLASS-IS-STEM-3-INFL ;
@@ -7995,7 +7995,7 @@ LEXICON CLASS-IS-STEM !!= @CODE@
 +V+STAND-SG:isgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:isgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:isgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ishahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ishahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ishid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ishíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:isgä                  CLASS-A-STEM-1-INFL  ;
@@ -8015,10 +8015,10 @@ LEXICON CLASS-IS-STEM !!= @CODE@
 +V+ORDER+ALMOST:ishahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ishahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ishahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ishidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ishidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ishidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ishidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:is'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:is'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-IS-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -8205,7 +8205,7 @@ LEXICON CLASS-IS-STEM-3-INFL !!= @CODE@
 +CTFACT+PRES:%>áa'ahlanggang # ;
 
 
-LEXICON CLASS-UHL-STEM !!= @CODE@
+LEXICON CLASS-UHL !!= @CODE@
 +V:uhl                  CLASS-UHL-STEM-1-INFL ;
 +V:úl                   CLASS-UHL-STEM-2-INFL ;
 +V:wáal                 CLASS-UHL-STEM-3-INFL ;
@@ -8214,7 +8214,7 @@ LEXICON CLASS-UHL-STEM !!= @CODE@
 +V+STAND-SG:uhlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:uhlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:uhlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:uhlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:uhlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:uhlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:uhlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:uhlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -8234,10 +8234,10 @@ LEXICON CLASS-UHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:uhlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:uhlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:uhlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:uhlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:uhlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:uhlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:uhlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:uhl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:uhl'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-UHL-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -8424,7 +8424,7 @@ LEXICON CLASS-UHL-STEM-3-INFL !!= @CODE@
 +RFLX:'ahl # ;
 
 
-LEXICON CLASS-US-STEM !!= @CODE@
+LEXICON CLASS-US !!= @CODE@
 +V:us                  CLASS-US-STEM-1-INFL ;
 +V:uj                  CLASS-US-STEM-2-INFL ;
 +V:wíij                CLASS-US-STEM-3-INFL ;
@@ -8433,7 +8433,7 @@ LEXICON CLASS-US-STEM !!= @CODE@
 +V+STAND-SG:usgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:usgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:usgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:ushahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:ushahl                  CLASS-AHL-INFL  ;
 +V+INCEP:ushid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:ushíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:usgä                  CLASS-A-STEM-1-INFL  ;
@@ -8453,10 +8453,10 @@ LEXICON CLASS-US-STEM !!= @CODE@
 +V+ORDER+ALMOST:ushahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:ushahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:ushahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:ushidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:ushidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:ushidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:ushidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:us'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:us'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-US-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
@@ -8643,7 +8643,7 @@ LEXICON CLASS-US-STEM-3-INFL !!= @CODE@
 +CTFACT+PRES:%>áa'ahlanggang # ;
 
 
-LEXICON CLASS-UUHL-STEM !!= @CODE@
+LEXICON CLASS-UUHL !!= @CODE@
 +V:úuhl                  CLASS-UUHL-STEM-1-INFL ;
 +V:úl                    CLASS-UUHL-STEM-2-INFL ;
 +V:wáal                  CLASS-UUHL-STEM-3-INFL ;
@@ -8652,7 +8652,7 @@ LEXICON CLASS-UUHL-STEM !!= @CODE@
 +V+STAND-SG:úuhlgya'áng            CLASS-ANG-STEM-1-INFL  ;
 +V+STAND-SG:úuhlgya'áang           CLASS-ANG-STEM-2-INFL  ;
 +V+STAND-PL:úuhlgya'áang           CLASS-AANG-INFL  ;
-+V+ORDER:úuhlhahl                  CLASS-AHL-STEM-INFL  ;
++V+ORDER:úuhlhahl                  CLASS-AHL-INFL  ;
 +V+INCEP:úuhlhid                   CLASS-ID-STEM-1-INFL  ;
 +V+INCEP:úuhlhíid                  CLASS-ID-STEM-2-INFL  ;
 +V+ALMOST:úuhlsgä                  CLASS-A-STEM-1-INFL  ;
@@ -8672,10 +8672,10 @@ LEXICON CLASS-UUHL-STEM !!= @CODE@
 +V+ORDER+ALMOST:úuhlhahlsgáa       CLASS-A-STEM-2-INFL  ;
 +V+ORDER+NOCTURN:úuhlhahl'uhlä     CLASS-A-STEM-1-INFL  ;
 +V+ORDER+NOCTURN:úuhlhahl'uhláa    CLASS-A-STEM-2-INFL  ;
-+V+INCEP+ORDER:úuhlhidhahl         CLASS-AHL-STEM-INFL  ;
++V+INCEP+ORDER:úuhlhidhahl         CLASS-AHL-INFL  ;
 +V+INCEP+ALMOST:úuhlhidsgä         CLASS-A-STEM-1-INFL  ;
 +V+INCEP+ALMOST:úuhlhidsgáa        CLASS-A-STEM-2-INFL  ;
-+V+NOCTURN+ORDER:úuhl'uhlahahl     CLASS-AHL-STEM-INFL  ;
++V+NOCTURN+ORDER:úuhl'uhlahahl     CLASS-AHL-INFL  ;
 
 LEXICON CLASS-UUHL-STEM-1-INFL !!= @CODE@
 +COND-AUX1:%> # ;
