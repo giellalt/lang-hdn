@@ -33,11 +33,6 @@ z
 ó
 ú
 í
-à
-è
-ò
-ù
-ì
 g̲
 k̲
 x̲
@@ -59,20 +54,18 @@ x̲
 @@
 
 ## Transition pair specifications:
-a	á	0.6
-e	é	0.6
-o	ó	0.6
-u	ú	0.6
-i	í	0.6
-a	à	0.3
-e	è	0.3
-o	ò	0.3
-u	ù	0.3
-i	ì	0.3
-g	g̲	0.1
-k	k̲	0.1
-x	x̲	0.1
+a	á	-3
+e	é	-3
+o	ó	-3
+u	ú	-3
+i	í	-3
+g	g̲	-5
+k	k̲	-5
+x	x̲	-5
+g̲	g	-5
+k̲	k	-5
+x̲	x	-5
 
 ## Swaps:
-## Change dh into hd with the weight 0.5:
-d,h	h,d	0.5
+## Change dh into hd with the weight -2:
+d,h	h,d	-2
