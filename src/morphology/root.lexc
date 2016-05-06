@@ -77,6 +77,9 @@ s2 !!= * @CODE@ =
 +Ptcl	    !!= * @CODE@ =
 +COND-AUX1  !!= * @CODE@ = Used before non-ablauting secondary verbs
 +COND-AUX2  !!= * @CODE@ = Used before ablauting secondary verbs
+
+!! Quasi-inflectional Tags
+
 +EXT        !!= * @CODE@ = Extensional suffix -dáal
 +CIRCUM     !!= * @CODE@ = Circumambulative singular suffix -gwáang
 +STAND-SG   !!= * @CODE@ = Singular standing quasi-infl suffix -gya'áng
