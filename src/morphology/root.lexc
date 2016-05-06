@@ -316,32 +316,32 @@ s2 !!= * @CODE@ =
 !! Composite UTF-8 characters, i.e. g, k, and x with
 !!underlines, in various forms
 
-! Composed underlined capital letters
-G̲
-K̲
-X̲
-
-! Composed capital letters with macron below
-G̱
-X̱
-Ḵ
-
-! Composed minuscule letters with underline
-g̲
-k̲
-x̲
-
-! Composed minuscule letters with macron below
-g̱
-ḵ
-x̱
-
-! Precomposed underlined characters
-Ḵ
-
-! Accented characters
-á é ó ú í à è ò ù ì
-Á É Ó Ú Í À È Ò Ù Ì
+!! Composed underlined capital letters
+!G̲
+!K̲
+!X̲
+!
+!! Composed capital letters with macron below
+!G̱
+!X̱
+!Ḵ
+!
+!! Composed minuscule letters with underline
+!g̲
+!k̲
+!x̲
+!
+!! Composed minuscule letters with macron below
+!g̱
+!ḵ
+!x̱
+!
+!! Precomposed underlined characters
+!Ḵ ḵ
+!
+!! Accented characters
+!á é ó ú í à è ò ù ì
+!Á É Ó Ú Í À È Ò Ù Ì
 
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
