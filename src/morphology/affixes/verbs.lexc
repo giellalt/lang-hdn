@@ -6680,7 +6680,7 @@ LEXICON CLASS-A.A-STEM-2-INFL !!= @CODE@
 ! I think all of these won't work because the stem system is different here
 
 LEXICON CLASS-AHL !!= @CODE@
-+V                   CLASS-AHL-INFL ;
++V:                CLASS-AHL-INFL ;
 +V+EXT:daal        CLASS-AAL-INFL  ;
 +V+CIRCUM:gwaang   CLASS-AANG-INFL  ;
 +V+STAND-SG:gya'áng            CLASS-ANG-STEM-1-INFL  ;
