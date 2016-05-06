@@ -2562,7 +2562,7 @@ stladáalsgyaan GAAY "dock (plant)" ; ! def stladáalsgyaan-gaay
 stlagáa+CL/Shape+CL/sda:stlag Y-Def "bracelet" ; ! def stlagáay
 stlagáa+CL/Shape+CL/sga:stlag Y-Def "bracelet" ; ! def stlagáay
 stláandlaanw+CL/Shape+CL/g̲a:stláandlaanw Common "wash basin" ; ! def stláandlaanwaay
-stláandlaanw+CL/Shape+CL/k̲'íi Common "soap" ; ! def stláandlaanwaay
+stláandlaanw+CL/Shape+CL/k̲'íi:stláandlaanw Common "soap" ; ! def stláandlaanwaay
 stláang+CL/Shape+CL/x̲a:stláang Indec "a handful" ;
 stláang% gisáaw+CL/Shape+CL/gi:stláang% gisáaw Common "hand towel, bath towel" ; ! def stláang gisáawaay
 stláay% k̲'íits'aad BodyPart "one's own wrist joint" ; ! rfx stláang k̲'íits'aad
@@ -2945,8 +2945,8 @@ tl'ak'áaw+CL/Shape+CL/sk'a:tl'ak'áaw Common "gooseneck barnacle" ; ! def tl'ak
 tl'ak'áaw Common "whetstone, sharpening stone" ; ! def tl'ak'áawaay
 tl'ak'úl+CL/Shape+CL/tl'a:tl'ak'úl BodyPart "one's liver (of mammals and birds)" ; ! rfx tl'ak'uláang
 tl'ak̲'íi'aaw Indec "three-cornered needle used to sew leather" ;
-tl'angaj+CL/Shape+CL/k̲'íi BodyPart "crown of one's head" ; ! rfx tl'angajáang
-tl'angaj+CL/Shape+CL/k̲'íi BodyPart "summit (of a slope, hill, etc.)" ;
+tl'angaj+CL/Shape+CL/k̲'íi:tl'angaj BodyPart "crown of one's head" ; ! rfx tl'angajáang
+tl'angaj+CL/Shape+CL/k̲'íi:tl'angaj BodyPart "summit (of a slope, hill, etc.)" ;
 tl'ats'agáal Indec "unidentified small whale" ;
 tl'ats'áaw Common "planting stick" ; ! def tl'ats'áawaay
 tl'ats'gálgaang Indec "a species of shark" ;
@@ -3173,7 +3173,7 @@ t'áa'un+CL/Shape+CL/t'áw:t'áa'un Common "a bird's (large) feather, plume, qui
 t'áa'un+CL/Shape+CL/t'úu:t'áa'un Common "a bird's (large) feather, plume, quill" ; ! def t'áa'unaay
 t'áa'un+CL/Shape+CL/t'áw:t'áa'un BodyPart "a bird's (large) feather, plume, quill" ; ! rfx t'áa'unang
 t'áa'un+CL/Shape+CL/t'úu:t'áa'un BodyPart "a bird's (large) feather, plume, quill" ; ! def t'áa'unang
-t'ál+CL/Shape+CL/hlk̲'uhl Common "bladder wrack, yellow seaweed, fucuous seaweed" ; ! def t'aláay
+t'ál+CL/Shape+CL/hlk̲'uhl:t'ál Common "bladder wrack, yellow seaweed, fucuous seaweed" ; ! def t'aláay
 t'ál% k̲áw Indec "bladder or float of fucus, seawrack" ;
 ! t'ál% tl'uugwáang+CL/Shape+CL/gu:t'ál% tl'uug Common-WAANG "flounder, various species of sole" ; ! def t'ál tl'uugungáay
 t'ál% x̲a'áa Indec "rotted bladder wrack used as fertilizer" ;
