@@ -74,32 +74,32 @@ Haida has these tags for real, says Jordan.
 
 Valency Tags
 
- * +V0	       = Environmental verbs (no subject) [0]
- * +VI	       = Impersonal Descriptive verbs [Si]
- * +VA	       = Active Descriptive verbs [Sa]
- * +VP	       = Passive Descriptive verbs [Sp]
- * +VAO       = Active Dynamic verbs [Sa] [O]
- * +VAOR      = Active Dynamic Reflexive verbs [Sa] [Or]
- * +VPO       = Passive Dynamic verbs [Sp] [O]
- * +VIO       = Impersonal Dynamic verbs [Si] [O]
- * +VAC       = Active Causative verbs [Sa] [C]
- * +VACR      = Active Causative Reflexive verbs [Sa] [Cr]
- * +VPC       = Passive Causative verbs [Sp] [C]
- * +VIC       = Impersonal Causative verbs [Si] [C]
- * +VACO      = Active Transcausative verbs [Sa] [C] [O]
- * +V0-X	   = Extended Environmental verbs (no subject) [0] [X]
- * +VI-X	   = Extended Impersonal Descriptive verbs [Si] [X]
- * +VA-X	   = Extended Active Descriptive verbs [Sa] [X]
- * +VP-X	   = Extended Passive Descriptive verbs [Sp] [X]
- * +VAO-X     = Extended Active Dynamic verbs [Sa] [O] [X]
- * +VAOR-X    = Extended Active Dynamic Reflexive verbs [Sa] [Or] [X]
- * +VPO-X     = Extended Passive Dynamic verbs [Sp] [O] [X]
- * +VIO-X     = Extended Impersonal Dynamic verbs [Si] [O] [X]
- * +VAC-X     = Extended Active Causative verbs [Sa] [C] [X]
- * +VACR-X    = Extended Active Causative Reflexive verbs [Sa] [Cr] [X]
- * +VPC-X     = Extended Passive Causative verbs [Sp] [C] [X]
- * +VIC-X     = Extended Impersonal Causative verbs [Si] [C] [X]
- * +VACO-X    = Extended Active Transcausative verbs [Sa] [C] [O] [X]
+ * +VAL/0	      = Environmental verbs (no subject) [0]
+ * +VAL/I	      = Impersonal Descriptive verbs [Si]
+ * +VAL/A	      = Active Descriptive verbs [Sa]
+ * +VAL/P	      = Passive Descriptive verbs [Sp]
+ * +VAL/AO       = Active Dynamic verbs [Sa] [O]
+ * +VAL/AOR      = Active Dynamic Reflexive verbs [Sa] [Or]
+ * +VAL/PO       = Passive Dynamic verbs [Sp] [O]
+ * +VAL/IO       = Impersonal Dynamic verbs [Si] [O]
+ * +VAL/AC       = Active Causative verbs [Sa] [C]
+ * +VAL/ACR      = Active Causative Reflexive verbs [Sa] [Cr]
+ * +VAL/PC       = Passive Causative verbs [Sp] [C]
+ * +VAL/IC       = Impersonal Causative verbs [Si] [C]
+ * +VAL/ACO      = Active Transcausative verbs [Sa] [C] [O]
+ * +VAL/0X	      = Extended Environmental verbs (no subject) [0] [X]
+ * +VAL/IX	      = Extended Impersonal Descriptive verbs [Si] [X]
+ * +VAL/AX	      = Extended Active Descriptive verbs [Sa] [X]
+ * +VAL/PX	      = Extended Passive Descriptive verbs [Sp] [X]
+ * +VAL/AOX      = Extended Active Dynamic verbs [Sa] [O] [X]
+ * +VAL/AORX     = Extended Active Dynamic Reflexive verbs [Sa] [Or] [X]
+ * +VAL/POX      = Extended Passive Dynamic verbs [Sp] [O] [X]
+ * +VAL/IOX      = Extended Impersonal Dynamic verbs [Si] [O] [X]
+ * +VAL/ACX      = Extended Active Causative verbs [Sa] [C] [X]
+ * +VAL/ACRX     = Extended Active Causative Reflexive verbs [Sa] [Cr] [X]
+ * +VAL/PCX      = Extended Passive Causative verbs [Sp] [C] [X]
+ * +VAL/ICX      = Extended Impersonal Causative verbs [Si] [C] [X]
+ * +VAL/ACOX     = Extended Active Transcausative verbs [Sa] [C] [O] [X]
 
 
 
@@ -277,11 +277,6 @@ Non-dictionary words can be recognised with:
 
 
 Composite UTF-8 characters, i.e. g, k, and x with
-
-
-
-
-
 
 
 !!Flag diacritics
