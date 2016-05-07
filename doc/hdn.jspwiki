@@ -77,14 +77,14 @@ Quasi-inflectional Tags
 
  * +EXT         = Extensional suffix -dáal
  * +CIRCUM      = Circumambulative singular suffix -gwáang
- * +STAND-SG    = Singular standing quasi-infl suffix -gya'áng
- * +STAND-PL    = Plural standing quasi-infl suffix -gya'áang
+ * +STAND-SG    = Singular standing quasi-infl suffix -gyaʼáng
+ * +STAND-PL    = Plural standing quasi-infl suffix -gyaʼáang
  * +ORDER       = Quasi-infl suffix -hahl "tell to V"
  * +INCEP       = Quasi-infl suffix -hid "start to V"
  * +ALMOST      = Quasi-infl suffix -sgä "almost V"
- * +NOCTURN     = Quasi-infl suffix -'uhla "V all night"
- * +SIT-SG      = Quasi-infl suffix -'wä "V sitting (sg)"
- * +SIT-PL      = Quasi-infl suffix -'wa'áang "V sitting (pl)"
+ * +NOCTURN     = Quasi-infl suffix -ʼuhla "V all night"
+ * +SIT-SG      = Quasi-infl suffix -ʼwä "V sitting (sg)"
+ * +SIT-PL      = Quasi-infl suffix -ʼwaʼáang "V sitting (pl)"
 
 Valency Tags
 
@@ -122,7 +122,7 @@ The actual classifiers
  * +CL/dla  =
  * +CL/hlga  =
  * +CL/cha  =
- * +CL/k̲'íi  =
+ * +CL/k̲ʼíi  =
  * +CL/gi  =
  * +CL/gu  =
  * +CL/g̲a  =
