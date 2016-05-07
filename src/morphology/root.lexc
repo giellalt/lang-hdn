@@ -82,14 +82,14 @@ s2 !!= * @CODE@ =
 
 +EXT        !!= * @CODE@ = Extensional suffix -dáal
 +CIRCUM     !!= * @CODE@ = Circumambulative singular suffix -gwáang
-+STAND-SG   !!= * @CODE@ = Singular standing quasi-infl suffix -gya'áng
-+STAND-PL   !!= * @CODE@ = Plural standing quasi-infl suffix -gya'áang
++STAND-SG   !!= * @CODE@ = Singular standing quasi-infl suffix -gyaʼáng
++STAND-PL   !!= * @CODE@ = Plural standing quasi-infl suffix -gyaʼáang
 +ORDER      !!= * @CODE@ = Quasi-infl suffix -hahl "tell to V"
 +INCEP      !!= * @CODE@ = Quasi-infl suffix -hid "start to V"
 +ALMOST     !!= * @CODE@ = Quasi-infl suffix -sgä "almost V"
-+NOCTURN    !!= * @CODE@ = Quasi-infl suffix -'uhla "V all night"
-+SIT-SG     !!= * @CODE@ = Quasi-infl suffix -'wä "V sitting (sg)"
-+SIT-PL     !!= * @CODE@ = Quasi-infl suffix -'wa'áang "V sitting (pl)"
++NOCTURN    !!= * @CODE@ = Quasi-infl suffix -ʼuhla "V all night"
++SIT-SG     !!= * @CODE@ = Quasi-infl suffix -ʼwä "V sitting (sg)"
++SIT-PL     !!= * @CODE@ = Quasi-infl suffix -ʼwaʼáang "V sitting (pl)"
 
 !! Valency Tags
 
@@ -127,7 +127,7 @@ s2 !!= * @CODE@ =
 +CL/dla !!= * @CODE@ =
 +CL/hlga !!= * @CODE@ =
 +CL/cha !!= * @CODE@ =
-+CL/k̲'íi !!= * @CODE@ =
++CL/k̲ʼíi !!= * @CODE@ =
 +CL/gi !!= * @CODE@ =
 +CL/gu !!= * @CODE@ =
 +CL/g̲a !!= * @CODE@ =
