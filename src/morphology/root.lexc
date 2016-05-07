@@ -41,55 +41,56 @@ s2 !!= * @CODE@ =
 +V	!!= * @CODE@ = Verbs
 +N	    !!= * @CODE@ = Nouns
 +Prop	    !!= * @CODE@ = Proper nouns
-+NEG	!!= * @CODE@ = Negative
-+3PL	!!= * @CODE@ = 3rd personal definite plural participant
-+INTERR	!!= * @CODE@ = Interrogative
-+FUT	!!= * @CODE@ = Future
-+PAST	!!= * @CODE@ = Past
-+PRES	!!= * @CODE@ = Present
-+HAB	!!= * @CODE@ = Habitual
-+BIAS	!!= * @CODE@ = Biased
-+CERT	!!= * @CODE@ = Certain
-+SIMP	!!= * @CODE@ = Simple
-+REL	!!= * @CODE@ = Relative
-+NONFACT	!!= * @CODE@ = Non_Factive
-+IMM	!!= * @CODE@ = Immediate
-+VNEAR	!!= * @CODE@ = Very near
-+RFLX	!!= * @CODE@ = Reflexive
-+NEAR	!!= * @CODE@ =
-+INDIR	!!= * @CODE@ = Indirect evidentiality
-+DIR	!!= * @CODE@ = Direct evidentiality
-+CONT	!!= * @CODE@ = Should keep on verbing
-+SHORT	!!= * @CODE@ =
-+RES	!!= * @CODE@ = Resigned obligation
-+LONG	!!= * @CODE@ =
-+INTS	!!= * @CODE@ = Intensive
-+IMPV	!!= * @CODE@ = Imperative
-+EVID	!!= * @CODE@ = Evidential
-+CTFACT	!!= * @CODE@ = Counterfactual
-+SG	!!= * @CODE@ = Singular
-+PL	!!= * @CODE@ = Plural
++Neg	!!= * @CODE@ = Negative
++3pl	!!= * @CODE@ = 3rd personal definite plural participant
++Interr	!!= * @CODE@ = Interrogative
++Fut	!!= * @CODE@ = Future
++Past	!!= * @CODE@ = Past
++Pres	!!= * @CODE@ = Present
++Hab	!!= * @CODE@ = Habitual
++Bias	!!= * @CODE@ = Biased
++Cert	!!= * @CODE@ = Certain
++Simp	!!= * @CODE@ = Simple
++Rel	!!= * @CODE@ = Relative
++NonFact	!!= * @CODE@ = Non_Factive
++Imm	!!= * @CODE@ = Immediate
++VNear	!!= * @CODE@ = Very near
++Rflx	!!= * @CODE@ = Reflexive
++Near	!!= * @CODE@ =
++Indir	!!= * @CODE@ = Indirect evidentiality
++Dir	!!= * @CODE@ = Direct evidentiality
++Cont	!!= * @CODE@ = Should keep on verbing
++Short	!!= * @CODE@ =
++Res	!!= * @CODE@ = Resigned obligation
++Long	!!= * @CODE@ =
++Ints	!!= * @CODE@ = Intensive
++Impv	!!= * @CODE@ = Imperative
++Evid	!!= * @CODE@ = Evidential
++Ctfact	!!= * @CODE@ = Counterfactual
++Sg	!!= * @CODE@ = Singular
++Pl	!!= * @CODE@ = Plural
 +Def	!!= * @CODE@ =
 +Indef	!!= * @CODE@ =
 +Rfx	!!= * @CODE@ = Used for reflexively possessed body parts and kinterms
 +Abs    !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
 +Pron	    !!= * @CODE@ =
 +Ptcl	    !!= * @CODE@ =
-+COND-AUX1  !!= * @CODE@ = Used before non-ablauting secondary verbs
-+COND-AUX2  !!= * @CODE@ = Used before ablauting secondary verbs
++Cond-Aux1  !!= * @CODE@ = Used before non-ablauting secondary verbs
++Cond-Aux2  !!= * @CODE@ = Used before ablauting secondary verbs
 
 !! Quasi-inflectional Tags
 
-+EXT        !!= * @CODE@ = Extensional suffix -dáal
-+CIRCUM     !!= * @CODE@ = Circumambulative singular suffix -gwáang
-+STAND-SG   !!= * @CODE@ = Singular standing quasi-infl suffix -gyaʼáng
-+STAND-PL   !!= * @CODE@ = Plural standing quasi-infl suffix -gyaʼáang
-+ORDER      !!= * @CODE@ = Quasi-infl suffix -hahl "tell to V"
-+INCEP      !!= * @CODE@ = Quasi-infl suffix -hid "start to V"
-+ALMOST     !!= * @CODE@ = Quasi-infl suffix -sgä "almost V"
-+NOCTURN    !!= * @CODE@ = Quasi-infl suffix -ʼuhla "V all night"
-+SIT-SG     !!= * @CODE@ = Quasi-infl suffix -ʼwä "V sitting (sg)"
-+SIT-PL     !!= * @CODE@ = Quasi-infl suffix -ʼwaʼáang "V sitting (pl)"
++Ext        !!= * @CODE@ = Extensional suffix -dáal
++Circum     !!= * @CODE@ = Circumambulative singular suffix -gwáang
++Stand-Sg   !!= * @CODE@ = Singular standing quasi-infl suffix -gyaʼáng
++Stand-Pl   !!= * @CODE@ = Plural standing quasi-infl suffix -gyaʼáang
++Order      !!= * @CODE@ = Quasi-infl suffix -hahl "tell to V"
++Incep      !!= * @CODE@ = Quasi-infl suffix -hid "start to V"
++Almost     !!= * @CODE@ = Quasi-infl suffix -sgä "almost V"
++Nocturn    !!= * @CODE@ = Quasi-infl suffix -ʼuhla "V all night"
++Sit-Sg     !!= * @CODE@ = Quasi-infl suffix -ʼwä "V sitting (sg)"
++Sit-Pl     !!= * @CODE@ = Quasi-infl suffix -ʼwaʼáang "V sitting (pl)"
++Distrib    !!= * @CODE@ = Quasi-infl suffix -agang "each" 
 
 !! Valency Tags
 
