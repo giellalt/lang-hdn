@@ -27,14 +27,11 @@ ITRAB ;	   !!= # The @CODE@ lexicon (intransitive abbrs)
 TRNUMAB ;  !!= # The @CODE@ lexicon (abbrs trans wrt. numberals)
 
 !! !!The sublexica
-
 !! !Dividing between abbreviations with and witout final period
-
 
 LEXICON ab-noun   !!= * __@CODE@__
 ab-nodot-noun ;
 ab-dot-noun ;
-
 
 LEXICON ab-adv   !!= * __@CODE@__
 ab-nodot-adv ;
@@ -43,32 +40,19 @@ ab-dot-adv ;
 !! !The lexicons that add tags
 
 LEXICON ab-nodot-noun   !!= * __@CODE@__  The bulk
-       +N+ABBR:      # ; ! no period, that is.
-
-
-LEXICON ab-nodot-adv   !!= * __@CODE@__
- +ABBR: # ; ! no period, that is.
-
-
++N+ABBR:   # ; ! no period, that is.
 
 LEXICON ab-dot-noun   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-       +N+ABBR:%.%>      # ;
++N+ABBR:%.  # ;
 
-
-
-LEXICON ab-dot-adj   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-+A+ABBR:%.%> # ;
+LEXICON ab-nodot-adv   !!= * __@CODE@__
++Adv+ABBR: # ; ! no period, that is.
 
 LEXICON ab-dot-adv   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
-+ABBR:%.%> # ; ! Adv without case.
++ABBR:%.  # ; ! Adv without case.
 
-
-! Then, as an afterthought, come our two verbs, gč. and vrd.
-
-
-
-
-
+LEXICON ab-dot-adj   !!= * __@CODE@__  This is the lexicon for abbrs that must have a period.
++A+ABBR:%.  # ;
 
 
 
@@ -92,28 +76,17 @@ LEXICON SYMBOLS   !!= * __@CODE@__ is for iscellaneous abbr symbols
 ! Intransitive abbreviations 
 ! =============================================== !
 
-LEXICON ITRAB   !!= * __@CODE@__ are intransitive abbreviations, A.S. etc.
+LEXICON ITRAB   !!= * __@CODE@__ are intransitive abbreviations, Ltd. etc.
 
-! List the beginning of the alphabet, !
-! in order to account for numbering !
-! of paragraphs etc. !
+! These may end sentences.
 
-1p:1p ab-noun; ! !
-2p:2p ab-noun; ! !
-3p:3p ab-noun; ! !
+Dep  ab-noun ;
+Ltd  ab-noun ;
+Inc ab-noun ;
 
 
-A.L ab-dot-noun ;
-A.S ab-dot-noun ;
-Dep:Dep9 ab-noun ;
-
-
-
-! ============================================================ !
-! Abbreviations that are not treated as abbreviations !
-! at the end of the sentence !
-! ============================================================ !
-
+! Abbreviations that are not treated as abbreviations 
+! at the end of the sentence 
 
 
 
@@ -131,9 +104,7 @@ LEXICON TRNUMAB   !!= * __@CODE@__ contains abbreviations who are transitive in 
 ! cap and small letters, whereast he ITRAB ones do.
 
 
-Apd ab-dot-noun ; !
-
-
+nr ab-dot-noun ; !
 
 
 
@@ -145,12 +116,15 @@ LEXICON TRAB   !!= * __@CODE@__ contains transitive abbreviations
 
 !! This lexicon is for abbrs that always have a constituent following it.
 
-! from here pointing to two types of TRAB:
-! TRAB heads (gč. ...) here called h-ab and h-ab-dot
-! TRAB attributes (St. ...) here called ab and ab-dot or at-ab?
+P.S ab-dot-noun ;
+Dr ab-dot-noun ;
+St ab-dot-noun ;
+Mr ab-dot-noun ;
+alt ab-dot-noun ;
 
 
-1.aman:1.aman ab-dot-noun; ! !1.amanuensis
+
+
 
 ! Here comes the initials
 ! They are found in names etc.
@@ -233,20 +207,10 @@ w:w ab-nodot-noun; !
 x:x ab-nodot-noun; !
 y:y ab-nodot-noun; !
 z:z ab-nodot-noun; !
-æ:æ ab-nodot-noun; !
-ø:ø ab-nodot-noun; !
-å:å ab-nodot-noun; !
 ä:ä ab-nodot-noun; !
-ö:ö ab-nodot-noun; !
-č:č ab-nodot-noun; !
-š:š ab-nodot-noun; !
 
 ! a.-xyz
-ž:ž ab-dot-noun;
 á:á ab-dot-noun;
-ŋ:ŋ ab-dot-noun;
-đ:đ ab-dot-noun;
-ŧ:ŧ ab-dot-noun;
 a:a ab-dot-noun; !
 c:c ab-dot-noun; !
 d:d ab-dot-noun; !
@@ -272,13 +236,7 @@ w:w ab-dot-noun; !
 x:x ab-dot-noun; !
 y:y ab-dot-noun; !
 z:z ab-dot-noun; !
-æ:æ ab-dot-noun; !
-ø:ø ab-dot-noun; !
-å:å ab-dot-noun; !
 ä:ä ab-dot-noun; !
-ö:ö ab-dot-noun; !
-č:č ab-dot-noun; !
-š:š ab-dot-noun; !
 
 
 

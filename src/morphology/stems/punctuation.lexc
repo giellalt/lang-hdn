@@ -57,7 +57,7 @@ LEXICON Punctuation
  %%+PUNCT:%%  # ;
   &+PUNCT:&   # ;
  %"+PUNCT:%"  # ;
-  '+PUNCT:'7  # ; ! We use "'7" to avoid the CG symbol of ái'gi etc.
+  ʼ+PUNCT:ʼ7  # ; ! We use "ʼ7" to avoid the CG symbol of áiʼgi etc.
  %*+PUNCT:%*  # ;
   ++PUNCT:+   # ;
   ±+PUNCT:±   # ;
@@ -96,7 +96,7 @@ LEXICON PUNCTconnector    !^C^
  +Use/Sub+Use/Circ: PUNCTsuff ;		! §as              ! !
  +Use/Circ:%: PUNCTsuff ;	! §:s                   !
  +Use/Sub+Use/Circ:%- PUNCTsuff ;	! §-as  ! Perhaps. ! !
- +Use/Sub+Use/Circ:%' PUNCTsuff ;	! §'as  ! Perhaps. ! !
+ +Use/Sub+Use/Circ:%ʼ PUNCTsuff ;	! §ʼas  ! Perhaps. ! !
  
 LEXICON PUNCTsuff
 ! # ;		! § 14 (no case on the bare §). Oh, yes. Case.
