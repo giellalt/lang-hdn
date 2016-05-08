@@ -162,26 +162,11 @@ W:W ab-dot-noun;
 X:X ab-dot-noun;
 Y:Y ab-dot-noun;
 Z:Z ab-dot-noun;
-Æ:Æ ab-dot-noun;
-Ø:Ø ab-dot-noun;
-Å:Å ab-dot-noun;
 Ä:Ä ab-dot-noun;
-Ö:Ö ab-dot-noun;
-Č:Č ab-dot-noun;
-Š:Š ab-dot-noun;
-Ž:Ž ab-dot-noun;
-Ŧ:Ŧ ab-dot-noun;
-Đ:Đ ab-dot-noun;
-Ŋ:Ŋ ab-dot-noun;
-Á:Á ab-dot-noun;
 
 
 ! a-klasse
-ž:ž ab-nodot-noun;
 á:á ab-nodot-noun;
-ŋ:ŋ ab-nodot-noun;
-đ:đ ab-nodot-noun;
-ŧ:ŧ ab-nodot-noun;
 a:a ab-nodot-noun; !
 c:c ab-nodot-noun; !
 d:d ab-nodot-noun; !
