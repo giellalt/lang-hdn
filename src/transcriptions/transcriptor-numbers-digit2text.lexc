@@ -15,17 +15,17 @@ LEXICON HUNDRED
 1%0%0:hándad  # ;
 
 LEXICON TENS
-:tláalaay%  TENSCONTENT ;
-:tláalaay% ONES ;
+:tláalaay%   TENSCONTENT ;
+:tláalaay%  ONES ;
 
 LEXICON TENSCONTENT 
 2:sdáng% ʼwáa% gä%  ONES ;
 3:hlg̲únahl% ʼwáa% gä%  ONES ;
-4:stánsang% ʼwáa% gä%	 ONES ;
-5:tléehl% ʼwáa% gä%	 ONES ;
-6:tlaʼúnhl% ʼwáa% gä%	 ONES ;
-7:jagwaa% ʼwáa% gä% ONES ;
-8:sdáansaangaa% ʼwáa% gä% ONES ;
+4:stánsang% ʼwáa% gä%  ONES ;
+5:tléehl% ʼwáa% gä%  ONES ;
+6:tlaʼúnhl% ʼwáa% gä%  ONES ;
+7:jagwaa% ʼwáa% gä%  ONES ;
+8:sdáansaangaa% ʼwáa% gä%  ONES ;
 9:tláahl% sg̲wáansang% gúu% ʼwáa% gä%  ONES ;
 
 LEXICON TEENS
