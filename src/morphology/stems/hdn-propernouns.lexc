@@ -3,35 +3,4 @@ LEXICON prop
 +N+Prop: # ;
 
 LEXICON ProperNoun-hdn
-Alice prop ;
-Amy prop ;
-Andy prop ;
-Ann prop ;
-Ben prop ;
-Betty prop ;
-Bill prop ;
-Bob prop ;
-Cathy prop ;
-Charlie prop ;
-Emily prop ;
-Frank prop ;
-Hiro prop ;
-Jane prop ;
-Jennie prop ;
-Jim prop ;
-Jimmy prop ;
-John prop ;
-Jordan prop ;
-Kathy prop ;
-Linda prop ;
-Mark prop ;
-Nancy prop ;
-Nang prop ;
-Pat prop ;
-Paul prop ;
-Robert prop ;
-Sarah prop ;
-Shirley prop ;
-Steve prop ;
-Tammy prop ;
-Tom prop ;
+Jordan prop ; !dummy this is also in eng-file
