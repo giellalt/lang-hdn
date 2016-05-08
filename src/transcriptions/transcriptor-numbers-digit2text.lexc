@@ -12,48 +12,37 @@ TEN ;			! 1-9
 !===========================
 
 LEXICON HUNDRED
-1%0%0:hundred  # ;
+1%0%0:hándad  # ;
 
 LEXICON TENS
-:tens TENSCONTENT ;
+:tláalaay%  TENSCONTENT ;
+:tláalaay% ONES ;
 
-LEXICON TENSCONTENT
-2:two-and-	 ONES ;
-3:three-and- ONES ;
-4:four-and-	 ONES ;
-5:five-and-	 ONES ;
-6:six-and-	 ONES ;
-7:seven-and- ONES ;
-8:eight-and- ONES ;
-9:nine-and-	 ONES ;
-
+LEXICON TENSCONTENT 
+2:sdáng% ʼwáa% gä%  ONES ;
+3:hlg̲únahl% ʼwáa% gä%  ONES ;
+4:stánsang% ʼwáa% gä%	 ONES ;
+5:tléehl% ʼwáa% gä%	 ONES ;
+6:tlaʼúnhl% ʼwáa% gä%	 ONES ;
+7:jagwaa% ʼwáa% gä% ONES ;
+8:sdáansaangaa% ʼwáa% gä% ONES ;
+9:tláahl% sg̲wáansang% gúu% ʼwáa% gä%  ONES ;
 
 LEXICON TEENS
-1:ten-t TEEN ;
-
-LEXICON TEEN
-1:one # ;
-2:two # ;
-3:three # ;
-4:four # ;
-5:five # ;
-6:кудыт # ;
-7:шымыт # ;
-8:кандаш # ;
-9:индеш  # ;
+1:tláahl% ʼwáa% gä%  ONES ;
 
 LEXICON TEN
-%0:ten # ;
+%0:tláahl # ;
     ONES ;
 
 LEXICON ONES
-1:one # ;
-2:two # ;
-3:кумыт # ;
-4:нылыт # ;
-5:визыт # ;
-6:кудыт # ;
-7:шымыт # ;
-8:кандаш # ;
-9:индеш  # ;
+1:sg̲wáansang # ;
+2:sdáng # ;
+3:hlg̲únahl # ;
+4:stánsang # ;
+5:tléehl # ;
+6:tlaʼúnhl # ;
+7:jagwaa # ;
+8:sdáansaangaa # ;
+9:tláahl% sg̲wáansang% gúu  # ;
 
