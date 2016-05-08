@@ -2,7 +2,7 @@
 LEXICON prop
 +N+Prop: # ;
 
-LEXICON Propernouns
+LEXICON ProperNoun-hdn
 Alice prop ;
 Amy prop ;
 Andy prop ;
@@ -20,13 +20,11 @@ Jane prop ;
 Jennie prop ;
 Jim prop ;
 Jimmy prop ;
-Joe prop ;
 John prop ;
 Jordan prop ;
 Kathy prop ;
 Linda prop ;
 Mark prop ;
-Mary prop ;
 Nancy prop ;
 Nang prop ;
 Pat prop ;

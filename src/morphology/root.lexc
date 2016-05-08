@@ -391,4 +391,7 @@ LEXICON Root
   Abbreviation ;
   CLASSIFIERS ;
 
+LEXICON Propernouns
+ProperNoun-hdn ;
+ProperNoun-eng ;
 
