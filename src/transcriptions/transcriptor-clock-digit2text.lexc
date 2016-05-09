@@ -12,9 +12,9 @@
 ! Other licensing options are available upon request, please contact
 ! giellatekno@uit.no or divvun@hum.uit.no
 
-! ==================== !
-! The Northern Haida clock !
-! ==================== !
+! ======================== !
+! The Northern Haida clock
+! ======================== !
 !
 ! The hours use the noun k'asgíid "hour", plus the number verb (in whatever appropriate tense)
 !  k'asgíid sdánggang -- it is two o'clock
@@ -61,200 +61,164 @@
 !
 ! Examples:
 ! 12:25 -- k'asgíid tláahl 'wȧa gä sdánggaay sdä mánad tláalaay sdánggang (it is 25 minutes away from 12 hourings)
+!          hour     twelwe                   from minute 
 ! 12:50 -- k'asgíid sg̲wáansangaay aa mánad tláalgang (it is 10 minutes until 1 houring) 
 
 Multichar_Symbols
 
-@U.TIME.1@ 
-@U.TIME.2@ 
-@U.TIME.3@ 
-@U.TIME.4@ 
-@U.TIME.5@ 
-@U.TIME.6@ 
-@U.TIME.7@ 
-@U.TIME.8@ 
-@U.TIME.9@ 
-@U.TIME.10@ 
-@U.TIME.11@ 
-@U.TIME.12@ 
 +Use/NA
 +Use/NG
 
 
 LEXICON Root
+:k'asgíid%   HOURS ;
 
-! Allowing sloppy 2:30 in answer
-@U.TIME.1@1:@U.TIME.1@+Use/NA     AFTpunkt ;    !01:00 - 01:19
-@U.TIME.2@1:@U.TIME.2@+Use/NA     BEFpunkt ;    !01:20 - 01:59
-@U.TIME.2@2:@U.TIME.2@+Use/NA     AFTpunkt ;    !02:00 - 02:19
-@U.TIME.3@2:@U.TIME.3@+Use/NA     BEFpunkt ;    !02:20 - 02:59
-@U.TIME.3@3:@U.TIME.3@+Use/NA     AFTpunkt ;    !03:00 - 03:19
-@U.TIME.4@3:@U.TIME.4@+Use/NA     BEFpunkt ;    !03:20 - 03:59
-@U.TIME.4@4:@U.TIME.4@+Use/NA     AFTpunkt ;    !04:00 - 04:19
-@U.TIME.5@4:@U.TIME.5@+Use/NA     BEFpunkt ;    !04:20 - 04:59
-@U.TIME.5@5:@U.TIME.5@+Use/NA     AFTpunkt ;    !05:00 - 05:19
-@U.TIME.6@5:@U.TIME.6@+Use/NA     BEFpunkt ;    !05:20 - 05:59
-@U.TIME.6@6:@U.TIME.6@+Use/NA     AFTpunkt ;    !06:00 - 06:19
-@U.TIME.7@6:@U.TIME.7@+Use/NA     BEFpunkt ;    !06:20 - 06:59
-@U.TIME.7@7:@U.TIME.7@+Use/NA     AFTpunkt ;    !07:00 - 07:19
-@U.TIME.8@7:@U.TIME.8@+Use/NA     BEFpunkt ;    !07:20 - 07:59
-@U.TIME.8@8:@U.TIME.8@+Use/NA     AFTpunkt ;    !08:00 - 08:19
-@U.TIME.9@8:@U.TIME.9@+Use/NA     BEFpunkt ;    !08:20 - 08:59
-@U.TIME.9@9:@U.TIME.9@+Use/NA     AFTpunkt ;    !09:00 - 09:19
-@U.TIME.10@9:@U.TIME.10@+Use/NA   BEFpunkt ;    !09:20 - 09:59
+LEXICON HOURS
 
-! Correct is 02:30
-@U.TIME.1@%01:@U.TIME.1@     AFTpunkt ;    !01:00 - 01:19
-@U.TIME.2@%01:@U.TIME.2@     BEFpunkt ;    !01:20 - 01:59
-@U.TIME.2@%02:@U.TIME.2@     AFTpunkt ;    !02:00 - 02:19
-@U.TIME.3@%02:@U.TIME.3@     BEFpunkt ;    !02:20 - 02:59
-@U.TIME.3@%03:@U.TIME.3@     AFTpunkt ;    !03:00 - 03:19
-@U.TIME.4@%03:@U.TIME.4@    BEFpunkt ;    !03:20 - 03:59
-@U.TIME.4@%04:@U.TIME.4@    AFTpunkt ;    !04:00 - 04:19
-@U.TIME.5@%04:@U.TIME.5@     BEFpunkt ;    !04:20 - 04:59
-@U.TIME.5@%05:@U.TIME.5@    AFTpunkt ;    !05:00 - 05:19
-@U.TIME.6@%05:@U.TIME.6@     BEFpunkt ;    !05:20 - 05:59
-@U.TIME.6@%06:@U.TIME.6@    AFTpunkt ;    !06:00 - 06:19
-@U.TIME.7@%06:@U.TIME.7@     BEFpunkt ;    !06:20 - 06:59
-@U.TIME.7@%07:@U.TIME.7@     AFTpunkt ;    !07:00 - 07:19
-@U.TIME.8@%07:@U.TIME.8@    BEFpunkt ;    !07:20 - 07:59
-@U.TIME.8@%08:@U.TIME.8@     AFTpunkt ;    !08:00 - 08:19
-@U.TIME.9@%08:@U.TIME.9@    BEFpunkt ;    !08:20 - 08:59
-@U.TIME.9@%09:@U.TIME.9@     AFTpunkt ;    !09:00 - 09:19
-@U.TIME.10@%09:@U.TIME.10@   BEFpunkt ;    !09:20 - 09:59
+! these ones for the precise hours
+%01:sg̲wáansanggang					   PRECISE ;
+%02:sdánggang						   PRECISE ;
+%03:hlg̲únalgang					   PRECISE ;
+%04:stánsanggang					   PRECISE ;
+%05:tléelgang						   PRECISE ;
+%06:tla'únalgang					   PRECISE ;
+%07:jagwa'áang						   PRECISE ;
+%08:sdáansaangaagang				   PRECISE ;
+%09:tláahl% sg̲wáansang% gúugang	   PRECISE ;
+1%0:tláalgang						   PRECISE ;
+ 11:tláahl% 'wáa% gä% sg̲wáansanggang  PRECISE ;
+ 12:tláahl% 'wáa% gä% sdánggang		   PRECISE ;
+%0%0:tláahl% 'wáa% gä% sdánggang		   PRECISE ;
 
-@U.TIME.10@1%0:@U.TIME.10@   AFTpunkt ;     !10:00 - 10:19
-@U.TIME.11@1%0:@U.TIME.11@   BEFpunkt ;     !10:20 - 10:59
-@U.TIME.11@11:@U.TIME.11@    AFTpunkt ;     !11:00 - 11:59
-@U.TIME.12@11:@U.TIME.12@    BEFpunkt ;     !11:19 - 11:59
-@U.TIME.12@12:@U.TIME.12@    BEFpunkt ;     !11:19 - 11:59
-@U.TIME.12@%0%0:@U.TIME.12@    BEFpunkt ;     !11:19 - 11:59
-12%:%0%0:nîsosâp     TIPAHIKAN        ;     !12:00
-12%.%0%0:nîsosâp+Use/NA       TIPAHIKAN        ;     !12.00
-12:nîsosâp+Use/NA       TIPAHIKAN        ;     !12.00
-12%:%0%0:âpihtâkîsikâw+Use/NA        NOON        ;     !12:00
-12%.%0%0:âpihtâkîsikâw+Use/NA        NOON        ;     !12.00
-12:âpihtâkîsikâw+Use/NA       NOON        ;     !12.00
-12%:%0%0:âpihtâtipiskâw+Use/NA        NOON        ;     !12:00
-12%.%0%0:âpihtâtipiskâw+Use/NA        NOON        ;     !12.00
-12:âpihtâtipiskâw+Use/NA       NOON        ;     !12.00
+! thes for the half hours, 03:30 is four half, not three half
+12:sg̲wáansanggaay					   HALF ;
+%0%0:sg̲wáansanggaay					   HALF ;
+%01:sdánggaay						   HALF ;
+%02:hlg̲únalgaay					   HALF ;
+%03:stánsanggaay					   HALF ;
+%04:tléelgaay						   HALF ;
+%05:tla'únalgaay					   HALF ;
+%06:jagwa'áaay						   HALF ;
+%07:sdáansaangaagaay				   HALF ;
+%08:tláahl% sg̲wáansang% gúugaay	   HALF ;
+%09:tláalgaay						   HALF ;
+1%0:tláahl% 'wáa% gä% sg̲wáansanggaay  HALF ;
+ 11:tláahl% 'wáa% gä% sdánggaay		   HALF ;
+
+! these for the before 
+%0%0:sg̲wáansangaay	    BEFSEPARATOR ;
+ 12:sg̲wáansangaay				    BEFSEPARATOR ;
+ %01:sdánggaay					    BEFSEPARATOR ;
+ %02:hlg̲únalaay				    BEFSEPARATOR ;
+ %03:stánsangaay				    BEFSEPARATOR ;
+ %04:tléehliyaay				    BEFSEPARATOR ;
+ %05:tla'únalaay				    BEFSEPARATOR ;
+ %06:jagwa'áay					    BEFSEPARATOR ;
+ %07:sdáansaangaay				    BEFSEPARATOR ;
+ %08:tláahl% sg̲wáansang% gúugaay	    BEFSEPARATOR ;
+ %09:tláalaay					    BEFSEPARATOR ;
+ 1%0:tláahl% 'wáa% gä% sg̲wáansangaay  BEFSEPARATOR ;
+  11:tláahl% 'wáa% gä% sdánggaay	    BEFSEPARATOR ;
 
 
+! these for the  after
+ %01:sg̲wáansangaay				    AFTSEPARATOR ;
+ %02:sdánggaay					    AFTSEPARATOR ;
+ %03:hlg̲únalaay				    AFTSEPARATOR ;
+ %04:stánsangaay				    AFTSEPARATOR ;
+ %05:tléehliyaay				    AFTSEPARATOR ;
+ %06:tla'únalaay				    AFTSEPARATOR ;
+ %07:jagwa'áay					    AFTSEPARATOR ;
+ %08:sdáansaangaay				    AFTSEPARATOR ;
+ %09:tláahl% sg̲wáansang% gúugaay	    AFTSEPARATOR ;
+ 1%0:tláalaay					    AFTSEPARATOR ;
+  11:tláahl% 'wáa% gä% sg̲wáansangaay  AFTSEPARATOR ;
+  12:tláahl% 'wáa% gä% sdánggaay	    AFTSEPARATOR ;
+%0%0:tláahl% 'wáa% gä% sdánggaay	    AFTSEPARATOR ;
 
-LEXICON BEFpunkt
-%::+Use/NA BEF ;
-%.:+Use/NA BEF ;
 
-LEXICON AFTpunkt
-%:: AFT ;  ! 2:00 = göökte
-%.: AFT ;  ! 2.00 = göökte
-:  HOUR ;  ! 2    = göökte
-
-LEXICON BEF
-3%0:                      HALFHOUR ;
-31:nîstanaw% kekâmitâtahtosâp%  TO ;
-32:nîstanaw% ayinânewosâp%  TO ;
-33:nîstanaw% tepakohposâp%  TO ;
-34:nîstanaw% nikotwâsosâp%  TO ;
-35:nîstanaw% nîyânanosâp%  TO ;
-36:nîstanaw% newosâp%  TO ;
-37:nîstanaw% nistosâp%  TO ;
-38:nîstanaw% nîsosâp%  TO ; 
-39:nîstanaw% peyakosâp%  TO ;
-4%0:nîstanaw%  TO ;
-41:kîkâmitâtahtosâp%  TO ;
-42:ayinânewosâp%  TO ;
-43:tepakohposâp%  TO ;
-44:nikotwâsiksâp%  TO ;
-45:niyânanosâp%  TO ;
-46:newosâposâp%  TO ;
-47:nistosâp%  TO ;
-48:nîsosâp%  TO ;
-49:peyakosâp%  TO ;
-5%0:mitâtaht%  TO ;
-51:kîkâmitâtaht%  TO ;
-52:ayinânew%  TO ;
-53:tepakohp%  TO ;
-54:nikotwâsik%  TO ;
-55:niyânan%  TO ;  
-56:newo%  TO ;  
-57:nisto%  TO ;
-58:nîso%  TO ; 
-59:peyak%  TO ;
-
-LEXICON AFT
-%0%0:  HOUR ;
-%01:peyak%  OVER ;
-%02:nîso%  OVER ;
-%03:nisto%  OVER ;
-%04:newo%  OVER ;
-%05:nîyânan%  OVER ;
-%06:nikotwâsik%  OVER ;
-%07:tepakohp%  OVER ;
-%08:ayinânew%  OVER ;
-%09:kekâmitâtaht%  OVER ;
-1%0:mitâtaht%  OVER ;
-11:peyakosâp%  OVER ;
-12:nîsosâp%  OVER ;
-13:nistosâp%  OVER ;
-14:newosâposâp%  OVER ;
-15:niyânanosâp%  OVER ; 
-16:nikotwâsiksâp%  OVER ;
-17:tepakohposâp%  OVER ;
-18:ayinânewosâp%  OVER ;
-19:kîkâmitâtahtosâp%  OVER ;
-2%0:nîstanaw%  OVER ;
-21:nîstanaw% peyakosâp%  OVER ;
-22:nîstanaw% nîsosâp%  OVER ;
-23:nîstanaw% nistosâp%  OVER ;
-24:nîstanaw% newosâp%  OVER ;
-25:nîstanaw% nîyânanosâp%  OVER ;  
-26:nîstanaw% nikotwâosâp%  OVER ;  
-27:nîstanaw% tepakohposâp%  OVER ;
-28:nîstanaw% ayinânewosâp%  OVER ; 
-29:nîstanaw% kekâmitâtahtosâp%  OVER ;
-
-LEXICON TO
- :cipahikanis% pâmayes%  HOUR ;
-
-LEXICON OVER
- :cipahikanis% mîyâskam%  HOUR ;
-
-LEXICON HALFHOUR
-@U.TIME.1@:nîsosâp@U.TIME.1@          HALF ;           
-@U.TIME.2@:peyak@U.TIME.2@         HALF ;         
-@U.TIME.3@:nîso@U.TIME.3@          HALF ;          
-@U.TIME.4@:nisto@U.TIME.4@       HALF ;       
-@U.TIME.5@:newo@U.TIME.5@         HALF ;         
-@U.TIME.6@:nîyânan@U.TIME.6@         HALF ;         
-@U.TIME.7@:nikotwâsik@U.TIME.7@       HALF ;       
-@U.TIME.8@:tepakohp@U.TIME.8@       HALF ;       
-@U.TIME.9@:ayinânew@U.TIME.9@         HALF ;         
-@U.TIME.10@:kekâmitâtaht@U.TIME.10@       HALF ;       
-@U.TIME.11@:mitâtaht@U.TIME.11@   HALF ;   
-@U.TIME.12@:peyakosâp@U.TIME.12@     HALF ; 
+LEXICON PRECISE 
+%:%0%0:    # ;
 
 LEXICON HALF
- :% mînâpihtaw # ; !Not obligatory to add tipahikan
- :% mînâpihtaw TIPAHIKAN ; 
+%:3%0:% aa% mánad% tláalaay% hlg̲únalgang    # ;
+
+LEXICON BEFSEPARATOR
+%:: BEFORE ;
+
+LEXICON AFTSEPARATOR
+%:: AFTER ;
+
+LEXICON BEFORE
+:% aa% mánad%    BEFOREMINUTES ;
+
+LEXICON AFTER
+:% sdä% mánad%    AFTERMINUTES ;
+
+LEXICON AFTERMINUTES
+%01:sg̲wáansanggang										    # ;
+%02:sdánggang											    # ;
+%03:hlg̲únalgang										    # ;
+%04:stánsanggang										    # ;
+%05:tléelgang											    # ;
+%06:tlaʼúnalgang										    # ;
+%07:jagwaʼáang											    # ;
+%08:sdáansaangaagang									    # ;
+%09:tláahl% sg̲wáansang% gúugang						    # ;
+1%0:tláalgang											    # ;
+11:tláahl% ʼwáa% gä% sg̲wáansanggang					    # ;
+12:tláahl% ʼwáa% gä% sdánggang							    # ;
+13:tláahl% ʼwáa% gä% hlg̲únalgang						    # ;
+14:tláahl% ʼwáa% gä% stánsanggang						    # ;
+15:tláahl% ʼwáa% gä% tléelgang							    # ;
+16:tláahl% ʼwáa% gä% tlaʼúnalgang						    # ;
+17:tláahl% ʼwáa% gä% jagwaʼáang							    # ;
+18:tláahl% ʼwáa% gä% sdáansaangaagang					    # ;
+19:tláahl% ʼwáa% gä% tláahl% sg̲wáansang% gúugang		    # ;
+2%0:tláalaay% sdánggang									    # ;
+21:tláalaay% sdáng% ʼwáa% gä% sg̲wáansanggang			    # ;
+22:tláalaay% sdáng% ʼwáa% gä% sdánggang					    # ;
+23:tláalaay% sdáng% ʼwáa% gä% hlg̲únalgang				    # ;
+24:tláalaay% sdáng% ʼwáa% gä% stánsanggang				    # ;
+25:tláalaay% sdáng% ʼwáa% gä% tléelgang				    # ;
+26:tláalaay% sdáng% ʼwáa% gä% tlaʼúnalgang				    # ;
+27:tláalaay% sdáng% ʼwáa% gä% jagwaʼáang				    # ;
+28:tláalaay% sdáng% ʼwáa% gä% sdáansaangaagang			    # ;
+29:tláalaay% sdáng% ʼwáa% gä% tláahl% sg̲wáansang% gúugang  # ;
+3%0:tláalaay% hlg̲únalgang								    # ;
 
 
-LEXICON HOUR
-@U.TIME.1@:peyak@U.TIME.1@          TIPAHIKAN ;           
-@U.TIME.2@:nîso@U.TIME.2@         TIPAHIKAN ;         
-@U.TIME.3@:nisto@U.TIME.3@          TIPAHIKAN ;          
-@U.TIME.4@:newo@U.TIME.4@       TIPAHIKAN ;       
-@U.TIME.5@:nîyânan@U.TIME.5@         TIPAHIKAN ;         
-@U.TIME.6@:nikotwâsik@U.TIME.6@         TIPAHIKAN ;         
-@U.TIME.7@:tepakohp@U.TIME.7@       TIPAHIKAN ;       
-@U.TIME.8@:ayinânew@U.TIME.8@       TIPAHIKAN ;       
-@U.TIME.9@:kekâmitâtaht@U.TIME.9@         TIPAHIKAN ;         
-@U.TIME.10@:mitâtaht@U.TIME.10@       TIPAHIKAN ;       
-@U.TIME.11@:peyakosâp@U.TIME.11@   TIPAHIKAN ;   
-@U.TIME.12@:nîsosâp@U.TIME.12@     TIPAHIKAN ; 
+LEXICON BEFOREMINUTES
+59:sg̲wáansanggang										    # ;
+58:sdánggang											    # ;
+57:hlg̲únalgang										    # ;
+56:stánsanggang										    # ;
+55:tléelgang											    # ;
+54:tlaʼúnalgang										    # ;
+53:jagwaʼáang											    # ;
+52:sdáansaangaagang									    # ;
+51:tláahl% sg̲wáansang% gúugang					    # ;
+5%0:tláalgang											    # ;
+49:tláahl% ʼwáa% gä% sg̲wáansanggang					    # ;
+48:tláahl% ʼwáa% gä% sdánggang							    # ;
+47:tláahl% ʼwáa% gä% hlg̲únalgang						    # ;
+46:tláahl% ʼwáa% gä% stánsanggang						    # ;
+45:tláahl% ʼwáa% gä% tléelgang							    # ;
+44:tláahl% ʼwáa% gä% tlaʼúnalgang						    # ;
+43:tláahl% ʼwáa% gä% jagwaʼáang							    # ;
+42:tláahl% ʼwáa% gä% sdáansaangaagang					    # ;
+41:tláahl% ʼwáa% gä% tláahl% sg̲wáansang% gúugang		    # ;
+4%0:tláalaay% sdánggang									    # ;
+39:tláalaay% sdáng% ʼwáa% gä% sg̲wáansanggang			    # ;
+38:tláalaay% sdáng% ʼwáa% gä% sdánggang					    # ;
+37:tláalaay% sdáng% ʼwáa% gä% hlg̲únalgang				    # ;
+36:tláalaay% sdáng% ʼwáa% gä% stánsanggang				    # ;
+35:tláalaay% sdáng% ʼwáa% gä% tléelgang				    # ;
+34:tláalaay% sdáng% ʼwáa% gä% tlaʼúnalgang				    # ;
+33:tláalaay% sdáng% ʼwáa% gä% jagwaʼáang				    # ;
+32:tláalaay% sdáng% ʼwáa% gä% sdáansaangaagang			    # ;
+31:tláalaay% sdáng% ʼwáa% gä% tláahl% sg̲wáansang% gúugang  # ;
+!3%0:tláalaay% hlg̲únalgang								    # ;
 
-LEXICON TIPAHIKAN
- :% tipahikan # ;
 
-LEXICON NOON
- : # ;
+
