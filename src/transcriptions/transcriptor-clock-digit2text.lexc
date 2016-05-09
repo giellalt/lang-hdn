@@ -13,11 +13,51 @@
 ! giellatekno@uit.no or divvun@hum.uit.no
 
 ! ==================== !
-! The Plains Cree clock !
+! The Northern Haida clock !
 ! ==================== !
-
-! Note! This is NOT checked with native speakers nor
-! textbooks, just based upon guessing from a dictionary.
+!
+! The hours use the noun k'asgíid "hour", plus the number verb (in whatever appropriate tense)
+!  k'asgíid sdánggang -- it is two o'clock
+!  k'asgíid sdánggan -- it was two o'clock
+! 
+! Examples:
+!  1:00 -- k'asgíid sg̲wáansanggang
+!  2:00 -- k'asgíid sdánggang
+!  3:00 -- k'asgíid hlg̲únalgang
+!  4:00 -- k'asgíid stánsanggang
+!  5:00 -- k'asgíid tléelgang
+!  6:00 -- k'asgíid tla'únalgang
+!  7:00 -- k'asgíid jagwa'ȧang
+!  8:00 -- k'asgíid sdáansaangaagang
+!  9:00 -- k'asgíid tláahl sg̲wáansang gúugang
+!  10:00 -- k'asgíid tláalgang
+!  11:00 -- k'asgíid tláahl 'wáa gä sg̲wáansanggang
+!  12:00 -- k'asgíid tláahl 'wáa gä sdánggang
+!  
+! Minutes after the hour are expressed with a nominalized form of the number verb, followed by the postposition 
+! sdä "away from", plus mánad "minute", plus the inflected form of the number verb
+!  k'asgad tléehliyaay sdä mánad tléelgang -- it is five minutes after five
+!
+! Minutes before the hour are expressed the same way, but with the postposition aa "to, until" instead of sdä
+!  k'asgad tléehliyaay aa mánad tléelgang -- it is five minutes until/before five
+!
+! Nominalized hours:
+! 1:XX -- k'asgíid sg̲wáansangaay
+! 2:XX -- k'asgíid sdánggaay
+! 3:XX -- k'asgíid hlg̲únalaay
+! 4:XX -- k'asgíid stánsangaay
+! 5:XX -- k'asgíid tléehliyaay
+! 6:XX -- k'asgíid tla'únalayy
+! 7:XX -- k'asgíid jagwa'áay
+! 8:XX -- k'asgíid sdáansaangaay
+! 9:XX -- k'asgíid tláahl sg̲wáansang gúugaay
+! 10:XX -- k'asgíid tláalaay
+! 11:XX -- k'asgíid tláahl 'wáa gä sg̲wáansangaay
+! 12:XX -- k'asgíid tláahl 'wáa gä sdánggaay
+!
+! Examples:
+! 12:25 -- k'asgíid tláahl 'wȧa gä sdánggaay sdä mánad tláalaay sdánggang (it is 25 minutes away from 12 hourings)
+! 12:50 -- k'asgíid sg̲wáansangaay aa mánad tláalgang (it is 10 minutes until 1 houring) 
 
 Multichar_Symbols
 
