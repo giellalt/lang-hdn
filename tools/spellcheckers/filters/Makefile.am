@@ -7,7 +7,7 @@
 ##################################################################
 
 # List any local additions here:
-GIELLA_LOCAL_SPELLER_FILTER_SRCS=
+GIELLA_LOCAL_SPELLER_FILTER_SRCS=make_optional-second_initial-letter.regex
 
 # Only build these things if speller fst's are enabled:
 if WANT_SPELLERS
