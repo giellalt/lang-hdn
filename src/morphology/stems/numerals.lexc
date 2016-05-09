@@ -2,14 +2,107 @@
 !! --------
 !! Numerals in Haida?
 
+LEXICON num
++Num: # ;
+
 LEXICON Numerals
-sg̲wáansang              # "one" ;
-sdáng	                # "two" ;
-hlg̲únahl                # "three" ;
-stánsang                # "four" ;
-tléehl	                # "five" ;
-tlaʼúnhl                # "six" ;
-jagwaa                  # "seven" ;
-sdáansaangaa            # "eight" ;
-tláahl% sg̲wáansang% guu   # "nine" ;
-tláahl                  # "ten" ;
+sg̲wáansang  num ; 	!     1	
+sdáng  num ; 	!     2	
+hlg̲únahl  num ; 	!     3	
+stánsang  num ; 	!     4	
+tléehl  num ; 	!     5	
+tlaʼúnhl  num ; 	!     6	
+jagwaa  num ; 	!     7	
+sdáansaangaa  num ; 	!     8	
+tláahl% sg̲wáansang% gúu  num ; 	!     9	
+tláahl  num ; 	!    10	
+tláahl% ʼwáa% gä% sg̲wáansang  num ; 	!    11	
+tláahl% ʼwáa% gä% sdáng  num ; 	!    12	
+tláahl% ʼwáa% gä% hlg̲únahl  num ; 	!    13	
+tláahl% ʼwáa% gä% stánsang  num ; 	!    14	
+tláahl% ʼwáa% gä% tléehl  num ; 	!    15	
+tláahl% ʼwáa% gä% tlaʼúnhl  num ; 	!    16	
+tláahl% ʼwáa% gä% jagwaa  num ; 	!    17	
+tláahl% ʼwáa% gä% sdáansaangaa  num ; 	!    18	
+tláahl% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    19	
+tláalaay% sdáng  num ; 	!    20	
+tláalaay% sdáng% ʼwáa% gä% sg̲wáansang  num ; 	!    21	
+tláalaay% sdáng% ʼwáa% gä% sdáng  num ; 	!    22	
+tláalaay% sdáng% ʼwáa% gä% hlg̲únahl  num ; 	!    23	
+tláalaay% sdáng% ʼwáa% gä% stánsang  num ; 	!    24	
+tláalaay% sdáng% ʼwáa% gä% tléehl  num ; 	!    25	
+tláalaay% sdáng% ʼwáa% gä% tlaʼúnhl  num ; 	!    26	
+tláalaay% sdáng% ʼwáa% gä% jagwaa  num ; 	!    27	
+tláalaay% sdáng% ʼwáa% gä% sdáansaangaa  num ; 	!    28	
+tláalaay% sdáng% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    29	
+tláalaay% hlg̲únahl  num ; 	!    30	
+tláalaay% hlg̲únahl% ʼwáa% gä% sg̲wáansang  num ; 	!    31	
+tláalaay% hlg̲únahl% ʼwáa% gä% sdáng  num ; 	!    32	
+tláalaay% hlg̲únahl% ʼwáa% gä% hlg̲únahl  num ; 	!    33	
+tláalaay% hlg̲únahl% ʼwáa% gä% stánsang  num ; 	!    34	
+tláalaay% hlg̲únahl% ʼwáa% gä% tléehl  num ; 	!    35	
+tláalaay% hlg̲únahl% ʼwáa% gä% tlaʼúnhl  num ; 	!    36	
+tláalaay% hlg̲únahl% ʼwáa% gä% jagwaa  num ; 	!    37	
+tláalaay% hlg̲únahl% ʼwáa% gä% sdáansaangaa  num ; 	!    38	
+tláalaay% hlg̲únahl% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    39	
+tláalaay% stánsang  num ; 	!    40	
+tláalaay% stánsang% ʼwáa% gä% sg̲wáansang  num ; 	!    41	
+tláalaay% stánsang% ʼwáa% gä% sdáng  num ; 	!    42	
+tláalaay% stánsang% ʼwáa% gä% hlg̲únahl  num ; 	!    43	
+tláalaay% stánsang% ʼwáa% gä% stánsang  num ; 	!    44	
+tláalaay% stánsang% ʼwáa% gä% tléehl  num ; 	!    45	
+tláalaay% stánsang% ʼwáa% gä% tlaʼúnhl  num ; 	!    46	
+tláalaay% stánsang% ʼwáa% gä% jagwaa  num ; 	!    47	
+tláalaay% stánsang% ʼwáa% gä% sdáansaangaa  num ; 	!    48	
+tláalaay% stánsang% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    49	
+tláalaay% tléehl  num ; 	!    50	
+tláalaay% tléehl% ʼwáa% gä% sg̲wáansang  num ; 	!    51	
+tláalaay% tléehl% ʼwáa% gä% sdáng  num ; 	!    52	
+tláalaay% tléehl% ʼwáa% gä% hlg̲únahl  num ; 	!    53	
+tláalaay% tléehl% ʼwáa% gä% stánsang  num ; 	!    54	
+tláalaay% tléehl% ʼwáa% gä% tléehl  num ; 	!    55	
+tláalaay% tléehl% ʼwáa% gä% tlaʼúnhl  num ; 	!    56	
+tláalaay% tléehl% ʼwáa% gä% jagwaa  num ; 	!    57	
+tláalaay% tléehl% ʼwáa% gä% sdáansaangaa  num ; 	!    58	
+tláalaay% tléehl% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    59	
+tláalaay% tlaʼúnhl  num ; 	!    60	
+tláalaay% tlaʼúnhl% ʼwáa% gä% sg̲wáansang  num ; 	!    61	
+tláalaay% tlaʼúnhl% ʼwáa% gä% sdáng  num ; 	!    62	
+tláalaay% tlaʼúnhl% ʼwáa% gä% hlg̲únahl  num ; 	!    63	
+tláalaay% tlaʼúnhl% ʼwáa% gä% stánsang  num ; 	!    64	
+tláalaay% tlaʼúnhl% ʼwáa% gä% tléehl  num ; 	!    65	
+tláalaay% tlaʼúnhl% ʼwáa% gä% tlaʼúnhl  num ; 	!    66	
+tláalaay% tlaʼúnhl% ʼwáa% gä% jagwaa  num ; 	!    67	
+tláalaay% tlaʼúnhl% ʼwáa% gä% sdáansaangaa  num ; 	!    68	
+tláalaay% tlaʼúnhl% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    69	
+tláalaay% jagwaa  num ; 	!    70	
+tláalaay% jagwaa% ʼwáa% gä% sg̲wáansang  num ; 	!    71	
+tláalaay% jagwaa% ʼwáa% gä% sdáng  num ; 	!    72	
+tláalaay% jagwaa% ʼwáa% gä% hlg̲únahl  num ; 	!    73	
+tláalaay% jagwaa% ʼwáa% gä% stánsang  num ; 	!    74	
+tláalaay% jagwaa% ʼwáa% gä% tléehl  num ; 	!    75	
+tláalaay% jagwaa% ʼwáa% gä% tlaʼúnhl  num ; 	!    76	
+tláalaay% jagwaa% ʼwáa% gä% jagwaa  num ; 	!    77	
+tláalaay% jagwaa% ʼwáa% gä% sdáansaangaa  num ; 	!    78	
+tláalaay% jagwaa% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    79	
+tláalaay% sdáansaangaa  num ; 	!    80	
+tláalaay% sdáansaangaa% ʼwáa% gä% sg̲wáansang  num ; 	!    81	
+tláalaay% sdáansaangaa% ʼwáa% gä% sdáng  num ; 	!    82	
+tláalaay% sdáansaangaa% ʼwáa% gä% hlg̲únahl  num ; 	!    83	
+tláalaay% sdáansaangaa% ʼwáa% gä% stánsang  num ; 	!    84	
+tláalaay% sdáansaangaa% ʼwáa% gä% tléehl  num ; 	!    85	
+tláalaay% sdáansaangaa% ʼwáa% gä% tlaʼúnhl  num ; 	!    86	
+tláalaay% sdáansaangaa% ʼwáa% gä% jagwaa  num ; 	!    87	
+tláalaay% sdáansaangaa% ʼwáa% gä% sdáansaangaa  num ; 	!    88	
+tláalaay% sdáansaangaa% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    89	
+tláalaay% tláahl% sg̲wáansang% gúu  num ; 	!    90	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% sg̲wáansang  num ; 	!    91	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% sdáng  num ; 	!    92	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% hlg̲únahl  num ; 	!    93	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% stánsang  num ; 	!    94	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% tléehl  num ; 	!    95	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% tlaʼúnhl  num ; 	!    96	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% jagwaa  num ; 	!    97	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% sdáansaangaa  num ; 	!    98	
+tláalaay% tláahl% sg̲wáansang% gúu% ʼwáa% gä% tláahl% sg̲wáansang% gúu  num ; 	!    99	
+hándad  num ; 	!   100	
