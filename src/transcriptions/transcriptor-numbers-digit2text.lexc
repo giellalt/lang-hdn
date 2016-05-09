@@ -2,10 +2,10 @@
 LEXICON Root
 
 HUNDRED ;       ! 100
-TENS ;		! 20-99
-TEENS ;			! 10-19
-TEN ;			! 1-9
-
+TENSCONTENT ;      ! 10-99
+! TEENS ;         ! 11 -19
+! TEN ; ! 10
+ONES ; ! 1-9
 
 !===========================
 !Here starts the 999 numbers
@@ -14,26 +14,26 @@ TEN ;			! 1-9
 LEXICON HUNDRED
 1%0%0:hándad  # ;
 
-LEXICON TENS
-:tláalaay%   TENSCONTENT ;
-:tláalaay%  ONES ;
+! LEXICON TENS
+! :'tláalaay%   TENSCONTENT ; !
 
 LEXICON TENSCONTENT 
-2:sdáng% ʼwáa% gä%  ONES ;
-3:hlg̲únahl% ʼwáa% gä%  ONES ;
-4:stánsang% ʼwáa% gä%  ONES ;
-5:tléehl% ʼwáa% gä%  ONES ;
-6:tlaʼúnhl% ʼwáa% gä%  ONES ;
-7:jagwaa% ʼwáa% gä%  ONES ;
-8:sdáansaangaa% ʼwáa% gä%  ONES ;
-9:tláahl% sg̲wáansang% gúu% ʼwáa% gä%  ONES ;
+1:tláahl TEN ; ! 11, 12, ...
+2:tláalaay% sdáng  TEN ; ! 21, 22, ...
+3:tláalaay% hlg̲únahl  TEN ; ! 31, 32, ...
+4:tláalaay% stánsang  TEN ;
+5:tláalaay% tléehl  TEN ;
+6:tláalaay% tlaʼúnhl  TEN ;
+7:tláalaay% jagwaa% ʼwáa  TEN ; ! 
+8:tláalaay% sdáansaangaa  TEN ;
+9:tláalaay% tláahl% sg̲wáansang  TEN ;
 
-LEXICON TEENS
-1:tláahl% ʼwáa% gä%  ONES ;
+! LEXICON TEENS
+! 1:tláahl% ʼwáa% gä%  ONES ;
 
 LEXICON TEN
-%0:tláahl # ;
-    ONES ;
+%0: # ; ! 10, 20, 30, 40, ...
+:% ʼwáa% gä%  ONES ; ! 11, 12, 21, 22, 31, 32, ...
 
 LEXICON ONES
 1:sg̲wáansang # ;
