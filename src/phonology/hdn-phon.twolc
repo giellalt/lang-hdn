@@ -5,7 +5,7 @@
 !! !!Alphabet
 Alphabet
  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' .
+ á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ .
  g̲ k̲ x̲
 
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
@@ -38,7 +38,7 @@ Sets
 
  Vow = a e i o u y æ ø å  !!= * @CODE@
        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; !!= @CODE@
- Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ç ý ñ ; !!= * @CODE@
+ Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; !!= * @CODE@
  Orth = . ;
  Endings =  %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;
  Sgm = Vow Cns Orth   ; !!= * @CODE@
