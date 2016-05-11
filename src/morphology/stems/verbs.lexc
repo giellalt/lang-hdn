@@ -16,19 +16,28 @@
 !!                           !!! Northern Haida verb stems                       
 ! ========================================================================== !
 
-
-
-
 ! ./haida_stems_2014-06-07_190937.lexc
 ! Generated Sat Jun  7 19:09:40 2014
 ! by C:\Users\Jordan\Desktop\Haida Projects\Haida FST\LEXC Generator\gen_haida_lexc.pl
 ! from .//haida_rhymes%.dat and .//verb-index-4.sf
 
-LEXICON Classifier_Verbstems  !!= @CODE@
-gáng:gá CLASS-ANG "for S to carry O (CL)" ; !NEEDS 
-dáal CLASS-AAL "for S (CL) to move slowly" ; !NEEDS 
+LEXICON VERB_ROOT
+ VERB_PREFIXES ;
+ VERBS ;
 
-LEXICON Verbs !!= @CODE@
+LEXICON INS_STEMS
+chaadiisdla:chaadiisdl CLASS-A "for S to hang C (pl) {cha} up by means of {INS} (in direction)" ;
+
+LEXICON SHAPE_CLSF_VERBS
+gáng:%>gá CLASS-ANG "for S to carry O (CL)" ; !NEEDS 
+wíi:%>w CLASS-II "for S to fall" ;
+sdla:%>sdl CLASS-A "for S to give O" ;
+
+LEXICON HUMAN_CLSF_VERBS
+dáal CLASS-AAL "for S (CL) to move slowly" ; !NEEDS 
+yáandaal CLASS-AAL "for S (CL) to run" ; 
+
+LEXICON VERBS !!= @CODE@
 CL/Color+dám+dalä:dám«dal CLASS-A "for S to be transparent, translucent in color" ; !NEEDS 
 aada:aad CLASS-A "for S to fish with a net, to seine" ;
 aadáa CLASS-AA "for S to have lace or netting on it" ;
