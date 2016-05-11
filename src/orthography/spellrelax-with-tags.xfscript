@@ -4,17 +4,17 @@ define spellrelax [
  é (->) e "eeX" || _ ?* "^e2E" ,,
  ä (->) a "aeX" || _ ?* "^a2ae" ,,
  ú (->) u "uuX" || _ ?* "^u2U" ,,
- g̲ (->) g  "ggX" || _ ?* "^g2G" ,,
- k̲ (->) k  "kkX" || _ ?* "^k2K" ,,
- x̲ (->) x  "xxX" || _ ?* "^x2X" ];
+ g̲ (->) g "ggX" || _ ?* "^g2G" ,,
+ k̲ (->) k "kkX" || _ ?* "^k2K" ,,
+ x̲ (->) x "xxX" || _ ?* "^x2X" ];
 
 define Restr1 "^a2A" => "aaX" ?* _ ;
 define Restr2 "^e2E" => "eeX" ?* _ ;
-define Restr3 "^a2ae" => "aeX" ?* _ ;
+define Restr3 "^a2ae"=> "aeX" ?* _ ;
 define Restr4 "^u2U" => "uuX" ?* _ ;
-define Restr5 "^g2G" =>  "ggX" ?* _ ;
-define Restr6 "^k2K" =>  "kkX" ?* _ ;
-define Restr7 "^x2X" =>  "xxX" ?* _ ;
+define Restr5 "^g2G" => "ggX" ?* _ ;
+define Restr6 "^k2K" => "kkX" ?* _ ;
+define Restr7 "^x2X" => "xxX" ?* _ ;
 
 define Clean "aaX" -> 0,
              "eeX" -> 0,
@@ -23,13 +23,13 @@ define Clean "aaX" -> 0,
              "ggX" -> 0,
              "kkX" -> 0,
              "xxX" -> 0,
-             "aaX" -> 0,
-             "eeX" -> 0,
-             "aeX" -> 0,
-             "uuX" -> 0,
-             "ggX" -> 0,
-             "kkX" -> 0,
-             "xxX" -> 0;
+            "^a2A" -> 0,
+            "^e2E" -> 0,
+            "^a2ae"-> 0,
+            "^u2U" -> 0,
+            "^g2G" -> 0,
+            "^k2K" -> 0,
+            "^x2X" -> 0;
 
 read regex spellrelax .o.
            Restr1     .o.
