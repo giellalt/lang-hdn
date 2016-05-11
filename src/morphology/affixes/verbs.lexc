@@ -16,6 +16,30 @@
 !!                           !!! Northern Haida verb affixes                       
 ! ========================================================================== !
 
+LEXICON VERB_PREFIXES
+ INSTRUMENTALS ;
+ SHAPE_CLSF ;
+ HUMAN_CLSF ;
+
+LEXICON INSTRUMENTALS
+tla%    INS_STEMS ;
+kyúu%   INS_STEMS ;
+
+LEXICON SHAPE_CLSF
+CL/Shape+CL/cha+:cha%< SHAPE_CLSF_VERBS ;
+CL/Shape+CL/tlʼa+:tlʼa%< SHAPE_CLSF_VERBS ;
+CL/Shape+CL/sk̲ʼa+:sk̲ʼa%< SHAPE_CLSF_VERBS ;
+CL/Shape+CL/skʼa+:skʼa%< SHAPE_CLSF_VERBS ;
+CL/Shape+CL/skáa+:skáa%< SHAPE_CLSF_VERBS ;
+CL/Shape+CL/gi+:gi%< SHAPE_CLSF_VERBS ; 
+
+LEXICON HUMAN_CLSF
+CL/Human+dla%< HUMAN_CLSF_VERBS ;
+CL/Human+x̲a:%< HUMAN_CLSF_VERBS ;
+CL/Human+tlʼab+:tlʼab%< HUMAN_CLSF_VERBS ;
+
+
+
 LEXICON CLASS-AA !!= @CODE@
 +V:                            CLASS-AA-INFL ;
 +V+Ext:dáal                    CLASS-AAL-INFL  ;
