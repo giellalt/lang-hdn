@@ -316,6 +316,7 @@ s2 !!= * @CODE@ =
  +Guess !!= * @CODE@ 
 
 %>
+%<
 
 !! Composite UTF-8 characters, i.e. g, k, and x with
 !!underlines, in various forms
@@ -379,7 +380,7 @@ LEXICON Root
 !! The word forms in Northern Haida start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
   Nouns   ;
-  Verbs   ;    !!= * @CODE@ 
+  VERB_ROOT  ;    !!= * @CODE@ 
   Adverbs ;
   Adjectives  ;
   Pronouns    ;
@@ -389,7 +390,7 @@ LEXICON Root
   Propernouns ;
   Punctuation ;
   Abbreviation ;
-  CLASSIFIERS ;
+!  CLASSIFIERS ;
 
 LEXICON Propernouns
 ProperNoun-hdn ;
