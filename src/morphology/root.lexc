@@ -123,25 +123,31 @@ s2 !!= * @CODE@ =
 
 
 
-!! The actual classifiers
+!! The Human Classifiers
 
 +CL/dla !!= * @CODE@ =
 +CL/hlga !!= * @CODE@ =
++CL/k’u !!= * @CODE@ =
+
+!! The Shape Classifiers
+
 +CL/cha !!= * @CODE@ =
-+CL/k̲ʼíi !!= * @CODE@ =
++CL/gáng !!= * @CODE@ =
 +CL/gi !!= * @CODE@ =
 +CL/gu !!= * @CODE@ =
 +CL/g̲a !!= * @CODE@ =
++CL/hlga !!= * @CODE@ =
 +CL/hlgi !!= * @CODE@ =
 +CL/hlg̲a !!= * @CODE@ =
++CL/hlk’u !!= * @CODE@ =
++CL/hlk̲’a !!= * @CODE@ =
 +CL/hlk̲’uhl !!= * @CODE@ =
 +CL/ja !!= * @CODE@ =
-+CL/k’u !!= * @CODE@ =
-+CL/k̲’íi !!= * @CODE@ =
++CL/k̲ʼíi !!= * @CODE@ =
 +CL/sda !!= * @CODE@ =
++CL/sga !!= * @CODE@ =
 +CL/sg̲a !!= * @CODE@ =
 +CL/skáa !!= * @CODE@ =
-+CL/skáa !!= * @CODE@ =
 +CL/sk’a !!= * @CODE@ =
 +CL/sk̲’a !!= * @CODE@ =
 +CL/stl’a !!= * @CODE@ =
@@ -149,8 +155,149 @@ s2 !!= * @CODE@ =
 +CL/tl’a !!= * @CODE@ =
 +CL/ts’as !!= * @CODE@ =
 +CL/t’a !!= * @CODE@ =
++CL/t’áw !!= * @CODE@ =
 +CL/xa !!= * @CODE@ =
 
+!! The Descriptive Classifiers
+
++CL/cháam !!= * @CODE@ =
++CL/chab !!= * @CODE@ =
++CL/dab !!= * @CODE@ =
++CL/dám !!= * @CODE@ =
++CL/dláam !!= * @CODE@ =
++CL/dlál !!= * @CODE@ =
++CL/gám !!= * @CODE@ =
++CL/gáw !!= * @CODE@ =
++CL/gyáam !!= * @CODE@ =
++CL/g̲áam !!= * @CODE@ =
++CL/ĝám !!= * @CODE@ =
++CL/hám !!= * @CODE@ =
++CL/hlgáam !!= * @CODE@ =
++CL/hlgám !!= * @CODE@ =
++CL/hlgi !!= * @CODE@ =
++CL/hlg̲áam !!= * @CODE@ =
++CL/hlg̲áy !!= * @CODE@ =
++CL/hlĝám !!= * @CODE@ =
++CL/hlku !!= * @CODE@ =
++CL/hlkuhl !!= * @CODE@ =
++CL/hlkʼu !!= * @CODE@ =
++CL/hlk̲ám !!= * @CODE@ =
++CL/hlk̲ʼáam !!= * @CODE@ =
++CL/hlk̲ʼuhl !!= * @CODE@ =
++CL/hlk̲ʼwáahl !!= * @CODE@ =
++CL/hltab !!= * @CODE@ =
++CL/hltám !!= * @CODE@ =
++CL/hltʼáam !!= * @CODE@ =
++CL/hltʼab !!= * @CODE@ =
++CL/hltʼahl !!= * @CODE@ =
++CL/id !!= * @CODE@ =
++CL/is !!= * @CODE@ =
++CL/ja !!= * @CODE@ =
++CL/jah !!= * @CODE@ =
++CL/jíi !!= * @CODE@ =
++CL/káa !!= * @CODE@ =
++CL/kál !!= * @CODE@ =
++CL/kám !!= * @CODE@ =
++CL/ki !!= * @CODE@ =
++CL/kún !!= * @CODE@ =
++CL/kʼu !!= * @CODE@ =
++CL/kʼúl !!= * @CODE@ =
++CL/k̲ám !!= * @CODE@ =
++CL/k̲áw !!= * @CODE@ =
++CL/k̲ʼa !!= * @CODE@ =
++CL/k̲ʼáam !!= * @CODE@ =
++CL/k̲ʼéem !!= * @CODE@ =
++CL/k̲ʼuhl !!= * @CODE@ =
++CL/k̲ʼún !!= * @CODE@ =
++CL/k̲ʼwáahl !!= * @CODE@ =
++CL/mál !!= * @CODE@ =
++CL/sdáam !!= * @CODE@ =
++CL/sdah !!= * @CODE@ =
++CL/sdúu !!= * @CODE@ =
++CL/sga !!= * @CODE@ =
++CL/sgab !!= * @CODE@ =
++CL/sgáam !!= * @CODE@ =
++CL/sgám !!= * @CODE@ =
++CL/sgíl !!= * @CODE@ =
++CL/sgún !!= * @CODE@ =
++CL/sg̲áam !!= * @CODE@ =
++CL/skám !!= * @CODE@ =
++CL/skʼáam !!= * @CODE@ =
++CL/skʼál !!= * @CODE@ =
++CL/sk̲ʼáam !!= * @CODE@ =
++CL/sk̲ʼihl !!= * @CODE@ =
++CL/smál !!= * @CODE@ =
++CL/stad !!= * @CODE@ =
++CL/stlúu !!= * @CODE@ =
++CL/stlʼáam !!= * @CODE@ =
++CL/sʼahl !!= * @CODE@ =
++CL/tlúu !!= * @CODE@ =
++CL/tlʼáam !!= * @CODE@ =
++CL/tlʼab !!= * @CODE@ =
++CL/tlʼad !!= * @CODE@ =
++CL/tlʼúu !!= * @CODE@ =
++CL/tsʼúu !!= * @CODE@ =
++CL/tʼáam !!= * @CODE@ =
++CL/tʼab !!= * @CODE@ =
++CL/tʼám !!= * @CODE@ =
++CL/xab !!= * @CODE@ =
++CL/xáw !!= * @CODE@ =
++CL/x̲a !!= * @CODE@ =
+
+!! Restricted Descriptive Classifiers
+
++CL/ga !!= * @CODE@ =
++CL/gáam !!= * @CODE@ =
++CL/gab !!= * @CODE@ =
++CL/gáng !!= * @CODE@ =
++CL/gu !!= * @CODE@ =
++CL/gúl !!= * @CODE@ =
++CL/hlkwáahl !!= * @CODE@ =
++CL/hlkʼib !!= * @CODE@ =
++CL/hlk̲áa !!= * @CODE@ =
++CL/hlk̲íl !!= * @CODE@ =
++CL/hltáam !!= * @CODE@ =
++CL/hltab !!= * @CODE@ =
++CL/hltʼah !!= * @CODE@ =
++CL/hltʼab !!= * @CODE@ =
++CL/jám !!= * @CODE@ =
++CL/jíi !!= * @CODE@ =
++CL/jíihl !!= * @CODE@ =
++CL/kám !!= * @CODE@ =
++CL/kún !!= * @CODE@ =
++CL/kʼwáa !!= * @CODE@ =
++CL/kʼwáahl !!= * @CODE@ =
++CL/k̲ab !!= * @CODE@ =
++CL/k̲ʼa !!= * @CODE@ =
++CL/k̲ʼah !!= * @CODE@ =
++CL/síi !!= * @CODE@ =
++CL/skáy !!= * @CODE@ =
++CL/sk̲ʼéehl !!= * @CODE@ =
++CL/stláam !!= * @CODE@ =
++CL/stlab !!= * @CODE@ =
++CL/stlʼúu !!= * @CODE@ =
++CL/sʼab !!= * @CODE@ =
++CL/sʼyúu !!= * @CODE@ =
++CL/tláa !!= * @CODE@ =
++CL/tlʼáahl !!= * @CODE@ =
++CL/tlʼán !!= * @CODE@ =
++CL/tlʼál !!= * @CODE@ =
++CL/tsʼám !!= * @CODE@ =
++CL/tʼab !!= * @CODE@ =
++CL/xáam !!= * @CODE@ =
++CL/xwáad !!= * @CODE@ =
++CL/x̲a !!= * @CODE@ =
++CL/x̲ab !!= * @CODE@ =
++CL/x̲aw !!= * @CODE@ =
++CL/x̲áam !!= * @CODE@ =
++CL/x̲ún !!= * @CODE@ =
++CL/x̲úl !!= * @CODE@ =
+
+!! Rare Classifiers (SKIPPED, LEXICALIZE THESE)
+
+!! Sound Classifiers (ALSO LEXICALIZE?)
+
+!! Human Classifers (to be added)
 
 !! The pre-verb classifiers
 
