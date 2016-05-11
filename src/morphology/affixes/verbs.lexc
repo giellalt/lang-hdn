@@ -20,6 +20,7 @@ LEXICON VERB_PREFIXES
  INSTRUMENTALS ;
  SHAPE_CLSF ;
  HUMAN_CLSF ;
+ DESCRIPTIVE_CLSF ;
 
 LEXICON INSTRUMENTALS
 tla%    INS_STEMS ;
@@ -38,7 +39,7 @@ CL/Human+CL/dla+:dla%< HUMAN_CLSF_VERBS ;
 CL/Human+CL/x̲a+:x̲a%< HUMAN_CLSF_VERBS ;
 CL/Human+CL/tlʼab+:tlʼab%< HUMAN_CLSF_VERBS ;
 
-LEXICON DESCRIPTIVE_CLASF
+LEXICON DESCRIPTIVE_CLSF
 CL/Descriptive+CL/cháam+:cháam%<      SHAPE_CLSF_VERBS ;
 CL/Descriptive+CL/chab+:chab%<        SHAPE_CLSF_VERBS ;
 CL/Descriptive+CL/dab+:dab%<          SHAPE_CLSF_VERBS ;
