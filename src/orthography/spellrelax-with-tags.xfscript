@@ -1,42 +1,18 @@
 ! Tags to be appended to an fst to get spell-relax tags:
 define spellrelax [
- á (->) a "aaX" || _ ?* "^a2A" ,,
- é (->) e "eeX" || _ ?* "^e2E" ,,
- ä (->) a "aeX" || _ ?* "^a2ae" ,,
- ú (->) u "uuX" || _ ?* "^u2U" ,,
- g̲ (->) g "ggX" || _ ?* "^g2G" ,,
- k̲ (->) k "kkX" || _ ?* "^k2K" ,,
- x̲ (->) x "xxX" || _ ?* "^x2X" ];
+ á (->) a "aaX" ,
+ é (->) e "aaX" ,
+ ä (->) a "aaX" ,
+ ú (->) u "aaX" ,
+ g̲ (->) g "aaX" ,
+ k̲ (->) k "aaX" ,
+ x̲ (->) x "aaX" || _ ?* "^a2A" ];
 
 define Restr1 "^a2A" => "aaX" ?* _ ;
-define Restr2 "^e2E" => "eeX" ?* _ ;
-define Restr3 "^a2ae"=> "aeX" ?* _ ;
-define Restr4 "^u2U" => "uuX" ?* _ ;
-define Restr5 "^g2G" => "ggX" ?* _ ;
-define Restr6 "^k2K" => "kkX" ?* _ ;
-define Restr7 "^x2X" => "xxX" ?* _ ;
 
 define Clean "aaX" -> 0,
-             "eeX" -> 0,
-             "aeX" -> 0,
-             "uuX" -> 0,
-             "ggX" -> 0,
-             "kkX" -> 0,
-             "xxX" -> 0,
-            "^a2A" -> 0,
-            "^e2E" -> 0,
-            "^a2ae"-> 0,
-            "^u2U" -> 0,
-            "^g2G" -> 0,
-            "^k2K" -> 0,
-            "^x2X" -> 0;
+            "^a2A" -> 0;
 
 read regex spellrelax .o.
            Restr1     .o.
-           Restr2     .o.
-           Restr3     .o.
-           Restr4     .o.
-           Restr5     .o.
-           Restr6     .o.
-           Restr7     .o.
            Clean ;
