@@ -1,9 +1,3 @@
 ! Tags to be appended to an fst to get spell-relax tags:
-( "+Err/a2A":"^a2A")
-( "+Err/e2E":"^e2E")
-("+Err/a2ae":"^a2ae")
-( "+Err/u2U":"^u2U")
-( "+Err/g2G":"^g2G")
-( "+Err/k2K":"^k2K")
-( "+Err/x2X":"^x2X")
+( "+Err/SpellRelax":"^a2A")
 ;
