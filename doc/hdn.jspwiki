@@ -118,25 +118,31 @@ Valency Tags
 
 
 
-The actual classifiers
+The Human Classifiers
 
  * +CL/dla  =
  * +CL/hlga  =
+ * +CL/k’u  =
+
+The Shape Classifiers
+
  * +CL/cha  =
- * +CL/k̲ʼíi  =
+ * +CL/gáng  =
  * +CL/gi  =
  * +CL/gu  =
  * +CL/g̲a  =
+ * +CL/hlga  =
  * +CL/hlgi  =
  * +CL/hlg̲a  =
+ * +CL/hlk’u  =
+ * +CL/hlk̲’a  =
  * +CL/hlk̲’uhl  =
  * +CL/ja  =
- * +CL/k’u  =
- * +CL/k̲’íi  =
+ * +CL/k̲ʼíi  =
  * +CL/sda  =
+ * +CL/sga  =
  * +CL/sg̲a  =
  * +CL/skáa  =
- * +CL/skáa  =
  * +CL/sk’a  =
  * +CL/sk̲’a  =
  * +CL/stl’a  =
@@ -144,8 +150,149 @@ The actual classifiers
  * +CL/tl’a  =
  * +CL/ts’as  =
  * +CL/t’a  =
+ * +CL/t’áw  =
  * +CL/xa  =
 
+The Descriptive Classifiers
+
+ * +CL/cháam  =
+ * +CL/chab  =
+ * +CL/dab  =
+ * +CL/dám  =
+ * +CL/dláam  =
+ * +CL/dlál  =
+ * +CL/gám  =
+ * +CL/gáw  =
+ * +CL/gyáam  =
+ * +CL/g̲áam  =
+ * +CL/ĝám  =
+ * +CL/hám  =
+ * +CL/hlgáam  =
+ * +CL/hlgám  =
+ * +CL/hlgi  =
+ * +CL/hlg̲áam  =
+ * +CL/hlg̲áy  =
+ * +CL/hlĝám  =
+ * +CL/hlku  =
+ * +CL/hlkuhl  =
+ * +CL/hlkʼu  =
+ * +CL/hlk̲ám  =
+ * +CL/hlk̲ʼáam  =
+ * +CL/hlk̲ʼuhl  =
+ * +CL/hlk̲ʼwáahl  =
+ * +CL/hltab  =
+ * +CL/hltám  =
+ * +CL/hltʼáam  =
+ * +CL/hltʼab  =
+ * +CL/hltʼahl  =
+ * +CL/id  =
+ * +CL/is  =
+ * +CL/ja  =
+ * +CL/jah  =
+ * +CL/jíi  =
+ * +CL/káa  =
+ * +CL/kál  =
+ * +CL/kám  =
+ * +CL/ki  =
+ * +CL/kún  =
+ * +CL/kʼu  =
+ * +CL/kʼúl  =
+ * +CL/k̲ám  =
+ * +CL/k̲áw  =
+ * +CL/k̲ʼa  =
+ * +CL/k̲ʼáam  =
+ * +CL/k̲ʼéem  =
+ * +CL/k̲ʼuhl  =
+ * +CL/k̲ʼún  =
+ * +CL/k̲ʼwáahl  =
+ * +CL/mál  =
+ * +CL/sdáam  =
+ * +CL/sdah  =
+ * +CL/sdúu  =
+ * +CL/sga  =
+ * +CL/sgab  =
+ * +CL/sgáam  =
+ * +CL/sgám  =
+ * +CL/sgíl  =
+ * +CL/sgún  =
+ * +CL/sg̲áam  =
+ * +CL/skám  =
+ * +CL/skʼáam  =
+ * +CL/skʼál  =
+ * +CL/sk̲ʼáam  =
+ * +CL/sk̲ʼihl  =
+ * +CL/smál  =
+ * +CL/stad  =
+ * +CL/stlúu  =
+ * +CL/stlʼáam  =
+ * +CL/sʼahl  =
+ * +CL/tlúu  =
+ * +CL/tlʼáam  =
+ * +CL/tlʼab  =
+ * +CL/tlʼad  =
+ * +CL/tlʼúu  =
+ * +CL/tsʼúu  =
+ * +CL/tʼáam  =
+ * +CL/tʼab  =
+ * +CL/tʼám  =
+ * +CL/xab  =
+ * +CL/xáw  =
+ * +CL/x̲a  =
+
+Restricted Descriptive Classifiers
+
+ * +CL/ga  =
+ * +CL/gáam  =
+ * +CL/gab  =
+ * +CL/gáng  =
+ * +CL/gu  =
+ * +CL/gúl  =
+ * +CL/hlkwáahl  =
+ * +CL/hlkʼib  =
+ * +CL/hlk̲áa  =
+ * +CL/hlk̲íl  =
+ * +CL/hltáam  =
+ * +CL/hltab  =
+ * +CL/hltʼah  =
+ * +CL/hltʼab  =
+ * +CL/jám  =
+ * +CL/jíi  =
+ * +CL/jíihl  =
+ * +CL/kám  =
+ * +CL/kún  =
+ * +CL/kʼwáa  =
+ * +CL/kʼwáahl  =
+ * +CL/k̲ab  =
+ * +CL/k̲ʼa  =
+ * +CL/k̲ʼah  =
+ * +CL/síi  =
+ * +CL/skáy  =
+ * +CL/sk̲ʼéehl  =
+ * +CL/stláam  =
+ * +CL/stlab  =
+ * +CL/stlʼúu  =
+ * +CL/sʼab  =
+ * +CL/sʼyúu  =
+ * +CL/tláa  =
+ * +CL/tlʼáahl  =
+ * +CL/tlʼán  =
+ * +CL/tlʼál  =
+ * +CL/tsʼám  =
+ * +CL/tʼab  =
+ * +CL/xáam  =
+ * +CL/xwáad  =
+ * +CL/x̲a  =
+ * +CL/x̲ab  =
+ * +CL/x̲aw  =
+ * +CL/x̲áam  =
+ * +CL/x̲ún  =
+ * +CL/x̲úl  =
+
+Rare Classifiers (SKIPPED, LEXICALIZE THESE)
+
+Sound Classifiers (ALSO LEXICALIZE?)
+
+Human Classifers (to be added)
 
 The pre-verb classifiers
 
@@ -324,11 +471,18 @@ given the proper use of these flags.
 
 The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
- *   Verbs   ;     
+ *   VERB_ROOT  ;     
 
 
 
 Northern Haida verb affixes                       
+
+
+
+
+
+
+
 
  LEXICON CLASS-AA 
 
@@ -619,7 +773,7 @@ Northern Haida verb affixes
 
  *  Vow = a e i o u y æ ø å  
         á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
- *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ç ý ñ ; 
+ *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
  *  Sgm = Vow Cns Orth   ; 
 
 
@@ -652,9 +806,8 @@ Northern Haida verb stems
 
 
 
- LEXICON Classifier_Verbstems  
 
- LEXICON Verbs 
+ LEXICON VERBS 
 V2
 V2
 V2
