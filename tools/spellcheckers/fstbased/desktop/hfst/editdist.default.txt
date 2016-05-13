@@ -34,8 +34,29 @@ x
 x̲
 y
 z
+A
+C
+D
+G
+G̲
+h
+I
+J
+K
+K̲
+L
+N
+Q
+S
+T
+U
+W
+X
+X̲
+Y
 -
 .
+ʼ
 0
 1
 2
@@ -48,21 +69,24 @@ z
 9
 :
 
+
 ## Transition pairs + weight - section separator:
 @@
 
 ## Transition pair specifications:
-a	á	-3
+a	á	-10
+a	ä	-10
 e	é	-3
 o	ó	-3
-u	ú	-3
+u	ú	-10
 i	í	-3
-g	g̲	-5
-k	k̲	-5
-x	x̲	-5
-g̲	g	-5
-k̲	k	-5
-x̲	x	-5
+g	g̲	-10
+k	k̲	-10
+x	x̲	-10
+g̲	g	-2
+k̲	k	-2
+x̲	x	-2
+'	ʼ	-20
 
 ## Swaps:
 ## Change dh into hd with the weight -2:

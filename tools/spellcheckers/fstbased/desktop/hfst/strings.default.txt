@@ -18,16 +18,16 @@ uu:u	-3
 hl:l	-2
 l:hl	-2
 
-gg:g	-8
-g:gg	-8
+gg:g	5
+g:gg	5
 
-hh:h	-2
-h:hh	-2
+hh:h	2
+h:hh	2
 
-dd:d	-2
-d:dd	-2
+dd:d	2
+d:dd	2
 
-ll:l	-2
-l:ll	-2
+ll:l	2
+l:ll	2
 
 
