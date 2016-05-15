@@ -120,7 +120,6 @@ duugang	dúugang
 duuʼwaang	dúuʼwaang
 een	éen
 eenaa	éenaa
-ga	gä
 gaa	g̲aa
 gaadang	g̲áadang
 gaan	g̲áan
@@ -191,7 +190,6 @@ gingasaang	gíngäsaang
 ginggan	gínggan
 ginggang	gínggang
 gingʼwaang	gíngʼwaang
-gu	g̲u
 guda	gudä
 gudaang	gudáang
 gudaangaa	gudáangaa
