@@ -75,13 +75,13 @@ Z
 @@
 
 ## Transition pair specifications:
-a	á	-10
-a	ä	-10
-e	é	-3
-o	ó	-3
-u	ú	-10
-i	í	-3
-'	ʼ	-20
+a	á	2
+a	ä	3
+e	é	2
+o	ó	2
+u	ú	2
+i	í	2
+'	ʼ	0
 
 ## Swaps:
 ## Change dh into hd with the weight -2:
