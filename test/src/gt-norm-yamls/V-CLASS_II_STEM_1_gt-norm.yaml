@@ -11,168 +11,168 @@ Tests:
 
   Verb - g̲íihlgii - ENGLISH : # CLASS_II_STEM_1
 
-     g̲íihlgii+V+SG+IMPV: g̲íihlgii
-     g̲íihlgii+V+IMM+PRES: g̲íihlgiiga
-     g̲íihlgii+V+INTERR+SIMP+PRES: g̲íihlgii
-     g̲íihlgii+V+SIMP+PRES: g̲íihlgiigang
-     g̲íihlgii+V+DIR+PAST: g̲íihlgiigan
-     g̲íihlgii+V+REL: g̲íihlgiis
-     g̲íihlgii+V+NONFACT: g̲íihlgiiang
-     g̲íihlgii+V+INTERR+PRES+HAB: g̲íihlgiigang
-     g̲íihlgii+V+PRES+HAB: g̲íihlgiiganggang
-     g̲íihlgii+V+PRES+HAB+NONFACT: g̲íihlgiigangang
-     g̲íihlgii+V+DIR+PAST+HAB: g̲íihlgiigiinii
-     g̲íihlgii+V+INTERR+PAST+HAB: g̲íihlgiigaangaa
-     g̲íihlgii+V+INDIR+PAST+HAB: g̲íihlgiigaangaan
-     g̲íihlgii+V+INTERR+FUT+LONG: g̲íihlgiiäsaa
-     g̲íihlgii+V+INTERR+FUT+SHORT: g̲íihlgiiäs
-     g̲íihlgii+V+SIMP+FUT: g̲íihlgiiäsaang
-     g̲íihlgii+V+IMM+FUT: g̲íihlgiiäsga
-     g̲íihlgii+V+REL+FUT: g̲íihlgiiäsaas
-     g̲íihlgii+V+FUT+NONFACT: g̲íihlgiiäsaa.ang
-     g̲íihlgii+V+INTERR+NEAR+FUT: g̲íihlgiiang k̲asa'áa
-     g̲íihlgii+V+NEAR+FUT: g̲íihlgiiang k̲asa'áang
-     g̲íihlgii+V+INTERR+VNEAR+FUT: g̲íihlgiiang k̲asaasdláa
-     g̲íihlgii+V+VNEAR+FUT: g̲íihlgiiang k̲asaasdláang
-     g̲íihlgii+V+BIAS+IMM+PRES: g̲íihlgii'uuj
-     g̲íihlgii+V+BIAS+SIMP+PRES: g̲íihlgii'uujang
-     g̲íihlgii+V+RES: g̲íihlgiiäsaa'uujang
-     g̲íihlgii+V+BIAS+INTERR+PRES: g̲íihlgii'us
-     g̲íihlgii+V+BIAS+INTERR+PAST: g̲íihlgii'ujaa
-     g̲íihlgii+V+BIAS+INTERR+PAST+HAB: g̲íihlgii'uujaangaa
-     g̲íihlgii+V+BIAS+INTERR+FUT: g̲íihlgiiäsaa'us
-     g̲íihlgii+V+CERT+FUT: g̲íihlgiiäsaa'ahlans
-     g̲íihlgii+V+FUT+RFLX+INTERR: g̲íihlgiiäseehl
-     g̲íihlgii+V+PL+IMPV: g̲íihlgii'uu
-     g̲íihlgii+V+3PL+IMM+PRES: g̲íihlgii'waa
-     g̲íihlgii+V+3PL+INTERR+SIMP+PRES: g̲íihlgii'waa
-     g̲íihlgii+V+3PL+SIMP+PRES: g̲íihlgii'waang
-     g̲íihlgii+V+3PL+DIR+PAST: g̲íihlgii'wägan
-     g̲íihlgii+V+3PL+INTERR+PAST: g̲íihlgii'aawaa
-     g̲íihlgii+V+3PL+INDIR+PAST: g̲íihlgii'aawaan
-     g̲íihlgii+V+3PL+REL: g̲íihlgii'waas
-     g̲íihlgii+V+3PL+REL+EVID: g̲íihlgii'aawaas
-     g̲íihlgii+V+3PL+NONFACT: g̲íihlgii'waa.ang
-     g̲íihlgii+V+3PL+PAST+NONFACT: g̲íihlgii'aawaa.ang
-     g̲íihlgii+V+3PL+INTERR+PRES+HAB: g̲íihlgiigang'waa
-     g̲íihlgii+V+3PL+PRES+HAB: g̲íihlgiigang'waang
-     g̲íihlgii+V+3PL+PRES+HAB+NONFACT: g̲íihlgiigang'waa.ang
-     g̲íihlgii+V+3PL+DIR+PAST+HAB: g̲íihlgii'wägiinii
-     g̲íihlgii+V+3PL+INTERR+PAST+HAB: g̲íihlgii'wägaangaa
-     g̲íihlgii+V+3PL+INDIR+PAST+HAB: g̲íihlgii'wägaangaan
-     g̲íihlgii+V+3PL+INTERR+FUT+LONG: g̲íihlgii'waaäsaa
-     g̲íihlgii+V+3PL+INTERR+FUT+SHORT: g̲íihlgii'waaäs
-     g̲íihlgii+V+3PL+SIMP+FUT: g̲íihlgii'waaäsaang
-     g̲íihlgii+V+3PL+IMM+FUT: g̲íihlgii'waaäsga
-     g̲íihlgii+V+3PL+REL+FUT: g̲íihlgii'waaäsaas
-     g̲íihlgii+V+3PL+FUT+NONFACT: g̲íihlgii'waaäsaa.ang
-     g̲íihlgii+V+3PL+INTERR+NEAR+FUT: g̲íihlgii'waa.ang k̲asa'áa
-     g̲íihlgii+V+3PL+NEAR+FUT: g̲íihlgii'waa.ang k̲asa'áang
-     g̲íihlgii+V+3PL+INTERR+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdláa
-     g̲íihlgii+V+3PL+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdláang
-     g̲íihlgii+V+3PL+BIAS+IMM+PRES: g̲íihlgii'waa'uuj
-     g̲íihlgii+V+3PL+BIAS+SIMP+PRES: g̲íihlgii'waa'uujang
-     g̲íihlgii+V+3PL+RES: g̲íihlgii'waaäsaa'uujang
-     g̲íihlgii+V+3PL+BIAS+INTERR+PRES: g̲íihlgii'waa'us
-     g̲íihlgii+V+3PL+BIAS+INTERR+PAST: g̲íihlgii'waa'ujaa
-     g̲íihlgii+V+3PL+BIAS+INTERR+PAST+HAB: g̲íihlgii'waa'uujaangaa
-     g̲íihlgii+V+3PL+BIAS+INTERR+FUT: g̲íihlgii'waaäsaa'us
-     g̲íihlgii+V+3PL+CERT+PRES: g̲íihlgii'waa'ahlanggang
-     g̲íihlgii+V+3PL+CERT+PAST: g̲íihlgii'waa'ahlanggan
-     g̲íihlgii+V+3PL+CERT+PAST+HAB: g̲íihlgii'waa'ahlanggiinii
-     g̲íihlgii+V+3PL+CERT+FUT: g̲íihlgii'waaäsaa'ahlans
-     g̲íihlgii+V+3PL+CERT+REL: g̲íihlgii'waa'ahlans
-     g̲íihlgii+V+3PL+INTS+PAST: g̲íihlgii'aawaa'ahlang
-     g̲íihlgii+V+3PL+CONT: g̲íihlgii'aawaa'ahlanggaa
-     g̲íihlgii+V+3PL+CTFACT+PRES: g̲íihlgii'aawaa'ahlanggang
-     g̲íihlgii+V+3PL+RFLX: g̲íihlgii'waa'ahl
-     g̲íihlgii+V+3PL+FUT+RFLX+INTERR: g̲íihlgii'waaäseehl
-     g̲íihlgii+V+NEG+SG+IMPV: g̲íihlgii'ang
-     g̲íihlgii+V+NEG+IMM+PRES: g̲íihlgii'angga
-     g̲íihlgii+V+NEG+INTERR+SIMP+PRES: g̲íihlgii'ang
-     g̲íihlgii+V+NEG+SIMP+PRES: g̲íihlgii'anggang
-     g̲íihlgii+V+NEG+DIR+PAST: g̲íihlgii'anggan
-     g̲íihlgii+V+NEG+INTERR+PAST: g̲íihlgii'aangaa
-     g̲íihlgii+V+NEG+INDIR+PAST: g̲íihlgii'aangaan
-     g̲íihlgii+V+NEG+REL: g̲íihlgii'ans
-     g̲íihlgii+V+NEG+REL+EVID: g̲íihlgii'aangaas
-     g̲íihlgii+V+NEG+NONFACT: g̲íihlgii'angang
-     g̲íihlgii+V+NEG+PAST+NONFACT: g̲íihlgii'aangaa.ang
-     g̲íihlgii+V+NEG+INTERR+PRES+HAB: g̲íihlgii'anggang
-     g̲íihlgii+V+NEG+PRES+HAB: g̲íihlgiigang'anggang
-     g̲íihlgii+V+NEG+PRES+HAB+NONFACT: g̲íihlgiigang'angang
-     g̲íihlgii+V+NEG+DIR+PAST+HAB: g̲íihlgii'anggiinii
-     g̲íihlgii+V+NEG+INTERR+PAST+HAB: g̲íihlgii'anggaangaa
-     g̲íihlgii+V+NEG+INDIR+PAST+HAB: g̲íihlgii'anggaangaan
-     g̲íihlgii+V+NEG+INTERR+FUT+LONG: g̲íihlgii'angäsaa
-     g̲íihlgii+V+NEG+INTERR+FUT+SHORT: g̲íihlgii'angäs
-     g̲íihlgii+V+NEG+SIMP+FUT: g̲íihlgii'angäsaang
-     g̲íihlgii+V+NEG+IMM+FUT: g̲íihlgii'angäsga
-     g̲íihlgii+V+NEG+REL+FUT: g̲íihlgii'angäsaas
-     g̲íihlgii+V+NEG+FUT+NONFACT: g̲íihlgii'angäsaa.ang
-     g̲íihlgii+V+NEG+INTERR+NEAR+FUT: g̲íihlgiiang k̲asaa'áng
-     g̲íihlgii+V+NEG+NEAR+FUT: g̲íihlgiiang k̲asaa'ánggang
-     g̲íihlgii+V+NEG+INTERR+VNEAR+FUT: g̲íihlgiiang k̲asaasdlä'áng
-     g̲íihlgii+V+NEG+VNEAR+FUT: g̲íihlgiiang k̲asaasdlä'ánggang
-     g̲íihlgii+V+NEG+BIAS+IMM+PRES: g̲íihlgii'ang'uuj
-     g̲íihlgii+V+NEG+BIAS+SIMP+PRES: g̲íihlgii'ang'uujang
-     g̲íihlgii+V+NEG+RES: g̲íihlgii'angäsaa'uujang
-     g̲íihlgii+V+NEG+BIAS+INTERR+PRES: g̲íihlgii'ang'us
-     g̲íihlgii+V+NEG+BIAS+INTERR+PAST: g̲íihlgii'ang'ujaa
-     g̲íihlgii+V+NEG+BIAS+INTERR+PAST+HAB: g̲íihlgii'ang'uujaangaa
-     g̲íihlgii+V+NEG+BIAS+INTERR+FUT: g̲íihlgii'angäsaa'us
-     g̲íihlgii+V+NEG+CERT+PRES: g̲íihlgii'aang'ahlanggang
-     g̲íihlgii+V+NEG+CERT+PAST: g̲íihlgii'aang'ahlanggan
-     g̲íihlgii+V+NEG+CERT+PAST+HAB: g̲íihlgii'aang'ahlanggiinii
-     g̲íihlgii+V+NEG+CERT+FUT: g̲íihlgii'angäsaa'ahlans
-     g̲íihlgii+V+NEG+CERT+REL: g̲íihlgii'aang'ahlans
-     g̲íihlgii+V+NEG+INTS+PAST: g̲íihlgii'aangaa'ahlang
-     g̲íihlgii+V+NEG+CONT: g̲íihlgii'aangaa'ahlanggaa
-     g̲íihlgii+V+NEG+CTFACT+PRES: g̲íihlgii'aangaa'ahlanggang
-     g̲íihlgii+V+NEG+RFLX: g̲íihlgii'aang'ahl
-     g̲íihlgii+V+NEG+FUT+RFLX+INTERR: g̲íihlgii'angäseehl
-     g̲íihlgii+V+NEG+PL+IMPV: g̲íihlgii'ang'uu
-     g̲íihlgii+V+NEG+3PL+IMM+PRES: g̲íihlgii'ang'waa
-     g̲íihlgii+V+NEG+3PL+INTERR+SIMP+PRES: g̲íihlgii'ang'waa
-     g̲íihlgii+V+NEG+3PL+SIMP+PRES: g̲íihlgii'ang'waang
-     g̲íihlgii+V+NEG+3PL+DIR+PAST: g̲íihlgii'ang'wägan
-     g̲íihlgii+V+NEG+3PL+INTERR+PAST: g̲íihlgii'ang'aawaa
-     g̲íihlgii+V+NEG+3PL+INDIR+PAST: g̲íihlgii'ang'aawaan
-     g̲íihlgii+V+NEG+3PL+REL: g̲íihlgii'ang'waas
-     g̲íihlgii+V+NEG+3PL+REL+EVID: g̲íihlgii'ang'aawaas
-     g̲íihlgii+V+NEG+3PL+NONFACT: g̲íihlgii'ang'waa.ang
-     g̲íihlgii+V+NEG+3PL+PAST+NONFACT: g̲íihlgii'ang'aawaa.ang
-     g̲íihlgii+V+NEG+3PL+INTERR+PRES+HAB: g̲íihlgiigang'ang'waa
-     g̲íihlgii+V+NEG+3PL+PRES+HAB: g̲íihlgiigang'ang'waang
-     g̲íihlgii+V+NEG+3PL+PRES+HAB+NONFACT: g̲íihlgiigang'ang'waa.ang
-     g̲íihlgii+V+NEG+3PL+DIR+PAST+HAB: g̲íihlgii'ang'wägiinii
-     g̲íihlgii+V+NEG+3PL+INTERR+PAST+HAB: g̲íihlgii'ang'wägaangaa
-     g̲íihlgii+V+NEG+3PL+INDIR+PAST+HAB: g̲íihlgii'ang'wägaangaan
-     g̲íihlgii+V+NEG+3PL+INTERR+FUT+LONG: g̲íihlgii'ang'waaäsaa
-     g̲íihlgii+V+NEG+3PL+INTERR+FUT+SHORT: g̲íihlgii'ang'waaäs
-     g̲íihlgii+V+NEG+3PL+SIMP+FUT: g̲íihlgii'ang'waaäsaang
-     g̲íihlgii+V+NEG+3PL+IMM+FUT: g̲íihlgii'ang'waaäsga
-     g̲íihlgii+V+NEG+3PL+REL+FUT: g̲íihlgii'ang'waaäsaas
-     g̲íihlgii+V+NEG+3PL+FUT+NONFACT: g̲íihlgii'ang'waaäsaa.ang
-     g̲íihlgii+V+NEG+3PL+INTERR+NEAR+FUT: g̲íihlgii'waa.ang k̲asaa'áng
-     g̲íihlgii+V+NEG+3PL+NEAR+FUT: g̲íihlgii'waa.ang k̲asaa'ánggang
-     g̲íihlgii+V+NEG+3PL+INTERR+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdlä'áng
-     g̲íihlgii+V+NEG+3PL+VNEAR+FUT: g̲íihlgii'waa.ang k̲asaasdlä'ánggang
-     g̲íihlgii+V+NEG+3PL+BIAS+IMM+PRES: g̲íihlgii'ang'waa'uuj
-     g̲íihlgii+V+NEG+3PL+BIAS+SIMP+PRES: g̲íihlgii'ang'waa'uujang
-     g̲íihlgii+V+NEG+3PL+RES: g̲íihlgii'ang'waaäsaa'uujang
-     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+PRES: g̲íihlgii'ang'waa'us
-     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+PAST: g̲íihlgii'ang'waa'ujaa
-     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+PAST+HAB: g̲íihlgii'ang'waa'uujaangaa
-     g̲íihlgii+V+NEG+3PL+BIAS+INTERR+FUT: g̲íihlgii'ang'waaäsaa'us
-     g̲íihlgii+V+NEG+3PL+CERT+PRES: g̲íihlgii'ang'waa'ahlanggang
-     g̲íihlgii+V+NEG+3PL+CERT+PAST: g̲íihlgii'ang'waa'ahlanggan
-     g̲íihlgii+V+NEG+3PL+CERT+PAST+HAB: g̲íihlgii'ang'waa'ahlanggiinii
-     g̲íihlgii+V+NEG+3PL+CERT+FUT: g̲íihlgii'ang'waaäsaa'ahlans
-     g̲íihlgii+V+NEG+3PL+CERT+REL: g̲íihlgii'ang'waa'ahlans
-     g̲íihlgii+V+NEG+3PL+INTS+PAST: g̲íihlgii'ang'aawaa'ahlang
-     g̲íihlgii+V+NEG+3PL+CONT: g̲íihlgii'ang'aawaa'ahlanggaa
-     g̲íihlgii+V+NEG+3PL+CTFACT+PRES: g̲íihlgii'ang'aawaa'ahlanggang
-     g̲íihlgii+V+NEG+3PL+RFLX: g̲íihlgii'ang'waa'ahl
-     g̲íihlgii+V+NEG+3PL+FUT+RFLX+INTERR: g̲íihlgii'ang'waaäseehl
+     g̲íihlgii+V+Sg+Impv: g̲íihlgii
+     g̲íihlgii+V+Imm+Pres: g̲íihlgiiga
+     g̲íihlgii+V+Interr+Simp+Pres: g̲íihlgii
+     g̲íihlgii+V+Simp+Pres: g̲íihlgiigang
+     g̲íihlgii+V+Dir+Past: g̲íihlgiigan
+     g̲íihlgii+V+Rel: g̲íihlgiis
+     g̲íihlgii+V+NonFact: g̲íihlgiiang
+     g̲íihlgii+V+Interr+Pres+Hab: g̲íihlgiigang
+     g̲íihlgii+V+Pres+Hab: g̲íihlgiiganggang
+     g̲íihlgii+V+Pres+Hab+NonFact: g̲íihlgiigangang
+     g̲íihlgii+V+Dir+Past+Hab: g̲íihlgiigiinii
+     g̲íihlgii+V+Interr+Past+Hab: g̲íihlgiigaangaa
+     g̲íihlgii+V+Indir+Past+Hab: g̲íihlgiigaangaan
+     g̲íihlgii+V+Interr+Fut+Long: g̲íihlgiiäsaa
+     g̲íihlgii+V+Interr+Fut+Short: g̲íihlgiiäs
+     g̲íihlgii+V+Simp+Fut: g̲íihlgiiäsaang
+     g̲íihlgii+V+Imm+Fut: g̲íihlgiiäsga
+     g̲íihlgii+V+Rel+Fut: g̲íihlgiiäsaas
+     g̲íihlgii+V+Fut+NonFact: g̲íihlgiiäsaa.ang
+     g̲íihlgii+V+Interr+Near+Fut: g̲íihlgiiang k̲asaʼáa
+     g̲íihlgii+V+Near+Fut: g̲íihlgiiang k̲asaʼáang
+     g̲íihlgii+V+Interr+VNear+Fut: g̲íihlgiiang k̲asaasdláa
+     g̲íihlgii+V+VNear+Fut: g̲íihlgiiang k̲asaasdláang
+     g̲íihlgii+V+Bias+Imm+Pres: g̲íihlgiiʼuuj
+     g̲íihlgii+V+Bias+Simp+Pres: g̲íihlgiiʼuujang
+     g̲íihlgii+V+Res: g̲íihlgiiäsaaʼuujang
+     g̲íihlgii+V+Bias+Interr+Pres: g̲íihlgiiʼus
+     g̲íihlgii+V+Bias+Interr+Past: g̲íihlgiiʼujaa
+     g̲íihlgii+V+Bias+Interr+Past+Hab: g̲íihlgiiʼuujaangaa
+     g̲íihlgii+V+Bias+Interr+Fut: g̲íihlgiiäsaaʼus
+     g̲íihlgii+V+Cert+Fut: g̲íihlgiiäsaaʼahlans
+     g̲íihlgii+V+Fut+Rflx+Interr: g̲íihlgiiäseehl
+     g̲íihlgii+V+Pl+Impv: g̲íihlgiiʼuu
+     g̲íihlgii+V+3pl+Imm+Pres: g̲íihlgiiʼwaa
+     g̲íihlgii+V+3pl+Interr+Simp+Pres: g̲íihlgiiʼwaa
+     g̲íihlgii+V+3pl+Simp+Pres: g̲íihlgiiʼwaang
+     g̲íihlgii+V+3pl+Dir+Past: g̲íihlgiiʼwägan
+     g̲íihlgii+V+3pl+Interr+Past: g̲íihlgiiʼaawaa
+     g̲íihlgii+V+3pl+Indir+Past: g̲íihlgiiʼaawaan
+     g̲íihlgii+V+3pl+Rel: g̲íihlgiiʼwaas
+     g̲íihlgii+V+3pl+Rel+Evid: g̲íihlgiiʼaawaas
+     g̲íihlgii+V+3pl+NonFact: g̲íihlgiiʼwaa.ang
+     g̲íihlgii+V+3pl+Past+NonFact: g̲íihlgiiʼaawaa.ang
+     g̲íihlgii+V+3pl+Interr+Pres+Hab: g̲íihlgiigangʼwaa
+     g̲íihlgii+V+3pl+Pres+Hab: g̲íihlgiigangʼwaang
+     g̲íihlgii+V+3pl+Pres+Hab+NonFact: g̲íihlgiigangʼwaa.ang
+     g̲íihlgii+V+3pl+Dir+Past+Hab: g̲íihlgiiʼwägiinii
+     g̲íihlgii+V+3pl+Interr+Past+Hab: g̲íihlgiiʼwägaangaa
+     g̲íihlgii+V+3pl+Indir+Past+Hab: g̲íihlgiiʼwägaangaan
+     g̲íihlgii+V+3pl+Interr+Fut+Long: g̲íihlgiiʼwaaäsaa
+     g̲íihlgii+V+3pl+Interr+Fut+Short: g̲íihlgiiʼwaaäs
+     g̲íihlgii+V+3pl+Simp+Fut: g̲íihlgiiʼwaaäsaang
+     g̲íihlgii+V+3pl+Imm+Fut: g̲íihlgiiʼwaaäsga
+     g̲íihlgii+V+3pl+Rel+Fut: g̲íihlgiiʼwaaäsaas
+     g̲íihlgii+V+3pl+Fut+NonFact: g̲íihlgiiʼwaaäsaa.ang
+     g̲íihlgii+V+3pl+Interr+Near+Fut: g̲íihlgiiʼwaa.ang k̲asaʼáa
+     g̲íihlgii+V+3pl+Near+Fut: g̲íihlgiiʼwaa.ang k̲asaʼáang
+     g̲íihlgii+V+3pl+Interr+VNear+Fut: g̲íihlgiiʼwaa.ang k̲asaasdláa
+     g̲íihlgii+V+3pl+VNear+Fut: g̲íihlgiiʼwaa.ang k̲asaasdláang
+     g̲íihlgii+V+3pl+Bias+Imm+Pres: g̲íihlgiiʼwaaʼuuj
+     g̲íihlgii+V+3pl+Bias+Simp+Pres: g̲íihlgiiʼwaaʼuujang
+     g̲íihlgii+V+3pl+Res: g̲íihlgiiʼwaaäsaaʼuujang
+     g̲íihlgii+V+3pl+Bias+Interr+Pres: g̲íihlgiiʼwaaʼus
+     g̲íihlgii+V+3pl+Bias+Interr+Past: g̲íihlgiiʼwaaʼujaa
+     g̲íihlgii+V+3pl+Bias+Interr+Past+Hab: g̲íihlgiiʼwaaʼuujaangaa
+     g̲íihlgii+V+3pl+Bias+Interr+Fut: g̲íihlgiiʼwaaäsaaʼus
+     g̲íihlgii+V+3pl+Cert+Pres: g̲íihlgiiʼwaaʼahlanggang
+     g̲íihlgii+V+3pl+Cert+Past: g̲íihlgiiʼwaaʼahlanggan
+     g̲íihlgii+V+3pl+Cert+Past+Hab: g̲íihlgiiʼwaaʼahlanggiinii
+     g̲íihlgii+V+3pl+Cert+Fut: g̲íihlgiiʼwaaäsaaʼahlans
+     g̲íihlgii+V+3pl+Cert+Rel: g̲íihlgiiʼwaaʼahlans
+     g̲íihlgii+V+3pl+Ints+Past: g̲íihlgiiʼaawaaʼahlang
+     g̲íihlgii+V+3pl+Cont: g̲íihlgiiʼaawaaʼahlanggaa
+     g̲íihlgii+V+3pl+Ctfact+Pres: g̲íihlgiiʼaawaaʼahlanggang
+     g̲íihlgii+V+3pl+Rflx: g̲íihlgiiʼwaaʼahl
+     g̲íihlgii+V+3pl+Fut+Rflx+Interr: g̲íihlgiiʼwaaäseehl
+     g̲íihlgii+V+Neg+Sg+Impv: g̲íihlgiiʼang
+     g̲íihlgii+V+Neg+Imm+Pres: g̲íihlgiiʼangga
+     g̲íihlgii+V+Neg+Interr+Simp+Pres: g̲íihlgiiʼang
+     g̲íihlgii+V+Neg+Simp+Pres: g̲íihlgiiʼanggang
+     g̲íihlgii+V+Neg+Dir+Past: g̲íihlgiiʼanggan
+     g̲íihlgii+V+Neg+Interr+Past: g̲íihlgiiʼaangaa
+     g̲íihlgii+V+Neg+Indir+Past: g̲íihlgiiʼaangaan
+     g̲íihlgii+V+Neg+Rel: g̲íihlgiiʼans
+     g̲íihlgii+V+Neg+Rel+Evid: g̲íihlgiiʼaangaas
+     g̲íihlgii+V+Neg+NonFact: g̲íihlgiiʼangang
+     g̲íihlgii+V+Neg+Past+NonFact: g̲íihlgiiʼaangaa.ang
+     g̲íihlgii+V+Neg+Interr+Pres+Hab: g̲íihlgiiʼanggang
+     g̲íihlgii+V+Neg+Pres+Hab: g̲íihlgiigangʼanggang
+     g̲íihlgii+V+Neg+Pres+Hab+NonFact: g̲íihlgiigangʼangang
+     g̲íihlgii+V+Neg+Dir+Past+Hab: g̲íihlgiiʼanggiinii
+     g̲íihlgii+V+Neg+Interr+Past+Hab: g̲íihlgiiʼanggaangaa
+     g̲íihlgii+V+Neg+Indir+Past+Hab: g̲íihlgiiʼanggaangaan
+     g̲íihlgii+V+Neg+Interr+Fut+Long: g̲íihlgiiʼangäsaa
+     g̲íihlgii+V+Neg+Interr+Fut+Short: g̲íihlgiiʼangäs
+     g̲íihlgii+V+Neg+Simp+Fut: g̲íihlgiiʼangäsaang
+     g̲íihlgii+V+Neg+Imm+Fut: g̲íihlgiiʼangäsga
+     g̲íihlgii+V+Neg+Rel+Fut: g̲íihlgiiʼangäsaas
+     g̲íihlgii+V+Neg+Fut+NonFact: g̲íihlgiiʼangäsaa.ang
+     g̲íihlgii+V+Neg+Interr+Near+Fut: g̲íihlgiiang k̲asaaʼáng
+     g̲íihlgii+V+Neg+Near+Fut: g̲íihlgiiang k̲asaaʼánggang
+     g̲íihlgii+V+Neg+Interr+VNear+Fut: g̲íihlgiiang k̲asaasdläʼáng
+     g̲íihlgii+V+Neg+VNear+Fut: g̲íihlgiiang k̲asaasdläʼánggang
+     g̲íihlgii+V+Neg+Bias+Imm+Pres: g̲íihlgiiʼangʼuuj
+     g̲íihlgii+V+Neg+Bias+Simp+Pres: g̲íihlgiiʼangʼuujang
+     g̲íihlgii+V+Neg+Res: g̲íihlgiiʼangäsaaʼuujang
+     g̲íihlgii+V+Neg+Bias+Interr+Pres: g̲íihlgiiʼangʼus
+     g̲íihlgii+V+Neg+Bias+Interr+Past: g̲íihlgiiʼangʼujaa
+     g̲íihlgii+V+Neg+Bias+Interr+Past+Hab: g̲íihlgiiʼangʼuujaangaa
+     g̲íihlgii+V+Neg+Bias+Interr+Fut: g̲íihlgiiʼangäsaaʼus
+     g̲íihlgii+V+Neg+Cert+Pres: g̲íihlgiiʼaangʼahlanggang
+     g̲íihlgii+V+Neg+Cert+Past: g̲íihlgiiʼaangʼahlanggan
+     g̲íihlgii+V+Neg+Cert+Past+Hab: g̲íihlgiiʼaangʼahlanggiinii
+     g̲íihlgii+V+Neg+Cert+Fut: g̲íihlgiiʼangäsaaʼahlans
+     g̲íihlgii+V+Neg+Cert+Rel: g̲íihlgiiʼaangʼahlans
+     g̲íihlgii+V+Neg+Ints+Past: g̲íihlgiiʼaangaaʼahlang
+     g̲íihlgii+V+Neg+Cont: g̲íihlgiiʼaangaaʼahlanggaa
+     g̲íihlgii+V+Neg+Ctfact+Pres: g̲íihlgiiʼaangaaʼahlanggang
+     g̲íihlgii+V+Neg+Rflx: g̲íihlgiiʼaangʼahl
+     g̲íihlgii+V+Neg+Fut+Rflx+Interr: g̲íihlgiiʼangäseehl
+     g̲íihlgii+V+Neg+Pl+Impv: g̲íihlgiiʼangʼuu
+     g̲íihlgii+V+Neg+3pl+Imm+Pres: g̲íihlgiiʼangʼwaa
+     g̲íihlgii+V+Neg+3pl+Interr+Simp+Pres: g̲íihlgiiʼangʼwaa
+     g̲íihlgii+V+Neg+3pl+Simp+Pres: g̲íihlgiiʼangʼwaang
+     g̲íihlgii+V+Neg+3pl+Dir+Past: g̲íihlgiiʼangʼwägan
+     g̲íihlgii+V+Neg+3pl+Interr+Past: g̲íihlgiiʼangʼaawaa
+     g̲íihlgii+V+Neg+3pl+Indir+Past: g̲íihlgiiʼangʼaawaan
+     g̲íihlgii+V+Neg+3pl+Rel: g̲íihlgiiʼangʼwaas
+     g̲íihlgii+V+Neg+3pl+Rel+Evid: g̲íihlgiiʼangʼaawaas
+     g̲íihlgii+V+Neg+3pl+NonFact: g̲íihlgiiʼangʼwaa.ang
+     g̲íihlgii+V+Neg+3pl+Past+NonFact: g̲íihlgiiʼangʼaawaa.ang
+     g̲íihlgii+V+Neg+3pl+Interr+Pres+Hab: g̲íihlgiigangʼangʼwaa
+     g̲íihlgii+V+Neg+3pl+Pres+Hab: g̲íihlgiigangʼangʼwaang
+     g̲íihlgii+V+Neg+3pl+Pres+Hab+NonFact: g̲íihlgiigangʼangʼwaa.ang
+     g̲íihlgii+V+Neg+3pl+Dir+Past+Hab: g̲íihlgiiʼangʼwägiinii
+     g̲íihlgii+V+Neg+3pl+Interr+Past+Hab: g̲íihlgiiʼangʼwägaangaa
+     g̲íihlgii+V+Neg+3pl+Indir+Past+Hab: g̲íihlgiiʼangʼwägaangaan
+     g̲íihlgii+V+Neg+3pl+Interr+Fut+Long: g̲íihlgiiʼangʼwaaäsaa
+     g̲íihlgii+V+Neg+3pl+Interr+Fut+Short: g̲íihlgiiʼangʼwaaäs
+     g̲íihlgii+V+Neg+3pl+Simp+Fut: g̲íihlgiiʼangʼwaaäsaang
+     g̲íihlgii+V+Neg+3pl+Imm+Fut: g̲íihlgiiʼangʼwaaäsga
+     g̲íihlgii+V+Neg+3pl+Rel+Fut: g̲íihlgiiʼangʼwaaäsaas
+     g̲íihlgii+V+Neg+3pl+Fut+NonFact: g̲íihlgiiʼangʼwaaäsaa.ang
+     g̲íihlgii+V+Neg+3pl+Interr+Near+Fut: g̲íihlgiiʼwaa.ang k̲asaaʼáng
+     g̲íihlgii+V+Neg+3pl+Near+Fut: g̲íihlgiiʼwaa.ang k̲asaaʼánggang
+     g̲íihlgii+V+Neg+3pl+Interr+VNear+Fut: g̲íihlgiiʼwaa.ang k̲asaasdläʼáng
+     g̲íihlgii+V+Neg+3pl+VNear+Fut: g̲íihlgiiʼwaa.ang k̲asaasdläʼánggang
+     g̲íihlgii+V+Neg+3pl+Bias+Imm+Pres: g̲íihlgiiʼangʼwaaʼuuj
+     g̲íihlgii+V+Neg+3pl+Bias+Simp+Pres: g̲íihlgiiʼangʼwaaʼuujang
+     g̲íihlgii+V+Neg+3pl+Res: g̲íihlgiiʼangʼwaaäsaaʼuujang
+     g̲íihlgii+V+Neg+3pl+Bias+Interr+Pres: g̲íihlgiiʼangʼwaaʼus
+     g̲íihlgii+V+Neg+3pl+Bias+Interr+Past: g̲íihlgiiʼangʼwaaʼujaa
+     g̲íihlgii+V+Neg+3pl+Bias+Interr+Past+Hab: g̲íihlgiiʼangʼwaaʼuujaangaa
+     g̲íihlgii+V+Neg+3pl+Bias+Interr+Fut: g̲íihlgiiʼangʼwaaäsaaʼus
+     g̲íihlgii+V+Neg+3pl+Cert+Pres: g̲íihlgiiʼangʼwaaʼahlanggang
+     g̲íihlgii+V+Neg+3pl+Cert+Past: g̲íihlgiiʼangʼwaaʼahlanggan
+     g̲íihlgii+V+Neg+3pl+Cert+Past+Hab: g̲íihlgiiʼangʼwaaʼahlanggiinii
+     g̲íihlgii+V+Neg+3pl+Cert+Fut: g̲íihlgiiʼangʼwaaäsaaʼahlans
+     g̲íihlgii+V+Neg+3pl+Cert+Rel: g̲íihlgiiʼangʼwaaʼahlans
+     g̲íihlgii+V+Neg+3pl+Ints+Past: g̲íihlgiiʼangʼaawaaʼahlang
+     g̲íihlgii+V+Neg+3pl+Cont: g̲íihlgiiʼangʼaawaaʼahlanggaa
+     g̲íihlgii+V+Neg+3pl+Ctfact+Pres: g̲íihlgiiʼangʼaawaaʼahlanggang
+     g̲íihlgii+V+Neg+3pl+Rflx: g̲íihlgiiʼangʼwaaʼahl
+     g̲íihlgii+V+Neg+3pl+Fut+Rflx+Interr: g̲íihlgiiʼangʼwaaäseehl
 

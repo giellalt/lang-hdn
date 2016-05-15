@@ -11,180 +11,180 @@ Tests:
 
   Verb - gayéed - ENGLISH : # CLASS_EED
 
-     gayéed+V+SG+IMPV: gayéed
-     gayéed+V+IMM+PRES: gayéedga
-     gayéed+V+INTERR+SIMP+PRES: gayéed
-     gayéed+V+SIMP+PRES: gayéedang
-     gayéed+V+DIR+PAST: gayéedan
-     gayéed+V+INTERR+PAST: gayéedaa
-     gayéed+V+INDIR+PAST: gayéedaan
-     gayéed+V+REL: gayéeds
-     gayéed+V+REL+EVID: gayéedaas
-     gayéed+V+NONFACT: gayéedang
-     gayéed+V+PAST+NONFACT: gayéedaa.ang
-     gayéed+V+INTERR+PRES+HAB: gayéedang
-     gayéed+V+PRES+HAB: gayéedanggang
-     gayéed+V+PRES+HAB+NONFACT: gayéedangang
-     gayéed+V+DIR+PAST+HAB: gayéediinii
-     gayéed+V+INTERR+PAST+HAB: gayéedaangaa
-     gayéed+V+INDIR+PAST+HAB: gayéedaangaan
-     gayéed+V+INTERR+FUT+LONG: gayéedäsaa
-     gayéed+V+INTERR+FUT+SHORT: gayéedäs
-     gayéed+V+SIMP+FUT: gayéedäsaang
-     gayéed+V+IMM+FUT: gayéedäsga
-     gayéed+V+REL+FUT: gayéedäsaas
-     gayéed+V+FUT+NONFACT: gayéedäsaa.ang
-     gayéed+V+INTERR+NEAR+FUT: gayéedang k̲asa'áa
-     gayéed+V+NEAR+FUT: gayéedang k̲asa'áang
-     gayéed+V+INTERR+VNEAR+FUT: gayéedang k̲asaasdláa
-     gayéed+V+VNEAR+FUT: gayéedang k̲asaasdláang
-     gayéed+V+BIAS+IMM+PRES: gayéed'uuj
-     gayéed+V+BIAS+SIMP+PRES: gayéed'uujang
-     gayéed+V+RES: gayéedäsaa'uujang
-     gayéed+V+BIAS+INTERR+PRES: gayéed'us
-     gayéed+V+BIAS+INTERR+PAST: gayéed'ujaa
-     gayéed+V+BIAS+INTERR+PAST+HAB: gayéed'uujaangaa
-     gayéed+V+BIAS+INTERR+FUT: gayéedäsaa'us
-     gayéed+V+CERT+PRES: gayéed'ahlanggang
-     gayéed+V+CERT+PAST: gayéed'ahlanggan
-     gayéed+V+CERT+PAST+HAB: gayéed'ahlanggiinii
-     gayéed+V+CERT+FUT: gayéedäsaa'ahlans
-     gayéed+V+CERT+REL: gayéed'ahlans
-     gayéed+V+INTS+PAST: gayéedaa'ahlang
-     gayéed+V+CONT: gayéedaa'ahlanggaa
-     gayéed+V+CTFACT+PRES: gayéedaa'ahlanggang
-     gayéed+V+RFLX: gayéed'ahl
-     gayéed+V+FUT+RFLX+INTERR: gayéedäseehl
-     gayéed+V+PL+IMPV: gayéed'uu
-     gayéed+V+3PL+IMM+PRES: gayéed'waa
-     gayéed+V+3PL+INTERR+SIMP+PRES: gayéed'waa
-     gayéed+V+3PL+SIMP+PRES: gayéed'waang
-     gayéed+V+3PL+DIR+PAST: gayéed'wägan
-     gayéed+V+3PL+INTERR+PAST: gayéed'aawaa
-     gayéed+V+3PL+INDIR+PAST: gayéed'aawaan
-     gayéed+V+3PL+REL: gayéed'waas
-     gayéed+V+3PL+REL+EVID: gayéed'aawaas
-     gayéed+V+3PL+NONFACT: gayéed'waa.ang
-     gayéed+V+3PL+PAST+NONFACT: gayéed'aawaa.ang
-     gayéed+V+3PL+INTERR+PRES+HAB: gayéedang'waa
-     gayéed+V+3PL+PRES+HAB: gayéedang'waang
-     gayéed+V+3PL+PRES+HAB+NONFACT: gayéedang'waa.ang
-     gayéed+V+3PL+DIR+PAST+HAB: gayéed'wägiinii
-     gayéed+V+3PL+INTERR+PAST+HAB: gayéed'wägaangaa
-     gayéed+V+3PL+INDIR+PAST+HAB: gayéed'wägaangaan
-     gayéed+V+3PL+INTERR+FUT+LONG: gayéed'waaäsaa
-     gayéed+V+3PL+INTERR+FUT+SHORT: gayéed'waaäs
-     gayéed+V+3PL+SIMP+FUT: gayéed'waaäsaang
-     gayéed+V+3PL+IMM+FUT: gayéed'waaäsga
-     gayéed+V+3PL+REL+FUT: gayéed'waaäsaas
-     gayéed+V+3PL+FUT+NONFACT: gayéed'waaäsaa.ang
-     gayéed+V+3PL+INTERR+NEAR+FUT: gayéed'waa.ang k̲asa'áa
-     gayéed+V+3PL+NEAR+FUT: gayéed'waa.ang k̲asa'áang
-     gayéed+V+3PL+INTERR+VNEAR+FUT: gayéed'waa.ang k̲asaasdláa
-     gayéed+V+3PL+VNEAR+FUT: gayéed'waa.ang k̲asaasdláang
-     gayéed+V+3PL+BIAS+IMM+PRES: gayéed'waa'uuj
-     gayéed+V+3PL+BIAS+SIMP+PRES: gayéed'waa'uujang
-     gayéed+V+3PL+RES: gayéed'waaäsaa'uujang
-     gayéed+V+3PL+BIAS+INTERR+PRES: gayéed'waa'us
-     gayéed+V+3PL+BIAS+INTERR+PAST: gayéed'waa'ujaa
-     gayéed+V+3PL+BIAS+INTERR+PAST+HAB: gayéed'waa'uujaangaa
-     gayéed+V+3PL+BIAS+INTERR+FUT: gayéed'waaäsaa'us
-     gayéed+V+3PL+CERT+PRES: gayéed'waa'ahlanggang
-     gayéed+V+3PL+CERT+PAST: gayéed'waa'ahlanggan
-     gayéed+V+3PL+CERT+PAST+HAB: gayéed'waa'ahlanggiinii
-     gayéed+V+3PL+CERT+FUT: gayéed'waaäsaa'ahlans
-     gayéed+V+3PL+CERT+REL: gayéed'waa'ahlans
-     gayéed+V+3PL+INTS+PAST: gayéed'aawaa'ahlang
-     gayéed+V+3PL+CONT: gayéed'aawaa'ahlanggaa
-     gayéed+V+3PL+CTFACT+PRES: gayéed'aawaa'ahlanggang
-     gayéed+V+3PL+RFLX: gayéed'waa'ahl
-     gayéed+V+3PL+FUT+RFLX+INTERR: gayéed'waaäseehl
-     gayéed+V+NEG+SG+IMPV: gayéed'ang
-     gayéed+V+NEG+IMM+PRES: gayéed'angga
-     gayéed+V+NEG+INTERR+SIMP+PRES: gayéed'ang
-     gayéed+V+NEG+SIMP+PRES: gayéed'anggang
-     gayéed+V+NEG+DIR+PAST: gayéed'anggan
-     gayéed+V+NEG+INTERR+PAST: gayéed'aangaa
-     gayéed+V+NEG+INDIR+PAST: gayéed'aangaan
-     gayéed+V+NEG+REL: gayéed'ans
-     gayéed+V+NEG+REL+EVID: gayéed'aangaas
-     gayéed+V+NEG+NONFACT: gayéed'angang
-     gayéed+V+NEG+PAST+NONFACT: gayéed'aangaa.ang
-     gayéed+V+NEG+INTERR+PRES+HAB: gayéed'anggang
-     gayéed+V+NEG+PRES+HAB: gayéedang'anggang
-     gayéed+V+NEG+PRES+HAB+NONFACT: gayéedang'angang
-     gayéed+V+NEG+DIR+PAST+HAB: gayéed'anggiinii
-     gayéed+V+NEG+INTERR+PAST+HAB: gayéed'anggaangaa
-     gayéed+V+NEG+INDIR+PAST+HAB: gayéed'anggaangaan
-     gayéed+V+NEG+INTERR+FUT+LONG: gayéed'angäsaa
-     gayéed+V+NEG+INTERR+FUT+SHORT: gayéed'angäs
-     gayéed+V+NEG+SIMP+FUT: gayéed'angäsaang
-     gayéed+V+NEG+IMM+FUT: gayéed'angäsga
-     gayéed+V+NEG+REL+FUT: gayéed'angäsaas
-     gayéed+V+NEG+FUT+NONFACT: gayéed'angäsaa.ang
-     gayéed+V+NEG+INTERR+NEAR+FUT: gayéedang k̲asaa'áng
-     gayéed+V+NEG+NEAR+FUT: gayéedang k̲asaa'ánggang
-     gayéed+V+NEG+INTERR+VNEAR+FUT: gayéedang k̲asaasdlä'áng
-     gayéed+V+NEG+VNEAR+FUT: gayéedang k̲asaasdlä'ánggang
-     gayéed+V+NEG+BIAS+IMM+PRES: gayéed'ang'uuj
-     gayéed+V+NEG+BIAS+SIMP+PRES: gayéed'ang'uujang
-     gayéed+V+NEG+RES: gayéed'angäsaa'uujang
-     gayéed+V+NEG+BIAS+INTERR+PRES: gayéed'ang'us
-     gayéed+V+NEG+BIAS+INTERR+PAST: gayéed'ang'ujaa
-     gayéed+V+NEG+BIAS+INTERR+PAST+HAB: gayéed'ang'uujaangaa
-     gayéed+V+NEG+BIAS+INTERR+FUT: gayéed'angäsaa'us
-     gayéed+V+NEG+CERT+PRES: gayéed'aang'ahlanggang
-     gayéed+V+NEG+CERT+PAST: gayéed'aang'ahlanggan
-     gayéed+V+NEG+CERT+PAST+HAB: gayéed'aang'ahlanggiinii
-     gayéed+V+NEG+CERT+FUT: gayéed'angäsaa'ahlans
-     gayéed+V+NEG+CERT+REL: gayéed'aang'ahlans
-     gayéed+V+NEG+INTS+PAST: gayéed'aangaa'ahlang
-     gayéed+V+NEG+CONT: gayéed'aangaa'ahlanggaa
-     gayéed+V+NEG+CTFACT+PRES: gayéed'aangaa'ahlanggang
-     gayéed+V+NEG+RFLX: gayéed'aang'ahl
-     gayéed+V+NEG+FUT+RFLX+INTERR: gayéed'angäseehl
-     gayéed+V+NEG+PL+IMPV: gayéed'ang'uu
-     gayéed+V+NEG+3PL+IMM+PRES: gayéed'ang'waa
-     gayéed+V+NEG+3PL+INTERR+SIMP+PRES: gayéed'ang'waa
-     gayéed+V+NEG+3PL+SIMP+PRES: gayéed'ang'waang
-     gayéed+V+NEG+3PL+DIR+PAST: gayéed'ang'wägan
-     gayéed+V+NEG+3PL+INTERR+PAST: gayéed'ang'aawaa
-     gayéed+V+NEG+3PL+INDIR+PAST: gayéed'ang'aawaan
-     gayéed+V+NEG+3PL+REL: gayéed'ang'waas
-     gayéed+V+NEG+3PL+REL+EVID: gayéed'ang'aawaas
-     gayéed+V+NEG+3PL+NONFACT: gayéed'ang'waa.ang
-     gayéed+V+NEG+3PL+PAST+NONFACT: gayéed'ang'aawaa.ang
-     gayéed+V+NEG+3PL+INTERR+PRES+HAB: gayéedang'ang'waa
-     gayéed+V+NEG+3PL+PRES+HAB: gayéedang'ang'waang
-     gayéed+V+NEG+3PL+PRES+HAB+NONFACT: gayéedang'ang'waa.ang
-     gayéed+V+NEG+3PL+DIR+PAST+HAB: gayéed'ang'wägiinii
-     gayéed+V+NEG+3PL+INTERR+PAST+HAB: gayéed'ang'wägaangaa
-     gayéed+V+NEG+3PL+INDIR+PAST+HAB: gayéed'ang'wägaangaan
-     gayéed+V+NEG+3PL+INTERR+FUT+LONG: gayéed'ang'waaäsaa
-     gayéed+V+NEG+3PL+INTERR+FUT+SHORT: gayéed'ang'waaäs
-     gayéed+V+NEG+3PL+SIMP+FUT: gayéed'ang'waaäsaang
-     gayéed+V+NEG+3PL+IMM+FUT: gayéed'ang'waaäsga
-     gayéed+V+NEG+3PL+REL+FUT: gayéed'ang'waaäsaas
-     gayéed+V+NEG+3PL+FUT+NONFACT: gayéed'ang'waaäsaa.ang
-     gayéed+V+NEG+3PL+INTERR+NEAR+FUT: gayéed'waa.ang k̲asaa'áng
-     gayéed+V+NEG+3PL+NEAR+FUT: gayéed'waa.ang k̲asaa'ánggang
-     gayéed+V+NEG+3PL+INTERR+VNEAR+FUT: gayéed'waa.ang k̲asaasdlä'áng
-     gayéed+V+NEG+3PL+VNEAR+FUT: gayéed'waa.ang k̲asaasdlä'ánggang
-     gayéed+V+NEG+3PL+BIAS+IMM+PRES: gayéed'ang'waa'uuj
-     gayéed+V+NEG+3PL+BIAS+SIMP+PRES: gayéed'ang'waa'uujang
-     gayéed+V+NEG+3PL+RES: gayéed'ang'waaäsaa'uujang
-     gayéed+V+NEG+3PL+BIAS+INTERR+PRES: gayéed'ang'waa'us
-     gayéed+V+NEG+3PL+BIAS+INTERR+PAST: gayéed'ang'waa'ujaa
-     gayéed+V+NEG+3PL+BIAS+INTERR+PAST+HAB: gayéed'ang'waa'uujaangaa
-     gayéed+V+NEG+3PL+BIAS+INTERR+FUT: gayéed'ang'waaäsaa'us
-     gayéed+V+NEG+3PL+CERT+PRES: gayéed'ang'waa'ahlanggang
-     gayéed+V+NEG+3PL+CERT+PAST: gayéed'ang'waa'ahlanggan
-     gayéed+V+NEG+3PL+CERT+PAST+HAB: gayéed'ang'waa'ahlanggiinii
-     gayéed+V+NEG+3PL+CERT+FUT: gayéed'ang'waaäsaa'ahlans
-     gayéed+V+NEG+3PL+CERT+REL: gayéed'ang'waa'ahlans
-     gayéed+V+NEG+3PL+INTS+PAST: gayéed'ang'aawaa'ahlang
-     gayéed+V+NEG+3PL+CONT: gayéed'ang'aawaa'ahlanggaa
-     gayéed+V+NEG+3PL+CTFACT+PRES: gayéed'ang'aawaa'ahlanggang
-     gayéed+V+NEG+3PL+RFLX: gayéed'ang'waa'ahl
-     gayéed+V+NEG+3PL+FUT+RFLX+INTERR: gayéed'ang'waaäseehl
+     gayéed+V+Sg+Impv: gayéed
+     gayéed+V+Imm+Pres: gayéedga
+     gayéed+V+Interr+Simp+Pres: gayéed
+     gayéed+V+Simp+Pres: gayéedang
+     gayéed+V+Dir+Past: gayéedan
+     gayéed+V+Interr+Past: gayéedaa
+     gayéed+V+Indir+Past: gayéedaan
+     gayéed+V+Rel: gayéeds
+     gayéed+V+Rel+Evid: gayéedaas
+     gayéed+V+NonFact: gayéedang
+     gayéed+V+Past+NonFact: gayéedaa.ang
+     gayéed+V+Interr+Pres+Hab: gayéedang
+     gayéed+V+Pres+Hab: gayéedanggang
+     gayéed+V+Pres+Hab+NonFact: gayéedangang
+     gayéed+V+Dir+Past+Hab: gayéediinii
+     gayéed+V+Interr+Past+Hab: gayéedaangaa
+     gayéed+V+Indir+Past+Hab: gayéedaangaan
+     gayéed+V+Interr+Fut+Long: gayéedäsaa
+     gayéed+V+Interr+Fut+Short: gayéedäs
+     gayéed+V+Simp+Fut: gayéedäsaang
+     gayéed+V+Imm+Fut: gayéedäsga
+     gayéed+V+Rel+Fut: gayéedäsaas
+     gayéed+V+Fut+NonFact: gayéedäsaa.ang
+     gayéed+V+Interr+Near+Fut: gayéedang k̲asaʼáa
+     gayéed+V+Near+Fut: gayéedang k̲asaʼáang
+     gayéed+V+Interr+VNear+Fut: gayéedang k̲asaasdláa
+     gayéed+V+VNear+Fut: gayéedang k̲asaasdláang
+     gayéed+V+Bias+Imm+Pres: gayéedʼuuj
+     gayéed+V+Bias+Simp+Pres: gayéedʼuujang
+     gayéed+V+Res: gayéedäsaaʼuujang
+     gayéed+V+Bias+Interr+Pres: gayéedʼus
+     gayéed+V+Bias+Interr+Past: gayéedʼujaa
+     gayéed+V+Bias+Interr+Past+Hab: gayéedʼuujaangaa
+     gayéed+V+Bias+Interr+Fut: gayéedäsaaʼus
+     gayéed+V+Cert+Pres: gayéedʼahlanggang
+     gayéed+V+Cert+Past: gayéedʼahlanggan
+     gayéed+V+Cert+Past+Hab: gayéedʼahlanggiinii
+     gayéed+V+Cert+Fut: gayéedäsaaʼahlans
+     gayéed+V+Cert+Rel: gayéedʼahlans
+     gayéed+V+Ints+Past: gayéedaaʼahlang
+     gayéed+V+Cont: gayéedaaʼahlanggaa
+     gayéed+V+Ctfact+Pres: gayéedaaʼahlanggang
+     gayéed+V+Rflx: gayéedʼahl
+     gayéed+V+Fut+Rflx+Interr: gayéedäseehl
+     gayéed+V+Pl+Impv: gayéedʼuu
+     gayéed+V+3pl+Imm+Pres: gayéedʼwaa
+     gayéed+V+3pl+Interr+Simp+Pres: gayéedʼwaa
+     gayéed+V+3pl+Simp+Pres: gayéedʼwaang
+     gayéed+V+3pl+Dir+Past: gayéedʼwägan
+     gayéed+V+3pl+Interr+Past: gayéedʼaawaa
+     gayéed+V+3pl+Indir+Past: gayéedʼaawaan
+     gayéed+V+3pl+Rel: gayéedʼwaas
+     gayéed+V+3pl+Rel+Evid: gayéedʼaawaas
+     gayéed+V+3pl+NonFact: gayéedʼwaa.ang
+     gayéed+V+3pl+Past+NonFact: gayéedʼaawaa.ang
+     gayéed+V+3pl+Interr+Pres+Hab: gayéedangʼwaa
+     gayéed+V+3pl+Pres+Hab: gayéedangʼwaang
+     gayéed+V+3pl+Pres+Hab+NonFact: gayéedangʼwaa.ang
+     gayéed+V+3pl+Dir+Past+Hab: gayéedʼwägiinii
+     gayéed+V+3pl+Interr+Past+Hab: gayéedʼwägaangaa
+     gayéed+V+3pl+Indir+Past+Hab: gayéedʼwägaangaan
+     gayéed+V+3pl+Interr+Fut+Long: gayéedʼwaaäsaa
+     gayéed+V+3pl+Interr+Fut+Short: gayéedʼwaaäs
+     gayéed+V+3pl+Simp+Fut: gayéedʼwaaäsaang
+     gayéed+V+3pl+Imm+Fut: gayéedʼwaaäsga
+     gayéed+V+3pl+Rel+Fut: gayéedʼwaaäsaas
+     gayéed+V+3pl+Fut+NonFact: gayéedʼwaaäsaa.ang
+     gayéed+V+3pl+Interr+Near+Fut: gayéedʼwaa.ang k̲asaʼáa
+     gayéed+V+3pl+Near+Fut: gayéedʼwaa.ang k̲asaʼáang
+     gayéed+V+3pl+Interr+VNear+Fut: gayéedʼwaa.ang k̲asaasdláa
+     gayéed+V+3pl+VNear+Fut: gayéedʼwaa.ang k̲asaasdláang
+     gayéed+V+3pl+Bias+Imm+Pres: gayéedʼwaaʼuuj
+     gayéed+V+3pl+Bias+Simp+Pres: gayéedʼwaaʼuujang
+     gayéed+V+3pl+Res: gayéedʼwaaäsaaʼuujang
+     gayéed+V+3pl+Bias+Interr+Pres: gayéedʼwaaʼus
+     gayéed+V+3pl+Bias+Interr+Past: gayéedʼwaaʼujaa
+     gayéed+V+3pl+Bias+Interr+Past+Hab: gayéedʼwaaʼuujaangaa
+     gayéed+V+3pl+Bias+Interr+Fut: gayéedʼwaaäsaaʼus
+     gayéed+V+3pl+Cert+Pres: gayéedʼwaaʼahlanggang
+     gayéed+V+3pl+Cert+Past: gayéedʼwaaʼahlanggan
+     gayéed+V+3pl+Cert+Past+Hab: gayéedʼwaaʼahlanggiinii
+     gayéed+V+3pl+Cert+Fut: gayéedʼwaaäsaaʼahlans
+     gayéed+V+3pl+Cert+Rel: gayéedʼwaaʼahlans
+     gayéed+V+3pl+Ints+Past: gayéedʼaawaaʼahlang
+     gayéed+V+3pl+Cont: gayéedʼaawaaʼahlanggaa
+     gayéed+V+3pl+Ctfact+Pres: gayéedʼaawaaʼahlanggang
+     gayéed+V+3pl+Rflx: gayéedʼwaaʼahl
+     gayéed+V+3pl+Fut+Rflx+Interr: gayéedʼwaaäseehl
+     gayéed+V+Neg+Sg+Impv: gayéedʼang
+     gayéed+V+Neg+Imm+Pres: gayéedʼangga
+     gayéed+V+Neg+Interr+Simp+Pres: gayéedʼang
+     gayéed+V+Neg+Simp+Pres: gayéedʼanggang
+     gayéed+V+Neg+Dir+Past: gayéedʼanggan
+     gayéed+V+Neg+Interr+Past: gayéedʼaangaa
+     gayéed+V+Neg+Indir+Past: gayéedʼaangaan
+     gayéed+V+Neg+Rel: gayéedʼans
+     gayéed+V+Neg+Rel+Evid: gayéedʼaangaas
+     gayéed+V+Neg+NonFact: gayéedʼangang
+     gayéed+V+Neg+Past+NonFact: gayéedʼaangaa.ang
+     gayéed+V+Neg+Interr+Pres+Hab: gayéedʼanggang
+     gayéed+V+Neg+Pres+Hab: gayéedangʼanggang
+     gayéed+V+Neg+Pres+Hab+NonFact: gayéedangʼangang
+     gayéed+V+Neg+Dir+Past+Hab: gayéedʼanggiinii
+     gayéed+V+Neg+Interr+Past+Hab: gayéedʼanggaangaa
+     gayéed+V+Neg+Indir+Past+Hab: gayéedʼanggaangaan
+     gayéed+V+Neg+Interr+Fut+Long: gayéedʼangäsaa
+     gayéed+V+Neg+Interr+Fut+Short: gayéedʼangäs
+     gayéed+V+Neg+Simp+Fut: gayéedʼangäsaang
+     gayéed+V+Neg+Imm+Fut: gayéedʼangäsga
+     gayéed+V+Neg+Rel+Fut: gayéedʼangäsaas
+     gayéed+V+Neg+Fut+NonFact: gayéedʼangäsaa.ang
+     gayéed+V+Neg+Interr+Near+Fut: gayéedang k̲asaaʼáng
+     gayéed+V+Neg+Near+Fut: gayéedang k̲asaaʼánggang
+     gayéed+V+Neg+Interr+VNear+Fut: gayéedang k̲asaasdläʼáng
+     gayéed+V+Neg+VNear+Fut: gayéedang k̲asaasdläʼánggang
+     gayéed+V+Neg+Bias+Imm+Pres: gayéedʼangʼuuj
+     gayéed+V+Neg+Bias+Simp+Pres: gayéedʼangʼuujang
+     gayéed+V+Neg+Res: gayéedʼangäsaaʼuujang
+     gayéed+V+Neg+Bias+Interr+Pres: gayéedʼangʼus
+     gayéed+V+Neg+Bias+Interr+Past: gayéedʼangʼujaa
+     gayéed+V+Neg+Bias+Interr+Past+Hab: gayéedʼangʼuujaangaa
+     gayéed+V+Neg+Bias+Interr+Fut: gayéedʼangäsaaʼus
+     gayéed+V+Neg+Cert+Pres: gayéedʼaangʼahlanggang
+     gayéed+V+Neg+Cert+Past: gayéedʼaangʼahlanggan
+     gayéed+V+Neg+Cert+Past+Hab: gayéedʼaangʼahlanggiinii
+     gayéed+V+Neg+Cert+Fut: gayéedʼangäsaaʼahlans
+     gayéed+V+Neg+Cert+Rel: gayéedʼaangʼahlans
+     gayéed+V+Neg+Ints+Past: gayéedʼaangaaʼahlang
+     gayéed+V+Neg+Cont: gayéedʼaangaaʼahlanggaa
+     gayéed+V+Neg+Ctfact+Pres: gayéedʼaangaaʼahlanggang
+     gayéed+V+Neg+Rflx: gayéedʼaangʼahl
+     gayéed+V+Neg+Fut+Rflx+Interr: gayéedʼangäseehl
+     gayéed+V+Neg+Pl+Impv: gayéedʼangʼuu
+     gayéed+V+Neg+3pl+Imm+Pres: gayéedʼangʼwaa
+     gayéed+V+Neg+3pl+Interr+Simp+Pres: gayéedʼangʼwaa
+     gayéed+V+Neg+3pl+Simp+Pres: gayéedʼangʼwaang
+     gayéed+V+Neg+3pl+Dir+Past: gayéedʼangʼwägan
+     gayéed+V+Neg+3pl+Interr+Past: gayéedʼangʼaawaa
+     gayéed+V+Neg+3pl+Indir+Past: gayéedʼangʼaawaan
+     gayéed+V+Neg+3pl+Rel: gayéedʼangʼwaas
+     gayéed+V+Neg+3pl+Rel+Evid: gayéedʼangʼaawaas
+     gayéed+V+Neg+3pl+NonFact: gayéedʼangʼwaa.ang
+     gayéed+V+Neg+3pl+Past+NonFact: gayéedʼangʼaawaa.ang
+     gayéed+V+Neg+3pl+Interr+Pres+Hab: gayéedangʼangʼwaa
+     gayéed+V+Neg+3pl+Pres+Hab: gayéedangʼangʼwaang
+     gayéed+V+Neg+3pl+Pres+Hab+NonFact: gayéedangʼangʼwaa.ang
+     gayéed+V+Neg+3pl+Dir+Past+Hab: gayéedʼangʼwägiinii
+     gayéed+V+Neg+3pl+Interr+Past+Hab: gayéedʼangʼwägaangaa
+     gayéed+V+Neg+3pl+Indir+Past+Hab: gayéedʼangʼwägaangaan
+     gayéed+V+Neg+3pl+Interr+Fut+Long: gayéedʼangʼwaaäsaa
+     gayéed+V+Neg+3pl+Interr+Fut+Short: gayéedʼangʼwaaäs
+     gayéed+V+Neg+3pl+Simp+Fut: gayéedʼangʼwaaäsaang
+     gayéed+V+Neg+3pl+Imm+Fut: gayéedʼangʼwaaäsga
+     gayéed+V+Neg+3pl+Rel+Fut: gayéedʼangʼwaaäsaas
+     gayéed+V+Neg+3pl+Fut+NonFact: gayéedʼangʼwaaäsaa.ang
+     gayéed+V+Neg+3pl+Interr+Near+Fut: gayéedʼwaa.ang k̲asaaʼáng
+     gayéed+V+Neg+3pl+Near+Fut: gayéedʼwaa.ang k̲asaaʼánggang
+     gayéed+V+Neg+3pl+Interr+VNear+Fut: gayéedʼwaa.ang k̲asaasdläʼáng
+     gayéed+V+Neg+3pl+VNear+Fut: gayéedʼwaa.ang k̲asaasdläʼánggang
+     gayéed+V+Neg+3pl+Bias+Imm+Pres: gayéedʼangʼwaaʼuuj
+     gayéed+V+Neg+3pl+Bias+Simp+Pres: gayéedʼangʼwaaʼuujang
+     gayéed+V+Neg+3pl+Res: gayéedʼangʼwaaäsaaʼuujang
+     gayéed+V+Neg+3pl+Bias+Interr+Pres: gayéedʼangʼwaaʼus
+     gayéed+V+Neg+3pl+Bias+Interr+Past: gayéedʼangʼwaaʼujaa
+     gayéed+V+Neg+3pl+Bias+Interr+Past+Hab: gayéedʼangʼwaaʼuujaangaa
+     gayéed+V+Neg+3pl+Bias+Interr+Fut: gayéedʼangʼwaaäsaaʼus
+     gayéed+V+Neg+3pl+Cert+Pres: gayéedʼangʼwaaʼahlanggang
+     gayéed+V+Neg+3pl+Cert+Past: gayéedʼangʼwaaʼahlanggan
+     gayéed+V+Neg+3pl+Cert+Past+Hab: gayéedʼangʼwaaʼahlanggiinii
+     gayéed+V+Neg+3pl+Cert+Fut: gayéedʼangʼwaaäsaaʼahlans
+     gayéed+V+Neg+3pl+Cert+Rel: gayéedʼangʼwaaʼahlans
+     gayéed+V+Neg+3pl+Ints+Past: gayéedʼangʼaawaaʼahlang
+     gayéed+V+Neg+3pl+Cont: gayéedʼangʼaawaaʼahlanggaa
+     gayéed+V+Neg+3pl+Ctfact+Pres: gayéedʼangʼaawaaʼahlanggang
+     gayéed+V+Neg+3pl+Rflx: gayéedʼangʼwaaʼahl
+     gayéed+V+Neg+3pl+Fut+Rflx+Interr: gayéedʼangʼwaaäseehl
 

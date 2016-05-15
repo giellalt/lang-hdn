@@ -11,168 +11,168 @@ Tests:
 
   Verb - k̲áy - ENGLISH : # CLASS_AY_STEM_1
 
-     k̲áy+V+SG+IMPV: k̲áy
-     k̲áy+V+IMM+PRES: k̲áyga
-     k̲áy+V+INTERR+SIMP+PRES: k̲áy
-     k̲áy+V+SIMP+PRES: k̲áygang
-     k̲áy+V+DIR+PAST: k̲áygan
-     k̲áy+V+REL: k̲áys
-     k̲áy+V+NONFACT: k̲áyang
-     k̲áy+V+INTERR+PRES+HAB: k̲áygang
-     k̲áy+V+PRES+HAB: k̲áyganggang
-     k̲áy+V+PRES+HAB+NONFACT: k̲áygangang
-     k̲áy+V+DIR+PAST+HAB: k̲áygiinii
-     k̲áy+V+INTERR+PAST+HAB: k̲áygaangaa
-     k̲áy+V+INDIR+PAST+HAB: k̲áygaangaan
-     k̲áy+V+INTERR+FUT+LONG: k̲áyäsaa
-     k̲áy+V+INTERR+FUT+SHORT: k̲áyäs
-     k̲áy+V+SIMP+FUT: k̲áyäsaang
-     k̲áy+V+IMM+FUT: k̲áyäsga
-     k̲áy+V+REL+FUT: k̲áyäsaas
-     k̲áy+V+FUT+NONFACT: k̲áyäsaa.ang
-     k̲áy+V+INTERR+NEAR+FUT: k̲áyang k̲asa'áa
-     k̲áy+V+NEAR+FUT: k̲áyang k̲asa'áang
-     k̲áy+V+INTERR+VNEAR+FUT: k̲áyang k̲asaasdláa
-     k̲áy+V+VNEAR+FUT: k̲áyang k̲asaasdláang
-     k̲áy+V+BIAS+IMM+PRES: k̲áy'uuj
-     k̲áy+V+BIAS+SIMP+PRES: k̲áy'uujang
-     k̲áy+V+RES: k̲áyäsaa'uujang
-     k̲áy+V+BIAS+INTERR+PRES: k̲áy'us
-     k̲áy+V+BIAS+INTERR+PAST: k̲áy'ujaa
-     k̲áy+V+BIAS+INTERR+PAST+HAB: k̲áy'uujaangaa
-     k̲áy+V+BIAS+INTERR+FUT: k̲áyäsaa'us
-     k̲áy+V+CERT+FUT: k̲áyäsaa'ahlans
-     k̲áy+V+FUT+RFLX+INTERR: k̲áyäseehl
-     k̲áy+V+PL+IMPV: k̲áy'uu
-     k̲áy+V+3PL+IMM+PRES: k̲áy'waa
-     k̲áy+V+3PL+INTERR+SIMP+PRES: k̲áy'waa
-     k̲áy+V+3PL+SIMP+PRES: k̲áy'waang
-     k̲áy+V+3PL+DIR+PAST: k̲áy'wägan
-     k̲áy+V+3PL+INTERR+PAST: k̲áy'aawaa
-     k̲áy+V+3PL+INDIR+PAST: k̲áy'aawaan
-     k̲áy+V+3PL+REL: k̲áy'waas
-     k̲áy+V+3PL+REL+EVID: k̲áy'aawaas
-     k̲áy+V+3PL+NONFACT: k̲áy'waa.ang
-     k̲áy+V+3PL+PAST+NONFACT: k̲áy'aawaa.ang
-     k̲áy+V+3PL+INTERR+PRES+HAB: k̲áygang'waa
-     k̲áy+V+3PL+PRES+HAB: k̲áygang'waang
-     k̲áy+V+3PL+PRES+HAB+NONFACT: k̲áygang'waa.ang
-     k̲áy+V+3PL+DIR+PAST+HAB: k̲áy'wägiinii
-     k̲áy+V+3PL+INTERR+PAST+HAB: k̲áy'wägaangaa
-     k̲áy+V+3PL+INDIR+PAST+HAB: k̲áy'wägaangaan
-     k̲áy+V+3PL+INTERR+FUT+LONG: k̲áy'waaäsaa
-     k̲áy+V+3PL+INTERR+FUT+SHORT: k̲áy'waaäs
-     k̲áy+V+3PL+SIMP+FUT: k̲áy'waaäsaang
-     k̲áy+V+3PL+IMM+FUT: k̲áy'waaäsga
-     k̲áy+V+3PL+REL+FUT: k̲áy'waaäsaas
-     k̲áy+V+3PL+FUT+NONFACT: k̲áy'waaäsaa.ang
-     k̲áy+V+3PL+INTERR+NEAR+FUT: k̲áy'waa.ang k̲asa'áa
-     k̲áy+V+3PL+NEAR+FUT: k̲áy'waa.ang k̲asa'áang
-     k̲áy+V+3PL+INTERR+VNEAR+FUT: k̲áy'waa.ang k̲asaasdláa
-     k̲áy+V+3PL+VNEAR+FUT: k̲áy'waa.ang k̲asaasdláang
-     k̲áy+V+3PL+BIAS+IMM+PRES: k̲áy'waa'uuj
-     k̲áy+V+3PL+BIAS+SIMP+PRES: k̲áy'waa'uujang
-     k̲áy+V+3PL+RES: k̲áy'waaäsaa'uujang
-     k̲áy+V+3PL+BIAS+INTERR+PRES: k̲áy'waa'us
-     k̲áy+V+3PL+BIAS+INTERR+PAST: k̲áy'waa'ujaa
-     k̲áy+V+3PL+BIAS+INTERR+PAST+HAB: k̲áy'waa'uujaangaa
-     k̲áy+V+3PL+BIAS+INTERR+FUT: k̲áy'waaäsaa'us
-     k̲áy+V+3PL+CERT+PRES: k̲áy'waa'ahlanggang
-     k̲áy+V+3PL+CERT+PAST: k̲áy'waa'ahlanggan
-     k̲áy+V+3PL+CERT+PAST+HAB: k̲áy'waa'ahlanggiinii
-     k̲áy+V+3PL+CERT+FUT: k̲áy'waaäsaa'ahlans
-     k̲áy+V+3PL+CERT+REL: k̲áy'waa'ahlans
-     k̲áy+V+3PL+INTS+PAST: k̲áy'aawaa'ahlang
-     k̲áy+V+3PL+CONT: k̲áy'aawaa'ahlanggaa
-     k̲áy+V+3PL+CTFACT+PRES: k̲áy'aawaa'ahlanggang
-     k̲áy+V+3PL+RFLX: k̲áy'waa'ahl
-     k̲áy+V+3PL+FUT+RFLX+INTERR: k̲áy'waaäseehl
-     k̲áy+V+NEG+SG+IMPV: k̲áy'ang
-     k̲áy+V+NEG+IMM+PRES: k̲áy'angga
-     k̲áy+V+NEG+INTERR+SIMP+PRES: k̲áy'ang
-     k̲áy+V+NEG+SIMP+PRES: k̲áy'anggang
-     k̲áy+V+NEG+DIR+PAST: k̲áy'anggan
-     k̲áy+V+NEG+INTERR+PAST: k̲áy'aangaa
-     k̲áy+V+NEG+INDIR+PAST: k̲áy'aangaan
-     k̲áy+V+NEG+REL: k̲áy'ans
-     k̲áy+V+NEG+REL+EVID: k̲áy'aangaas
-     k̲áy+V+NEG+NONFACT: k̲áy'angang
-     k̲áy+V+NEG+PAST+NONFACT: k̲áy'aangaa.ang
-     k̲áy+V+NEG+INTERR+PRES+HAB: k̲áy'anggang
-     k̲áy+V+NEG+PRES+HAB: k̲áygang'anggang
-     k̲áy+V+NEG+PRES+HAB+NONFACT: k̲áygang'angang
-     k̲áy+V+NEG+DIR+PAST+HAB: k̲áy'anggiinii
-     k̲áy+V+NEG+INTERR+PAST+HAB: k̲áy'anggaangaa
-     k̲áy+V+NEG+INDIR+PAST+HAB: k̲áy'anggaangaan
-     k̲áy+V+NEG+INTERR+FUT+LONG: k̲áy'angäsaa
-     k̲áy+V+NEG+INTERR+FUT+SHORT: k̲áy'angäs
-     k̲áy+V+NEG+SIMP+FUT: k̲áy'angäsaang
-     k̲áy+V+NEG+IMM+FUT: k̲áy'angäsga
-     k̲áy+V+NEG+REL+FUT: k̲áy'angäsaas
-     k̲áy+V+NEG+FUT+NONFACT: k̲áy'angäsaa.ang
-     k̲áy+V+NEG+INTERR+NEAR+FUT: k̲áyang k̲asaa'áng
-     k̲áy+V+NEG+NEAR+FUT: k̲áyang k̲asaa'ánggang
-     k̲áy+V+NEG+INTERR+VNEAR+FUT: k̲áyang k̲asaasdlä'áng
-     k̲áy+V+NEG+VNEAR+FUT: k̲áyang k̲asaasdlä'ánggang
-     k̲áy+V+NEG+BIAS+IMM+PRES: k̲áy'ang'uuj
-     k̲áy+V+NEG+BIAS+SIMP+PRES: k̲áy'ang'uujang
-     k̲áy+V+NEG+RES: k̲áy'angäsaa'uujang
-     k̲áy+V+NEG+BIAS+INTERR+PRES: k̲áy'ang'us
-     k̲áy+V+NEG+BIAS+INTERR+PAST: k̲áy'ang'ujaa
-     k̲áy+V+NEG+BIAS+INTERR+PAST+HAB: k̲áy'ang'uujaangaa
-     k̲áy+V+NEG+BIAS+INTERR+FUT: k̲áy'angäsaa'us
-     k̲áy+V+NEG+CERT+PRES: k̲áy'aang'ahlanggang
-     k̲áy+V+NEG+CERT+PAST: k̲áy'aang'ahlanggan
-     k̲áy+V+NEG+CERT+PAST+HAB: k̲áy'aang'ahlanggiinii
-     k̲áy+V+NEG+CERT+FUT: k̲áy'angäsaa'ahlans
-     k̲áy+V+NEG+CERT+REL: k̲áy'aang'ahlans
-     k̲áy+V+NEG+INTS+PAST: k̲áy'aangaa'ahlang
-     k̲áy+V+NEG+CONT: k̲áy'aangaa'ahlanggaa
-     k̲áy+V+NEG+CTFACT+PRES: k̲áy'aangaa'ahlanggang
-     k̲áy+V+NEG+RFLX: k̲áy'aang'ahl
-     k̲áy+V+NEG+FUT+RFLX+INTERR: k̲áy'angäseehl
-     k̲áy+V+NEG+PL+IMPV: k̲áy'ang'uu
-     k̲áy+V+NEG+3PL+IMM+PRES: k̲áy'ang'waa
-     k̲áy+V+NEG+3PL+INTERR+SIMP+PRES: k̲áy'ang'waa
-     k̲áy+V+NEG+3PL+SIMP+PRES: k̲áy'ang'waang
-     k̲áy+V+NEG+3PL+DIR+PAST: k̲áy'ang'wägan
-     k̲áy+V+NEG+3PL+INTERR+PAST: k̲áy'ang'aawaa
-     k̲áy+V+NEG+3PL+INDIR+PAST: k̲áy'ang'aawaan
-     k̲áy+V+NEG+3PL+REL: k̲áy'ang'waas
-     k̲áy+V+NEG+3PL+REL+EVID: k̲áy'ang'aawaas
-     k̲áy+V+NEG+3PL+NONFACT: k̲áy'ang'waa.ang
-     k̲áy+V+NEG+3PL+PAST+NONFACT: k̲áy'ang'aawaa.ang
-     k̲áy+V+NEG+3PL+INTERR+PRES+HAB: k̲áygang'ang'waa
-     k̲áy+V+NEG+3PL+PRES+HAB: k̲áygang'ang'waang
-     k̲áy+V+NEG+3PL+PRES+HAB+NONFACT: k̲áygang'ang'waa.ang
-     k̲áy+V+NEG+3PL+DIR+PAST+HAB: k̲áy'ang'wägiinii
-     k̲áy+V+NEG+3PL+INTERR+PAST+HAB: k̲áy'ang'wägaangaa
-     k̲áy+V+NEG+3PL+INDIR+PAST+HAB: k̲áy'ang'wägaangaan
-     k̲áy+V+NEG+3PL+INTERR+FUT+LONG: k̲áy'ang'waaäsaa
-     k̲áy+V+NEG+3PL+INTERR+FUT+SHORT: k̲áy'ang'waaäs
-     k̲áy+V+NEG+3PL+SIMP+FUT: k̲áy'ang'waaäsaang
-     k̲áy+V+NEG+3PL+IMM+FUT: k̲áy'ang'waaäsga
-     k̲áy+V+NEG+3PL+REL+FUT: k̲áy'ang'waaäsaas
-     k̲áy+V+NEG+3PL+FUT+NONFACT: k̲áy'ang'waaäsaa.ang
-     k̲áy+V+NEG+3PL+INTERR+NEAR+FUT: k̲áy'waa.ang k̲asaa'áng
-     k̲áy+V+NEG+3PL+NEAR+FUT: k̲áy'waa.ang k̲asaa'ánggang
-     k̲áy+V+NEG+3PL+INTERR+VNEAR+FUT: k̲áy'waa.ang k̲asaasdlä'áng
-     k̲áy+V+NEG+3PL+VNEAR+FUT: k̲áy'waa.ang k̲asaasdlä'ánggang
-     k̲áy+V+NEG+3PL+BIAS+IMM+PRES: k̲áy'ang'waa'uuj
-     k̲áy+V+NEG+3PL+BIAS+SIMP+PRES: k̲áy'ang'waa'uujang
-     k̲áy+V+NEG+3PL+RES: k̲áy'ang'waaäsaa'uujang
-     k̲áy+V+NEG+3PL+BIAS+INTERR+PRES: k̲áy'ang'waa'us
-     k̲áy+V+NEG+3PL+BIAS+INTERR+PAST: k̲áy'ang'waa'ujaa
-     k̲áy+V+NEG+3PL+BIAS+INTERR+PAST+HAB: k̲áy'ang'waa'uujaangaa
-     k̲áy+V+NEG+3PL+BIAS+INTERR+FUT: k̲áy'ang'waaäsaa'us
-     k̲áy+V+NEG+3PL+CERT+PRES: k̲áy'ang'waa'ahlanggang
-     k̲áy+V+NEG+3PL+CERT+PAST: k̲áy'ang'waa'ahlanggan
-     k̲áy+V+NEG+3PL+CERT+PAST+HAB: k̲áy'ang'waa'ahlanggiinii
-     k̲áy+V+NEG+3PL+CERT+FUT: k̲áy'ang'waaäsaa'ahlans
-     k̲áy+V+NEG+3PL+CERT+REL: k̲áy'ang'waa'ahlans
-     k̲áy+V+NEG+3PL+INTS+PAST: k̲áy'ang'aawaa'ahlang
-     k̲áy+V+NEG+3PL+CONT: k̲áy'ang'aawaa'ahlanggaa
-     k̲áy+V+NEG+3PL+CTFACT+PRES: k̲áy'ang'aawaa'ahlanggang
-     k̲áy+V+NEG+3PL+RFLX: k̲áy'ang'waa'ahl
-     k̲áy+V+NEG+3PL+FUT+RFLX+INTERR: k̲áy'ang'waaäseehl
+     k̲áy+V+Sg+Impv: k̲áy
+     k̲áy+V+Imm+Pres: k̲áyga
+     k̲áy+V+Interr+Simp+Pres: k̲áy
+     k̲áy+V+Simp+Pres: k̲áygang
+     k̲áy+V+Dir+Past: k̲áygan
+     k̲áy+V+Rel: k̲áys
+     k̲áy+V+NonFact: k̲áyang
+     k̲áy+V+Interr+Pres+Hab: k̲áygang
+     k̲áy+V+Pres+Hab: k̲áyganggang
+     k̲áy+V+Pres+Hab+NonFact: k̲áygangang
+     k̲áy+V+Dir+Past+Hab: k̲áygiinii
+     k̲áy+V+Interr+Past+Hab: k̲áygaangaa
+     k̲áy+V+Indir+Past+Hab: k̲áygaangaan
+     k̲áy+V+Interr+Fut+Long: k̲áyäsaa
+     k̲áy+V+Interr+Fut+Short: k̲áyäs
+     k̲áy+V+Simp+Fut: k̲áyäsaang
+     k̲áy+V+Imm+Fut: k̲áyäsga
+     k̲áy+V+Rel+Fut: k̲áyäsaas
+     k̲áy+V+Fut+NonFact: k̲áyäsaa.ang
+     k̲áy+V+Interr+Near+Fut: k̲áyang k̲asaʼáa
+     k̲áy+V+Near+Fut: k̲áyang k̲asaʼáang
+     k̲áy+V+Interr+VNear+Fut: k̲áyang k̲asaasdláa
+     k̲áy+V+VNear+Fut: k̲áyang k̲asaasdláang
+     k̲áy+V+Bias+Imm+Pres: k̲áyʼuuj
+     k̲áy+V+Bias+Simp+Pres: k̲áyʼuujang
+     k̲áy+V+Res: k̲áyäsaaʼuujang
+     k̲áy+V+Bias+Interr+Pres: k̲áyʼus
+     k̲áy+V+Bias+Interr+Past: k̲áyʼujaa
+     k̲áy+V+Bias+Interr+Past+Hab: k̲áyʼuujaangaa
+     k̲áy+V+Bias+Interr+Fut: k̲áyäsaaʼus
+     k̲áy+V+Cert+Fut: k̲áyäsaaʼahlans
+     k̲áy+V+Fut+Rflx+Interr: k̲áyäseehl
+     k̲áy+V+Pl+Impv: k̲áyʼuu
+     k̲áy+V+3pl+Imm+Pres: k̲áyʼwaa
+     k̲áy+V+3pl+Interr+Simp+Pres: k̲áyʼwaa
+     k̲áy+V+3pl+Simp+Pres: k̲áyʼwaang
+     k̲áy+V+3pl+Dir+Past: k̲áyʼwägan
+     k̲áy+V+3pl+Interr+Past: k̲áyʼaawaa
+     k̲áy+V+3pl+Indir+Past: k̲áyʼaawaan
+     k̲áy+V+3pl+Rel: k̲áyʼwaas
+     k̲áy+V+3pl+Rel+Evid: k̲áyʼaawaas
+     k̲áy+V+3pl+NonFact: k̲áyʼwaa.ang
+     k̲áy+V+3pl+Past+NonFact: k̲áyʼaawaa.ang
+     k̲áy+V+3pl+Interr+Pres+Hab: k̲áygangʼwaa
+     k̲áy+V+3pl+Pres+Hab: k̲áygangʼwaang
+     k̲áy+V+3pl+Pres+Hab+NonFact: k̲áygangʼwaa.ang
+     k̲áy+V+3pl+Dir+Past+Hab: k̲áyʼwägiinii
+     k̲áy+V+3pl+Interr+Past+Hab: k̲áyʼwägaangaa
+     k̲áy+V+3pl+Indir+Past+Hab: k̲áyʼwägaangaan
+     k̲áy+V+3pl+Interr+Fut+Long: k̲áyʼwaaäsaa
+     k̲áy+V+3pl+Interr+Fut+Short: k̲áyʼwaaäs
+     k̲áy+V+3pl+Simp+Fut: k̲áyʼwaaäsaang
+     k̲áy+V+3pl+Imm+Fut: k̲áyʼwaaäsga
+     k̲áy+V+3pl+Rel+Fut: k̲áyʼwaaäsaas
+     k̲áy+V+3pl+Fut+NonFact: k̲áyʼwaaäsaa.ang
+     k̲áy+V+3pl+Interr+Near+Fut: k̲áyʼwaa.ang k̲asaʼáa
+     k̲áy+V+3pl+Near+Fut: k̲áyʼwaa.ang k̲asaʼáang
+     k̲áy+V+3pl+Interr+VNear+Fut: k̲áyʼwaa.ang k̲asaasdláa
+     k̲áy+V+3pl+VNear+Fut: k̲áyʼwaa.ang k̲asaasdláang
+     k̲áy+V+3pl+Bias+Imm+Pres: k̲áyʼwaaʼuuj
+     k̲áy+V+3pl+Bias+Simp+Pres: k̲áyʼwaaʼuujang
+     k̲áy+V+3pl+Res: k̲áyʼwaaäsaaʼuujang
+     k̲áy+V+3pl+Bias+Interr+Pres: k̲áyʼwaaʼus
+     k̲áy+V+3pl+Bias+Interr+Past: k̲áyʼwaaʼujaa
+     k̲áy+V+3pl+Bias+Interr+Past+Hab: k̲áyʼwaaʼuujaangaa
+     k̲áy+V+3pl+Bias+Interr+Fut: k̲áyʼwaaäsaaʼus
+     k̲áy+V+3pl+Cert+Pres: k̲áyʼwaaʼahlanggang
+     k̲áy+V+3pl+Cert+Past: k̲áyʼwaaʼahlanggan
+     k̲áy+V+3pl+Cert+Past+Hab: k̲áyʼwaaʼahlanggiinii
+     k̲áy+V+3pl+Cert+Fut: k̲áyʼwaaäsaaʼahlans
+     k̲áy+V+3pl+Cert+Rel: k̲áyʼwaaʼahlans
+     k̲áy+V+3pl+Ints+Past: k̲áyʼaawaaʼahlang
+     k̲áy+V+3pl+Cont: k̲áyʼaawaaʼahlanggaa
+     k̲áy+V+3pl+Ctfact+Pres: k̲áyʼaawaaʼahlanggang
+     k̲áy+V+3pl+Rflx: k̲áyʼwaaʼahl
+     k̲áy+V+3pl+Fut+Rflx+Interr: k̲áyʼwaaäseehl
+     k̲áy+V+Neg+Sg+Impv: k̲áyʼang
+     k̲áy+V+Neg+Imm+Pres: k̲áyʼangga
+     k̲áy+V+Neg+Interr+Simp+Pres: k̲áyʼang
+     k̲áy+V+Neg+Simp+Pres: k̲áyʼanggang
+     k̲áy+V+Neg+Dir+Past: k̲áyʼanggan
+     k̲áy+V+Neg+Interr+Past: k̲áyʼaangaa
+     k̲áy+V+Neg+Indir+Past: k̲áyʼaangaan
+     k̲áy+V+Neg+Rel: k̲áyʼans
+     k̲áy+V+Neg+Rel+Evid: k̲áyʼaangaas
+     k̲áy+V+Neg+NonFact: k̲áyʼangang
+     k̲áy+V+Neg+Past+NonFact: k̲áyʼaangaa.ang
+     k̲áy+V+Neg+Interr+Pres+Hab: k̲áyʼanggang
+     k̲áy+V+Neg+Pres+Hab: k̲áygangʼanggang
+     k̲áy+V+Neg+Pres+Hab+NonFact: k̲áygangʼangang
+     k̲áy+V+Neg+Dir+Past+Hab: k̲áyʼanggiinii
+     k̲áy+V+Neg+Interr+Past+Hab: k̲áyʼanggaangaa
+     k̲áy+V+Neg+Indir+Past+Hab: k̲áyʼanggaangaan
+     k̲áy+V+Neg+Interr+Fut+Long: k̲áyʼangäsaa
+     k̲áy+V+Neg+Interr+Fut+Short: k̲áyʼangäs
+     k̲áy+V+Neg+Simp+Fut: k̲áyʼangäsaang
+     k̲áy+V+Neg+Imm+Fut: k̲áyʼangäsga
+     k̲áy+V+Neg+Rel+Fut: k̲áyʼangäsaas
+     k̲áy+V+Neg+Fut+NonFact: k̲áyʼangäsaa.ang
+     k̲áy+V+Neg+Interr+Near+Fut: k̲áyang k̲asaaʼáng
+     k̲áy+V+Neg+Near+Fut: k̲áyang k̲asaaʼánggang
+     k̲áy+V+Neg+Interr+VNear+Fut: k̲áyang k̲asaasdläʼáng
+     k̲áy+V+Neg+VNear+Fut: k̲áyang k̲asaasdläʼánggang
+     k̲áy+V+Neg+Bias+Imm+Pres: k̲áyʼangʼuuj
+     k̲áy+V+Neg+Bias+Simp+Pres: k̲áyʼangʼuujang
+     k̲áy+V+Neg+Res: k̲áyʼangäsaaʼuujang
+     k̲áy+V+Neg+Bias+Interr+Pres: k̲áyʼangʼus
+     k̲áy+V+Neg+Bias+Interr+Past: k̲áyʼangʼujaa
+     k̲áy+V+Neg+Bias+Interr+Past+Hab: k̲áyʼangʼuujaangaa
+     k̲áy+V+Neg+Bias+Interr+Fut: k̲áyʼangäsaaʼus
+     k̲áy+V+Neg+Cert+Pres: k̲áyʼaangʼahlanggang
+     k̲áy+V+Neg+Cert+Past: k̲áyʼaangʼahlanggan
+     k̲áy+V+Neg+Cert+Past+Hab: k̲áyʼaangʼahlanggiinii
+     k̲áy+V+Neg+Cert+Fut: k̲áyʼangäsaaʼahlans
+     k̲áy+V+Neg+Cert+Rel: k̲áyʼaangʼahlans
+     k̲áy+V+Neg+Ints+Past: k̲áyʼaangaaʼahlang
+     k̲áy+V+Neg+Cont: k̲áyʼaangaaʼahlanggaa
+     k̲áy+V+Neg+Ctfact+Pres: k̲áyʼaangaaʼahlanggang
+     k̲áy+V+Neg+Rflx: k̲áyʼaangʼahl
+     k̲áy+V+Neg+Fut+Rflx+Interr: k̲áyʼangäseehl
+     k̲áy+V+Neg+Pl+Impv: k̲áyʼangʼuu
+     k̲áy+V+Neg+3pl+Imm+Pres: k̲áyʼangʼwaa
+     k̲áy+V+Neg+3pl+Interr+Simp+Pres: k̲áyʼangʼwaa
+     k̲áy+V+Neg+3pl+Simp+Pres: k̲áyʼangʼwaang
+     k̲áy+V+Neg+3pl+Dir+Past: k̲áyʼangʼwägan
+     k̲áy+V+Neg+3pl+Interr+Past: k̲áyʼangʼaawaa
+     k̲áy+V+Neg+3pl+Indir+Past: k̲áyʼangʼaawaan
+     k̲áy+V+Neg+3pl+Rel: k̲áyʼangʼwaas
+     k̲áy+V+Neg+3pl+Rel+Evid: k̲áyʼangʼaawaas
+     k̲áy+V+Neg+3pl+NonFact: k̲áyʼangʼwaa.ang
+     k̲áy+V+Neg+3pl+Past+NonFact: k̲áyʼangʼaawaa.ang
+     k̲áy+V+Neg+3pl+Interr+Pres+Hab: k̲áygangʼangʼwaa
+     k̲áy+V+Neg+3pl+Pres+Hab: k̲áygangʼangʼwaang
+     k̲áy+V+Neg+3pl+Pres+Hab+NonFact: k̲áygangʼangʼwaa.ang
+     k̲áy+V+Neg+3pl+Dir+Past+Hab: k̲áyʼangʼwägiinii
+     k̲áy+V+Neg+3pl+Interr+Past+Hab: k̲áyʼangʼwägaangaa
+     k̲áy+V+Neg+3pl+Indir+Past+Hab: k̲áyʼangʼwägaangaan
+     k̲áy+V+Neg+3pl+Interr+Fut+Long: k̲áyʼangʼwaaäsaa
+     k̲áy+V+Neg+3pl+Interr+Fut+Short: k̲áyʼangʼwaaäs
+     k̲áy+V+Neg+3pl+Simp+Fut: k̲áyʼangʼwaaäsaang
+     k̲áy+V+Neg+3pl+Imm+Fut: k̲áyʼangʼwaaäsga
+     k̲áy+V+Neg+3pl+Rel+Fut: k̲áyʼangʼwaaäsaas
+     k̲áy+V+Neg+3pl+Fut+NonFact: k̲áyʼangʼwaaäsaa.ang
+     k̲áy+V+Neg+3pl+Interr+Near+Fut: k̲áyʼwaa.ang k̲asaaʼáng
+     k̲áy+V+Neg+3pl+Near+Fut: k̲áyʼwaa.ang k̲asaaʼánggang
+     k̲áy+V+Neg+3pl+Interr+VNear+Fut: k̲áyʼwaa.ang k̲asaasdläʼáng
+     k̲áy+V+Neg+3pl+VNear+Fut: k̲áyʼwaa.ang k̲asaasdläʼánggang
+     k̲áy+V+Neg+3pl+Bias+Imm+Pres: k̲áyʼangʼwaaʼuuj
+     k̲áy+V+Neg+3pl+Bias+Simp+Pres: k̲áyʼangʼwaaʼuujang
+     k̲áy+V+Neg+3pl+Res: k̲áyʼangʼwaaäsaaʼuujang
+     k̲áy+V+Neg+3pl+Bias+Interr+Pres: k̲áyʼangʼwaaʼus
+     k̲áy+V+Neg+3pl+Bias+Interr+Past: k̲áyʼangʼwaaʼujaa
+     k̲áy+V+Neg+3pl+Bias+Interr+Past+Hab: k̲áyʼangʼwaaʼuujaangaa
+     k̲áy+V+Neg+3pl+Bias+Interr+Fut: k̲áyʼangʼwaaäsaaʼus
+     k̲áy+V+Neg+3pl+Cert+Pres: k̲áyʼangʼwaaʼahlanggang
+     k̲áy+V+Neg+3pl+Cert+Past: k̲áyʼangʼwaaʼahlanggan
+     k̲áy+V+Neg+3pl+Cert+Past+Hab: k̲áyʼangʼwaaʼahlanggiinii
+     k̲áy+V+Neg+3pl+Cert+Fut: k̲áyʼangʼwaaäsaaʼahlans
+     k̲áy+V+Neg+3pl+Cert+Rel: k̲áyʼangʼwaaʼahlans
+     k̲áy+V+Neg+3pl+Ints+Past: k̲áyʼangʼaawaaʼahlang
+     k̲áy+V+Neg+3pl+Cont: k̲áyʼangʼaawaaʼahlanggaa
+     k̲áy+V+Neg+3pl+Ctfact+Pres: k̲áyʼangʼaawaaʼahlanggang
+     k̲áy+V+Neg+3pl+Rflx: k̲áyʼangʼwaaʼahl
+     k̲áy+V+Neg+3pl+Fut+Rflx+Interr: k̲áyʼangʼwaaäseehl
 

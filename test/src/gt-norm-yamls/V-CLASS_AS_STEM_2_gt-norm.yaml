@@ -11,35 +11,35 @@ Tests:
 
   Verb - dándas - ENGLISH : # CLASS_AS_STEM_2
 
-     dándas+V+IMM+PRES: dándiija
-     dándas+V+SIMP+PRES: dándiijang
-     dándas+V+DIR+PAST: dándiijan
-     dándas+V+NONFACT: dándiijang
-     dándas+V+INTERR+PRES+HAB: dándiijang
-     dándas+V+PRES+HAB: dándiijanggang
-     dándas+V+PRES+HAB+NONFACT: dándiijangang
-     dándas+V+DIR+PAST+HAB: dándiijiinii
-     dándas+V+INTERR+PAST+HAB: dándiijaangaa
-     dándas+V+INDIR+PAST+HAB: dándiijaangaan
-     dándas+V+INTERR+NEAR+FUT: dándiijang k̲asa'áa
-     dándas+V+NEAR+FUT: dándiijang k̲asa'áang
-     dándas+V+INTERR+VNEAR+FUT: dándiijang k̲asaasdláa
-     dándas+V+VNEAR+FUT: dándiijang k̲asaasdláang
-     dándas+V+CERT+PRES: dándiij'ahlanggang
-     dándas+V+CERT+PAST: dándiij'ahlanggan
-     dándas+V+CERT+PAST+HAB: dándiij'ahlanggiinii
-     dándas+V+CERT+REL: dándiij'ahlans
-     dándas+V+RFLX: dándiij'ahl
-     dándas+V+3PL+INTERR+PRES+HAB: dándiijang'waa
-     dándas+V+3PL+PRES+HAB: dándiijang'waang
-     dándas+V+3PL+PRES+HAB+NONFACT: dándiijang'waa.ang
-     dándas+V+NEG+PRES+HAB: dándiijang'anggang
-     dándas+V+NEG+PRES+HAB+NONFACT: dándiijang'angang
-     dándas+V+NEG+INTERR+NEAR+FUT: dándiijang k̲asaa'áng
-     dándas+V+NEG+NEAR+FUT: dándiijang k̲asaa'ánggang
-     dándas+V+NEG+INTERR+VNEAR+FUT: dándiijang k̲asaasdlä'áng
-     dándas+V+NEG+VNEAR+FUT: dándiijang k̲asaasdlä'ánggang
-     dándas+V+NEG+3PL+INTERR+PRES+HAB: dándiijang'ang'waa
-     dándas+V+NEG+3PL+PRES+HAB: dándiijang'ang'waang
-     dándas+V+NEG+3PL+PRES+HAB+NONFACT: dándiijang'ang'waa.ang
+     dándas+V+Imm+Pres: dándiija
+     dándas+V+Simp+Pres: dándiijang
+     dándas+V+Dir+Past: dándiijan
+     dándas+V+NonFact: dándiijang
+     dándas+V+Interr+Pres+Hab: dándiijang
+     dándas+V+Pres+Hab: dándiijanggang
+     dándas+V+Pres+Hab+NonFact: dándiijangang
+     dándas+V+Dir+Past+Hab: dándiijiinii
+     dándas+V+Interr+Past+Hab: dándiijaangaa
+     dándas+V+Indir+Past+Hab: dándiijaangaan
+     dándas+V+Interr+Near+Fut: dándiijang k̲asaʼáa
+     dándas+V+Near+Fut: dándiijang k̲asaʼáang
+     dándas+V+Interr+VNear+Fut: dándiijang k̲asaasdláa
+     dándas+V+VNear+Fut: dándiijang k̲asaasdláang
+     dándas+V+Cert+Pres: dándiijʼahlanggang
+     dándas+V+Cert+Past: dándiijʼahlanggan
+     dándas+V+Cert+Past+Hab: dándiijʼahlanggiinii
+     dándas+V+Cert+Rel: dándiijʼahlans
+     dándas+V+Rflx: dándiijʼahl
+     dándas+V+3pl+Interr+Pres+Hab: dándiijangʼwaa
+     dándas+V+3pl+Pres+Hab: dándiijangʼwaang
+     dándas+V+3pl+Pres+Hab+NonFact: dándiijangʼwaa.ang
+     dándas+V+Neg+Pres+Hab: dándiijangʼanggang
+     dándas+V+Neg+Pres+Hab+NonFact: dándiijangʼangang
+     dándas+V+Neg+Interr+Near+Fut: dándiijang k̲asaaʼáng
+     dándas+V+Neg+Near+Fut: dándiijang k̲asaaʼánggang
+     dándas+V+Neg+Interr+VNear+Fut: dándiijang k̲asaasdläʼáng
+     dándas+V+Neg+VNear+Fut: dándiijang k̲asaasdläʼánggang
+     dándas+V+Neg+3pl+Interr+Pres+Hab: dándiijangʼangʼwaa
+     dándas+V+Neg+3pl+Pres+Hab: dándiijangʼangʼwaang
+     dándas+V+Neg+3pl+Pres+Hab+NonFact: dándiijangʼangʼwaa.ang
 

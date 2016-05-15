@@ -9,170 +9,170 @@ Config:
 
 Tests:
 
-  Verb - xál k̲áat'e.ehl - ENGLISH : # CLASS_E.EHL_STEM_2
+  Verb - xál k̲áatʼe.ehl - ENGLISH : # CLASS_E.EHL_STEM_2
 
-     xál k̲áat'e.ehl+V+SG+IMPV: xál k̲áat'eehl
-     xál k̲áat'e.ehl+V+IMM+PRES: xál k̲áat'eehlga
-     xál k̲áat'e.ehl+V+INTERR+SIMP+PRES: xál k̲áat'eehl
-     xál k̲áat'e.ehl+V+SIMP+PRES: xál k̲áat'eehlgang
-     xál k̲áat'e.ehl+V+DIR+PAST: xál k̲áat'eehlgan
-     xál k̲áat'e.ehl+V+REL: xál k̲áat'eehls
-     xál k̲áat'e.ehl+V+NONFACT: xál k̲áat'eehlang
-     xál k̲áat'e.ehl+V+INTERR+PRES+HAB: xál k̲áat'eehlgang
-     xál k̲áat'e.ehl+V+PRES+HAB: xál k̲áat'eehlganggang
-     xál k̲áat'e.ehl+V+PRES+HAB+NONFACT: xál k̲áat'eehlgangang
-     xál k̲áat'e.ehl+V+DIR+PAST+HAB: xál k̲áat'eehlgiinii
-     xál k̲áat'e.ehl+V+INTERR+PAST+HAB: xál k̲áat'eehlgaangaa
-     xál k̲áat'e.ehl+V+INDIR+PAST+HAB: xál k̲áat'eehlgaangaan
-     xál k̲áat'e.ehl+V+INTERR+FUT+LONG: xál k̲áat'eehläsaa
-     xál k̲áat'e.ehl+V+INTERR+FUT+SHORT: xál k̲áat'eehläs
-     xál k̲áat'e.ehl+V+SIMP+FUT: xál k̲áat'eehläsaang
-     xál k̲áat'e.ehl+V+IMM+FUT: xál k̲áat'eehläsga
-     xál k̲áat'e.ehl+V+REL+FUT: xál k̲áat'eehläsaas
-     xál k̲áat'e.ehl+V+FUT+NONFACT: xál k̲áat'eehläsaa.ang
-     xál k̲áat'e.ehl+V+INTERR+NEAR+FUT: xál k̲áat'eehlang k̲asa'áa
-     xál k̲áat'e.ehl+V+NEAR+FUT: xál k̲áat'eehlang k̲asa'áang
-     xál k̲áat'e.ehl+V+INTERR+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdláa
-     xál k̲áat'e.ehl+V+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdláang
-     xál k̲áat'e.ehl+V+BIAS+IMM+PRES: xál k̲áat'eehl'uuj
-     xál k̲áat'e.ehl+V+BIAS+SIMP+PRES: xál k̲áat'eehl'uujang
-     xál k̲áat'e.ehl+V+RES: xál k̲áat'eehläsaa'uujang
-     xál k̲áat'e.ehl+V+BIAS+INTERR+PRES: xál k̲áat'eehl'us
-     xál k̲áat'e.ehl+V+BIAS+INTERR+PAST: xál k̲áat'eehl'ujaa
-     xál k̲áat'e.ehl+V+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'uujaangaa
-     xál k̲áat'e.ehl+V+BIAS+INTERR+FUT: xál k̲áat'eehläsaa'us
-     xál k̲áat'e.ehl+V+CERT+FUT: xál k̲áat'eehläsaa'ahlans
-     xál k̲áat'e.ehl+V+FUT+RFLX+INTERR: xál k̲áat'eehläseehl
-     xál k̲áat'e.ehl+V+PL+IMPV: xál k̲áat'eehl'uu
-     xál k̲áat'e.ehl+V+3PL+IMM+PRES: xál k̲áat'eehl'waa
-     xál k̲áat'e.ehl+V+3PL+INTERR+SIMP+PRES: xál k̲áat'eehl'waa
-     xál k̲áat'e.ehl+V+3PL+SIMP+PRES: xál k̲áat'eehl'waang
-     xál k̲áat'e.ehl+V+3PL+DIR+PAST: xál k̲áat'eehl'wägan
-     xál k̲áat'e.ehl+V+3PL+INTERR+PAST: xál k̲áat'eehl'aawaa
-     xál k̲áat'e.ehl+V+3PL+INDIR+PAST: xál k̲áat'eehl'aawaan
-     xál k̲áat'e.ehl+V+3PL+REL: xál k̲áat'eehl'waas
-     xál k̲áat'e.ehl+V+3PL+REL+EVID: xál k̲áat'eehl'aawaas
-     xál k̲áat'e.ehl+V+3PL+NONFACT: xál k̲áat'eehl'waa.ang
-     xál k̲áat'e.ehl+V+3PL+PAST+NONFACT: xál k̲áat'eehl'aawaa.ang
-     xál k̲áat'e.ehl+V+3PL+INTERR+PRES+HAB: xál k̲áat'eehlgang'waa
-     xál k̲áat'e.ehl+V+3PL+PRES+HAB: xál k̲áat'eehlgang'waang
-     xál k̲áat'e.ehl+V+3PL+PRES+HAB+NONFACT: xál k̲áat'eehlgang'waa.ang
-     xál k̲áat'e.ehl+V+3PL+DIR+PAST+HAB: xál k̲áat'eehl'wägiinii
-     xál k̲áat'e.ehl+V+3PL+INTERR+PAST+HAB: xál k̲áat'eehl'wägaangaa
-     xál k̲áat'e.ehl+V+3PL+INDIR+PAST+HAB: xál k̲áat'eehl'wägaangaan
-     xál k̲áat'e.ehl+V+3PL+INTERR+FUT+LONG: xál k̲áat'eehl'waaäsaa
-     xál k̲áat'e.ehl+V+3PL+INTERR+FUT+SHORT: xál k̲áat'eehl'waaäs
-     xál k̲áat'e.ehl+V+3PL+SIMP+FUT: xál k̲áat'eehl'waaäsaang
-     xál k̲áat'e.ehl+V+3PL+IMM+FUT: xál k̲áat'eehl'waaäsga
-     xál k̲áat'e.ehl+V+3PL+REL+FUT: xál k̲áat'eehl'waaäsaas
-     xál k̲áat'e.ehl+V+3PL+FUT+NONFACT: xál k̲áat'eehl'waaäsaa.ang
-     xál k̲áat'e.ehl+V+3PL+INTERR+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asa'áa
-     xál k̲áat'e.ehl+V+3PL+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asa'áang
-     xál k̲áat'e.ehl+V+3PL+INTERR+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdláa
-     xál k̲áat'e.ehl+V+3PL+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdláang
-     xál k̲áat'e.ehl+V+3PL+BIAS+IMM+PRES: xál k̲áat'eehl'waa'uuj
-     xál k̲áat'e.ehl+V+3PL+BIAS+SIMP+PRES: xál k̲áat'eehl'waa'uujang
-     xál k̲áat'e.ehl+V+3PL+RES: xál k̲áat'eehl'waaäsaa'uujang
-     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+PRES: xál k̲áat'eehl'waa'us
-     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+PAST: xál k̲áat'eehl'waa'ujaa
-     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'waa'uujaangaa
-     xál k̲áat'e.ehl+V+3PL+BIAS+INTERR+FUT: xál k̲áat'eehl'waaäsaa'us
-     xál k̲áat'e.ehl+V+3PL+CERT+PRES: xál k̲áat'eehl'waa'ahlanggang
-     xál k̲áat'e.ehl+V+3PL+CERT+PAST: xál k̲áat'eehl'waa'ahlanggan
-     xál k̲áat'e.ehl+V+3PL+CERT+PAST+HAB: xál k̲áat'eehl'waa'ahlanggiinii
-     xál k̲áat'e.ehl+V+3PL+CERT+FUT: xál k̲áat'eehl'waaäsaa'ahlans
-     xál k̲áat'e.ehl+V+3PL+CERT+REL: xál k̲áat'eehl'waa'ahlans
-     xál k̲áat'e.ehl+V+3PL+INTS+PAST: xál k̲áat'eehl'aawaa'ahlang
-     xál k̲áat'e.ehl+V+3PL+CONT: xál k̲áat'eehl'aawaa'ahlanggaa
-     xál k̲áat'e.ehl+V+3PL+CTFACT+PRES: xál k̲áat'eehl'aawaa'ahlanggang
-     xál k̲áat'e.ehl+V+3PL+RFLX: xál k̲áat'eehl'waa'ahl
-     xál k̲áat'e.ehl+V+3PL+FUT+RFLX+INTERR: xál k̲áat'eehl'waaäseehl
-     xál k̲áat'e.ehl+V+NEG+SG+IMPV: xál k̲áat'eehl'ang
-     xál k̲áat'e.ehl+V+NEG+IMM+PRES: xál k̲áat'eehl'angga
-     xál k̲áat'e.ehl+V+NEG+INTERR+SIMP+PRES: xál k̲áat'eehl'ang
-     xál k̲áat'e.ehl+V+NEG+SIMP+PRES: xál k̲áat'eehl'anggang
-     xál k̲áat'e.ehl+V+NEG+DIR+PAST: xál k̲áat'eehl'anggan
-     xál k̲áat'e.ehl+V+NEG+INTERR+PAST: xál k̲áat'eehl'aangaa
-     xál k̲áat'e.ehl+V+NEG+INDIR+PAST: xál k̲áat'eehl'aangaan
-     xál k̲áat'e.ehl+V+NEG+REL: xál k̲áat'eehl'ans
-     xál k̲áat'e.ehl+V+NEG+REL+EVID: xál k̲áat'eehl'aangaas
-     xál k̲áat'e.ehl+V+NEG+NONFACT: xál k̲áat'eehl'angang
-     xál k̲áat'e.ehl+V+NEG+PAST+NONFACT: xál k̲áat'eehl'aangaa.ang
-     xál k̲áat'e.ehl+V+NEG+INTERR+PRES+HAB: xál k̲áat'eehl'anggang
-     xál k̲áat'e.ehl+V+NEG+PRES+HAB: xál k̲áat'eehlgang'anggang
-     xál k̲áat'e.ehl+V+NEG+PRES+HAB+NONFACT: xál k̲áat'eehlgang'angang
-     xál k̲áat'e.ehl+V+NEG+DIR+PAST+HAB: xál k̲áat'eehl'anggiinii
-     xál k̲áat'e.ehl+V+NEG+INTERR+PAST+HAB: xál k̲áat'eehl'anggaangaa
-     xál k̲áat'e.ehl+V+NEG+INDIR+PAST+HAB: xál k̲áat'eehl'anggaangaan
-     xál k̲áat'e.ehl+V+NEG+INTERR+FUT+LONG: xál k̲áat'eehl'angäsaa
-     xál k̲áat'e.ehl+V+NEG+INTERR+FUT+SHORT: xál k̲áat'eehl'angäs
-     xál k̲áat'e.ehl+V+NEG+SIMP+FUT: xál k̲áat'eehl'angäsaang
-     xál k̲áat'e.ehl+V+NEG+IMM+FUT: xál k̲áat'eehl'angäsga
-     xál k̲áat'e.ehl+V+NEG+REL+FUT: xál k̲áat'eehl'angäsaas
-     xál k̲áat'e.ehl+V+NEG+FUT+NONFACT: xál k̲áat'eehl'angäsaa.ang
-     xál k̲áat'e.ehl+V+NEG+INTERR+NEAR+FUT: xál k̲áat'eehlang k̲asaa'áng
-     xál k̲áat'e.ehl+V+NEG+NEAR+FUT: xál k̲áat'eehlang k̲asaa'ánggang
-     xál k̲áat'e.ehl+V+NEG+INTERR+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdlä'áng
-     xál k̲áat'e.ehl+V+NEG+VNEAR+FUT: xál k̲áat'eehlang k̲asaasdlä'ánggang
-     xál k̲áat'e.ehl+V+NEG+BIAS+IMM+PRES: xál k̲áat'eehl'ang'uuj
-     xál k̲áat'e.ehl+V+NEG+BIAS+SIMP+PRES: xál k̲áat'eehl'ang'uujang
-     xál k̲áat'e.ehl+V+NEG+RES: xál k̲áat'eehl'angäsaa'uujang
-     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+PRES: xál k̲áat'eehl'ang'us
-     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+PAST: xál k̲áat'eehl'ang'ujaa
-     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'ang'uujaangaa
-     xál k̲áat'e.ehl+V+NEG+BIAS+INTERR+FUT: xál k̲áat'eehl'angäsaa'us
-     xál k̲áat'e.ehl+V+NEG+CERT+PRES: xál k̲áat'eehl'aang'ahlanggang
-     xál k̲áat'e.ehl+V+NEG+CERT+PAST: xál k̲áat'eehl'aang'ahlanggan
-     xál k̲áat'e.ehl+V+NEG+CERT+PAST+HAB: xál k̲áat'eehl'aang'ahlanggiinii
-     xál k̲áat'e.ehl+V+NEG+CERT+FUT: xál k̲áat'eehl'angäsaa'ahlans
-     xál k̲áat'e.ehl+V+NEG+CERT+REL: xál k̲áat'eehl'aang'ahlans
-     xál k̲áat'e.ehl+V+NEG+INTS+PAST: xál k̲áat'eehl'aangaa'ahlang
-     xál k̲áat'e.ehl+V+NEG+CONT: xál k̲áat'eehl'aangaa'ahlanggaa
-     xál k̲áat'e.ehl+V+NEG+CTFACT+PRES: xál k̲áat'eehl'aangaa'ahlanggang
-     xál k̲áat'e.ehl+V+NEG+RFLX: xál k̲áat'eehl'aang'ahl
-     xál k̲áat'e.ehl+V+NEG+FUT+RFLX+INTERR: xál k̲áat'eehl'angäseehl
-     xál k̲áat'e.ehl+V+NEG+PL+IMPV: xál k̲áat'eehl'ang'uu
-     xál k̲áat'e.ehl+V+NEG+3PL+IMM+PRES: xál k̲áat'eehl'ang'waa
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+SIMP+PRES: xál k̲áat'eehl'ang'waa
-     xál k̲áat'e.ehl+V+NEG+3PL+SIMP+PRES: xál k̲áat'eehl'ang'waang
-     xál k̲áat'e.ehl+V+NEG+3PL+DIR+PAST: xál k̲áat'eehl'ang'wägan
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+PAST: xál k̲áat'eehl'ang'aawaa
-     xál k̲áat'e.ehl+V+NEG+3PL+INDIR+PAST: xál k̲áat'eehl'ang'aawaan
-     xál k̲áat'e.ehl+V+NEG+3PL+REL: xál k̲áat'eehl'ang'waas
-     xál k̲áat'e.ehl+V+NEG+3PL+REL+EVID: xál k̲áat'eehl'ang'aawaas
-     xál k̲áat'e.ehl+V+NEG+3PL+NONFACT: xál k̲áat'eehl'ang'waa.ang
-     xál k̲áat'e.ehl+V+NEG+3PL+PAST+NONFACT: xál k̲áat'eehl'ang'aawaa.ang
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+PRES+HAB: xál k̲áat'eehlgang'ang'waa
-     xál k̲áat'e.ehl+V+NEG+3PL+PRES+HAB: xál k̲áat'eehlgang'ang'waang
-     xál k̲áat'e.ehl+V+NEG+3PL+PRES+HAB+NONFACT: xál k̲áat'eehlgang'ang'waa.ang
-     xál k̲áat'e.ehl+V+NEG+3PL+DIR+PAST+HAB: xál k̲áat'eehl'ang'wägiinii
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+PAST+HAB: xál k̲áat'eehl'ang'wägaangaa
-     xál k̲áat'e.ehl+V+NEG+3PL+INDIR+PAST+HAB: xál k̲áat'eehl'ang'wägaangaan
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+FUT+LONG: xál k̲áat'eehl'ang'waaäsaa
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+FUT+SHORT: xál k̲áat'eehl'ang'waaäs
-     xál k̲áat'e.ehl+V+NEG+3PL+SIMP+FUT: xál k̲áat'eehl'ang'waaäsaang
-     xál k̲áat'e.ehl+V+NEG+3PL+IMM+FUT: xál k̲áat'eehl'ang'waaäsga
-     xál k̲áat'e.ehl+V+NEG+3PL+REL+FUT: xál k̲áat'eehl'ang'waaäsaas
-     xál k̲áat'e.ehl+V+NEG+3PL+FUT+NONFACT: xál k̲áat'eehl'ang'waaäsaa.ang
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaa'áng
-     xál k̲áat'e.ehl+V+NEG+3PL+NEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaa'ánggang
-     xál k̲áat'e.ehl+V+NEG+3PL+INTERR+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdlä'áng
-     xál k̲áat'e.ehl+V+NEG+3PL+VNEAR+FUT: xál k̲áat'eehl'waa.ang k̲asaasdlä'ánggang
-     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+IMM+PRES: xál k̲áat'eehl'ang'waa'uuj
-     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+SIMP+PRES: xál k̲áat'eehl'ang'waa'uujang
-     xál k̲áat'e.ehl+V+NEG+3PL+RES: xál k̲áat'eehl'ang'waaäsaa'uujang
-     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+PRES: xál k̲áat'eehl'ang'waa'us
-     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+PAST: xál k̲áat'eehl'ang'waa'ujaa
-     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+PAST+HAB: xál k̲áat'eehl'ang'waa'uujaangaa
-     xál k̲áat'e.ehl+V+NEG+3PL+BIAS+INTERR+FUT: xál k̲áat'eehl'ang'waaäsaa'us
-     xál k̲áat'e.ehl+V+NEG+3PL+CERT+PRES: xál k̲áat'eehl'ang'waa'ahlanggang
-     xál k̲áat'e.ehl+V+NEG+3PL+CERT+PAST: xál k̲áat'eehl'ang'waa'ahlanggan
-     xál k̲áat'e.ehl+V+NEG+3PL+CERT+PAST+HAB: xál k̲áat'eehl'ang'waa'ahlanggiinii
-     xál k̲áat'e.ehl+V+NEG+3PL+CERT+FUT: xál k̲áat'eehl'ang'waaäsaa'ahlans
-     xál k̲áat'e.ehl+V+NEG+3PL+CERT+REL: xál k̲áat'eehl'ang'waa'ahlans
-     xál k̲áat'e.ehl+V+NEG+3PL+INTS+PAST: xál k̲áat'eehl'ang'aawaa'ahlang
-     xál k̲áat'e.ehl+V+NEG+3PL+CONT: xál k̲áat'eehl'ang'aawaa'ahlanggaa
-     xál k̲áat'e.ehl+V+NEG+3PL+CTFACT+PRES: xál k̲áat'eehl'ang'aawaa'ahlanggang
-     xál k̲áat'e.ehl+V+NEG+3PL+RFLX: xál k̲áat'eehl'ang'waa'ahl
-     xál k̲áat'e.ehl+V+NEG+3PL+FUT+RFLX+INTERR: xál k̲áat'eehl'ang'waaäseehl
+     xál k̲áatʼe.ehl+V+Sg+Impv: xál k̲áatʼeehl
+     xál k̲áatʼe.ehl+V+Imm+Pres: xál k̲áatʼeehlga
+     xál k̲áatʼe.ehl+V+Interr+Simp+Pres: xál k̲áatʼeehl
+     xál k̲áatʼe.ehl+V+Simp+Pres: xál k̲áatʼeehlgang
+     xál k̲áatʼe.ehl+V+Dir+Past: xál k̲áatʼeehlgan
+     xál k̲áatʼe.ehl+V+Rel: xál k̲áatʼeehls
+     xál k̲áatʼe.ehl+V+NonFact: xál k̲áatʼeehlang
+     xál k̲áatʼe.ehl+V+Interr+Pres+Hab: xál k̲áatʼeehlgang
+     xál k̲áatʼe.ehl+V+Pres+Hab: xál k̲áatʼeehlganggang
+     xál k̲áatʼe.ehl+V+Pres+Hab+NonFact: xál k̲áatʼeehlgangang
+     xál k̲áatʼe.ehl+V+Dir+Past+Hab: xál k̲áatʼeehlgiinii
+     xál k̲áatʼe.ehl+V+Interr+Past+Hab: xál k̲áatʼeehlgaangaa
+     xál k̲áatʼe.ehl+V+Indir+Past+Hab: xál k̲áatʼeehlgaangaan
+     xál k̲áatʼe.ehl+V+Interr+Fut+Long: xál k̲áatʼeehläsaa
+     xál k̲áatʼe.ehl+V+Interr+Fut+Short: xál k̲áatʼeehläs
+     xál k̲áatʼe.ehl+V+Simp+Fut: xál k̲áatʼeehläsaang
+     xál k̲áatʼe.ehl+V+Imm+Fut: xál k̲áatʼeehläsga
+     xál k̲áatʼe.ehl+V+Rel+Fut: xál k̲áatʼeehläsaas
+     xál k̲áatʼe.ehl+V+Fut+NonFact: xál k̲áatʼeehläsaa.ang
+     xál k̲áatʼe.ehl+V+Interr+Near+Fut: xál k̲áatʼeehlang k̲asaʼáa
+     xál k̲áatʼe.ehl+V+Near+Fut: xál k̲áatʼeehlang k̲asaʼáang
+     xál k̲áatʼe.ehl+V+Interr+VNear+Fut: xál k̲áatʼeehlang k̲asaasdláa
+     xál k̲áatʼe.ehl+V+VNear+Fut: xál k̲áatʼeehlang k̲asaasdláang
+     xál k̲áatʼe.ehl+V+Bias+Imm+Pres: xál k̲áatʼeehlʼuuj
+     xál k̲áatʼe.ehl+V+Bias+Simp+Pres: xál k̲áatʼeehlʼuujang
+     xál k̲áatʼe.ehl+V+Res: xál k̲áatʼeehläsaaʼuujang
+     xál k̲áatʼe.ehl+V+Bias+Interr+Pres: xál k̲áatʼeehlʼus
+     xál k̲áatʼe.ehl+V+Bias+Interr+Past: xál k̲áatʼeehlʼujaa
+     xál k̲áatʼe.ehl+V+Bias+Interr+Past+Hab: xál k̲áatʼeehlʼuujaangaa
+     xál k̲áatʼe.ehl+V+Bias+Interr+Fut: xál k̲áatʼeehläsaaʼus
+     xál k̲áatʼe.ehl+V+Cert+Fut: xál k̲áatʼeehläsaaʼahlans
+     xál k̲áatʼe.ehl+V+Fut+Rflx+Interr: xál k̲áatʼeehläseehl
+     xál k̲áatʼe.ehl+V+Pl+Impv: xál k̲áatʼeehlʼuu
+     xál k̲áatʼe.ehl+V+3pl+Imm+Pres: xál k̲áatʼeehlʼwaa
+     xál k̲áatʼe.ehl+V+3pl+Interr+Simp+Pres: xál k̲áatʼeehlʼwaa
+     xál k̲áatʼe.ehl+V+3pl+Simp+Pres: xál k̲áatʼeehlʼwaang
+     xál k̲áatʼe.ehl+V+3pl+Dir+Past: xál k̲áatʼeehlʼwägan
+     xál k̲áatʼe.ehl+V+3pl+Interr+Past: xál k̲áatʼeehlʼaawaa
+     xál k̲áatʼe.ehl+V+3pl+Indir+Past: xál k̲áatʼeehlʼaawaan
+     xál k̲áatʼe.ehl+V+3pl+Rel: xál k̲áatʼeehlʼwaas
+     xál k̲áatʼe.ehl+V+3pl+Rel+Evid: xál k̲áatʼeehlʼaawaas
+     xál k̲áatʼe.ehl+V+3pl+NonFact: xál k̲áatʼeehlʼwaa.ang
+     xál k̲áatʼe.ehl+V+3pl+Past+NonFact: xál k̲áatʼeehlʼaawaa.ang
+     xál k̲áatʼe.ehl+V+3pl+Interr+Pres+Hab: xál k̲áatʼeehlgangʼwaa
+     xál k̲áatʼe.ehl+V+3pl+Pres+Hab: xál k̲áatʼeehlgangʼwaang
+     xál k̲áatʼe.ehl+V+3pl+Pres+Hab+NonFact: xál k̲áatʼeehlgangʼwaa.ang
+     xál k̲áatʼe.ehl+V+3pl+Dir+Past+Hab: xál k̲áatʼeehlʼwägiinii
+     xál k̲áatʼe.ehl+V+3pl+Interr+Past+Hab: xál k̲áatʼeehlʼwägaangaa
+     xál k̲áatʼe.ehl+V+3pl+Indir+Past+Hab: xál k̲áatʼeehlʼwägaangaan
+     xál k̲áatʼe.ehl+V+3pl+Interr+Fut+Long: xál k̲áatʼeehlʼwaaäsaa
+     xál k̲áatʼe.ehl+V+3pl+Interr+Fut+Short: xál k̲áatʼeehlʼwaaäs
+     xál k̲áatʼe.ehl+V+3pl+Simp+Fut: xál k̲áatʼeehlʼwaaäsaang
+     xál k̲áatʼe.ehl+V+3pl+Imm+Fut: xál k̲áatʼeehlʼwaaäsga
+     xál k̲áatʼe.ehl+V+3pl+Rel+Fut: xál k̲áatʼeehlʼwaaäsaas
+     xál k̲áatʼe.ehl+V+3pl+Fut+NonFact: xál k̲áatʼeehlʼwaaäsaa.ang
+     xál k̲áatʼe.ehl+V+3pl+Interr+Near+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaʼáa
+     xál k̲áatʼe.ehl+V+3pl+Near+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaʼáang
+     xál k̲áatʼe.ehl+V+3pl+Interr+VNear+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaasdláa
+     xál k̲áatʼe.ehl+V+3pl+VNear+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaasdláang
+     xál k̲áatʼe.ehl+V+3pl+Bias+Imm+Pres: xál k̲áatʼeehlʼwaaʼuuj
+     xál k̲áatʼe.ehl+V+3pl+Bias+Simp+Pres: xál k̲áatʼeehlʼwaaʼuujang
+     xál k̲áatʼe.ehl+V+3pl+Res: xál k̲áatʼeehlʼwaaäsaaʼuujang
+     xál k̲áatʼe.ehl+V+3pl+Bias+Interr+Pres: xál k̲áatʼeehlʼwaaʼus
+     xál k̲áatʼe.ehl+V+3pl+Bias+Interr+Past: xál k̲áatʼeehlʼwaaʼujaa
+     xál k̲áatʼe.ehl+V+3pl+Bias+Interr+Past+Hab: xál k̲áatʼeehlʼwaaʼuujaangaa
+     xál k̲áatʼe.ehl+V+3pl+Bias+Interr+Fut: xál k̲áatʼeehlʼwaaäsaaʼus
+     xál k̲áatʼe.ehl+V+3pl+Cert+Pres: xál k̲áatʼeehlʼwaaʼahlanggang
+     xál k̲áatʼe.ehl+V+3pl+Cert+Past: xál k̲áatʼeehlʼwaaʼahlanggan
+     xál k̲áatʼe.ehl+V+3pl+Cert+Past+Hab: xál k̲áatʼeehlʼwaaʼahlanggiinii
+     xál k̲áatʼe.ehl+V+3pl+Cert+Fut: xál k̲áatʼeehlʼwaaäsaaʼahlans
+     xál k̲áatʼe.ehl+V+3pl+Cert+Rel: xál k̲áatʼeehlʼwaaʼahlans
+     xál k̲áatʼe.ehl+V+3pl+Ints+Past: xál k̲áatʼeehlʼaawaaʼahlang
+     xál k̲áatʼe.ehl+V+3pl+Cont: xál k̲áatʼeehlʼaawaaʼahlanggaa
+     xál k̲áatʼe.ehl+V+3pl+Ctfact+Pres: xál k̲áatʼeehlʼaawaaʼahlanggang
+     xál k̲áatʼe.ehl+V+3pl+Rflx: xál k̲áatʼeehlʼwaaʼahl
+     xál k̲áatʼe.ehl+V+3pl+Fut+Rflx+Interr: xál k̲áatʼeehlʼwaaäseehl
+     xál k̲áatʼe.ehl+V+Neg+Sg+Impv: xál k̲áatʼeehlʼang
+     xál k̲áatʼe.ehl+V+Neg+Imm+Pres: xál k̲áatʼeehlʼangga
+     xál k̲áatʼe.ehl+V+Neg+Interr+Simp+Pres: xál k̲áatʼeehlʼang
+     xál k̲áatʼe.ehl+V+Neg+Simp+Pres: xál k̲áatʼeehlʼanggang
+     xál k̲áatʼe.ehl+V+Neg+Dir+Past: xál k̲áatʼeehlʼanggan
+     xál k̲áatʼe.ehl+V+Neg+Interr+Past: xál k̲áatʼeehlʼaangaa
+     xál k̲áatʼe.ehl+V+Neg+Indir+Past: xál k̲áatʼeehlʼaangaan
+     xál k̲áatʼe.ehl+V+Neg+Rel: xál k̲áatʼeehlʼans
+     xál k̲áatʼe.ehl+V+Neg+Rel+Evid: xál k̲áatʼeehlʼaangaas
+     xál k̲áatʼe.ehl+V+Neg+NonFact: xál k̲áatʼeehlʼangang
+     xál k̲áatʼe.ehl+V+Neg+Past+NonFact: xál k̲áatʼeehlʼaangaa.ang
+     xál k̲áatʼe.ehl+V+Neg+Interr+Pres+Hab: xál k̲áatʼeehlʼanggang
+     xál k̲áatʼe.ehl+V+Neg+Pres+Hab: xál k̲áatʼeehlgangʼanggang
+     xál k̲áatʼe.ehl+V+Neg+Pres+Hab+NonFact: xál k̲áatʼeehlgangʼangang
+     xál k̲áatʼe.ehl+V+Neg+Dir+Past+Hab: xál k̲áatʼeehlʼanggiinii
+     xál k̲áatʼe.ehl+V+Neg+Interr+Past+Hab: xál k̲áatʼeehlʼanggaangaa
+     xál k̲áatʼe.ehl+V+Neg+Indir+Past+Hab: xál k̲áatʼeehlʼanggaangaan
+     xál k̲áatʼe.ehl+V+Neg+Interr+Fut+Long: xál k̲áatʼeehlʼangäsaa
+     xál k̲áatʼe.ehl+V+Neg+Interr+Fut+Short: xál k̲áatʼeehlʼangäs
+     xál k̲áatʼe.ehl+V+Neg+Simp+Fut: xál k̲áatʼeehlʼangäsaang
+     xál k̲áatʼe.ehl+V+Neg+Imm+Fut: xál k̲áatʼeehlʼangäsga
+     xál k̲áatʼe.ehl+V+Neg+Rel+Fut: xál k̲áatʼeehlʼangäsaas
+     xál k̲áatʼe.ehl+V+Neg+Fut+NonFact: xál k̲áatʼeehlʼangäsaa.ang
+     xál k̲áatʼe.ehl+V+Neg+Interr+Near+Fut: xál k̲áatʼeehlang k̲asaaʼáng
+     xál k̲áatʼe.ehl+V+Neg+Near+Fut: xál k̲áatʼeehlang k̲asaaʼánggang
+     xál k̲áatʼe.ehl+V+Neg+Interr+VNear+Fut: xál k̲áatʼeehlang k̲asaasdläʼáng
+     xál k̲áatʼe.ehl+V+Neg+VNear+Fut: xál k̲áatʼeehlang k̲asaasdläʼánggang
+     xál k̲áatʼe.ehl+V+Neg+Bias+Imm+Pres: xál k̲áatʼeehlʼangʼuuj
+     xál k̲áatʼe.ehl+V+Neg+Bias+Simp+Pres: xál k̲áatʼeehlʼangʼuujang
+     xál k̲áatʼe.ehl+V+Neg+Res: xál k̲áatʼeehlʼangäsaaʼuujang
+     xál k̲áatʼe.ehl+V+Neg+Bias+Interr+Pres: xál k̲áatʼeehlʼangʼus
+     xál k̲áatʼe.ehl+V+Neg+Bias+Interr+Past: xál k̲áatʼeehlʼangʼujaa
+     xál k̲áatʼe.ehl+V+Neg+Bias+Interr+Past+Hab: xál k̲áatʼeehlʼangʼuujaangaa
+     xál k̲áatʼe.ehl+V+Neg+Bias+Interr+Fut: xál k̲áatʼeehlʼangäsaaʼus
+     xál k̲áatʼe.ehl+V+Neg+Cert+Pres: xál k̲áatʼeehlʼaangʼahlanggang
+     xál k̲áatʼe.ehl+V+Neg+Cert+Past: xál k̲áatʼeehlʼaangʼahlanggan
+     xál k̲áatʼe.ehl+V+Neg+Cert+Past+Hab: xál k̲áatʼeehlʼaangʼahlanggiinii
+     xál k̲áatʼe.ehl+V+Neg+Cert+Fut: xál k̲áatʼeehlʼangäsaaʼahlans
+     xál k̲áatʼe.ehl+V+Neg+Cert+Rel: xál k̲áatʼeehlʼaangʼahlans
+     xál k̲áatʼe.ehl+V+Neg+Ints+Past: xál k̲áatʼeehlʼaangaaʼahlang
+     xál k̲áatʼe.ehl+V+Neg+Cont: xál k̲áatʼeehlʼaangaaʼahlanggaa
+     xál k̲áatʼe.ehl+V+Neg+Ctfact+Pres: xál k̲áatʼeehlʼaangaaʼahlanggang
+     xál k̲áatʼe.ehl+V+Neg+Rflx: xál k̲áatʼeehlʼaangʼahl
+     xál k̲áatʼe.ehl+V+Neg+Fut+Rflx+Interr: xál k̲áatʼeehlʼangäseehl
+     xál k̲áatʼe.ehl+V+Neg+Pl+Impv: xál k̲áatʼeehlʼangʼuu
+     xál k̲áatʼe.ehl+V+Neg+3pl+Imm+Pres: xál k̲áatʼeehlʼangʼwaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Simp+Pres: xál k̲áatʼeehlʼangʼwaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Simp+Pres: xál k̲áatʼeehlʼangʼwaang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Dir+Past: xál k̲áatʼeehlʼangʼwägan
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Past: xál k̲áatʼeehlʼangʼaawaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Indir+Past: xál k̲áatʼeehlʼangʼaawaan
+     xál k̲áatʼe.ehl+V+Neg+3pl+Rel: xál k̲áatʼeehlʼangʼwaas
+     xál k̲áatʼe.ehl+V+Neg+3pl+Rel+Evid: xál k̲áatʼeehlʼangʼaawaas
+     xál k̲áatʼe.ehl+V+Neg+3pl+NonFact: xál k̲áatʼeehlʼangʼwaa.ang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Past+NonFact: xál k̲áatʼeehlʼangʼaawaa.ang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Pres+Hab: xál k̲áatʼeehlgangʼangʼwaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Pres+Hab: xál k̲áatʼeehlgangʼangʼwaang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Pres+Hab+NonFact: xál k̲áatʼeehlgangʼangʼwaa.ang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Dir+Past+Hab: xál k̲áatʼeehlʼangʼwägiinii
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Past+Hab: xál k̲áatʼeehlʼangʼwägaangaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Indir+Past+Hab: xál k̲áatʼeehlʼangʼwägaangaan
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Fut+Long: xál k̲áatʼeehlʼangʼwaaäsaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Fut+Short: xál k̲áatʼeehlʼangʼwaaäs
+     xál k̲áatʼe.ehl+V+Neg+3pl+Simp+Fut: xál k̲áatʼeehlʼangʼwaaäsaang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Imm+Fut: xál k̲áatʼeehlʼangʼwaaäsga
+     xál k̲áatʼe.ehl+V+Neg+3pl+Rel+Fut: xál k̲áatʼeehlʼangʼwaaäsaas
+     xál k̲áatʼe.ehl+V+Neg+3pl+Fut+NonFact: xál k̲áatʼeehlʼangʼwaaäsaa.ang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+Near+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaaʼáng
+     xál k̲áatʼe.ehl+V+Neg+3pl+Near+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaaʼánggang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Interr+VNear+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaasdläʼáng
+     xál k̲áatʼe.ehl+V+Neg+3pl+VNear+Fut: xál k̲áatʼeehlʼwaa.ang k̲asaasdläʼánggang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Bias+Imm+Pres: xál k̲áatʼeehlʼangʼwaaʼuuj
+     xál k̲áatʼe.ehl+V+Neg+3pl+Bias+Simp+Pres: xál k̲áatʼeehlʼangʼwaaʼuujang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Res: xál k̲áatʼeehlʼangʼwaaäsaaʼuujang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Bias+Interr+Pres: xál k̲áatʼeehlʼangʼwaaʼus
+     xál k̲áatʼe.ehl+V+Neg+3pl+Bias+Interr+Past: xál k̲áatʼeehlʼangʼwaaʼujaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Bias+Interr+Past+Hab: xál k̲áatʼeehlʼangʼwaaʼuujaangaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Bias+Interr+Fut: xál k̲áatʼeehlʼangʼwaaäsaaʼus
+     xál k̲áatʼe.ehl+V+Neg+3pl+Cert+Pres: xál k̲áatʼeehlʼangʼwaaʼahlanggang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Cert+Past: xál k̲áatʼeehlʼangʼwaaʼahlanggan
+     xál k̲áatʼe.ehl+V+Neg+3pl+Cert+Past+Hab: xál k̲áatʼeehlʼangʼwaaʼahlanggiinii
+     xál k̲áatʼe.ehl+V+Neg+3pl+Cert+Fut: xál k̲áatʼeehlʼangʼwaaäsaaʼahlans
+     xál k̲áatʼe.ehl+V+Neg+3pl+Cert+Rel: xál k̲áatʼeehlʼangʼwaaʼahlans
+     xál k̲áatʼe.ehl+V+Neg+3pl+Ints+Past: xál k̲áatʼeehlʼangʼaawaaʼahlang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Cont: xál k̲áatʼeehlʼangʼaawaaʼahlanggaa
+     xál k̲áatʼe.ehl+V+Neg+3pl+Ctfact+Pres: xál k̲áatʼeehlʼangʼaawaaʼahlanggang
+     xál k̲áatʼe.ehl+V+Neg+3pl+Rflx: xál k̲áatʼeehlʼangʼwaaʼahl
+     xál k̲áatʼe.ehl+V+Neg+3pl+Fut+Rflx+Interr: xál k̲áatʼeehlʼangʼwaaäseehl
 

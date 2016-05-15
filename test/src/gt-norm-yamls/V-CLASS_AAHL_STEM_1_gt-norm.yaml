@@ -11,156 +11,156 @@ Tests:
 
   Verb - skyáahl - ENGLISH : # CLASS_AAHL_STEM_1
 
-     skyáahl+V+SG+IMPV: skyáahl
-     skyáahl+V+INTERR+SIMP+PRES: skyáahl
-     skyáahl+V+REL: skyáahls
-     skyáahl+V+NONFACT: skyáahlang
-     skyáahl+V+INTERR+FUT+LONG: skyáahläsaa
-     skyáahl+V+INTERR+FUT+SHORT: skyáahläs
-     skyáahl+V+SIMP+FUT: skyáahläsaang
-     skyáahl+V+IMM+FUT: skyáahläsga
-     skyáahl+V+REL+FUT: skyáahläsaas
-     skyáahl+V+FUT+NONFACT: skyáahläsaa.ang
-     skyáahl+V+INTERR+NEAR+FUT: skyáahlang k̲asa'áa
-     skyáahl+V+NEAR+FUT: skyáahlang k̲asa'áang
-     skyáahl+V+INTERR+VNEAR+FUT: skyáahlang k̲asaasdláa
-     skyáahl+V+VNEAR+FUT: skyáahlang k̲asaasdláang
-     skyáahl+V+BIAS+IMM+PRES: skyáahl'uuj
-     skyáahl+V+BIAS+SIMP+PRES: skyáahl'uujang
-     skyáahl+V+RES: skyáahläsaa'uujang
-     skyáahl+V+BIAS+INTERR+PRES: skyáahl'us
-     skyáahl+V+BIAS+INTERR+PAST: skyáahl'ujaa
-     skyáahl+V+BIAS+INTERR+PAST+HAB: skyáahl'uujaangaa
-     skyáahl+V+BIAS+INTERR+FUT: skyáahläsaa'us
-     skyáahl+V+CERT+PRES: skyáahl'ahlanggang
-     skyáahl+V+CERT+PAST: skyáahl'ahlanggan
-     skyáahl+V+CERT+PAST+HAB: skyáahl'ahlanggiinii
-     skyáahl+V+CERT+FUT: skyáahläsaa'ahlans
-     skyáahl+V+CERT+REL: skyáahl'ahlans
-     skyáahl+V+RFLX: skyáahl'ahl
-     skyáahl+V+FUT+RFLX+INTERR: skyáahläseehl
-     skyáahl+V+PL+IMPV: skyáahl'uu
-     skyáahl+V+3PL+IMM+PRES: skyáahl'waa
-     skyáahl+V+3PL+INTERR+SIMP+PRES: skyáahl'waa
-     skyáahl+V+3PL+SIMP+PRES: skyáahl'waang
-     skyáahl+V+3PL+DIR+PAST: skyáahl'wägan
-     skyáahl+V+3PL+INTERR+PAST: skyáahl'aawaa
-     skyáahl+V+3PL+INDIR+PAST: skyáahl'aawaan
-     skyáahl+V+3PL+REL: skyáahl'waas
-     skyáahl+V+3PL+REL+EVID: skyáahl'aawaas
-     skyáahl+V+3PL+NONFACT: skyáahl'waa.ang
-     skyáahl+V+3PL+PAST+NONFACT: skyáahl'aawaa.ang
-     skyáahl+V+3PL+DIR+PAST+HAB: skyáahl'wägiinii
-     skyáahl+V+3PL+INTERR+PAST+HAB: skyáahl'wägaangaa
-     skyáahl+V+3PL+INDIR+PAST+HAB: skyáahl'wägaangaan
-     skyáahl+V+3PL+INTERR+FUT+LONG: skyáahl'waaäsaa
-     skyáahl+V+3PL+INTERR+FUT+SHORT: skyáahl'waaäs
-     skyáahl+V+3PL+SIMP+FUT: skyáahl'waaäsaang
-     skyáahl+V+3PL+IMM+FUT: skyáahl'waaäsga
-     skyáahl+V+3PL+REL+FUT: skyáahl'waaäsaas
-     skyáahl+V+3PL+FUT+NONFACT: skyáahl'waaäsaa.ang
-     skyáahl+V+3PL+INTERR+NEAR+FUT: skyáahl'waa.ang k̲asa'áa
-     skyáahl+V+3PL+NEAR+FUT: skyáahl'waa.ang k̲asa'áang
-     skyáahl+V+3PL+INTERR+VNEAR+FUT: skyáahl'waa.ang k̲asaasdláa
-     skyáahl+V+3PL+VNEAR+FUT: skyáahl'waa.ang k̲asaasdláang
-     skyáahl+V+3PL+BIAS+IMM+PRES: skyáahl'waa'uuj
-     skyáahl+V+3PL+BIAS+SIMP+PRES: skyáahl'waa'uujang
-     skyáahl+V+3PL+RES: skyáahl'waaäsaa'uujang
-     skyáahl+V+3PL+BIAS+INTERR+PRES: skyáahl'waa'us
-     skyáahl+V+3PL+BIAS+INTERR+PAST: skyáahl'waa'ujaa
-     skyáahl+V+3PL+BIAS+INTERR+PAST+HAB: skyáahl'waa'uujaangaa
-     skyáahl+V+3PL+BIAS+INTERR+FUT: skyáahl'waaäsaa'us
-     skyáahl+V+3PL+CERT+PRES: skyáahl'waa'ahlanggang
-     skyáahl+V+3PL+CERT+PAST: skyáahl'waa'ahlanggan
-     skyáahl+V+3PL+CERT+PAST+HAB: skyáahl'waa'ahlanggiinii
-     skyáahl+V+3PL+CERT+FUT: skyáahl'waaäsaa'ahlans
-     skyáahl+V+3PL+CERT+REL: skyáahl'waa'ahlans
-     skyáahl+V+3PL+INTS+PAST: skyáahl'aawaa'ahlang
-     skyáahl+V+3PL+CONT: skyáahl'aawaa'ahlanggaa
-     skyáahl+V+3PL+CTFACT+PRES: skyáahl'aawaa'ahlanggang
-     skyáahl+V+3PL+RFLX: skyáahl'waa'ahl
-     skyáahl+V+3PL+FUT+RFLX+INTERR: skyáahl'waaäseehl
-     skyáahl+V+NEG+SG+IMPV: skyáahl'ang
-     skyáahl+V+NEG+IMM+PRES: skyáahl'angga
-     skyáahl+V+NEG+INTERR+SIMP+PRES: skyáahl'ang
-     skyáahl+V+NEG+SIMP+PRES: skyáahl'anggang
-     skyáahl+V+NEG+DIR+PAST: skyáahl'anggan
-     skyáahl+V+NEG+INTERR+PAST: skyáahl'aangaa
-     skyáahl+V+NEG+INDIR+PAST: skyáahl'aangaan
-     skyáahl+V+NEG+REL: skyáahl'ans
-     skyáahl+V+NEG+REL+EVID: skyáahl'aangaas
-     skyáahl+V+NEG+NONFACT: skyáahl'angang
-     skyáahl+V+NEG+PAST+NONFACT: skyáahl'aangaa.ang
-     skyáahl+V+NEG+INTERR+PRES+HAB: skyáahl'anggang
-     skyáahl+V+NEG+DIR+PAST+HAB: skyáahl'anggiinii
-     skyáahl+V+NEG+INTERR+PAST+HAB: skyáahl'anggaangaa
-     skyáahl+V+NEG+INDIR+PAST+HAB: skyáahl'anggaangaan
-     skyáahl+V+NEG+INTERR+FUT+LONG: skyáahl'angäsaa
-     skyáahl+V+NEG+INTERR+FUT+SHORT: skyáahl'angäs
-     skyáahl+V+NEG+SIMP+FUT: skyáahl'angäsaang
-     skyáahl+V+NEG+IMM+FUT: skyáahl'angäsga
-     skyáahl+V+NEG+REL+FUT: skyáahl'angäsaas
-     skyáahl+V+NEG+FUT+NONFACT: skyáahl'angäsaa.ang
-     skyáahl+V+NEG+INTERR+NEAR+FUT: skyáahlang k̲asaa'áng
-     skyáahl+V+NEG+NEAR+FUT: skyáahlang k̲asaa'ánggang
-     skyáahl+V+NEG+INTERR+VNEAR+FUT: skyáahlang k̲asaasdlä'áng
-     skyáahl+V+NEG+VNEAR+FUT: skyáahlang k̲asaasdlä'ánggang
-     skyáahl+V+NEG+BIAS+IMM+PRES: skyáahl'ang'uuj
-     skyáahl+V+NEG+BIAS+SIMP+PRES: skyáahl'ang'uujang
-     skyáahl+V+NEG+RES: skyáahl'angäsaa'uujang
-     skyáahl+V+NEG+BIAS+INTERR+PRES: skyáahl'ang'us
-     skyáahl+V+NEG+BIAS+INTERR+PAST: skyáahl'ang'ujaa
-     skyáahl+V+NEG+BIAS+INTERR+PAST+HAB: skyáahl'ang'uujaangaa
-     skyáahl+V+NEG+BIAS+INTERR+FUT: skyáahl'angäsaa'us
-     skyáahl+V+NEG+CERT+PRES: skyáahl'aang'ahlanggang
-     skyáahl+V+NEG+CERT+PAST: skyáahl'aang'ahlanggan
-     skyáahl+V+NEG+CERT+PAST+HAB: skyáahl'aang'ahlanggiinii
-     skyáahl+V+NEG+CERT+FUT: skyáahl'angäsaa'ahlans
-     skyáahl+V+NEG+CERT+REL: skyáahl'aang'ahlans
-     skyáahl+V+NEG+INTS+PAST: skyáahl'aangaa'ahlang
-     skyáahl+V+NEG+CONT: skyáahl'aangaa'ahlanggaa
-     skyáahl+V+NEG+CTFACT+PRES: skyáahl'aangaa'ahlanggang
-     skyáahl+V+NEG+RFLX: skyáahl'aang'ahl
-     skyáahl+V+NEG+FUT+RFLX+INTERR: skyáahl'angäseehl
-     skyáahl+V+NEG+PL+IMPV: skyáahl'ang'uu
-     skyáahl+V+NEG+3PL+IMM+PRES: skyáahl'ang'waa
-     skyáahl+V+NEG+3PL+INTERR+SIMP+PRES: skyáahl'ang'waa
-     skyáahl+V+NEG+3PL+SIMP+PRES: skyáahl'ang'waang
-     skyáahl+V+NEG+3PL+DIR+PAST: skyáahl'ang'wägan
-     skyáahl+V+NEG+3PL+INTERR+PAST: skyáahl'ang'aawaa
-     skyáahl+V+NEG+3PL+INDIR+PAST: skyáahl'ang'aawaan
-     skyáahl+V+NEG+3PL+REL: skyáahl'ang'waas
-     skyáahl+V+NEG+3PL+REL+EVID: skyáahl'ang'aawaas
-     skyáahl+V+NEG+3PL+NONFACT: skyáahl'ang'waa.ang
-     skyáahl+V+NEG+3PL+PAST+NONFACT: skyáahl'ang'aawaa.ang
-     skyáahl+V+NEG+3PL+DIR+PAST+HAB: skyáahl'ang'wägiinii
-     skyáahl+V+NEG+3PL+INTERR+PAST+HAB: skyáahl'ang'wägaangaa
-     skyáahl+V+NEG+3PL+INDIR+PAST+HAB: skyáahl'ang'wägaangaan
-     skyáahl+V+NEG+3PL+INTERR+FUT+LONG: skyáahl'ang'waaäsaa
-     skyáahl+V+NEG+3PL+INTERR+FUT+SHORT: skyáahl'ang'waaäs
-     skyáahl+V+NEG+3PL+SIMP+FUT: skyáahl'ang'waaäsaang
-     skyáahl+V+NEG+3PL+IMM+FUT: skyáahl'ang'waaäsga
-     skyáahl+V+NEG+3PL+REL+FUT: skyáahl'ang'waaäsaas
-     skyáahl+V+NEG+3PL+FUT+NONFACT: skyáahl'ang'waaäsaa.ang
-     skyáahl+V+NEG+3PL+INTERR+NEAR+FUT: skyáahl'waa.ang k̲asaa'áng
-     skyáahl+V+NEG+3PL+NEAR+FUT: skyáahl'waa.ang k̲asaa'ánggang
-     skyáahl+V+NEG+3PL+INTERR+VNEAR+FUT: skyáahl'waa.ang k̲asaasdlä'áng
-     skyáahl+V+NEG+3PL+VNEAR+FUT: skyáahl'waa.ang k̲asaasdlä'ánggang
-     skyáahl+V+NEG+3PL+BIAS+IMM+PRES: skyáahl'ang'waa'uuj
-     skyáahl+V+NEG+3PL+BIAS+SIMP+PRES: skyáahl'ang'waa'uujang
-     skyáahl+V+NEG+3PL+RES: skyáahl'ang'waaäsaa'uujang
-     skyáahl+V+NEG+3PL+BIAS+INTERR+PRES: skyáahl'ang'waa'us
-     skyáahl+V+NEG+3PL+BIAS+INTERR+PAST: skyáahl'ang'waa'ujaa
-     skyáahl+V+NEG+3PL+BIAS+INTERR+PAST+HAB: skyáahl'ang'waa'uujaangaa
-     skyáahl+V+NEG+3PL+BIAS+INTERR+FUT: skyáahl'ang'waaäsaa'us
-     skyáahl+V+NEG+3PL+CERT+PRES: skyáahl'ang'waa'ahlanggang
-     skyáahl+V+NEG+3PL+CERT+PAST: skyáahl'ang'waa'ahlanggan
-     skyáahl+V+NEG+3PL+CERT+PAST+HAB: skyáahl'ang'waa'ahlanggiinii
-     skyáahl+V+NEG+3PL+CERT+FUT: skyáahl'ang'waaäsaa'ahlans
-     skyáahl+V+NEG+3PL+CERT+REL: skyáahl'ang'waa'ahlans
-     skyáahl+V+NEG+3PL+INTS+PAST: skyáahl'ang'aawaa'ahlang
-     skyáahl+V+NEG+3PL+CONT: skyáahl'ang'aawaa'ahlanggaa
-     skyáahl+V+NEG+3PL+CTFACT+PRES: skyáahl'ang'aawaa'ahlanggang
-     skyáahl+V+NEG+3PL+RFLX: skyáahl'ang'waa'ahl
-     skyáahl+V+NEG+3PL+FUT+RFLX+INTERR: skyáahl'ang'waaäseehl
+     skyáahl+V+Sg+Impv: skyáahl
+     skyáahl+V+Interr+Simp+Pres: skyáahl
+     skyáahl+V+Rel: skyáahls
+     skyáahl+V+NonFact: skyáahlang
+     skyáahl+V+Interr+Fut+Long: skyáahläsaa
+     skyáahl+V+Interr+Fut+Short: skyáahläs
+     skyáahl+V+Simp+Fut: skyáahläsaang
+     skyáahl+V+Imm+Fut: skyáahläsga
+     skyáahl+V+Rel+Fut: skyáahläsaas
+     skyáahl+V+Fut+NonFact: skyáahläsaa.ang
+     skyáahl+V+Interr+Near+Fut: skyáahlang k̲asaʼáa
+     skyáahl+V+Near+Fut: skyáahlang k̲asaʼáang
+     skyáahl+V+Interr+VNear+Fut: skyáahlang k̲asaasdláa
+     skyáahl+V+VNear+Fut: skyáahlang k̲asaasdláang
+     skyáahl+V+Bias+Imm+Pres: skyáahlʼuuj
+     skyáahl+V+Bias+Simp+Pres: skyáahlʼuujang
+     skyáahl+V+Res: skyáahläsaaʼuujang
+     skyáahl+V+Bias+Interr+Pres: skyáahlʼus
+     skyáahl+V+Bias+Interr+Past: skyáahlʼujaa
+     skyáahl+V+Bias+Interr+Past+Hab: skyáahlʼuujaangaa
+     skyáahl+V+Bias+Interr+Fut: skyáahläsaaʼus
+     skyáahl+V+Cert+Pres: skyáahlʼahlanggang
+     skyáahl+V+Cert+Past: skyáahlʼahlanggan
+     skyáahl+V+Cert+Past+Hab: skyáahlʼahlanggiinii
+     skyáahl+V+Cert+Fut: skyáahläsaaʼahlans
+     skyáahl+V+Cert+Rel: skyáahlʼahlans
+     skyáahl+V+Rflx: skyáahlʼahl
+     skyáahl+V+Fut+Rflx+Interr: skyáahläseehl
+     skyáahl+V+Pl+Impv: skyáahlʼuu
+     skyáahl+V+3pl+Imm+Pres: skyáahlʼwaa
+     skyáahl+V+3pl+Interr+Simp+Pres: skyáahlʼwaa
+     skyáahl+V+3pl+Simp+Pres: skyáahlʼwaang
+     skyáahl+V+3pl+Dir+Past: skyáahlʼwägan
+     skyáahl+V+3pl+Interr+Past: skyáahlʼaawaa
+     skyáahl+V+3pl+Indir+Past: skyáahlʼaawaan
+     skyáahl+V+3pl+Rel: skyáahlʼwaas
+     skyáahl+V+3pl+Rel+Evid: skyáahlʼaawaas
+     skyáahl+V+3pl+NonFact: skyáahlʼwaa.ang
+     skyáahl+V+3pl+Past+NonFact: skyáahlʼaawaa.ang
+     skyáahl+V+3pl+Dir+Past+Hab: skyáahlʼwägiinii
+     skyáahl+V+3pl+Interr+Past+Hab: skyáahlʼwägaangaa
+     skyáahl+V+3pl+Indir+Past+Hab: skyáahlʼwägaangaan
+     skyáahl+V+3pl+Interr+Fut+Long: skyáahlʼwaaäsaa
+     skyáahl+V+3pl+Interr+Fut+Short: skyáahlʼwaaäs
+     skyáahl+V+3pl+Simp+Fut: skyáahlʼwaaäsaang
+     skyáahl+V+3pl+Imm+Fut: skyáahlʼwaaäsga
+     skyáahl+V+3pl+Rel+Fut: skyáahlʼwaaäsaas
+     skyáahl+V+3pl+Fut+NonFact: skyáahlʼwaaäsaa.ang
+     skyáahl+V+3pl+Interr+Near+Fut: skyáahlʼwaa.ang k̲asaʼáa
+     skyáahl+V+3pl+Near+Fut: skyáahlʼwaa.ang k̲asaʼáang
+     skyáahl+V+3pl+Interr+VNear+Fut: skyáahlʼwaa.ang k̲asaasdláa
+     skyáahl+V+3pl+VNear+Fut: skyáahlʼwaa.ang k̲asaasdláang
+     skyáahl+V+3pl+Bias+Imm+Pres: skyáahlʼwaaʼuuj
+     skyáahl+V+3pl+Bias+Simp+Pres: skyáahlʼwaaʼuujang
+     skyáahl+V+3pl+Res: skyáahlʼwaaäsaaʼuujang
+     skyáahl+V+3pl+Bias+Interr+Pres: skyáahlʼwaaʼus
+     skyáahl+V+3pl+Bias+Interr+Past: skyáahlʼwaaʼujaa
+     skyáahl+V+3pl+Bias+Interr+Past+Hab: skyáahlʼwaaʼuujaangaa
+     skyáahl+V+3pl+Bias+Interr+Fut: skyáahlʼwaaäsaaʼus
+     skyáahl+V+3pl+Cert+Pres: skyáahlʼwaaʼahlanggang
+     skyáahl+V+3pl+Cert+Past: skyáahlʼwaaʼahlanggan
+     skyáahl+V+3pl+Cert+Past+Hab: skyáahlʼwaaʼahlanggiinii
+     skyáahl+V+3pl+Cert+Fut: skyáahlʼwaaäsaaʼahlans
+     skyáahl+V+3pl+Cert+Rel: skyáahlʼwaaʼahlans
+     skyáahl+V+3pl+Ints+Past: skyáahlʼaawaaʼahlang
+     skyáahl+V+3pl+Cont: skyáahlʼaawaaʼahlanggaa
+     skyáahl+V+3pl+Ctfact+Pres: skyáahlʼaawaaʼahlanggang
+     skyáahl+V+3pl+Rflx: skyáahlʼwaaʼahl
+     skyáahl+V+3pl+Fut+Rflx+Interr: skyáahlʼwaaäseehl
+     skyáahl+V+Neg+Sg+Impv: skyáahlʼang
+     skyáahl+V+Neg+Imm+Pres: skyáahlʼangga
+     skyáahl+V+Neg+Interr+Simp+Pres: skyáahlʼang
+     skyáahl+V+Neg+Simp+Pres: skyáahlʼanggang
+     skyáahl+V+Neg+Dir+Past: skyáahlʼanggan
+     skyáahl+V+Neg+Interr+Past: skyáahlʼaangaa
+     skyáahl+V+Neg+Indir+Past: skyáahlʼaangaan
+     skyáahl+V+Neg+Rel: skyáahlʼans
+     skyáahl+V+Neg+Rel+Evid: skyáahlʼaangaas
+     skyáahl+V+Neg+NonFact: skyáahlʼangang
+     skyáahl+V+Neg+Past+NonFact: skyáahlʼaangaa.ang
+     skyáahl+V+Neg+Interr+Pres+Hab: skyáahlʼanggang
+     skyáahl+V+Neg+Dir+Past+Hab: skyáahlʼanggiinii
+     skyáahl+V+Neg+Interr+Past+Hab: skyáahlʼanggaangaa
+     skyáahl+V+Neg+Indir+Past+Hab: skyáahlʼanggaangaan
+     skyáahl+V+Neg+Interr+Fut+Long: skyáahlʼangäsaa
+     skyáahl+V+Neg+Interr+Fut+Short: skyáahlʼangäs
+     skyáahl+V+Neg+Simp+Fut: skyáahlʼangäsaang
+     skyáahl+V+Neg+Imm+Fut: skyáahlʼangäsga
+     skyáahl+V+Neg+Rel+Fut: skyáahlʼangäsaas
+     skyáahl+V+Neg+Fut+NonFact: skyáahlʼangäsaa.ang
+     skyáahl+V+Neg+Interr+Near+Fut: skyáahlang k̲asaaʼáng
+     skyáahl+V+Neg+Near+Fut: skyáahlang k̲asaaʼánggang
+     skyáahl+V+Neg+Interr+VNear+Fut: skyáahlang k̲asaasdläʼáng
+     skyáahl+V+Neg+VNear+Fut: skyáahlang k̲asaasdläʼánggang
+     skyáahl+V+Neg+Bias+Imm+Pres: skyáahlʼangʼuuj
+     skyáahl+V+Neg+Bias+Simp+Pres: skyáahlʼangʼuujang
+     skyáahl+V+Neg+Res: skyáahlʼangäsaaʼuujang
+     skyáahl+V+Neg+Bias+Interr+Pres: skyáahlʼangʼus
+     skyáahl+V+Neg+Bias+Interr+Past: skyáahlʼangʼujaa
+     skyáahl+V+Neg+Bias+Interr+Past+Hab: skyáahlʼangʼuujaangaa
+     skyáahl+V+Neg+Bias+Interr+Fut: skyáahlʼangäsaaʼus
+     skyáahl+V+Neg+Cert+Pres: skyáahlʼaangʼahlanggang
+     skyáahl+V+Neg+Cert+Past: skyáahlʼaangʼahlanggan
+     skyáahl+V+Neg+Cert+Past+Hab: skyáahlʼaangʼahlanggiinii
+     skyáahl+V+Neg+Cert+Fut: skyáahlʼangäsaaʼahlans
+     skyáahl+V+Neg+Cert+Rel: skyáahlʼaangʼahlans
+     skyáahl+V+Neg+Ints+Past: skyáahlʼaangaaʼahlang
+     skyáahl+V+Neg+Cont: skyáahlʼaangaaʼahlanggaa
+     skyáahl+V+Neg+Ctfact+Pres: skyáahlʼaangaaʼahlanggang
+     skyáahl+V+Neg+Rflx: skyáahlʼaangʼahl
+     skyáahl+V+Neg+Fut+Rflx+Interr: skyáahlʼangäseehl
+     skyáahl+V+Neg+Pl+Impv: skyáahlʼangʼuu
+     skyáahl+V+Neg+3pl+Imm+Pres: skyáahlʼangʼwaa
+     skyáahl+V+Neg+3pl+Interr+Simp+Pres: skyáahlʼangʼwaa
+     skyáahl+V+Neg+3pl+Simp+Pres: skyáahlʼangʼwaang
+     skyáahl+V+Neg+3pl+Dir+Past: skyáahlʼangʼwägan
+     skyáahl+V+Neg+3pl+Interr+Past: skyáahlʼangʼaawaa
+     skyáahl+V+Neg+3pl+Indir+Past: skyáahlʼangʼaawaan
+     skyáahl+V+Neg+3pl+Rel: skyáahlʼangʼwaas
+     skyáahl+V+Neg+3pl+Rel+Evid: skyáahlʼangʼaawaas
+     skyáahl+V+Neg+3pl+NonFact: skyáahlʼangʼwaa.ang
+     skyáahl+V+Neg+3pl+Past+NonFact: skyáahlʼangʼaawaa.ang
+     skyáahl+V+Neg+3pl+Dir+Past+Hab: skyáahlʼangʼwägiinii
+     skyáahl+V+Neg+3pl+Interr+Past+Hab: skyáahlʼangʼwägaangaa
+     skyáahl+V+Neg+3pl+Indir+Past+Hab: skyáahlʼangʼwägaangaan
+     skyáahl+V+Neg+3pl+Interr+Fut+Long: skyáahlʼangʼwaaäsaa
+     skyáahl+V+Neg+3pl+Interr+Fut+Short: skyáahlʼangʼwaaäs
+     skyáahl+V+Neg+3pl+Simp+Fut: skyáahlʼangʼwaaäsaang
+     skyáahl+V+Neg+3pl+Imm+Fut: skyáahlʼangʼwaaäsga
+     skyáahl+V+Neg+3pl+Rel+Fut: skyáahlʼangʼwaaäsaas
+     skyáahl+V+Neg+3pl+Fut+NonFact: skyáahlʼangʼwaaäsaa.ang
+     skyáahl+V+Neg+3pl+Interr+Near+Fut: skyáahlʼwaa.ang k̲asaaʼáng
+     skyáahl+V+Neg+3pl+Near+Fut: skyáahlʼwaa.ang k̲asaaʼánggang
+     skyáahl+V+Neg+3pl+Interr+VNear+Fut: skyáahlʼwaa.ang k̲asaasdläʼáng
+     skyáahl+V+Neg+3pl+VNear+Fut: skyáahlʼwaa.ang k̲asaasdläʼánggang
+     skyáahl+V+Neg+3pl+Bias+Imm+Pres: skyáahlʼangʼwaaʼuuj
+     skyáahl+V+Neg+3pl+Bias+Simp+Pres: skyáahlʼangʼwaaʼuujang
+     skyáahl+V+Neg+3pl+Res: skyáahlʼangʼwaaäsaaʼuujang
+     skyáahl+V+Neg+3pl+Bias+Interr+Pres: skyáahlʼangʼwaaʼus
+     skyáahl+V+Neg+3pl+Bias+Interr+Past: skyáahlʼangʼwaaʼujaa
+     skyáahl+V+Neg+3pl+Bias+Interr+Past+Hab: skyáahlʼangʼwaaʼuujaangaa
+     skyáahl+V+Neg+3pl+Bias+Interr+Fut: skyáahlʼangʼwaaäsaaʼus
+     skyáahl+V+Neg+3pl+Cert+Pres: skyáahlʼangʼwaaʼahlanggang
+     skyáahl+V+Neg+3pl+Cert+Past: skyáahlʼangʼwaaʼahlanggan
+     skyáahl+V+Neg+3pl+Cert+Past+Hab: skyáahlʼangʼwaaʼahlanggiinii
+     skyáahl+V+Neg+3pl+Cert+Fut: skyáahlʼangʼwaaäsaaʼahlans
+     skyáahl+V+Neg+3pl+Cert+Rel: skyáahlʼangʼwaaʼahlans
+     skyáahl+V+Neg+3pl+Ints+Past: skyáahlʼangʼaawaaʼahlang
+     skyáahl+V+Neg+3pl+Cont: skyáahlʼangʼaawaaʼahlanggaa
+     skyáahl+V+Neg+3pl+Ctfact+Pres: skyáahlʼangʼaawaaʼahlanggang
+     skyáahl+V+Neg+3pl+Rflx: skyáahlʼangʼwaaʼahl
+     skyáahl+V+Neg+3pl+Fut+Rflx+Interr: skyáahlʼangʼwaaäseehl
 

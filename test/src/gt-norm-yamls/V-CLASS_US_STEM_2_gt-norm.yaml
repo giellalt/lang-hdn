@@ -11,35 +11,35 @@ Tests:
 
   Verb - kus - ENGLISH : # CLASS_US_STEM_2
 
-     kus+V+IMM+PRES: kuja
-     kus+V+SIMP+PRES: kujáng
-     kus+V+DIR+PAST: kuján
-     kus+V+NONFACT: kujáng
-     kus+V+INTERR+PRES+HAB: kujáng
-     kus+V+PRES+HAB: kujánggang
-     kus+V+PRES+HAB+NONFACT: kujángang
-     kus+V+DIR+PAST+HAB: kujíinii
-     kus+V+INTERR+PAST+HAB: kujáangaa
-     kus+V+INDIR+PAST+HAB: kujáangaan
-     kus+V+INTERR+NEAR+FUT: kujáng k̲asa'áa
-     kus+V+NEAR+FUT: kujáng k̲asa'áang
-     kus+V+INTERR+VNEAR+FUT: kujáng k̲asaasdláa
-     kus+V+VNEAR+FUT: kujáng k̲asaasdláang
-     kus+V+CERT+PRES: kuj'ahlánggang
-     kus+V+CERT+PAST: kuj'ahlánggan
-     kus+V+CERT+PAST+HAB: kuj'ahlánggiinii
-     kus+V+CERT+REL: kuj'ahláns
-     kus+V+RFLX: kuj'ahl
-     kus+V+3PL+INTERR+PRES+HAB: kujáng'waa
-     kus+V+3PL+PRES+HAB: kujáng'waang
-     kus+V+3PL+PRES+HAB+NONFACT: kujáng'waa.ang
-     kus+V+NEG+PRES+HAB: kujáng'anggang
-     kus+V+NEG+PRES+HAB+NONFACT: kujáng'angang
-     kus+V+NEG+INTERR+NEAR+FUT: kujáng k̲asaa'áng
-     kus+V+NEG+NEAR+FUT: kujáng k̲asaa'ánggang
-     kus+V+NEG+INTERR+VNEAR+FUT: kujáng k̲asaasdlä'áng
-     kus+V+NEG+VNEAR+FUT: kujáng k̲asaasdlä'ánggang
-     kus+V+NEG+3PL+INTERR+PRES+HAB: kujáng'ang'waa
-     kus+V+NEG+3PL+PRES+HAB: kujáng'ang'waang
-     kus+V+NEG+3PL+PRES+HAB+NONFACT: kujáng'ang'waa.ang
+     kus+V+Imm+Pres: kuja
+     kus+V+Simp+Pres: kujáng
+     kus+V+Dir+Past: kuján
+     kus+V+NonFact: kujáng
+     kus+V+Interr+Pres+Hab: kujáng
+     kus+V+Pres+Hab: kujánggang
+     kus+V+Pres+Hab+NonFact: kujángang
+     kus+V+Dir+Past+Hab: kujíinii
+     kus+V+Interr+Past+Hab: kujáangaa
+     kus+V+Indir+Past+Hab: kujáangaan
+     kus+V+Interr+Near+Fut: kujáng k̲asaʼáa
+     kus+V+Near+Fut: kujáng k̲asaʼáang
+     kus+V+Interr+VNear+Fut: kujáng k̲asaasdláa
+     kus+V+VNear+Fut: kujáng k̲asaasdláang
+     kus+V+Cert+Pres: kujʼahlánggang
+     kus+V+Cert+Past: kujʼahlánggan
+     kus+V+Cert+Past+Hab: kujʼahlánggiinii
+     kus+V+Cert+Rel: kujʼahláns
+     kus+V+Rflx: kujʼahl
+     kus+V+3pl+Interr+Pres+Hab: kujángʼwaa
+     kus+V+3pl+Pres+Hab: kujángʼwaang
+     kus+V+3pl+Pres+Hab+NonFact: kujángʼwaa.ang
+     kus+V+Neg+Pres+Hab: kujángʼanggang
+     kus+V+Neg+Pres+Hab+NonFact: kujángʼangang
+     kus+V+Neg+Interr+Near+Fut: kujáng k̲asaaʼáng
+     kus+V+Neg+Near+Fut: kujáng k̲asaaʼánggang
+     kus+V+Neg+Interr+VNear+Fut: kujáng k̲asaasdläʼáng
+     kus+V+Neg+VNear+Fut: kujáng k̲asaasdläʼánggang
+     kus+V+Neg+3pl+Interr+Pres+Hab: kujángʼangʼwaa
+     kus+V+Neg+3pl+Pres+Hab: kujángʼangʼwaang
+     kus+V+Neg+3pl+Pres+Hab+NonFact: kujángʼangʼwaa.ang
 

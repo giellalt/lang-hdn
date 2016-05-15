@@ -9,24 +9,24 @@ Config:
 
 Tests:
 
-  Verb - k'ajúu - ENGLISH : # CLASS_UU_STEM_2
+  Verb - kʼajúu - ENGLISH : # CLASS_UU_STEM_2
 
-     k'ajúu+V+INTERR+PAST: k'ajáawaa
-     k'ajúu+V+INDIR+PAST: k'ajáawaan
-     k'ajúu+V+REL+EVID: k'ajáawaas
-     k'ajúu+V+NONFACT: k'ajáawang
-     k'ajúu+V+PAST+NONFACT: k'ajáawaa.ang
-     k'ajúu+V+INTERR+NEAR+FUT: k'ajáawang k̲asa'áa
-     k'ajúu+V+NEAR+FUT: k'ajáawang k̲asa'áang
-     k'ajúu+V+INTERR+VNEAR+FUT: k'ajáawang k̲asaasdláa
-     k'ajúu+V+VNEAR+FUT: k'ajáawang k̲asaasdláang
-     k'ajúu+V+CERT+REL: k'ajáaw'ahlans
-     k'ajúu+V+INTS+PAST: k'ajáawaa'ahlang
-     k'ajúu+V+CONT: k'ajáawaa'ahlanggaa
-     k'ajúu+V+CTFACT+PRES: k'ajáawaa'ahlanggang
-     k'ajúu+V+RFLX: k'ajáaw'ahl
-     k'ajúu+V+NEG+INTERR+NEAR+FUT: k'ajáawang k̲asaa'áng
-     k'ajúu+V+NEG+NEAR+FUT: k'ajáawang k̲asaa'ánggang
-     k'ajúu+V+NEG+INTERR+VNEAR+FUT: k'ajáawang k̲asaasdlä'áng
-     k'ajúu+V+NEG+VNEAR+FUT: k'ajáawang k̲asaasdlä'ánggang
+     kʼajúu+V+Interr+Past: kʼajáawaa
+     kʼajúu+V+Indir+Past: kʼajáawaan
+     kʼajúu+V+Rel+Evid: kʼajáawaas
+     kʼajúu+V+NonFact: kʼajáawang
+     kʼajúu+V+Past+NonFact: kʼajáawaa.ang
+     kʼajúu+V+Interr+Near+Fut: kʼajáawang k̲asaʼáa
+     kʼajúu+V+Near+Fut: kʼajáawang k̲asaʼáang
+     kʼajúu+V+Interr+VNear+Fut: kʼajáawang k̲asaasdláa
+     kʼajúu+V+VNear+Fut: kʼajáawang k̲asaasdláang
+     kʼajúu+V+Cert+Rel: kʼajáawʼahlans
+     kʼajúu+V+Ints+Past: kʼajáawaaʼahlang
+     kʼajúu+V+Cont: kʼajáawaaʼahlanggaa
+     kʼajúu+V+Ctfact+Pres: kʼajáawaaʼahlanggang
+     kʼajúu+V+Rflx: kʼajáawʼahl
+     kʼajúu+V+Neg+Interr+Near+Fut: kʼajáawang k̲asaaʼáng
+     kʼajúu+V+Neg+Near+Fut: kʼajáawang k̲asaaʼánggang
+     kʼajúu+V+Neg+Interr+VNear+Fut: kʼajáawang k̲asaasdläʼáng
+     kʼajúu+V+Neg+VNear+Fut: kʼajáawang k̲asaasdläʼánggang
 

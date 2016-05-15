@@ -11,180 +11,180 @@ Tests:
 
   Verb - gisíid - ENGLISH : # CLASS_IID
 
-     gisíid+V+SG+IMPV: gisíid
-     gisíid+V+IMM+PRES: gisíida
-     gisíid+V+INTERR+SIMP+PRES: gisíid
-     gisíid+V+SIMP+PRES: gisíidang
-     gisíid+V+DIR+PAST: gisíidan
-     gisíid+V+INTERR+PAST: gisíidaa
-     gisíid+V+INDIR+PAST: gisíidaan
-     gisíid+V+REL: gisíids
-     gisíid+V+REL+EVID: gisíidaas
-     gisíid+V+NONFACT: gisíidang
-     gisíid+V+PAST+NONFACT: gisíidaa.ang
-     gisíid+V+INTERR+PRES+HAB: gisíidang
-     gisíid+V+PRES+HAB: gisíidanggang
-     gisíid+V+PRES+HAB+NONFACT: gisíidangang
-     gisíid+V+DIR+PAST+HAB: gisíidiinii
-     gisíid+V+INTERR+PAST+HAB: gisíidaangaa
-     gisíid+V+INDIR+PAST+HAB: gisíidaangaan
-     gisíid+V+INTERR+FUT+LONG: gisíidäsaa
-     gisíid+V+INTERR+FUT+SHORT: gisíidäs
-     gisíid+V+SIMP+FUT: gisíidäsaang
-     gisíid+V+IMM+FUT: gisíidäsga
-     gisíid+V+REL+FUT: gisíidäsaas
-     gisíid+V+FUT+NONFACT: gisíidäsaa.ang
-     gisíid+V+INTERR+NEAR+FUT: gisíidang k̲asa'áa
-     gisíid+V+NEAR+FUT: gisíidang k̲asa'áang
-     gisíid+V+INTERR+VNEAR+FUT: gisíidang k̲asaasdláa
-     gisíid+V+VNEAR+FUT: gisíidang k̲asaasdláang
-     gisíid+V+BIAS+IMM+PRES: gisíid'uuj
-     gisíid+V+BIAS+SIMP+PRES: gisíid'uujang
-     gisíid+V+RES: gisíidäsaa'uujang
-     gisíid+V+BIAS+INTERR+PRES: gisíid'us
-     gisíid+V+BIAS+INTERR+PAST: gisíid'ujaa
-     gisíid+V+BIAS+INTERR+PAST+HAB: gisíid'uujaangaa
-     gisíid+V+BIAS+INTERR+FUT: gisíidäsaa'us
-     gisíid+V+CERT+PRES: gisíid'ahlanggang
-     gisíid+V+CERT+PAST: gisíid'ahlanggan
-     gisíid+V+CERT+PAST+HAB: gisíid'ahlanggiinii
-     gisíid+V+CERT+FUT: gisíidäsaa'ahlans
-     gisíid+V+CERT+REL: gisíid'ahlans
-     gisíid+V+INTS+PAST: gisíidaa'ahlang
-     gisíid+V+CONT: gisíidaa'ahlanggaa
-     gisíid+V+CTFACT+PRES: gisíidaa'ahlanggang
-     gisíid+V+RFLX: gisíid'ahl
-     gisíid+V+FUT+RFLX+INTERR: gisíidäseehl
-     gisíid+V+PL+IMPV: gisíid'uu
-     gisíid+V+3PL+IMM+PRES: gisíid'waa
-     gisíid+V+3PL+INTERR+SIMP+PRES: gisíid'waa
-     gisíid+V+3PL+SIMP+PRES: gisíid'waang
-     gisíid+V+3PL+DIR+PAST: gisíid'wägan
-     gisíid+V+3PL+INTERR+PAST: gisíid'aawaa
-     gisíid+V+3PL+INDIR+PAST: gisíid'aawaan
-     gisíid+V+3PL+REL: gisíid'waas
-     gisíid+V+3PL+REL+EVID: gisíid'aawaas
-     gisíid+V+3PL+NONFACT: gisíid'waa.ang
-     gisíid+V+3PL+PAST+NONFACT: gisíid'aawaa.ang
-     gisíid+V+3PL+INTERR+PRES+HAB: gisíidang'waa
-     gisíid+V+3PL+PRES+HAB: gisíidang'waang
-     gisíid+V+3PL+PRES+HAB+NONFACT: gisíidang'waa.ang
-     gisíid+V+3PL+DIR+PAST+HAB: gisíid'wägiinii
-     gisíid+V+3PL+INTERR+PAST+HAB: gisíid'wägaangaa
-     gisíid+V+3PL+INDIR+PAST+HAB: gisíid'wägaangaan
-     gisíid+V+3PL+INTERR+FUT+LONG: gisíid'waaäsaa
-     gisíid+V+3PL+INTERR+FUT+SHORT: gisíid'waaäs
-     gisíid+V+3PL+SIMP+FUT: gisíid'waaäsaang
-     gisíid+V+3PL+IMM+FUT: gisíid'waaäsga
-     gisíid+V+3PL+REL+FUT: gisíid'waaäsaas
-     gisíid+V+3PL+FUT+NONFACT: gisíid'waaäsaa.ang
-     gisíid+V+3PL+INTERR+NEAR+FUT: gisíid'waa.ang k̲asa'áa
-     gisíid+V+3PL+NEAR+FUT: gisíid'waa.ang k̲asa'áang
-     gisíid+V+3PL+INTERR+VNEAR+FUT: gisíid'waa.ang k̲asaasdláa
-     gisíid+V+3PL+VNEAR+FUT: gisíid'waa.ang k̲asaasdláang
-     gisíid+V+3PL+BIAS+IMM+PRES: gisíid'waa'uuj
-     gisíid+V+3PL+BIAS+SIMP+PRES: gisíid'waa'uujang
-     gisíid+V+3PL+RES: gisíid'waaäsaa'uujang
-     gisíid+V+3PL+BIAS+INTERR+PRES: gisíid'waa'us
-     gisíid+V+3PL+BIAS+INTERR+PAST: gisíid'waa'ujaa
-     gisíid+V+3PL+BIAS+INTERR+PAST+HAB: gisíid'waa'uujaangaa
-     gisíid+V+3PL+BIAS+INTERR+FUT: gisíid'waaäsaa'us
-     gisíid+V+3PL+CERT+PRES: gisíid'waa'ahlanggang
-     gisíid+V+3PL+CERT+PAST: gisíid'waa'ahlanggan
-     gisíid+V+3PL+CERT+PAST+HAB: gisíid'waa'ahlanggiinii
-     gisíid+V+3PL+CERT+FUT: gisíid'waaäsaa'ahlans
-     gisíid+V+3PL+CERT+REL: gisíid'waa'ahlans
-     gisíid+V+3PL+INTS+PAST: gisíid'aawaa'ahlang
-     gisíid+V+3PL+CONT: gisíid'aawaa'ahlanggaa
-     gisíid+V+3PL+CTFACT+PRES: gisíid'aawaa'ahlanggang
-     gisíid+V+3PL+RFLX: gisíid'waa'ahl
-     gisíid+V+3PL+FUT+RFLX+INTERR: gisíid'waaäseehl
-     gisíid+V+NEG+SG+IMPV: gisíid'ang
-     gisíid+V+NEG+IMM+PRES: gisíid'angga
-     gisíid+V+NEG+INTERR+SIMP+PRES: gisíid'ang
-     gisíid+V+NEG+SIMP+PRES: gisíid'anggang
-     gisíid+V+NEG+DIR+PAST: gisíid'anggan
-     gisíid+V+NEG+INTERR+PAST: gisíid'aangaa
-     gisíid+V+NEG+INDIR+PAST: gisíid'aangaan
-     gisíid+V+NEG+REL: gisíid'ans
-     gisíid+V+NEG+REL+EVID: gisíid'aangaas
-     gisíid+V+NEG+NONFACT: gisíid'angang
-     gisíid+V+NEG+PAST+NONFACT: gisíid'aangaa.ang
-     gisíid+V+NEG+INTERR+PRES+HAB: gisíid'anggang
-     gisíid+V+NEG+PRES+HAB: gisíidang'anggang
-     gisíid+V+NEG+PRES+HAB+NONFACT: gisíidang'angang
-     gisíid+V+NEG+DIR+PAST+HAB: gisíid'anggiinii
-     gisíid+V+NEG+INTERR+PAST+HAB: gisíid'anggaangaa
-     gisíid+V+NEG+INDIR+PAST+HAB: gisíid'anggaangaan
-     gisíid+V+NEG+INTERR+FUT+LONG: gisíid'angäsaa
-     gisíid+V+NEG+INTERR+FUT+SHORT: gisíid'angäs
-     gisíid+V+NEG+SIMP+FUT: gisíid'angäsaang
-     gisíid+V+NEG+IMM+FUT: gisíid'angäsga
-     gisíid+V+NEG+REL+FUT: gisíid'angäsaas
-     gisíid+V+NEG+FUT+NONFACT: gisíid'angäsaa.ang
-     gisíid+V+NEG+INTERR+NEAR+FUT: gisíidang k̲asaa'áng
-     gisíid+V+NEG+NEAR+FUT: gisíidang k̲asaa'ánggang
-     gisíid+V+NEG+INTERR+VNEAR+FUT: gisíidang k̲asaasdlä'áng
-     gisíid+V+NEG+VNEAR+FUT: gisíidang k̲asaasdlä'ánggang
-     gisíid+V+NEG+BIAS+IMM+PRES: gisíid'ang'uuj
-     gisíid+V+NEG+BIAS+SIMP+PRES: gisíid'ang'uujang
-     gisíid+V+NEG+RES: gisíid'angäsaa'uujang
-     gisíid+V+NEG+BIAS+INTERR+PRES: gisíid'ang'us
-     gisíid+V+NEG+BIAS+INTERR+PAST: gisíid'ang'ujaa
-     gisíid+V+NEG+BIAS+INTERR+PAST+HAB: gisíid'ang'uujaangaa
-     gisíid+V+NEG+BIAS+INTERR+FUT: gisíid'angäsaa'us
-     gisíid+V+NEG+CERT+PRES: gisíid'aang'ahlanggang
-     gisíid+V+NEG+CERT+PAST: gisíid'aang'ahlanggan
-     gisíid+V+NEG+CERT+PAST+HAB: gisíid'aang'ahlanggiinii
-     gisíid+V+NEG+CERT+FUT: gisíid'angäsaa'ahlans
-     gisíid+V+NEG+CERT+REL: gisíid'aang'ahlans
-     gisíid+V+NEG+INTS+PAST: gisíid'aangaa'ahlang
-     gisíid+V+NEG+CONT: gisíid'aangaa'ahlanggaa
-     gisíid+V+NEG+CTFACT+PRES: gisíid'aangaa'ahlanggang
-     gisíid+V+NEG+RFLX: gisíid'aang'ahl
-     gisíid+V+NEG+FUT+RFLX+INTERR: gisíid'angäseehl
-     gisíid+V+NEG+PL+IMPV: gisíid'ang'uu
-     gisíid+V+NEG+3PL+IMM+PRES: gisíid'ang'waa
-     gisíid+V+NEG+3PL+INTERR+SIMP+PRES: gisíid'ang'waa
-     gisíid+V+NEG+3PL+SIMP+PRES: gisíid'ang'waang
-     gisíid+V+NEG+3PL+DIR+PAST: gisíid'ang'wägan
-     gisíid+V+NEG+3PL+INTERR+PAST: gisíid'ang'aawaa
-     gisíid+V+NEG+3PL+INDIR+PAST: gisíid'ang'aawaan
-     gisíid+V+NEG+3PL+REL: gisíid'ang'waas
-     gisíid+V+NEG+3PL+REL+EVID: gisíid'ang'aawaas
-     gisíid+V+NEG+3PL+NONFACT: gisíid'ang'waa.ang
-     gisíid+V+NEG+3PL+PAST+NONFACT: gisíid'ang'aawaa.ang
-     gisíid+V+NEG+3PL+INTERR+PRES+HAB: gisíidang'ang'waa
-     gisíid+V+NEG+3PL+PRES+HAB: gisíidang'ang'waang
-     gisíid+V+NEG+3PL+PRES+HAB+NONFACT: gisíidang'ang'waa.ang
-     gisíid+V+NEG+3PL+DIR+PAST+HAB: gisíid'ang'wägiinii
-     gisíid+V+NEG+3PL+INTERR+PAST+HAB: gisíid'ang'wägaangaa
-     gisíid+V+NEG+3PL+INDIR+PAST+HAB: gisíid'ang'wägaangaan
-     gisíid+V+NEG+3PL+INTERR+FUT+LONG: gisíid'ang'waaäsaa
-     gisíid+V+NEG+3PL+INTERR+FUT+SHORT: gisíid'ang'waaäs
-     gisíid+V+NEG+3PL+SIMP+FUT: gisíid'ang'waaäsaang
-     gisíid+V+NEG+3PL+IMM+FUT: gisíid'ang'waaäsga
-     gisíid+V+NEG+3PL+REL+FUT: gisíid'ang'waaäsaas
-     gisíid+V+NEG+3PL+FUT+NONFACT: gisíid'ang'waaäsaa.ang
-     gisíid+V+NEG+3PL+INTERR+NEAR+FUT: gisíid'waa.ang k̲asaa'áng
-     gisíid+V+NEG+3PL+NEAR+FUT: gisíid'waa.ang k̲asaa'ánggang
-     gisíid+V+NEG+3PL+INTERR+VNEAR+FUT: gisíid'waa.ang k̲asaasdlä'áng
-     gisíid+V+NEG+3PL+VNEAR+FUT: gisíid'waa.ang k̲asaasdlä'ánggang
-     gisíid+V+NEG+3PL+BIAS+IMM+PRES: gisíid'ang'waa'uuj
-     gisíid+V+NEG+3PL+BIAS+SIMP+PRES: gisíid'ang'waa'uujang
-     gisíid+V+NEG+3PL+RES: gisíid'ang'waaäsaa'uujang
-     gisíid+V+NEG+3PL+BIAS+INTERR+PRES: gisíid'ang'waa'us
-     gisíid+V+NEG+3PL+BIAS+INTERR+PAST: gisíid'ang'waa'ujaa
-     gisíid+V+NEG+3PL+BIAS+INTERR+PAST+HAB: gisíid'ang'waa'uujaangaa
-     gisíid+V+NEG+3PL+BIAS+INTERR+FUT: gisíid'ang'waaäsaa'us
-     gisíid+V+NEG+3PL+CERT+PRES: gisíid'ang'waa'ahlanggang
-     gisíid+V+NEG+3PL+CERT+PAST: gisíid'ang'waa'ahlanggan
-     gisíid+V+NEG+3PL+CERT+PAST+HAB: gisíid'ang'waa'ahlanggiinii
-     gisíid+V+NEG+3PL+CERT+FUT: gisíid'ang'waaäsaa'ahlans
-     gisíid+V+NEG+3PL+CERT+REL: gisíid'ang'waa'ahlans
-     gisíid+V+NEG+3PL+INTS+PAST: gisíid'ang'aawaa'ahlang
-     gisíid+V+NEG+3PL+CONT: gisíid'ang'aawaa'ahlanggaa
-     gisíid+V+NEG+3PL+CTFACT+PRES: gisíid'ang'aawaa'ahlanggang
-     gisíid+V+NEG+3PL+RFLX: gisíid'ang'waa'ahl
-     gisíid+V+NEG+3PL+FUT+RFLX+INTERR: gisíid'ang'waaäseehl
+     gisíid+V+Sg+Impv: gisíid
+     gisíid+V+Imm+Pres: gisíida
+     gisíid+V+Interr+Simp+Pres: gisíid
+     gisíid+V+Simp+Pres: gisíidang
+     gisíid+V+Dir+Past: gisíidan
+     gisíid+V+Interr+Past: gisíidaa
+     gisíid+V+Indir+Past: gisíidaan
+     gisíid+V+Rel: gisíids
+     gisíid+V+Rel+Evid: gisíidaas
+     gisíid+V+NonFact: gisíidang
+     gisíid+V+Past+NonFact: gisíidaa.ang
+     gisíid+V+Interr+Pres+Hab: gisíidang
+     gisíid+V+Pres+Hab: gisíidanggang
+     gisíid+V+Pres+Hab+NonFact: gisíidangang
+     gisíid+V+Dir+Past+Hab: gisíidiinii
+     gisíid+V+Interr+Past+Hab: gisíidaangaa
+     gisíid+V+Indir+Past+Hab: gisíidaangaan
+     gisíid+V+Interr+Fut+Long: gisíidäsaa
+     gisíid+V+Interr+Fut+Short: gisíidäs
+     gisíid+V+Simp+Fut: gisíidäsaang
+     gisíid+V+Imm+Fut: gisíidäsga
+     gisíid+V+Rel+Fut: gisíidäsaas
+     gisíid+V+Fut+NonFact: gisíidäsaa.ang
+     gisíid+V+Interr+Near+Fut: gisíidang k̲asaʼáa
+     gisíid+V+Near+Fut: gisíidang k̲asaʼáang
+     gisíid+V+Interr+VNear+Fut: gisíidang k̲asaasdláa
+     gisíid+V+VNear+Fut: gisíidang k̲asaasdláang
+     gisíid+V+Bias+Imm+Pres: gisíidʼuuj
+     gisíid+V+Bias+Simp+Pres: gisíidʼuujang
+     gisíid+V+Res: gisíidäsaaʼuujang
+     gisíid+V+Bias+Interr+Pres: gisíidʼus
+     gisíid+V+Bias+Interr+Past: gisíidʼujaa
+     gisíid+V+Bias+Interr+Past+Hab: gisíidʼuujaangaa
+     gisíid+V+Bias+Interr+Fut: gisíidäsaaʼus
+     gisíid+V+Cert+Pres: gisíidʼahlanggang
+     gisíid+V+Cert+Past: gisíidʼahlanggan
+     gisíid+V+Cert+Past+Hab: gisíidʼahlanggiinii
+     gisíid+V+Cert+Fut: gisíidäsaaʼahlans
+     gisíid+V+Cert+Rel: gisíidʼahlans
+     gisíid+V+Ints+Past: gisíidaaʼahlang
+     gisíid+V+Cont: gisíidaaʼahlanggaa
+     gisíid+V+Ctfact+Pres: gisíidaaʼahlanggang
+     gisíid+V+Rflx: gisíidʼahl
+     gisíid+V+Fut+Rflx+Interr: gisíidäseehl
+     gisíid+V+Pl+Impv: gisíidʼuu
+     gisíid+V+3pl+Imm+Pres: gisíidʼwaa
+     gisíid+V+3pl+Interr+Simp+Pres: gisíidʼwaa
+     gisíid+V+3pl+Simp+Pres: gisíidʼwaang
+     gisíid+V+3pl+Dir+Past: gisíidʼwägan
+     gisíid+V+3pl+Interr+Past: gisíidʼaawaa
+     gisíid+V+3pl+Indir+Past: gisíidʼaawaan
+     gisíid+V+3pl+Rel: gisíidʼwaas
+     gisíid+V+3pl+Rel+Evid: gisíidʼaawaas
+     gisíid+V+3pl+NonFact: gisíidʼwaa.ang
+     gisíid+V+3pl+Past+NonFact: gisíidʼaawaa.ang
+     gisíid+V+3pl+Interr+Pres+Hab: gisíidangʼwaa
+     gisíid+V+3pl+Pres+Hab: gisíidangʼwaang
+     gisíid+V+3pl+Pres+Hab+NonFact: gisíidangʼwaa.ang
+     gisíid+V+3pl+Dir+Past+Hab: gisíidʼwägiinii
+     gisíid+V+3pl+Interr+Past+Hab: gisíidʼwägaangaa
+     gisíid+V+3pl+Indir+Past+Hab: gisíidʼwägaangaan
+     gisíid+V+3pl+Interr+Fut+Long: gisíidʼwaaäsaa
+     gisíid+V+3pl+Interr+Fut+Short: gisíidʼwaaäs
+     gisíid+V+3pl+Simp+Fut: gisíidʼwaaäsaang
+     gisíid+V+3pl+Imm+Fut: gisíidʼwaaäsga
+     gisíid+V+3pl+Rel+Fut: gisíidʼwaaäsaas
+     gisíid+V+3pl+Fut+NonFact: gisíidʼwaaäsaa.ang
+     gisíid+V+3pl+Interr+Near+Fut: gisíidʼwaa.ang k̲asaʼáa
+     gisíid+V+3pl+Near+Fut: gisíidʼwaa.ang k̲asaʼáang
+     gisíid+V+3pl+Interr+VNear+Fut: gisíidʼwaa.ang k̲asaasdláa
+     gisíid+V+3pl+VNear+Fut: gisíidʼwaa.ang k̲asaasdláang
+     gisíid+V+3pl+Bias+Imm+Pres: gisíidʼwaaʼuuj
+     gisíid+V+3pl+Bias+Simp+Pres: gisíidʼwaaʼuujang
+     gisíid+V+3pl+Res: gisíidʼwaaäsaaʼuujang
+     gisíid+V+3pl+Bias+Interr+Pres: gisíidʼwaaʼus
+     gisíid+V+3pl+Bias+Interr+Past: gisíidʼwaaʼujaa
+     gisíid+V+3pl+Bias+Interr+Past+Hab: gisíidʼwaaʼuujaangaa
+     gisíid+V+3pl+Bias+Interr+Fut: gisíidʼwaaäsaaʼus
+     gisíid+V+3pl+Cert+Pres: gisíidʼwaaʼahlanggang
+     gisíid+V+3pl+Cert+Past: gisíidʼwaaʼahlanggan
+     gisíid+V+3pl+Cert+Past+Hab: gisíidʼwaaʼahlanggiinii
+     gisíid+V+3pl+Cert+Fut: gisíidʼwaaäsaaʼahlans
+     gisíid+V+3pl+Cert+Rel: gisíidʼwaaʼahlans
+     gisíid+V+3pl+Ints+Past: gisíidʼaawaaʼahlang
+     gisíid+V+3pl+Cont: gisíidʼaawaaʼahlanggaa
+     gisíid+V+3pl+Ctfact+Pres: gisíidʼaawaaʼahlanggang
+     gisíid+V+3pl+Rflx: gisíidʼwaaʼahl
+     gisíid+V+3pl+Fut+Rflx+Interr: gisíidʼwaaäseehl
+     gisíid+V+Neg+Sg+Impv: gisíidʼang
+     gisíid+V+Neg+Imm+Pres: gisíidʼangga
+     gisíid+V+Neg+Interr+Simp+Pres: gisíidʼang
+     gisíid+V+Neg+Simp+Pres: gisíidʼanggang
+     gisíid+V+Neg+Dir+Past: gisíidʼanggan
+     gisíid+V+Neg+Interr+Past: gisíidʼaangaa
+     gisíid+V+Neg+Indir+Past: gisíidʼaangaan
+     gisíid+V+Neg+Rel: gisíidʼans
+     gisíid+V+Neg+Rel+Evid: gisíidʼaangaas
+     gisíid+V+Neg+NonFact: gisíidʼangang
+     gisíid+V+Neg+Past+NonFact: gisíidʼaangaa.ang
+     gisíid+V+Neg+Interr+Pres+Hab: gisíidʼanggang
+     gisíid+V+Neg+Pres+Hab: gisíidangʼanggang
+     gisíid+V+Neg+Pres+Hab+NonFact: gisíidangʼangang
+     gisíid+V+Neg+Dir+Past+Hab: gisíidʼanggiinii
+     gisíid+V+Neg+Interr+Past+Hab: gisíidʼanggaangaa
+     gisíid+V+Neg+Indir+Past+Hab: gisíidʼanggaangaan
+     gisíid+V+Neg+Interr+Fut+Long: gisíidʼangäsaa
+     gisíid+V+Neg+Interr+Fut+Short: gisíidʼangäs
+     gisíid+V+Neg+Simp+Fut: gisíidʼangäsaang
+     gisíid+V+Neg+Imm+Fut: gisíidʼangäsga
+     gisíid+V+Neg+Rel+Fut: gisíidʼangäsaas
+     gisíid+V+Neg+Fut+NonFact: gisíidʼangäsaa.ang
+     gisíid+V+Neg+Interr+Near+Fut: gisíidang k̲asaaʼáng
+     gisíid+V+Neg+Near+Fut: gisíidang k̲asaaʼánggang
+     gisíid+V+Neg+Interr+VNear+Fut: gisíidang k̲asaasdläʼáng
+     gisíid+V+Neg+VNear+Fut: gisíidang k̲asaasdläʼánggang
+     gisíid+V+Neg+Bias+Imm+Pres: gisíidʼangʼuuj
+     gisíid+V+Neg+Bias+Simp+Pres: gisíidʼangʼuujang
+     gisíid+V+Neg+Res: gisíidʼangäsaaʼuujang
+     gisíid+V+Neg+Bias+Interr+Pres: gisíidʼangʼus
+     gisíid+V+Neg+Bias+Interr+Past: gisíidʼangʼujaa
+     gisíid+V+Neg+Bias+Interr+Past+Hab: gisíidʼangʼuujaangaa
+     gisíid+V+Neg+Bias+Interr+Fut: gisíidʼangäsaaʼus
+     gisíid+V+Neg+Cert+Pres: gisíidʼaangʼahlanggang
+     gisíid+V+Neg+Cert+Past: gisíidʼaangʼahlanggan
+     gisíid+V+Neg+Cert+Past+Hab: gisíidʼaangʼahlanggiinii
+     gisíid+V+Neg+Cert+Fut: gisíidʼangäsaaʼahlans
+     gisíid+V+Neg+Cert+Rel: gisíidʼaangʼahlans
+     gisíid+V+Neg+Ints+Past: gisíidʼaangaaʼahlang
+     gisíid+V+Neg+Cont: gisíidʼaangaaʼahlanggaa
+     gisíid+V+Neg+Ctfact+Pres: gisíidʼaangaaʼahlanggang
+     gisíid+V+Neg+Rflx: gisíidʼaangʼahl
+     gisíid+V+Neg+Fut+Rflx+Interr: gisíidʼangäseehl
+     gisíid+V+Neg+Pl+Impv: gisíidʼangʼuu
+     gisíid+V+Neg+3pl+Imm+Pres: gisíidʼangʼwaa
+     gisíid+V+Neg+3pl+Interr+Simp+Pres: gisíidʼangʼwaa
+     gisíid+V+Neg+3pl+Simp+Pres: gisíidʼangʼwaang
+     gisíid+V+Neg+3pl+Dir+Past: gisíidʼangʼwägan
+     gisíid+V+Neg+3pl+Interr+Past: gisíidʼangʼaawaa
+     gisíid+V+Neg+3pl+Indir+Past: gisíidʼangʼaawaan
+     gisíid+V+Neg+3pl+Rel: gisíidʼangʼwaas
+     gisíid+V+Neg+3pl+Rel+Evid: gisíidʼangʼaawaas
+     gisíid+V+Neg+3pl+NonFact: gisíidʼangʼwaa.ang
+     gisíid+V+Neg+3pl+Past+NonFact: gisíidʼangʼaawaa.ang
+     gisíid+V+Neg+3pl+Interr+Pres+Hab: gisíidangʼangʼwaa
+     gisíid+V+Neg+3pl+Pres+Hab: gisíidangʼangʼwaang
+     gisíid+V+Neg+3pl+Pres+Hab+NonFact: gisíidangʼangʼwaa.ang
+     gisíid+V+Neg+3pl+Dir+Past+Hab: gisíidʼangʼwägiinii
+     gisíid+V+Neg+3pl+Interr+Past+Hab: gisíidʼangʼwägaangaa
+     gisíid+V+Neg+3pl+Indir+Past+Hab: gisíidʼangʼwägaangaan
+     gisíid+V+Neg+3pl+Interr+Fut+Long: gisíidʼangʼwaaäsaa
+     gisíid+V+Neg+3pl+Interr+Fut+Short: gisíidʼangʼwaaäs
+     gisíid+V+Neg+3pl+Simp+Fut: gisíidʼangʼwaaäsaang
+     gisíid+V+Neg+3pl+Imm+Fut: gisíidʼangʼwaaäsga
+     gisíid+V+Neg+3pl+Rel+Fut: gisíidʼangʼwaaäsaas
+     gisíid+V+Neg+3pl+Fut+NonFact: gisíidʼangʼwaaäsaa.ang
+     gisíid+V+Neg+3pl+Interr+Near+Fut: gisíidʼwaa.ang k̲asaaʼáng
+     gisíid+V+Neg+3pl+Near+Fut: gisíidʼwaa.ang k̲asaaʼánggang
+     gisíid+V+Neg+3pl+Interr+VNear+Fut: gisíidʼwaa.ang k̲asaasdläʼáng
+     gisíid+V+Neg+3pl+VNear+Fut: gisíidʼwaa.ang k̲asaasdläʼánggang
+     gisíid+V+Neg+3pl+Bias+Imm+Pres: gisíidʼangʼwaaʼuuj
+     gisíid+V+Neg+3pl+Bias+Simp+Pres: gisíidʼangʼwaaʼuujang
+     gisíid+V+Neg+3pl+Res: gisíidʼangʼwaaäsaaʼuujang
+     gisíid+V+Neg+3pl+Bias+Interr+Pres: gisíidʼangʼwaaʼus
+     gisíid+V+Neg+3pl+Bias+Interr+Past: gisíidʼangʼwaaʼujaa
+     gisíid+V+Neg+3pl+Bias+Interr+Past+Hab: gisíidʼangʼwaaʼuujaangaa
+     gisíid+V+Neg+3pl+Bias+Interr+Fut: gisíidʼangʼwaaäsaaʼus
+     gisíid+V+Neg+3pl+Cert+Pres: gisíidʼangʼwaaʼahlanggang
+     gisíid+V+Neg+3pl+Cert+Past: gisíidʼangʼwaaʼahlanggan
+     gisíid+V+Neg+3pl+Cert+Past+Hab: gisíidʼangʼwaaʼahlanggiinii
+     gisíid+V+Neg+3pl+Cert+Fut: gisíidʼangʼwaaäsaaʼahlans
+     gisíid+V+Neg+3pl+Cert+Rel: gisíidʼangʼwaaʼahlans
+     gisíid+V+Neg+3pl+Ints+Past: gisíidʼangʼaawaaʼahlang
+     gisíid+V+Neg+3pl+Cont: gisíidʼangʼaawaaʼahlanggaa
+     gisíid+V+Neg+3pl+Ctfact+Pres: gisíidʼangʼaawaaʼahlanggang
+     gisíid+V+Neg+3pl+Rflx: gisíidʼangʼwaaʼahl
+     gisíid+V+Neg+3pl+Fut+Rflx+Interr: gisíidʼangʼwaaäseehl
 

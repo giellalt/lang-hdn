@@ -11,28 +11,28 @@ Tests:
 
   Verb - hltanée.eehl - ENGLISH : # CLASS_EEHL_STEM_2
 
-     hltanée.eehl+V+IMM+PRES: hltanée.eelga
-     hltanée.eehl+V+SIMP+PRES: hltanée.eelgang
-     hltanée.eehl+V+DIR+PAST: hltanée.eelgan
-     hltanée.eehl+V+INTERR+PAST: hltanée.eelaa
-     hltanée.eehl+V+INDIR+PAST: hltanée.eelaan
-     hltanée.eehl+V+REL+EVID: hltanée.eelaas
-     hltanée.eehl+V+PAST+NONFACT: hltanée.eelaa.ang
-     hltanée.eehl+V+INTERR+PRES+HAB: hltanée.eelgang
-     hltanée.eehl+V+PRES+HAB: hltanée.eelganggang
-     hltanée.eehl+V+PRES+HAB+NONFACT: hltanée.eelgangang
-     hltanée.eehl+V+DIR+PAST+HAB: hltanée.eelgiinii
-     hltanée.eehl+V+INTERR+PAST+HAB: hltanée.eelgaangaa
-     hltanée.eehl+V+INDIR+PAST+HAB: hltanée.eelgaangaan
-     hltanée.eehl+V+INTS+PAST: hltanée.eelaa'ahlang
-     hltanée.eehl+V+CONT: hltanée.eelaa'ahlanggaa
-     hltanée.eehl+V+CTFACT+PRES: hltanée.eelaa'ahlanggang
-     hltanée.eehl+V+3PL+INTERR+PRES+HAB: hltanée.eelgang'waa
-     hltanée.eehl+V+3PL+PRES+HAB: hltanée.eelgang'waang
-     hltanée.eehl+V+3PL+PRES+HAB+NONFACT: hltanée.eelgang'waa.ang
-     hltanée.eehl+V+NEG+PRES+HAB: hltanée.eelgang'anggang
-     hltanée.eehl+V+NEG+PRES+HAB+NONFACT: hltanée.eelgang'angang
-     hltanée.eehl+V+NEG+3PL+INTERR+PRES+HAB: hltanée.eelgang'ang'waa
-     hltanée.eehl+V+NEG+3PL+PRES+HAB: hltanée.eelgang'ang'waang
-     hltanée.eehl+V+NEG+3PL+PRES+HAB+NONFACT: hltanée.eelgang'ang'waa.ang
+     hltanée.eehl+V+Imm+Pres: hltanée.eelga
+     hltanée.eehl+V+Simp+Pres: hltanée.eelgang
+     hltanée.eehl+V+Dir+Past: hltanée.eelgan
+     hltanée.eehl+V+Interr+Past: hltanée.eelaa
+     hltanée.eehl+V+Indir+Past: hltanée.eelaan
+     hltanée.eehl+V+Rel+Evid: hltanée.eelaas
+     hltanée.eehl+V+Past+NonFact: hltanée.eelaa.ang
+     hltanée.eehl+V+Interr+Pres+Hab: hltanée.eelgang
+     hltanée.eehl+V+Pres+Hab: hltanée.eelganggang
+     hltanée.eehl+V+Pres+Hab+NonFact: hltanée.eelgangang
+     hltanée.eehl+V+Dir+Past+Hab: hltanée.eelgiinii
+     hltanée.eehl+V+Interr+Past+Hab: hltanée.eelgaangaa
+     hltanée.eehl+V+Indir+Past+Hab: hltanée.eelgaangaan
+     hltanée.eehl+V+Ints+Past: hltanée.eelaaʼahlang
+     hltanée.eehl+V+Cont: hltanée.eelaaʼahlanggaa
+     hltanée.eehl+V+Ctfact+Pres: hltanée.eelaaʼahlanggang
+     hltanée.eehl+V+3pl+Interr+Pres+Hab: hltanée.eelgangʼwaa
+     hltanée.eehl+V+3pl+Pres+Hab: hltanée.eelgangʼwaang
+     hltanée.eehl+V+3pl+Pres+Hab+NonFact: hltanée.eelgangʼwaa.ang
+     hltanée.eehl+V+Neg+Pres+Hab: hltanée.eelgangʼanggang
+     hltanée.eehl+V+Neg+Pres+Hab+NonFact: hltanée.eelgangʼangang
+     hltanée.eehl+V+Neg+3pl+Interr+Pres+Hab: hltanée.eelgangʼangʼwaa
+     hltanée.eehl+V+Neg+3pl+Pres+Hab: hltanée.eelgangʼangʼwaang
+     hltanée.eehl+V+Neg+3pl+Pres+Hab+NonFact: hltanée.eelgangʼangʼwaa.ang
 

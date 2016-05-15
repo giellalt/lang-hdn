@@ -11,35 +11,35 @@ Tests:
 
   Verb - kíl is - ENGLISH : # CLASS_IS_STEM_2
 
-     kíl is+V+IMM+PRES: kíl íija
-     kíl is+V+SIMP+PRES: kíl íijang
-     kíl is+V+DIR+PAST: kíl íijan
-     kíl is+V+NONFACT: kíl íijang
-     kíl is+V+INTERR+PRES+HAB: kíl íijang
-     kíl is+V+PRES+HAB: kíl íijanggang
-     kíl is+V+PRES+HAB+NONFACT: kíl íijangang
-     kíl is+V+DIR+PAST+HAB: kíl íijiinii
-     kíl is+V+INTERR+PAST+HAB: kíl íijaangaa
-     kíl is+V+INDIR+PAST+HAB: kíl íijaangaan
-     kíl is+V+INTERR+NEAR+FUT: kíl íijang k̲asa'áa
-     kíl is+V+NEAR+FUT: kíl íijang k̲asa'áang
-     kíl is+V+INTERR+VNEAR+FUT: kíl íijang k̲asaasdláa
-     kíl is+V+VNEAR+FUT: kíl íijang k̲asaasdláang
-     kíl is+V+CERT+PRES: kíl íij'ahlanggang
-     kíl is+V+CERT+PAST: kíl íij'ahlanggan
-     kíl is+V+CERT+PAST+HAB: kíl íij'ahlanggiinii
-     kíl is+V+CERT+REL: kíl íij'ahlans
-     kíl is+V+RFLX: kíl íij'ahl
-     kíl is+V+3PL+INTERR+PRES+HAB: kíl íijang'waa
-     kíl is+V+3PL+PRES+HAB: kíl íijang'waang
-     kíl is+V+3PL+PRES+HAB+NONFACT: kíl íijang'waa.ang
-     kíl is+V+NEG+PRES+HAB: kíl íijang'anggang
-     kíl is+V+NEG+PRES+HAB+NONFACT: kíl íijang'angang
-     kíl is+V+NEG+INTERR+NEAR+FUT: kíl íijang k̲asaa'áng
-     kíl is+V+NEG+NEAR+FUT: kíl íijang k̲asaa'ánggang
-     kíl is+V+NEG+INTERR+VNEAR+FUT: kíl íijang k̲asaasdlä'áng
-     kíl is+V+NEG+VNEAR+FUT: kíl íijang k̲asaasdlä'ánggang
-     kíl is+V+NEG+3PL+INTERR+PRES+HAB: kíl íijang'ang'waa
-     kíl is+V+NEG+3PL+PRES+HAB: kíl íijang'ang'waang
-     kíl is+V+NEG+3PL+PRES+HAB+NONFACT: kíl íijang'ang'waa.ang
+     kíl is+V+Imm+Pres: kíl íija
+     kíl is+V+Simp+Pres: kíl íijang
+     kíl is+V+Dir+Past: kíl íijan
+     kíl is+V+NonFact: kíl íijang
+     kíl is+V+Interr+Pres+Hab: kíl íijang
+     kíl is+V+Pres+Hab: kíl íijanggang
+     kíl is+V+Pres+Hab+NonFact: kíl íijangang
+     kíl is+V+Dir+Past+Hab: kíl íijiinii
+     kíl is+V+Interr+Past+Hab: kíl íijaangaa
+     kíl is+V+Indir+Past+Hab: kíl íijaangaan
+     kíl is+V+Interr+Near+Fut: kíl íijang k̲asaʼáa
+     kíl is+V+Near+Fut: kíl íijang k̲asaʼáang
+     kíl is+V+Interr+VNear+Fut: kíl íijang k̲asaasdláa
+     kíl is+V+VNear+Fut: kíl íijang k̲asaasdláang
+     kíl is+V+Cert+Pres: kíl íijʼahlanggang
+     kíl is+V+Cert+Past: kíl íijʼahlanggan
+     kíl is+V+Cert+Past+Hab: kíl íijʼahlanggiinii
+     kíl is+V+Cert+Rel: kíl íijʼahlans
+     kíl is+V+Rflx: kíl íijʼahl
+     kíl is+V+3pl+Interr+Pres+Hab: kíl íijangʼwaa
+     kíl is+V+3pl+Pres+Hab: kíl íijangʼwaang
+     kíl is+V+3pl+Pres+Hab+NonFact: kíl íijangʼwaa.ang
+     kíl is+V+Neg+Pres+Hab: kíl íijangʼanggang
+     kíl is+V+Neg+Pres+Hab+NonFact: kíl íijangʼangang
+     kíl is+V+Neg+Interr+Near+Fut: kíl íijang k̲asaaʼáng
+     kíl is+V+Neg+Near+Fut: kíl íijang k̲asaaʼánggang
+     kíl is+V+Neg+Interr+VNear+Fut: kíl íijang k̲asaasdläʼáng
+     kíl is+V+Neg+VNear+Fut: kíl íijang k̲asaasdläʼánggang
+     kíl is+V+Neg+3pl+Interr+Pres+Hab: kíl íijangʼangʼwaa
+     kíl is+V+Neg+3pl+Pres+Hab: kíl íijangʼangʼwaang
+     kíl is+V+Neg+3pl+Pres+Hab+NonFact: kíl íijangʼangʼwaa.ang
 

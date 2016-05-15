@@ -11,38 +11,38 @@ Tests:
 
   Verb - kúnid - ENGLISH : # CLASS_ID_STEM_2
 
-     kúnid+V+IMM+PRES: kúniida
-     kúnid+V+SIMP+PRES: kúniidang
-     kúnid+V+DIR+PAST: kúniidan
-     kúnid+V+NONFACT: kúniidang
-     kúnid+V+INTERR+PRES+HAB: kúniidang
-     kúnid+V+PRES+HAB: kúniidanggang
-     kúnid+V+PRES+HAB+NONFACT: kúniidangang
-     kúnid+V+DIR+PAST+HAB: kúniidiinii
-     kúnid+V+INTERR+PAST+HAB: kúniidaangaa
-     kúnid+V+INDIR+PAST+HAB: kúniidaangaan
-     kúnid+V+INTERR+NEAR+FUT: kúniidang k̲asa'áa
-     kúnid+V+NEAR+FUT: kúniidang k̲asa'áang
-     kúnid+V+INTERR+VNEAR+FUT: kúniidang k̲asaasdláa
-     kúnid+V+VNEAR+FUT: kúniidang k̲asaasdláang
-     kúnid+V+CERT+PRES: kúniid'ahlanggang
-     kúnid+V+CERT+PAST: kúniid'ahlanggan
-     kúnid+V+CERT+PAST+HAB: kúniid'ahlanggiinii
-     kúnid+V+CERT+REL: kúniid'ahlans
-     kúnid+V+INTS+PAST: kúniidaa'ahlang
-     kúnid+V+CONT: kúniidaa'ahlanggaa
-     kúnid+V+CTFACT+PRES: kúniidaa'ahlanggang
-     kúnid+V+RFLX: kúniid'ahl
-     kúnid+V+3PL+INTERR+PRES+HAB: kúniidang'waa
-     kúnid+V+3PL+PRES+HAB: kúniidang'waang
-     kúnid+V+3PL+PRES+HAB+NONFACT: kúniidang'waa.ang
-     kúnid+V+NEG+PRES+HAB: kúniidang'anggang
-     kúnid+V+NEG+PRES+HAB+NONFACT: kúniidang'angang
-     kúnid+V+NEG+INTERR+NEAR+FUT: kúniidang k̲asaa'áng
-     kúnid+V+NEG+NEAR+FUT: kúniidang k̲asaa'ánggang
-     kúnid+V+NEG+INTERR+VNEAR+FUT: kúniidang k̲asaasdlä'áng
-     kúnid+V+NEG+VNEAR+FUT: kúniidang k̲asaasdlä'ánggang
-     kúnid+V+NEG+3PL+INTERR+PRES+HAB: kúniidang'ang'waa
-     kúnid+V+NEG+3PL+PRES+HAB: kúniidang'ang'waang
-     kúnid+V+NEG+3PL+PRES+HAB+NONFACT: kúniidang'ang'waa.ang
+     kúnid+V+Imm+Pres: kúniida
+     kúnid+V+Simp+Pres: kúniidang
+     kúnid+V+Dir+Past: kúniidan
+     kúnid+V+NonFact: kúniidang
+     kúnid+V+Interr+Pres+Hab: kúniidang
+     kúnid+V+Pres+Hab: kúniidanggang
+     kúnid+V+Pres+Hab+NonFact: kúniidangang
+     kúnid+V+Dir+Past+Hab: kúniidiinii
+     kúnid+V+Interr+Past+Hab: kúniidaangaa
+     kúnid+V+Indir+Past+Hab: kúniidaangaan
+     kúnid+V+Interr+Near+Fut: kúniidang k̲asaʼáa
+     kúnid+V+Near+Fut: kúniidang k̲asaʼáang
+     kúnid+V+Interr+VNear+Fut: kúniidang k̲asaasdláa
+     kúnid+V+VNear+Fut: kúniidang k̲asaasdláang
+     kúnid+V+Cert+Pres: kúniidʼahlanggang
+     kúnid+V+Cert+Past: kúniidʼahlanggan
+     kúnid+V+Cert+Past+Hab: kúniidʼahlanggiinii
+     kúnid+V+Cert+Rel: kúniidʼahlans
+     kúnid+V+Ints+Past: kúniidaaʼahlang
+     kúnid+V+Cont: kúniidaaʼahlanggaa
+     kúnid+V+Ctfact+Pres: kúniidaaʼahlanggang
+     kúnid+V+Rflx: kúniidʼahl
+     kúnid+V+3pl+Interr+Pres+Hab: kúniidangʼwaa
+     kúnid+V+3pl+Pres+Hab: kúniidangʼwaang
+     kúnid+V+3pl+Pres+Hab+NonFact: kúniidangʼwaa.ang
+     kúnid+V+Neg+Pres+Hab: kúniidangʼanggang
+     kúnid+V+Neg+Pres+Hab+NonFact: kúniidangʼangang
+     kúnid+V+Neg+Interr+Near+Fut: kúniidang k̲asaaʼáng
+     kúnid+V+Neg+Near+Fut: kúniidang k̲asaaʼánggang
+     kúnid+V+Neg+Interr+VNear+Fut: kúniidang k̲asaasdläʼáng
+     kúnid+V+Neg+VNear+Fut: kúniidang k̲asaasdläʼánggang
+     kúnid+V+Neg+3pl+Interr+Pres+Hab: kúniidangʼangʼwaa
+     kúnid+V+Neg+3pl+Pres+Hab: kúniidangʼangʼwaang
+     kúnid+V+Neg+3pl+Pres+Hab+NonFact: kúniidangʼangʼwaa.ang
 

@@ -11,180 +11,180 @@ Tests:
 
   Verb - tla g̲u - ENGLISH : # CLASS_U
 
-     tla g̲u+V+SG+IMPV: tla g̲u
-     tla g̲u+V+IMM+PRES: tla g̲uga
-     tla g̲u+V+INTERR+SIMP+PRES: tla g̲u
-     tla g̲u+V+SIMP+PRES: tla g̲ugáng
-     tla g̲u+V+DIR+PAST: tla g̲ugán
-     tla g̲u+V+INTERR+PAST: tla g̲uyáa
-     tla g̲u+V+INDIR+PAST: tla g̲uyáan
-     tla g̲u+V+REL: tla g̲us
-     tla g̲u+V+REL+EVID: tla g̲uyáas
-     tla g̲u+V+NONFACT: tla g̲uáng
-     tla g̲u+V+PAST+NONFACT: tla g̲uyáa.ang
-     tla g̲u+V+INTERR+PRES+HAB: tla g̲ugáng
-     tla g̲u+V+PRES+HAB: tla g̲ugánggang
-     tla g̲u+V+PRES+HAB+NONFACT: tla g̲ugángang
-     tla g̲u+V+DIR+PAST+HAB: tla g̲ugíinii
-     tla g̲u+V+INTERR+PAST+HAB: tla g̲ugáangaa
-     tla g̲u+V+INDIR+PAST+HAB: tla g̲ugáangaan
-     tla g̲u+V+INTERR+FUT+LONG: tla g̲uäsáa
-     tla g̲u+V+INTERR+FUT+SHORT: tla g̲uäs
-     tla g̲u+V+SIMP+FUT: tla g̲uäsáang
-     tla g̲u+V+IMM+FUT: tla g̲uäsga
-     tla g̲u+V+REL+FUT: tla g̲uäsáas
-     tla g̲u+V+FUT+NONFACT: tla g̲uäsáa.ang
-     tla g̲u+V+INTERR+NEAR+FUT: tla g̲uáng k̲asa'áa
-     tla g̲u+V+NEAR+FUT: tla g̲uáng k̲asa'áang
-     tla g̲u+V+INTERR+VNEAR+FUT: tla g̲uáng k̲asaasdláa
-     tla g̲u+V+VNEAR+FUT: tla g̲uáng k̲asaasdláang
-     tla g̲u+V+BIAS+IMM+PRES: tla g̲u'úuj
-     tla g̲u+V+BIAS+SIMP+PRES: tla g̲u'úujang
-     tla g̲u+V+RES: tla g̲uäsáa'uujang
-     tla g̲u+V+BIAS+INTERR+PRES: tla g̲u'us
-     tla g̲u+V+BIAS+INTERR+PAST: tla g̲u'ujáa
-     tla g̲u+V+BIAS+INTERR+PAST+HAB: tla g̲u'úujaangaa
-     tla g̲u+V+BIAS+INTERR+FUT: tla g̲uäsáa'us
-     tla g̲u+V+CERT+PRES: tla g̲u'ahlánggang
-     tla g̲u+V+CERT+PAST: tla g̲u'ahlánggan
-     tla g̲u+V+CERT+PAST+HAB: tla g̲u'ahlánggiinii
-     tla g̲u+V+CERT+FUT: tla g̲uäsáa'ahlans
-     tla g̲u+V+CERT+REL: tla g̲u'ahláns
-     tla g̲u+V+INTS+PAST: tla g̲uyáa'ahlang
-     tla g̲u+V+CONT: tla g̲uyáa'ahlanggaa
-     tla g̲u+V+CTFACT+PRES: tla g̲uyáa'ahlanggang
-     tla g̲u+V+RFLX: tla g̲u'ahl
-     tla g̲u+V+FUT+RFLX+INTERR: tla g̲uäséehl
-     tla g̲u+V+PL+IMPV: tla g̲u'úu
-     tla g̲u+V+3PL+IMM+PRES: tla g̲u'wáa
-     tla g̲u+V+3PL+INTERR+SIMP+PRES: tla g̲u'wáa
-     tla g̲u+V+3PL+SIMP+PRES: tla g̲u'wáang
-     tla g̲u+V+3PL+DIR+PAST: tla g̲u'wägán
-     tla g̲u+V+3PL+INTERR+PAST: tla g̲u'áawaa
-     tla g̲u+V+3PL+INDIR+PAST: tla g̲u'áawaan
-     tla g̲u+V+3PL+REL: tla g̲u'wáas
-     tla g̲u+V+3PL+REL+EVID: tla g̲u'áawaas
-     tla g̲u+V+3PL+NONFACT: tla g̲u'wáa.ang
-     tla g̲u+V+3PL+PAST+NONFACT: tla g̲u'áawaa.ang
-     tla g̲u+V+3PL+INTERR+PRES+HAB: tla g̲ugáng'waa
-     tla g̲u+V+3PL+PRES+HAB: tla g̲ugáng'waang
-     tla g̲u+V+3PL+PRES+HAB+NONFACT: tla g̲ugáng'waa.ang
-     tla g̲u+V+3PL+DIR+PAST+HAB: tla g̲u'wägíinii
-     tla g̲u+V+3PL+INTERR+PAST+HAB: tla g̲u'wägáangaa
-     tla g̲u+V+3PL+INDIR+PAST+HAB: tla g̲u'wägáangaan
-     tla g̲u+V+3PL+INTERR+FUT+LONG: tla g̲u'wáaäsaa
-     tla g̲u+V+3PL+INTERR+FUT+SHORT: tla g̲u'wáaäs
-     tla g̲u+V+3PL+SIMP+FUT: tla g̲u'wáaäsaang
-     tla g̲u+V+3PL+IMM+FUT: tla g̲u'wáaäsga
-     tla g̲u+V+3PL+REL+FUT: tla g̲u'wáaäsaas
-     tla g̲u+V+3PL+FUT+NONFACT: tla g̲u'wáaäsaa.ang
-     tla g̲u+V+3PL+INTERR+NEAR+FUT: tla g̲u'wáa.ang k̲asa'áa
-     tla g̲u+V+3PL+NEAR+FUT: tla g̲u'wáa.ang k̲asa'áang
-     tla g̲u+V+3PL+INTERR+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdláa
-     tla g̲u+V+3PL+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdláang
-     tla g̲u+V+3PL+BIAS+IMM+PRES: tla g̲u'wáa'uuj
-     tla g̲u+V+3PL+BIAS+SIMP+PRES: tla g̲u'wáa'uujang
-     tla g̲u+V+3PL+RES: tla g̲u'wáaäsaa'uujang
-     tla g̲u+V+3PL+BIAS+INTERR+PRES: tla g̲u'wáa'us
-     tla g̲u+V+3PL+BIAS+INTERR+PAST: tla g̲u'wáa'ujaa
-     tla g̲u+V+3PL+BIAS+INTERR+PAST+HAB: tla g̲u'wáa'uujaangaa
-     tla g̲u+V+3PL+BIAS+INTERR+FUT: tla g̲u'wáaäsaa'us
-     tla g̲u+V+3PL+CERT+PRES: tla g̲u'wáa'ahlanggang
-     tla g̲u+V+3PL+CERT+PAST: tla g̲u'wáa'ahlanggan
-     tla g̲u+V+3PL+CERT+PAST+HAB: tla g̲u'wáa'ahlanggiinii
-     tla g̲u+V+3PL+CERT+FUT: tla g̲u'wáaäsaa'ahlans
-     tla g̲u+V+3PL+CERT+REL: tla g̲u'wáa'ahlans
-     tla g̲u+V+3PL+INTS+PAST: tla g̲u'áawaa'ahlang
-     tla g̲u+V+3PL+CONT: tla g̲u'áawaa'ahlanggaa
-     tla g̲u+V+3PL+CTFACT+PRES: tla g̲u'áawaa'ahlanggang
-     tla g̲u+V+3PL+RFLX: tla g̲u'wáa'ahl
-     tla g̲u+V+3PL+FUT+RFLX+INTERR: tla g̲u'wáaäseehl
-     tla g̲u+V+NEG+SG+IMPV: tla g̲u'áng
-     tla g̲u+V+NEG+IMM+PRES: tla g̲u'ángga
-     tla g̲u+V+NEG+INTERR+SIMP+PRES: tla g̲u'áng
-     tla g̲u+V+NEG+SIMP+PRES: tla g̲u'ánggang
-     tla g̲u+V+NEG+DIR+PAST: tla g̲u'ánggan
-     tla g̲u+V+NEG+INTERR+PAST: tla g̲u'áangaa
-     tla g̲u+V+NEG+INDIR+PAST: tla g̲u'áangaan
-     tla g̲u+V+NEG+REL: tla g̲u'áns
-     tla g̲u+V+NEG+REL+EVID: tla g̲u'áangaas
-     tla g̲u+V+NEG+NONFACT: tla g̲u'angáng
-     tla g̲u+V+NEG+PAST+NONFACT: tla g̲u'áangaa.ang
-     tla g̲u+V+NEG+INTERR+PRES+HAB: tla g̲u'ánggang
-     tla g̲u+V+NEG+PRES+HAB: tla g̲ugáng'anggang
-     tla g̲u+V+NEG+PRES+HAB+NONFACT: tla g̲ugáng'angang
-     tla g̲u+V+NEG+DIR+PAST+HAB: tla g̲u'ánggiinii
-     tla g̲u+V+NEG+INTERR+PAST+HAB: tla g̲u'ánggaangaa
-     tla g̲u+V+NEG+INDIR+PAST+HAB: tla g̲u'ánggaangaan
-     tla g̲u+V+NEG+INTERR+FUT+LONG: tla g̲u'ángäsaa
-     tla g̲u+V+NEG+INTERR+FUT+SHORT: tla g̲u'ángäs
-     tla g̲u+V+NEG+SIMP+FUT: tla g̲u'ángäsaang
-     tla g̲u+V+NEG+IMM+FUT: tla g̲u'ángäsga
-     tla g̲u+V+NEG+REL+FUT: tla g̲u'ángäsaas
-     tla g̲u+V+NEG+FUT+NONFACT: tla g̲u'ángäsaa.ang
-     tla g̲u+V+NEG+INTERR+NEAR+FUT: tla g̲uáng k̲asaa'áng
-     tla g̲u+V+NEG+NEAR+FUT: tla g̲uáng k̲asaa'ánggang
-     tla g̲u+V+NEG+INTERR+VNEAR+FUT: tla g̲uáng k̲asaasdlä'áng
-     tla g̲u+V+NEG+VNEAR+FUT: tla g̲uáng k̲asaasdlä'ánggang
-     tla g̲u+V+NEG+BIAS+IMM+PRES: tla g̲u'áng'uuj
-     tla g̲u+V+NEG+BIAS+SIMP+PRES: tla g̲u'áng'uujang
-     tla g̲u+V+NEG+RES: tla g̲u'ángäsaa'uujang
-     tla g̲u+V+NEG+BIAS+INTERR+PRES: tla g̲u'áng'us
-     tla g̲u+V+NEG+BIAS+INTERR+PAST: tla g̲u'áng'ujaa
-     tla g̲u+V+NEG+BIAS+INTERR+PAST+HAB: tla g̲u'áng'uujaangaa
-     tla g̲u+V+NEG+BIAS+INTERR+FUT: tla g̲u'ángäsaa'us
-     tla g̲u+V+NEG+CERT+PRES: tla g̲u'áang'ahlanggang
-     tla g̲u+V+NEG+CERT+PAST: tla g̲u'áang'ahlanggan
-     tla g̲u+V+NEG+CERT+PAST+HAB: tla g̲u'áang'ahlanggiinii
-     tla g̲u+V+NEG+CERT+FUT: tla g̲u'ángäsaa'ahlans
-     tla g̲u+V+NEG+CERT+REL: tla g̲u'áang'ahlans
-     tla g̲u+V+NEG+INTS+PAST: tla g̲u'áangaa'ahlang
-     tla g̲u+V+NEG+CONT: tla g̲u'áangaa'ahlanggaa
-     tla g̲u+V+NEG+CTFACT+PRES: tla g̲u'áangaa'ahlanggang
-     tla g̲u+V+NEG+RFLX: tla g̲u'áang'ahl
-     tla g̲u+V+NEG+FUT+RFLX+INTERR: tla g̲u'ángäseehl
-     tla g̲u+V+NEG+PL+IMPV: tla g̲u'áng'uu
-     tla g̲u+V+NEG+3PL+IMM+PRES: tla g̲u'áng'waa
-     tla g̲u+V+NEG+3PL+INTERR+SIMP+PRES: tla g̲u'áng'waa
-     tla g̲u+V+NEG+3PL+SIMP+PRES: tla g̲u'áng'waang
-     tla g̲u+V+NEG+3PL+DIR+PAST: tla g̲u'áng'wägan
-     tla g̲u+V+NEG+3PL+INTERR+PAST: tla g̲u'áng'aawaa
-     tla g̲u+V+NEG+3PL+INDIR+PAST: tla g̲u'áng'aawaan
-     tla g̲u+V+NEG+3PL+REL: tla g̲u'áng'waas
-     tla g̲u+V+NEG+3PL+REL+EVID: tla g̲u'áng'aawaas
-     tla g̲u+V+NEG+3PL+NONFACT: tla g̲u'áng'waa.ang
-     tla g̲u+V+NEG+3PL+PAST+NONFACT: tla g̲u'áng'aawaa.ang
-     tla g̲u+V+NEG+3PL+INTERR+PRES+HAB: tla g̲ugáng'ang'waa
-     tla g̲u+V+NEG+3PL+PRES+HAB: tla g̲ugáng'ang'waang
-     tla g̲u+V+NEG+3PL+PRES+HAB+NONFACT: tla g̲ugáng'ang'waa.ang
-     tla g̲u+V+NEG+3PL+DIR+PAST+HAB: tla g̲u'áng'wägiinii
-     tla g̲u+V+NEG+3PL+INTERR+PAST+HAB: tla g̲u'áng'wägaangaa
-     tla g̲u+V+NEG+3PL+INDIR+PAST+HAB: tla g̲u'áng'wägaangaan
-     tla g̲u+V+NEG+3PL+INTERR+FUT+LONG: tla g̲u'áng'waaäsaa
-     tla g̲u+V+NEG+3PL+INTERR+FUT+SHORT: tla g̲u'áng'waaäs
-     tla g̲u+V+NEG+3PL+SIMP+FUT: tla g̲u'áng'waaäsaang
-     tla g̲u+V+NEG+3PL+IMM+FUT: tla g̲u'áng'waaäsga
-     tla g̲u+V+NEG+3PL+REL+FUT: tla g̲u'áng'waaäsaas
-     tla g̲u+V+NEG+3PL+FUT+NONFACT: tla g̲u'áng'waaäsaa.ang
-     tla g̲u+V+NEG+3PL+INTERR+NEAR+FUT: tla g̲u'wáa.ang k̲asaa'áng
-     tla g̲u+V+NEG+3PL+NEAR+FUT: tla g̲u'wáa.ang k̲asaa'ánggang
-     tla g̲u+V+NEG+3PL+INTERR+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdlä'áng
-     tla g̲u+V+NEG+3PL+VNEAR+FUT: tla g̲u'wáa.ang k̲asaasdlä'ánggang
-     tla g̲u+V+NEG+3PL+BIAS+IMM+PRES: tla g̲u'áng'waa'uuj
-     tla g̲u+V+NEG+3PL+BIAS+SIMP+PRES: tla g̲u'áng'waa'uujang
-     tla g̲u+V+NEG+3PL+RES: tla g̲u'áng'waaäsaa'uujang
-     tla g̲u+V+NEG+3PL+BIAS+INTERR+PRES: tla g̲u'áng'waa'us
-     tla g̲u+V+NEG+3PL+BIAS+INTERR+PAST: tla g̲u'áng'waa'ujaa
-     tla g̲u+V+NEG+3PL+BIAS+INTERR+PAST+HAB: tla g̲u'áng'waa'uujaangaa
-     tla g̲u+V+NEG+3PL+BIAS+INTERR+FUT: tla g̲u'áng'waaäsaa'us
-     tla g̲u+V+NEG+3PL+CERT+PRES: tla g̲u'áng'waa'ahlanggang
-     tla g̲u+V+NEG+3PL+CERT+PAST: tla g̲u'áng'waa'ahlanggan
-     tla g̲u+V+NEG+3PL+CERT+PAST+HAB: tla g̲u'áng'waa'ahlanggiinii
-     tla g̲u+V+NEG+3PL+CERT+FUT: tla g̲u'áng'waaäsaa'ahlans
-     tla g̲u+V+NEG+3PL+CERT+REL: tla g̲u'áng'waa'ahlans
-     tla g̲u+V+NEG+3PL+INTS+PAST: tla g̲u'áng'aawaa'ahlang
-     tla g̲u+V+NEG+3PL+CONT: tla g̲u'áng'aawaa'ahlanggaa
-     tla g̲u+V+NEG+3PL+CTFACT+PRES: tla g̲u'áng'aawaa'ahlanggang
-     tla g̲u+V+NEG+3PL+RFLX: tla g̲u'áng'waa'ahl
-     tla g̲u+V+NEG+3PL+FUT+RFLX+INTERR: tla g̲u'áng'waaäseehl
+     tla g̲u+V+Sg+Impv: tla g̲u
+     tla g̲u+V+Imm+Pres: tla g̲uga
+     tla g̲u+V+Interr+Simp+Pres: tla g̲u
+     tla g̲u+V+Simp+Pres: tla g̲ugáng
+     tla g̲u+V+Dir+Past: tla g̲ugán
+     tla g̲u+V+Interr+Past: tla g̲uyáa
+     tla g̲u+V+Indir+Past: tla g̲uyáan
+     tla g̲u+V+Rel: tla g̲us
+     tla g̲u+V+Rel+Evid: tla g̲uyáas
+     tla g̲u+V+NonFact: tla g̲uáng
+     tla g̲u+V+Past+NonFact: tla g̲uyáa.ang
+     tla g̲u+V+Interr+Pres+Hab: tla g̲ugáng
+     tla g̲u+V+Pres+Hab: tla g̲ugánggang
+     tla g̲u+V+Pres+Hab+NonFact: tla g̲ugángang
+     tla g̲u+V+Dir+Past+Hab: tla g̲ugíinii
+     tla g̲u+V+Interr+Past+Hab: tla g̲ugáangaa
+     tla g̲u+V+Indir+Past+Hab: tla g̲ugáangaan
+     tla g̲u+V+Interr+Fut+Long: tla g̲uäsáa
+     tla g̲u+V+Interr+Fut+Short: tla g̲uäs
+     tla g̲u+V+Simp+Fut: tla g̲uäsáang
+     tla g̲u+V+Imm+Fut: tla g̲uäsga
+     tla g̲u+V+Rel+Fut: tla g̲uäsáas
+     tla g̲u+V+Fut+NonFact: tla g̲uäsáa.ang
+     tla g̲u+V+Interr+Near+Fut: tla g̲uáng k̲asaʼáa
+     tla g̲u+V+Near+Fut: tla g̲uáng k̲asaʼáang
+     tla g̲u+V+Interr+VNear+Fut: tla g̲uáng k̲asaasdláa
+     tla g̲u+V+VNear+Fut: tla g̲uáng k̲asaasdláang
+     tla g̲u+V+Bias+Imm+Pres: tla g̲uʼúuj
+     tla g̲u+V+Bias+Simp+Pres: tla g̲uʼúujang
+     tla g̲u+V+Res: tla g̲uäsáaʼuujang
+     tla g̲u+V+Bias+Interr+Pres: tla g̲uʼus
+     tla g̲u+V+Bias+Interr+Past: tla g̲uʼujáa
+     tla g̲u+V+Bias+Interr+Past+Hab: tla g̲uʼúujaangaa
+     tla g̲u+V+Bias+Interr+Fut: tla g̲uäsáaʼus
+     tla g̲u+V+Cert+Pres: tla g̲uʼahlánggang
+     tla g̲u+V+Cert+Past: tla g̲uʼahlánggan
+     tla g̲u+V+Cert+Past+Hab: tla g̲uʼahlánggiinii
+     tla g̲u+V+Cert+Fut: tla g̲uäsáaʼahlans
+     tla g̲u+V+Cert+Rel: tla g̲uʼahláns
+     tla g̲u+V+Ints+Past: tla g̲uyáaʼahlang
+     tla g̲u+V+Cont: tla g̲uyáaʼahlanggaa
+     tla g̲u+V+Ctfact+Pres: tla g̲uyáaʼahlanggang
+     tla g̲u+V+Rflx: tla g̲uʼahl
+     tla g̲u+V+Fut+Rflx+Interr: tla g̲uäséehl
+     tla g̲u+V+Pl+Impv: tla g̲uʼúu
+     tla g̲u+V+3pl+Imm+Pres: tla g̲uʼwáa
+     tla g̲u+V+3pl+Interr+Simp+Pres: tla g̲uʼwáa
+     tla g̲u+V+3pl+Simp+Pres: tla g̲uʼwáang
+     tla g̲u+V+3pl+Dir+Past: tla g̲uʼwägán
+     tla g̲u+V+3pl+Interr+Past: tla g̲uʼáawaa
+     tla g̲u+V+3pl+Indir+Past: tla g̲uʼáawaan
+     tla g̲u+V+3pl+Rel: tla g̲uʼwáas
+     tla g̲u+V+3pl+Rel+Evid: tla g̲uʼáawaas
+     tla g̲u+V+3pl+NonFact: tla g̲uʼwáa.ang
+     tla g̲u+V+3pl+Past+NonFact: tla g̲uʼáawaa.ang
+     tla g̲u+V+3pl+Interr+Pres+Hab: tla g̲ugángʼwaa
+     tla g̲u+V+3pl+Pres+Hab: tla g̲ugángʼwaang
+     tla g̲u+V+3pl+Pres+Hab+NonFact: tla g̲ugángʼwaa.ang
+     tla g̲u+V+3pl+Dir+Past+Hab: tla g̲uʼwägíinii
+     tla g̲u+V+3pl+Interr+Past+Hab: tla g̲uʼwägáangaa
+     tla g̲u+V+3pl+Indir+Past+Hab: tla g̲uʼwägáangaan
+     tla g̲u+V+3pl+Interr+Fut+Long: tla g̲uʼwáaäsaa
+     tla g̲u+V+3pl+Interr+Fut+Short: tla g̲uʼwáaäs
+     tla g̲u+V+3pl+Simp+Fut: tla g̲uʼwáaäsaang
+     tla g̲u+V+3pl+Imm+Fut: tla g̲uʼwáaäsga
+     tla g̲u+V+3pl+Rel+Fut: tla g̲uʼwáaäsaas
+     tla g̲u+V+3pl+Fut+NonFact: tla g̲uʼwáaäsaa.ang
+     tla g̲u+V+3pl+Interr+Near+Fut: tla g̲uʼwáa.ang k̲asaʼáa
+     tla g̲u+V+3pl+Near+Fut: tla g̲uʼwáa.ang k̲asaʼáang
+     tla g̲u+V+3pl+Interr+VNear+Fut: tla g̲uʼwáa.ang k̲asaasdláa
+     tla g̲u+V+3pl+VNear+Fut: tla g̲uʼwáa.ang k̲asaasdláang
+     tla g̲u+V+3pl+Bias+Imm+Pres: tla g̲uʼwáaʼuuj
+     tla g̲u+V+3pl+Bias+Simp+Pres: tla g̲uʼwáaʼuujang
+     tla g̲u+V+3pl+Res: tla g̲uʼwáaäsaaʼuujang
+     tla g̲u+V+3pl+Bias+Interr+Pres: tla g̲uʼwáaʼus
+     tla g̲u+V+3pl+Bias+Interr+Past: tla g̲uʼwáaʼujaa
+     tla g̲u+V+3pl+Bias+Interr+Past+Hab: tla g̲uʼwáaʼuujaangaa
+     tla g̲u+V+3pl+Bias+Interr+Fut: tla g̲uʼwáaäsaaʼus
+     tla g̲u+V+3pl+Cert+Pres: tla g̲uʼwáaʼahlanggang
+     tla g̲u+V+3pl+Cert+Past: tla g̲uʼwáaʼahlanggan
+     tla g̲u+V+3pl+Cert+Past+Hab: tla g̲uʼwáaʼahlanggiinii
+     tla g̲u+V+3pl+Cert+Fut: tla g̲uʼwáaäsaaʼahlans
+     tla g̲u+V+3pl+Cert+Rel: tla g̲uʼwáaʼahlans
+     tla g̲u+V+3pl+Ints+Past: tla g̲uʼáawaaʼahlang
+     tla g̲u+V+3pl+Cont: tla g̲uʼáawaaʼahlanggaa
+     tla g̲u+V+3pl+Ctfact+Pres: tla g̲uʼáawaaʼahlanggang
+     tla g̲u+V+3pl+Rflx: tla g̲uʼwáaʼahl
+     tla g̲u+V+3pl+Fut+Rflx+Interr: tla g̲uʼwáaäseehl
+     tla g̲u+V+Neg+Sg+Impv: tla g̲uʼáng
+     tla g̲u+V+Neg+Imm+Pres: tla g̲uʼángga
+     tla g̲u+V+Neg+Interr+Simp+Pres: tla g̲uʼáng
+     tla g̲u+V+Neg+Simp+Pres: tla g̲uʼánggang
+     tla g̲u+V+Neg+Dir+Past: tla g̲uʼánggan
+     tla g̲u+V+Neg+Interr+Past: tla g̲uʼáangaa
+     tla g̲u+V+Neg+Indir+Past: tla g̲uʼáangaan
+     tla g̲u+V+Neg+Rel: tla g̲uʼáns
+     tla g̲u+V+Neg+Rel+Evid: tla g̲uʼáangaas
+     tla g̲u+V+Neg+NonFact: tla g̲uʼangáng
+     tla g̲u+V+Neg+Past+NonFact: tla g̲uʼáangaa.ang
+     tla g̲u+V+Neg+Interr+Pres+Hab: tla g̲uʼánggang
+     tla g̲u+V+Neg+Pres+Hab: tla g̲ugángʼanggang
+     tla g̲u+V+Neg+Pres+Hab+NonFact: tla g̲ugángʼangang
+     tla g̲u+V+Neg+Dir+Past+Hab: tla g̲uʼánggiinii
+     tla g̲u+V+Neg+Interr+Past+Hab: tla g̲uʼánggaangaa
+     tla g̲u+V+Neg+Indir+Past+Hab: tla g̲uʼánggaangaan
+     tla g̲u+V+Neg+Interr+Fut+Long: tla g̲uʼángäsaa
+     tla g̲u+V+Neg+Interr+Fut+Short: tla g̲uʼángäs
+     tla g̲u+V+Neg+Simp+Fut: tla g̲uʼángäsaang
+     tla g̲u+V+Neg+Imm+Fut: tla g̲uʼángäsga
+     tla g̲u+V+Neg+Rel+Fut: tla g̲uʼángäsaas
+     tla g̲u+V+Neg+Fut+NonFact: tla g̲uʼángäsaa.ang
+     tla g̲u+V+Neg+Interr+Near+Fut: tla g̲uáng k̲asaaʼáng
+     tla g̲u+V+Neg+Near+Fut: tla g̲uáng k̲asaaʼánggang
+     tla g̲u+V+Neg+Interr+VNear+Fut: tla g̲uáng k̲asaasdläʼáng
+     tla g̲u+V+Neg+VNear+Fut: tla g̲uáng k̲asaasdläʼánggang
+     tla g̲u+V+Neg+Bias+Imm+Pres: tla g̲uʼángʼuuj
+     tla g̲u+V+Neg+Bias+Simp+Pres: tla g̲uʼángʼuujang
+     tla g̲u+V+Neg+Res: tla g̲uʼángäsaaʼuujang
+     tla g̲u+V+Neg+Bias+Interr+Pres: tla g̲uʼángʼus
+     tla g̲u+V+Neg+Bias+Interr+Past: tla g̲uʼángʼujaa
+     tla g̲u+V+Neg+Bias+Interr+Past+Hab: tla g̲uʼángʼuujaangaa
+     tla g̲u+V+Neg+Bias+Interr+Fut: tla g̲uʼángäsaaʼus
+     tla g̲u+V+Neg+Cert+Pres: tla g̲uʼáangʼahlanggang
+     tla g̲u+V+Neg+Cert+Past: tla g̲uʼáangʼahlanggan
+     tla g̲u+V+Neg+Cert+Past+Hab: tla g̲uʼáangʼahlanggiinii
+     tla g̲u+V+Neg+Cert+Fut: tla g̲uʼángäsaaʼahlans
+     tla g̲u+V+Neg+Cert+Rel: tla g̲uʼáangʼahlans
+     tla g̲u+V+Neg+Ints+Past: tla g̲uʼáangaaʼahlang
+     tla g̲u+V+Neg+Cont: tla g̲uʼáangaaʼahlanggaa
+     tla g̲u+V+Neg+Ctfact+Pres: tla g̲uʼáangaaʼahlanggang
+     tla g̲u+V+Neg+Rflx: tla g̲uʼáangʼahl
+     tla g̲u+V+Neg+Fut+Rflx+Interr: tla g̲uʼángäseehl
+     tla g̲u+V+Neg+Pl+Impv: tla g̲uʼángʼuu
+     tla g̲u+V+Neg+3pl+Imm+Pres: tla g̲uʼángʼwaa
+     tla g̲u+V+Neg+3pl+Interr+Simp+Pres: tla g̲uʼángʼwaa
+     tla g̲u+V+Neg+3pl+Simp+Pres: tla g̲uʼángʼwaang
+     tla g̲u+V+Neg+3pl+Dir+Past: tla g̲uʼángʼwägan
+     tla g̲u+V+Neg+3pl+Interr+Past: tla g̲uʼángʼaawaa
+     tla g̲u+V+Neg+3pl+Indir+Past: tla g̲uʼángʼaawaan
+     tla g̲u+V+Neg+3pl+Rel: tla g̲uʼángʼwaas
+     tla g̲u+V+Neg+3pl+Rel+Evid: tla g̲uʼángʼaawaas
+     tla g̲u+V+Neg+3pl+NonFact: tla g̲uʼángʼwaa.ang
+     tla g̲u+V+Neg+3pl+Past+NonFact: tla g̲uʼángʼaawaa.ang
+     tla g̲u+V+Neg+3pl+Interr+Pres+Hab: tla g̲ugángʼangʼwaa
+     tla g̲u+V+Neg+3pl+Pres+Hab: tla g̲ugángʼangʼwaang
+     tla g̲u+V+Neg+3pl+Pres+Hab+NonFact: tla g̲ugángʼangʼwaa.ang
+     tla g̲u+V+Neg+3pl+Dir+Past+Hab: tla g̲uʼángʼwägiinii
+     tla g̲u+V+Neg+3pl+Interr+Past+Hab: tla g̲uʼángʼwägaangaa
+     tla g̲u+V+Neg+3pl+Indir+Past+Hab: tla g̲uʼángʼwägaangaan
+     tla g̲u+V+Neg+3pl+Interr+Fut+Long: tla g̲uʼángʼwaaäsaa
+     tla g̲u+V+Neg+3pl+Interr+Fut+Short: tla g̲uʼángʼwaaäs
+     tla g̲u+V+Neg+3pl+Simp+Fut: tla g̲uʼángʼwaaäsaang
+     tla g̲u+V+Neg+3pl+Imm+Fut: tla g̲uʼángʼwaaäsga
+     tla g̲u+V+Neg+3pl+Rel+Fut: tla g̲uʼángʼwaaäsaas
+     tla g̲u+V+Neg+3pl+Fut+NonFact: tla g̲uʼángʼwaaäsaa.ang
+     tla g̲u+V+Neg+3pl+Interr+Near+Fut: tla g̲uʼwáa.ang k̲asaaʼáng
+     tla g̲u+V+Neg+3pl+Near+Fut: tla g̲uʼwáa.ang k̲asaaʼánggang
+     tla g̲u+V+Neg+3pl+Interr+VNear+Fut: tla g̲uʼwáa.ang k̲asaasdläʼáng
+     tla g̲u+V+Neg+3pl+VNear+Fut: tla g̲uʼwáa.ang k̲asaasdläʼánggang
+     tla g̲u+V+Neg+3pl+Bias+Imm+Pres: tla g̲uʼángʼwaaʼuuj
+     tla g̲u+V+Neg+3pl+Bias+Simp+Pres: tla g̲uʼángʼwaaʼuujang
+     tla g̲u+V+Neg+3pl+Res: tla g̲uʼángʼwaaäsaaʼuujang
+     tla g̲u+V+Neg+3pl+Bias+Interr+Pres: tla g̲uʼángʼwaaʼus
+     tla g̲u+V+Neg+3pl+Bias+Interr+Past: tla g̲uʼángʼwaaʼujaa
+     tla g̲u+V+Neg+3pl+Bias+Interr+Past+Hab: tla g̲uʼángʼwaaʼuujaangaa
+     tla g̲u+V+Neg+3pl+Bias+Interr+Fut: tla g̲uʼángʼwaaäsaaʼus
+     tla g̲u+V+Neg+3pl+Cert+Pres: tla g̲uʼángʼwaaʼahlanggang
+     tla g̲u+V+Neg+3pl+Cert+Past: tla g̲uʼángʼwaaʼahlanggan
+     tla g̲u+V+Neg+3pl+Cert+Past+Hab: tla g̲uʼángʼwaaʼahlanggiinii
+     tla g̲u+V+Neg+3pl+Cert+Fut: tla g̲uʼángʼwaaäsaaʼahlans
+     tla g̲u+V+Neg+3pl+Cert+Rel: tla g̲uʼángʼwaaʼahlans
+     tla g̲u+V+Neg+3pl+Ints+Past: tla g̲uʼángʼaawaaʼahlang
+     tla g̲u+V+Neg+3pl+Cont: tla g̲uʼángʼaawaaʼahlanggaa
+     tla g̲u+V+Neg+3pl+Ctfact+Pres: tla g̲uʼángʼaawaaʼahlanggang
+     tla g̲u+V+Neg+3pl+Rflx: tla g̲uʼángʼwaaʼahl
+     tla g̲u+V+Neg+3pl+Fut+Rflx+Interr: tla g̲uʼángʼwaaäseehl
 
