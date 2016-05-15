@@ -11,16 +11,16 @@ Tests:
 
   Verb - ta kún - ENGLISH : # CLASS_UN_STEM_2
 
-     ta kún+V+INTERR+PAST: ta kwáanaa
-     ta kún+V+INDIR+PAST: ta kwáanaan
-     ta kún+V+REL+EVID: ta kwáanaas
-     ta kún+V+PAST+NONFACT: ta kwáanaa.ang
-     ta kún+V+CERT+PRES: ta kwáan'ahlanggang
-     ta kún+V+CERT+PAST: ta kwáan'ahlanggan
-     ta kún+V+CERT+PAST+HAB: ta kwáan'ahlanggiinii
-     ta kún+V+CERT+REL: ta kwáan'ahlans
-     ta kún+V+INTS+PAST: ta kwáanaa'ahlang
-     ta kún+V+CONT: ta kwáanaa'ahlanggaa
-     ta kún+V+CTFACT+PRES: ta kwáanaa'ahlanggang
-     ta kún+V+RFLX: ta kwáan'ahl
+     ta kún+V+Interr+Past: ta kwáanaa
+     ta kún+V+Indir+Past: ta kwáanaan
+     ta kún+V+Rel+Evid: ta kwáanaas
+     ta kún+V+Past+NonFact: ta kwáanaa.ang
+     ta kún+V+Cert+Pres: ta kwáanʼahlanggang
+     ta kún+V+Cert+Past: ta kwáanʼahlanggan
+     ta kún+V+Cert+Past+Hab: ta kwáanʼahlanggiinii
+     ta kún+V+Cert+Rel: ta kwáanʼahlans
+     ta kún+V+Ints+Past: ta kwáanaaʼahlang
+     ta kún+V+Cont: ta kwáanaaʼahlanggaa
+     ta kún+V+Ctfact+Pres: ta kwáanaaʼahlanggang
+     ta kún+V+Rflx: ta kwáanʼahl
 

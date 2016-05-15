@@ -11,16 +11,16 @@ Tests:
 
   Verb - k̲íng - ENGLISH : # CLASS_ING_STEM_2
 
-     k̲íng+V+INTERR+PAST: k̲éengaa
-     k̲íng+V+INDIR+PAST: k̲éengaan
-     k̲íng+V+REL+EVID: k̲éengaas
-     k̲íng+V+PAST+NONFACT: k̲éengaa.ang
-     k̲íng+V+CERT+PRES: k̲éeng'ahlanggang
-     k̲íng+V+CERT+PAST: k̲éeng'ahlanggan
-     k̲íng+V+CERT+PAST+HAB: k̲éeng'ahlanggiinii
-     k̲íng+V+CERT+REL: k̲éeng'ahlans
-     k̲íng+V+INTS+PAST: k̲éengaa'ahlang
-     k̲íng+V+CONT: k̲éengaa'ahlanggaa
-     k̲íng+V+CTFACT+PRES: k̲éengaa'ahlanggang
-     k̲íng+V+RFLX: k̲éeng'ahl
+     k̲íng+V+Interr+Past: k̲éengaa
+     k̲íng+V+Indir+Past: k̲éengaan
+     k̲íng+V+Rel+Evid: k̲éengaas
+     k̲íng+V+Past+NonFact: k̲éengaa.ang
+     k̲íng+V+Cert+Pres: k̲éengʼahlanggang
+     k̲íng+V+Cert+Past: k̲éengʼahlanggan
+     k̲íng+V+Cert+Past+Hab: k̲éengʼahlanggiinii
+     k̲íng+V+Cert+Rel: k̲éengʼahlans
+     k̲íng+V+Ints+Past: k̲éengaaʼahlang
+     k̲íng+V+Cont: k̲éengaaʼahlanggaa
+     k̲íng+V+Ctfact+Pres: k̲éengaaʼahlanggang
+     k̲íng+V+Rflx: k̲éengʼahl
 

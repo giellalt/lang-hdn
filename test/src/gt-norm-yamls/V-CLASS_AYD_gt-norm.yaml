@@ -11,180 +11,180 @@ Tests:
 
   Verb - káa.ayd - ENGLISH : # CLASS_AYD
 
-     káa.ayd+V+SG+IMPV: káa.ayd
-     káa.ayd+V+IMM+PRES: káa.ayda
-     káa.ayd+V+INTERR+SIMP+PRES: káa.ayd
-     káa.ayd+V+SIMP+PRES: káa.aydang
-     káa.ayd+V+DIR+PAST: káa.aydan
-     káa.ayd+V+INTERR+PAST: káa.aydaa
-     káa.ayd+V+INDIR+PAST: káa.aydaan
-     káa.ayd+V+REL: káa.ayds
-     káa.ayd+V+REL+EVID: káa.aydaas
-     káa.ayd+V+NONFACT: káa.aydang
-     káa.ayd+V+PAST+NONFACT: káa.aydaa.ang
-     káa.ayd+V+INTERR+PRES+HAB: káa.aydang
-     káa.ayd+V+PRES+HAB: káa.aydanggang
-     káa.ayd+V+PRES+HAB+NONFACT: káa.aydangang
-     káa.ayd+V+DIR+PAST+HAB: káa.aydiinii
-     káa.ayd+V+INTERR+PAST+HAB: káa.aydaangaa
-     káa.ayd+V+INDIR+PAST+HAB: káa.aydaangaan
-     káa.ayd+V+INTERR+FUT+LONG: káa.aydäsaa
-     káa.ayd+V+INTERR+FUT+SHORT: káa.aydäs
-     káa.ayd+V+SIMP+FUT: káa.aydäsaang
-     káa.ayd+V+IMM+FUT: káa.aydäsga
-     káa.ayd+V+REL+FUT: káa.aydäsaas
-     káa.ayd+V+FUT+NONFACT: káa.aydäsaa.ang
-     káa.ayd+V+INTERR+NEAR+FUT: káa.aydang k̲asa'áa
-     káa.ayd+V+NEAR+FUT: káa.aydang k̲asa'áang
-     káa.ayd+V+INTERR+VNEAR+FUT: káa.aydang k̲asaasdláa
-     káa.ayd+V+VNEAR+FUT: káa.aydang k̲asaasdláang
-     káa.ayd+V+BIAS+IMM+PRES: káa.ayd'uuj
-     káa.ayd+V+BIAS+SIMP+PRES: káa.ayd'uujang
-     káa.ayd+V+RES: káa.aydäsaa'uujang
-     káa.ayd+V+BIAS+INTERR+PRES: káa.ayd'us
-     káa.ayd+V+BIAS+INTERR+PAST: káa.ayd'ujaa
-     káa.ayd+V+BIAS+INTERR+PAST+HAB: káa.ayd'uujaangaa
-     káa.ayd+V+BIAS+INTERR+FUT: káa.aydäsaa'us
-     káa.ayd+V+CERT+PRES: káa.ayd'ahlanggang
-     káa.ayd+V+CERT+PAST: káa.ayd'ahlanggan
-     káa.ayd+V+CERT+PAST+HAB: káa.ayd'ahlanggiinii
-     káa.ayd+V+CERT+FUT: káa.aydäsaa'ahlans
-     káa.ayd+V+CERT+REL: káa.ayd'ahlans
-     káa.ayd+V+INTS+PAST: káa.aydaa'ahlang
-     káa.ayd+V+CONT: káa.aydaa'ahlanggaa
-     káa.ayd+V+CTFACT+PRES: káa.aydaa'ahlanggang
-     káa.ayd+V+RFLX: káa.ayd'ahl
-     káa.ayd+V+FUT+RFLX+INTERR: káa.aydäseehl
-     káa.ayd+V+PL+IMPV: káa.ayd'uu
-     káa.ayd+V+3PL+IMM+PRES: káa.ayd'waa
-     káa.ayd+V+3PL+INTERR+SIMP+PRES: káa.ayd'waa
-     káa.ayd+V+3PL+SIMP+PRES: káa.ayd'waang
-     káa.ayd+V+3PL+DIR+PAST: káa.ayd'wägan
-     káa.ayd+V+3PL+INTERR+PAST: káa.ayd'aawaa
-     káa.ayd+V+3PL+INDIR+PAST: káa.ayd'aawaan
-     káa.ayd+V+3PL+REL: káa.ayd'waas
-     káa.ayd+V+3PL+REL+EVID: káa.ayd'aawaas
-     káa.ayd+V+3PL+NONFACT: káa.ayd'waa.ang
-     káa.ayd+V+3PL+PAST+NONFACT: káa.ayd'aawaa.ang
-     káa.ayd+V+3PL+INTERR+PRES+HAB: káa.aydang'waa
-     káa.ayd+V+3PL+PRES+HAB: káa.aydang'waang
-     káa.ayd+V+3PL+PRES+HAB+NONFACT: káa.aydang'waa.ang
-     káa.ayd+V+3PL+DIR+PAST+HAB: káa.ayd'wägiinii
-     káa.ayd+V+3PL+INTERR+PAST+HAB: káa.ayd'wägaangaa
-     káa.ayd+V+3PL+INDIR+PAST+HAB: káa.ayd'wägaangaan
-     káa.ayd+V+3PL+INTERR+FUT+LONG: káa.ayd'waaäsaa
-     káa.ayd+V+3PL+INTERR+FUT+SHORT: káa.ayd'waaäs
-     káa.ayd+V+3PL+SIMP+FUT: káa.ayd'waaäsaang
-     káa.ayd+V+3PL+IMM+FUT: káa.ayd'waaäsga
-     káa.ayd+V+3PL+REL+FUT: káa.ayd'waaäsaas
-     káa.ayd+V+3PL+FUT+NONFACT: káa.ayd'waaäsaa.ang
-     káa.ayd+V+3PL+INTERR+NEAR+FUT: káa.ayd'waa.ang k̲asa'áa
-     káa.ayd+V+3PL+NEAR+FUT: káa.ayd'waa.ang k̲asa'áang
-     káa.ayd+V+3PL+INTERR+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdláa
-     káa.ayd+V+3PL+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdláang
-     káa.ayd+V+3PL+BIAS+IMM+PRES: káa.ayd'waa'uuj
-     káa.ayd+V+3PL+BIAS+SIMP+PRES: káa.ayd'waa'uujang
-     káa.ayd+V+3PL+RES: káa.ayd'waaäsaa'uujang
-     káa.ayd+V+3PL+BIAS+INTERR+PRES: káa.ayd'waa'us
-     káa.ayd+V+3PL+BIAS+INTERR+PAST: káa.ayd'waa'ujaa
-     káa.ayd+V+3PL+BIAS+INTERR+PAST+HAB: káa.ayd'waa'uujaangaa
-     káa.ayd+V+3PL+BIAS+INTERR+FUT: káa.ayd'waaäsaa'us
-     káa.ayd+V+3PL+CERT+PRES: káa.ayd'waa'ahlanggang
-     káa.ayd+V+3PL+CERT+PAST: káa.ayd'waa'ahlanggan
-     káa.ayd+V+3PL+CERT+PAST+HAB: káa.ayd'waa'ahlanggiinii
-     káa.ayd+V+3PL+CERT+FUT: káa.ayd'waaäsaa'ahlans
-     káa.ayd+V+3PL+CERT+REL: káa.ayd'waa'ahlans
-     káa.ayd+V+3PL+INTS+PAST: káa.ayd'aawaa'ahlang
-     káa.ayd+V+3PL+CONT: káa.ayd'aawaa'ahlanggaa
-     káa.ayd+V+3PL+CTFACT+PRES: káa.ayd'aawaa'ahlanggang
-     káa.ayd+V+3PL+RFLX: káa.ayd'waa'ahl
-     káa.ayd+V+3PL+FUT+RFLX+INTERR: káa.ayd'waaäseehl
-     káa.ayd+V+NEG+SG+IMPV: káa.ayd'ang
-     káa.ayd+V+NEG+IMM+PRES: káa.ayd'angga
-     káa.ayd+V+NEG+INTERR+SIMP+PRES: káa.ayd'ang
-     káa.ayd+V+NEG+SIMP+PRES: káa.ayd'anggang
-     káa.ayd+V+NEG+DIR+PAST: káa.ayd'anggan
-     káa.ayd+V+NEG+INTERR+PAST: káa.ayd'aangaa
-     káa.ayd+V+NEG+INDIR+PAST: káa.ayd'aangaan
-     káa.ayd+V+NEG+REL: káa.ayd'ans
-     káa.ayd+V+NEG+REL+EVID: káa.ayd'aangaas
-     káa.ayd+V+NEG+NONFACT: káa.ayd'angang
-     káa.ayd+V+NEG+PAST+NONFACT: káa.ayd'aangaa.ang
-     káa.ayd+V+NEG+INTERR+PRES+HAB: káa.ayd'anggang
-     káa.ayd+V+NEG+PRES+HAB: káa.aydang'anggang
-     káa.ayd+V+NEG+PRES+HAB+NONFACT: káa.aydang'angang
-     káa.ayd+V+NEG+DIR+PAST+HAB: káa.ayd'anggiinii
-     káa.ayd+V+NEG+INTERR+PAST+HAB: káa.ayd'anggaangaa
-     káa.ayd+V+NEG+INDIR+PAST+HAB: káa.ayd'anggaangaan
-     káa.ayd+V+NEG+INTERR+FUT+LONG: káa.ayd'angäsaa
-     káa.ayd+V+NEG+INTERR+FUT+SHORT: káa.ayd'angäs
-     káa.ayd+V+NEG+SIMP+FUT: káa.ayd'angäsaang
-     káa.ayd+V+NEG+IMM+FUT: káa.ayd'angäsga
-     káa.ayd+V+NEG+REL+FUT: káa.ayd'angäsaas
-     káa.ayd+V+NEG+FUT+NONFACT: káa.ayd'angäsaa.ang
-     káa.ayd+V+NEG+INTERR+NEAR+FUT: káa.aydang k̲asaa'áng
-     káa.ayd+V+NEG+NEAR+FUT: káa.aydang k̲asaa'ánggang
-     káa.ayd+V+NEG+INTERR+VNEAR+FUT: káa.aydang k̲asaasdlä'áng
-     káa.ayd+V+NEG+VNEAR+FUT: káa.aydang k̲asaasdlä'ánggang
-     káa.ayd+V+NEG+BIAS+IMM+PRES: káa.ayd'ang'uuj
-     káa.ayd+V+NEG+BIAS+SIMP+PRES: káa.ayd'ang'uujang
-     káa.ayd+V+NEG+RES: káa.ayd'angäsaa'uujang
-     káa.ayd+V+NEG+BIAS+INTERR+PRES: káa.ayd'ang'us
-     káa.ayd+V+NEG+BIAS+INTERR+PAST: káa.ayd'ang'ujaa
-     káa.ayd+V+NEG+BIAS+INTERR+PAST+HAB: káa.ayd'ang'uujaangaa
-     káa.ayd+V+NEG+BIAS+INTERR+FUT: káa.ayd'angäsaa'us
-     káa.ayd+V+NEG+CERT+PRES: káa.ayd'aang'ahlanggang
-     káa.ayd+V+NEG+CERT+PAST: káa.ayd'aang'ahlanggan
-     káa.ayd+V+NEG+CERT+PAST+HAB: káa.ayd'aang'ahlanggiinii
-     káa.ayd+V+NEG+CERT+FUT: káa.ayd'angäsaa'ahlans
-     káa.ayd+V+NEG+CERT+REL: káa.ayd'aang'ahlans
-     káa.ayd+V+NEG+INTS+PAST: káa.ayd'aangaa'ahlang
-     káa.ayd+V+NEG+CONT: káa.ayd'aangaa'ahlanggaa
-     káa.ayd+V+NEG+CTFACT+PRES: káa.ayd'aangaa'ahlanggang
-     káa.ayd+V+NEG+RFLX: káa.ayd'aang'ahl
-     káa.ayd+V+NEG+FUT+RFLX+INTERR: káa.ayd'angäseehl
-     káa.ayd+V+NEG+PL+IMPV: káa.ayd'ang'uu
-     káa.ayd+V+NEG+3PL+IMM+PRES: káa.ayd'ang'waa
-     káa.ayd+V+NEG+3PL+INTERR+SIMP+PRES: káa.ayd'ang'waa
-     káa.ayd+V+NEG+3PL+SIMP+PRES: káa.ayd'ang'waang
-     káa.ayd+V+NEG+3PL+DIR+PAST: káa.ayd'ang'wägan
-     káa.ayd+V+NEG+3PL+INTERR+PAST: káa.ayd'ang'aawaa
-     káa.ayd+V+NEG+3PL+INDIR+PAST: káa.ayd'ang'aawaan
-     káa.ayd+V+NEG+3PL+REL: káa.ayd'ang'waas
-     káa.ayd+V+NEG+3PL+REL+EVID: káa.ayd'ang'aawaas
-     káa.ayd+V+NEG+3PL+NONFACT: káa.ayd'ang'waa.ang
-     káa.ayd+V+NEG+3PL+PAST+NONFACT: káa.ayd'ang'aawaa.ang
-     káa.ayd+V+NEG+3PL+INTERR+PRES+HAB: káa.aydang'ang'waa
-     káa.ayd+V+NEG+3PL+PRES+HAB: káa.aydang'ang'waang
-     káa.ayd+V+NEG+3PL+PRES+HAB+NONFACT: káa.aydang'ang'waa.ang
-     káa.ayd+V+NEG+3PL+DIR+PAST+HAB: káa.ayd'ang'wägiinii
-     káa.ayd+V+NEG+3PL+INTERR+PAST+HAB: káa.ayd'ang'wägaangaa
-     káa.ayd+V+NEG+3PL+INDIR+PAST+HAB: káa.ayd'ang'wägaangaan
-     káa.ayd+V+NEG+3PL+INTERR+FUT+LONG: káa.ayd'ang'waaäsaa
-     káa.ayd+V+NEG+3PL+INTERR+FUT+SHORT: káa.ayd'ang'waaäs
-     káa.ayd+V+NEG+3PL+SIMP+FUT: káa.ayd'ang'waaäsaang
-     káa.ayd+V+NEG+3PL+IMM+FUT: káa.ayd'ang'waaäsga
-     káa.ayd+V+NEG+3PL+REL+FUT: káa.ayd'ang'waaäsaas
-     káa.ayd+V+NEG+3PL+FUT+NONFACT: káa.ayd'ang'waaäsaa.ang
-     káa.ayd+V+NEG+3PL+INTERR+NEAR+FUT: káa.ayd'waa.ang k̲asaa'áng
-     káa.ayd+V+NEG+3PL+NEAR+FUT: káa.ayd'waa.ang k̲asaa'ánggang
-     káa.ayd+V+NEG+3PL+INTERR+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdlä'áng
-     káa.ayd+V+NEG+3PL+VNEAR+FUT: káa.ayd'waa.ang k̲asaasdlä'ánggang
-     káa.ayd+V+NEG+3PL+BIAS+IMM+PRES: káa.ayd'ang'waa'uuj
-     káa.ayd+V+NEG+3PL+BIAS+SIMP+PRES: káa.ayd'ang'waa'uujang
-     káa.ayd+V+NEG+3PL+RES: káa.ayd'ang'waaäsaa'uujang
-     káa.ayd+V+NEG+3PL+BIAS+INTERR+PRES: káa.ayd'ang'waa'us
-     káa.ayd+V+NEG+3PL+BIAS+INTERR+PAST: káa.ayd'ang'waa'ujaa
-     káa.ayd+V+NEG+3PL+BIAS+INTERR+PAST+HAB: káa.ayd'ang'waa'uujaangaa
-     káa.ayd+V+NEG+3PL+BIAS+INTERR+FUT: káa.ayd'ang'waaäsaa'us
-     káa.ayd+V+NEG+3PL+CERT+PRES: káa.ayd'ang'waa'ahlanggang
-     káa.ayd+V+NEG+3PL+CERT+PAST: káa.ayd'ang'waa'ahlanggan
-     káa.ayd+V+NEG+3PL+CERT+PAST+HAB: káa.ayd'ang'waa'ahlanggiinii
-     káa.ayd+V+NEG+3PL+CERT+FUT: káa.ayd'ang'waaäsaa'ahlans
-     káa.ayd+V+NEG+3PL+CERT+REL: káa.ayd'ang'waa'ahlans
-     káa.ayd+V+NEG+3PL+INTS+PAST: káa.ayd'ang'aawaa'ahlang
-     káa.ayd+V+NEG+3PL+CONT: káa.ayd'ang'aawaa'ahlanggaa
-     káa.ayd+V+NEG+3PL+CTFACT+PRES: káa.ayd'ang'aawaa'ahlanggang
-     káa.ayd+V+NEG+3PL+RFLX: káa.ayd'ang'waa'ahl
-     káa.ayd+V+NEG+3PL+FUT+RFLX+INTERR: káa.ayd'ang'waaäseehl
+     káa.ayd+V+Sg+Impv: káa.ayd
+     káa.ayd+V+Imm+Pres: káa.ayda
+     káa.ayd+V+Interr+Simp+Pres: káa.ayd
+     káa.ayd+V+Simp+Pres: káa.aydang
+     káa.ayd+V+Dir+Past: káa.aydan
+     káa.ayd+V+Interr+Past: káa.aydaa
+     káa.ayd+V+Indir+Past: káa.aydaan
+     káa.ayd+V+Rel: káa.ayds
+     káa.ayd+V+Rel+Evid: káa.aydaas
+     káa.ayd+V+NonFact: káa.aydang
+     káa.ayd+V+Past+NonFact: káa.aydaa.ang
+     káa.ayd+V+Interr+Pres+Hab: káa.aydang
+     káa.ayd+V+Pres+Hab: káa.aydanggang
+     káa.ayd+V+Pres+Hab+NonFact: káa.aydangang
+     káa.ayd+V+Dir+Past+Hab: káa.aydiinii
+     káa.ayd+V+Interr+Past+Hab: káa.aydaangaa
+     káa.ayd+V+Indir+Past+Hab: káa.aydaangaan
+     káa.ayd+V+Interr+Fut+Long: káa.aydäsaa
+     káa.ayd+V+Interr+Fut+Short: káa.aydäs
+     káa.ayd+V+Simp+Fut: káa.aydäsaang
+     káa.ayd+V+Imm+Fut: káa.aydäsga
+     káa.ayd+V+Rel+Fut: káa.aydäsaas
+     káa.ayd+V+Fut+NonFact: káa.aydäsaa.ang
+     káa.ayd+V+Interr+Near+Fut: káa.aydang k̲asaʼáa
+     káa.ayd+V+Near+Fut: káa.aydang k̲asaʼáang
+     káa.ayd+V+Interr+VNear+Fut: káa.aydang k̲asaasdláa
+     káa.ayd+V+VNear+Fut: káa.aydang k̲asaasdláang
+     káa.ayd+V+Bias+Imm+Pres: káa.aydʼuuj
+     káa.ayd+V+Bias+Simp+Pres: káa.aydʼuujang
+     káa.ayd+V+Res: káa.aydäsaaʼuujang
+     káa.ayd+V+Bias+Interr+Pres: káa.aydʼus
+     káa.ayd+V+Bias+Interr+Past: káa.aydʼujaa
+     káa.ayd+V+Bias+Interr+Past+Hab: káa.aydʼuujaangaa
+     káa.ayd+V+Bias+Interr+Fut: káa.aydäsaaʼus
+     káa.ayd+V+Cert+Pres: káa.aydʼahlanggang
+     káa.ayd+V+Cert+Past: káa.aydʼahlanggan
+     káa.ayd+V+Cert+Past+Hab: káa.aydʼahlanggiinii
+     káa.ayd+V+Cert+Fut: káa.aydäsaaʼahlans
+     káa.ayd+V+Cert+Rel: káa.aydʼahlans
+     káa.ayd+V+Ints+Past: káa.aydaaʼahlang
+     káa.ayd+V+Cont: káa.aydaaʼahlanggaa
+     káa.ayd+V+Ctfact+Pres: káa.aydaaʼahlanggang
+     káa.ayd+V+Rflx: káa.aydʼahl
+     káa.ayd+V+Fut+Rflx+Interr: káa.aydäseehl
+     káa.ayd+V+Pl+Impv: káa.aydʼuu
+     káa.ayd+V+3pl+Imm+Pres: káa.aydʼwaa
+     káa.ayd+V+3pl+Interr+Simp+Pres: káa.aydʼwaa
+     káa.ayd+V+3pl+Simp+Pres: káa.aydʼwaang
+     káa.ayd+V+3pl+Dir+Past: káa.aydʼwägan
+     káa.ayd+V+3pl+Interr+Past: káa.aydʼaawaa
+     káa.ayd+V+3pl+Indir+Past: káa.aydʼaawaan
+     káa.ayd+V+3pl+Rel: káa.aydʼwaas
+     káa.ayd+V+3pl+Rel+Evid: káa.aydʼaawaas
+     káa.ayd+V+3pl+NonFact: káa.aydʼwaa.ang
+     káa.ayd+V+3pl+Past+NonFact: káa.aydʼaawaa.ang
+     káa.ayd+V+3pl+Interr+Pres+Hab: káa.aydangʼwaa
+     káa.ayd+V+3pl+Pres+Hab: káa.aydangʼwaang
+     káa.ayd+V+3pl+Pres+Hab+NonFact: káa.aydangʼwaa.ang
+     káa.ayd+V+3pl+Dir+Past+Hab: káa.aydʼwägiinii
+     káa.ayd+V+3pl+Interr+Past+Hab: káa.aydʼwägaangaa
+     káa.ayd+V+3pl+Indir+Past+Hab: káa.aydʼwägaangaan
+     káa.ayd+V+3pl+Interr+Fut+Long: káa.aydʼwaaäsaa
+     káa.ayd+V+3pl+Interr+Fut+Short: káa.aydʼwaaäs
+     káa.ayd+V+3pl+Simp+Fut: káa.aydʼwaaäsaang
+     káa.ayd+V+3pl+Imm+Fut: káa.aydʼwaaäsga
+     káa.ayd+V+3pl+Rel+Fut: káa.aydʼwaaäsaas
+     káa.ayd+V+3pl+Fut+NonFact: káa.aydʼwaaäsaa.ang
+     káa.ayd+V+3pl+Interr+Near+Fut: káa.aydʼwaa.ang k̲asaʼáa
+     káa.ayd+V+3pl+Near+Fut: káa.aydʼwaa.ang k̲asaʼáang
+     káa.ayd+V+3pl+Interr+VNear+Fut: káa.aydʼwaa.ang k̲asaasdláa
+     káa.ayd+V+3pl+VNear+Fut: káa.aydʼwaa.ang k̲asaasdláang
+     káa.ayd+V+3pl+Bias+Imm+Pres: káa.aydʼwaaʼuuj
+     káa.ayd+V+3pl+Bias+Simp+Pres: káa.aydʼwaaʼuujang
+     káa.ayd+V+3pl+Res: káa.aydʼwaaäsaaʼuujang
+     káa.ayd+V+3pl+Bias+Interr+Pres: káa.aydʼwaaʼus
+     káa.ayd+V+3pl+Bias+Interr+Past: káa.aydʼwaaʼujaa
+     káa.ayd+V+3pl+Bias+Interr+Past+Hab: káa.aydʼwaaʼuujaangaa
+     káa.ayd+V+3pl+Bias+Interr+Fut: káa.aydʼwaaäsaaʼus
+     káa.ayd+V+3pl+Cert+Pres: káa.aydʼwaaʼahlanggang
+     káa.ayd+V+3pl+Cert+Past: káa.aydʼwaaʼahlanggan
+     káa.ayd+V+3pl+Cert+Past+Hab: káa.aydʼwaaʼahlanggiinii
+     káa.ayd+V+3pl+Cert+Fut: káa.aydʼwaaäsaaʼahlans
+     káa.ayd+V+3pl+Cert+Rel: káa.aydʼwaaʼahlans
+     káa.ayd+V+3pl+Ints+Past: káa.aydʼaawaaʼahlang
+     káa.ayd+V+3pl+Cont: káa.aydʼaawaaʼahlanggaa
+     káa.ayd+V+3pl+Ctfact+Pres: káa.aydʼaawaaʼahlanggang
+     káa.ayd+V+3pl+Rflx: káa.aydʼwaaʼahl
+     káa.ayd+V+3pl+Fut+Rflx+Interr: káa.aydʼwaaäseehl
+     káa.ayd+V+Neg+Sg+Impv: káa.aydʼang
+     káa.ayd+V+Neg+Imm+Pres: káa.aydʼangga
+     káa.ayd+V+Neg+Interr+Simp+Pres: káa.aydʼang
+     káa.ayd+V+Neg+Simp+Pres: káa.aydʼanggang
+     káa.ayd+V+Neg+Dir+Past: káa.aydʼanggan
+     káa.ayd+V+Neg+Interr+Past: káa.aydʼaangaa
+     káa.ayd+V+Neg+Indir+Past: káa.aydʼaangaan
+     káa.ayd+V+Neg+Rel: káa.aydʼans
+     káa.ayd+V+Neg+Rel+Evid: káa.aydʼaangaas
+     káa.ayd+V+Neg+NonFact: káa.aydʼangang
+     káa.ayd+V+Neg+Past+NonFact: káa.aydʼaangaa.ang
+     káa.ayd+V+Neg+Interr+Pres+Hab: káa.aydʼanggang
+     káa.ayd+V+Neg+Pres+Hab: káa.aydangʼanggang
+     káa.ayd+V+Neg+Pres+Hab+NonFact: káa.aydangʼangang
+     káa.ayd+V+Neg+Dir+Past+Hab: káa.aydʼanggiinii
+     káa.ayd+V+Neg+Interr+Past+Hab: káa.aydʼanggaangaa
+     káa.ayd+V+Neg+Indir+Past+Hab: káa.aydʼanggaangaan
+     káa.ayd+V+Neg+Interr+Fut+Long: káa.aydʼangäsaa
+     káa.ayd+V+Neg+Interr+Fut+Short: káa.aydʼangäs
+     káa.ayd+V+Neg+Simp+Fut: káa.aydʼangäsaang
+     káa.ayd+V+Neg+Imm+Fut: káa.aydʼangäsga
+     káa.ayd+V+Neg+Rel+Fut: káa.aydʼangäsaas
+     káa.ayd+V+Neg+Fut+NonFact: káa.aydʼangäsaa.ang
+     káa.ayd+V+Neg+Interr+Near+Fut: káa.aydang k̲asaaʼáng
+     káa.ayd+V+Neg+Near+Fut: káa.aydang k̲asaaʼánggang
+     káa.ayd+V+Neg+Interr+VNear+Fut: káa.aydang k̲asaasdläʼáng
+     káa.ayd+V+Neg+VNear+Fut: káa.aydang k̲asaasdläʼánggang
+     káa.ayd+V+Neg+Bias+Imm+Pres: káa.aydʼangʼuuj
+     káa.ayd+V+Neg+Bias+Simp+Pres: káa.aydʼangʼuujang
+     káa.ayd+V+Neg+Res: káa.aydʼangäsaaʼuujang
+     káa.ayd+V+Neg+Bias+Interr+Pres: káa.aydʼangʼus
+     káa.ayd+V+Neg+Bias+Interr+Past: káa.aydʼangʼujaa
+     káa.ayd+V+Neg+Bias+Interr+Past+Hab: káa.aydʼangʼuujaangaa
+     káa.ayd+V+Neg+Bias+Interr+Fut: káa.aydʼangäsaaʼus
+     káa.ayd+V+Neg+Cert+Pres: káa.aydʼaangʼahlanggang
+     káa.ayd+V+Neg+Cert+Past: káa.aydʼaangʼahlanggan
+     káa.ayd+V+Neg+Cert+Past+Hab: káa.aydʼaangʼahlanggiinii
+     káa.ayd+V+Neg+Cert+Fut: káa.aydʼangäsaaʼahlans
+     káa.ayd+V+Neg+Cert+Rel: káa.aydʼaangʼahlans
+     káa.ayd+V+Neg+Ints+Past: káa.aydʼaangaaʼahlang
+     káa.ayd+V+Neg+Cont: káa.aydʼaangaaʼahlanggaa
+     káa.ayd+V+Neg+Ctfact+Pres: káa.aydʼaangaaʼahlanggang
+     káa.ayd+V+Neg+Rflx: káa.aydʼaangʼahl
+     káa.ayd+V+Neg+Fut+Rflx+Interr: káa.aydʼangäseehl
+     káa.ayd+V+Neg+Pl+Impv: káa.aydʼangʼuu
+     káa.ayd+V+Neg+3pl+Imm+Pres: káa.aydʼangʼwaa
+     káa.ayd+V+Neg+3pl+Interr+Simp+Pres: káa.aydʼangʼwaa
+     káa.ayd+V+Neg+3pl+Simp+Pres: káa.aydʼangʼwaang
+     káa.ayd+V+Neg+3pl+Dir+Past: káa.aydʼangʼwägan
+     káa.ayd+V+Neg+3pl+Interr+Past: káa.aydʼangʼaawaa
+     káa.ayd+V+Neg+3pl+Indir+Past: káa.aydʼangʼaawaan
+     káa.ayd+V+Neg+3pl+Rel: káa.aydʼangʼwaas
+     káa.ayd+V+Neg+3pl+Rel+Evid: káa.aydʼangʼaawaas
+     káa.ayd+V+Neg+3pl+NonFact: káa.aydʼangʼwaa.ang
+     káa.ayd+V+Neg+3pl+Past+NonFact: káa.aydʼangʼaawaa.ang
+     káa.ayd+V+Neg+3pl+Interr+Pres+Hab: káa.aydangʼangʼwaa
+     káa.ayd+V+Neg+3pl+Pres+Hab: káa.aydangʼangʼwaang
+     káa.ayd+V+Neg+3pl+Pres+Hab+NonFact: káa.aydangʼangʼwaa.ang
+     káa.ayd+V+Neg+3pl+Dir+Past+Hab: káa.aydʼangʼwägiinii
+     káa.ayd+V+Neg+3pl+Interr+Past+Hab: káa.aydʼangʼwägaangaa
+     káa.ayd+V+Neg+3pl+Indir+Past+Hab: káa.aydʼangʼwägaangaan
+     káa.ayd+V+Neg+3pl+Interr+Fut+Long: káa.aydʼangʼwaaäsaa
+     káa.ayd+V+Neg+3pl+Interr+Fut+Short: káa.aydʼangʼwaaäs
+     káa.ayd+V+Neg+3pl+Simp+Fut: káa.aydʼangʼwaaäsaang
+     káa.ayd+V+Neg+3pl+Imm+Fut: káa.aydʼangʼwaaäsga
+     káa.ayd+V+Neg+3pl+Rel+Fut: káa.aydʼangʼwaaäsaas
+     káa.ayd+V+Neg+3pl+Fut+NonFact: káa.aydʼangʼwaaäsaa.ang
+     káa.ayd+V+Neg+3pl+Interr+Near+Fut: káa.aydʼwaa.ang k̲asaaʼáng
+     káa.ayd+V+Neg+3pl+Near+Fut: káa.aydʼwaa.ang k̲asaaʼánggang
+     káa.ayd+V+Neg+3pl+Interr+VNear+Fut: káa.aydʼwaa.ang k̲asaasdläʼáng
+     káa.ayd+V+Neg+3pl+VNear+Fut: káa.aydʼwaa.ang k̲asaasdläʼánggang
+     káa.ayd+V+Neg+3pl+Bias+Imm+Pres: káa.aydʼangʼwaaʼuuj
+     káa.ayd+V+Neg+3pl+Bias+Simp+Pres: káa.aydʼangʼwaaʼuujang
+     káa.ayd+V+Neg+3pl+Res: káa.aydʼangʼwaaäsaaʼuujang
+     káa.ayd+V+Neg+3pl+Bias+Interr+Pres: káa.aydʼangʼwaaʼus
+     káa.ayd+V+Neg+3pl+Bias+Interr+Past: káa.aydʼangʼwaaʼujaa
+     káa.ayd+V+Neg+3pl+Bias+Interr+Past+Hab: káa.aydʼangʼwaaʼuujaangaa
+     káa.ayd+V+Neg+3pl+Bias+Interr+Fut: káa.aydʼangʼwaaäsaaʼus
+     káa.ayd+V+Neg+3pl+Cert+Pres: káa.aydʼangʼwaaʼahlanggang
+     káa.ayd+V+Neg+3pl+Cert+Past: káa.aydʼangʼwaaʼahlanggan
+     káa.ayd+V+Neg+3pl+Cert+Past+Hab: káa.aydʼangʼwaaʼahlanggiinii
+     káa.ayd+V+Neg+3pl+Cert+Fut: káa.aydʼangʼwaaäsaaʼahlans
+     káa.ayd+V+Neg+3pl+Cert+Rel: káa.aydʼangʼwaaʼahlans
+     káa.ayd+V+Neg+3pl+Ints+Past: káa.aydʼangʼaawaaʼahlang
+     káa.ayd+V+Neg+3pl+Cont: káa.aydʼangʼaawaaʼahlanggaa
+     káa.ayd+V+Neg+3pl+Ctfact+Pres: káa.aydʼangʼaawaaʼahlanggang
+     káa.ayd+V+Neg+3pl+Rflx: káa.aydʼangʼwaaʼahl
+     káa.ayd+V+Neg+3pl+Fut+Rflx+Interr: káa.aydʼangʼwaaäseehl
 

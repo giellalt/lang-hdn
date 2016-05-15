@@ -9,182 +9,182 @@ Config:
 
 Tests:
 
-  Verb - k̲'íinaan - ENGLISH : # CLASS_AAN
+  Verb - k̲ʼíinaan - ENGLISH : # CLASS_AAN
 
-     k̲'íinaan+V+SG+IMPV: k̲'íinaan
-     k̲'íinaan+V+IMM+PRES: k̲'íinaan.ga
-     k̲'íinaan+V+INTERR+SIMP+PRES: k̲'íinaan
-     k̲'íinaan+V+SIMP+PRES: k̲'íinaan.gang
-     k̲'íinaan+V+DIR+PAST: k̲'íinaan.gan
-     k̲'íinaan+V+INTERR+PAST: k̲'íinaan.gaa
-     k̲'íinaan+V+INDIR+PAST: k̲'íinaanaan
-     k̲'íinaan+V+REL: k̲'íinaans
-     k̲'íinaan+V+REL+EVID: k̲'íinaanaas
-     k̲'íinaan+V+NONFACT: k̲'íinaanang
-     k̲'íinaan+V+PAST+NONFACT: k̲'íinaanaa.ang
-     k̲'íinaan+V+INTERR+PRES+HAB: k̲'íinaan.gang
-     k̲'íinaan+V+PRES+HAB: k̲'íinaan.ganggang
-     k̲'íinaan+V+PRES+HAB+NONFACT: k̲'íinaan.gangang
-     k̲'íinaan+V+DIR+PAST+HAB: k̲'íinaan.giinii
-     k̲'íinaan+V+INTERR+PAST+HAB: k̲'íinaanaangaa
-     k̲'íinaan+V+INDIR+PAST+HAB: k̲'íinaanaangaan
-     k̲'íinaan+V+INTERR+FUT+LONG: k̲'íinaanäsaa
-     k̲'íinaan+V+INTERR+FUT+SHORT: k̲'íinaanäs
-     k̲'íinaan+V+SIMP+FUT: k̲'íinaanäsaang
-     k̲'íinaan+V+IMM+FUT: k̲'íinaanäsga
-     k̲'íinaan+V+REL+FUT: k̲'íinaanäsaas
-     k̲'íinaan+V+FUT+NONFACT: k̲'íinaanäsaa.ang
-     k̲'íinaan+V+INTERR+NEAR+FUT: k̲'íinaanang k̲asa'áa
-     k̲'íinaan+V+NEAR+FUT: k̲'íinaanang k̲asa'áang
-     k̲'íinaan+V+INTERR+VNEAR+FUT: k̲'íinaanang k̲asaasdláa
-     k̲'íinaan+V+VNEAR+FUT: k̲'íinaanang k̲asaasdláang
-     k̲'íinaan+V+BIAS+IMM+PRES: k̲'íinaan'uuj
-     k̲'íinaan+V+BIAS+SIMP+PRES: k̲'íinaan'uujang
-     k̲'íinaan+V+RES: k̲'íinaanäsaa'uujang
-     k̲'íinaan+V+BIAS+INTERR+PRES: k̲'íinaan'us
-     k̲'íinaan+V+BIAS+INTERR+PAST: k̲'íinaan'ujaa
-     k̲'íinaan+V+BIAS+INTERR+PAST+HAB: k̲'íinaan'uujaangaa
-     k̲'íinaan+V+BIAS+INTERR+FUT: k̲'íinaanäsaa'us
-     k̲'íinaan+V+CERT+PRES: k̲'íinaan'ahlanggang
-     k̲'íinaan+V+CERT+PAST: k̲'íinaan'ahlanggan
-     k̲'íinaan+V+CERT+PAST+HAB: k̲'íinaan'ahlanggiinii
-     k̲'íinaan+V+CERT+FUT: k̲'íinaanäsaa'ahlans
-     k̲'íinaan+V+CERT+REL: k̲'íinaan'ahlans
-     k̲'íinaan+V+INTS+PAST: k̲'íinaanaa'ahlang
-     k̲'íinaan+V+CONT: k̲'íinaanaa'ahlanggaa
-     k̲'íinaan+V+CTFACT+PRES: k̲'íinaanaa'ahlanggang
-     k̲'íinaan+V+RFLX: k̲'íinaan'ahl
-     k̲'íinaan+V+FUT+RFLX+INTERR: k̲'íinaanäseehl
-     k̲'íinaan+V+PL+IMPV: k̲'íinaan'uu
-     k̲'íinaan+V+3PL+IMM+PRES: k̲'íinaan'waa
-     k̲'íinaan+V+3PL+INTERR+SIMP+PRES: k̲'íinaan'waa
-     k̲'íinaan+V+3PL+SIMP+PRES: k̲'íinaan'waang
-     k̲'íinaan+V+3PL+DIR+PAST: k̲'íinaan'wägan
-     k̲'íinaan+V+3PL+INTERR+PAST: k̲'íinaan'aawaa
-     k̲'íinaan+V+3PL+INDIR+PAST: k̲'íinaan'aawaan
-     k̲'íinaan+V+3PL+REL: k̲'íinaan'waas
-     k̲'íinaan+V+3PL+REL+EVID: k̲'íinaan'aawaas
-     k̲'íinaan+V+3PL+NONFACT: k̲'íinaan'waa.ang
-     k̲'íinaan+V+3PL+PAST+NONFACT: k̲'íinaan'aawaa.ang
-     k̲'íinaan+V+3PL+INTERR+PRES+HAB: k̲'íinaan.gang'waa
-     k̲'íinaan+V+3PL+PRES+HAB: k̲'íinaan.gang'waang
-     k̲'íinaan+V+3PL+PRES+HAB+NONFACT: k̲'íinaan.gang'waa.ang
-     k̲'íinaan+V+3PL+DIR+PAST+HAB: k̲'íinaan'wägiinii
-     k̲'íinaan+V+3PL+INTERR+PAST+HAB: k̲'íinaan'wägaangaa
-     k̲'íinaan+V+3PL+INDIR+PAST+HAB: k̲'íinaan'wägaangaan
-     k̲'íinaan+V+3PL+INTERR+FUT+LONG: k̲'íinaan'waaäsaa
-     k̲'íinaan+V+3PL+INTERR+FUT+SHORT: k̲'íinaan'waaäs
-     k̲'íinaan+V+3PL+SIMP+FUT: k̲'íinaan'waaäsaang
-     k̲'íinaan+V+3PL+IMM+FUT: k̲'íinaan'waaäsga
-     k̲'íinaan+V+3PL+REL+FUT: k̲'íinaan'waaäsaas
-     k̲'íinaan+V+3PL+FUT+NONFACT: k̲'íinaan'waaäsaa.ang
-     k̲'íinaan+V+3PL+INTERR+NEAR+FUT: k̲'íinaan'waa.ang k̲asa'áa
-     k̲'íinaan+V+3PL+NEAR+FUT: k̲'íinaan'waa.ang k̲asa'áang
-     k̲'íinaan+V+3PL+INTERR+VNEAR+FUT: k̲'íinaan'waa.ang k̲asaasdláa
-     k̲'íinaan+V+3PL+VNEAR+FUT: k̲'íinaan'waa.ang k̲asaasdláang
-     k̲'íinaan+V+3PL+BIAS+IMM+PRES: k̲'íinaan'waa'uuj
-     k̲'íinaan+V+3PL+BIAS+SIMP+PRES: k̲'íinaan'waa'uujang
-     k̲'íinaan+V+3PL+RES: k̲'íinaan'waaäsaa'uujang
-     k̲'íinaan+V+3PL+BIAS+INTERR+PRES: k̲'íinaan'waa'us
-     k̲'íinaan+V+3PL+BIAS+INTERR+PAST: k̲'íinaan'waa'ujaa
-     k̲'íinaan+V+3PL+BIAS+INTERR+PAST+HAB: k̲'íinaan'waa'uujaangaa
-     k̲'íinaan+V+3PL+BIAS+INTERR+FUT: k̲'íinaan'waaäsaa'us
-     k̲'íinaan+V+3PL+CERT+PRES: k̲'íinaan'waa'ahlanggang
-     k̲'íinaan+V+3PL+CERT+PAST: k̲'íinaan'waa'ahlanggan
-     k̲'íinaan+V+3PL+CERT+PAST+HAB: k̲'íinaan'waa'ahlanggiinii
-     k̲'íinaan+V+3PL+CERT+FUT: k̲'íinaan'waaäsaa'ahlans
-     k̲'íinaan+V+3PL+CERT+REL: k̲'íinaan'waa'ahlans
-     k̲'íinaan+V+3PL+INTS+PAST: k̲'íinaan'aawaa'ahlang
-     k̲'íinaan+V+3PL+CONT: k̲'íinaan'aawaa'ahlanggaa
-     k̲'íinaan+V+3PL+CTFACT+PRES: k̲'íinaan'aawaa'ahlanggang
-     k̲'íinaan+V+3PL+RFLX: k̲'íinaan'waa'ahl
-     k̲'íinaan+V+3PL+FUT+RFLX+INTERR: k̲'íinaan'waaäseehl
-     k̲'íinaan+V+NEG+SG+IMPV: k̲'íinaan'ang
-     k̲'íinaan+V+NEG+IMM+PRES: k̲'íinaan'angga
-     k̲'íinaan+V+NEG+INTERR+SIMP+PRES: k̲'íinaan'ang
-     k̲'íinaan+V+NEG+SIMP+PRES: k̲'íinaan'anggang
-     k̲'íinaan+V+NEG+DIR+PAST: k̲'íinaan'anggan
-     k̲'íinaan+V+NEG+INTERR+PAST: k̲'íinaan'aangaa
-     k̲'íinaan+V+NEG+INDIR+PAST: k̲'íinaan'aangaan
-     k̲'íinaan+V+NEG+REL: k̲'íinaan'ans
-     k̲'íinaan+V+NEG+REL+EVID: k̲'íinaan'aangaas
-     k̲'íinaan+V+NEG+NONFACT: k̲'íinaan'angang
-     k̲'íinaan+V+NEG+PAST+NONFACT: k̲'íinaan'aangaa.ang
-     k̲'íinaan+V+NEG+INTERR+PRES+HAB: k̲'íinaan'anggang
-     k̲'íinaan+V+NEG+PRES+HAB: k̲'íinaan.gang'anggang
-     k̲'íinaan+V+NEG+PRES+HAB+NONFACT: k̲'íinaan.gang'angang
-     k̲'íinaan+V+NEG+DIR+PAST+HAB: k̲'íinaan'anggiinii
-     k̲'íinaan+V+NEG+INTERR+PAST+HAB: k̲'íinaan'anggaangaa
-     k̲'íinaan+V+NEG+INDIR+PAST+HAB: k̲'íinaan'anggaangaan
-     k̲'íinaan+V+NEG+INTERR+FUT+LONG: k̲'íinaan'angäsaa
-     k̲'íinaan+V+NEG+INTERR+FUT+SHORT: k̲'íinaan'angäs
-     k̲'íinaan+V+NEG+SIMP+FUT: k̲'íinaan'angäsaang
-     k̲'íinaan+V+NEG+IMM+FUT: k̲'íinaan'angäsga
-     k̲'íinaan+V+NEG+REL+FUT: k̲'íinaan'angäsaas
-     k̲'íinaan+V+NEG+FUT+NONFACT: k̲'íinaan'angäsaa.ang
-     k̲'íinaan+V+NEG+INTERR+NEAR+FUT: k̲'íinaanang k̲asaa'áng
-     k̲'íinaan+V+NEG+NEAR+FUT: k̲'íinaanang k̲asaa'ánggang
-     k̲'íinaan+V+NEG+INTERR+VNEAR+FUT: k̲'íinaanang k̲asaasdlä'áng
-     k̲'íinaan+V+NEG+VNEAR+FUT: k̲'íinaanang k̲asaasdlä'ánggang
-     k̲'íinaan+V+NEG+BIAS+IMM+PRES: k̲'íinaan'ang'uuj
-     k̲'íinaan+V+NEG+BIAS+SIMP+PRES: k̲'íinaan'ang'uujang
-     k̲'íinaan+V+NEG+RES: k̲'íinaan'angäsaa'uujang
-     k̲'íinaan+V+NEG+BIAS+INTERR+PRES: k̲'íinaan'ang'us
-     k̲'íinaan+V+NEG+BIAS+INTERR+PAST: k̲'íinaan'ang'ujaa
-     k̲'íinaan+V+NEG+BIAS+INTERR+PAST+HAB: k̲'íinaan'ang'uujaangaa
-     k̲'íinaan+V+NEG+BIAS+INTERR+FUT: k̲'íinaan'angäsaa'us
-     k̲'íinaan+V+NEG+CERT+PRES: k̲'íinaan'aang'ahlanggang
-     k̲'íinaan+V+NEG+CERT+PAST: k̲'íinaan'aang'ahlanggan
-     k̲'íinaan+V+NEG+CERT+PAST+HAB: k̲'íinaan'aang'ahlanggiinii
-     k̲'íinaan+V+NEG+CERT+FUT: k̲'íinaan'angäsaa'ahlans
-     k̲'íinaan+V+NEG+CERT+REL: k̲'íinaan'aang'ahlans
-     k̲'íinaan+V+NEG+INTS+PAST: k̲'íinaan'aangaa'ahlang
-     k̲'íinaan+V+NEG+CONT: k̲'íinaan'aangaa'ahlanggaa
-     k̲'íinaan+V+NEG+CTFACT+PRES: k̲'íinaan'aangaa'ahlanggang
-     k̲'íinaan+V+NEG+RFLX: k̲'íinaan'aang'ahl
-     k̲'íinaan+V+NEG+FUT+RFLX+INTERR: k̲'íinaan'angäseehl
-     k̲'íinaan+V+NEG+PL+IMPV: k̲'íinaan'ang'uu
-     k̲'íinaan+V+NEG+3PL+IMM+PRES: k̲'íinaan'ang'waa
-     k̲'íinaan+V+NEG+3PL+INTERR+SIMP+PRES: k̲'íinaan'ang'waa
-     k̲'íinaan+V+NEG+3PL+SIMP+PRES: k̲'íinaan'ang'waang
-     k̲'íinaan+V+NEG+3PL+DIR+PAST: k̲'íinaan'ang'wägan
-     k̲'íinaan+V+NEG+3PL+INTERR+PAST: k̲'íinaan'ang'aawaa
-     k̲'íinaan+V+NEG+3PL+INDIR+PAST: k̲'íinaan'ang'aawaan
-     k̲'íinaan+V+NEG+3PL+REL: k̲'íinaan'ang'waas
-     k̲'íinaan+V+NEG+3PL+REL+EVID: k̲'íinaan'ang'aawaas
-     k̲'íinaan+V+NEG+3PL+NONFACT: k̲'íinaan'ang'waa.ang
-     k̲'íinaan+V+NEG+3PL+PAST+NONFACT: k̲'íinaan'ang'aawaa.ang
-     k̲'íinaan+V+NEG+3PL+INTERR+PRES+HAB: k̲'íinaan.gang'ang'waa
-     k̲'íinaan+V+NEG+3PL+PRES+HAB: k̲'íinaan.gang'ang'waang
-     k̲'íinaan+V+NEG+3PL+PRES+HAB+NONFACT: k̲'íinaan.gang'ang'waa.ang
-     k̲'íinaan+V+NEG+3PL+DIR+PAST+HAB: k̲'íinaan'ang'wägiinii
-     k̲'íinaan+V+NEG+3PL+INTERR+PAST+HAB: k̲'íinaan'ang'wägaangaa
-     k̲'íinaan+V+NEG+3PL+INDIR+PAST+HAB: k̲'íinaan'ang'wägaangaan
-     k̲'íinaan+V+NEG+3PL+INTERR+FUT+LONG: k̲'íinaan'ang'waaäsaa
-     k̲'íinaan+V+NEG+3PL+INTERR+FUT+SHORT: k̲'íinaan'ang'waaäs
-     k̲'íinaan+V+NEG+3PL+SIMP+FUT: k̲'íinaan'ang'waaäsaang
-     k̲'íinaan+V+NEG+3PL+IMM+FUT: k̲'íinaan'ang'waaäsga
-     k̲'íinaan+V+NEG+3PL+REL+FUT: k̲'íinaan'ang'waaäsaas
-     k̲'íinaan+V+NEG+3PL+FUT+NONFACT: k̲'íinaan'ang'waaäsaa.ang
-     k̲'íinaan+V+NEG+3PL+INTERR+NEAR+FUT: k̲'íinaan'waa.ang k̲asaa'áng
-     k̲'íinaan+V+NEG+3PL+NEAR+FUT: k̲'íinaan'waa.ang k̲asaa'ánggang
-     k̲'íinaan+V+NEG+3PL+INTERR+VNEAR+FUT: k̲'íinaan'waa.ang k̲asaasdlä'áng
-     k̲'íinaan+V+NEG+3PL+VNEAR+FUT: k̲'íinaan'waa.ang k̲asaasdlä'ánggang
-     k̲'íinaan+V+NEG+3PL+BIAS+IMM+PRES: k̲'íinaan'ang'waa'uuj
-     k̲'íinaan+V+NEG+3PL+BIAS+SIMP+PRES: k̲'íinaan'ang'waa'uujang
-     k̲'íinaan+V+NEG+3PL+RES: k̲'íinaan'ang'waaäsaa'uujang
-     k̲'íinaan+V+NEG+3PL+BIAS+INTERR+PRES: k̲'íinaan'ang'waa'us
-     k̲'íinaan+V+NEG+3PL+BIAS+INTERR+PAST: k̲'íinaan'ang'waa'ujaa
-     k̲'íinaan+V+NEG+3PL+BIAS+INTERR+PAST+HAB: k̲'íinaan'ang'waa'uujaangaa
-     k̲'íinaan+V+NEG+3PL+BIAS+INTERR+FUT: k̲'íinaan'ang'waaäsaa'us
-     k̲'íinaan+V+NEG+3PL+CERT+PRES: k̲'íinaan'ang'waa'ahlanggang
-     k̲'íinaan+V+NEG+3PL+CERT+PAST: k̲'íinaan'ang'waa'ahlanggan
-     k̲'íinaan+V+NEG+3PL+CERT+PAST+HAB: k̲'íinaan'ang'waa'ahlanggiinii
-     k̲'íinaan+V+NEG+3PL+CERT+FUT: k̲'íinaan'ang'waaäsaa'ahlans
-     k̲'íinaan+V+NEG+3PL+CERT+REL: k̲'íinaan'ang'waa'ahlans
-     k̲'íinaan+V+NEG+3PL+INTS+PAST: k̲'íinaan'ang'aawaa'ahlang
-     k̲'íinaan+V+NEG+3PL+CONT: k̲'íinaan'ang'aawaa'ahlanggaa
-     k̲'íinaan+V+NEG+3PL+CTFACT+PRES: k̲'íinaan'ang'aawaa'ahlanggang
-     k̲'íinaan+V+NEG+3PL+RFLX: k̲'íinaan'ang'waa'ahl
-     k̲'íinaan+V+NEG+3PL+FUT+RFLX+INTERR: k̲'íinaan'ang'waaäseehl
+     k̲ʼíinaan+V+Sg+Impv: k̲ʼíinaan
+     k̲ʼíinaan+V+Imm+Pres: k̲ʼíinaan.ga
+     k̲ʼíinaan+V+Interr+Simp+Pres: k̲ʼíinaan
+     k̲ʼíinaan+V+Simp+Pres: k̲ʼíinaan.gang
+     k̲ʼíinaan+V+Dir+Past: k̲ʼíinaan.gan
+     k̲ʼíinaan+V+Interr+Past: k̲ʼíinaan.gaa
+     k̲ʼíinaan+V+Indir+Past: k̲ʼíinaanaan
+     k̲ʼíinaan+V+Rel: k̲ʼíinaans
+     k̲ʼíinaan+V+Rel+Evid: k̲ʼíinaanaas
+     k̲ʼíinaan+V+NonFact: k̲ʼíinaanang
+     k̲ʼíinaan+V+Past+NonFact: k̲ʼíinaanaa.ang
+     k̲ʼíinaan+V+Interr+Pres+Hab: k̲ʼíinaan.gang
+     k̲ʼíinaan+V+Pres+Hab: k̲ʼíinaan.ganggang
+     k̲ʼíinaan+V+Pres+Hab+NonFact: k̲ʼíinaan.gangang
+     k̲ʼíinaan+V+Dir+Past+Hab: k̲ʼíinaan.giinii
+     k̲ʼíinaan+V+Interr+Past+Hab: k̲ʼíinaanaangaa
+     k̲ʼíinaan+V+Indir+Past+Hab: k̲ʼíinaanaangaan
+     k̲ʼíinaan+V+Interr+Fut+Long: k̲ʼíinaanäsaa
+     k̲ʼíinaan+V+Interr+Fut+Short: k̲ʼíinaanäs
+     k̲ʼíinaan+V+Simp+Fut: k̲ʼíinaanäsaang
+     k̲ʼíinaan+V+Imm+Fut: k̲ʼíinaanäsga
+     k̲ʼíinaan+V+Rel+Fut: k̲ʼíinaanäsaas
+     k̲ʼíinaan+V+Fut+NonFact: k̲ʼíinaanäsaa.ang
+     k̲ʼíinaan+V+Interr+Near+Fut: k̲ʼíinaanang k̲asaʼáa
+     k̲ʼíinaan+V+Near+Fut: k̲ʼíinaanang k̲asaʼáang
+     k̲ʼíinaan+V+Interr+VNear+Fut: k̲ʼíinaanang k̲asaasdláa
+     k̲ʼíinaan+V+VNear+Fut: k̲ʼíinaanang k̲asaasdláang
+     k̲ʼíinaan+V+Bias+Imm+Pres: k̲ʼíinaanʼuuj
+     k̲ʼíinaan+V+Bias+Simp+Pres: k̲ʼíinaanʼuujang
+     k̲ʼíinaan+V+Res: k̲ʼíinaanäsaaʼuujang
+     k̲ʼíinaan+V+Bias+Interr+Pres: k̲ʼíinaanʼus
+     k̲ʼíinaan+V+Bias+Interr+Past: k̲ʼíinaanʼujaa
+     k̲ʼíinaan+V+Bias+Interr+Past+Hab: k̲ʼíinaanʼuujaangaa
+     k̲ʼíinaan+V+Bias+Interr+Fut: k̲ʼíinaanäsaaʼus
+     k̲ʼíinaan+V+Cert+Pres: k̲ʼíinaanʼahlanggang
+     k̲ʼíinaan+V+Cert+Past: k̲ʼíinaanʼahlanggan
+     k̲ʼíinaan+V+Cert+Past+Hab: k̲ʼíinaanʼahlanggiinii
+     k̲ʼíinaan+V+Cert+Fut: k̲ʼíinaanäsaaʼahlans
+     k̲ʼíinaan+V+Cert+Rel: k̲ʼíinaanʼahlans
+     k̲ʼíinaan+V+Ints+Past: k̲ʼíinaanaaʼahlang
+     k̲ʼíinaan+V+Cont: k̲ʼíinaanaaʼahlanggaa
+     k̲ʼíinaan+V+Ctfact+Pres: k̲ʼíinaanaaʼahlanggang
+     k̲ʼíinaan+V+Rflx: k̲ʼíinaanʼahl
+     k̲ʼíinaan+V+Fut+Rflx+Interr: k̲ʼíinaanäseehl
+     k̲ʼíinaan+V+Pl+Impv: k̲ʼíinaanʼuu
+     k̲ʼíinaan+V+3pl+Imm+Pres: k̲ʼíinaanʼwaa
+     k̲ʼíinaan+V+3pl+Interr+Simp+Pres: k̲ʼíinaanʼwaa
+     k̲ʼíinaan+V+3pl+Simp+Pres: k̲ʼíinaanʼwaang
+     k̲ʼíinaan+V+3pl+Dir+Past: k̲ʼíinaanʼwägan
+     k̲ʼíinaan+V+3pl+Interr+Past: k̲ʼíinaanʼaawaa
+     k̲ʼíinaan+V+3pl+Indir+Past: k̲ʼíinaanʼaawaan
+     k̲ʼíinaan+V+3pl+Rel: k̲ʼíinaanʼwaas
+     k̲ʼíinaan+V+3pl+Rel+Evid: k̲ʼíinaanʼaawaas
+     k̲ʼíinaan+V+3pl+NonFact: k̲ʼíinaanʼwaa.ang
+     k̲ʼíinaan+V+3pl+Past+NonFact: k̲ʼíinaanʼaawaa.ang
+     k̲ʼíinaan+V+3pl+Interr+Pres+Hab: k̲ʼíinaan.gangʼwaa
+     k̲ʼíinaan+V+3pl+Pres+Hab: k̲ʼíinaan.gangʼwaang
+     k̲ʼíinaan+V+3pl+Pres+Hab+NonFact: k̲ʼíinaan.gangʼwaa.ang
+     k̲ʼíinaan+V+3pl+Dir+Past+Hab: k̲ʼíinaanʼwägiinii
+     k̲ʼíinaan+V+3pl+Interr+Past+Hab: k̲ʼíinaanʼwägaangaa
+     k̲ʼíinaan+V+3pl+Indir+Past+Hab: k̲ʼíinaanʼwägaangaan
+     k̲ʼíinaan+V+3pl+Interr+Fut+Long: k̲ʼíinaanʼwaaäsaa
+     k̲ʼíinaan+V+3pl+Interr+Fut+Short: k̲ʼíinaanʼwaaäs
+     k̲ʼíinaan+V+3pl+Simp+Fut: k̲ʼíinaanʼwaaäsaang
+     k̲ʼíinaan+V+3pl+Imm+Fut: k̲ʼíinaanʼwaaäsga
+     k̲ʼíinaan+V+3pl+Rel+Fut: k̲ʼíinaanʼwaaäsaas
+     k̲ʼíinaan+V+3pl+Fut+NonFact: k̲ʼíinaanʼwaaäsaa.ang
+     k̲ʼíinaan+V+3pl+Interr+Near+Fut: k̲ʼíinaanʼwaa.ang k̲asaʼáa
+     k̲ʼíinaan+V+3pl+Near+Fut: k̲ʼíinaanʼwaa.ang k̲asaʼáang
+     k̲ʼíinaan+V+3pl+Interr+VNear+Fut: k̲ʼíinaanʼwaa.ang k̲asaasdláa
+     k̲ʼíinaan+V+3pl+VNear+Fut: k̲ʼíinaanʼwaa.ang k̲asaasdláang
+     k̲ʼíinaan+V+3pl+Bias+Imm+Pres: k̲ʼíinaanʼwaaʼuuj
+     k̲ʼíinaan+V+3pl+Bias+Simp+Pres: k̲ʼíinaanʼwaaʼuujang
+     k̲ʼíinaan+V+3pl+Res: k̲ʼíinaanʼwaaäsaaʼuujang
+     k̲ʼíinaan+V+3pl+Bias+Interr+Pres: k̲ʼíinaanʼwaaʼus
+     k̲ʼíinaan+V+3pl+Bias+Interr+Past: k̲ʼíinaanʼwaaʼujaa
+     k̲ʼíinaan+V+3pl+Bias+Interr+Past+Hab: k̲ʼíinaanʼwaaʼuujaangaa
+     k̲ʼíinaan+V+3pl+Bias+Interr+Fut: k̲ʼíinaanʼwaaäsaaʼus
+     k̲ʼíinaan+V+3pl+Cert+Pres: k̲ʼíinaanʼwaaʼahlanggang
+     k̲ʼíinaan+V+3pl+Cert+Past: k̲ʼíinaanʼwaaʼahlanggan
+     k̲ʼíinaan+V+3pl+Cert+Past+Hab: k̲ʼíinaanʼwaaʼahlanggiinii
+     k̲ʼíinaan+V+3pl+Cert+Fut: k̲ʼíinaanʼwaaäsaaʼahlans
+     k̲ʼíinaan+V+3pl+Cert+Rel: k̲ʼíinaanʼwaaʼahlans
+     k̲ʼíinaan+V+3pl+Ints+Past: k̲ʼíinaanʼaawaaʼahlang
+     k̲ʼíinaan+V+3pl+Cont: k̲ʼíinaanʼaawaaʼahlanggaa
+     k̲ʼíinaan+V+3pl+Ctfact+Pres: k̲ʼíinaanʼaawaaʼahlanggang
+     k̲ʼíinaan+V+3pl+Rflx: k̲ʼíinaanʼwaaʼahl
+     k̲ʼíinaan+V+3pl+Fut+Rflx+Interr: k̲ʼíinaanʼwaaäseehl
+     k̲ʼíinaan+V+Neg+Sg+Impv: k̲ʼíinaanʼang
+     k̲ʼíinaan+V+Neg+Imm+Pres: k̲ʼíinaanʼangga
+     k̲ʼíinaan+V+Neg+Interr+Simp+Pres: k̲ʼíinaanʼang
+     k̲ʼíinaan+V+Neg+Simp+Pres: k̲ʼíinaanʼanggang
+     k̲ʼíinaan+V+Neg+Dir+Past: k̲ʼíinaanʼanggan
+     k̲ʼíinaan+V+Neg+Interr+Past: k̲ʼíinaanʼaangaa
+     k̲ʼíinaan+V+Neg+Indir+Past: k̲ʼíinaanʼaangaan
+     k̲ʼíinaan+V+Neg+Rel: k̲ʼíinaanʼans
+     k̲ʼíinaan+V+Neg+Rel+Evid: k̲ʼíinaanʼaangaas
+     k̲ʼíinaan+V+Neg+NonFact: k̲ʼíinaanʼangang
+     k̲ʼíinaan+V+Neg+Past+NonFact: k̲ʼíinaanʼaangaa.ang
+     k̲ʼíinaan+V+Neg+Interr+Pres+Hab: k̲ʼíinaanʼanggang
+     k̲ʼíinaan+V+Neg+Pres+Hab: k̲ʼíinaan.gangʼanggang
+     k̲ʼíinaan+V+Neg+Pres+Hab+NonFact: k̲ʼíinaan.gangʼangang
+     k̲ʼíinaan+V+Neg+Dir+Past+Hab: k̲ʼíinaanʼanggiinii
+     k̲ʼíinaan+V+Neg+Interr+Past+Hab: k̲ʼíinaanʼanggaangaa
+     k̲ʼíinaan+V+Neg+Indir+Past+Hab: k̲ʼíinaanʼanggaangaan
+     k̲ʼíinaan+V+Neg+Interr+Fut+Long: k̲ʼíinaanʼangäsaa
+     k̲ʼíinaan+V+Neg+Interr+Fut+Short: k̲ʼíinaanʼangäs
+     k̲ʼíinaan+V+Neg+Simp+Fut: k̲ʼíinaanʼangäsaang
+     k̲ʼíinaan+V+Neg+Imm+Fut: k̲ʼíinaanʼangäsga
+     k̲ʼíinaan+V+Neg+Rel+Fut: k̲ʼíinaanʼangäsaas
+     k̲ʼíinaan+V+Neg+Fut+NonFact: k̲ʼíinaanʼangäsaa.ang
+     k̲ʼíinaan+V+Neg+Interr+Near+Fut: k̲ʼíinaanang k̲asaaʼáng
+     k̲ʼíinaan+V+Neg+Near+Fut: k̲ʼíinaanang k̲asaaʼánggang
+     k̲ʼíinaan+V+Neg+Interr+VNear+Fut: k̲ʼíinaanang k̲asaasdläʼáng
+     k̲ʼíinaan+V+Neg+VNear+Fut: k̲ʼíinaanang k̲asaasdläʼánggang
+     k̲ʼíinaan+V+Neg+Bias+Imm+Pres: k̲ʼíinaanʼangʼuuj
+     k̲ʼíinaan+V+Neg+Bias+Simp+Pres: k̲ʼíinaanʼangʼuujang
+     k̲ʼíinaan+V+Neg+Res: k̲ʼíinaanʼangäsaaʼuujang
+     k̲ʼíinaan+V+Neg+Bias+Interr+Pres: k̲ʼíinaanʼangʼus
+     k̲ʼíinaan+V+Neg+Bias+Interr+Past: k̲ʼíinaanʼangʼujaa
+     k̲ʼíinaan+V+Neg+Bias+Interr+Past+Hab: k̲ʼíinaanʼangʼuujaangaa
+     k̲ʼíinaan+V+Neg+Bias+Interr+Fut: k̲ʼíinaanʼangäsaaʼus
+     k̲ʼíinaan+V+Neg+Cert+Pres: k̲ʼíinaanʼaangʼahlanggang
+     k̲ʼíinaan+V+Neg+Cert+Past: k̲ʼíinaanʼaangʼahlanggan
+     k̲ʼíinaan+V+Neg+Cert+Past+Hab: k̲ʼíinaanʼaangʼahlanggiinii
+     k̲ʼíinaan+V+Neg+Cert+Fut: k̲ʼíinaanʼangäsaaʼahlans
+     k̲ʼíinaan+V+Neg+Cert+Rel: k̲ʼíinaanʼaangʼahlans
+     k̲ʼíinaan+V+Neg+Ints+Past: k̲ʼíinaanʼaangaaʼahlang
+     k̲ʼíinaan+V+Neg+Cont: k̲ʼíinaanʼaangaaʼahlanggaa
+     k̲ʼíinaan+V+Neg+Ctfact+Pres: k̲ʼíinaanʼaangaaʼahlanggang
+     k̲ʼíinaan+V+Neg+Rflx: k̲ʼíinaanʼaangʼahl
+     k̲ʼíinaan+V+Neg+Fut+Rflx+Interr: k̲ʼíinaanʼangäseehl
+     k̲ʼíinaan+V+Neg+Pl+Impv: k̲ʼíinaanʼangʼuu
+     k̲ʼíinaan+V+Neg+3pl+Imm+Pres: k̲ʼíinaanʼangʼwaa
+     k̲ʼíinaan+V+Neg+3pl+Interr+Simp+Pres: k̲ʼíinaanʼangʼwaa
+     k̲ʼíinaan+V+Neg+3pl+Simp+Pres: k̲ʼíinaanʼangʼwaang
+     k̲ʼíinaan+V+Neg+3pl+Dir+Past: k̲ʼíinaanʼangʼwägan
+     k̲ʼíinaan+V+Neg+3pl+Interr+Past: k̲ʼíinaanʼangʼaawaa
+     k̲ʼíinaan+V+Neg+3pl+Indir+Past: k̲ʼíinaanʼangʼaawaan
+     k̲ʼíinaan+V+Neg+3pl+Rel: k̲ʼíinaanʼangʼwaas
+     k̲ʼíinaan+V+Neg+3pl+Rel+Evid: k̲ʼíinaanʼangʼaawaas
+     k̲ʼíinaan+V+Neg+3pl+NonFact: k̲ʼíinaanʼangʼwaa.ang
+     k̲ʼíinaan+V+Neg+3pl+Past+NonFact: k̲ʼíinaanʼangʼaawaa.ang
+     k̲ʼíinaan+V+Neg+3pl+Interr+Pres+Hab: k̲ʼíinaan.gangʼangʼwaa
+     k̲ʼíinaan+V+Neg+3pl+Pres+Hab: k̲ʼíinaan.gangʼangʼwaang
+     k̲ʼíinaan+V+Neg+3pl+Pres+Hab+NonFact: k̲ʼíinaan.gangʼangʼwaa.ang
+     k̲ʼíinaan+V+Neg+3pl+Dir+Past+Hab: k̲ʼíinaanʼangʼwägiinii
+     k̲ʼíinaan+V+Neg+3pl+Interr+Past+Hab: k̲ʼíinaanʼangʼwägaangaa
+     k̲ʼíinaan+V+Neg+3pl+Indir+Past+Hab: k̲ʼíinaanʼangʼwägaangaan
+     k̲ʼíinaan+V+Neg+3pl+Interr+Fut+Long: k̲ʼíinaanʼangʼwaaäsaa
+     k̲ʼíinaan+V+Neg+3pl+Interr+Fut+Short: k̲ʼíinaanʼangʼwaaäs
+     k̲ʼíinaan+V+Neg+3pl+Simp+Fut: k̲ʼíinaanʼangʼwaaäsaang
+     k̲ʼíinaan+V+Neg+3pl+Imm+Fut: k̲ʼíinaanʼangʼwaaäsga
+     k̲ʼíinaan+V+Neg+3pl+Rel+Fut: k̲ʼíinaanʼangʼwaaäsaas
+     k̲ʼíinaan+V+Neg+3pl+Fut+NonFact: k̲ʼíinaanʼangʼwaaäsaa.ang
+     k̲ʼíinaan+V+Neg+3pl+Interr+Near+Fut: k̲ʼíinaanʼwaa.ang k̲asaaʼáng
+     k̲ʼíinaan+V+Neg+3pl+Near+Fut: k̲ʼíinaanʼwaa.ang k̲asaaʼánggang
+     k̲ʼíinaan+V+Neg+3pl+Interr+VNear+Fut: k̲ʼíinaanʼwaa.ang k̲asaasdläʼáng
+     k̲ʼíinaan+V+Neg+3pl+VNear+Fut: k̲ʼíinaanʼwaa.ang k̲asaasdläʼánggang
+     k̲ʼíinaan+V+Neg+3pl+Bias+Imm+Pres: k̲ʼíinaanʼangʼwaaʼuuj
+     k̲ʼíinaan+V+Neg+3pl+Bias+Simp+Pres: k̲ʼíinaanʼangʼwaaʼuujang
+     k̲ʼíinaan+V+Neg+3pl+Res: k̲ʼíinaanʼangʼwaaäsaaʼuujang
+     k̲ʼíinaan+V+Neg+3pl+Bias+Interr+Pres: k̲ʼíinaanʼangʼwaaʼus
+     k̲ʼíinaan+V+Neg+3pl+Bias+Interr+Past: k̲ʼíinaanʼangʼwaaʼujaa
+     k̲ʼíinaan+V+Neg+3pl+Bias+Interr+Past+Hab: k̲ʼíinaanʼangʼwaaʼuujaangaa
+     k̲ʼíinaan+V+Neg+3pl+Bias+Interr+Fut: k̲ʼíinaanʼangʼwaaäsaaʼus
+     k̲ʼíinaan+V+Neg+3pl+Cert+Pres: k̲ʼíinaanʼangʼwaaʼahlanggang
+     k̲ʼíinaan+V+Neg+3pl+Cert+Past: k̲ʼíinaanʼangʼwaaʼahlanggan
+     k̲ʼíinaan+V+Neg+3pl+Cert+Past+Hab: k̲ʼíinaanʼangʼwaaʼahlanggiinii
+     k̲ʼíinaan+V+Neg+3pl+Cert+Fut: k̲ʼíinaanʼangʼwaaäsaaʼahlans
+     k̲ʼíinaan+V+Neg+3pl+Cert+Rel: k̲ʼíinaanʼangʼwaaʼahlans
+     k̲ʼíinaan+V+Neg+3pl+Ints+Past: k̲ʼíinaanʼangʼaawaaʼahlang
+     k̲ʼíinaan+V+Neg+3pl+Cont: k̲ʼíinaanʼangʼaawaaʼahlanggaa
+     k̲ʼíinaan+V+Neg+3pl+Ctfact+Pres: k̲ʼíinaanʼangʼaawaaʼahlanggang
+     k̲ʼíinaan+V+Neg+3pl+Rflx: k̲ʼíinaanʼangʼwaaʼahl
+     k̲ʼíinaan+V+Neg+3pl+Fut+Rflx+Interr: k̲ʼíinaanʼangʼwaaäseehl
 

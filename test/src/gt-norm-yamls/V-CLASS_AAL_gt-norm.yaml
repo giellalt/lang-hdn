@@ -11,180 +11,180 @@ Tests:
 
   Verb - xadáal - ENGLISH : # CLASS_AAL
 
-     xadáal+V+SG+IMPV: xadáal
-     xadáal+V+IMM+PRES: xadáalga
-     xadáal+V+INTERR+SIMP+PRES: xadáal
-     xadáal+V+SIMP+PRES: xadáalgang
-     xadáal+V+DIR+PAST: xadáalgan
-     xadáal+V+INTERR+PAST: xadáalaa
-     xadáal+V+INDIR+PAST: xadáalaan
-     xadáal+V+REL: xadáals
-     xadáal+V+REL+EVID: xadáalaas
-     xadáal+V+NONFACT: xadáalang
-     xadáal+V+PAST+NONFACT: xadáalaa.ang
-     xadáal+V+INTERR+PRES+HAB: xadáalgang
-     xadáal+V+PRES+HAB: xadáalganggang
-     xadáal+V+PRES+HAB+NONFACT: xadáalgangang
-     xadáal+V+DIR+PAST+HAB: xadáalgiinii
-     xadáal+V+INTERR+PAST+HAB: xadáalgaangaa
-     xadáal+V+INDIR+PAST+HAB: xadáalgaangaan
-     xadáal+V+INTERR+FUT+LONG: xadáaläsaa
-     xadáal+V+INTERR+FUT+SHORT: xadáaläs
-     xadáal+V+SIMP+FUT: xadáaläsaang
-     xadáal+V+IMM+FUT: xadáaläsga
-     xadáal+V+REL+FUT: xadáaläsaas
-     xadáal+V+FUT+NONFACT: xadáaläsaa.ang
-     xadáal+V+INTERR+NEAR+FUT: xadáalang k̲asa'áa
-     xadáal+V+NEAR+FUT: xadáalang k̲asa'áang
-     xadáal+V+INTERR+VNEAR+FUT: xadáalang k̲asaasdláa
-     xadáal+V+VNEAR+FUT: xadáalang k̲asaasdláang
-     xadáal+V+BIAS+IMM+PRES: xadáal'uuj
-     xadáal+V+BIAS+SIMP+PRES: xadáal'uujang
-     xadáal+V+RES: xadáaläsaa'uujang
-     xadáal+V+BIAS+INTERR+PRES: xadáal'us
-     xadáal+V+BIAS+INTERR+PAST: xadáal'ujaa
-     xadáal+V+BIAS+INTERR+PAST+HAB: xadáal'uujaangaa
-     xadáal+V+BIAS+INTERR+FUT: xadáaläsaa'us
-     xadáal+V+CERT+PRES: xadáal'ahlanggang
-     xadáal+V+CERT+PAST: xadáal'ahlanggan
-     xadáal+V+CERT+PAST+HAB: xadáal'ahlanggiinii
-     xadáal+V+CERT+FUT: xadáaläsaa'ahlans
-     xadáal+V+CERT+REL: xadáal'ahlans
-     xadáal+V+INTS+PAST: xadáalaa'ahlang
-     xadáal+V+CONT: xadáalaa'ahlanggaa
-     xadáal+V+CTFACT+PRES: xadáalaa'ahlanggang
-     xadáal+V+RFLX: xadáal'ahl
-     xadáal+V+FUT+RFLX+INTERR: xadáaläseehl
-     xadáal+V+PL+IMPV: xadáal'uu
-     xadáal+V+3PL+IMM+PRES: xadáal'waa
-     xadáal+V+3PL+INTERR+SIMP+PRES: xadáal'waa
-     xadáal+V+3PL+SIMP+PRES: xadáal'waang
-     xadáal+V+3PL+DIR+PAST: xadáal'wägan
-     xadáal+V+3PL+INTERR+PAST: xadáal'aawaa
-     xadáal+V+3PL+INDIR+PAST: xadáal'aawaan
-     xadáal+V+3PL+REL: xadáal'waas
-     xadáal+V+3PL+REL+EVID: xadáal'aawaas
-     xadáal+V+3PL+NONFACT: xadáal'waa.ang
-     xadáal+V+3PL+PAST+NONFACT: xadáal'aawaa.ang
-     xadáal+V+3PL+INTERR+PRES+HAB: xadáalgang'waa
-     xadáal+V+3PL+PRES+HAB: xadáalgang'waang
-     xadáal+V+3PL+PRES+HAB+NONFACT: xadáalgang'waa.ang
-     xadáal+V+3PL+DIR+PAST+HAB: xadáal'wägiinii
-     xadáal+V+3PL+INTERR+PAST+HAB: xadáal'wägaangaa
-     xadáal+V+3PL+INDIR+PAST+HAB: xadáal'wägaangaan
-     xadáal+V+3PL+INTERR+FUT+LONG: xadáal'waaäsaa
-     xadáal+V+3PL+INTERR+FUT+SHORT: xadáal'waaäs
-     xadáal+V+3PL+SIMP+FUT: xadáal'waaäsaang
-     xadáal+V+3PL+IMM+FUT: xadáal'waaäsga
-     xadáal+V+3PL+REL+FUT: xadáal'waaäsaas
-     xadáal+V+3PL+FUT+NONFACT: xadáal'waaäsaa.ang
-     xadáal+V+3PL+INTERR+NEAR+FUT: xadáal'waa.ang k̲asa'áa
-     xadáal+V+3PL+NEAR+FUT: xadáal'waa.ang k̲asa'áang
-     xadáal+V+3PL+INTERR+VNEAR+FUT: xadáal'waa.ang k̲asaasdláa
-     xadáal+V+3PL+VNEAR+FUT: xadáal'waa.ang k̲asaasdláang
-     xadáal+V+3PL+BIAS+IMM+PRES: xadáal'waa'uuj
-     xadáal+V+3PL+BIAS+SIMP+PRES: xadáal'waa'uujang
-     xadáal+V+3PL+RES: xadáal'waaäsaa'uujang
-     xadáal+V+3PL+BIAS+INTERR+PRES: xadáal'waa'us
-     xadáal+V+3PL+BIAS+INTERR+PAST: xadáal'waa'ujaa
-     xadáal+V+3PL+BIAS+INTERR+PAST+HAB: xadáal'waa'uujaangaa
-     xadáal+V+3PL+BIAS+INTERR+FUT: xadáal'waaäsaa'us
-     xadáal+V+3PL+CERT+PRES: xadáal'waa'ahlanggang
-     xadáal+V+3PL+CERT+PAST: xadáal'waa'ahlanggan
-     xadáal+V+3PL+CERT+PAST+HAB: xadáal'waa'ahlanggiinii
-     xadáal+V+3PL+CERT+FUT: xadáal'waaäsaa'ahlans
-     xadáal+V+3PL+CERT+REL: xadáal'waa'ahlans
-     xadáal+V+3PL+INTS+PAST: xadáal'aawaa'ahlang
-     xadáal+V+3PL+CONT: xadáal'aawaa'ahlanggaa
-     xadáal+V+3PL+CTFACT+PRES: xadáal'aawaa'ahlanggang
-     xadáal+V+3PL+RFLX: xadáal'waa'ahl
-     xadáal+V+3PL+FUT+RFLX+INTERR: xadáal'waaäseehl
-     xadáal+V+NEG+SG+IMPV: xadáal'ang
-     xadáal+V+NEG+IMM+PRES: xadáal'angga
-     xadáal+V+NEG+INTERR+SIMP+PRES: xadáal'ang
-     xadáal+V+NEG+SIMP+PRES: xadáal'anggang
-     xadáal+V+NEG+DIR+PAST: xadáal'anggan
-     xadáal+V+NEG+INTERR+PAST: xadáal'aangaa
-     xadáal+V+NEG+INDIR+PAST: xadáal'aangaan
-     xadáal+V+NEG+REL: xadáal'ans
-     xadáal+V+NEG+REL+EVID: xadáal'aangaas
-     xadáal+V+NEG+NONFACT: xadáal'angang
-     xadáal+V+NEG+PAST+NONFACT: xadáal'aangaa.ang
-     xadáal+V+NEG+INTERR+PRES+HAB: xadáal'anggang
-     xadáal+V+NEG+PRES+HAB: xadáalgang'anggang
-     xadáal+V+NEG+PRES+HAB+NONFACT: xadáalgang'angang
-     xadáal+V+NEG+DIR+PAST+HAB: xadáal'anggiinii
-     xadáal+V+NEG+INTERR+PAST+HAB: xadáal'anggaangaa
-     xadáal+V+NEG+INDIR+PAST+HAB: xadáal'anggaangaan
-     xadáal+V+NEG+INTERR+FUT+LONG: xadáal'angäsaa
-     xadáal+V+NEG+INTERR+FUT+SHORT: xadáal'angäs
-     xadáal+V+NEG+SIMP+FUT: xadáal'angäsaang
-     xadáal+V+NEG+IMM+FUT: xadáal'angäsga
-     xadáal+V+NEG+REL+FUT: xadáal'angäsaas
-     xadáal+V+NEG+FUT+NONFACT: xadáal'angäsaa.ang
-     xadáal+V+NEG+INTERR+NEAR+FUT: xadáalang k̲asaa'áng
-     xadáal+V+NEG+NEAR+FUT: xadáalang k̲asaa'ánggang
-     xadáal+V+NEG+INTERR+VNEAR+FUT: xadáalang k̲asaasdlä'áng
-     xadáal+V+NEG+VNEAR+FUT: xadáalang k̲asaasdlä'ánggang
-     xadáal+V+NEG+BIAS+IMM+PRES: xadáal'ang'uuj
-     xadáal+V+NEG+BIAS+SIMP+PRES: xadáal'ang'uujang
-     xadáal+V+NEG+RES: xadáal'angäsaa'uujang
-     xadáal+V+NEG+BIAS+INTERR+PRES: xadáal'ang'us
-     xadáal+V+NEG+BIAS+INTERR+PAST: xadáal'ang'ujaa
-     xadáal+V+NEG+BIAS+INTERR+PAST+HAB: xadáal'ang'uujaangaa
-     xadáal+V+NEG+BIAS+INTERR+FUT: xadáal'angäsaa'us
-     xadáal+V+NEG+CERT+PRES: xadáal'aang'ahlanggang
-     xadáal+V+NEG+CERT+PAST: xadáal'aang'ahlanggan
-     xadáal+V+NEG+CERT+PAST+HAB: xadáal'aang'ahlanggiinii
-     xadáal+V+NEG+CERT+FUT: xadáal'angäsaa'ahlans
-     xadáal+V+NEG+CERT+REL: xadáal'aang'ahlans
-     xadáal+V+NEG+INTS+PAST: xadáal'aangaa'ahlang
-     xadáal+V+NEG+CONT: xadáal'aangaa'ahlanggaa
-     xadáal+V+NEG+CTFACT+PRES: xadáal'aangaa'ahlanggang
-     xadáal+V+NEG+RFLX: xadáal'aang'ahl
-     xadáal+V+NEG+FUT+RFLX+INTERR: xadáal'angäseehl
-     xadáal+V+NEG+PL+IMPV: xadáal'ang'uu
-     xadáal+V+NEG+3PL+IMM+PRES: xadáal'ang'waa
-     xadáal+V+NEG+3PL+INTERR+SIMP+PRES: xadáal'ang'waa
-     xadáal+V+NEG+3PL+SIMP+PRES: xadáal'ang'waang
-     xadáal+V+NEG+3PL+DIR+PAST: xadáal'ang'wägan
-     xadáal+V+NEG+3PL+INTERR+PAST: xadáal'ang'aawaa
-     xadáal+V+NEG+3PL+INDIR+PAST: xadáal'ang'aawaan
-     xadáal+V+NEG+3PL+REL: xadáal'ang'waas
-     xadáal+V+NEG+3PL+REL+EVID: xadáal'ang'aawaas
-     xadáal+V+NEG+3PL+NONFACT: xadáal'ang'waa.ang
-     xadáal+V+NEG+3PL+PAST+NONFACT: xadáal'ang'aawaa.ang
-     xadáal+V+NEG+3PL+INTERR+PRES+HAB: xadáalgang'ang'waa
-     xadáal+V+NEG+3PL+PRES+HAB: xadáalgang'ang'waang
-     xadáal+V+NEG+3PL+PRES+HAB+NONFACT: xadáalgang'ang'waa.ang
-     xadáal+V+NEG+3PL+DIR+PAST+HAB: xadáal'ang'wägiinii
-     xadáal+V+NEG+3PL+INTERR+PAST+HAB: xadáal'ang'wägaangaa
-     xadáal+V+NEG+3PL+INDIR+PAST+HAB: xadáal'ang'wägaangaan
-     xadáal+V+NEG+3PL+INTERR+FUT+LONG: xadáal'ang'waaäsaa
-     xadáal+V+NEG+3PL+INTERR+FUT+SHORT: xadáal'ang'waaäs
-     xadáal+V+NEG+3PL+SIMP+FUT: xadáal'ang'waaäsaang
-     xadáal+V+NEG+3PL+IMM+FUT: xadáal'ang'waaäsga
-     xadáal+V+NEG+3PL+REL+FUT: xadáal'ang'waaäsaas
-     xadáal+V+NEG+3PL+FUT+NONFACT: xadáal'ang'waaäsaa.ang
-     xadáal+V+NEG+3PL+INTERR+NEAR+FUT: xadáal'waa.ang k̲asaa'áng
-     xadáal+V+NEG+3PL+NEAR+FUT: xadáal'waa.ang k̲asaa'ánggang
-     xadáal+V+NEG+3PL+INTERR+VNEAR+FUT: xadáal'waa.ang k̲asaasdlä'áng
-     xadáal+V+NEG+3PL+VNEAR+FUT: xadáal'waa.ang k̲asaasdlä'ánggang
-     xadáal+V+NEG+3PL+BIAS+IMM+PRES: xadáal'ang'waa'uuj
-     xadáal+V+NEG+3PL+BIAS+SIMP+PRES: xadáal'ang'waa'uujang
-     xadáal+V+NEG+3PL+RES: xadáal'ang'waaäsaa'uujang
-     xadáal+V+NEG+3PL+BIAS+INTERR+PRES: xadáal'ang'waa'us
-     xadáal+V+NEG+3PL+BIAS+INTERR+PAST: xadáal'ang'waa'ujaa
-     xadáal+V+NEG+3PL+BIAS+INTERR+PAST+HAB: xadáal'ang'waa'uujaangaa
-     xadáal+V+NEG+3PL+BIAS+INTERR+FUT: xadáal'ang'waaäsaa'us
-     xadáal+V+NEG+3PL+CERT+PRES: xadáal'ang'waa'ahlanggang
-     xadáal+V+NEG+3PL+CERT+PAST: xadáal'ang'waa'ahlanggan
-     xadáal+V+NEG+3PL+CERT+PAST+HAB: xadáal'ang'waa'ahlanggiinii
-     xadáal+V+NEG+3PL+CERT+FUT: xadáal'ang'waaäsaa'ahlans
-     xadáal+V+NEG+3PL+CERT+REL: xadáal'ang'waa'ahlans
-     xadáal+V+NEG+3PL+INTS+PAST: xadáal'ang'aawaa'ahlang
-     xadáal+V+NEG+3PL+CONT: xadáal'ang'aawaa'ahlanggaa
-     xadáal+V+NEG+3PL+CTFACT+PRES: xadáal'ang'aawaa'ahlanggang
-     xadáal+V+NEG+3PL+RFLX: xadáal'ang'waa'ahl
-     xadáal+V+NEG+3PL+FUT+RFLX+INTERR: xadáal'ang'waaäseehl
+     xadáal+V+Sg+Impv: xadáal
+     xadáal+V+Imm+Pres: xadáalga
+     xadáal+V+Interr+Simp+Pres: xadáal
+     xadáal+V+Simp+Pres: xadáalgang
+     xadáal+V+Dir+Past: xadáalgan
+     xadáal+V+Interr+Past: xadáalaa
+     xadáal+V+Indir+Past: xadáalaan
+     xadáal+V+Rel: xadáals
+     xadáal+V+Rel+Evid: xadáalaas
+     xadáal+V+NonFact: xadáalang
+     xadáal+V+Past+NonFact: xadáalaa.ang
+     xadáal+V+Interr+Pres+Hab: xadáalgang
+     xadáal+V+Pres+Hab: xadáalganggang
+     xadáal+V+Pres+Hab+NonFact: xadáalgangang
+     xadáal+V+Dir+Past+Hab: xadáalgiinii
+     xadáal+V+Interr+Past+Hab: xadáalgaangaa
+     xadáal+V+Indir+Past+Hab: xadáalgaangaan
+     xadáal+V+Interr+Fut+Long: xadáaläsaa
+     xadáal+V+Interr+Fut+Short: xadáaläs
+     xadáal+V+Simp+Fut: xadáaläsaang
+     xadáal+V+Imm+Fut: xadáaläsga
+     xadáal+V+Rel+Fut: xadáaläsaas
+     xadáal+V+Fut+NonFact: xadáaläsaa.ang
+     xadáal+V+Interr+Near+Fut: xadáalang k̲asaʼáa
+     xadáal+V+Near+Fut: xadáalang k̲asaʼáang
+     xadáal+V+Interr+VNear+Fut: xadáalang k̲asaasdláa
+     xadáal+V+VNear+Fut: xadáalang k̲asaasdláang
+     xadáal+V+Bias+Imm+Pres: xadáalʼuuj
+     xadáal+V+Bias+Simp+Pres: xadáalʼuujang
+     xadáal+V+Res: xadáaläsaaʼuujang
+     xadáal+V+Bias+Interr+Pres: xadáalʼus
+     xadáal+V+Bias+Interr+Past: xadáalʼujaa
+     xadáal+V+Bias+Interr+Past+Hab: xadáalʼuujaangaa
+     xadáal+V+Bias+Interr+Fut: xadáaläsaaʼus
+     xadáal+V+Cert+Pres: xadáalʼahlanggang
+     xadáal+V+Cert+Past: xadáalʼahlanggan
+     xadáal+V+Cert+Past+Hab: xadáalʼahlanggiinii
+     xadáal+V+Cert+Fut: xadáaläsaaʼahlans
+     xadáal+V+Cert+Rel: xadáalʼahlans
+     xadáal+V+Ints+Past: xadáalaaʼahlang
+     xadáal+V+Cont: xadáalaaʼahlanggaa
+     xadáal+V+Ctfact+Pres: xadáalaaʼahlanggang
+     xadáal+V+Rflx: xadáalʼahl
+     xadáal+V+Fut+Rflx+Interr: xadáaläseehl
+     xadáal+V+Pl+Impv: xadáalʼuu
+     xadáal+V+3pl+Imm+Pres: xadáalʼwaa
+     xadáal+V+3pl+Interr+Simp+Pres: xadáalʼwaa
+     xadáal+V+3pl+Simp+Pres: xadáalʼwaang
+     xadáal+V+3pl+Dir+Past: xadáalʼwägan
+     xadáal+V+3pl+Interr+Past: xadáalʼaawaa
+     xadáal+V+3pl+Indir+Past: xadáalʼaawaan
+     xadáal+V+3pl+Rel: xadáalʼwaas
+     xadáal+V+3pl+Rel+Evid: xadáalʼaawaas
+     xadáal+V+3pl+NonFact: xadáalʼwaa.ang
+     xadáal+V+3pl+Past+NonFact: xadáalʼaawaa.ang
+     xadáal+V+3pl+Interr+Pres+Hab: xadáalgangʼwaa
+     xadáal+V+3pl+Pres+Hab: xadáalgangʼwaang
+     xadáal+V+3pl+Pres+Hab+NonFact: xadáalgangʼwaa.ang
+     xadáal+V+3pl+Dir+Past+Hab: xadáalʼwägiinii
+     xadáal+V+3pl+Interr+Past+Hab: xadáalʼwägaangaa
+     xadáal+V+3pl+Indir+Past+Hab: xadáalʼwägaangaan
+     xadáal+V+3pl+Interr+Fut+Long: xadáalʼwaaäsaa
+     xadáal+V+3pl+Interr+Fut+Short: xadáalʼwaaäs
+     xadáal+V+3pl+Simp+Fut: xadáalʼwaaäsaang
+     xadáal+V+3pl+Imm+Fut: xadáalʼwaaäsga
+     xadáal+V+3pl+Rel+Fut: xadáalʼwaaäsaas
+     xadáal+V+3pl+Fut+NonFact: xadáalʼwaaäsaa.ang
+     xadáal+V+3pl+Interr+Near+Fut: xadáalʼwaa.ang k̲asaʼáa
+     xadáal+V+3pl+Near+Fut: xadáalʼwaa.ang k̲asaʼáang
+     xadáal+V+3pl+Interr+VNear+Fut: xadáalʼwaa.ang k̲asaasdláa
+     xadáal+V+3pl+VNear+Fut: xadáalʼwaa.ang k̲asaasdláang
+     xadáal+V+3pl+Bias+Imm+Pres: xadáalʼwaaʼuuj
+     xadáal+V+3pl+Bias+Simp+Pres: xadáalʼwaaʼuujang
+     xadáal+V+3pl+Res: xadáalʼwaaäsaaʼuujang
+     xadáal+V+3pl+Bias+Interr+Pres: xadáalʼwaaʼus
+     xadáal+V+3pl+Bias+Interr+Past: xadáalʼwaaʼujaa
+     xadáal+V+3pl+Bias+Interr+Past+Hab: xadáalʼwaaʼuujaangaa
+     xadáal+V+3pl+Bias+Interr+Fut: xadáalʼwaaäsaaʼus
+     xadáal+V+3pl+Cert+Pres: xadáalʼwaaʼahlanggang
+     xadáal+V+3pl+Cert+Past: xadáalʼwaaʼahlanggan
+     xadáal+V+3pl+Cert+Past+Hab: xadáalʼwaaʼahlanggiinii
+     xadáal+V+3pl+Cert+Fut: xadáalʼwaaäsaaʼahlans
+     xadáal+V+3pl+Cert+Rel: xadáalʼwaaʼahlans
+     xadáal+V+3pl+Ints+Past: xadáalʼaawaaʼahlang
+     xadáal+V+3pl+Cont: xadáalʼaawaaʼahlanggaa
+     xadáal+V+3pl+Ctfact+Pres: xadáalʼaawaaʼahlanggang
+     xadáal+V+3pl+Rflx: xadáalʼwaaʼahl
+     xadáal+V+3pl+Fut+Rflx+Interr: xadáalʼwaaäseehl
+     xadáal+V+Neg+Sg+Impv: xadáalʼang
+     xadáal+V+Neg+Imm+Pres: xadáalʼangga
+     xadáal+V+Neg+Interr+Simp+Pres: xadáalʼang
+     xadáal+V+Neg+Simp+Pres: xadáalʼanggang
+     xadáal+V+Neg+Dir+Past: xadáalʼanggan
+     xadáal+V+Neg+Interr+Past: xadáalʼaangaa
+     xadáal+V+Neg+Indir+Past: xadáalʼaangaan
+     xadáal+V+Neg+Rel: xadáalʼans
+     xadáal+V+Neg+Rel+Evid: xadáalʼaangaas
+     xadáal+V+Neg+NonFact: xadáalʼangang
+     xadáal+V+Neg+Past+NonFact: xadáalʼaangaa.ang
+     xadáal+V+Neg+Interr+Pres+Hab: xadáalʼanggang
+     xadáal+V+Neg+Pres+Hab: xadáalgangʼanggang
+     xadáal+V+Neg+Pres+Hab+NonFact: xadáalgangʼangang
+     xadáal+V+Neg+Dir+Past+Hab: xadáalʼanggiinii
+     xadáal+V+Neg+Interr+Past+Hab: xadáalʼanggaangaa
+     xadáal+V+Neg+Indir+Past+Hab: xadáalʼanggaangaan
+     xadáal+V+Neg+Interr+Fut+Long: xadáalʼangäsaa
+     xadáal+V+Neg+Interr+Fut+Short: xadáalʼangäs
+     xadáal+V+Neg+Simp+Fut: xadáalʼangäsaang
+     xadáal+V+Neg+Imm+Fut: xadáalʼangäsga
+     xadáal+V+Neg+Rel+Fut: xadáalʼangäsaas
+     xadáal+V+Neg+Fut+NonFact: xadáalʼangäsaa.ang
+     xadáal+V+Neg+Interr+Near+Fut: xadáalang k̲asaaʼáng
+     xadáal+V+Neg+Near+Fut: xadáalang k̲asaaʼánggang
+     xadáal+V+Neg+Interr+VNear+Fut: xadáalang k̲asaasdläʼáng
+     xadáal+V+Neg+VNear+Fut: xadáalang k̲asaasdläʼánggang
+     xadáal+V+Neg+Bias+Imm+Pres: xadáalʼangʼuuj
+     xadáal+V+Neg+Bias+Simp+Pres: xadáalʼangʼuujang
+     xadáal+V+Neg+Res: xadáalʼangäsaaʼuujang
+     xadáal+V+Neg+Bias+Interr+Pres: xadáalʼangʼus
+     xadáal+V+Neg+Bias+Interr+Past: xadáalʼangʼujaa
+     xadáal+V+Neg+Bias+Interr+Past+Hab: xadáalʼangʼuujaangaa
+     xadáal+V+Neg+Bias+Interr+Fut: xadáalʼangäsaaʼus
+     xadáal+V+Neg+Cert+Pres: xadáalʼaangʼahlanggang
+     xadáal+V+Neg+Cert+Past: xadáalʼaangʼahlanggan
+     xadáal+V+Neg+Cert+Past+Hab: xadáalʼaangʼahlanggiinii
+     xadáal+V+Neg+Cert+Fut: xadáalʼangäsaaʼahlans
+     xadáal+V+Neg+Cert+Rel: xadáalʼaangʼahlans
+     xadáal+V+Neg+Ints+Past: xadáalʼaangaaʼahlang
+     xadáal+V+Neg+Cont: xadáalʼaangaaʼahlanggaa
+     xadáal+V+Neg+Ctfact+Pres: xadáalʼaangaaʼahlanggang
+     xadáal+V+Neg+Rflx: xadáalʼaangʼahl
+     xadáal+V+Neg+Fut+Rflx+Interr: xadáalʼangäseehl
+     xadáal+V+Neg+Pl+Impv: xadáalʼangʼuu
+     xadáal+V+Neg+3pl+Imm+Pres: xadáalʼangʼwaa
+     xadáal+V+Neg+3pl+Interr+Simp+Pres: xadáalʼangʼwaa
+     xadáal+V+Neg+3pl+Simp+Pres: xadáalʼangʼwaang
+     xadáal+V+Neg+3pl+Dir+Past: xadáalʼangʼwägan
+     xadáal+V+Neg+3pl+Interr+Past: xadáalʼangʼaawaa
+     xadáal+V+Neg+3pl+Indir+Past: xadáalʼangʼaawaan
+     xadáal+V+Neg+3pl+Rel: xadáalʼangʼwaas
+     xadáal+V+Neg+3pl+Rel+Evid: xadáalʼangʼaawaas
+     xadáal+V+Neg+3pl+NonFact: xadáalʼangʼwaa.ang
+     xadáal+V+Neg+3pl+Past+NonFact: xadáalʼangʼaawaa.ang
+     xadáal+V+Neg+3pl+Interr+Pres+Hab: xadáalgangʼangʼwaa
+     xadáal+V+Neg+3pl+Pres+Hab: xadáalgangʼangʼwaang
+     xadáal+V+Neg+3pl+Pres+Hab+NonFact: xadáalgangʼangʼwaa.ang
+     xadáal+V+Neg+3pl+Dir+Past+Hab: xadáalʼangʼwägiinii
+     xadáal+V+Neg+3pl+Interr+Past+Hab: xadáalʼangʼwägaangaa
+     xadáal+V+Neg+3pl+Indir+Past+Hab: xadáalʼangʼwägaangaan
+     xadáal+V+Neg+3pl+Interr+Fut+Long: xadáalʼangʼwaaäsaa
+     xadáal+V+Neg+3pl+Interr+Fut+Short: xadáalʼangʼwaaäs
+     xadáal+V+Neg+3pl+Simp+Fut: xadáalʼangʼwaaäsaang
+     xadáal+V+Neg+3pl+Imm+Fut: xadáalʼangʼwaaäsga
+     xadáal+V+Neg+3pl+Rel+Fut: xadáalʼangʼwaaäsaas
+     xadáal+V+Neg+3pl+Fut+NonFact: xadáalʼangʼwaaäsaa.ang
+     xadáal+V+Neg+3pl+Interr+Near+Fut: xadáalʼwaa.ang k̲asaaʼáng
+     xadáal+V+Neg+3pl+Near+Fut: xadáalʼwaa.ang k̲asaaʼánggang
+     xadáal+V+Neg+3pl+Interr+VNear+Fut: xadáalʼwaa.ang k̲asaasdläʼáng
+     xadáal+V+Neg+3pl+VNear+Fut: xadáalʼwaa.ang k̲asaasdläʼánggang
+     xadáal+V+Neg+3pl+Bias+Imm+Pres: xadáalʼangʼwaaʼuuj
+     xadáal+V+Neg+3pl+Bias+Simp+Pres: xadáalʼangʼwaaʼuujang
+     xadáal+V+Neg+3pl+Res: xadáalʼangʼwaaäsaaʼuujang
+     xadáal+V+Neg+3pl+Bias+Interr+Pres: xadáalʼangʼwaaʼus
+     xadáal+V+Neg+3pl+Bias+Interr+Past: xadáalʼangʼwaaʼujaa
+     xadáal+V+Neg+3pl+Bias+Interr+Past+Hab: xadáalʼangʼwaaʼuujaangaa
+     xadáal+V+Neg+3pl+Bias+Interr+Fut: xadáalʼangʼwaaäsaaʼus
+     xadáal+V+Neg+3pl+Cert+Pres: xadáalʼangʼwaaʼahlanggang
+     xadáal+V+Neg+3pl+Cert+Past: xadáalʼangʼwaaʼahlanggan
+     xadáal+V+Neg+3pl+Cert+Past+Hab: xadáalʼangʼwaaʼahlanggiinii
+     xadáal+V+Neg+3pl+Cert+Fut: xadáalʼangʼwaaäsaaʼahlans
+     xadáal+V+Neg+3pl+Cert+Rel: xadáalʼangʼwaaʼahlans
+     xadáal+V+Neg+3pl+Ints+Past: xadáalʼangʼaawaaʼahlang
+     xadáal+V+Neg+3pl+Cont: xadáalʼangʼaawaaʼahlanggaa
+     xadáal+V+Neg+3pl+Ctfact+Pres: xadáalʼangʼaawaaʼahlanggang
+     xadáal+V+Neg+3pl+Rflx: xadáalʼangʼwaaʼahl
+     xadáal+V+Neg+3pl+Fut+Rflx+Interr: xadáalʼangʼwaaäseehl
 

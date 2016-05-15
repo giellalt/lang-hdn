@@ -11,168 +11,168 @@ Tests:
 
   Verb - ta kún - ENGLISH : # CLASS_UN_STEM_1
 
-     ta kún+V+SG+IMPV: ta kún
-     ta kún+V+IMM+PRES: ta kún.ga
-     ta kún+V+INTERR+SIMP+PRES: ta kún
-     ta kún+V+SIMP+PRES: ta kún.gang
-     ta kún+V+DIR+PAST: ta kún.gan
-     ta kún+V+REL: ta kúns
-     ta kún+V+NONFACT: ta kúnang
-     ta kún+V+INTERR+PRES+HAB: ta kún.gang
-     ta kún+V+PRES+HAB: ta kún.ganggang
-     ta kún+V+PRES+HAB+NONFACT: ta kún.gangang
-     ta kún+V+DIR+PAST+HAB: ta kún.giinii
-     ta kún+V+INTERR+PAST+HAB: ta kún.gaangaa
-     ta kún+V+INDIR+PAST+HAB: ta kún.gaangaan
-     ta kún+V+INTERR+FUT+LONG: ta kúnäsaa
-     ta kún+V+INTERR+FUT+SHORT: ta kúnäs
-     ta kún+V+SIMP+FUT: ta kúnäsaang
-     ta kún+V+IMM+FUT: ta kúnäsga
-     ta kún+V+REL+FUT: ta kúnäsaas
-     ta kún+V+FUT+NONFACT: ta kúnäsaa.ang
-     ta kún+V+INTERR+NEAR+FUT: ta kúnang k̲asa'áa
-     ta kún+V+NEAR+FUT: ta kúnang k̲asa'áang
-     ta kún+V+INTERR+VNEAR+FUT: ta kúnang k̲asaasdláa
-     ta kún+V+VNEAR+FUT: ta kúnang k̲asaasdláang
-     ta kún+V+BIAS+IMM+PRES: ta kún'uuj
-     ta kún+V+BIAS+SIMP+PRES: ta kún'uujang
-     ta kún+V+RES: ta kúnäsaa'uujang
-     ta kún+V+BIAS+INTERR+PRES: ta kún'us
-     ta kún+V+BIAS+INTERR+PAST: ta kún'ujaa
-     ta kún+V+BIAS+INTERR+PAST+HAB: ta kún'uujaangaa
-     ta kún+V+BIAS+INTERR+FUT: ta kúnäsaa'us
-     ta kún+V+CERT+FUT: ta kúnäsaa'ahlans
-     ta kún+V+FUT+RFLX+INTERR: ta kúnäseehl
-     ta kún+V+PL+IMPV: ta kún'uu
-     ta kún+V+3PL+IMM+PRES: ta kún'waa
-     ta kún+V+3PL+INTERR+SIMP+PRES: ta kún'waa
-     ta kún+V+3PL+SIMP+PRES: ta kún'waang
-     ta kún+V+3PL+DIR+PAST: ta kún'wägan
-     ta kún+V+3PL+INTERR+PAST: ta kún'aawaa
-     ta kún+V+3PL+INDIR+PAST: ta kún'aawaan
-     ta kún+V+3PL+REL: ta kún'waas
-     ta kún+V+3PL+REL+EVID: ta kún'aawaas
-     ta kún+V+3PL+NONFACT: ta kún'waa.ang
-     ta kún+V+3PL+PAST+NONFACT: ta kún'aawaa.ang
-     ta kún+V+3PL+INTERR+PRES+HAB: ta kún.gang'waa
-     ta kún+V+3PL+PRES+HAB: ta kún.gang'waang
-     ta kún+V+3PL+PRES+HAB+NONFACT: ta kún.gang'waa.ang
-     ta kún+V+3PL+DIR+PAST+HAB: ta kún'wägiinii
-     ta kún+V+3PL+INTERR+PAST+HAB: ta kún'wägaangaa
-     ta kún+V+3PL+INDIR+PAST+HAB: ta kún'wägaangaan
-     ta kún+V+3PL+INTERR+FUT+LONG: ta kún'waaäsaa
-     ta kún+V+3PL+INTERR+FUT+SHORT: ta kún'waaäs
-     ta kún+V+3PL+SIMP+FUT: ta kún'waaäsaang
-     ta kún+V+3PL+IMM+FUT: ta kún'waaäsga
-     ta kún+V+3PL+REL+FUT: ta kún'waaäsaas
-     ta kún+V+3PL+FUT+NONFACT: ta kún'waaäsaa.ang
-     ta kún+V+3PL+INTERR+NEAR+FUT: ta kún'waa.ang k̲asa'áa
-     ta kún+V+3PL+NEAR+FUT: ta kún'waa.ang k̲asa'áang
-     ta kún+V+3PL+INTERR+VNEAR+FUT: ta kún'waa.ang k̲asaasdláa
-     ta kún+V+3PL+VNEAR+FUT: ta kún'waa.ang k̲asaasdláang
-     ta kún+V+3PL+BIAS+IMM+PRES: ta kún'waa'uuj
-     ta kún+V+3PL+BIAS+SIMP+PRES: ta kún'waa'uujang
-     ta kún+V+3PL+RES: ta kún'waaäsaa'uujang
-     ta kún+V+3PL+BIAS+INTERR+PRES: ta kún'waa'us
-     ta kún+V+3PL+BIAS+INTERR+PAST: ta kún'waa'ujaa
-     ta kún+V+3PL+BIAS+INTERR+PAST+HAB: ta kún'waa'uujaangaa
-     ta kún+V+3PL+BIAS+INTERR+FUT: ta kún'waaäsaa'us
-     ta kún+V+3PL+CERT+PRES: ta kún'waa'ahlanggang
-     ta kún+V+3PL+CERT+PAST: ta kún'waa'ahlanggan
-     ta kún+V+3PL+CERT+PAST+HAB: ta kún'waa'ahlanggiinii
-     ta kún+V+3PL+CERT+FUT: ta kún'waaäsaa'ahlans
-     ta kún+V+3PL+CERT+REL: ta kún'waa'ahlans
-     ta kún+V+3PL+INTS+PAST: ta kún'aawaa'ahlang
-     ta kún+V+3PL+CONT: ta kún'aawaa'ahlanggaa
-     ta kún+V+3PL+CTFACT+PRES: ta kún'aawaa'ahlanggang
-     ta kún+V+3PL+RFLX: ta kún'waa'ahl
-     ta kún+V+3PL+FUT+RFLX+INTERR: ta kún'waaäseehl
-     ta kún+V+NEG+SG+IMPV: ta kún'ang
-     ta kún+V+NEG+IMM+PRES: ta kún'angga
-     ta kún+V+NEG+INTERR+SIMP+PRES: ta kún'ang
-     ta kún+V+NEG+SIMP+PRES: ta kún'anggang
-     ta kún+V+NEG+DIR+PAST: ta kún'anggan
-     ta kún+V+NEG+INTERR+PAST: ta kún'aangaa
-     ta kún+V+NEG+INDIR+PAST: ta kún'aangaan
-     ta kún+V+NEG+REL: ta kún'ans
-     ta kún+V+NEG+REL+EVID: ta kún'aangaas
-     ta kún+V+NEG+NONFACT: ta kún'angang
-     ta kún+V+NEG+PAST+NONFACT: ta kún'aangaa.ang
-     ta kún+V+NEG+INTERR+PRES+HAB: ta kún'anggang
-     ta kún+V+NEG+PRES+HAB: ta kún.gang'anggang
-     ta kún+V+NEG+PRES+HAB+NONFACT: ta kún.gang'angang
-     ta kún+V+NEG+DIR+PAST+HAB: ta kún'anggiinii
-     ta kún+V+NEG+INTERR+PAST+HAB: ta kún'anggaangaa
-     ta kún+V+NEG+INDIR+PAST+HAB: ta kún'anggaangaan
-     ta kún+V+NEG+INTERR+FUT+LONG: ta kún'angäsaa
-     ta kún+V+NEG+INTERR+FUT+SHORT: ta kún'angäs
-     ta kún+V+NEG+SIMP+FUT: ta kún'angäsaang
-     ta kún+V+NEG+IMM+FUT: ta kún'angäsga
-     ta kún+V+NEG+REL+FUT: ta kún'angäsaas
-     ta kún+V+NEG+FUT+NONFACT: ta kún'angäsaa.ang
-     ta kún+V+NEG+INTERR+NEAR+FUT: ta kúnang k̲asaa'áng
-     ta kún+V+NEG+NEAR+FUT: ta kúnang k̲asaa'ánggang
-     ta kún+V+NEG+INTERR+VNEAR+FUT: ta kúnang k̲asaasdlä'áng
-     ta kún+V+NEG+VNEAR+FUT: ta kúnang k̲asaasdlä'ánggang
-     ta kún+V+NEG+BIAS+IMM+PRES: ta kún'ang'uuj
-     ta kún+V+NEG+BIAS+SIMP+PRES: ta kún'ang'uujang
-     ta kún+V+NEG+RES: ta kún'angäsaa'uujang
-     ta kún+V+NEG+BIAS+INTERR+PRES: ta kún'ang'us
-     ta kún+V+NEG+BIAS+INTERR+PAST: ta kún'ang'ujaa
-     ta kún+V+NEG+BIAS+INTERR+PAST+HAB: ta kún'ang'uujaangaa
-     ta kún+V+NEG+BIAS+INTERR+FUT: ta kún'angäsaa'us
-     ta kún+V+NEG+CERT+PRES: ta kún'aang'ahlanggang
-     ta kún+V+NEG+CERT+PAST: ta kún'aang'ahlanggan
-     ta kún+V+NEG+CERT+PAST+HAB: ta kún'aang'ahlanggiinii
-     ta kún+V+NEG+CERT+FUT: ta kún'angäsaa'ahlans
-     ta kún+V+NEG+CERT+REL: ta kún'aang'ahlans
-     ta kún+V+NEG+INTS+PAST: ta kún'aangaa'ahlang
-     ta kún+V+NEG+CONT: ta kún'aangaa'ahlanggaa
-     ta kún+V+NEG+CTFACT+PRES: ta kún'aangaa'ahlanggang
-     ta kún+V+NEG+RFLX: ta kún'aang'ahl
-     ta kún+V+NEG+FUT+RFLX+INTERR: ta kún'angäseehl
-     ta kún+V+NEG+PL+IMPV: ta kún'ang'uu
-     ta kún+V+NEG+3PL+IMM+PRES: ta kún'ang'waa
-     ta kún+V+NEG+3PL+INTERR+SIMP+PRES: ta kún'ang'waa
-     ta kún+V+NEG+3PL+SIMP+PRES: ta kún'ang'waang
-     ta kún+V+NEG+3PL+DIR+PAST: ta kún'ang'wägan
-     ta kún+V+NEG+3PL+INTERR+PAST: ta kún'ang'aawaa
-     ta kún+V+NEG+3PL+INDIR+PAST: ta kún'ang'aawaan
-     ta kún+V+NEG+3PL+REL: ta kún'ang'waas
-     ta kún+V+NEG+3PL+REL+EVID: ta kún'ang'aawaas
-     ta kún+V+NEG+3PL+NONFACT: ta kún'ang'waa.ang
-     ta kún+V+NEG+3PL+PAST+NONFACT: ta kún'ang'aawaa.ang
-     ta kún+V+NEG+3PL+INTERR+PRES+HAB: ta kún.gang'ang'waa
-     ta kún+V+NEG+3PL+PRES+HAB: ta kún.gang'ang'waang
-     ta kún+V+NEG+3PL+PRES+HAB+NONFACT: ta kún.gang'ang'waa.ang
-     ta kún+V+NEG+3PL+DIR+PAST+HAB: ta kún'ang'wägiinii
-     ta kún+V+NEG+3PL+INTERR+PAST+HAB: ta kún'ang'wägaangaa
-     ta kún+V+NEG+3PL+INDIR+PAST+HAB: ta kún'ang'wägaangaan
-     ta kún+V+NEG+3PL+INTERR+FUT+LONG: ta kún'ang'waaäsaa
-     ta kún+V+NEG+3PL+INTERR+FUT+SHORT: ta kún'ang'waaäs
-     ta kún+V+NEG+3PL+SIMP+FUT: ta kún'ang'waaäsaang
-     ta kún+V+NEG+3PL+IMM+FUT: ta kún'ang'waaäsga
-     ta kún+V+NEG+3PL+REL+FUT: ta kún'ang'waaäsaas
-     ta kún+V+NEG+3PL+FUT+NONFACT: ta kún'ang'waaäsaa.ang
-     ta kún+V+NEG+3PL+INTERR+NEAR+FUT: ta kún'waa.ang k̲asaa'áng
-     ta kún+V+NEG+3PL+NEAR+FUT: ta kún'waa.ang k̲asaa'ánggang
-     ta kún+V+NEG+3PL+INTERR+VNEAR+FUT: ta kún'waa.ang k̲asaasdlä'áng
-     ta kún+V+NEG+3PL+VNEAR+FUT: ta kún'waa.ang k̲asaasdlä'ánggang
-     ta kún+V+NEG+3PL+BIAS+IMM+PRES: ta kún'ang'waa'uuj
-     ta kún+V+NEG+3PL+BIAS+SIMP+PRES: ta kún'ang'waa'uujang
-     ta kún+V+NEG+3PL+RES: ta kún'ang'waaäsaa'uujang
-     ta kún+V+NEG+3PL+BIAS+INTERR+PRES: ta kún'ang'waa'us
-     ta kún+V+NEG+3PL+BIAS+INTERR+PAST: ta kún'ang'waa'ujaa
-     ta kún+V+NEG+3PL+BIAS+INTERR+PAST+HAB: ta kún'ang'waa'uujaangaa
-     ta kún+V+NEG+3PL+BIAS+INTERR+FUT: ta kún'ang'waaäsaa'us
-     ta kún+V+NEG+3PL+CERT+PRES: ta kún'ang'waa'ahlanggang
-     ta kún+V+NEG+3PL+CERT+PAST: ta kún'ang'waa'ahlanggan
-     ta kún+V+NEG+3PL+CERT+PAST+HAB: ta kún'ang'waa'ahlanggiinii
-     ta kún+V+NEG+3PL+CERT+FUT: ta kún'ang'waaäsaa'ahlans
-     ta kún+V+NEG+3PL+CERT+REL: ta kún'ang'waa'ahlans
-     ta kún+V+NEG+3PL+INTS+PAST: ta kún'ang'aawaa'ahlang
-     ta kún+V+NEG+3PL+CONT: ta kún'ang'aawaa'ahlanggaa
-     ta kún+V+NEG+3PL+CTFACT+PRES: ta kún'ang'aawaa'ahlanggang
-     ta kún+V+NEG+3PL+RFLX: ta kún'ang'waa'ahl
-     ta kún+V+NEG+3PL+FUT+RFLX+INTERR: ta kún'ang'waaäseehl
+     ta kún+V+Sg+Impv: ta kún
+     ta kún+V+Imm+Pres: ta kún.ga
+     ta kún+V+Interr+Simp+Pres: ta kún
+     ta kún+V+Simp+Pres: ta kún.gang
+     ta kún+V+Dir+Past: ta kún.gan
+     ta kún+V+Rel: ta kúns
+     ta kún+V+NonFact: ta kúnang
+     ta kún+V+Interr+Pres+Hab: ta kún.gang
+     ta kún+V+Pres+Hab: ta kún.ganggang
+     ta kún+V+Pres+Hab+NonFact: ta kún.gangang
+     ta kún+V+Dir+Past+Hab: ta kún.giinii
+     ta kún+V+Interr+Past+Hab: ta kún.gaangaa
+     ta kún+V+Indir+Past+Hab: ta kún.gaangaan
+     ta kún+V+Interr+Fut+Long: ta kúnäsaa
+     ta kún+V+Interr+Fut+Short: ta kúnäs
+     ta kún+V+Simp+Fut: ta kúnäsaang
+     ta kún+V+Imm+Fut: ta kúnäsga
+     ta kún+V+Rel+Fut: ta kúnäsaas
+     ta kún+V+Fut+NonFact: ta kúnäsaa.ang
+     ta kún+V+Interr+Near+Fut: ta kúnang k̲asaʼáa
+     ta kún+V+Near+Fut: ta kúnang k̲asaʼáang
+     ta kún+V+Interr+VNear+Fut: ta kúnang k̲asaasdláa
+     ta kún+V+VNear+Fut: ta kúnang k̲asaasdláang
+     ta kún+V+Bias+Imm+Pres: ta kúnʼuuj
+     ta kún+V+Bias+Simp+Pres: ta kúnʼuujang
+     ta kún+V+Res: ta kúnäsaaʼuujang
+     ta kún+V+Bias+Interr+Pres: ta kúnʼus
+     ta kún+V+Bias+Interr+Past: ta kúnʼujaa
+     ta kún+V+Bias+Interr+Past+Hab: ta kúnʼuujaangaa
+     ta kún+V+Bias+Interr+Fut: ta kúnäsaaʼus
+     ta kún+V+Cert+Fut: ta kúnäsaaʼahlans
+     ta kún+V+Fut+Rflx+Interr: ta kúnäseehl
+     ta kún+V+Pl+Impv: ta kúnʼuu
+     ta kún+V+3pl+Imm+Pres: ta kúnʼwaa
+     ta kún+V+3pl+Interr+Simp+Pres: ta kúnʼwaa
+     ta kún+V+3pl+Simp+Pres: ta kúnʼwaang
+     ta kún+V+3pl+Dir+Past: ta kúnʼwägan
+     ta kún+V+3pl+Interr+Past: ta kúnʼaawaa
+     ta kún+V+3pl+Indir+Past: ta kúnʼaawaan
+     ta kún+V+3pl+Rel: ta kúnʼwaas
+     ta kún+V+3pl+Rel+Evid: ta kúnʼaawaas
+     ta kún+V+3pl+NonFact: ta kúnʼwaa.ang
+     ta kún+V+3pl+Past+NonFact: ta kúnʼaawaa.ang
+     ta kún+V+3pl+Interr+Pres+Hab: ta kún.gangʼwaa
+     ta kún+V+3pl+Pres+Hab: ta kún.gangʼwaang
+     ta kún+V+3pl+Pres+Hab+NonFact: ta kún.gangʼwaa.ang
+     ta kún+V+3pl+Dir+Past+Hab: ta kúnʼwägiinii
+     ta kún+V+3pl+Interr+Past+Hab: ta kúnʼwägaangaa
+     ta kún+V+3pl+Indir+Past+Hab: ta kúnʼwägaangaan
+     ta kún+V+3pl+Interr+Fut+Long: ta kúnʼwaaäsaa
+     ta kún+V+3pl+Interr+Fut+Short: ta kúnʼwaaäs
+     ta kún+V+3pl+Simp+Fut: ta kúnʼwaaäsaang
+     ta kún+V+3pl+Imm+Fut: ta kúnʼwaaäsga
+     ta kún+V+3pl+Rel+Fut: ta kúnʼwaaäsaas
+     ta kún+V+3pl+Fut+NonFact: ta kúnʼwaaäsaa.ang
+     ta kún+V+3pl+Interr+Near+Fut: ta kúnʼwaa.ang k̲asaʼáa
+     ta kún+V+3pl+Near+Fut: ta kúnʼwaa.ang k̲asaʼáang
+     ta kún+V+3pl+Interr+VNear+Fut: ta kúnʼwaa.ang k̲asaasdláa
+     ta kún+V+3pl+VNear+Fut: ta kúnʼwaa.ang k̲asaasdláang
+     ta kún+V+3pl+Bias+Imm+Pres: ta kúnʼwaaʼuuj
+     ta kún+V+3pl+Bias+Simp+Pres: ta kúnʼwaaʼuujang
+     ta kún+V+3pl+Res: ta kúnʼwaaäsaaʼuujang
+     ta kún+V+3pl+Bias+Interr+Pres: ta kúnʼwaaʼus
+     ta kún+V+3pl+Bias+Interr+Past: ta kúnʼwaaʼujaa
+     ta kún+V+3pl+Bias+Interr+Past+Hab: ta kúnʼwaaʼuujaangaa
+     ta kún+V+3pl+Bias+Interr+Fut: ta kúnʼwaaäsaaʼus
+     ta kún+V+3pl+Cert+Pres: ta kúnʼwaaʼahlanggang
+     ta kún+V+3pl+Cert+Past: ta kúnʼwaaʼahlanggan
+     ta kún+V+3pl+Cert+Past+Hab: ta kúnʼwaaʼahlanggiinii
+     ta kún+V+3pl+Cert+Fut: ta kúnʼwaaäsaaʼahlans
+     ta kún+V+3pl+Cert+Rel: ta kúnʼwaaʼahlans
+     ta kún+V+3pl+Ints+Past: ta kúnʼaawaaʼahlang
+     ta kún+V+3pl+Cont: ta kúnʼaawaaʼahlanggaa
+     ta kún+V+3pl+Ctfact+Pres: ta kúnʼaawaaʼahlanggang
+     ta kún+V+3pl+Rflx: ta kúnʼwaaʼahl
+     ta kún+V+3pl+Fut+Rflx+Interr: ta kúnʼwaaäseehl
+     ta kún+V+Neg+Sg+Impv: ta kúnʼang
+     ta kún+V+Neg+Imm+Pres: ta kúnʼangga
+     ta kún+V+Neg+Interr+Simp+Pres: ta kúnʼang
+     ta kún+V+Neg+Simp+Pres: ta kúnʼanggang
+     ta kún+V+Neg+Dir+Past: ta kúnʼanggan
+     ta kún+V+Neg+Interr+Past: ta kúnʼaangaa
+     ta kún+V+Neg+Indir+Past: ta kúnʼaangaan
+     ta kún+V+Neg+Rel: ta kúnʼans
+     ta kún+V+Neg+Rel+Evid: ta kúnʼaangaas
+     ta kún+V+Neg+NonFact: ta kúnʼangang
+     ta kún+V+Neg+Past+NonFact: ta kúnʼaangaa.ang
+     ta kún+V+Neg+Interr+Pres+Hab: ta kúnʼanggang
+     ta kún+V+Neg+Pres+Hab: ta kún.gangʼanggang
+     ta kún+V+Neg+Pres+Hab+NonFact: ta kún.gangʼangang
+     ta kún+V+Neg+Dir+Past+Hab: ta kúnʼanggiinii
+     ta kún+V+Neg+Interr+Past+Hab: ta kúnʼanggaangaa
+     ta kún+V+Neg+Indir+Past+Hab: ta kúnʼanggaangaan
+     ta kún+V+Neg+Interr+Fut+Long: ta kúnʼangäsaa
+     ta kún+V+Neg+Interr+Fut+Short: ta kúnʼangäs
+     ta kún+V+Neg+Simp+Fut: ta kúnʼangäsaang
+     ta kún+V+Neg+Imm+Fut: ta kúnʼangäsga
+     ta kún+V+Neg+Rel+Fut: ta kúnʼangäsaas
+     ta kún+V+Neg+Fut+NonFact: ta kúnʼangäsaa.ang
+     ta kún+V+Neg+Interr+Near+Fut: ta kúnang k̲asaaʼáng
+     ta kún+V+Neg+Near+Fut: ta kúnang k̲asaaʼánggang
+     ta kún+V+Neg+Interr+VNear+Fut: ta kúnang k̲asaasdläʼáng
+     ta kún+V+Neg+VNear+Fut: ta kúnang k̲asaasdläʼánggang
+     ta kún+V+Neg+Bias+Imm+Pres: ta kúnʼangʼuuj
+     ta kún+V+Neg+Bias+Simp+Pres: ta kúnʼangʼuujang
+     ta kún+V+Neg+Res: ta kúnʼangäsaaʼuujang
+     ta kún+V+Neg+Bias+Interr+Pres: ta kúnʼangʼus
+     ta kún+V+Neg+Bias+Interr+Past: ta kúnʼangʼujaa
+     ta kún+V+Neg+Bias+Interr+Past+Hab: ta kúnʼangʼuujaangaa
+     ta kún+V+Neg+Bias+Interr+Fut: ta kúnʼangäsaaʼus
+     ta kún+V+Neg+Cert+Pres: ta kúnʼaangʼahlanggang
+     ta kún+V+Neg+Cert+Past: ta kúnʼaangʼahlanggan
+     ta kún+V+Neg+Cert+Past+Hab: ta kúnʼaangʼahlanggiinii
+     ta kún+V+Neg+Cert+Fut: ta kúnʼangäsaaʼahlans
+     ta kún+V+Neg+Cert+Rel: ta kúnʼaangʼahlans
+     ta kún+V+Neg+Ints+Past: ta kúnʼaangaaʼahlang
+     ta kún+V+Neg+Cont: ta kúnʼaangaaʼahlanggaa
+     ta kún+V+Neg+Ctfact+Pres: ta kúnʼaangaaʼahlanggang
+     ta kún+V+Neg+Rflx: ta kúnʼaangʼahl
+     ta kún+V+Neg+Fut+Rflx+Interr: ta kúnʼangäseehl
+     ta kún+V+Neg+Pl+Impv: ta kúnʼangʼuu
+     ta kún+V+Neg+3pl+Imm+Pres: ta kúnʼangʼwaa
+     ta kún+V+Neg+3pl+Interr+Simp+Pres: ta kúnʼangʼwaa
+     ta kún+V+Neg+3pl+Simp+Pres: ta kúnʼangʼwaang
+     ta kún+V+Neg+3pl+Dir+Past: ta kúnʼangʼwägan
+     ta kún+V+Neg+3pl+Interr+Past: ta kúnʼangʼaawaa
+     ta kún+V+Neg+3pl+Indir+Past: ta kúnʼangʼaawaan
+     ta kún+V+Neg+3pl+Rel: ta kúnʼangʼwaas
+     ta kún+V+Neg+3pl+Rel+Evid: ta kúnʼangʼaawaas
+     ta kún+V+Neg+3pl+NonFact: ta kúnʼangʼwaa.ang
+     ta kún+V+Neg+3pl+Past+NonFact: ta kúnʼangʼaawaa.ang
+     ta kún+V+Neg+3pl+Interr+Pres+Hab: ta kún.gangʼangʼwaa
+     ta kún+V+Neg+3pl+Pres+Hab: ta kún.gangʼangʼwaang
+     ta kún+V+Neg+3pl+Pres+Hab+NonFact: ta kún.gangʼangʼwaa.ang
+     ta kún+V+Neg+3pl+Dir+Past+Hab: ta kúnʼangʼwägiinii
+     ta kún+V+Neg+3pl+Interr+Past+Hab: ta kúnʼangʼwägaangaa
+     ta kún+V+Neg+3pl+Indir+Past+Hab: ta kúnʼangʼwägaangaan
+     ta kún+V+Neg+3pl+Interr+Fut+Long: ta kúnʼangʼwaaäsaa
+     ta kún+V+Neg+3pl+Interr+Fut+Short: ta kúnʼangʼwaaäs
+     ta kún+V+Neg+3pl+Simp+Fut: ta kúnʼangʼwaaäsaang
+     ta kún+V+Neg+3pl+Imm+Fut: ta kúnʼangʼwaaäsga
+     ta kún+V+Neg+3pl+Rel+Fut: ta kúnʼangʼwaaäsaas
+     ta kún+V+Neg+3pl+Fut+NonFact: ta kúnʼangʼwaaäsaa.ang
+     ta kún+V+Neg+3pl+Interr+Near+Fut: ta kúnʼwaa.ang k̲asaaʼáng
+     ta kún+V+Neg+3pl+Near+Fut: ta kúnʼwaa.ang k̲asaaʼánggang
+     ta kún+V+Neg+3pl+Interr+VNear+Fut: ta kúnʼwaa.ang k̲asaasdläʼáng
+     ta kún+V+Neg+3pl+VNear+Fut: ta kúnʼwaa.ang k̲asaasdläʼánggang
+     ta kún+V+Neg+3pl+Bias+Imm+Pres: ta kúnʼangʼwaaʼuuj
+     ta kún+V+Neg+3pl+Bias+Simp+Pres: ta kúnʼangʼwaaʼuujang
+     ta kún+V+Neg+3pl+Res: ta kúnʼangʼwaaäsaaʼuujang
+     ta kún+V+Neg+3pl+Bias+Interr+Pres: ta kúnʼangʼwaaʼus
+     ta kún+V+Neg+3pl+Bias+Interr+Past: ta kúnʼangʼwaaʼujaa
+     ta kún+V+Neg+3pl+Bias+Interr+Past+Hab: ta kúnʼangʼwaaʼuujaangaa
+     ta kún+V+Neg+3pl+Bias+Interr+Fut: ta kúnʼangʼwaaäsaaʼus
+     ta kún+V+Neg+3pl+Cert+Pres: ta kúnʼangʼwaaʼahlanggang
+     ta kún+V+Neg+3pl+Cert+Past: ta kúnʼangʼwaaʼahlanggan
+     ta kún+V+Neg+3pl+Cert+Past+Hab: ta kúnʼangʼwaaʼahlanggiinii
+     ta kún+V+Neg+3pl+Cert+Fut: ta kúnʼangʼwaaäsaaʼahlans
+     ta kún+V+Neg+3pl+Cert+Rel: ta kúnʼangʼwaaʼahlans
+     ta kún+V+Neg+3pl+Ints+Past: ta kúnʼangʼaawaaʼahlang
+     ta kún+V+Neg+3pl+Cont: ta kúnʼangʼaawaaʼahlanggaa
+     ta kún+V+Neg+3pl+Ctfact+Pres: ta kúnʼangʼaawaaʼahlanggang
+     ta kún+V+Neg+3pl+Rflx: ta kúnʼangʼwaaʼahl
+     ta kún+V+Neg+3pl+Fut+Rflx+Interr: ta kúnʼangʼwaaäseehl
 

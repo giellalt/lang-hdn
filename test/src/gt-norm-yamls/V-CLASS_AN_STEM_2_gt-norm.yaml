@@ -11,16 +11,16 @@ Tests:
 
   Verb - dlán - ENGLISH : # CLASS_AN_STEM_2
 
-     dlán+V+INTERR+PAST: dláanaa
-     dlán+V+INDIR+PAST: dláanaan
-     dlán+V+REL+EVID: dláanaas
-     dlán+V+PAST+NONFACT: dláanaa.ang
-     dlán+V+CERT+PRES: dláan'ahlanggang
-     dlán+V+CERT+PAST: dláan'ahlanggan
-     dlán+V+CERT+PAST+HAB: dláan'ahlanggiinii
-     dlán+V+CERT+REL: dláan'ahlans
-     dlán+V+INTS+PAST: dláanaa'ahlang
-     dlán+V+CONT: dláanaa'ahlanggaa
-     dlán+V+CTFACT+PRES: dláanaa'ahlanggang
-     dlán+V+RFLX: dláan'ahl
+     dlán+V+Interr+Past: dláanaa
+     dlán+V+Indir+Past: dláanaan
+     dlán+V+Rel+Evid: dláanaas
+     dlán+V+Past+NonFact: dláanaa.ang
+     dlán+V+Cert+Pres: dláanʼahlanggang
+     dlán+V+Cert+Past: dláanʼahlanggan
+     dlán+V+Cert+Past+Hab: dláanʼahlanggiinii
+     dlán+V+Cert+Rel: dláanʼahlans
+     dlán+V+Ints+Past: dláanaaʼahlang
+     dlán+V+Cont: dláanaaʼahlanggaa
+     dlán+V+Ctfact+Pres: dláanaaʼahlanggang
+     dlán+V+Rflx: dláanʼahl
 

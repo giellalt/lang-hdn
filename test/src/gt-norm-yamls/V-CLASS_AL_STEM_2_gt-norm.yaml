@@ -11,16 +11,16 @@ Tests:
 
   Verb - sg̲ál - ENGLISH : # CLASS_AL_STEM_2
 
-     sg̲ál+V+INTERR+PAST: sg̲áalaa
-     sg̲ál+V+INDIR+PAST: sg̲áalaan
-     sg̲ál+V+REL+EVID: sg̲áalaas
-     sg̲ál+V+PAST+NONFACT: sg̲áalaa.ang
-     sg̲ál+V+CERT+PRES: sg̲áal'ahlanggang
-     sg̲ál+V+CERT+PAST: sg̲áal'ahlanggan
-     sg̲ál+V+CERT+PAST+HAB: sg̲áal'ahlanggiinii
-     sg̲ál+V+CERT+REL: sg̲áal'ahlans
-     sg̲ál+V+INTS+PAST: sg̲áalaa'ahlang
-     sg̲ál+V+CONT: sg̲áalaa'ahlanggaa
-     sg̲ál+V+CTFACT+PRES: sg̲áalaa'ahlanggang
-     sg̲ál+V+RFLX: sg̲áal'ahl
+     sg̲ál+V+Interr+Past: sg̲áalaa
+     sg̲ál+V+Indir+Past: sg̲áalaan
+     sg̲ál+V+Rel+Evid: sg̲áalaas
+     sg̲ál+V+Past+NonFact: sg̲áalaa.ang
+     sg̲ál+V+Cert+Pres: sg̲áalʼahlanggang
+     sg̲ál+V+Cert+Past: sg̲áalʼahlanggan
+     sg̲ál+V+Cert+Past+Hab: sg̲áalʼahlanggiinii
+     sg̲ál+V+Cert+Rel: sg̲áalʼahlans
+     sg̲ál+V+Ints+Past: sg̲áalaaʼahlang
+     sg̲ál+V+Cont: sg̲áalaaʼahlanggaa
+     sg̲ál+V+Ctfact+Pres: sg̲áalaaʼahlanggang
+     sg̲ál+V+Rflx: sg̲áalʼahl
 

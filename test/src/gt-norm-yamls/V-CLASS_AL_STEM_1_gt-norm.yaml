@@ -11,168 +11,168 @@ Tests:
 
   Verb - sg̲ál - ENGLISH : # CLASS_AL_STEM_1
 
-     sg̲ál+V+SG+IMPV: sg̲ál
-     sg̲ál+V+IMM+PRES: sg̲álga
-     sg̲ál+V+INTERR+SIMP+PRES: sg̲ál
-     sg̲ál+V+SIMP+PRES: sg̲álgang
-     sg̲ál+V+DIR+PAST: sg̲álgan
-     sg̲ál+V+REL: sg̲áls
-     sg̲ál+V+NONFACT: sg̲álang
-     sg̲ál+V+INTERR+PRES+HAB: sg̲álgang
-     sg̲ál+V+PRES+HAB: sg̲álganggang
-     sg̲ál+V+PRES+HAB+NONFACT: sg̲álgangang
-     sg̲ál+V+DIR+PAST+HAB: sg̲álgiinii
-     sg̲ál+V+INTERR+PAST+HAB: sg̲álgaangaa
-     sg̲ál+V+INDIR+PAST+HAB: sg̲álgaangaan
-     sg̲ál+V+INTERR+FUT+LONG: sg̲áläsaa
-     sg̲ál+V+INTERR+FUT+SHORT: sg̲áläs
-     sg̲ál+V+SIMP+FUT: sg̲áläsaang
-     sg̲ál+V+IMM+FUT: sg̲áläsga
-     sg̲ál+V+REL+FUT: sg̲áläsaas
-     sg̲ál+V+FUT+NONFACT: sg̲áläsaa.ang
-     sg̲ál+V+INTERR+NEAR+FUT: sg̲álang k̲asa'áa
-     sg̲ál+V+NEAR+FUT: sg̲álang k̲asa'áang
-     sg̲ál+V+INTERR+VNEAR+FUT: sg̲álang k̲asaasdláa
-     sg̲ál+V+VNEAR+FUT: sg̲álang k̲asaasdláang
-     sg̲ál+V+BIAS+IMM+PRES: sg̲ál'uuj
-     sg̲ál+V+BIAS+SIMP+PRES: sg̲ál'uujang
-     sg̲ál+V+RES: sg̲áläsaa'uujang
-     sg̲ál+V+BIAS+INTERR+PRES: sg̲ál'us
-     sg̲ál+V+BIAS+INTERR+PAST: sg̲ál'ujaa
-     sg̲ál+V+BIAS+INTERR+PAST+HAB: sg̲ál'uujaangaa
-     sg̲ál+V+BIAS+INTERR+FUT: sg̲áläsaa'us
-     sg̲ál+V+CERT+FUT: sg̲áläsaa'ahlans
-     sg̲ál+V+FUT+RFLX+INTERR: sg̲áläseehl
-     sg̲ál+V+PL+IMPV: sg̲ál'uu
-     sg̲ál+V+3PL+IMM+PRES: sg̲ál'waa
-     sg̲ál+V+3PL+INTERR+SIMP+PRES: sg̲ál'waa
-     sg̲ál+V+3PL+SIMP+PRES: sg̲ál'waang
-     sg̲ál+V+3PL+DIR+PAST: sg̲ál'wägan
-     sg̲ál+V+3PL+INTERR+PAST: sg̲ál'aawaa
-     sg̲ál+V+3PL+INDIR+PAST: sg̲ál'aawaan
-     sg̲ál+V+3PL+REL: sg̲ál'waas
-     sg̲ál+V+3PL+REL+EVID: sg̲ál'aawaas
-     sg̲ál+V+3PL+NONFACT: sg̲ál'waa.ang
-     sg̲ál+V+3PL+PAST+NONFACT: sg̲ál'aawaa.ang
-     sg̲ál+V+3PL+INTERR+PRES+HAB: sg̲álgang'waa
-     sg̲ál+V+3PL+PRES+HAB: sg̲álgang'waang
-     sg̲ál+V+3PL+PRES+HAB+NONFACT: sg̲álgang'waa.ang
-     sg̲ál+V+3PL+DIR+PAST+HAB: sg̲ál'wägiinii
-     sg̲ál+V+3PL+INTERR+PAST+HAB: sg̲ál'wägaangaa
-     sg̲ál+V+3PL+INDIR+PAST+HAB: sg̲ál'wägaangaan
-     sg̲ál+V+3PL+INTERR+FUT+LONG: sg̲ál'waaäsaa
-     sg̲ál+V+3PL+INTERR+FUT+SHORT: sg̲ál'waaäs
-     sg̲ál+V+3PL+SIMP+FUT: sg̲ál'waaäsaang
-     sg̲ál+V+3PL+IMM+FUT: sg̲ál'waaäsga
-     sg̲ál+V+3PL+REL+FUT: sg̲ál'waaäsaas
-     sg̲ál+V+3PL+FUT+NONFACT: sg̲ál'waaäsaa.ang
-     sg̲ál+V+3PL+INTERR+NEAR+FUT: sg̲ál'waa.ang k̲asa'áa
-     sg̲ál+V+3PL+NEAR+FUT: sg̲ál'waa.ang k̲asa'áang
-     sg̲ál+V+3PL+INTERR+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdláa
-     sg̲ál+V+3PL+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdláang
-     sg̲ál+V+3PL+BIAS+IMM+PRES: sg̲ál'waa'uuj
-     sg̲ál+V+3PL+BIAS+SIMP+PRES: sg̲ál'waa'uujang
-     sg̲ál+V+3PL+RES: sg̲ál'waaäsaa'uujang
-     sg̲ál+V+3PL+BIAS+INTERR+PRES: sg̲ál'waa'us
-     sg̲ál+V+3PL+BIAS+INTERR+PAST: sg̲ál'waa'ujaa
-     sg̲ál+V+3PL+BIAS+INTERR+PAST+HAB: sg̲ál'waa'uujaangaa
-     sg̲ál+V+3PL+BIAS+INTERR+FUT: sg̲ál'waaäsaa'us
-     sg̲ál+V+3PL+CERT+PRES: sg̲ál'waa'ahlanggang
-     sg̲ál+V+3PL+CERT+PAST: sg̲ál'waa'ahlanggan
-     sg̲ál+V+3PL+CERT+PAST+HAB: sg̲ál'waa'ahlanggiinii
-     sg̲ál+V+3PL+CERT+FUT: sg̲ál'waaäsaa'ahlans
-     sg̲ál+V+3PL+CERT+REL: sg̲ál'waa'ahlans
-     sg̲ál+V+3PL+INTS+PAST: sg̲ál'aawaa'ahlang
-     sg̲ál+V+3PL+CONT: sg̲ál'aawaa'ahlanggaa
-     sg̲ál+V+3PL+CTFACT+PRES: sg̲ál'aawaa'ahlanggang
-     sg̲ál+V+3PL+RFLX: sg̲ál'waa'ahl
-     sg̲ál+V+3PL+FUT+RFLX+INTERR: sg̲ál'waaäseehl
-     sg̲ál+V+NEG+SG+IMPV: sg̲ál'ang
-     sg̲ál+V+NEG+IMM+PRES: sg̲ál'angga
-     sg̲ál+V+NEG+INTERR+SIMP+PRES: sg̲ál'ang
-     sg̲ál+V+NEG+SIMP+PRES: sg̲ál'anggang
-     sg̲ál+V+NEG+DIR+PAST: sg̲ál'anggan
-     sg̲ál+V+NEG+INTERR+PAST: sg̲ál'aangaa
-     sg̲ál+V+NEG+INDIR+PAST: sg̲ál'aangaan
-     sg̲ál+V+NEG+REL: sg̲ál'ans
-     sg̲ál+V+NEG+REL+EVID: sg̲ál'aangaas
-     sg̲ál+V+NEG+NONFACT: sg̲ál'angang
-     sg̲ál+V+NEG+PAST+NONFACT: sg̲ál'aangaa.ang
-     sg̲ál+V+NEG+INTERR+PRES+HAB: sg̲ál'anggang
-     sg̲ál+V+NEG+PRES+HAB: sg̲álgang'anggang
-     sg̲ál+V+NEG+PRES+HAB+NONFACT: sg̲álgang'angang
-     sg̲ál+V+NEG+DIR+PAST+HAB: sg̲ál'anggiinii
-     sg̲ál+V+NEG+INTERR+PAST+HAB: sg̲ál'anggaangaa
-     sg̲ál+V+NEG+INDIR+PAST+HAB: sg̲ál'anggaangaan
-     sg̲ál+V+NEG+INTERR+FUT+LONG: sg̲ál'angäsaa
-     sg̲ál+V+NEG+INTERR+FUT+SHORT: sg̲ál'angäs
-     sg̲ál+V+NEG+SIMP+FUT: sg̲ál'angäsaang
-     sg̲ál+V+NEG+IMM+FUT: sg̲ál'angäsga
-     sg̲ál+V+NEG+REL+FUT: sg̲ál'angäsaas
-     sg̲ál+V+NEG+FUT+NONFACT: sg̲ál'angäsaa.ang
-     sg̲ál+V+NEG+INTERR+NEAR+FUT: sg̲álang k̲asaa'áng
-     sg̲ál+V+NEG+NEAR+FUT: sg̲álang k̲asaa'ánggang
-     sg̲ál+V+NEG+INTERR+VNEAR+FUT: sg̲álang k̲asaasdlä'áng
-     sg̲ál+V+NEG+VNEAR+FUT: sg̲álang k̲asaasdlä'ánggang
-     sg̲ál+V+NEG+BIAS+IMM+PRES: sg̲ál'ang'uuj
-     sg̲ál+V+NEG+BIAS+SIMP+PRES: sg̲ál'ang'uujang
-     sg̲ál+V+NEG+RES: sg̲ál'angäsaa'uujang
-     sg̲ál+V+NEG+BIAS+INTERR+PRES: sg̲ál'ang'us
-     sg̲ál+V+NEG+BIAS+INTERR+PAST: sg̲ál'ang'ujaa
-     sg̲ál+V+NEG+BIAS+INTERR+PAST+HAB: sg̲ál'ang'uujaangaa
-     sg̲ál+V+NEG+BIAS+INTERR+FUT: sg̲ál'angäsaa'us
-     sg̲ál+V+NEG+CERT+PRES: sg̲ál'aang'ahlanggang
-     sg̲ál+V+NEG+CERT+PAST: sg̲ál'aang'ahlanggan
-     sg̲ál+V+NEG+CERT+PAST+HAB: sg̲ál'aang'ahlanggiinii
-     sg̲ál+V+NEG+CERT+FUT: sg̲ál'angäsaa'ahlans
-     sg̲ál+V+NEG+CERT+REL: sg̲ál'aang'ahlans
-     sg̲ál+V+NEG+INTS+PAST: sg̲ál'aangaa'ahlang
-     sg̲ál+V+NEG+CONT: sg̲ál'aangaa'ahlanggaa
-     sg̲ál+V+NEG+CTFACT+PRES: sg̲ál'aangaa'ahlanggang
-     sg̲ál+V+NEG+RFLX: sg̲ál'aang'ahl
-     sg̲ál+V+NEG+FUT+RFLX+INTERR: sg̲ál'angäseehl
-     sg̲ál+V+NEG+PL+IMPV: sg̲ál'ang'uu
-     sg̲ál+V+NEG+3PL+IMM+PRES: sg̲ál'ang'waa
-     sg̲ál+V+NEG+3PL+INTERR+SIMP+PRES: sg̲ál'ang'waa
-     sg̲ál+V+NEG+3PL+SIMP+PRES: sg̲ál'ang'waang
-     sg̲ál+V+NEG+3PL+DIR+PAST: sg̲ál'ang'wägan
-     sg̲ál+V+NEG+3PL+INTERR+PAST: sg̲ál'ang'aawaa
-     sg̲ál+V+NEG+3PL+INDIR+PAST: sg̲ál'ang'aawaan
-     sg̲ál+V+NEG+3PL+REL: sg̲ál'ang'waas
-     sg̲ál+V+NEG+3PL+REL+EVID: sg̲ál'ang'aawaas
-     sg̲ál+V+NEG+3PL+NONFACT: sg̲ál'ang'waa.ang
-     sg̲ál+V+NEG+3PL+PAST+NONFACT: sg̲ál'ang'aawaa.ang
-     sg̲ál+V+NEG+3PL+INTERR+PRES+HAB: sg̲álgang'ang'waa
-     sg̲ál+V+NEG+3PL+PRES+HAB: sg̲álgang'ang'waang
-     sg̲ál+V+NEG+3PL+PRES+HAB+NONFACT: sg̲álgang'ang'waa.ang
-     sg̲ál+V+NEG+3PL+DIR+PAST+HAB: sg̲ál'ang'wägiinii
-     sg̲ál+V+NEG+3PL+INTERR+PAST+HAB: sg̲ál'ang'wägaangaa
-     sg̲ál+V+NEG+3PL+INDIR+PAST+HAB: sg̲ál'ang'wägaangaan
-     sg̲ál+V+NEG+3PL+INTERR+FUT+LONG: sg̲ál'ang'waaäsaa
-     sg̲ál+V+NEG+3PL+INTERR+FUT+SHORT: sg̲ál'ang'waaäs
-     sg̲ál+V+NEG+3PL+SIMP+FUT: sg̲ál'ang'waaäsaang
-     sg̲ál+V+NEG+3PL+IMM+FUT: sg̲ál'ang'waaäsga
-     sg̲ál+V+NEG+3PL+REL+FUT: sg̲ál'ang'waaäsaas
-     sg̲ál+V+NEG+3PL+FUT+NONFACT: sg̲ál'ang'waaäsaa.ang
-     sg̲ál+V+NEG+3PL+INTERR+NEAR+FUT: sg̲ál'waa.ang k̲asaa'áng
-     sg̲ál+V+NEG+3PL+NEAR+FUT: sg̲ál'waa.ang k̲asaa'ánggang
-     sg̲ál+V+NEG+3PL+INTERR+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdlä'áng
-     sg̲ál+V+NEG+3PL+VNEAR+FUT: sg̲ál'waa.ang k̲asaasdlä'ánggang
-     sg̲ál+V+NEG+3PL+BIAS+IMM+PRES: sg̲ál'ang'waa'uuj
-     sg̲ál+V+NEG+3PL+BIAS+SIMP+PRES: sg̲ál'ang'waa'uujang
-     sg̲ál+V+NEG+3PL+RES: sg̲ál'ang'waaäsaa'uujang
-     sg̲ál+V+NEG+3PL+BIAS+INTERR+PRES: sg̲ál'ang'waa'us
-     sg̲ál+V+NEG+3PL+BIAS+INTERR+PAST: sg̲ál'ang'waa'ujaa
-     sg̲ál+V+NEG+3PL+BIAS+INTERR+PAST+HAB: sg̲ál'ang'waa'uujaangaa
-     sg̲ál+V+NEG+3PL+BIAS+INTERR+FUT: sg̲ál'ang'waaäsaa'us
-     sg̲ál+V+NEG+3PL+CERT+PRES: sg̲ál'ang'waa'ahlanggang
-     sg̲ál+V+NEG+3PL+CERT+PAST: sg̲ál'ang'waa'ahlanggan
-     sg̲ál+V+NEG+3PL+CERT+PAST+HAB: sg̲ál'ang'waa'ahlanggiinii
-     sg̲ál+V+NEG+3PL+CERT+FUT: sg̲ál'ang'waaäsaa'ahlans
-     sg̲ál+V+NEG+3PL+CERT+REL: sg̲ál'ang'waa'ahlans
-     sg̲ál+V+NEG+3PL+INTS+PAST: sg̲ál'ang'aawaa'ahlang
-     sg̲ál+V+NEG+3PL+CONT: sg̲ál'ang'aawaa'ahlanggaa
-     sg̲ál+V+NEG+3PL+CTFACT+PRES: sg̲ál'ang'aawaa'ahlanggang
-     sg̲ál+V+NEG+3PL+RFLX: sg̲ál'ang'waa'ahl
-     sg̲ál+V+NEG+3PL+FUT+RFLX+INTERR: sg̲ál'ang'waaäseehl
+     sg̲ál+V+Sg+Impv: sg̲ál
+     sg̲ál+V+Imm+Pres: sg̲álga
+     sg̲ál+V+Interr+Simp+Pres: sg̲ál
+     sg̲ál+V+Simp+Pres: sg̲álgang
+     sg̲ál+V+Dir+Past: sg̲álgan
+     sg̲ál+V+Rel: sg̲áls
+     sg̲ál+V+NonFact: sg̲álang
+     sg̲ál+V+Interr+Pres+Hab: sg̲álgang
+     sg̲ál+V+Pres+Hab: sg̲álganggang
+     sg̲ál+V+Pres+Hab+NonFact: sg̲álgangang
+     sg̲ál+V+Dir+Past+Hab: sg̲álgiinii
+     sg̲ál+V+Interr+Past+Hab: sg̲álgaangaa
+     sg̲ál+V+Indir+Past+Hab: sg̲álgaangaan
+     sg̲ál+V+Interr+Fut+Long: sg̲áläsaa
+     sg̲ál+V+Interr+Fut+Short: sg̲áläs
+     sg̲ál+V+Simp+Fut: sg̲áläsaang
+     sg̲ál+V+Imm+Fut: sg̲áläsga
+     sg̲ál+V+Rel+Fut: sg̲áläsaas
+     sg̲ál+V+Fut+NonFact: sg̲áläsaa.ang
+     sg̲ál+V+Interr+Near+Fut: sg̲álang k̲asaʼáa
+     sg̲ál+V+Near+Fut: sg̲álang k̲asaʼáang
+     sg̲ál+V+Interr+VNear+Fut: sg̲álang k̲asaasdláa
+     sg̲ál+V+VNear+Fut: sg̲álang k̲asaasdláang
+     sg̲ál+V+Bias+Imm+Pres: sg̲álʼuuj
+     sg̲ál+V+Bias+Simp+Pres: sg̲álʼuujang
+     sg̲ál+V+Res: sg̲áläsaaʼuujang
+     sg̲ál+V+Bias+Interr+Pres: sg̲álʼus
+     sg̲ál+V+Bias+Interr+Past: sg̲álʼujaa
+     sg̲ál+V+Bias+Interr+Past+Hab: sg̲álʼuujaangaa
+     sg̲ál+V+Bias+Interr+Fut: sg̲áläsaaʼus
+     sg̲ál+V+Cert+Fut: sg̲áläsaaʼahlans
+     sg̲ál+V+Fut+Rflx+Interr: sg̲áläseehl
+     sg̲ál+V+Pl+Impv: sg̲álʼuu
+     sg̲ál+V+3pl+Imm+Pres: sg̲álʼwaa
+     sg̲ál+V+3pl+Interr+Simp+Pres: sg̲álʼwaa
+     sg̲ál+V+3pl+Simp+Pres: sg̲álʼwaang
+     sg̲ál+V+3pl+Dir+Past: sg̲álʼwägan
+     sg̲ál+V+3pl+Interr+Past: sg̲álʼaawaa
+     sg̲ál+V+3pl+Indir+Past: sg̲álʼaawaan
+     sg̲ál+V+3pl+Rel: sg̲álʼwaas
+     sg̲ál+V+3pl+Rel+Evid: sg̲álʼaawaas
+     sg̲ál+V+3pl+NonFact: sg̲álʼwaa.ang
+     sg̲ál+V+3pl+Past+NonFact: sg̲álʼaawaa.ang
+     sg̲ál+V+3pl+Interr+Pres+Hab: sg̲álgangʼwaa
+     sg̲ál+V+3pl+Pres+Hab: sg̲álgangʼwaang
+     sg̲ál+V+3pl+Pres+Hab+NonFact: sg̲álgangʼwaa.ang
+     sg̲ál+V+3pl+Dir+Past+Hab: sg̲álʼwägiinii
+     sg̲ál+V+3pl+Interr+Past+Hab: sg̲álʼwägaangaa
+     sg̲ál+V+3pl+Indir+Past+Hab: sg̲álʼwägaangaan
+     sg̲ál+V+3pl+Interr+Fut+Long: sg̲álʼwaaäsaa
+     sg̲ál+V+3pl+Interr+Fut+Short: sg̲álʼwaaäs
+     sg̲ál+V+3pl+Simp+Fut: sg̲álʼwaaäsaang
+     sg̲ál+V+3pl+Imm+Fut: sg̲álʼwaaäsga
+     sg̲ál+V+3pl+Rel+Fut: sg̲álʼwaaäsaas
+     sg̲ál+V+3pl+Fut+NonFact: sg̲álʼwaaäsaa.ang
+     sg̲ál+V+3pl+Interr+Near+Fut: sg̲álʼwaa.ang k̲asaʼáa
+     sg̲ál+V+3pl+Near+Fut: sg̲álʼwaa.ang k̲asaʼáang
+     sg̲ál+V+3pl+Interr+VNear+Fut: sg̲álʼwaa.ang k̲asaasdláa
+     sg̲ál+V+3pl+VNear+Fut: sg̲álʼwaa.ang k̲asaasdláang
+     sg̲ál+V+3pl+Bias+Imm+Pres: sg̲álʼwaaʼuuj
+     sg̲ál+V+3pl+Bias+Simp+Pres: sg̲álʼwaaʼuujang
+     sg̲ál+V+3pl+Res: sg̲álʼwaaäsaaʼuujang
+     sg̲ál+V+3pl+Bias+Interr+Pres: sg̲álʼwaaʼus
+     sg̲ál+V+3pl+Bias+Interr+Past: sg̲álʼwaaʼujaa
+     sg̲ál+V+3pl+Bias+Interr+Past+Hab: sg̲álʼwaaʼuujaangaa
+     sg̲ál+V+3pl+Bias+Interr+Fut: sg̲álʼwaaäsaaʼus
+     sg̲ál+V+3pl+Cert+Pres: sg̲álʼwaaʼahlanggang
+     sg̲ál+V+3pl+Cert+Past: sg̲álʼwaaʼahlanggan
+     sg̲ál+V+3pl+Cert+Past+Hab: sg̲álʼwaaʼahlanggiinii
+     sg̲ál+V+3pl+Cert+Fut: sg̲álʼwaaäsaaʼahlans
+     sg̲ál+V+3pl+Cert+Rel: sg̲álʼwaaʼahlans
+     sg̲ál+V+3pl+Ints+Past: sg̲álʼaawaaʼahlang
+     sg̲ál+V+3pl+Cont: sg̲álʼaawaaʼahlanggaa
+     sg̲ál+V+3pl+Ctfact+Pres: sg̲álʼaawaaʼahlanggang
+     sg̲ál+V+3pl+Rflx: sg̲álʼwaaʼahl
+     sg̲ál+V+3pl+Fut+Rflx+Interr: sg̲álʼwaaäseehl
+     sg̲ál+V+Neg+Sg+Impv: sg̲álʼang
+     sg̲ál+V+Neg+Imm+Pres: sg̲álʼangga
+     sg̲ál+V+Neg+Interr+Simp+Pres: sg̲álʼang
+     sg̲ál+V+Neg+Simp+Pres: sg̲álʼanggang
+     sg̲ál+V+Neg+Dir+Past: sg̲álʼanggan
+     sg̲ál+V+Neg+Interr+Past: sg̲álʼaangaa
+     sg̲ál+V+Neg+Indir+Past: sg̲álʼaangaan
+     sg̲ál+V+Neg+Rel: sg̲álʼans
+     sg̲ál+V+Neg+Rel+Evid: sg̲álʼaangaas
+     sg̲ál+V+Neg+NonFact: sg̲álʼangang
+     sg̲ál+V+Neg+Past+NonFact: sg̲álʼaangaa.ang
+     sg̲ál+V+Neg+Interr+Pres+Hab: sg̲álʼanggang
+     sg̲ál+V+Neg+Pres+Hab: sg̲álgangʼanggang
+     sg̲ál+V+Neg+Pres+Hab+NonFact: sg̲álgangʼangang
+     sg̲ál+V+Neg+Dir+Past+Hab: sg̲álʼanggiinii
+     sg̲ál+V+Neg+Interr+Past+Hab: sg̲álʼanggaangaa
+     sg̲ál+V+Neg+Indir+Past+Hab: sg̲álʼanggaangaan
+     sg̲ál+V+Neg+Interr+Fut+Long: sg̲álʼangäsaa
+     sg̲ál+V+Neg+Interr+Fut+Short: sg̲álʼangäs
+     sg̲ál+V+Neg+Simp+Fut: sg̲álʼangäsaang
+     sg̲ál+V+Neg+Imm+Fut: sg̲álʼangäsga
+     sg̲ál+V+Neg+Rel+Fut: sg̲álʼangäsaas
+     sg̲ál+V+Neg+Fut+NonFact: sg̲álʼangäsaa.ang
+     sg̲ál+V+Neg+Interr+Near+Fut: sg̲álang k̲asaaʼáng
+     sg̲ál+V+Neg+Near+Fut: sg̲álang k̲asaaʼánggang
+     sg̲ál+V+Neg+Interr+VNear+Fut: sg̲álang k̲asaasdläʼáng
+     sg̲ál+V+Neg+VNear+Fut: sg̲álang k̲asaasdläʼánggang
+     sg̲ál+V+Neg+Bias+Imm+Pres: sg̲álʼangʼuuj
+     sg̲ál+V+Neg+Bias+Simp+Pres: sg̲álʼangʼuujang
+     sg̲ál+V+Neg+Res: sg̲álʼangäsaaʼuujang
+     sg̲ál+V+Neg+Bias+Interr+Pres: sg̲álʼangʼus
+     sg̲ál+V+Neg+Bias+Interr+Past: sg̲álʼangʼujaa
+     sg̲ál+V+Neg+Bias+Interr+Past+Hab: sg̲álʼangʼuujaangaa
+     sg̲ál+V+Neg+Bias+Interr+Fut: sg̲álʼangäsaaʼus
+     sg̲ál+V+Neg+Cert+Pres: sg̲álʼaangʼahlanggang
+     sg̲ál+V+Neg+Cert+Past: sg̲álʼaangʼahlanggan
+     sg̲ál+V+Neg+Cert+Past+Hab: sg̲álʼaangʼahlanggiinii
+     sg̲ál+V+Neg+Cert+Fut: sg̲álʼangäsaaʼahlans
+     sg̲ál+V+Neg+Cert+Rel: sg̲álʼaangʼahlans
+     sg̲ál+V+Neg+Ints+Past: sg̲álʼaangaaʼahlang
+     sg̲ál+V+Neg+Cont: sg̲álʼaangaaʼahlanggaa
+     sg̲ál+V+Neg+Ctfact+Pres: sg̲álʼaangaaʼahlanggang
+     sg̲ál+V+Neg+Rflx: sg̲álʼaangʼahl
+     sg̲ál+V+Neg+Fut+Rflx+Interr: sg̲álʼangäseehl
+     sg̲ál+V+Neg+Pl+Impv: sg̲álʼangʼuu
+     sg̲ál+V+Neg+3pl+Imm+Pres: sg̲álʼangʼwaa
+     sg̲ál+V+Neg+3pl+Interr+Simp+Pres: sg̲álʼangʼwaa
+     sg̲ál+V+Neg+3pl+Simp+Pres: sg̲álʼangʼwaang
+     sg̲ál+V+Neg+3pl+Dir+Past: sg̲álʼangʼwägan
+     sg̲ál+V+Neg+3pl+Interr+Past: sg̲álʼangʼaawaa
+     sg̲ál+V+Neg+3pl+Indir+Past: sg̲álʼangʼaawaan
+     sg̲ál+V+Neg+3pl+Rel: sg̲álʼangʼwaas
+     sg̲ál+V+Neg+3pl+Rel+Evid: sg̲álʼangʼaawaas
+     sg̲ál+V+Neg+3pl+NonFact: sg̲álʼangʼwaa.ang
+     sg̲ál+V+Neg+3pl+Past+NonFact: sg̲álʼangʼaawaa.ang
+     sg̲ál+V+Neg+3pl+Interr+Pres+Hab: sg̲álgangʼangʼwaa
+     sg̲ál+V+Neg+3pl+Pres+Hab: sg̲álgangʼangʼwaang
+     sg̲ál+V+Neg+3pl+Pres+Hab+NonFact: sg̲álgangʼangʼwaa.ang
+     sg̲ál+V+Neg+3pl+Dir+Past+Hab: sg̲álʼangʼwägiinii
+     sg̲ál+V+Neg+3pl+Interr+Past+Hab: sg̲álʼangʼwägaangaa
+     sg̲ál+V+Neg+3pl+Indir+Past+Hab: sg̲álʼangʼwägaangaan
+     sg̲ál+V+Neg+3pl+Interr+Fut+Long: sg̲álʼangʼwaaäsaa
+     sg̲ál+V+Neg+3pl+Interr+Fut+Short: sg̲álʼangʼwaaäs
+     sg̲ál+V+Neg+3pl+Simp+Fut: sg̲álʼangʼwaaäsaang
+     sg̲ál+V+Neg+3pl+Imm+Fut: sg̲álʼangʼwaaäsga
+     sg̲ál+V+Neg+3pl+Rel+Fut: sg̲álʼangʼwaaäsaas
+     sg̲ál+V+Neg+3pl+Fut+NonFact: sg̲álʼangʼwaaäsaa.ang
+     sg̲ál+V+Neg+3pl+Interr+Near+Fut: sg̲álʼwaa.ang k̲asaaʼáng
+     sg̲ál+V+Neg+3pl+Near+Fut: sg̲álʼwaa.ang k̲asaaʼánggang
+     sg̲ál+V+Neg+3pl+Interr+VNear+Fut: sg̲álʼwaa.ang k̲asaasdläʼáng
+     sg̲ál+V+Neg+3pl+VNear+Fut: sg̲álʼwaa.ang k̲asaasdläʼánggang
+     sg̲ál+V+Neg+3pl+Bias+Imm+Pres: sg̲álʼangʼwaaʼuuj
+     sg̲ál+V+Neg+3pl+Bias+Simp+Pres: sg̲álʼangʼwaaʼuujang
+     sg̲ál+V+Neg+3pl+Res: sg̲álʼangʼwaaäsaaʼuujang
+     sg̲ál+V+Neg+3pl+Bias+Interr+Pres: sg̲álʼangʼwaaʼus
+     sg̲ál+V+Neg+3pl+Bias+Interr+Past: sg̲álʼangʼwaaʼujaa
+     sg̲ál+V+Neg+3pl+Bias+Interr+Past+Hab: sg̲álʼangʼwaaʼuujaangaa
+     sg̲ál+V+Neg+3pl+Bias+Interr+Fut: sg̲álʼangʼwaaäsaaʼus
+     sg̲ál+V+Neg+3pl+Cert+Pres: sg̲álʼangʼwaaʼahlanggang
+     sg̲ál+V+Neg+3pl+Cert+Past: sg̲álʼangʼwaaʼahlanggan
+     sg̲ál+V+Neg+3pl+Cert+Past+Hab: sg̲álʼangʼwaaʼahlanggiinii
+     sg̲ál+V+Neg+3pl+Cert+Fut: sg̲álʼangʼwaaäsaaʼahlans
+     sg̲ál+V+Neg+3pl+Cert+Rel: sg̲álʼangʼwaaʼahlans
+     sg̲ál+V+Neg+3pl+Ints+Past: sg̲álʼangʼaawaaʼahlang
+     sg̲ál+V+Neg+3pl+Cont: sg̲álʼangʼaawaaʼahlanggaa
+     sg̲ál+V+Neg+3pl+Ctfact+Pres: sg̲álʼangʼaawaaʼahlanggang
+     sg̲ál+V+Neg+3pl+Rflx: sg̲álʼangʼwaaʼahl
+     sg̲ál+V+Neg+3pl+Fut+Rflx+Interr: sg̲álʼangʼwaaäseehl
 

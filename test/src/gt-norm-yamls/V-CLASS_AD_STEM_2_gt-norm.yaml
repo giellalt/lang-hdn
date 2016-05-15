@@ -11,38 +11,38 @@ Tests:
 
   Verb - sg̲alad - ENGLISH : # CLASS_AD_STEM_2
 
-     sg̲alad+V+IMM+PRES: sg̲alíida
-     sg̲alad+V+SIMP+PRES: sg̲alíidang
-     sg̲alad+V+DIR+PAST: sg̲alíidan
-     sg̲alad+V+NONFACT: sg̲alíidang
-     sg̲alad+V+INTERR+PRES+HAB: sg̲alíidang
-     sg̲alad+V+PRES+HAB: sg̲alíidanggang
-     sg̲alad+V+PRES+HAB+NONFACT: sg̲alíidangang
-     sg̲alad+V+DIR+PAST+HAB: sg̲alíidiinii
-     sg̲alad+V+INTERR+PAST+HAB: sg̲alíidaangaa
-     sg̲alad+V+INDIR+PAST+HAB: sg̲alíidaangaan
-     sg̲alad+V+INTERR+NEAR+FUT: sg̲alíidang k̲asa'áa
-     sg̲alad+V+NEAR+FUT: sg̲alíidang k̲asa'áang
-     sg̲alad+V+INTERR+VNEAR+FUT: sg̲alíidang k̲asaasdláa
-     sg̲alad+V+VNEAR+FUT: sg̲alíidang k̲asaasdláang
-     sg̲alad+V+CERT+PRES: sg̲alíid'ahlanggang
-     sg̲alad+V+CERT+PAST: sg̲alíid'ahlanggan
-     sg̲alad+V+CERT+PAST+HAB: sg̲alíid'ahlanggiinii
-     sg̲alad+V+CERT+REL: sg̲alíid'ahlans
-     sg̲alad+V+INTS+PAST: sg̲alíidaa'ahlang
-     sg̲alad+V+CONT: sg̲alíidaa'ahlanggaa
-     sg̲alad+V+CTFACT+PRES: sg̲alíidaa'ahlanggang
-     sg̲alad+V+RFLX: sg̲alíid'ahl
-     sg̲alad+V+3PL+INTERR+PRES+HAB: sg̲alíidang'waa
-     sg̲alad+V+3PL+PRES+HAB: sg̲alíidang'waang
-     sg̲alad+V+3PL+PRES+HAB+NONFACT: sg̲alíidang'waa.ang
-     sg̲alad+V+NEG+PRES+HAB: sg̲alíidang'anggang
-     sg̲alad+V+NEG+PRES+HAB+NONFACT: sg̲alíidang'angang
-     sg̲alad+V+NEG+INTERR+NEAR+FUT: sg̲alíidang k̲asaa'áng
-     sg̲alad+V+NEG+NEAR+FUT: sg̲alíidang k̲asaa'ánggang
-     sg̲alad+V+NEG+INTERR+VNEAR+FUT: sg̲alíidang k̲asaasdlä'áng
-     sg̲alad+V+NEG+VNEAR+FUT: sg̲alíidang k̲asaasdlä'ánggang
-     sg̲alad+V+NEG+3PL+INTERR+PRES+HAB: sg̲alíidang'ang'waa
-     sg̲alad+V+NEG+3PL+PRES+HAB: sg̲alíidang'ang'waang
-     sg̲alad+V+NEG+3PL+PRES+HAB+NONFACT: sg̲alíidang'ang'waa.ang
+     sg̲alad+V+Imm+Pres: sg̲alíida
+     sg̲alad+V+Simp+Pres: sg̲alíidang
+     sg̲alad+V+Dir+Past: sg̲alíidan
+     sg̲alad+V+NonFact: sg̲alíidang
+     sg̲alad+V+Interr+Pres+Hab: sg̲alíidang
+     sg̲alad+V+Pres+Hab: sg̲alíidanggang
+     sg̲alad+V+Pres+Hab+NonFact: sg̲alíidangang
+     sg̲alad+V+Dir+Past+Hab: sg̲alíidiinii
+     sg̲alad+V+Interr+Past+Hab: sg̲alíidaangaa
+     sg̲alad+V+Indir+Past+Hab: sg̲alíidaangaan
+     sg̲alad+V+Interr+Near+Fut: sg̲alíidang k̲asaʼáa
+     sg̲alad+V+Near+Fut: sg̲alíidang k̲asaʼáang
+     sg̲alad+V+Interr+VNear+Fut: sg̲alíidang k̲asaasdláa
+     sg̲alad+V+VNear+Fut: sg̲alíidang k̲asaasdláang
+     sg̲alad+V+Cert+Pres: sg̲alíidʼahlanggang
+     sg̲alad+V+Cert+Past: sg̲alíidʼahlanggan
+     sg̲alad+V+Cert+Past+Hab: sg̲alíidʼahlanggiinii
+     sg̲alad+V+Cert+Rel: sg̲alíidʼahlans
+     sg̲alad+V+Ints+Past: sg̲alíidaaʼahlang
+     sg̲alad+V+Cont: sg̲alíidaaʼahlanggaa
+     sg̲alad+V+Ctfact+Pres: sg̲alíidaaʼahlanggang
+     sg̲alad+V+Rflx: sg̲alíidʼahl
+     sg̲alad+V+3pl+Interr+Pres+Hab: sg̲alíidangʼwaa
+     sg̲alad+V+3pl+Pres+Hab: sg̲alíidangʼwaang
+     sg̲alad+V+3pl+Pres+Hab+NonFact: sg̲alíidangʼwaa.ang
+     sg̲alad+V+Neg+Pres+Hab: sg̲alíidangʼanggang
+     sg̲alad+V+Neg+Pres+Hab+NonFact: sg̲alíidangʼangang
+     sg̲alad+V+Neg+Interr+Near+Fut: sg̲alíidang k̲asaaʼáng
+     sg̲alad+V+Neg+Near+Fut: sg̲alíidang k̲asaaʼánggang
+     sg̲alad+V+Neg+Interr+VNear+Fut: sg̲alíidang k̲asaasdläʼáng
+     sg̲alad+V+Neg+VNear+Fut: sg̲alíidang k̲asaasdläʼánggang
+     sg̲alad+V+Neg+3pl+Interr+Pres+Hab: sg̲alíidangʼangʼwaa
+     sg̲alad+V+Neg+3pl+Pres+Hab: sg̲alíidangʼangʼwaang
+     sg̲alad+V+Neg+3pl+Pres+Hab+NonFact: sg̲alíidangʼangʼwaa.ang
 

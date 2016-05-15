@@ -9,32 +9,32 @@ Config:
 
 Tests:
 
-  Verb - t'ahlgúuhl - ENGLISH : # CLASS_UUHL_STEM_2
+  Verb - tʼahlgúuhl - ENGLISH : # CLASS_UUHL_STEM_2
 
-     t'ahlgúuhl+V+IMM+PRES: t'ahlgúlga
-     t'ahlgúuhl+V+SIMP+PRES: t'ahlgúlgang
-     t'ahlgúuhl+V+DIR+PAST: t'ahlgúlgan
-     t'ahlgúuhl+V+NONFACT: t'ahlgúl.ang
-     t'ahlgúuhl+V+INTERR+PRES+HAB: t'ahlgúlgang
-     t'ahlgúuhl+V+PRES+HAB: t'ahlgúlganggang
-     t'ahlgúuhl+V+PRES+HAB+NONFACT: t'ahlgúlgangang
-     t'ahlgúuhl+V+DIR+PAST+HAB: t'ahlgúlgiinii
-     t'ahlgúuhl+V+INTERR+PAST+HAB: t'ahlgúlgaangaa
-     t'ahlgúuhl+V+INDIR+PAST+HAB: t'ahlgúlgaangaan
-     t'ahlgúuhl+V+INTERR+NEAR+FUT: t'ahlgúlang k̲asa'áa
-     t'ahlgúuhl+V+NEAR+FUT: t'ahlgúlang k̲asa'áang
-     t'ahlgúuhl+V+INTERR+VNEAR+FUT: t'ahlgúlang k̲asaasdláa
-     t'ahlgúuhl+V+VNEAR+FUT: t'ahlgúlang k̲asaasdláang
-     t'ahlgúuhl+V+3PL+INTERR+PRES+HAB: t'ahlgúlgang'waa
-     t'ahlgúuhl+V+3PL+PRES+HAB: t'ahlgúlgang'waang
-     t'ahlgúuhl+V+3PL+PRES+HAB+NONFACT: t'ahlgúlgang'waa.ang
-     t'ahlgúuhl+V+NEG+PRES+HAB: t'ahlgúlgang'anggang
-     t'ahlgúuhl+V+NEG+PRES+HAB+NONFACT: t'ahlgúlgang'angang
-     t'ahlgúuhl+V+NEG+INTERR+NEAR+FUT: t'ahlgúlang k̲asaa'áng
-     t'ahlgúuhl+V+NEG+NEAR+FUT: t'ahlgúlang k̲asaa'ánggang
-     t'ahlgúuhl+V+NEG+INTERR+VNEAR+FUT: t'ahlgúlang k̲asaasdlä'áng
-     t'ahlgúuhl+V+NEG+VNEAR+FUT: t'ahlgúlang k̲asaasdlä'ánggang
-     t'ahlgúuhl+V+NEG+3PL+INTERR+PRES+HAB: t'ahlgúlgang'ang'waa
-     t'ahlgúuhl+V+NEG+3PL+PRES+HAB: t'ahlgúlgang'ang'waang
-     t'ahlgúuhl+V+NEG+3PL+PRES+HAB+NONFACT: t'ahlgúlgang'ang'waa.ang
+     tʼahlgúuhl+V+Imm+Pres: tʼahlgúlga
+     tʼahlgúuhl+V+Simp+Pres: tʼahlgúlgang
+     tʼahlgúuhl+V+Dir+Past: tʼahlgúlgan
+     tʼahlgúuhl+V+NonFact: tʼahlgúl.ang
+     tʼahlgúuhl+V+Interr+Pres+Hab: tʼahlgúlgang
+     tʼahlgúuhl+V+Pres+Hab: tʼahlgúlganggang
+     tʼahlgúuhl+V+Pres+Hab+NonFact: tʼahlgúlgangang
+     tʼahlgúuhl+V+Dir+Past+Hab: tʼahlgúlgiinii
+     tʼahlgúuhl+V+Interr+Past+Hab: tʼahlgúlgaangaa
+     tʼahlgúuhl+V+Indir+Past+Hab: tʼahlgúlgaangaan
+     tʼahlgúuhl+V+Interr+Near+Fut: tʼahlgúlang k̲asaʼáa
+     tʼahlgúuhl+V+Near+Fut: tʼahlgúlang k̲asaʼáang
+     tʼahlgúuhl+V+Interr+VNear+Fut: tʼahlgúlang k̲asaasdláa
+     tʼahlgúuhl+V+VNear+Fut: tʼahlgúlang k̲asaasdláang
+     tʼahlgúuhl+V+3pl+Interr+Pres+Hab: tʼahlgúlgangʼwaa
+     tʼahlgúuhl+V+3pl+Pres+Hab: tʼahlgúlgangʼwaang
+     tʼahlgúuhl+V+3pl+Pres+Hab+NonFact: tʼahlgúlgangʼwaa.ang
+     tʼahlgúuhl+V+Neg+Pres+Hab: tʼahlgúlgangʼanggang
+     tʼahlgúuhl+V+Neg+Pres+Hab+NonFact: tʼahlgúlgangʼangang
+     tʼahlgúuhl+V+Neg+Interr+Near+Fut: tʼahlgúlang k̲asaaʼáng
+     tʼahlgúuhl+V+Neg+Near+Fut: tʼahlgúlang k̲asaaʼánggang
+     tʼahlgúuhl+V+Neg+Interr+VNear+Fut: tʼahlgúlang k̲asaasdläʼáng
+     tʼahlgúuhl+V+Neg+VNear+Fut: tʼahlgúlang k̲asaasdläʼánggang
+     tʼahlgúuhl+V+Neg+3pl+Interr+Pres+Hab: tʼahlgúlgangʼangʼwaa
+     tʼahlgúuhl+V+Neg+3pl+Pres+Hab: tʼahlgúlgangʼangʼwaang
+     tʼahlgúuhl+V+Neg+3pl+Pres+Hab+NonFact: tʼahlgúlgangʼangʼwaa.ang
 

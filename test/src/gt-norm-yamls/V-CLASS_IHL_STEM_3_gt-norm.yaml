@@ -11,16 +11,16 @@ Tests:
 
   Verb - hlgihl - ENGLISH : # CLASS_IHL_STEM_3
 
-     hlgihl+V+INTERR+PAST: hlgéelaa
-     hlgihl+V+INDIR+PAST: hlgéelaan
-     hlgihl+V+REL+EVID: hlgéelaas
-     hlgihl+V+PAST+NONFACT: hlgéelaa.ang
-     hlgihl+V+CERT+PRES: hlgéel'ahlanggang
-     hlgihl+V+CERT+PAST: hlgéel'ahlanggan
-     hlgihl+V+CERT+PAST+HAB: hlgéel'ahlanggiinii
-     hlgihl+V+CERT+REL: hlgéel'ahlans
-     hlgihl+V+INTS+PAST: hlgéelaa'ahlang
-     hlgihl+V+CONT: hlgéelaa'ahlanggaa
-     hlgihl+V+CTFACT+PRES: hlgéelaa'ahlanggang
-     hlgihl+V+RFLX: hlgéel'ahl
+     hlgihl+V+Interr+Past: hlgéelaa
+     hlgihl+V+Indir+Past: hlgéelaan
+     hlgihl+V+Rel+Evid: hlgéelaas
+     hlgihl+V+Past+NonFact: hlgéelaa.ang
+     hlgihl+V+Cert+Pres: hlgéelʼahlanggang
+     hlgihl+V+Cert+Past: hlgéelʼahlanggan
+     hlgihl+V+Cert+Past+Hab: hlgéelʼahlanggiinii
+     hlgihl+V+Cert+Rel: hlgéelʼahlans
+     hlgihl+V+Ints+Past: hlgéelaaʼahlang
+     hlgihl+V+Cont: hlgéelaaʼahlanggaa
+     hlgihl+V+Ctfact+Pres: hlgéelaaʼahlanggang
+     hlgihl+V+Rflx: hlgéelʼahl
 

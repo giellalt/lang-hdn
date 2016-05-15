@@ -11,180 +11,180 @@ Tests:
 
   Verb - k̲ínyaang - ENGLISH : # CLASS_AANG
 
-     k̲ínyaang+V+SG+IMPV: k̲ínyaang
-     k̲ínyaang+V+IMM+PRES: k̲ínyaangga
-     k̲ínyaang+V+INTERR+SIMP+PRES: k̲ínyaang
-     k̲ínyaang+V+SIMP+PRES: k̲ínyaanggang
-     k̲ínyaang+V+DIR+PAST: k̲ínyaanggan
-     k̲ínyaang+V+INTERR+PAST: k̲ínyaangaa
-     k̲ínyaang+V+INDIR+PAST: k̲ínyaangaan
-     k̲ínyaang+V+REL: k̲ínyaangs
-     k̲ínyaang+V+REL+EVID: k̲ínyaangaas
-     k̲ínyaang+V+NONFACT: k̲ínyaangang
-     k̲ínyaang+V+PAST+NONFACT: k̲ínyaangaa.ang
-     k̲ínyaang+V+INTERR+PRES+HAB: k̲ínyaanggang
-     k̲ínyaang+V+PRES+HAB: k̲ínyaangganggang
-     k̲ínyaang+V+PRES+HAB+NONFACT: k̲ínyaanggangang
-     k̲ínyaang+V+DIR+PAST+HAB: k̲ínyaanggiinii
-     k̲ínyaang+V+INTERR+PAST+HAB: k̲ínyaangaangaa
-     k̲ínyaang+V+INDIR+PAST+HAB: k̲ínyaangaangaan
-     k̲ínyaang+V+INTERR+FUT+LONG: k̲ínyaangäsaa
-     k̲ínyaang+V+INTERR+FUT+SHORT: k̲ínyaangäs
-     k̲ínyaang+V+SIMP+FUT: k̲ínyaangäsaang
-     k̲ínyaang+V+IMM+FUT: k̲ínyaangäsga
-     k̲ínyaang+V+REL+FUT: k̲ínyaangäsaas
-     k̲ínyaang+V+FUT+NONFACT: k̲ínyaangäsaa.ang
-     k̲ínyaang+V+INTERR+NEAR+FUT: k̲ínyaangang k̲asa'áa
-     k̲ínyaang+V+NEAR+FUT: k̲ínyaangang k̲asa'áang
-     k̲ínyaang+V+INTERR+VNEAR+FUT: k̲ínyaangang k̲asaasdláa
-     k̲ínyaang+V+VNEAR+FUT: k̲ínyaangang k̲asaasdláang
-     k̲ínyaang+V+BIAS+IMM+PRES: k̲ínyaang'uuj
-     k̲ínyaang+V+BIAS+SIMP+PRES: k̲ínyaang'uujang
-     k̲ínyaang+V+RES: k̲ínyaangäsaa'uujang
-     k̲ínyaang+V+BIAS+INTERR+PRES: k̲ínyaang'us
-     k̲ínyaang+V+BIAS+INTERR+PAST: k̲ínyaang'ujaa
-     k̲ínyaang+V+BIAS+INTERR+PAST+HAB: k̲ínyaang'uujaangaa
-     k̲ínyaang+V+BIAS+INTERR+FUT: k̲ínyaangäsaa'us
-     k̲ínyaang+V+CERT+PRES: k̲ínyaang'ahlanggang
-     k̲ínyaang+V+CERT+PAST: k̲ínyaang'ahlanggan
-     k̲ínyaang+V+CERT+PAST+HAB: k̲ínyaang'ahlanggiinii
-     k̲ínyaang+V+CERT+FUT: k̲ínyaangäsaa'ahlans
-     k̲ínyaang+V+CERT+REL: k̲ínyaang'ahlans
-     k̲ínyaang+V+INTS+PAST: k̲ínyaangaa'ahlang
-     k̲ínyaang+V+CONT: k̲ínyaangaa'ahlanggaa
-     k̲ínyaang+V+CTFACT+PRES: k̲ínyaangaa'ahlanggang
-     k̲ínyaang+V+RFLX: k̲ínyaang'ahl
-     k̲ínyaang+V+FUT+RFLX+INTERR: k̲ínyaangäseehl
-     k̲ínyaang+V+PL+IMPV: k̲ínyaang'uu
-     k̲ínyaang+V+3PL+IMM+PRES: k̲ínyaang'waa
-     k̲ínyaang+V+3PL+INTERR+SIMP+PRES: k̲ínyaang'waa
-     k̲ínyaang+V+3PL+SIMP+PRES: k̲ínyaang'waang
-     k̲ínyaang+V+3PL+DIR+PAST: k̲ínyaang'wägan
-     k̲ínyaang+V+3PL+INTERR+PAST: k̲ínyaang'aawaa
-     k̲ínyaang+V+3PL+INDIR+PAST: k̲ínyaang'aawaan
-     k̲ínyaang+V+3PL+REL: k̲ínyaang'waas
-     k̲ínyaang+V+3PL+REL+EVID: k̲ínyaang'aawaas
-     k̲ínyaang+V+3PL+NONFACT: k̲ínyaang'waa.ang
-     k̲ínyaang+V+3PL+PAST+NONFACT: k̲ínyaang'aawaa.ang
-     k̲ínyaang+V+3PL+INTERR+PRES+HAB: k̲ínyaanggang'waa
-     k̲ínyaang+V+3PL+PRES+HAB: k̲ínyaanggang'waang
-     k̲ínyaang+V+3PL+PRES+HAB+NONFACT: k̲ínyaanggang'waa.ang
-     k̲ínyaang+V+3PL+DIR+PAST+HAB: k̲ínyaang'wägiinii
-     k̲ínyaang+V+3PL+INTERR+PAST+HAB: k̲ínyaang'wägaangaa
-     k̲ínyaang+V+3PL+INDIR+PAST+HAB: k̲ínyaang'wägaangaan
-     k̲ínyaang+V+3PL+INTERR+FUT+LONG: k̲ínyaang'waaäsaa
-     k̲ínyaang+V+3PL+INTERR+FUT+SHORT: k̲ínyaang'waaäs
-     k̲ínyaang+V+3PL+SIMP+FUT: k̲ínyaang'waaäsaang
-     k̲ínyaang+V+3PL+IMM+FUT: k̲ínyaang'waaäsga
-     k̲ínyaang+V+3PL+REL+FUT: k̲ínyaang'waaäsaas
-     k̲ínyaang+V+3PL+FUT+NONFACT: k̲ínyaang'waaäsaa.ang
-     k̲ínyaang+V+3PL+INTERR+NEAR+FUT: k̲ínyaang'waa.ang k̲asa'áa
-     k̲ínyaang+V+3PL+NEAR+FUT: k̲ínyaang'waa.ang k̲asa'áang
-     k̲ínyaang+V+3PL+INTERR+VNEAR+FUT: k̲ínyaang'waa.ang k̲asaasdláa
-     k̲ínyaang+V+3PL+VNEAR+FUT: k̲ínyaang'waa.ang k̲asaasdláang
-     k̲ínyaang+V+3PL+BIAS+IMM+PRES: k̲ínyaang'waa'uuj
-     k̲ínyaang+V+3PL+BIAS+SIMP+PRES: k̲ínyaang'waa'uujang
-     k̲ínyaang+V+3PL+RES: k̲ínyaang'waaäsaa'uujang
-     k̲ínyaang+V+3PL+BIAS+INTERR+PRES: k̲ínyaang'waa'us
-     k̲ínyaang+V+3PL+BIAS+INTERR+PAST: k̲ínyaang'waa'ujaa
-     k̲ínyaang+V+3PL+BIAS+INTERR+PAST+HAB: k̲ínyaang'waa'uujaangaa
-     k̲ínyaang+V+3PL+BIAS+INTERR+FUT: k̲ínyaang'waaäsaa'us
-     k̲ínyaang+V+3PL+CERT+PRES: k̲ínyaang'waa'ahlanggang
-     k̲ínyaang+V+3PL+CERT+PAST: k̲ínyaang'waa'ahlanggan
-     k̲ínyaang+V+3PL+CERT+PAST+HAB: k̲ínyaang'waa'ahlanggiinii
-     k̲ínyaang+V+3PL+CERT+FUT: k̲ínyaang'waaäsaa'ahlans
-     k̲ínyaang+V+3PL+CERT+REL: k̲ínyaang'waa'ahlans
-     k̲ínyaang+V+3PL+INTS+PAST: k̲ínyaang'aawaa'ahlang
-     k̲ínyaang+V+3PL+CONT: k̲ínyaang'aawaa'ahlanggaa
-     k̲ínyaang+V+3PL+CTFACT+PRES: k̲ínyaang'aawaa'ahlanggang
-     k̲ínyaang+V+3PL+RFLX: k̲ínyaang'waa'ahl
-     k̲ínyaang+V+3PL+FUT+RFLX+INTERR: k̲ínyaang'waaäseehl
-     k̲ínyaang+V+NEG+SG+IMPV: k̲ínyaang'ang
-     k̲ínyaang+V+NEG+IMM+PRES: k̲ínyaang'angga
-     k̲ínyaang+V+NEG+INTERR+SIMP+PRES: k̲ínyaang'ang
-     k̲ínyaang+V+NEG+SIMP+PRES: k̲ínyaang'anggang
-     k̲ínyaang+V+NEG+DIR+PAST: k̲ínyaang'anggan
-     k̲ínyaang+V+NEG+INTERR+PAST: k̲ínyaang'aangaa
-     k̲ínyaang+V+NEG+INDIR+PAST: k̲ínyaang'aangaan
-     k̲ínyaang+V+NEG+REL: k̲ínyaang'ans
-     k̲ínyaang+V+NEG+REL+EVID: k̲ínyaang'aangaas
-     k̲ínyaang+V+NEG+NONFACT: k̲ínyaang'angang
-     k̲ínyaang+V+NEG+PAST+NONFACT: k̲ínyaang'aangaa.ang
-     k̲ínyaang+V+NEG+INTERR+PRES+HAB: k̲ínyaang'anggang
-     k̲ínyaang+V+NEG+PRES+HAB: k̲ínyaanggang'anggang
-     k̲ínyaang+V+NEG+PRES+HAB+NONFACT: k̲ínyaanggang'angang
-     k̲ínyaang+V+NEG+DIR+PAST+HAB: k̲ínyaang'anggiinii
-     k̲ínyaang+V+NEG+INTERR+PAST+HAB: k̲ínyaang'anggaangaa
-     k̲ínyaang+V+NEG+INDIR+PAST+HAB: k̲ínyaang'anggaangaan
-     k̲ínyaang+V+NEG+INTERR+FUT+LONG: k̲ínyaang'angäsaa
-     k̲ínyaang+V+NEG+INTERR+FUT+SHORT: k̲ínyaang'angäs
-     k̲ínyaang+V+NEG+SIMP+FUT: k̲ínyaang'angäsaang
-     k̲ínyaang+V+NEG+IMM+FUT: k̲ínyaang'angäsga
-     k̲ínyaang+V+NEG+REL+FUT: k̲ínyaang'angäsaas
-     k̲ínyaang+V+NEG+FUT+NONFACT: k̲ínyaang'angäsaa.ang
-     k̲ínyaang+V+NEG+INTERR+NEAR+FUT: k̲ínyaangang k̲asaa'áng
-     k̲ínyaang+V+NEG+NEAR+FUT: k̲ínyaangang k̲asaa'ánggang
-     k̲ínyaang+V+NEG+INTERR+VNEAR+FUT: k̲ínyaangang k̲asaasdlä'áng
-     k̲ínyaang+V+NEG+VNEAR+FUT: k̲ínyaangang k̲asaasdlä'ánggang
-     k̲ínyaang+V+NEG+BIAS+IMM+PRES: k̲ínyaang'ang'uuj
-     k̲ínyaang+V+NEG+BIAS+SIMP+PRES: k̲ínyaang'ang'uujang
-     k̲ínyaang+V+NEG+RES: k̲ínyaang'angäsaa'uujang
-     k̲ínyaang+V+NEG+BIAS+INTERR+PRES: k̲ínyaang'ang'us
-     k̲ínyaang+V+NEG+BIAS+INTERR+PAST: k̲ínyaang'ang'ujaa
-     k̲ínyaang+V+NEG+BIAS+INTERR+PAST+HAB: k̲ínyaang'ang'uujaangaa
-     k̲ínyaang+V+NEG+BIAS+INTERR+FUT: k̲ínyaang'angäsaa'us
-     k̲ínyaang+V+NEG+CERT+PRES: k̲ínyaang'aang'ahlanggang
-     k̲ínyaang+V+NEG+CERT+PAST: k̲ínyaang'aang'ahlanggan
-     k̲ínyaang+V+NEG+CERT+PAST+HAB: k̲ínyaang'aang'ahlanggiinii
-     k̲ínyaang+V+NEG+CERT+FUT: k̲ínyaang'angäsaa'ahlans
-     k̲ínyaang+V+NEG+CERT+REL: k̲ínyaang'aang'ahlans
-     k̲ínyaang+V+NEG+INTS+PAST: k̲ínyaang'aangaa'ahlang
-     k̲ínyaang+V+NEG+CONT: k̲ínyaang'aangaa'ahlanggaa
-     k̲ínyaang+V+NEG+CTFACT+PRES: k̲ínyaang'aangaa'ahlanggang
-     k̲ínyaang+V+NEG+RFLX: k̲ínyaang'aang'ahl
-     k̲ínyaang+V+NEG+FUT+RFLX+INTERR: k̲ínyaang'angäseehl
-     k̲ínyaang+V+NEG+PL+IMPV: k̲ínyaang'ang'uu
-     k̲ínyaang+V+NEG+3PL+IMM+PRES: k̲ínyaang'ang'waa
-     k̲ínyaang+V+NEG+3PL+INTERR+SIMP+PRES: k̲ínyaang'ang'waa
-     k̲ínyaang+V+NEG+3PL+SIMP+PRES: k̲ínyaang'ang'waang
-     k̲ínyaang+V+NEG+3PL+DIR+PAST: k̲ínyaang'ang'wägan
-     k̲ínyaang+V+NEG+3PL+INTERR+PAST: k̲ínyaang'ang'aawaa
-     k̲ínyaang+V+NEG+3PL+INDIR+PAST: k̲ínyaang'ang'aawaan
-     k̲ínyaang+V+NEG+3PL+REL: k̲ínyaang'ang'waas
-     k̲ínyaang+V+NEG+3PL+REL+EVID: k̲ínyaang'ang'aawaas
-     k̲ínyaang+V+NEG+3PL+NONFACT: k̲ínyaang'ang'waa.ang
-     k̲ínyaang+V+NEG+3PL+PAST+NONFACT: k̲ínyaang'ang'aawaa.ang
-     k̲ínyaang+V+NEG+3PL+INTERR+PRES+HAB: k̲ínyaanggang'ang'waa
-     k̲ínyaang+V+NEG+3PL+PRES+HAB: k̲ínyaanggang'ang'waang
-     k̲ínyaang+V+NEG+3PL+PRES+HAB+NONFACT: k̲ínyaanggang'ang'waa.ang
-     k̲ínyaang+V+NEG+3PL+DIR+PAST+HAB: k̲ínyaang'ang'wägiinii
-     k̲ínyaang+V+NEG+3PL+INTERR+PAST+HAB: k̲ínyaang'ang'wägaangaa
-     k̲ínyaang+V+NEG+3PL+INDIR+PAST+HAB: k̲ínyaang'ang'wägaangaan
-     k̲ínyaang+V+NEG+3PL+INTERR+FUT+LONG: k̲ínyaang'ang'waaäsaa
-     k̲ínyaang+V+NEG+3PL+INTERR+FUT+SHORT: k̲ínyaang'ang'waaäs
-     k̲ínyaang+V+NEG+3PL+SIMP+FUT: k̲ínyaang'ang'waaäsaang
-     k̲ínyaang+V+NEG+3PL+IMM+FUT: k̲ínyaang'ang'waaäsga
-     k̲ínyaang+V+NEG+3PL+REL+FUT: k̲ínyaang'ang'waaäsaas
-     k̲ínyaang+V+NEG+3PL+FUT+NONFACT: k̲ínyaang'ang'waaäsaa.ang
-     k̲ínyaang+V+NEG+3PL+INTERR+NEAR+FUT: k̲ínyaang'waa.ang k̲asaa'áng
-     k̲ínyaang+V+NEG+3PL+NEAR+FUT: k̲ínyaang'waa.ang k̲asaa'ánggang
-     k̲ínyaang+V+NEG+3PL+INTERR+VNEAR+FUT: k̲ínyaang'waa.ang k̲asaasdlä'áng
-     k̲ínyaang+V+NEG+3PL+VNEAR+FUT: k̲ínyaang'waa.ang k̲asaasdlä'ánggang
-     k̲ínyaang+V+NEG+3PL+BIAS+IMM+PRES: k̲ínyaang'ang'waa'uuj
-     k̲ínyaang+V+NEG+3PL+BIAS+SIMP+PRES: k̲ínyaang'ang'waa'uujang
-     k̲ínyaang+V+NEG+3PL+RES: k̲ínyaang'ang'waaäsaa'uujang
-     k̲ínyaang+V+NEG+3PL+BIAS+INTERR+PRES: k̲ínyaang'ang'waa'us
-     k̲ínyaang+V+NEG+3PL+BIAS+INTERR+PAST: k̲ínyaang'ang'waa'ujaa
-     k̲ínyaang+V+NEG+3PL+BIAS+INTERR+PAST+HAB: k̲ínyaang'ang'waa'uujaangaa
-     k̲ínyaang+V+NEG+3PL+BIAS+INTERR+FUT: k̲ínyaang'ang'waaäsaa'us
-     k̲ínyaang+V+NEG+3PL+CERT+PRES: k̲ínyaang'ang'waa'ahlanggang
-     k̲ínyaang+V+NEG+3PL+CERT+PAST: k̲ínyaang'ang'waa'ahlanggan
-     k̲ínyaang+V+NEG+3PL+CERT+PAST+HAB: k̲ínyaang'ang'waa'ahlanggiinii
-     k̲ínyaang+V+NEG+3PL+CERT+FUT: k̲ínyaang'ang'waaäsaa'ahlans
-     k̲ínyaang+V+NEG+3PL+CERT+REL: k̲ínyaang'ang'waa'ahlans
-     k̲ínyaang+V+NEG+3PL+INTS+PAST: k̲ínyaang'ang'aawaa'ahlang
-     k̲ínyaang+V+NEG+3PL+CONT: k̲ínyaang'ang'aawaa'ahlanggaa
-     k̲ínyaang+V+NEG+3PL+CTFACT+PRES: k̲ínyaang'ang'aawaa'ahlanggang
-     k̲ínyaang+V+NEG+3PL+RFLX: k̲ínyaang'ang'waa'ahl
-     k̲ínyaang+V+NEG+3PL+FUT+RFLX+INTERR: k̲ínyaang'ang'waaäseehl
+     k̲ínyaang+V+Sg+Impv: k̲ínyaang
+     k̲ínyaang+V+Imm+Pres: k̲ínyaangga
+     k̲ínyaang+V+Interr+Simp+Pres: k̲ínyaang
+     k̲ínyaang+V+Simp+Pres: k̲ínyaanggang
+     k̲ínyaang+V+Dir+Past: k̲ínyaanggan
+     k̲ínyaang+V+Interr+Past: k̲ínyaangaa
+     k̲ínyaang+V+Indir+Past: k̲ínyaangaan
+     k̲ínyaang+V+Rel: k̲ínyaangs
+     k̲ínyaang+V+Rel+Evid: k̲ínyaangaas
+     k̲ínyaang+V+NonFact: k̲ínyaangang
+     k̲ínyaang+V+Past+NonFact: k̲ínyaangaa.ang
+     k̲ínyaang+V+Interr+Pres+Hab: k̲ínyaanggang
+     k̲ínyaang+V+Pres+Hab: k̲ínyaangganggang
+     k̲ínyaang+V+Pres+Hab+NonFact: k̲ínyaanggangang
+     k̲ínyaang+V+Dir+Past+Hab: k̲ínyaanggiinii
+     k̲ínyaang+V+Interr+Past+Hab: k̲ínyaangaangaa
+     k̲ínyaang+V+Indir+Past+Hab: k̲ínyaangaangaan
+     k̲ínyaang+V+Interr+Fut+Long: k̲ínyaangäsaa
+     k̲ínyaang+V+Interr+Fut+Short: k̲ínyaangäs
+     k̲ínyaang+V+Simp+Fut: k̲ínyaangäsaang
+     k̲ínyaang+V+Imm+Fut: k̲ínyaangäsga
+     k̲ínyaang+V+Rel+Fut: k̲ínyaangäsaas
+     k̲ínyaang+V+Fut+NonFact: k̲ínyaangäsaa.ang
+     k̲ínyaang+V+Interr+Near+Fut: k̲ínyaangang k̲asaʼáa
+     k̲ínyaang+V+Near+Fut: k̲ínyaangang k̲asaʼáang
+     k̲ínyaang+V+Interr+VNear+Fut: k̲ínyaangang k̲asaasdláa
+     k̲ínyaang+V+VNear+Fut: k̲ínyaangang k̲asaasdláang
+     k̲ínyaang+V+Bias+Imm+Pres: k̲ínyaangʼuuj
+     k̲ínyaang+V+Bias+Simp+Pres: k̲ínyaangʼuujang
+     k̲ínyaang+V+Res: k̲ínyaangäsaaʼuujang
+     k̲ínyaang+V+Bias+Interr+Pres: k̲ínyaangʼus
+     k̲ínyaang+V+Bias+Interr+Past: k̲ínyaangʼujaa
+     k̲ínyaang+V+Bias+Interr+Past+Hab: k̲ínyaangʼuujaangaa
+     k̲ínyaang+V+Bias+Interr+Fut: k̲ínyaangäsaaʼus
+     k̲ínyaang+V+Cert+Pres: k̲ínyaangʼahlanggang
+     k̲ínyaang+V+Cert+Past: k̲ínyaangʼahlanggan
+     k̲ínyaang+V+Cert+Past+Hab: k̲ínyaangʼahlanggiinii
+     k̲ínyaang+V+Cert+Fut: k̲ínyaangäsaaʼahlans
+     k̲ínyaang+V+Cert+Rel: k̲ínyaangʼahlans
+     k̲ínyaang+V+Ints+Past: k̲ínyaangaaʼahlang
+     k̲ínyaang+V+Cont: k̲ínyaangaaʼahlanggaa
+     k̲ínyaang+V+Ctfact+Pres: k̲ínyaangaaʼahlanggang
+     k̲ínyaang+V+Rflx: k̲ínyaangʼahl
+     k̲ínyaang+V+Fut+Rflx+Interr: k̲ínyaangäseehl
+     k̲ínyaang+V+Pl+Impv: k̲ínyaangʼuu
+     k̲ínyaang+V+3pl+Imm+Pres: k̲ínyaangʼwaa
+     k̲ínyaang+V+3pl+Interr+Simp+Pres: k̲ínyaangʼwaa
+     k̲ínyaang+V+3pl+Simp+Pres: k̲ínyaangʼwaang
+     k̲ínyaang+V+3pl+Dir+Past: k̲ínyaangʼwägan
+     k̲ínyaang+V+3pl+Interr+Past: k̲ínyaangʼaawaa
+     k̲ínyaang+V+3pl+Indir+Past: k̲ínyaangʼaawaan
+     k̲ínyaang+V+3pl+Rel: k̲ínyaangʼwaas
+     k̲ínyaang+V+3pl+Rel+Evid: k̲ínyaangʼaawaas
+     k̲ínyaang+V+3pl+NonFact: k̲ínyaangʼwaa.ang
+     k̲ínyaang+V+3pl+Past+NonFact: k̲ínyaangʼaawaa.ang
+     k̲ínyaang+V+3pl+Interr+Pres+Hab: k̲ínyaanggangʼwaa
+     k̲ínyaang+V+3pl+Pres+Hab: k̲ínyaanggangʼwaang
+     k̲ínyaang+V+3pl+Pres+Hab+NonFact: k̲ínyaanggangʼwaa.ang
+     k̲ínyaang+V+3pl+Dir+Past+Hab: k̲ínyaangʼwägiinii
+     k̲ínyaang+V+3pl+Interr+Past+Hab: k̲ínyaangʼwägaangaa
+     k̲ínyaang+V+3pl+Indir+Past+Hab: k̲ínyaangʼwägaangaan
+     k̲ínyaang+V+3pl+Interr+Fut+Long: k̲ínyaangʼwaaäsaa
+     k̲ínyaang+V+3pl+Interr+Fut+Short: k̲ínyaangʼwaaäs
+     k̲ínyaang+V+3pl+Simp+Fut: k̲ínyaangʼwaaäsaang
+     k̲ínyaang+V+3pl+Imm+Fut: k̲ínyaangʼwaaäsga
+     k̲ínyaang+V+3pl+Rel+Fut: k̲ínyaangʼwaaäsaas
+     k̲ínyaang+V+3pl+Fut+NonFact: k̲ínyaangʼwaaäsaa.ang
+     k̲ínyaang+V+3pl+Interr+Near+Fut: k̲ínyaangʼwaa.ang k̲asaʼáa
+     k̲ínyaang+V+3pl+Near+Fut: k̲ínyaangʼwaa.ang k̲asaʼáang
+     k̲ínyaang+V+3pl+Interr+VNear+Fut: k̲ínyaangʼwaa.ang k̲asaasdláa
+     k̲ínyaang+V+3pl+VNear+Fut: k̲ínyaangʼwaa.ang k̲asaasdláang
+     k̲ínyaang+V+3pl+Bias+Imm+Pres: k̲ínyaangʼwaaʼuuj
+     k̲ínyaang+V+3pl+Bias+Simp+Pres: k̲ínyaangʼwaaʼuujang
+     k̲ínyaang+V+3pl+Res: k̲ínyaangʼwaaäsaaʼuujang
+     k̲ínyaang+V+3pl+Bias+Interr+Pres: k̲ínyaangʼwaaʼus
+     k̲ínyaang+V+3pl+Bias+Interr+Past: k̲ínyaangʼwaaʼujaa
+     k̲ínyaang+V+3pl+Bias+Interr+Past+Hab: k̲ínyaangʼwaaʼuujaangaa
+     k̲ínyaang+V+3pl+Bias+Interr+Fut: k̲ínyaangʼwaaäsaaʼus
+     k̲ínyaang+V+3pl+Cert+Pres: k̲ínyaangʼwaaʼahlanggang
+     k̲ínyaang+V+3pl+Cert+Past: k̲ínyaangʼwaaʼahlanggan
+     k̲ínyaang+V+3pl+Cert+Past+Hab: k̲ínyaangʼwaaʼahlanggiinii
+     k̲ínyaang+V+3pl+Cert+Fut: k̲ínyaangʼwaaäsaaʼahlans
+     k̲ínyaang+V+3pl+Cert+Rel: k̲ínyaangʼwaaʼahlans
+     k̲ínyaang+V+3pl+Ints+Past: k̲ínyaangʼaawaaʼahlang
+     k̲ínyaang+V+3pl+Cont: k̲ínyaangʼaawaaʼahlanggaa
+     k̲ínyaang+V+3pl+Ctfact+Pres: k̲ínyaangʼaawaaʼahlanggang
+     k̲ínyaang+V+3pl+Rflx: k̲ínyaangʼwaaʼahl
+     k̲ínyaang+V+3pl+Fut+Rflx+Interr: k̲ínyaangʼwaaäseehl
+     k̲ínyaang+V+Neg+Sg+Impv: k̲ínyaangʼang
+     k̲ínyaang+V+Neg+Imm+Pres: k̲ínyaangʼangga
+     k̲ínyaang+V+Neg+Interr+Simp+Pres: k̲ínyaangʼang
+     k̲ínyaang+V+Neg+Simp+Pres: k̲ínyaangʼanggang
+     k̲ínyaang+V+Neg+Dir+Past: k̲ínyaangʼanggan
+     k̲ínyaang+V+Neg+Interr+Past: k̲ínyaangʼaangaa
+     k̲ínyaang+V+Neg+Indir+Past: k̲ínyaangʼaangaan
+     k̲ínyaang+V+Neg+Rel: k̲ínyaangʼans
+     k̲ínyaang+V+Neg+Rel+Evid: k̲ínyaangʼaangaas
+     k̲ínyaang+V+Neg+NonFact: k̲ínyaangʼangang
+     k̲ínyaang+V+Neg+Past+NonFact: k̲ínyaangʼaangaa.ang
+     k̲ínyaang+V+Neg+Interr+Pres+Hab: k̲ínyaangʼanggang
+     k̲ínyaang+V+Neg+Pres+Hab: k̲ínyaanggangʼanggang
+     k̲ínyaang+V+Neg+Pres+Hab+NonFact: k̲ínyaanggangʼangang
+     k̲ínyaang+V+Neg+Dir+Past+Hab: k̲ínyaangʼanggiinii
+     k̲ínyaang+V+Neg+Interr+Past+Hab: k̲ínyaangʼanggaangaa
+     k̲ínyaang+V+Neg+Indir+Past+Hab: k̲ínyaangʼanggaangaan
+     k̲ínyaang+V+Neg+Interr+Fut+Long: k̲ínyaangʼangäsaa
+     k̲ínyaang+V+Neg+Interr+Fut+Short: k̲ínyaangʼangäs
+     k̲ínyaang+V+Neg+Simp+Fut: k̲ínyaangʼangäsaang
+     k̲ínyaang+V+Neg+Imm+Fut: k̲ínyaangʼangäsga
+     k̲ínyaang+V+Neg+Rel+Fut: k̲ínyaangʼangäsaas
+     k̲ínyaang+V+Neg+Fut+NonFact: k̲ínyaangʼangäsaa.ang
+     k̲ínyaang+V+Neg+Interr+Near+Fut: k̲ínyaangang k̲asaaʼáng
+     k̲ínyaang+V+Neg+Near+Fut: k̲ínyaangang k̲asaaʼánggang
+     k̲ínyaang+V+Neg+Interr+VNear+Fut: k̲ínyaangang k̲asaasdläʼáng
+     k̲ínyaang+V+Neg+VNear+Fut: k̲ínyaangang k̲asaasdläʼánggang
+     k̲ínyaang+V+Neg+Bias+Imm+Pres: k̲ínyaangʼangʼuuj
+     k̲ínyaang+V+Neg+Bias+Simp+Pres: k̲ínyaangʼangʼuujang
+     k̲ínyaang+V+Neg+Res: k̲ínyaangʼangäsaaʼuujang
+     k̲ínyaang+V+Neg+Bias+Interr+Pres: k̲ínyaangʼangʼus
+     k̲ínyaang+V+Neg+Bias+Interr+Past: k̲ínyaangʼangʼujaa
+     k̲ínyaang+V+Neg+Bias+Interr+Past+Hab: k̲ínyaangʼangʼuujaangaa
+     k̲ínyaang+V+Neg+Bias+Interr+Fut: k̲ínyaangʼangäsaaʼus
+     k̲ínyaang+V+Neg+Cert+Pres: k̲ínyaangʼaangʼahlanggang
+     k̲ínyaang+V+Neg+Cert+Past: k̲ínyaangʼaangʼahlanggan
+     k̲ínyaang+V+Neg+Cert+Past+Hab: k̲ínyaangʼaangʼahlanggiinii
+     k̲ínyaang+V+Neg+Cert+Fut: k̲ínyaangʼangäsaaʼahlans
+     k̲ínyaang+V+Neg+Cert+Rel: k̲ínyaangʼaangʼahlans
+     k̲ínyaang+V+Neg+Ints+Past: k̲ínyaangʼaangaaʼahlang
+     k̲ínyaang+V+Neg+Cont: k̲ínyaangʼaangaaʼahlanggaa
+     k̲ínyaang+V+Neg+Ctfact+Pres: k̲ínyaangʼaangaaʼahlanggang
+     k̲ínyaang+V+Neg+Rflx: k̲ínyaangʼaangʼahl
+     k̲ínyaang+V+Neg+Fut+Rflx+Interr: k̲ínyaangʼangäseehl
+     k̲ínyaang+V+Neg+Pl+Impv: k̲ínyaangʼangʼuu
+     k̲ínyaang+V+Neg+3pl+Imm+Pres: k̲ínyaangʼangʼwaa
+     k̲ínyaang+V+Neg+3pl+Interr+Simp+Pres: k̲ínyaangʼangʼwaa
+     k̲ínyaang+V+Neg+3pl+Simp+Pres: k̲ínyaangʼangʼwaang
+     k̲ínyaang+V+Neg+3pl+Dir+Past: k̲ínyaangʼangʼwägan
+     k̲ínyaang+V+Neg+3pl+Interr+Past: k̲ínyaangʼangʼaawaa
+     k̲ínyaang+V+Neg+3pl+Indir+Past: k̲ínyaangʼangʼaawaan
+     k̲ínyaang+V+Neg+3pl+Rel: k̲ínyaangʼangʼwaas
+     k̲ínyaang+V+Neg+3pl+Rel+Evid: k̲ínyaangʼangʼaawaas
+     k̲ínyaang+V+Neg+3pl+NonFact: k̲ínyaangʼangʼwaa.ang
+     k̲ínyaang+V+Neg+3pl+Past+NonFact: k̲ínyaangʼangʼaawaa.ang
+     k̲ínyaang+V+Neg+3pl+Interr+Pres+Hab: k̲ínyaanggangʼangʼwaa
+     k̲ínyaang+V+Neg+3pl+Pres+Hab: k̲ínyaanggangʼangʼwaang
+     k̲ínyaang+V+Neg+3pl+Pres+Hab+NonFact: k̲ínyaanggangʼangʼwaa.ang
+     k̲ínyaang+V+Neg+3pl+Dir+Past+Hab: k̲ínyaangʼangʼwägiinii
+     k̲ínyaang+V+Neg+3pl+Interr+Past+Hab: k̲ínyaangʼangʼwägaangaa
+     k̲ínyaang+V+Neg+3pl+Indir+Past+Hab: k̲ínyaangʼangʼwägaangaan
+     k̲ínyaang+V+Neg+3pl+Interr+Fut+Long: k̲ínyaangʼangʼwaaäsaa
+     k̲ínyaang+V+Neg+3pl+Interr+Fut+Short: k̲ínyaangʼangʼwaaäs
+     k̲ínyaang+V+Neg+3pl+Simp+Fut: k̲ínyaangʼangʼwaaäsaang
+     k̲ínyaang+V+Neg+3pl+Imm+Fut: k̲ínyaangʼangʼwaaäsga
+     k̲ínyaang+V+Neg+3pl+Rel+Fut: k̲ínyaangʼangʼwaaäsaas
+     k̲ínyaang+V+Neg+3pl+Fut+NonFact: k̲ínyaangʼangʼwaaäsaa.ang
+     k̲ínyaang+V+Neg+3pl+Interr+Near+Fut: k̲ínyaangʼwaa.ang k̲asaaʼáng
+     k̲ínyaang+V+Neg+3pl+Near+Fut: k̲ínyaangʼwaa.ang k̲asaaʼánggang
+     k̲ínyaang+V+Neg+3pl+Interr+VNear+Fut: k̲ínyaangʼwaa.ang k̲asaasdläʼáng
+     k̲ínyaang+V+Neg+3pl+VNear+Fut: k̲ínyaangʼwaa.ang k̲asaasdläʼánggang
+     k̲ínyaang+V+Neg+3pl+Bias+Imm+Pres: k̲ínyaangʼangʼwaaʼuuj
+     k̲ínyaang+V+Neg+3pl+Bias+Simp+Pres: k̲ínyaangʼangʼwaaʼuujang
+     k̲ínyaang+V+Neg+3pl+Res: k̲ínyaangʼangʼwaaäsaaʼuujang
+     k̲ínyaang+V+Neg+3pl+Bias+Interr+Pres: k̲ínyaangʼangʼwaaʼus
+     k̲ínyaang+V+Neg+3pl+Bias+Interr+Past: k̲ínyaangʼangʼwaaʼujaa
+     k̲ínyaang+V+Neg+3pl+Bias+Interr+Past+Hab: k̲ínyaangʼangʼwaaʼuujaangaa
+     k̲ínyaang+V+Neg+3pl+Bias+Interr+Fut: k̲ínyaangʼangʼwaaäsaaʼus
+     k̲ínyaang+V+Neg+3pl+Cert+Pres: k̲ínyaangʼangʼwaaʼahlanggang
+     k̲ínyaang+V+Neg+3pl+Cert+Past: k̲ínyaangʼangʼwaaʼahlanggan
+     k̲ínyaang+V+Neg+3pl+Cert+Past+Hab: k̲ínyaangʼangʼwaaʼahlanggiinii
+     k̲ínyaang+V+Neg+3pl+Cert+Fut: k̲ínyaangʼangʼwaaäsaaʼahlans
+     k̲ínyaang+V+Neg+3pl+Cert+Rel: k̲ínyaangʼangʼwaaʼahlans
+     k̲ínyaang+V+Neg+3pl+Ints+Past: k̲ínyaangʼangʼaawaaʼahlang
+     k̲ínyaang+V+Neg+3pl+Cont: k̲ínyaangʼangʼaawaaʼahlanggaa
+     k̲ínyaang+V+Neg+3pl+Ctfact+Pres: k̲ínyaangʼangʼaawaaʼahlanggang
+     k̲ínyaang+V+Neg+3pl+Rflx: k̲ínyaangʼangʼwaaʼahl
+     k̲ínyaang+V+Neg+3pl+Fut+Rflx+Interr: k̲ínyaangʼangʼwaaäseehl
 

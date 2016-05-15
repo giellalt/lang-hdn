@@ -11,180 +11,180 @@ Tests:
 
   Verb - jadahlgwáay - ENGLISH : # CLASS_AAY
 
-     jadahlgwáay+V+SG+IMPV: jadahlgwáay
-     jadahlgwáay+V+IMM+PRES: jadahlgwáayga
-     jadahlgwáay+V+INTERR+SIMP+PRES: jadahlgwáay
-     jadahlgwáay+V+SIMP+PRES: jadahlgwáaygang
-     jadahlgwáay+V+DIR+PAST: jadahlgwáaygan
-     jadahlgwáay+V+INTERR+PAST: jadahlgwáayaa
-     jadahlgwáay+V+INDIR+PAST: jadahlgwáayaan
-     jadahlgwáay+V+REL: jadahlgwáays
-     jadahlgwáay+V+REL+EVID: jadahlgwáayaas
-     jadahlgwáay+V+NONFACT: jadahlgwáayang
-     jadahlgwáay+V+PAST+NONFACT: jadahlgwáayaa.ang
-     jadahlgwáay+V+INTERR+PRES+HAB: jadahlgwáaygang
-     jadahlgwáay+V+PRES+HAB: jadahlgwáayganggang
-     jadahlgwáay+V+PRES+HAB+NONFACT: jadahlgwáaygangang
-     jadahlgwáay+V+DIR+PAST+HAB: jadahlgwáaygiinii
-     jadahlgwáay+V+INTERR+PAST+HAB: jadahlgwáaygaangaa
-     jadahlgwáay+V+INDIR+PAST+HAB: jadahlgwáaygaangaan
-     jadahlgwáay+V+INTERR+FUT+LONG: jadahlgwáayäsaa
-     jadahlgwáay+V+INTERR+FUT+SHORT: jadahlgwáayäs
-     jadahlgwáay+V+SIMP+FUT: jadahlgwáayäsaang
-     jadahlgwáay+V+IMM+FUT: jadahlgwáayäsga
-     jadahlgwáay+V+REL+FUT: jadahlgwáayäsaas
-     jadahlgwáay+V+FUT+NONFACT: jadahlgwáayäsaa.ang
-     jadahlgwáay+V+INTERR+NEAR+FUT: jadahlgwáayang k̲asa'áa
-     jadahlgwáay+V+NEAR+FUT: jadahlgwáayang k̲asa'áang
-     jadahlgwáay+V+INTERR+VNEAR+FUT: jadahlgwáayang k̲asaasdláa
-     jadahlgwáay+V+VNEAR+FUT: jadahlgwáayang k̲asaasdláang
-     jadahlgwáay+V+BIAS+IMM+PRES: jadahlgwáay'uuj
-     jadahlgwáay+V+BIAS+SIMP+PRES: jadahlgwáay'uujang
-     jadahlgwáay+V+RES: jadahlgwáayäsaa'uujang
-     jadahlgwáay+V+BIAS+INTERR+PRES: jadahlgwáay'us
-     jadahlgwáay+V+BIAS+INTERR+PAST: jadahlgwáay'ujaa
-     jadahlgwáay+V+BIAS+INTERR+PAST+HAB: jadahlgwáay'uujaangaa
-     jadahlgwáay+V+BIAS+INTERR+FUT: jadahlgwáayäsaa'us
-     jadahlgwáay+V+CERT+PRES: jadahlgwáay'ahlanggang
-     jadahlgwáay+V+CERT+PAST: jadahlgwáay'ahlanggan
-     jadahlgwáay+V+CERT+PAST+HAB: jadahlgwáay'ahlanggiinii
-     jadahlgwáay+V+CERT+FUT: jadahlgwáayäsaa'ahlans
-     jadahlgwáay+V+CERT+REL: jadahlgwáay'ahlans
-     jadahlgwáay+V+INTS+PAST: jadahlgwáaygaa'ahlang
-     jadahlgwáay+V+CONT: jadahlgwáaygaa'ahlanggaa
-     jadahlgwáay+V+CTFACT+PRES: jadahlgwáaygaa'ahlanggang
-     jadahlgwáay+V+RFLX: jadahlgwáay'ahl
-     jadahlgwáay+V+FUT+RFLX+INTERR: jadahlgwáayäseehl
-     jadahlgwáay+V+PL+IMPV: jadahlgwáay'uu
-     jadahlgwáay+V+3PL+IMM+PRES: jadahlgwáay'waa
-     jadahlgwáay+V+3PL+INTERR+SIMP+PRES: jadahlgwáay'waa
-     jadahlgwáay+V+3PL+SIMP+PRES: jadahlgwáay'waang
-     jadahlgwáay+V+3PL+DIR+PAST: jadahlgwáay'wägan
-     jadahlgwáay+V+3PL+INTERR+PAST: jadahlgwáay'aawaa
-     jadahlgwáay+V+3PL+INDIR+PAST: jadahlgwáay'aawaan
-     jadahlgwáay+V+3PL+REL: jadahlgwáay'waas
-     jadahlgwáay+V+3PL+REL+EVID: jadahlgwáay'aawaas
-     jadahlgwáay+V+3PL+NONFACT: jadahlgwáay'waa.ang
-     jadahlgwáay+V+3PL+PAST+NONFACT: jadahlgwáay'aawaa.ang
-     jadahlgwáay+V+3PL+INTERR+PRES+HAB: jadahlgwáaygang'waa
-     jadahlgwáay+V+3PL+PRES+HAB: jadahlgwáaygang'waang
-     jadahlgwáay+V+3PL+PRES+HAB+NONFACT: jadahlgwáaygang'waa.ang
-     jadahlgwáay+V+3PL+DIR+PAST+HAB: jadahlgwáay'wägiinii
-     jadahlgwáay+V+3PL+INTERR+PAST+HAB: jadahlgwáay'wägaangaa
-     jadahlgwáay+V+3PL+INDIR+PAST+HAB: jadahlgwáay'wägaangaan
-     jadahlgwáay+V+3PL+INTERR+FUT+LONG: jadahlgwáay'waaäsaa
-     jadahlgwáay+V+3PL+INTERR+FUT+SHORT: jadahlgwáay'waaäs
-     jadahlgwáay+V+3PL+SIMP+FUT: jadahlgwáay'waaäsaang
-     jadahlgwáay+V+3PL+IMM+FUT: jadahlgwáay'waaäsga
-     jadahlgwáay+V+3PL+REL+FUT: jadahlgwáay'waaäsaas
-     jadahlgwáay+V+3PL+FUT+NONFACT: jadahlgwáay'waaäsaa.ang
-     jadahlgwáay+V+3PL+INTERR+NEAR+FUT: jadahlgwáay'waa.ang k̲asa'áa
-     jadahlgwáay+V+3PL+NEAR+FUT: jadahlgwáay'waa.ang k̲asa'áang
-     jadahlgwáay+V+3PL+INTERR+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdláa
-     jadahlgwáay+V+3PL+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdláang
-     jadahlgwáay+V+3PL+BIAS+IMM+PRES: jadahlgwáay'waa'uuj
-     jadahlgwáay+V+3PL+BIAS+SIMP+PRES: jadahlgwáay'waa'uujang
-     jadahlgwáay+V+3PL+RES: jadahlgwáay'waaäsaa'uujang
-     jadahlgwáay+V+3PL+BIAS+INTERR+PRES: jadahlgwáay'waa'us
-     jadahlgwáay+V+3PL+BIAS+INTERR+PAST: jadahlgwáay'waa'ujaa
-     jadahlgwáay+V+3PL+BIAS+INTERR+PAST+HAB: jadahlgwáay'waa'uujaangaa
-     jadahlgwáay+V+3PL+BIAS+INTERR+FUT: jadahlgwáay'waaäsaa'us
-     jadahlgwáay+V+3PL+CERT+PRES: jadahlgwáay'waa'ahlanggang
-     jadahlgwáay+V+3PL+CERT+PAST: jadahlgwáay'waa'ahlanggan
-     jadahlgwáay+V+3PL+CERT+PAST+HAB: jadahlgwáay'waa'ahlanggiinii
-     jadahlgwáay+V+3PL+CERT+FUT: jadahlgwáay'waaäsaa'ahlans
-     jadahlgwáay+V+3PL+CERT+REL: jadahlgwáay'waa'ahlans
-     jadahlgwáay+V+3PL+INTS+PAST: jadahlgwáay'aawaa'ahlang
-     jadahlgwáay+V+3PL+CONT: jadahlgwáay'aawaa'ahlanggaa
-     jadahlgwáay+V+3PL+CTFACT+PRES: jadahlgwáay'aawaa'ahlanggang
-     jadahlgwáay+V+3PL+RFLX: jadahlgwáay'waa'ahl
-     jadahlgwáay+V+3PL+FUT+RFLX+INTERR: jadahlgwáay'waaäseehl
-     jadahlgwáay+V+NEG+SG+IMPV: jadahlgwáay'ang
-     jadahlgwáay+V+NEG+IMM+PRES: jadahlgwáay'angga
-     jadahlgwáay+V+NEG+INTERR+SIMP+PRES: jadahlgwáay'ang
-     jadahlgwáay+V+NEG+SIMP+PRES: jadahlgwáay'anggang
-     jadahlgwáay+V+NEG+DIR+PAST: jadahlgwáay'anggan
-     jadahlgwáay+V+NEG+INTERR+PAST: jadahlgwáay'aangaa
-     jadahlgwáay+V+NEG+INDIR+PAST: jadahlgwáay'aangaan
-     jadahlgwáay+V+NEG+REL: jadahlgwáay'ans
-     jadahlgwáay+V+NEG+REL+EVID: jadahlgwáay'aangaas
-     jadahlgwáay+V+NEG+NONFACT: jadahlgwáay'angang
-     jadahlgwáay+V+NEG+PAST+NONFACT: jadahlgwáay'aangaa.ang
-     jadahlgwáay+V+NEG+INTERR+PRES+HAB: jadahlgwáay'anggang
-     jadahlgwáay+V+NEG+PRES+HAB: jadahlgwáaygang'anggang
-     jadahlgwáay+V+NEG+PRES+HAB+NONFACT: jadahlgwáaygang'angang
-     jadahlgwáay+V+NEG+DIR+PAST+HAB: jadahlgwáay'anggiinii
-     jadahlgwáay+V+NEG+INTERR+PAST+HAB: jadahlgwáay'anggaangaa
-     jadahlgwáay+V+NEG+INDIR+PAST+HAB: jadahlgwáay'anggaangaan
-     jadahlgwáay+V+NEG+INTERR+FUT+LONG: jadahlgwáay'angäsaa
-     jadahlgwáay+V+NEG+INTERR+FUT+SHORT: jadahlgwáay'angäs
-     jadahlgwáay+V+NEG+SIMP+FUT: jadahlgwáay'angäsaang
-     jadahlgwáay+V+NEG+IMM+FUT: jadahlgwáay'angäsga
-     jadahlgwáay+V+NEG+REL+FUT: jadahlgwáay'angäsaas
-     jadahlgwáay+V+NEG+FUT+NONFACT: jadahlgwáay'angäsaa.ang
-     jadahlgwáay+V+NEG+INTERR+NEAR+FUT: jadahlgwáayang k̲asaa'áng
-     jadahlgwáay+V+NEG+NEAR+FUT: jadahlgwáayang k̲asaa'ánggang
-     jadahlgwáay+V+NEG+INTERR+VNEAR+FUT: jadahlgwáayang k̲asaasdlä'áng
-     jadahlgwáay+V+NEG+VNEAR+FUT: jadahlgwáayang k̲asaasdlä'ánggang
-     jadahlgwáay+V+NEG+BIAS+IMM+PRES: jadahlgwáay'ang'uuj
-     jadahlgwáay+V+NEG+BIAS+SIMP+PRES: jadahlgwáay'ang'uujang
-     jadahlgwáay+V+NEG+RES: jadahlgwáay'angäsaa'uujang
-     jadahlgwáay+V+NEG+BIAS+INTERR+PRES: jadahlgwáay'ang'us
-     jadahlgwáay+V+NEG+BIAS+INTERR+PAST: jadahlgwáay'ang'ujaa
-     jadahlgwáay+V+NEG+BIAS+INTERR+PAST+HAB: jadahlgwáay'ang'uujaangaa
-     jadahlgwáay+V+NEG+BIAS+INTERR+FUT: jadahlgwáay'angäsaa'us
-     jadahlgwáay+V+NEG+CERT+PRES: jadahlgwáay'aang'ahlanggang
-     jadahlgwáay+V+NEG+CERT+PAST: jadahlgwáay'aang'ahlanggan
-     jadahlgwáay+V+NEG+CERT+PAST+HAB: jadahlgwáay'aang'ahlanggiinii
-     jadahlgwáay+V+NEG+CERT+FUT: jadahlgwáay'angäsaa'ahlans
-     jadahlgwáay+V+NEG+CERT+REL: jadahlgwáay'aang'ahlans
-     jadahlgwáay+V+NEG+INTS+PAST: jadahlgwáay'aangaa'ahlang
-     jadahlgwáay+V+NEG+CONT: jadahlgwáay'aangaa'ahlanggaa
-     jadahlgwáay+V+NEG+CTFACT+PRES: jadahlgwáay'aangaa'ahlanggang
-     jadahlgwáay+V+NEG+RFLX: jadahlgwáay'aang'ahl
-     jadahlgwáay+V+NEG+FUT+RFLX+INTERR: jadahlgwáay'angäseehl
-     jadahlgwáay+V+NEG+PL+IMPV: jadahlgwáay'ang'uu
-     jadahlgwáay+V+NEG+3PL+IMM+PRES: jadahlgwáay'ang'waa
-     jadahlgwáay+V+NEG+3PL+INTERR+SIMP+PRES: jadahlgwáay'ang'waa
-     jadahlgwáay+V+NEG+3PL+SIMP+PRES: jadahlgwáay'ang'waang
-     jadahlgwáay+V+NEG+3PL+DIR+PAST: jadahlgwáay'ang'wägan
-     jadahlgwáay+V+NEG+3PL+INTERR+PAST: jadahlgwáay'ang'aawaa
-     jadahlgwáay+V+NEG+3PL+INDIR+PAST: jadahlgwáay'ang'aawaan
-     jadahlgwáay+V+NEG+3PL+REL: jadahlgwáay'ang'waas
-     jadahlgwáay+V+NEG+3PL+REL+EVID: jadahlgwáay'ang'aawaas
-     jadahlgwáay+V+NEG+3PL+NONFACT: jadahlgwáay'ang'waa.ang
-     jadahlgwáay+V+NEG+3PL+PAST+NONFACT: jadahlgwáay'ang'aawaa.ang
-     jadahlgwáay+V+NEG+3PL+INTERR+PRES+HAB: jadahlgwáaygang'ang'waa
-     jadahlgwáay+V+NEG+3PL+PRES+HAB: jadahlgwáaygang'ang'waang
-     jadahlgwáay+V+NEG+3PL+PRES+HAB+NONFACT: jadahlgwáaygang'ang'waa.ang
-     jadahlgwáay+V+NEG+3PL+DIR+PAST+HAB: jadahlgwáay'ang'wägiinii
-     jadahlgwáay+V+NEG+3PL+INTERR+PAST+HAB: jadahlgwáay'ang'wägaangaa
-     jadahlgwáay+V+NEG+3PL+INDIR+PAST+HAB: jadahlgwáay'ang'wägaangaan
-     jadahlgwáay+V+NEG+3PL+INTERR+FUT+LONG: jadahlgwáay'ang'waaäsaa
-     jadahlgwáay+V+NEG+3PL+INTERR+FUT+SHORT: jadahlgwáay'ang'waaäs
-     jadahlgwáay+V+NEG+3PL+SIMP+FUT: jadahlgwáay'ang'waaäsaang
-     jadahlgwáay+V+NEG+3PL+IMM+FUT: jadahlgwáay'ang'waaäsga
-     jadahlgwáay+V+NEG+3PL+REL+FUT: jadahlgwáay'ang'waaäsaas
-     jadahlgwáay+V+NEG+3PL+FUT+NONFACT: jadahlgwáay'ang'waaäsaa.ang
-     jadahlgwáay+V+NEG+3PL+INTERR+NEAR+FUT: jadahlgwáay'waa.ang k̲asaa'áng
-     jadahlgwáay+V+NEG+3PL+NEAR+FUT: jadahlgwáay'waa.ang k̲asaa'ánggang
-     jadahlgwáay+V+NEG+3PL+INTERR+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdlä'áng
-     jadahlgwáay+V+NEG+3PL+VNEAR+FUT: jadahlgwáay'waa.ang k̲asaasdlä'ánggang
-     jadahlgwáay+V+NEG+3PL+BIAS+IMM+PRES: jadahlgwáay'ang'waa'uuj
-     jadahlgwáay+V+NEG+3PL+BIAS+SIMP+PRES: jadahlgwáay'ang'waa'uujang
-     jadahlgwáay+V+NEG+3PL+RES: jadahlgwáay'ang'waaäsaa'uujang
-     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+PRES: jadahlgwáay'ang'waa'us
-     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+PAST: jadahlgwáay'ang'waa'ujaa
-     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+PAST+HAB: jadahlgwáay'ang'waa'uujaangaa
-     jadahlgwáay+V+NEG+3PL+BIAS+INTERR+FUT: jadahlgwáay'ang'waaäsaa'us
-     jadahlgwáay+V+NEG+3PL+CERT+PRES: jadahlgwáay'ang'waa'ahlanggang
-     jadahlgwáay+V+NEG+3PL+CERT+PAST: jadahlgwáay'ang'waa'ahlanggan
-     jadahlgwáay+V+NEG+3PL+CERT+PAST+HAB: jadahlgwáay'ang'waa'ahlanggiinii
-     jadahlgwáay+V+NEG+3PL+CERT+FUT: jadahlgwáay'ang'waaäsaa'ahlans
-     jadahlgwáay+V+NEG+3PL+CERT+REL: jadahlgwáay'ang'waa'ahlans
-     jadahlgwáay+V+NEG+3PL+INTS+PAST: jadahlgwáay'ang'aawaa'ahlang
-     jadahlgwáay+V+NEG+3PL+CONT: jadahlgwáay'ang'aawaa'ahlanggaa
-     jadahlgwáay+V+NEG+3PL+CTFACT+PRES: jadahlgwáay'ang'aawaa'ahlanggang
-     jadahlgwáay+V+NEG+3PL+RFLX: jadahlgwáay'ang'waa'ahl
-     jadahlgwáay+V+NEG+3PL+FUT+RFLX+INTERR: jadahlgwáay'ang'waaäseehl
+     jadahlgwáay+V+Sg+Impv: jadahlgwáay
+     jadahlgwáay+V+Imm+Pres: jadahlgwáayga
+     jadahlgwáay+V+Interr+Simp+Pres: jadahlgwáay
+     jadahlgwáay+V+Simp+Pres: jadahlgwáaygang
+     jadahlgwáay+V+Dir+Past: jadahlgwáaygan
+     jadahlgwáay+V+Interr+Past: jadahlgwáayaa
+     jadahlgwáay+V+Indir+Past: jadahlgwáayaan
+     jadahlgwáay+V+Rel: jadahlgwáays
+     jadahlgwáay+V+Rel+Evid: jadahlgwáayaas
+     jadahlgwáay+V+NonFact: jadahlgwáayang
+     jadahlgwáay+V+Past+NonFact: jadahlgwáayaa.ang
+     jadahlgwáay+V+Interr+Pres+Hab: jadahlgwáaygang
+     jadahlgwáay+V+Pres+Hab: jadahlgwáayganggang
+     jadahlgwáay+V+Pres+Hab+NonFact: jadahlgwáaygangang
+     jadahlgwáay+V+Dir+Past+Hab: jadahlgwáaygiinii
+     jadahlgwáay+V+Interr+Past+Hab: jadahlgwáaygaangaa
+     jadahlgwáay+V+Indir+Past+Hab: jadahlgwáaygaangaan
+     jadahlgwáay+V+Interr+Fut+Long: jadahlgwáayäsaa
+     jadahlgwáay+V+Interr+Fut+Short: jadahlgwáayäs
+     jadahlgwáay+V+Simp+Fut: jadahlgwáayäsaang
+     jadahlgwáay+V+Imm+Fut: jadahlgwáayäsga
+     jadahlgwáay+V+Rel+Fut: jadahlgwáayäsaas
+     jadahlgwáay+V+Fut+NonFact: jadahlgwáayäsaa.ang
+     jadahlgwáay+V+Interr+Near+Fut: jadahlgwáayang k̲asaʼáa
+     jadahlgwáay+V+Near+Fut: jadahlgwáayang k̲asaʼáang
+     jadahlgwáay+V+Interr+VNear+Fut: jadahlgwáayang k̲asaasdláa
+     jadahlgwáay+V+VNear+Fut: jadahlgwáayang k̲asaasdláang
+     jadahlgwáay+V+Bias+Imm+Pres: jadahlgwáayʼuuj
+     jadahlgwáay+V+Bias+Simp+Pres: jadahlgwáayʼuujang
+     jadahlgwáay+V+Res: jadahlgwáayäsaaʼuujang
+     jadahlgwáay+V+Bias+Interr+Pres: jadahlgwáayʼus
+     jadahlgwáay+V+Bias+Interr+Past: jadahlgwáayʼujaa
+     jadahlgwáay+V+Bias+Interr+Past+Hab: jadahlgwáayʼuujaangaa
+     jadahlgwáay+V+Bias+Interr+Fut: jadahlgwáayäsaaʼus
+     jadahlgwáay+V+Cert+Pres: jadahlgwáayʼahlanggang
+     jadahlgwáay+V+Cert+Past: jadahlgwáayʼahlanggan
+     jadahlgwáay+V+Cert+Past+Hab: jadahlgwáayʼahlanggiinii
+     jadahlgwáay+V+Cert+Fut: jadahlgwáayäsaaʼahlans
+     jadahlgwáay+V+Cert+Rel: jadahlgwáayʼahlans
+     jadahlgwáay+V+Ints+Past: jadahlgwáaygaaʼahlang
+     jadahlgwáay+V+Cont: jadahlgwáaygaaʼahlanggaa
+     jadahlgwáay+V+Ctfact+Pres: jadahlgwáaygaaʼahlanggang
+     jadahlgwáay+V+Rflx: jadahlgwáayʼahl
+     jadahlgwáay+V+Fut+Rflx+Interr: jadahlgwáayäseehl
+     jadahlgwáay+V+Pl+Impv: jadahlgwáayʼuu
+     jadahlgwáay+V+3pl+Imm+Pres: jadahlgwáayʼwaa
+     jadahlgwáay+V+3pl+Interr+Simp+Pres: jadahlgwáayʼwaa
+     jadahlgwáay+V+3pl+Simp+Pres: jadahlgwáayʼwaang
+     jadahlgwáay+V+3pl+Dir+Past: jadahlgwáayʼwägan
+     jadahlgwáay+V+3pl+Interr+Past: jadahlgwáayʼaawaa
+     jadahlgwáay+V+3pl+Indir+Past: jadahlgwáayʼaawaan
+     jadahlgwáay+V+3pl+Rel: jadahlgwáayʼwaas
+     jadahlgwáay+V+3pl+Rel+Evid: jadahlgwáayʼaawaas
+     jadahlgwáay+V+3pl+NonFact: jadahlgwáayʼwaa.ang
+     jadahlgwáay+V+3pl+Past+NonFact: jadahlgwáayʼaawaa.ang
+     jadahlgwáay+V+3pl+Interr+Pres+Hab: jadahlgwáaygangʼwaa
+     jadahlgwáay+V+3pl+Pres+Hab: jadahlgwáaygangʼwaang
+     jadahlgwáay+V+3pl+Pres+Hab+NonFact: jadahlgwáaygangʼwaa.ang
+     jadahlgwáay+V+3pl+Dir+Past+Hab: jadahlgwáayʼwägiinii
+     jadahlgwáay+V+3pl+Interr+Past+Hab: jadahlgwáayʼwägaangaa
+     jadahlgwáay+V+3pl+Indir+Past+Hab: jadahlgwáayʼwägaangaan
+     jadahlgwáay+V+3pl+Interr+Fut+Long: jadahlgwáayʼwaaäsaa
+     jadahlgwáay+V+3pl+Interr+Fut+Short: jadahlgwáayʼwaaäs
+     jadahlgwáay+V+3pl+Simp+Fut: jadahlgwáayʼwaaäsaang
+     jadahlgwáay+V+3pl+Imm+Fut: jadahlgwáayʼwaaäsga
+     jadahlgwáay+V+3pl+Rel+Fut: jadahlgwáayʼwaaäsaas
+     jadahlgwáay+V+3pl+Fut+NonFact: jadahlgwáayʼwaaäsaa.ang
+     jadahlgwáay+V+3pl+Interr+Near+Fut: jadahlgwáayʼwaa.ang k̲asaʼáa
+     jadahlgwáay+V+3pl+Near+Fut: jadahlgwáayʼwaa.ang k̲asaʼáang
+     jadahlgwáay+V+3pl+Interr+VNear+Fut: jadahlgwáayʼwaa.ang k̲asaasdláa
+     jadahlgwáay+V+3pl+VNear+Fut: jadahlgwáayʼwaa.ang k̲asaasdláang
+     jadahlgwáay+V+3pl+Bias+Imm+Pres: jadahlgwáayʼwaaʼuuj
+     jadahlgwáay+V+3pl+Bias+Simp+Pres: jadahlgwáayʼwaaʼuujang
+     jadahlgwáay+V+3pl+Res: jadahlgwáayʼwaaäsaaʼuujang
+     jadahlgwáay+V+3pl+Bias+Interr+Pres: jadahlgwáayʼwaaʼus
+     jadahlgwáay+V+3pl+Bias+Interr+Past: jadahlgwáayʼwaaʼujaa
+     jadahlgwáay+V+3pl+Bias+Interr+Past+Hab: jadahlgwáayʼwaaʼuujaangaa
+     jadahlgwáay+V+3pl+Bias+Interr+Fut: jadahlgwáayʼwaaäsaaʼus
+     jadahlgwáay+V+3pl+Cert+Pres: jadahlgwáayʼwaaʼahlanggang
+     jadahlgwáay+V+3pl+Cert+Past: jadahlgwáayʼwaaʼahlanggan
+     jadahlgwáay+V+3pl+Cert+Past+Hab: jadahlgwáayʼwaaʼahlanggiinii
+     jadahlgwáay+V+3pl+Cert+Fut: jadahlgwáayʼwaaäsaaʼahlans
+     jadahlgwáay+V+3pl+Cert+Rel: jadahlgwáayʼwaaʼahlans
+     jadahlgwáay+V+3pl+Ints+Past: jadahlgwáayʼaawaaʼahlang
+     jadahlgwáay+V+3pl+Cont: jadahlgwáayʼaawaaʼahlanggaa
+     jadahlgwáay+V+3pl+Ctfact+Pres: jadahlgwáayʼaawaaʼahlanggang
+     jadahlgwáay+V+3pl+Rflx: jadahlgwáayʼwaaʼahl
+     jadahlgwáay+V+3pl+Fut+Rflx+Interr: jadahlgwáayʼwaaäseehl
+     jadahlgwáay+V+Neg+Sg+Impv: jadahlgwáayʼang
+     jadahlgwáay+V+Neg+Imm+Pres: jadahlgwáayʼangga
+     jadahlgwáay+V+Neg+Interr+Simp+Pres: jadahlgwáayʼang
+     jadahlgwáay+V+Neg+Simp+Pres: jadahlgwáayʼanggang
+     jadahlgwáay+V+Neg+Dir+Past: jadahlgwáayʼanggan
+     jadahlgwáay+V+Neg+Interr+Past: jadahlgwáayʼaangaa
+     jadahlgwáay+V+Neg+Indir+Past: jadahlgwáayʼaangaan
+     jadahlgwáay+V+Neg+Rel: jadahlgwáayʼans
+     jadahlgwáay+V+Neg+Rel+Evid: jadahlgwáayʼaangaas
+     jadahlgwáay+V+Neg+NonFact: jadahlgwáayʼangang
+     jadahlgwáay+V+Neg+Past+NonFact: jadahlgwáayʼaangaa.ang
+     jadahlgwáay+V+Neg+Interr+Pres+Hab: jadahlgwáayʼanggang
+     jadahlgwáay+V+Neg+Pres+Hab: jadahlgwáaygangʼanggang
+     jadahlgwáay+V+Neg+Pres+Hab+NonFact: jadahlgwáaygangʼangang
+     jadahlgwáay+V+Neg+Dir+Past+Hab: jadahlgwáayʼanggiinii
+     jadahlgwáay+V+Neg+Interr+Past+Hab: jadahlgwáayʼanggaangaa
+     jadahlgwáay+V+Neg+Indir+Past+Hab: jadahlgwáayʼanggaangaan
+     jadahlgwáay+V+Neg+Interr+Fut+Long: jadahlgwáayʼangäsaa
+     jadahlgwáay+V+Neg+Interr+Fut+Short: jadahlgwáayʼangäs
+     jadahlgwáay+V+Neg+Simp+Fut: jadahlgwáayʼangäsaang
+     jadahlgwáay+V+Neg+Imm+Fut: jadahlgwáayʼangäsga
+     jadahlgwáay+V+Neg+Rel+Fut: jadahlgwáayʼangäsaas
+     jadahlgwáay+V+Neg+Fut+NonFact: jadahlgwáayʼangäsaa.ang
+     jadahlgwáay+V+Neg+Interr+Near+Fut: jadahlgwáayang k̲asaaʼáng
+     jadahlgwáay+V+Neg+Near+Fut: jadahlgwáayang k̲asaaʼánggang
+     jadahlgwáay+V+Neg+Interr+VNear+Fut: jadahlgwáayang k̲asaasdläʼáng
+     jadahlgwáay+V+Neg+VNear+Fut: jadahlgwáayang k̲asaasdläʼánggang
+     jadahlgwáay+V+Neg+Bias+Imm+Pres: jadahlgwáayʼangʼuuj
+     jadahlgwáay+V+Neg+Bias+Simp+Pres: jadahlgwáayʼangʼuujang
+     jadahlgwáay+V+Neg+Res: jadahlgwáayʼangäsaaʼuujang
+     jadahlgwáay+V+Neg+Bias+Interr+Pres: jadahlgwáayʼangʼus
+     jadahlgwáay+V+Neg+Bias+Interr+Past: jadahlgwáayʼangʼujaa
+     jadahlgwáay+V+Neg+Bias+Interr+Past+Hab: jadahlgwáayʼangʼuujaangaa
+     jadahlgwáay+V+Neg+Bias+Interr+Fut: jadahlgwáayʼangäsaaʼus
+     jadahlgwáay+V+Neg+Cert+Pres: jadahlgwáayʼaangʼahlanggang
+     jadahlgwáay+V+Neg+Cert+Past: jadahlgwáayʼaangʼahlanggan
+     jadahlgwáay+V+Neg+Cert+Past+Hab: jadahlgwáayʼaangʼahlanggiinii
+     jadahlgwáay+V+Neg+Cert+Fut: jadahlgwáayʼangäsaaʼahlans
+     jadahlgwáay+V+Neg+Cert+Rel: jadahlgwáayʼaangʼahlans
+     jadahlgwáay+V+Neg+Ints+Past: jadahlgwáayʼaangaaʼahlang
+     jadahlgwáay+V+Neg+Cont: jadahlgwáayʼaangaaʼahlanggaa
+     jadahlgwáay+V+Neg+Ctfact+Pres: jadahlgwáayʼaangaaʼahlanggang
+     jadahlgwáay+V+Neg+Rflx: jadahlgwáayʼaangʼahl
+     jadahlgwáay+V+Neg+Fut+Rflx+Interr: jadahlgwáayʼangäseehl
+     jadahlgwáay+V+Neg+Pl+Impv: jadahlgwáayʼangʼuu
+     jadahlgwáay+V+Neg+3pl+Imm+Pres: jadahlgwáayʼangʼwaa
+     jadahlgwáay+V+Neg+3pl+Interr+Simp+Pres: jadahlgwáayʼangʼwaa
+     jadahlgwáay+V+Neg+3pl+Simp+Pres: jadahlgwáayʼangʼwaang
+     jadahlgwáay+V+Neg+3pl+Dir+Past: jadahlgwáayʼangʼwägan
+     jadahlgwáay+V+Neg+3pl+Interr+Past: jadahlgwáayʼangʼaawaa
+     jadahlgwáay+V+Neg+3pl+Indir+Past: jadahlgwáayʼangʼaawaan
+     jadahlgwáay+V+Neg+3pl+Rel: jadahlgwáayʼangʼwaas
+     jadahlgwáay+V+Neg+3pl+Rel+Evid: jadahlgwáayʼangʼaawaas
+     jadahlgwáay+V+Neg+3pl+NonFact: jadahlgwáayʼangʼwaa.ang
+     jadahlgwáay+V+Neg+3pl+Past+NonFact: jadahlgwáayʼangʼaawaa.ang
+     jadahlgwáay+V+Neg+3pl+Interr+Pres+Hab: jadahlgwáaygangʼangʼwaa
+     jadahlgwáay+V+Neg+3pl+Pres+Hab: jadahlgwáaygangʼangʼwaang
+     jadahlgwáay+V+Neg+3pl+Pres+Hab+NonFact: jadahlgwáaygangʼangʼwaa.ang
+     jadahlgwáay+V+Neg+3pl+Dir+Past+Hab: jadahlgwáayʼangʼwägiinii
+     jadahlgwáay+V+Neg+3pl+Interr+Past+Hab: jadahlgwáayʼangʼwägaangaa
+     jadahlgwáay+V+Neg+3pl+Indir+Past+Hab: jadahlgwáayʼangʼwägaangaan
+     jadahlgwáay+V+Neg+3pl+Interr+Fut+Long: jadahlgwáayʼangʼwaaäsaa
+     jadahlgwáay+V+Neg+3pl+Interr+Fut+Short: jadahlgwáayʼangʼwaaäs
+     jadahlgwáay+V+Neg+3pl+Simp+Fut: jadahlgwáayʼangʼwaaäsaang
+     jadahlgwáay+V+Neg+3pl+Imm+Fut: jadahlgwáayʼangʼwaaäsga
+     jadahlgwáay+V+Neg+3pl+Rel+Fut: jadahlgwáayʼangʼwaaäsaas
+     jadahlgwáay+V+Neg+3pl+Fut+NonFact: jadahlgwáayʼangʼwaaäsaa.ang
+     jadahlgwáay+V+Neg+3pl+Interr+Near+Fut: jadahlgwáayʼwaa.ang k̲asaaʼáng
+     jadahlgwáay+V+Neg+3pl+Near+Fut: jadahlgwáayʼwaa.ang k̲asaaʼánggang
+     jadahlgwáay+V+Neg+3pl+Interr+VNear+Fut: jadahlgwáayʼwaa.ang k̲asaasdläʼáng
+     jadahlgwáay+V+Neg+3pl+VNear+Fut: jadahlgwáayʼwaa.ang k̲asaasdläʼánggang
+     jadahlgwáay+V+Neg+3pl+Bias+Imm+Pres: jadahlgwáayʼangʼwaaʼuuj
+     jadahlgwáay+V+Neg+3pl+Bias+Simp+Pres: jadahlgwáayʼangʼwaaʼuujang
+     jadahlgwáay+V+Neg+3pl+Res: jadahlgwáayʼangʼwaaäsaaʼuujang
+     jadahlgwáay+V+Neg+3pl+Bias+Interr+Pres: jadahlgwáayʼangʼwaaʼus
+     jadahlgwáay+V+Neg+3pl+Bias+Interr+Past: jadahlgwáayʼangʼwaaʼujaa
+     jadahlgwáay+V+Neg+3pl+Bias+Interr+Past+Hab: jadahlgwáayʼangʼwaaʼuujaangaa
+     jadahlgwáay+V+Neg+3pl+Bias+Interr+Fut: jadahlgwáayʼangʼwaaäsaaʼus
+     jadahlgwáay+V+Neg+3pl+Cert+Pres: jadahlgwáayʼangʼwaaʼahlanggang
+     jadahlgwáay+V+Neg+3pl+Cert+Past: jadahlgwáayʼangʼwaaʼahlanggan
+     jadahlgwáay+V+Neg+3pl+Cert+Past+Hab: jadahlgwáayʼangʼwaaʼahlanggiinii
+     jadahlgwáay+V+Neg+3pl+Cert+Fut: jadahlgwáayʼangʼwaaäsaaʼahlans
+     jadahlgwáay+V+Neg+3pl+Cert+Rel: jadahlgwáayʼangʼwaaʼahlans
+     jadahlgwáay+V+Neg+3pl+Ints+Past: jadahlgwáayʼangʼaawaaʼahlang
+     jadahlgwáay+V+Neg+3pl+Cont: jadahlgwáayʼangʼaawaaʼahlanggaa
+     jadahlgwáay+V+Neg+3pl+Ctfact+Pres: jadahlgwáayʼangʼaawaaʼahlanggang
+     jadahlgwáay+V+Neg+3pl+Rflx: jadahlgwáayʼangʼwaaʼahl
+     jadahlgwáay+V+Neg+3pl+Fut+Rflx+Interr: jadahlgwáayʼangʼwaaäseehl
 

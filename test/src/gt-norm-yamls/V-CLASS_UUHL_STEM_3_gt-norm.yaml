@@ -9,18 +9,18 @@ Config:
 
 Tests:
 
-  Verb - t'ahlgúuhl - ENGLISH : # CLASS_UUHL_STEM_3
+  Verb - tʼahlgúuhl - ENGLISH : # CLASS_UUHL_STEM_3
 
-     t'ahlgúuhl+V+INTERR+PAST: t'ahlgwáalaa
-     t'ahlgúuhl+V+INDIR+PAST: t'ahlgwáalaan
-     t'ahlgúuhl+V+REL+EVID: t'ahlgwáalaas
-     t'ahlgúuhl+V+PAST+NONFACT: t'ahlgwáalaa.ang
-     t'ahlgúuhl+V+CERT+PRES: t'ahlgwáal'ahlanggang
-     t'ahlgúuhl+V+CERT+PAST: t'ahlgwáal'ahlanggan
-     t'ahlgúuhl+V+CERT+PAST+HAB: t'ahlgwáal'ahlanggiinii
-     t'ahlgúuhl+V+CERT+REL: t'ahlgwáal'ahlans
-     t'ahlgúuhl+V+INTS+PAST: t'ahlgwáalaa'ahlang
-     t'ahlgúuhl+V+CONT: t'ahlgwáalaa'ahlanggaa
-     t'ahlgúuhl+V+CTFACT+PRES: t'ahlgwáalaa'ahlanggang
-     t'ahlgúuhl+V+RFLX: t'ahlgwáal'ahl
+     tʼahlgúuhl+V+Interr+Past: tʼahlgwáalaa
+     tʼahlgúuhl+V+Indir+Past: tʼahlgwáalaan
+     tʼahlgúuhl+V+Rel+Evid: tʼahlgwáalaas
+     tʼahlgúuhl+V+Past+NonFact: tʼahlgwáalaa.ang
+     tʼahlgúuhl+V+Cert+Pres: tʼahlgwáalʼahlanggang
+     tʼahlgúuhl+V+Cert+Past: tʼahlgwáalʼahlanggan
+     tʼahlgúuhl+V+Cert+Past+Hab: tʼahlgwáalʼahlanggiinii
+     tʼahlgúuhl+V+Cert+Rel: tʼahlgwáalʼahlans
+     tʼahlgúuhl+V+Ints+Past: tʼahlgwáalaaʼahlang
+     tʼahlgúuhl+V+Cont: tʼahlgwáalaaʼahlanggaa
+     tʼahlgúuhl+V+Ctfact+Pres: tʼahlgwáalaaʼahlanggang
+     tʼahlgúuhl+V+Rflx: tʼahlgwáalʼahl
 

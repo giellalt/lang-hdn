@@ -11,38 +11,38 @@ Tests:
 
   Verb - díigud - ENGLISH : # CLASS_UD_STEM_2
 
-     díigud+V+IMM+PRES: díigwiida
-     díigud+V+SIMP+PRES: díigwiidang
-     díigud+V+DIR+PAST: díigwiidan
-     díigud+V+NONFACT: díigwiidang
-     díigud+V+INTERR+PRES+HAB: díigwiidang
-     díigud+V+PRES+HAB: díigwiidanggang
-     díigud+V+PRES+HAB+NONFACT: díigwiidangang
-     díigud+V+DIR+PAST+HAB: díigwiidiinii
-     díigud+V+INTERR+PAST+HAB: díigwiidaangaa
-     díigud+V+INDIR+PAST+HAB: díigwiidaangaan
-     díigud+V+INTERR+NEAR+FUT: díigwiidang k̲asa'áa
-     díigud+V+NEAR+FUT: díigwiidang k̲asa'áang
-     díigud+V+INTERR+VNEAR+FUT: díigwiidang k̲asaasdláa
-     díigud+V+VNEAR+FUT: díigwiidang k̲asaasdláang
-     díigud+V+CERT+PRES: díigwiid'ahlanggang
-     díigud+V+CERT+PAST: díigwiid'ahlanggan
-     díigud+V+CERT+PAST+HAB: díigwiid'ahlanggiinii
-     díigud+V+CERT+REL: díigwiid'ahlans
-     díigud+V+INTS+PAST: díigwiidaa'ahlang
-     díigud+V+CONT: díigwiidaa'ahlanggaa
-     díigud+V+CTFACT+PRES: díigwiidaa'ahlanggang
-     díigud+V+RFLX: díigwiid'ahl
-     díigud+V+3PL+INTERR+PRES+HAB: díigwiidang'waa
-     díigud+V+3PL+PRES+HAB: díigwiidang'waang
-     díigud+V+3PL+PRES+HAB+NONFACT: díigwiidang'waa.ang
-     díigud+V+NEG+PRES+HAB: díigwiidang'anggang
-     díigud+V+NEG+PRES+HAB+NONFACT: díigwiidang'angang
-     díigud+V+NEG+INTERR+NEAR+FUT: díigwiidang k̲asaa'áng
-     díigud+V+NEG+NEAR+FUT: díigwiidang k̲asaa'ánggang
-     díigud+V+NEG+INTERR+VNEAR+FUT: díigwiidang k̲asaasdlä'áng
-     díigud+V+NEG+VNEAR+FUT: díigwiidang k̲asaasdlä'ánggang
-     díigud+V+NEG+3PL+INTERR+PRES+HAB: díigwiidang'ang'waa
-     díigud+V+NEG+3PL+PRES+HAB: díigwiidang'ang'waang
-     díigud+V+NEG+3PL+PRES+HAB+NONFACT: díigwiidang'ang'waa.ang
+     díigud+V+Imm+Pres: díigwiida
+     díigud+V+Simp+Pres: díigwiidang
+     díigud+V+Dir+Past: díigwiidan
+     díigud+V+NonFact: díigwiidang
+     díigud+V+Interr+Pres+Hab: díigwiidang
+     díigud+V+Pres+Hab: díigwiidanggang
+     díigud+V+Pres+Hab+NonFact: díigwiidangang
+     díigud+V+Dir+Past+Hab: díigwiidiinii
+     díigud+V+Interr+Past+Hab: díigwiidaangaa
+     díigud+V+Indir+Past+Hab: díigwiidaangaan
+     díigud+V+Interr+Near+Fut: díigwiidang k̲asaʼáa
+     díigud+V+Near+Fut: díigwiidang k̲asaʼáang
+     díigud+V+Interr+VNear+Fut: díigwiidang k̲asaasdláa
+     díigud+V+VNear+Fut: díigwiidang k̲asaasdláang
+     díigud+V+Cert+Pres: díigwiidʼahlanggang
+     díigud+V+Cert+Past: díigwiidʼahlanggan
+     díigud+V+Cert+Past+Hab: díigwiidʼahlanggiinii
+     díigud+V+Cert+Rel: díigwiidʼahlans
+     díigud+V+Ints+Past: díigwiidaaʼahlang
+     díigud+V+Cont: díigwiidaaʼahlanggaa
+     díigud+V+Ctfact+Pres: díigwiidaaʼahlanggang
+     díigud+V+Rflx: díigwiidʼahl
+     díigud+V+3pl+Interr+Pres+Hab: díigwiidangʼwaa
+     díigud+V+3pl+Pres+Hab: díigwiidangʼwaang
+     díigud+V+3pl+Pres+Hab+NonFact: díigwiidangʼwaa.ang
+     díigud+V+Neg+Pres+Hab: díigwiidangʼanggang
+     díigud+V+Neg+Pres+Hab+NonFact: díigwiidangʼangang
+     díigud+V+Neg+Interr+Near+Fut: díigwiidang k̲asaaʼáng
+     díigud+V+Neg+Near+Fut: díigwiidang k̲asaaʼánggang
+     díigud+V+Neg+Interr+VNear+Fut: díigwiidang k̲asaasdläʼáng
+     díigud+V+Neg+VNear+Fut: díigwiidang k̲asaasdläʼánggang
+     díigud+V+Neg+3pl+Interr+Pres+Hab: díigwiidangʼangʼwaa
+     díigud+V+Neg+3pl+Pres+Hab: díigwiidangʼangʼwaang
+     díigud+V+Neg+3pl+Pres+Hab+NonFact: díigwiidangʼangʼwaa.ang
 

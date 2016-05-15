@@ -11,180 +11,180 @@ Tests:
 
   Verb - sánaaw - ENGLISH : # CLASS_AAW
 
-     sánaaw+V+SG+IMPV: sánaaw
-     sánaaw+V+IMM+PRES: sánaawga
-     sánaaw+V+INTERR+SIMP+PRES: sánaaw
-     sánaaw+V+SIMP+PRES: sánaawgang
-     sánaaw+V+DIR+PAST: sánaawgan
-     sánaaw+V+INTERR+PAST: sánaawgaa
-     sánaaw+V+INDIR+PAST: sánaawaan
-     sánaaw+V+REL: sánaaws
-     sánaaw+V+REL+EVID: sánaawaas
-     sánaaw+V+NONFACT: sánaaw.ang
-     sánaaw+V+PAST+NONFACT: sánaawaa.ang
-     sánaaw+V+INTERR+PRES+HAB: sánaawgang
-     sánaaw+V+PRES+HAB: sánaawganggang
-     sánaaw+V+PRES+HAB+NONFACT: sánaawgangang
-     sánaaw+V+DIR+PAST+HAB: sánaawgiinii
-     sánaaw+V+INTERR+PAST+HAB: sánaawgaangaa
-     sánaaw+V+INDIR+PAST+HAB: sánaawgaangaan
-     sánaaw+V+INTERR+FUT+LONG: sánaawäsaa
-     sánaaw+V+INTERR+FUT+SHORT: sánaawäs
-     sánaaw+V+SIMP+FUT: sánaawäsaang
-     sánaaw+V+IMM+FUT: sánaawäsga
-     sánaaw+V+REL+FUT: sánaawäsaas
-     sánaaw+V+FUT+NONFACT: sánaawäsaa.ang
-     sánaaw+V+INTERR+NEAR+FUT: sánaawang k̲asa'áa
-     sánaaw+V+NEAR+FUT: sánaawang k̲asa'áang
-     sánaaw+V+INTERR+VNEAR+FUT: sánaawang k̲asaasdláa
-     sánaaw+V+VNEAR+FUT: sánaawang k̲asaasdláang
-     sánaaw+V+BIAS+IMM+PRES: sánaaw'uuj
-     sánaaw+V+BIAS+SIMP+PRES: sánaaw'uujang
-     sánaaw+V+RES: sánaawäsaa'uujang
-     sánaaw+V+BIAS+INTERR+PRES: sánaaw'us
-     sánaaw+V+BIAS+INTERR+PAST: sánaaw'ujaa
-     sánaaw+V+BIAS+INTERR+PAST+HAB: sánaaw'uujaangaa
-     sánaaw+V+BIAS+INTERR+FUT: sánaawäsaa'us
-     sánaaw+V+CERT+PRES: sánaaw'ahlanggang
-     sánaaw+V+CERT+PAST: sánaaw'ahlanggan
-     sánaaw+V+CERT+PAST+HAB: sánaaw'ahlanggiinii
-     sánaaw+V+CERT+FUT: sánaawäsaa'ahlans
-     sánaaw+V+CERT+REL: sánaaw'ahlans
-     sánaaw+V+INTS+PAST: sánaawaa'ahlang
-     sánaaw+V+CONT: sánaawaa'ahlanggaa
-     sánaaw+V+CTFACT+PRES: sánaawaa'ahlanggang
-     sánaaw+V+RFLX: sánaaw'ahl
-     sánaaw+V+FUT+RFLX+INTERR: sánaawäseehl
-     sánaaw+V+PL+IMPV: sánaaw'uu
-     sánaaw+V+3PL+IMM+PRES: sánaaw'waa
-     sánaaw+V+3PL+INTERR+SIMP+PRES: sánaaw'waa
-     sánaaw+V+3PL+SIMP+PRES: sánaaw'waang
-     sánaaw+V+3PL+DIR+PAST: sánaaw'wägan
-     sánaaw+V+3PL+INTERR+PAST: sánaaw'aawaa
-     sánaaw+V+3PL+INDIR+PAST: sánaaw'aawaan
-     sánaaw+V+3PL+REL: sánaaw'waas
-     sánaaw+V+3PL+REL+EVID: sánaaw'aawaas
-     sánaaw+V+3PL+NONFACT: sánaaw'waa.ang
-     sánaaw+V+3PL+PAST+NONFACT: sánaaw'aawaa.ang
-     sánaaw+V+3PL+INTERR+PRES+HAB: sánaawgang'waa
-     sánaaw+V+3PL+PRES+HAB: sánaawgang'waang
-     sánaaw+V+3PL+PRES+HAB+NONFACT: sánaawgang'waa.ang
-     sánaaw+V+3PL+DIR+PAST+HAB: sánaaw'wägiinii
-     sánaaw+V+3PL+INTERR+PAST+HAB: sánaaw'wägaangaa
-     sánaaw+V+3PL+INDIR+PAST+HAB: sánaaw'wägaangaan
-     sánaaw+V+3PL+INTERR+FUT+LONG: sánaaw'waaäsaa
-     sánaaw+V+3PL+INTERR+FUT+SHORT: sánaaw'waaäs
-     sánaaw+V+3PL+SIMP+FUT: sánaaw'waaäsaang
-     sánaaw+V+3PL+IMM+FUT: sánaaw'waaäsga
-     sánaaw+V+3PL+REL+FUT: sánaaw'waaäsaas
-     sánaaw+V+3PL+FUT+NONFACT: sánaaw'waaäsaa.ang
-     sánaaw+V+3PL+INTERR+NEAR+FUT: sánaaw'waa.ang k̲asa'áa
-     sánaaw+V+3PL+NEAR+FUT: sánaaw'waa.ang k̲asa'áang
-     sánaaw+V+3PL+INTERR+VNEAR+FUT: sánaaw'waa.ang k̲asaasdláa
-     sánaaw+V+3PL+VNEAR+FUT: sánaaw'waa.ang k̲asaasdláang
-     sánaaw+V+3PL+BIAS+IMM+PRES: sánaaw'waa'uuj
-     sánaaw+V+3PL+BIAS+SIMP+PRES: sánaaw'waa'uujang
-     sánaaw+V+3PL+RES: sánaaw'waaäsaa'uujang
-     sánaaw+V+3PL+BIAS+INTERR+PRES: sánaaw'waa'us
-     sánaaw+V+3PL+BIAS+INTERR+PAST: sánaaw'waa'ujaa
-     sánaaw+V+3PL+BIAS+INTERR+PAST+HAB: sánaaw'waa'uujaangaa
-     sánaaw+V+3PL+BIAS+INTERR+FUT: sánaaw'waaäsaa'us
-     sánaaw+V+3PL+CERT+PRES: sánaaw'waa'ahlanggang
-     sánaaw+V+3PL+CERT+PAST: sánaaw'waa'ahlanggan
-     sánaaw+V+3PL+CERT+PAST+HAB: sánaaw'waa'ahlanggiinii
-     sánaaw+V+3PL+CERT+FUT: sánaaw'waaäsaa'ahlans
-     sánaaw+V+3PL+CERT+REL: sánaaw'waa'ahlans
-     sánaaw+V+3PL+INTS+PAST: sánaaw'aawaa'ahlang
-     sánaaw+V+3PL+CONT: sánaaw'aawaa'ahlanggaa
-     sánaaw+V+3PL+CTFACT+PRES: sánaaw'aawaa'ahlanggang
-     sánaaw+V+3PL+RFLX: sánaaw'waa'ahl
-     sánaaw+V+3PL+FUT+RFLX+INTERR: sánaaw'waaäseehl
-     sánaaw+V+NEG+SG+IMPV: sánaaw'ang
-     sánaaw+V+NEG+IMM+PRES: sánaaw'angga
-     sánaaw+V+NEG+INTERR+SIMP+PRES: sánaaw'ang
-     sánaaw+V+NEG+SIMP+PRES: sánaaw'anggang
-     sánaaw+V+NEG+DIR+PAST: sánaaw'anggan
-     sánaaw+V+NEG+INTERR+PAST: sánaaw'aangaa
-     sánaaw+V+NEG+INDIR+PAST: sánaaw'aangaan
-     sánaaw+V+NEG+REL: sánaaw'ans
-     sánaaw+V+NEG+REL+EVID: sánaaw'aangaas
-     sánaaw+V+NEG+NONFACT: sánaaw'angang
-     sánaaw+V+NEG+PAST+NONFACT: sánaaw'aangaa.ang
-     sánaaw+V+NEG+INTERR+PRES+HAB: sánaaw'anggang
-     sánaaw+V+NEG+PRES+HAB: sánaawgang'anggang
-     sánaaw+V+NEG+PRES+HAB+NONFACT: sánaawgang'angang
-     sánaaw+V+NEG+DIR+PAST+HAB: sánaaw'anggiinii
-     sánaaw+V+NEG+INTERR+PAST+HAB: sánaaw'anggaangaa
-     sánaaw+V+NEG+INDIR+PAST+HAB: sánaaw'anggaangaan
-     sánaaw+V+NEG+INTERR+FUT+LONG: sánaaw'angäsaa
-     sánaaw+V+NEG+INTERR+FUT+SHORT: sánaaw'angäs
-     sánaaw+V+NEG+SIMP+FUT: sánaaw'angäsaang
-     sánaaw+V+NEG+IMM+FUT: sánaaw'angäsga
-     sánaaw+V+NEG+REL+FUT: sánaaw'angäsaas
-     sánaaw+V+NEG+FUT+NONFACT: sánaaw'angäsaa.ang
-     sánaaw+V+NEG+INTERR+NEAR+FUT: sánaawang k̲asaa'áng
-     sánaaw+V+NEG+NEAR+FUT: sánaawang k̲asaa'ánggang
-     sánaaw+V+NEG+INTERR+VNEAR+FUT: sánaawang k̲asaasdlä'áng
-     sánaaw+V+NEG+VNEAR+FUT: sánaawang k̲asaasdlä'ánggang
-     sánaaw+V+NEG+BIAS+IMM+PRES: sánaaw'ang'uuj
-     sánaaw+V+NEG+BIAS+SIMP+PRES: sánaaw'ang'uujang
-     sánaaw+V+NEG+RES: sánaaw'angäsaa'uujang
-     sánaaw+V+NEG+BIAS+INTERR+PRES: sánaaw'ang'us
-     sánaaw+V+NEG+BIAS+INTERR+PAST: sánaaw'ang'ujaa
-     sánaaw+V+NEG+BIAS+INTERR+PAST+HAB: sánaaw'ang'uujaangaa
-     sánaaw+V+NEG+BIAS+INTERR+FUT: sánaaw'angäsaa'us
-     sánaaw+V+NEG+CERT+PRES: sánaaw'aang'ahlanggang
-     sánaaw+V+NEG+CERT+PAST: sánaaw'aang'ahlanggan
-     sánaaw+V+NEG+CERT+PAST+HAB: sánaaw'aang'ahlanggiinii
-     sánaaw+V+NEG+CERT+FUT: sánaaw'angäsaa'ahlans
-     sánaaw+V+NEG+CERT+REL: sánaaw'aang'ahlans
-     sánaaw+V+NEG+INTS+PAST: sánaaw'aangaa'ahlang
-     sánaaw+V+NEG+CONT: sánaaw'aangaa'ahlanggaa
-     sánaaw+V+NEG+CTFACT+PRES: sánaaw'aangaa'ahlanggang
-     sánaaw+V+NEG+RFLX: sánaaw'aang'ahl
-     sánaaw+V+NEG+FUT+RFLX+INTERR: sánaaw'angäseehl
-     sánaaw+V+NEG+PL+IMPV: sánaaw'ang'uu
-     sánaaw+V+NEG+3PL+IMM+PRES: sánaaw'ang'waa
-     sánaaw+V+NEG+3PL+INTERR+SIMP+PRES: sánaaw'ang'waa
-     sánaaw+V+NEG+3PL+SIMP+PRES: sánaaw'ang'waang
-     sánaaw+V+NEG+3PL+DIR+PAST: sánaaw'ang'wägan
-     sánaaw+V+NEG+3PL+INTERR+PAST: sánaaw'ang'aawaa
-     sánaaw+V+NEG+3PL+INDIR+PAST: sánaaw'ang'aawaan
-     sánaaw+V+NEG+3PL+REL: sánaaw'ang'waas
-     sánaaw+V+NEG+3PL+REL+EVID: sánaaw'ang'aawaas
-     sánaaw+V+NEG+3PL+NONFACT: sánaaw'ang'waa.ang
-     sánaaw+V+NEG+3PL+PAST+NONFACT: sánaaw'ang'aawaa.ang
-     sánaaw+V+NEG+3PL+INTERR+PRES+HAB: sánaawgang'ang'waa
-     sánaaw+V+NEG+3PL+PRES+HAB: sánaawgang'ang'waang
-     sánaaw+V+NEG+3PL+PRES+HAB+NONFACT: sánaawgang'ang'waa.ang
-     sánaaw+V+NEG+3PL+DIR+PAST+HAB: sánaaw'ang'wägiinii
-     sánaaw+V+NEG+3PL+INTERR+PAST+HAB: sánaaw'ang'wägaangaa
-     sánaaw+V+NEG+3PL+INDIR+PAST+HAB: sánaaw'ang'wägaangaan
-     sánaaw+V+NEG+3PL+INTERR+FUT+LONG: sánaaw'ang'waaäsaa
-     sánaaw+V+NEG+3PL+INTERR+FUT+SHORT: sánaaw'ang'waaäs
-     sánaaw+V+NEG+3PL+SIMP+FUT: sánaaw'ang'waaäsaang
-     sánaaw+V+NEG+3PL+IMM+FUT: sánaaw'ang'waaäsga
-     sánaaw+V+NEG+3PL+REL+FUT: sánaaw'ang'waaäsaas
-     sánaaw+V+NEG+3PL+FUT+NONFACT: sánaaw'ang'waaäsaa.ang
-     sánaaw+V+NEG+3PL+INTERR+NEAR+FUT: sánaaw'waa.ang k̲asaa'áng
-     sánaaw+V+NEG+3PL+NEAR+FUT: sánaaw'waa.ang k̲asaa'ánggang
-     sánaaw+V+NEG+3PL+INTERR+VNEAR+FUT: sánaaw'waa.ang k̲asaasdlä'áng
-     sánaaw+V+NEG+3PL+VNEAR+FUT: sánaaw'waa.ang k̲asaasdlä'ánggang
-     sánaaw+V+NEG+3PL+BIAS+IMM+PRES: sánaaw'ang'waa'uuj
-     sánaaw+V+NEG+3PL+BIAS+SIMP+PRES: sánaaw'ang'waa'uujang
-     sánaaw+V+NEG+3PL+RES: sánaaw'ang'waaäsaa'uujang
-     sánaaw+V+NEG+3PL+BIAS+INTERR+PRES: sánaaw'ang'waa'us
-     sánaaw+V+NEG+3PL+BIAS+INTERR+PAST: sánaaw'ang'waa'ujaa
-     sánaaw+V+NEG+3PL+BIAS+INTERR+PAST+HAB: sánaaw'ang'waa'uujaangaa
-     sánaaw+V+NEG+3PL+BIAS+INTERR+FUT: sánaaw'ang'waaäsaa'us
-     sánaaw+V+NEG+3PL+CERT+PRES: sánaaw'ang'waa'ahlanggang
-     sánaaw+V+NEG+3PL+CERT+PAST: sánaaw'ang'waa'ahlanggan
-     sánaaw+V+NEG+3PL+CERT+PAST+HAB: sánaaw'ang'waa'ahlanggiinii
-     sánaaw+V+NEG+3PL+CERT+FUT: sánaaw'ang'waaäsaa'ahlans
-     sánaaw+V+NEG+3PL+CERT+REL: sánaaw'ang'waa'ahlans
-     sánaaw+V+NEG+3PL+INTS+PAST: sánaaw'ang'aawaa'ahlang
-     sánaaw+V+NEG+3PL+CONT: sánaaw'ang'aawaa'ahlanggaa
-     sánaaw+V+NEG+3PL+CTFACT+PRES: sánaaw'ang'aawaa'ahlanggang
-     sánaaw+V+NEG+3PL+RFLX: sánaaw'ang'waa'ahl
-     sánaaw+V+NEG+3PL+FUT+RFLX+INTERR: sánaaw'ang'waaäseehl
+     sánaaw+V+Sg+Impv: sánaaw
+     sánaaw+V+Imm+Pres: sánaawga
+     sánaaw+V+Interr+Simp+Pres: sánaaw
+     sánaaw+V+Simp+Pres: sánaawgang
+     sánaaw+V+Dir+Past: sánaawgan
+     sánaaw+V+Interr+Past: sánaawgaa
+     sánaaw+V+Indir+Past: sánaawaan
+     sánaaw+V+Rel: sánaaws
+     sánaaw+V+Rel+Evid: sánaawaas
+     sánaaw+V+NonFact: sánaaw.ang
+     sánaaw+V+Past+NonFact: sánaawaa.ang
+     sánaaw+V+Interr+Pres+Hab: sánaawgang
+     sánaaw+V+Pres+Hab: sánaawganggang
+     sánaaw+V+Pres+Hab+NonFact: sánaawgangang
+     sánaaw+V+Dir+Past+Hab: sánaawgiinii
+     sánaaw+V+Interr+Past+Hab: sánaawgaangaa
+     sánaaw+V+Indir+Past+Hab: sánaawgaangaan
+     sánaaw+V+Interr+Fut+Long: sánaawäsaa
+     sánaaw+V+Interr+Fut+Short: sánaawäs
+     sánaaw+V+Simp+Fut: sánaawäsaang
+     sánaaw+V+Imm+Fut: sánaawäsga
+     sánaaw+V+Rel+Fut: sánaawäsaas
+     sánaaw+V+Fut+NonFact: sánaawäsaa.ang
+     sánaaw+V+Interr+Near+Fut: sánaawang k̲asaʼáa
+     sánaaw+V+Near+Fut: sánaawang k̲asaʼáang
+     sánaaw+V+Interr+VNear+Fut: sánaawang k̲asaasdláa
+     sánaaw+V+VNear+Fut: sánaawang k̲asaasdláang
+     sánaaw+V+Bias+Imm+Pres: sánaawʼuuj
+     sánaaw+V+Bias+Simp+Pres: sánaawʼuujang
+     sánaaw+V+Res: sánaawäsaaʼuujang
+     sánaaw+V+Bias+Interr+Pres: sánaawʼus
+     sánaaw+V+Bias+Interr+Past: sánaawʼujaa
+     sánaaw+V+Bias+Interr+Past+Hab: sánaawʼuujaangaa
+     sánaaw+V+Bias+Interr+Fut: sánaawäsaaʼus
+     sánaaw+V+Cert+Pres: sánaawʼahlanggang
+     sánaaw+V+Cert+Past: sánaawʼahlanggan
+     sánaaw+V+Cert+Past+Hab: sánaawʼahlanggiinii
+     sánaaw+V+Cert+Fut: sánaawäsaaʼahlans
+     sánaaw+V+Cert+Rel: sánaawʼahlans
+     sánaaw+V+Ints+Past: sánaawaaʼahlang
+     sánaaw+V+Cont: sánaawaaʼahlanggaa
+     sánaaw+V+Ctfact+Pres: sánaawaaʼahlanggang
+     sánaaw+V+Rflx: sánaawʼahl
+     sánaaw+V+Fut+Rflx+Interr: sánaawäseehl
+     sánaaw+V+Pl+Impv: sánaawʼuu
+     sánaaw+V+3pl+Imm+Pres: sánaawʼwaa
+     sánaaw+V+3pl+Interr+Simp+Pres: sánaawʼwaa
+     sánaaw+V+3pl+Simp+Pres: sánaawʼwaang
+     sánaaw+V+3pl+Dir+Past: sánaawʼwägan
+     sánaaw+V+3pl+Interr+Past: sánaawʼaawaa
+     sánaaw+V+3pl+Indir+Past: sánaawʼaawaan
+     sánaaw+V+3pl+Rel: sánaawʼwaas
+     sánaaw+V+3pl+Rel+Evid: sánaawʼaawaas
+     sánaaw+V+3pl+NonFact: sánaawʼwaa.ang
+     sánaaw+V+3pl+Past+NonFact: sánaawʼaawaa.ang
+     sánaaw+V+3pl+Interr+Pres+Hab: sánaawgangʼwaa
+     sánaaw+V+3pl+Pres+Hab: sánaawgangʼwaang
+     sánaaw+V+3pl+Pres+Hab+NonFact: sánaawgangʼwaa.ang
+     sánaaw+V+3pl+Dir+Past+Hab: sánaawʼwägiinii
+     sánaaw+V+3pl+Interr+Past+Hab: sánaawʼwägaangaa
+     sánaaw+V+3pl+Indir+Past+Hab: sánaawʼwägaangaan
+     sánaaw+V+3pl+Interr+Fut+Long: sánaawʼwaaäsaa
+     sánaaw+V+3pl+Interr+Fut+Short: sánaawʼwaaäs
+     sánaaw+V+3pl+Simp+Fut: sánaawʼwaaäsaang
+     sánaaw+V+3pl+Imm+Fut: sánaawʼwaaäsga
+     sánaaw+V+3pl+Rel+Fut: sánaawʼwaaäsaas
+     sánaaw+V+3pl+Fut+NonFact: sánaawʼwaaäsaa.ang
+     sánaaw+V+3pl+Interr+Near+Fut: sánaawʼwaa.ang k̲asaʼáa
+     sánaaw+V+3pl+Near+Fut: sánaawʼwaa.ang k̲asaʼáang
+     sánaaw+V+3pl+Interr+VNear+Fut: sánaawʼwaa.ang k̲asaasdláa
+     sánaaw+V+3pl+VNear+Fut: sánaawʼwaa.ang k̲asaasdláang
+     sánaaw+V+3pl+Bias+Imm+Pres: sánaawʼwaaʼuuj
+     sánaaw+V+3pl+Bias+Simp+Pres: sánaawʼwaaʼuujang
+     sánaaw+V+3pl+Res: sánaawʼwaaäsaaʼuujang
+     sánaaw+V+3pl+Bias+Interr+Pres: sánaawʼwaaʼus
+     sánaaw+V+3pl+Bias+Interr+Past: sánaawʼwaaʼujaa
+     sánaaw+V+3pl+Bias+Interr+Past+Hab: sánaawʼwaaʼuujaangaa
+     sánaaw+V+3pl+Bias+Interr+Fut: sánaawʼwaaäsaaʼus
+     sánaaw+V+3pl+Cert+Pres: sánaawʼwaaʼahlanggang
+     sánaaw+V+3pl+Cert+Past: sánaawʼwaaʼahlanggan
+     sánaaw+V+3pl+Cert+Past+Hab: sánaawʼwaaʼahlanggiinii
+     sánaaw+V+3pl+Cert+Fut: sánaawʼwaaäsaaʼahlans
+     sánaaw+V+3pl+Cert+Rel: sánaawʼwaaʼahlans
+     sánaaw+V+3pl+Ints+Past: sánaawʼaawaaʼahlang
+     sánaaw+V+3pl+Cont: sánaawʼaawaaʼahlanggaa
+     sánaaw+V+3pl+Ctfact+Pres: sánaawʼaawaaʼahlanggang
+     sánaaw+V+3pl+Rflx: sánaawʼwaaʼahl
+     sánaaw+V+3pl+Fut+Rflx+Interr: sánaawʼwaaäseehl
+     sánaaw+V+Neg+Sg+Impv: sánaawʼang
+     sánaaw+V+Neg+Imm+Pres: sánaawʼangga
+     sánaaw+V+Neg+Interr+Simp+Pres: sánaawʼang
+     sánaaw+V+Neg+Simp+Pres: sánaawʼanggang
+     sánaaw+V+Neg+Dir+Past: sánaawʼanggan
+     sánaaw+V+Neg+Interr+Past: sánaawʼaangaa
+     sánaaw+V+Neg+Indir+Past: sánaawʼaangaan
+     sánaaw+V+Neg+Rel: sánaawʼans
+     sánaaw+V+Neg+Rel+Evid: sánaawʼaangaas
+     sánaaw+V+Neg+NonFact: sánaawʼangang
+     sánaaw+V+Neg+Past+NonFact: sánaawʼaangaa.ang
+     sánaaw+V+Neg+Interr+Pres+Hab: sánaawʼanggang
+     sánaaw+V+Neg+Pres+Hab: sánaawgangʼanggang
+     sánaaw+V+Neg+Pres+Hab+NonFact: sánaawgangʼangang
+     sánaaw+V+Neg+Dir+Past+Hab: sánaawʼanggiinii
+     sánaaw+V+Neg+Interr+Past+Hab: sánaawʼanggaangaa
+     sánaaw+V+Neg+Indir+Past+Hab: sánaawʼanggaangaan
+     sánaaw+V+Neg+Interr+Fut+Long: sánaawʼangäsaa
+     sánaaw+V+Neg+Interr+Fut+Short: sánaawʼangäs
+     sánaaw+V+Neg+Simp+Fut: sánaawʼangäsaang
+     sánaaw+V+Neg+Imm+Fut: sánaawʼangäsga
+     sánaaw+V+Neg+Rel+Fut: sánaawʼangäsaas
+     sánaaw+V+Neg+Fut+NonFact: sánaawʼangäsaa.ang
+     sánaaw+V+Neg+Interr+Near+Fut: sánaawang k̲asaaʼáng
+     sánaaw+V+Neg+Near+Fut: sánaawang k̲asaaʼánggang
+     sánaaw+V+Neg+Interr+VNear+Fut: sánaawang k̲asaasdläʼáng
+     sánaaw+V+Neg+VNear+Fut: sánaawang k̲asaasdläʼánggang
+     sánaaw+V+Neg+Bias+Imm+Pres: sánaawʼangʼuuj
+     sánaaw+V+Neg+Bias+Simp+Pres: sánaawʼangʼuujang
+     sánaaw+V+Neg+Res: sánaawʼangäsaaʼuujang
+     sánaaw+V+Neg+Bias+Interr+Pres: sánaawʼangʼus
+     sánaaw+V+Neg+Bias+Interr+Past: sánaawʼangʼujaa
+     sánaaw+V+Neg+Bias+Interr+Past+Hab: sánaawʼangʼuujaangaa
+     sánaaw+V+Neg+Bias+Interr+Fut: sánaawʼangäsaaʼus
+     sánaaw+V+Neg+Cert+Pres: sánaawʼaangʼahlanggang
+     sánaaw+V+Neg+Cert+Past: sánaawʼaangʼahlanggan
+     sánaaw+V+Neg+Cert+Past+Hab: sánaawʼaangʼahlanggiinii
+     sánaaw+V+Neg+Cert+Fut: sánaawʼangäsaaʼahlans
+     sánaaw+V+Neg+Cert+Rel: sánaawʼaangʼahlans
+     sánaaw+V+Neg+Ints+Past: sánaawʼaangaaʼahlang
+     sánaaw+V+Neg+Cont: sánaawʼaangaaʼahlanggaa
+     sánaaw+V+Neg+Ctfact+Pres: sánaawʼaangaaʼahlanggang
+     sánaaw+V+Neg+Rflx: sánaawʼaangʼahl
+     sánaaw+V+Neg+Fut+Rflx+Interr: sánaawʼangäseehl
+     sánaaw+V+Neg+Pl+Impv: sánaawʼangʼuu
+     sánaaw+V+Neg+3pl+Imm+Pres: sánaawʼangʼwaa
+     sánaaw+V+Neg+3pl+Interr+Simp+Pres: sánaawʼangʼwaa
+     sánaaw+V+Neg+3pl+Simp+Pres: sánaawʼangʼwaang
+     sánaaw+V+Neg+3pl+Dir+Past: sánaawʼangʼwägan
+     sánaaw+V+Neg+3pl+Interr+Past: sánaawʼangʼaawaa
+     sánaaw+V+Neg+3pl+Indir+Past: sánaawʼangʼaawaan
+     sánaaw+V+Neg+3pl+Rel: sánaawʼangʼwaas
+     sánaaw+V+Neg+3pl+Rel+Evid: sánaawʼangʼaawaas
+     sánaaw+V+Neg+3pl+NonFact: sánaawʼangʼwaa.ang
+     sánaaw+V+Neg+3pl+Past+NonFact: sánaawʼangʼaawaa.ang
+     sánaaw+V+Neg+3pl+Interr+Pres+Hab: sánaawgangʼangʼwaa
+     sánaaw+V+Neg+3pl+Pres+Hab: sánaawgangʼangʼwaang
+     sánaaw+V+Neg+3pl+Pres+Hab+NonFact: sánaawgangʼangʼwaa.ang
+     sánaaw+V+Neg+3pl+Dir+Past+Hab: sánaawʼangʼwägiinii
+     sánaaw+V+Neg+3pl+Interr+Past+Hab: sánaawʼangʼwägaangaa
+     sánaaw+V+Neg+3pl+Indir+Past+Hab: sánaawʼangʼwägaangaan
+     sánaaw+V+Neg+3pl+Interr+Fut+Long: sánaawʼangʼwaaäsaa
+     sánaaw+V+Neg+3pl+Interr+Fut+Short: sánaawʼangʼwaaäs
+     sánaaw+V+Neg+3pl+Simp+Fut: sánaawʼangʼwaaäsaang
+     sánaaw+V+Neg+3pl+Imm+Fut: sánaawʼangʼwaaäsga
+     sánaaw+V+Neg+3pl+Rel+Fut: sánaawʼangʼwaaäsaas
+     sánaaw+V+Neg+3pl+Fut+NonFact: sánaawʼangʼwaaäsaa.ang
+     sánaaw+V+Neg+3pl+Interr+Near+Fut: sánaawʼwaa.ang k̲asaaʼáng
+     sánaaw+V+Neg+3pl+Near+Fut: sánaawʼwaa.ang k̲asaaʼánggang
+     sánaaw+V+Neg+3pl+Interr+VNear+Fut: sánaawʼwaa.ang k̲asaasdläʼáng
+     sánaaw+V+Neg+3pl+VNear+Fut: sánaawʼwaa.ang k̲asaasdläʼánggang
+     sánaaw+V+Neg+3pl+Bias+Imm+Pres: sánaawʼangʼwaaʼuuj
+     sánaaw+V+Neg+3pl+Bias+Simp+Pres: sánaawʼangʼwaaʼuujang
+     sánaaw+V+Neg+3pl+Res: sánaawʼangʼwaaäsaaʼuujang
+     sánaaw+V+Neg+3pl+Bias+Interr+Pres: sánaawʼangʼwaaʼus
+     sánaaw+V+Neg+3pl+Bias+Interr+Past: sánaawʼangʼwaaʼujaa
+     sánaaw+V+Neg+3pl+Bias+Interr+Past+Hab: sánaawʼangʼwaaʼuujaangaa
+     sánaaw+V+Neg+3pl+Bias+Interr+Fut: sánaawʼangʼwaaäsaaʼus
+     sánaaw+V+Neg+3pl+Cert+Pres: sánaawʼangʼwaaʼahlanggang
+     sánaaw+V+Neg+3pl+Cert+Past: sánaawʼangʼwaaʼahlanggan
+     sánaaw+V+Neg+3pl+Cert+Past+Hab: sánaawʼangʼwaaʼahlanggiinii
+     sánaaw+V+Neg+3pl+Cert+Fut: sánaawʼangʼwaaäsaaʼahlans
+     sánaaw+V+Neg+3pl+Cert+Rel: sánaawʼangʼwaaʼahlans
+     sánaaw+V+Neg+3pl+Ints+Past: sánaawʼangʼaawaaʼahlang
+     sánaaw+V+Neg+3pl+Cont: sánaawʼangʼaawaaʼahlanggaa
+     sánaaw+V+Neg+3pl+Ctfact+Pres: sánaawʼangʼaawaaʼahlanggang
+     sánaaw+V+Neg+3pl+Rflx: sánaawʼangʼwaaʼahl
+     sánaaw+V+Neg+3pl+Fut+Rflx+Interr: sánaawʼangʼwaaäseehl
 

@@ -11,180 +11,180 @@ Tests:
 
   Verb - gatáa - ENGLISH : # CLASS_AA
 
-     gatáa+V+SG+IMPV: gatáa
-     gatáa+V+IMM+PRES: gatáaga
-     gatáa+V+INTERR+SIMP+PRES: gatáa
-     gatáa+V+SIMP+PRES: gatáagang
-     gatáa+V+DIR+PAST: gatáagan
-     gatáa+V+INTERR+PAST: gatáagaa
-     gatáa+V+INDIR+PAST: gatáagaan
-     gatáa+V+REL: gatáas
-     gatáa+V+REL+EVID: gatáagaas
-     gatáa+V+NONFACT: gatáa.ang
-     gatáa+V+PAST+NONFACT: gatáagaa.ang
-     gatáa+V+INTERR+PRES+HAB: gatáagang
-     gatáa+V+PRES+HAB: gatáaganggang
-     gatáa+V+PRES+HAB+NONFACT: gatáagangang
-     gatáa+V+DIR+PAST+HAB: gatáagiinii
-     gatáa+V+INTERR+PAST+HAB: gatáagaangaa
-     gatáa+V+INDIR+PAST+HAB: gatáagaangaan
-     gatáa+V+INTERR+FUT+LONG: gatáaäsaa
-     gatáa+V+INTERR+FUT+SHORT: gatáaäs
-     gatáa+V+SIMP+FUT: gatáaäsaang
-     gatáa+V+IMM+FUT: gatáaäsga
-     gatáa+V+REL+FUT: gatáaäsaas
-     gatáa+V+FUT+NONFACT: gatáaäsaa.ang
-     gatáa+V+INTERR+NEAR+FUT: gatáa.ang k̲asa'áa
-     gatáa+V+NEAR+FUT: gatáa.ang k̲asa'áang
-     gatáa+V+INTERR+VNEAR+FUT: gatáa.ang k̲asaasdláa
-     gatáa+V+VNEAR+FUT: gatáa.ang k̲asaasdláang
-     gatáa+V+BIAS+IMM+PRES: gatáa'uuj
-     gatáa+V+BIAS+SIMP+PRES: gatáa'uujang
-     gatáa+V+RES: gatáaäsaa'uujang
-     gatáa+V+BIAS+INTERR+PRES: gatáa'us
-     gatáa+V+BIAS+INTERR+PAST: gatáa'ujaa
-     gatáa+V+BIAS+INTERR+PAST+HAB: gatáa'uujaangaa
-     gatáa+V+BIAS+INTERR+FUT: gatáaäsaa'us
-     gatáa+V+CERT+PRES: gatáa'ahlanggang
-     gatáa+V+CERT+PAST: gatáa'ahlanggan
-     gatáa+V+CERT+PAST+HAB: gatáa'ahlanggiinii
-     gatáa+V+CERT+FUT: gatáaäsaa'ahlans
-     gatáa+V+CERT+REL: gatáa'ahlans
-     gatáa+V+INTS+PAST: gatáagaa'ahlang
-     gatáa+V+CONT: gatáagaa'ahlanggaa
-     gatáa+V+CTFACT+PRES: gatáagaa'ahlanggang
-     gatáa+V+RFLX: gatáa'ahl
-     gatáa+V+FUT+RFLX+INTERR: gatáaäseehl
-     gatáa+V+PL+IMPV: gatáa'uu
-     gatáa+V+3PL+IMM+PRES: gatáa'waa
-     gatáa+V+3PL+INTERR+SIMP+PRES: gatáa'waa
-     gatáa+V+3PL+SIMP+PRES: gatáa'waang
-     gatáa+V+3PL+DIR+PAST: gatáa'wägan
-     gatáa+V+3PL+INTERR+PAST: gatáa'aawaa
-     gatáa+V+3PL+INDIR+PAST: gatáa'aawaan
-     gatáa+V+3PL+REL: gatáa'waas
-     gatáa+V+3PL+REL+EVID: gatáa'aawaas
-     gatáa+V+3PL+NONFACT: gatáa'waa.ang
-     gatáa+V+3PL+PAST+NONFACT: gatáa'aawaa.ang
-     gatáa+V+3PL+INTERR+PRES+HAB: gatáagang'waa
-     gatáa+V+3PL+PRES+HAB: gatáagang'waang
-     gatáa+V+3PL+PRES+HAB+NONFACT: gatáagang'waa.ang
-     gatáa+V+3PL+DIR+PAST+HAB: gatáa'wägiinii
-     gatáa+V+3PL+INTERR+PAST+HAB: gatáa'wägaangaa
-     gatáa+V+3PL+INDIR+PAST+HAB: gatáa'wägaangaan
-     gatáa+V+3PL+INTERR+FUT+LONG: gatáa'waaäsaa
-     gatáa+V+3PL+INTERR+FUT+SHORT: gatáa'waaäs
-     gatáa+V+3PL+SIMP+FUT: gatáa'waaäsaang
-     gatáa+V+3PL+IMM+FUT: gatáa'waaäsga
-     gatáa+V+3PL+REL+FUT: gatáa'waaäsaas
-     gatáa+V+3PL+FUT+NONFACT: gatáa'waaäsaa.ang
-     gatáa+V+3PL+INTERR+NEAR+FUT: gatáa'waa.ang k̲asa'áa
-     gatáa+V+3PL+NEAR+FUT: gatáa'waa.ang k̲asa'áang
-     gatáa+V+3PL+INTERR+VNEAR+FUT: gatáa'waa.ang k̲asaasdláa
-     gatáa+V+3PL+VNEAR+FUT: gatáa'waa.ang k̲asaasdláang
-     gatáa+V+3PL+BIAS+IMM+PRES: gatáa'waa'uuj
-     gatáa+V+3PL+BIAS+SIMP+PRES: gatáa'waa'uujang
-     gatáa+V+3PL+RES: gatáa'waaäsaa'uujang
-     gatáa+V+3PL+BIAS+INTERR+PRES: gatáa'waa'us
-     gatáa+V+3PL+BIAS+INTERR+PAST: gatáa'waa'ujaa
-     gatáa+V+3PL+BIAS+INTERR+PAST+HAB: gatáa'waa'uujaangaa
-     gatáa+V+3PL+BIAS+INTERR+FUT: gatáa'waaäsaa'us
-     gatáa+V+3PL+CERT+PRES: gatáa'waa'ahlanggang
-     gatáa+V+3PL+CERT+PAST: gatáa'waa'ahlanggan
-     gatáa+V+3PL+CERT+PAST+HAB: gatáa'waa'ahlanggiinii
-     gatáa+V+3PL+CERT+FUT: gatáa'waaäsaa'ahlans
-     gatáa+V+3PL+CERT+REL: gatáa'waa'ahlans
-     gatáa+V+3PL+INTS+PAST: gatáa'aawaa'ahlang
-     gatáa+V+3PL+CONT: gatáa'aawaa'ahlanggaa
-     gatáa+V+3PL+CTFACT+PRES: gatáa'aawaa'ahlanggang
-     gatáa+V+3PL+RFLX: gatáa'waa'ahl
-     gatáa+V+3PL+FUT+RFLX+INTERR: gatáa'waaäseehl
-     gatáa+V+NEG+SG+IMPV: gatáa'ang
-     gatáa+V+NEG+IMM+PRES: gatáa'angga
-     gatáa+V+NEG+INTERR+SIMP+PRES: gatáa'ang
-     gatáa+V+NEG+SIMP+PRES: gatáa'anggang
-     gatáa+V+NEG+DIR+PAST: gatáa'anggan
-     gatáa+V+NEG+INTERR+PAST: gatáa'aangaa
-     gatáa+V+NEG+INDIR+PAST: gatáa'aangaan
-     gatáa+V+NEG+REL: gatáa'ans
-     gatáa+V+NEG+REL+EVID: gatáa'aangaas
-     gatáa+V+NEG+NONFACT: gatáa'angang
-     gatáa+V+NEG+PAST+NONFACT: gatáa'aangaa.ang
-     gatáa+V+NEG+INTERR+PRES+HAB: gatáa'anggang
-     gatáa+V+NEG+PRES+HAB: gatáagang'anggang
-     gatáa+V+NEG+PRES+HAB+NONFACT: gatáagang'angang
-     gatáa+V+NEG+DIR+PAST+HAB: gatáa'anggiinii
-     gatáa+V+NEG+INTERR+PAST+HAB: gatáa'anggaangaa
-     gatáa+V+NEG+INDIR+PAST+HAB: gatáa'anggaangaan
-     gatáa+V+NEG+INTERR+FUT+LONG: gatáa'angäsaa
-     gatáa+V+NEG+INTERR+FUT+SHORT: gatáa'angäs
-     gatáa+V+NEG+SIMP+FUT: gatáa'angäsaang
-     gatáa+V+NEG+IMM+FUT: gatáa'angäsga
-     gatáa+V+NEG+REL+FUT: gatáa'angäsaas
-     gatáa+V+NEG+FUT+NONFACT: gatáa'angäsaa.ang
-     gatáa+V+NEG+INTERR+NEAR+FUT: gatáa.ang k̲asaa'áng
-     gatáa+V+NEG+NEAR+FUT: gatáa.ang k̲asaa'ánggang
-     gatáa+V+NEG+INTERR+VNEAR+FUT: gatáa.ang k̲asaasdlä'áng
-     gatáa+V+NEG+VNEAR+FUT: gatáa.ang k̲asaasdlä'ánggang
-     gatáa+V+NEG+BIAS+IMM+PRES: gatáa'ang'uuj
-     gatáa+V+NEG+BIAS+SIMP+PRES: gatáa'ang'uujang
-     gatáa+V+NEG+RES: gatáa'angäsaa'uujang
-     gatáa+V+NEG+BIAS+INTERR+PRES: gatáa'ang'us
-     gatáa+V+NEG+BIAS+INTERR+PAST: gatáa'ang'ujaa
-     gatáa+V+NEG+BIAS+INTERR+PAST+HAB: gatáa'ang'uujaangaa
-     gatáa+V+NEG+BIAS+INTERR+FUT: gatáa'angäsaa'us
-     gatáa+V+NEG+CERT+PRES: gatáa'aang'ahlanggang
-     gatáa+V+NEG+CERT+PAST: gatáa'aang'ahlanggan
-     gatáa+V+NEG+CERT+PAST+HAB: gatáa'aang'ahlanggiinii
-     gatáa+V+NEG+CERT+FUT: gatáa'angäsaa'ahlans
-     gatáa+V+NEG+CERT+REL: gatáa'aang'ahlans
-     gatáa+V+NEG+INTS+PAST: gatáa'aangaa'ahlang
-     gatáa+V+NEG+CONT: gatáa'aangaa'ahlanggaa
-     gatáa+V+NEG+CTFACT+PRES: gatáa'aangaa'ahlanggang
-     gatáa+V+NEG+RFLX: gatáa'aang'ahl
-     gatáa+V+NEG+FUT+RFLX+INTERR: gatáa'angäseehl
-     gatáa+V+NEG+PL+IMPV: gatáa'ang'uu
-     gatáa+V+NEG+3PL+IMM+PRES: gatáa'ang'waa
-     gatáa+V+NEG+3PL+INTERR+SIMP+PRES: gatáa'ang'waa
-     gatáa+V+NEG+3PL+SIMP+PRES: gatáa'ang'waang
-     gatáa+V+NEG+3PL+DIR+PAST: gatáa'ang'wägan
-     gatáa+V+NEG+3PL+INTERR+PAST: gatáa'ang'aawaa
-     gatáa+V+NEG+3PL+INDIR+PAST: gatáa'ang'aawaan
-     gatáa+V+NEG+3PL+REL: gatáa'ang'waas
-     gatáa+V+NEG+3PL+REL+EVID: gatáa'ang'aawaas
-     gatáa+V+NEG+3PL+NONFACT: gatáa'ang'waa.ang
-     gatáa+V+NEG+3PL+PAST+NONFACT: gatáa'ang'aawaa.ang
-     gatáa+V+NEG+3PL+INTERR+PRES+HAB: gatáagang'ang'waa
-     gatáa+V+NEG+3PL+PRES+HAB: gatáagang'ang'waang
-     gatáa+V+NEG+3PL+PRES+HAB+NONFACT: gatáagang'ang'waa.ang
-     gatáa+V+NEG+3PL+DIR+PAST+HAB: gatáa'ang'wägiinii
-     gatáa+V+NEG+3PL+INTERR+PAST+HAB: gatáa'ang'wägaangaa
-     gatáa+V+NEG+3PL+INDIR+PAST+HAB: gatáa'ang'wägaangaan
-     gatáa+V+NEG+3PL+INTERR+FUT+LONG: gatáa'ang'waaäsaa
-     gatáa+V+NEG+3PL+INTERR+FUT+SHORT: gatáa'ang'waaäs
-     gatáa+V+NEG+3PL+SIMP+FUT: gatáa'ang'waaäsaang
-     gatáa+V+NEG+3PL+IMM+FUT: gatáa'ang'waaäsga
-     gatáa+V+NEG+3PL+REL+FUT: gatáa'ang'waaäsaas
-     gatáa+V+NEG+3PL+FUT+NONFACT: gatáa'ang'waaäsaa.ang
-     gatáa+V+NEG+3PL+INTERR+NEAR+FUT: gatáa'waa.ang k̲asaa'áng
-     gatáa+V+NEG+3PL+NEAR+FUT: gatáa'waa.ang k̲asaa'ánggang
-     gatáa+V+NEG+3PL+INTERR+VNEAR+FUT: gatáa'waa.ang k̲asaasdlä'áng
-     gatáa+V+NEG+3PL+VNEAR+FUT: gatáa'waa.ang k̲asaasdlä'ánggang
-     gatáa+V+NEG+3PL+BIAS+IMM+PRES: gatáa'ang'waa'uuj
-     gatáa+V+NEG+3PL+BIAS+SIMP+PRES: gatáa'ang'waa'uujang
-     gatáa+V+NEG+3PL+RES: gatáa'ang'waaäsaa'uujang
-     gatáa+V+NEG+3PL+BIAS+INTERR+PRES: gatáa'ang'waa'us
-     gatáa+V+NEG+3PL+BIAS+INTERR+PAST: gatáa'ang'waa'ujaa
-     gatáa+V+NEG+3PL+BIAS+INTERR+PAST+HAB: gatáa'ang'waa'uujaangaa
-     gatáa+V+NEG+3PL+BIAS+INTERR+FUT: gatáa'ang'waaäsaa'us
-     gatáa+V+NEG+3PL+CERT+PRES: gatáa'ang'waa'ahlanggang
-     gatáa+V+NEG+3PL+CERT+PAST: gatáa'ang'waa'ahlanggan
-     gatáa+V+NEG+3PL+CERT+PAST+HAB: gatáa'ang'waa'ahlanggiinii
-     gatáa+V+NEG+3PL+CERT+FUT: gatáa'ang'waaäsaa'ahlans
-     gatáa+V+NEG+3PL+CERT+REL: gatáa'ang'waa'ahlans
-     gatáa+V+NEG+3PL+INTS+PAST: gatáa'ang'aawaa'ahlang
-     gatáa+V+NEG+3PL+CONT: gatáa'ang'aawaa'ahlanggaa
-     gatáa+V+NEG+3PL+CTFACT+PRES: gatáa'ang'aawaa'ahlanggang
-     gatáa+V+NEG+3PL+RFLX: gatáa'ang'waa'ahl
-     gatáa+V+NEG+3PL+FUT+RFLX+INTERR: gatáa'ang'waaäseehl
+     gatáa+V+Sg+Impv: gatáa
+     gatáa+V+Imm+Pres: gatáaga
+     gatáa+V+Interr+Simp+Pres: gatáa
+     gatáa+V+Simp+Pres: gatáagang
+     gatáa+V+Dir+Past: gatáagan
+     gatáa+V+Interr+Past: gatáagaa
+     gatáa+V+Indir+Past: gatáagaan
+     gatáa+V+Rel: gatáas
+     gatáa+V+Rel+Evid: gatáagaas
+     gatáa+V+NonFact: gatáa.ang
+     gatáa+V+Past+NonFact: gatáagaa.ang
+     gatáa+V+Interr+Pres+Hab: gatáagang
+     gatáa+V+Pres+Hab: gatáaganggang
+     gatáa+V+Pres+Hab+NonFact: gatáagangang
+     gatáa+V+Dir+Past+Hab: gatáagiinii
+     gatáa+V+Interr+Past+Hab: gatáagaangaa
+     gatáa+V+Indir+Past+Hab: gatáagaangaan
+     gatáa+V+Interr+Fut+Long: gatáaäsaa
+     gatáa+V+Interr+Fut+Short: gatáaäs
+     gatáa+V+Simp+Fut: gatáaäsaang
+     gatáa+V+Imm+Fut: gatáaäsga
+     gatáa+V+Rel+Fut: gatáaäsaas
+     gatáa+V+Fut+NonFact: gatáaäsaa.ang
+     gatáa+V+Interr+Near+Fut: gatáa.ang k̲asaʼáa
+     gatáa+V+Near+Fut: gatáa.ang k̲asaʼáang
+     gatáa+V+Interr+VNear+Fut: gatáa.ang k̲asaasdláa
+     gatáa+V+VNear+Fut: gatáa.ang k̲asaasdláang
+     gatáa+V+Bias+Imm+Pres: gatáaʼuuj
+     gatáa+V+Bias+Simp+Pres: gatáaʼuujang
+     gatáa+V+Res: gatáaäsaaʼuujang
+     gatáa+V+Bias+Interr+Pres: gatáaʼus
+     gatáa+V+Bias+Interr+Past: gatáaʼujaa
+     gatáa+V+Bias+Interr+Past+Hab: gatáaʼuujaangaa
+     gatáa+V+Bias+Interr+Fut: gatáaäsaaʼus
+     gatáa+V+Cert+Pres: gatáaʼahlanggang
+     gatáa+V+Cert+Past: gatáaʼahlanggan
+     gatáa+V+Cert+Past+Hab: gatáaʼahlanggiinii
+     gatáa+V+Cert+Fut: gatáaäsaaʼahlans
+     gatáa+V+Cert+Rel: gatáaʼahlans
+     gatáa+V+Ints+Past: gatáagaaʼahlang
+     gatáa+V+Cont: gatáagaaʼahlanggaa
+     gatáa+V+Ctfact+Pres: gatáagaaʼahlanggang
+     gatáa+V+Rflx: gatáaʼahl
+     gatáa+V+Fut+Rflx+Interr: gatáaäseehl
+     gatáa+V+Pl+Impv: gatáaʼuu
+     gatáa+V+3pl+Imm+Pres: gatáaʼwaa
+     gatáa+V+3pl+Interr+Simp+Pres: gatáaʼwaa
+     gatáa+V+3pl+Simp+Pres: gatáaʼwaang
+     gatáa+V+3pl+Dir+Past: gatáaʼwägan
+     gatáa+V+3pl+Interr+Past: gatáaʼaawaa
+     gatáa+V+3pl+Indir+Past: gatáaʼaawaan
+     gatáa+V+3pl+Rel: gatáaʼwaas
+     gatáa+V+3pl+Rel+Evid: gatáaʼaawaas
+     gatáa+V+3pl+NonFact: gatáaʼwaa.ang
+     gatáa+V+3pl+Past+NonFact: gatáaʼaawaa.ang
+     gatáa+V+3pl+Interr+Pres+Hab: gatáagangʼwaa
+     gatáa+V+3pl+Pres+Hab: gatáagangʼwaang
+     gatáa+V+3pl+Pres+Hab+NonFact: gatáagangʼwaa.ang
+     gatáa+V+3pl+Dir+Past+Hab: gatáaʼwägiinii
+     gatáa+V+3pl+Interr+Past+Hab: gatáaʼwägaangaa
+     gatáa+V+3pl+Indir+Past+Hab: gatáaʼwägaangaan
+     gatáa+V+3pl+Interr+Fut+Long: gatáaʼwaaäsaa
+     gatáa+V+3pl+Interr+Fut+Short: gatáaʼwaaäs
+     gatáa+V+3pl+Simp+Fut: gatáaʼwaaäsaang
+     gatáa+V+3pl+Imm+Fut: gatáaʼwaaäsga
+     gatáa+V+3pl+Rel+Fut: gatáaʼwaaäsaas
+     gatáa+V+3pl+Fut+NonFact: gatáaʼwaaäsaa.ang
+     gatáa+V+3pl+Interr+Near+Fut: gatáaʼwaa.ang k̲asaʼáa
+     gatáa+V+3pl+Near+Fut: gatáaʼwaa.ang k̲asaʼáang
+     gatáa+V+3pl+Interr+VNear+Fut: gatáaʼwaa.ang k̲asaasdláa
+     gatáa+V+3pl+VNear+Fut: gatáaʼwaa.ang k̲asaasdláang
+     gatáa+V+3pl+Bias+Imm+Pres: gatáaʼwaaʼuuj
+     gatáa+V+3pl+Bias+Simp+Pres: gatáaʼwaaʼuujang
+     gatáa+V+3pl+Res: gatáaʼwaaäsaaʼuujang
+     gatáa+V+3pl+Bias+Interr+Pres: gatáaʼwaaʼus
+     gatáa+V+3pl+Bias+Interr+Past: gatáaʼwaaʼujaa
+     gatáa+V+3pl+Bias+Interr+Past+Hab: gatáaʼwaaʼuujaangaa
+     gatáa+V+3pl+Bias+Interr+Fut: gatáaʼwaaäsaaʼus
+     gatáa+V+3pl+Cert+Pres: gatáaʼwaaʼahlanggang
+     gatáa+V+3pl+Cert+Past: gatáaʼwaaʼahlanggan
+     gatáa+V+3pl+Cert+Past+Hab: gatáaʼwaaʼahlanggiinii
+     gatáa+V+3pl+Cert+Fut: gatáaʼwaaäsaaʼahlans
+     gatáa+V+3pl+Cert+Rel: gatáaʼwaaʼahlans
+     gatáa+V+3pl+Ints+Past: gatáaʼaawaaʼahlang
+     gatáa+V+3pl+Cont: gatáaʼaawaaʼahlanggaa
+     gatáa+V+3pl+Ctfact+Pres: gatáaʼaawaaʼahlanggang
+     gatáa+V+3pl+Rflx: gatáaʼwaaʼahl
+     gatáa+V+3pl+Fut+Rflx+Interr: gatáaʼwaaäseehl
+     gatáa+V+Neg+Sg+Impv: gatáaʼang
+     gatáa+V+Neg+Imm+Pres: gatáaʼangga
+     gatáa+V+Neg+Interr+Simp+Pres: gatáaʼang
+     gatáa+V+Neg+Simp+Pres: gatáaʼanggang
+     gatáa+V+Neg+Dir+Past: gatáaʼanggan
+     gatáa+V+Neg+Interr+Past: gatáaʼaangaa
+     gatáa+V+Neg+Indir+Past: gatáaʼaangaan
+     gatáa+V+Neg+Rel: gatáaʼans
+     gatáa+V+Neg+Rel+Evid: gatáaʼaangaas
+     gatáa+V+Neg+NonFact: gatáaʼangang
+     gatáa+V+Neg+Past+NonFact: gatáaʼaangaa.ang
+     gatáa+V+Neg+Interr+Pres+Hab: gatáaʼanggang
+     gatáa+V+Neg+Pres+Hab: gatáagangʼanggang
+     gatáa+V+Neg+Pres+Hab+NonFact: gatáagangʼangang
+     gatáa+V+Neg+Dir+Past+Hab: gatáaʼanggiinii
+     gatáa+V+Neg+Interr+Past+Hab: gatáaʼanggaangaa
+     gatáa+V+Neg+Indir+Past+Hab: gatáaʼanggaangaan
+     gatáa+V+Neg+Interr+Fut+Long: gatáaʼangäsaa
+     gatáa+V+Neg+Interr+Fut+Short: gatáaʼangäs
+     gatáa+V+Neg+Simp+Fut: gatáaʼangäsaang
+     gatáa+V+Neg+Imm+Fut: gatáaʼangäsga
+     gatáa+V+Neg+Rel+Fut: gatáaʼangäsaas
+     gatáa+V+Neg+Fut+NonFact: gatáaʼangäsaa.ang
+     gatáa+V+Neg+Interr+Near+Fut: gatáa.ang k̲asaaʼáng
+     gatáa+V+Neg+Near+Fut: gatáa.ang k̲asaaʼánggang
+     gatáa+V+Neg+Interr+VNear+Fut: gatáa.ang k̲asaasdläʼáng
+     gatáa+V+Neg+VNear+Fut: gatáa.ang k̲asaasdläʼánggang
+     gatáa+V+Neg+Bias+Imm+Pres: gatáaʼangʼuuj
+     gatáa+V+Neg+Bias+Simp+Pres: gatáaʼangʼuujang
+     gatáa+V+Neg+Res: gatáaʼangäsaaʼuujang
+     gatáa+V+Neg+Bias+Interr+Pres: gatáaʼangʼus
+     gatáa+V+Neg+Bias+Interr+Past: gatáaʼangʼujaa
+     gatáa+V+Neg+Bias+Interr+Past+Hab: gatáaʼangʼuujaangaa
+     gatáa+V+Neg+Bias+Interr+Fut: gatáaʼangäsaaʼus
+     gatáa+V+Neg+Cert+Pres: gatáaʼaangʼahlanggang
+     gatáa+V+Neg+Cert+Past: gatáaʼaangʼahlanggan
+     gatáa+V+Neg+Cert+Past+Hab: gatáaʼaangʼahlanggiinii
+     gatáa+V+Neg+Cert+Fut: gatáaʼangäsaaʼahlans
+     gatáa+V+Neg+Cert+Rel: gatáaʼaangʼahlans
+     gatáa+V+Neg+Ints+Past: gatáaʼaangaaʼahlang
+     gatáa+V+Neg+Cont: gatáaʼaangaaʼahlanggaa
+     gatáa+V+Neg+Ctfact+Pres: gatáaʼaangaaʼahlanggang
+     gatáa+V+Neg+Rflx: gatáaʼaangʼahl
+     gatáa+V+Neg+Fut+Rflx+Interr: gatáaʼangäseehl
+     gatáa+V+Neg+Pl+Impv: gatáaʼangʼuu
+     gatáa+V+Neg+3pl+Imm+Pres: gatáaʼangʼwaa
+     gatáa+V+Neg+3pl+Interr+Simp+Pres: gatáaʼangʼwaa
+     gatáa+V+Neg+3pl+Simp+Pres: gatáaʼangʼwaang
+     gatáa+V+Neg+3pl+Dir+Past: gatáaʼangʼwägan
+     gatáa+V+Neg+3pl+Interr+Past: gatáaʼangʼaawaa
+     gatáa+V+Neg+3pl+Indir+Past: gatáaʼangʼaawaan
+     gatáa+V+Neg+3pl+Rel: gatáaʼangʼwaas
+     gatáa+V+Neg+3pl+Rel+Evid: gatáaʼangʼaawaas
+     gatáa+V+Neg+3pl+NonFact: gatáaʼangʼwaa.ang
+     gatáa+V+Neg+3pl+Past+NonFact: gatáaʼangʼaawaa.ang
+     gatáa+V+Neg+3pl+Interr+Pres+Hab: gatáagangʼangʼwaa
+     gatáa+V+Neg+3pl+Pres+Hab: gatáagangʼangʼwaang
+     gatáa+V+Neg+3pl+Pres+Hab+NonFact: gatáagangʼangʼwaa.ang
+     gatáa+V+Neg+3pl+Dir+Past+Hab: gatáaʼangʼwägiinii
+     gatáa+V+Neg+3pl+Interr+Past+Hab: gatáaʼangʼwägaangaa
+     gatáa+V+Neg+3pl+Indir+Past+Hab: gatáaʼangʼwägaangaan
+     gatáa+V+Neg+3pl+Interr+Fut+Long: gatáaʼangʼwaaäsaa
+     gatáa+V+Neg+3pl+Interr+Fut+Short: gatáaʼangʼwaaäs
+     gatáa+V+Neg+3pl+Simp+Fut: gatáaʼangʼwaaäsaang
+     gatáa+V+Neg+3pl+Imm+Fut: gatáaʼangʼwaaäsga
+     gatáa+V+Neg+3pl+Rel+Fut: gatáaʼangʼwaaäsaas
+     gatáa+V+Neg+3pl+Fut+NonFact: gatáaʼangʼwaaäsaa.ang
+     gatáa+V+Neg+3pl+Interr+Near+Fut: gatáaʼwaa.ang k̲asaaʼáng
+     gatáa+V+Neg+3pl+Near+Fut: gatáaʼwaa.ang k̲asaaʼánggang
+     gatáa+V+Neg+3pl+Interr+VNear+Fut: gatáaʼwaa.ang k̲asaasdläʼáng
+     gatáa+V+Neg+3pl+VNear+Fut: gatáaʼwaa.ang k̲asaasdläʼánggang
+     gatáa+V+Neg+3pl+Bias+Imm+Pres: gatáaʼangʼwaaʼuuj
+     gatáa+V+Neg+3pl+Bias+Simp+Pres: gatáaʼangʼwaaʼuujang
+     gatáa+V+Neg+3pl+Res: gatáaʼangʼwaaäsaaʼuujang
+     gatáa+V+Neg+3pl+Bias+Interr+Pres: gatáaʼangʼwaaʼus
+     gatáa+V+Neg+3pl+Bias+Interr+Past: gatáaʼangʼwaaʼujaa
+     gatáa+V+Neg+3pl+Bias+Interr+Past+Hab: gatáaʼangʼwaaʼuujaangaa
+     gatáa+V+Neg+3pl+Bias+Interr+Fut: gatáaʼangʼwaaäsaaʼus
+     gatáa+V+Neg+3pl+Cert+Pres: gatáaʼangʼwaaʼahlanggang
+     gatáa+V+Neg+3pl+Cert+Past: gatáaʼangʼwaaʼahlanggan
+     gatáa+V+Neg+3pl+Cert+Past+Hab: gatáaʼangʼwaaʼahlanggiinii
+     gatáa+V+Neg+3pl+Cert+Fut: gatáaʼangʼwaaäsaaʼahlans
+     gatáa+V+Neg+3pl+Cert+Rel: gatáaʼangʼwaaʼahlans
+     gatáa+V+Neg+3pl+Ints+Past: gatáaʼangʼaawaaʼahlang
+     gatáa+V+Neg+3pl+Cont: gatáaʼangʼaawaaʼahlanggaa
+     gatáa+V+Neg+3pl+Ctfact+Pres: gatáaʼangʼaawaaʼahlanggang
+     gatáa+V+Neg+3pl+Rflx: gatáaʼangʼwaaʼahl
+     gatáa+V+Neg+3pl+Fut+Rflx+Interr: gatáaʼangʼwaaäseehl
 
