@@ -11,30 +11,30 @@ Tests:
 
   Verb - k̲áaguhl - ENGLISH : # CLASS_UHL_STEM_2
 
-     k̲áaguhl+V+IMM+PRES: k̲áagulga
-     k̲áaguhl+V+SIMP+PRES: k̲áagulgang
-     k̲áaguhl+V+DIR+PAST: k̲áagulgan
-     k̲áaguhl+V+NONFACT: k̲áagul.ang
-     k̲áaguhl+V+INTERR+PRES+HAB: k̲áagulgang
-     k̲áaguhl+V+PRES+HAB: k̲áagulganggang
-     k̲áaguhl+V+PRES+HAB+NONFACT: k̲áagulgangang
-     k̲áaguhl+V+DIR+PAST+HAB: k̲áagulgiinii
-     k̲áaguhl+V+INTERR+PAST+HAB: k̲áagulgaangaa
-     k̲áaguhl+V+INDIR+PAST+HAB: k̲áagulgaangaan
-     k̲áaguhl+V+INTERR+NEAR+FUT: k̲áagulang k̲asa'áa
-     k̲áaguhl+V+NEAR+FUT: k̲áagulang k̲asa'áang
-     k̲áaguhl+V+INTERR+VNEAR+FUT: k̲áagulang k̲asaasdláa
-     k̲áaguhl+V+VNEAR+FUT: k̲áagulang k̲asaasdláang
-     k̲áaguhl+V+3PL+INTERR+PRES+HAB: k̲áagulgang'waa
-     k̲áaguhl+V+3PL+PRES+HAB: k̲áagulgang'waang
-     k̲áaguhl+V+3PL+PRES+HAB+NONFACT: k̲áagulgang'waa.ang
-     k̲áaguhl+V+NEG+PRES+HAB: k̲áagulgang'anggang
-     k̲áaguhl+V+NEG+PRES+HAB+NONFACT: k̲áagulgang'angang
-     k̲áaguhl+V+NEG+INTERR+NEAR+FUT: k̲áagulang k̲asaa'áng
-     k̲áaguhl+V+NEG+NEAR+FUT: k̲áagulang k̲asaa'ánggang
-     k̲áaguhl+V+NEG+INTERR+VNEAR+FUT: k̲áagulang k̲asaasdlä'áng
-     k̲áaguhl+V+NEG+VNEAR+FUT: k̲áagulang k̲asaasdlä'ánggang
-     k̲áaguhl+V+NEG+3PL+INTERR+PRES+HAB: k̲áagulgang'ang'waa
-     k̲áaguhl+V+NEG+3PL+PRES+HAB: k̲áagulgang'ang'waang
-     k̲áaguhl+V+NEG+3PL+PRES+HAB+NONFACT: k̲áagulgang'ang'waa.ang
+     k̲áaguhl+V+Imm+Pres: k̲áagulga
+     k̲áaguhl+V+Simp+Pres: k̲áagulgang
+     k̲áaguhl+V+Dir+Past: k̲áagulgan
+     k̲áaguhl+V+NonFact: k̲áagul.ang
+     k̲áaguhl+V+Interr+Pres+Hab: k̲áagulgang
+     k̲áaguhl+V+Pres+Hab: k̲áagulganggang
+     k̲áaguhl+V+Pres+Hab+NonFact: k̲áagulgangang
+     k̲áaguhl+V+Dir+Past+Hab: k̲áagulgiinii
+     k̲áaguhl+V+Interr+Past+Hab: k̲áagulgaangaa
+     k̲áaguhl+V+Indir+Past+Hab: k̲áagulgaangaan
+     k̲áaguhl+V+Interr+Near+Fut: k̲áagulang k̲asaʼáa
+     k̲áaguhl+V+Near+Fut: k̲áagulang k̲asaʼáang
+     k̲áaguhl+V+Interr+VNear+Fut: k̲áagulang k̲asaasdláa
+     k̲áaguhl+V+VNear+Fut: k̲áagulang k̲asaasdláang
+     k̲áaguhl+V+3pl+Interr+Pres+Hab: k̲áagulgangʼwaa
+     k̲áaguhl+V+3pl+Pres+Hab: k̲áagulgangʼwaang
+     k̲áaguhl+V+3pl+Pres+Hab+NonFact: k̲áagulgangʼwaa.ang
+     k̲áaguhl+V+Neg+Pres+Hab: k̲áagulgangʼanggang
+     k̲áaguhl+V+Neg+Pres+Hab+NonFact: k̲áagulgangʼangang
+     k̲áaguhl+V+Neg+Interr+Near+Fut: k̲áagulang k̲asaaʼáng
+     k̲áaguhl+V+Neg+Near+Fut: k̲áagulang k̲asaaʼánggang
+     k̲áaguhl+V+Neg+Interr+VNear+Fut: k̲áagulang k̲asaasdläʼáng
+     k̲áaguhl+V+Neg+VNear+Fut: k̲áagulang k̲asaasdläʼánggang
+     k̲áaguhl+V+Neg+3pl+Interr+Pres+Hab: k̲áagulgangʼangʼwaa
+     k̲áaguhl+V+Neg+3pl+Pres+Hab: k̲áagulgangʼangʼwaang
+     k̲áaguhl+V+Neg+3pl+Pres+Hab+NonFact: k̲áagulgangʼangʼwaa.ang
 

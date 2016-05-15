@@ -11,28 +11,28 @@ Tests:
 
   Verb - skyáahl - ENGLISH : # CLASS_AAHL_STEM_2
 
-     skyáahl+V+IMM+PRES: skyáalga
-     skyáahl+V+SIMP+PRES: skyáalgang
-     skyáahl+V+DIR+PAST: skyáalgan
-     skyáahl+V+INTERR+PAST: skyáalaa
-     skyáahl+V+INDIR+PAST: skyáalaan
-     skyáahl+V+REL+EVID: skyáalaas
-     skyáahl+V+PAST+NONFACT: skyáalaa.ang
-     skyáahl+V+INTERR+PRES+HAB: skyáalgang
-     skyáahl+V+PRES+HAB: skyáalganggang
-     skyáahl+V+PRES+HAB+NONFACT: skyáalgangang
-     skyáahl+V+DIR+PAST+HAB: skyáalgiinii
-     skyáahl+V+INTERR+PAST+HAB: skyáalgaangaa
-     skyáahl+V+INDIR+PAST+HAB: skyáalgaangaan
-     skyáahl+V+INTS+PAST: skyáalaa'ahlang
-     skyáahl+V+CONT: skyáalaa'ahlanggaa
-     skyáahl+V+CTFACT+PRES: skyáalaa'ahlanggang
-     skyáahl+V+3PL+INTERR+PRES+HAB: skyáalgang'waa
-     skyáahl+V+3PL+PRES+HAB: skyáalgang'waang
-     skyáahl+V+3PL+PRES+HAB+NONFACT: skyáalgang'waa.ang
-     skyáahl+V+NEG+PRES+HAB: skyáalgang'anggang
-     skyáahl+V+NEG+PRES+HAB+NONFACT: skyáalgang'angang
-     skyáahl+V+NEG+3PL+INTERR+PRES+HAB: skyáalgang'ang'waa
-     skyáahl+V+NEG+3PL+PRES+HAB: skyáalgang'ang'waang
-     skyáahl+V+NEG+3PL+PRES+HAB+NONFACT: skyáalgang'ang'waa.ang
+     skyáahl+V+Imm+Pres: skyáalga
+     skyáahl+V+Simp+Pres: skyáalgang
+     skyáahl+V+Dir+Past: skyáalgan
+     skyáahl+V+Interr+Past: skyáalaa
+     skyáahl+V+Indir+Past: skyáalaan
+     skyáahl+V+Rel+Evid: skyáalaas
+     skyáahl+V+Past+NonFact: skyáalaa.ang
+     skyáahl+V+Interr+Pres+Hab: skyáalgang
+     skyáahl+V+Pres+Hab: skyáalganggang
+     skyáahl+V+Pres+Hab+NonFact: skyáalgangang
+     skyáahl+V+Dir+Past+Hab: skyáalgiinii
+     skyáahl+V+Interr+Past+Hab: skyáalgaangaa
+     skyáahl+V+Indir+Past+Hab: skyáalgaangaan
+     skyáahl+V+Ints+Past: skyáalaaʼahlang
+     skyáahl+V+Cont: skyáalaaʼahlanggaa
+     skyáahl+V+Ctfact+Pres: skyáalaaʼahlanggang
+     skyáahl+V+3pl+Interr+Pres+Hab: skyáalgangʼwaa
+     skyáahl+V+3pl+Pres+Hab: skyáalgangʼwaang
+     skyáahl+V+3pl+Pres+Hab+NonFact: skyáalgangʼwaa.ang
+     skyáahl+V+Neg+Pres+Hab: skyáalgangʼanggang
+     skyáahl+V+Neg+Pres+Hab+NonFact: skyáalgangʼangang
+     skyáahl+V+Neg+3pl+Interr+Pres+Hab: skyáalgangʼangʼwaa
+     skyáahl+V+Neg+3pl+Pres+Hab: skyáalgangʼangʼwaang
+     skyáahl+V+Neg+3pl+Pres+Hab+NonFact: skyáalgangʼangʼwaa.ang
 

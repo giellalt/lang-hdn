@@ -11,16 +11,16 @@ Tests:
 
   Verb - áljahl - ENGLISH : # CLASS_AHL_STEM_3
 
-     áljahl+V+INTERR+PAST: áljaalaa
-     áljahl+V+INDIR+PAST: áljaalaan
-     áljahl+V+REL+EVID: áljaalaas
-     áljahl+V+PAST+NONFACT: áljaalaa.ang
-     áljahl+V+CERT+PRES: áljaal'ahlanggang
-     áljahl+V+CERT+PAST: áljaal'ahlanggan
-     áljahl+V+CERT+PAST+HAB: áljaal'ahlanggiinii
-     áljahl+V+CERT+REL: áljaal'ahlans
-     áljahl+V+INTS+PAST: áljaalaa'ahlang
-     áljahl+V+CONT: áljaalaa'ahlanggaa
-     áljahl+V+CTFACT+PRES: áljaalaa'ahlanggang
-     áljahl+V+RFLX: áljaal'ahl
+     áljahl+V+Interr+Past: áljaalaa
+     áljahl+V+Indir+Past: áljaalaan
+     áljahl+V+Rel+Evid: áljaalaas
+     áljahl+V+Past+NonFact: áljaalaa.ang
+     áljahl+V+Cert+Pres: áljaalʼahlanggang
+     áljahl+V+Cert+Past: áljaalʼahlanggan
+     áljahl+V+Cert+Past+Hab: áljaalʼahlanggiinii
+     áljahl+V+Cert+Rel: áljaalʼahlans
+     áljahl+V+Ints+Past: áljaalaaʼahlang
+     áljahl+V+Cont: áljaalaaʼahlanggaa
+     áljahl+V+Ctfact+Pres: áljaalaaʼahlanggang
+     áljahl+V+Rflx: áljaalʼahl
 

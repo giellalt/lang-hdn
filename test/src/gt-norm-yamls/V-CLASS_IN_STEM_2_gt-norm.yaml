@@ -11,16 +11,16 @@ Tests:
 
   Verb - kyáambda ín - ENGLISH : # CLASS_IN_STEM_2
 
-     kyáambda ín+V+INTERR+PAST: kyáambda éenaa
-     kyáambda ín+V+INDIR+PAST: kyáambda éenaan
-     kyáambda ín+V+REL+EVID: kyáambda éenaas
-     kyáambda ín+V+PAST+NONFACT: kyáambda éenaa.ang
-     kyáambda ín+V+CERT+PRES: kyáambda éen'ahlanggang
-     kyáambda ín+V+CERT+PAST: kyáambda éen'ahlanggan
-     kyáambda ín+V+CERT+PAST+HAB: kyáambda éen'ahlanggiinii
-     kyáambda ín+V+CERT+REL: kyáambda éen'ahlans
-     kyáambda ín+V+INTS+PAST: kyáambda éenaa'ahlang
-     kyáambda ín+V+CONT: kyáambda éenaa'ahlanggaa
-     kyáambda ín+V+CTFACT+PRES: kyáambda éenaa'ahlanggang
-     kyáambda ín+V+RFLX: kyáambda éen'ahl
+     kyáambda ín+V+Interr+Past: kyáambda éenaa
+     kyáambda ín+V+Indir+Past: kyáambda éenaan
+     kyáambda ín+V+Rel+Evid: kyáambda éenaas
+     kyáambda ín+V+Past+NonFact: kyáambda éenaa.ang
+     kyáambda ín+V+Cert+Pres: kyáambda éenʼahlanggang
+     kyáambda ín+V+Cert+Past: kyáambda éenʼahlanggan
+     kyáambda ín+V+Cert+Past+Hab: kyáambda éenʼahlanggiinii
+     kyáambda ín+V+Cert+Rel: kyáambda éenʼahlans
+     kyáambda ín+V+Ints+Past: kyáambda éenaaʼahlang
+     kyáambda ín+V+Cont: kyáambda éenaaʼahlanggaa
+     kyáambda ín+V+Ctfact+Pres: kyáambda éenaaʼahlanggang
+     kyáambda ín+V+Rflx: kyáambda éenʼahl
 

@@ -11,30 +11,30 @@ Tests:
 
   Verb - áljahl - ENGLISH : # CLASS_AHL_STEM_2
 
-     áljahl+V+IMM+PRES: áljalga
-     áljahl+V+SIMP+PRES: áljalgang
-     áljahl+V+DIR+PAST: áljalgan
-     áljahl+V+NONFACT: áljal.ang
-     áljahl+V+INTERR+PRES+HAB: áljalgang
-     áljahl+V+PRES+HAB: áljalganggang
-     áljahl+V+PRES+HAB+NONFACT: áljalgangang
-     áljahl+V+DIR+PAST+HAB: áljalgiinii
-     áljahl+V+INTERR+PAST+HAB: áljalgaangaa
-     áljahl+V+INDIR+PAST+HAB: áljalgaangaan
-     áljahl+V+INTERR+NEAR+FUT: áljalang k̲asa'áa
-     áljahl+V+NEAR+FUT: áljalang k̲asa'áang
-     áljahl+V+INTERR+VNEAR+FUT: áljalang k̲asaasdláa
-     áljahl+V+VNEAR+FUT: áljalang k̲asaasdláang
-     áljahl+V+3PL+INTERR+PRES+HAB: áljalgang'waa
-     áljahl+V+3PL+PRES+HAB: áljalgang'waang
-     áljahl+V+3PL+PRES+HAB+NONFACT: áljalgang'waa.ang
-     áljahl+V+NEG+PRES+HAB: áljalgang'anggang
-     áljahl+V+NEG+PRES+HAB+NONFACT: áljalgang'angang
-     áljahl+V+NEG+INTERR+NEAR+FUT: áljalang k̲asaa'áng
-     áljahl+V+NEG+NEAR+FUT: áljalang k̲asaa'ánggang
-     áljahl+V+NEG+INTERR+VNEAR+FUT: áljalang k̲asaasdlä'áng
-     áljahl+V+NEG+VNEAR+FUT: áljalang k̲asaasdlä'ánggang
-     áljahl+V+NEG+3PL+INTERR+PRES+HAB: áljalgang'ang'waa
-     áljahl+V+NEG+3PL+PRES+HAB: áljalgang'ang'waang
-     áljahl+V+NEG+3PL+PRES+HAB+NONFACT: áljalgang'ang'waa.ang
+     áljahl+V+Imm+Pres: áljalga
+     áljahl+V+Simp+Pres: áljalgang
+     áljahl+V+Dir+Past: áljalgan
+     áljahl+V+NonFact: áljal.ang
+     áljahl+V+Interr+Pres+Hab: áljalgang
+     áljahl+V+Pres+Hab: áljalganggang
+     áljahl+V+Pres+Hab+NonFact: áljalgangang
+     áljahl+V+Dir+Past+Hab: áljalgiinii
+     áljahl+V+Interr+Past+Hab: áljalgaangaa
+     áljahl+V+Indir+Past+Hab: áljalgaangaan
+     áljahl+V+Interr+Near+Fut: áljalang k̲asaʼáa
+     áljahl+V+Near+Fut: áljalang k̲asaʼáang
+     áljahl+V+Interr+VNear+Fut: áljalang k̲asaasdláa
+     áljahl+V+VNear+Fut: áljalang k̲asaasdláang
+     áljahl+V+3pl+Interr+Pres+Hab: áljalgangʼwaa
+     áljahl+V+3pl+Pres+Hab: áljalgangʼwaang
+     áljahl+V+3pl+Pres+Hab+NonFact: áljalgangʼwaa.ang
+     áljahl+V+Neg+Pres+Hab: áljalgangʼanggang
+     áljahl+V+Neg+Pres+Hab+NonFact: áljalgangʼangang
+     áljahl+V+Neg+Interr+Near+Fut: áljalang k̲asaaʼáng
+     áljahl+V+Neg+Near+Fut: áljalang k̲asaaʼánggang
+     áljahl+V+Neg+Interr+VNear+Fut: áljalang k̲asaasdläʼáng
+     áljahl+V+Neg+VNear+Fut: áljalang k̲asaasdläʼánggang
+     áljahl+V+Neg+3pl+Interr+Pres+Hab: áljalgangʼangʼwaa
+     áljahl+V+Neg+3pl+Pres+Hab: áljalgangʼangʼwaang
+     áljahl+V+Neg+3pl+Pres+Hab+NonFact: áljalgangʼangʼwaa.ang
 

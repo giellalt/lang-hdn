@@ -11,30 +11,30 @@ Tests:
 
   Verb - hlgihl - ENGLISH : # CLASS_IHL_STEM_2
 
-     hlgihl+V+IMM+PRES: hlgílga
-     hlgihl+V+SIMP+PRES: hlgílgang
-     hlgihl+V+DIR+PAST: hlgílgan
-     hlgihl+V+NONFACT: hlgílang
-     hlgihl+V+INTERR+PRES+HAB: hlgílgang
-     hlgihl+V+PRES+HAB: hlgílganggang
-     hlgihl+V+PRES+HAB+NONFACT: hlgílgangang
-     hlgihl+V+DIR+PAST+HAB: hlgílgiinii
-     hlgihl+V+INTERR+PAST+HAB: hlgílgaangaa
-     hlgihl+V+INDIR+PAST+HAB: hlgílgaangaan
-     hlgihl+V+INTERR+NEAR+FUT: hlgílang k̲asa'áa
-     hlgihl+V+NEAR+FUT: hlgílang k̲asa'áang
-     hlgihl+V+INTERR+VNEAR+FUT: hlgílang k̲asaasdláa
-     hlgihl+V+VNEAR+FUT: hlgílang k̲asaasdláang
-     hlgihl+V+3PL+INTERR+PRES+HAB: hlgílgang'waa
-     hlgihl+V+3PL+PRES+HAB: hlgílgang'waang
-     hlgihl+V+3PL+PRES+HAB+NONFACT: hlgílgang'waa.ang
-     hlgihl+V+NEG+PRES+HAB: hlgílgang'anggang
-     hlgihl+V+NEG+PRES+HAB+NONFACT: hlgílgang'angang
-     hlgihl+V+NEG+INTERR+NEAR+FUT: hlgílang k̲asaa'áng
-     hlgihl+V+NEG+NEAR+FUT: hlgílang k̲asaa'ánggang
-     hlgihl+V+NEG+INTERR+VNEAR+FUT: hlgílang k̲asaasdlä'áng
-     hlgihl+V+NEG+VNEAR+FUT: hlgílang k̲asaasdlä'ánggang
-     hlgihl+V+NEG+3PL+INTERR+PRES+HAB: hlgílgang'ang'waa
-     hlgihl+V+NEG+3PL+PRES+HAB: hlgílgang'ang'waang
-     hlgihl+V+NEG+3PL+PRES+HAB+NONFACT: hlgílgang'ang'waa.ang
+     hlgihl+V+Imm+Pres: hlgílga
+     hlgihl+V+Simp+Pres: hlgílgang
+     hlgihl+V+Dir+Past: hlgílgan
+     hlgihl+V+NonFact: hlgílang
+     hlgihl+V+Interr+Pres+Hab: hlgílgang
+     hlgihl+V+Pres+Hab: hlgílganggang
+     hlgihl+V+Pres+Hab+NonFact: hlgílgangang
+     hlgihl+V+Dir+Past+Hab: hlgílgiinii
+     hlgihl+V+Interr+Past+Hab: hlgílgaangaa
+     hlgihl+V+Indir+Past+Hab: hlgílgaangaan
+     hlgihl+V+Interr+Near+Fut: hlgílang k̲asaʼáa
+     hlgihl+V+Near+Fut: hlgílang k̲asaʼáang
+     hlgihl+V+Interr+VNear+Fut: hlgílang k̲asaasdláa
+     hlgihl+V+VNear+Fut: hlgílang k̲asaasdláang
+     hlgihl+V+3pl+Interr+Pres+Hab: hlgílgangʼwaa
+     hlgihl+V+3pl+Pres+Hab: hlgílgangʼwaang
+     hlgihl+V+3pl+Pres+Hab+NonFact: hlgílgangʼwaa.ang
+     hlgihl+V+Neg+Pres+Hab: hlgílgangʼanggang
+     hlgihl+V+Neg+Pres+Hab+NonFact: hlgílgangʼangang
+     hlgihl+V+Neg+Interr+Near+Fut: hlgílang k̲asaaʼáng
+     hlgihl+V+Neg+Near+Fut: hlgílang k̲asaaʼánggang
+     hlgihl+V+Neg+Interr+VNear+Fut: hlgílang k̲asaasdläʼáng
+     hlgihl+V+Neg+VNear+Fut: hlgílang k̲asaasdläʼánggang
+     hlgihl+V+Neg+3pl+Interr+Pres+Hab: hlgílgangʼangʼwaa
+     hlgihl+V+Neg+3pl+Pres+Hab: hlgílgangʼangʼwaang
+     hlgihl+V+Neg+3pl+Pres+Hab+NonFact: hlgílgangʼangʼwaa.ang
 

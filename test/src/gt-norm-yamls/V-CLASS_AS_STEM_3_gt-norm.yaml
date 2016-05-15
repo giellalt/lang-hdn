@@ -11,11 +11,11 @@ Tests:
 
   Verb - dándas - ENGLISH : # CLASS_AS_STEM_3
 
-     dándas+V+INTERR+PAST: dándajaa
-     dándas+V+INDIR+PAST: dándajaan
-     dándas+V+REL+EVID: dándajaas
-     dándas+V+PAST+NONFACT: dándajaa.ang
-     dándas+V+INTS+PAST: dándajaa'ahlang
-     dándas+V+CONT: dándajaa'ahlanggaa
-     dándas+V+CTFACT+PRES: dándajaa'ahlanggang
+     dándas+V+Interr+Past: dándajaa
+     dándas+V+Indir+Past: dándajaan
+     dándas+V+Rel+Evid: dándajaas
+     dándas+V+Past+NonFact: dándajaa.ang
+     dándas+V+Ints+Past: dándajaaʼahlang
+     dándas+V+Cont: dándajaaʼahlanggaa
+     dándas+V+Ctfact+Pres: dándajaaʼahlanggang
 

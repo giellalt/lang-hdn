@@ -11,11 +11,11 @@ Tests:
 
   Verb - kíl is - ENGLISH : # CLASS_IS_STEM_3
 
-     kíl is+V+INTERR+PAST: kíl ijáa
-     kíl is+V+INDIR+PAST: kíl ijáan
-     kíl is+V+REL+EVID: kíl ijáas
-     kíl is+V+PAST+NONFACT: kíl ijáa.ang
-     kíl is+V+INTS+PAST: kíl ijáa'ahlang
-     kíl is+V+CONT: kíl ijáa'ahlanggaa
-     kíl is+V+CTFACT+PRES: kíl ijáa'ahlanggang
+     kíl is+V+Interr+Past: kíl ijáa
+     kíl is+V+Indir+Past: kíl ijáan
+     kíl is+V+Rel+Evid: kíl ijáas
+     kíl is+V+Past+NonFact: kíl ijáa.ang
+     kíl is+V+Ints+Past: kíl ijáaʼahlang
+     kíl is+V+Cont: kíl ijáaʼahlanggaa
+     kíl is+V+Ctfact+Pres: kíl ijáaʼahlanggang
 

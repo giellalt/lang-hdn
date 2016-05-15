@@ -11,180 +11,180 @@ Tests:
 
   Verb - náanee - ENGLISH : # CLASS_EE
 
-     náanee+V+SG+IMPV: náanee
-     náanee+V+IMM+PRES: náaneega
-     náanee+V+INTERR+SIMP+PRES: náanee
-     náanee+V+SIMP+PRES: náaneegang
-     náanee+V+DIR+PAST: náaneegan
-     náanee+V+INTERR+PAST: náaneegaa
-     náanee+V+INDIR+PAST: náaneegaan
-     náanee+V+REL: náanees
-     náanee+V+REL+EVID: náaneegaas
-     náanee+V+NONFACT: náaneeang
-     náanee+V+PAST+NONFACT: náaneegaa.ang
-     náanee+V+INTERR+PRES+HAB: náaneegang
-     náanee+V+PRES+HAB: náaneeganggang
-     náanee+V+PRES+HAB+NONFACT: náaneegangang
-     náanee+V+DIR+PAST+HAB: náaneegiinii
-     náanee+V+INTERR+PAST+HAB: náaneegaangaa
-     náanee+V+INDIR+PAST+HAB: náaneegaangaan
-     náanee+V+INTERR+FUT+LONG: náaneeäsaa
-     náanee+V+INTERR+FUT+SHORT: náaneeäs
-     náanee+V+SIMP+FUT: náaneeäsaang
-     náanee+V+IMM+FUT: náaneeäsga
-     náanee+V+REL+FUT: náaneeäsaas
-     náanee+V+FUT+NONFACT: náaneeäsaa.ang
-     náanee+V+INTERR+NEAR+FUT: náanee.ang k̲asa'áa
-     náanee+V+NEAR+FUT: náanee.ang k̲asa'áang
-     náanee+V+INTERR+VNEAR+FUT: náanee.ang k̲asaasdláa
-     náanee+V+VNEAR+FUT: náanee.ang k̲asaasdláang
-     náanee+V+BIAS+IMM+PRES: náanee'uuj
-     náanee+V+BIAS+SIMP+PRES: náanee'uujang
-     náanee+V+RES: náaneeäsaa'uujang
-     náanee+V+BIAS+INTERR+PRES: náanee'us
-     náanee+V+BIAS+INTERR+PAST: náanee'ujaa
-     náanee+V+BIAS+INTERR+PAST+HAB: náanee'uujaangaa
-     náanee+V+BIAS+INTERR+FUT: náaneeäsaa'us
-     náanee+V+CERT+PRES: náanee'ahlanggang
-     náanee+V+CERT+PAST: náanee'ahlanggan
-     náanee+V+CERT+PAST+HAB: náanee'ahlanggiinii
-     náanee+V+CERT+FUT: náaneeäsaa'ahlans
-     náanee+V+CERT+REL: náanee'ahlans
-     náanee+V+INTS+PAST: náaneegaa'ahlang
-     náanee+V+CONT: náaneegaa'ahlanggaa
-     náanee+V+CTFACT+PRES: náaneegaa'ahlanggang
-     náanee+V+RFLX: náanee'ahl
-     náanee+V+FUT+RFLX+INTERR: náaneeäseehl
-     náanee+V+PL+IMPV: náanee'uu
-     náanee+V+3PL+IMM+PRES: náanee'waa
-     náanee+V+3PL+INTERR+SIMP+PRES: náanee'waa
-     náanee+V+3PL+SIMP+PRES: náanee'waang
-     náanee+V+3PL+DIR+PAST: náanee'wägan
-     náanee+V+3PL+INTERR+PAST: náanee'aawaa
-     náanee+V+3PL+INDIR+PAST: náanee'aawaan
-     náanee+V+3PL+REL: náanee'waas
-     náanee+V+3PL+REL+EVID: náanee'aawaas
-     náanee+V+3PL+NONFACT: náanee'waa.ang
-     náanee+V+3PL+PAST+NONFACT: náanee'aawaa.ang
-     náanee+V+3PL+INTERR+PRES+HAB: náaneegang'waa
-     náanee+V+3PL+PRES+HAB: náaneegang'waang
-     náanee+V+3PL+PRES+HAB+NONFACT: náaneegang'waa.ang
-     náanee+V+3PL+DIR+PAST+HAB: náanee'wägiinii
-     náanee+V+3PL+INTERR+PAST+HAB: náanee'wägaangaa
-     náanee+V+3PL+INDIR+PAST+HAB: náanee'wägaangaan
-     náanee+V+3PL+INTERR+FUT+LONG: náanee'waaäsaa
-     náanee+V+3PL+INTERR+FUT+SHORT: náanee'waaäs
-     náanee+V+3PL+SIMP+FUT: náanee'waaäsaang
-     náanee+V+3PL+IMM+FUT: náanee'waaäsga
-     náanee+V+3PL+REL+FUT: náanee'waaäsaas
-     náanee+V+3PL+FUT+NONFACT: náanee'waaäsaa.ang
-     náanee+V+3PL+INTERR+NEAR+FUT: náanee'waa.ang k̲asa'áa
-     náanee+V+3PL+NEAR+FUT: náanee'waa.ang k̲asa'áang
-     náanee+V+3PL+INTERR+VNEAR+FUT: náanee'waa.ang k̲asaasdláa
-     náanee+V+3PL+VNEAR+FUT: náanee'waa.ang k̲asaasdláang
-     náanee+V+3PL+BIAS+IMM+PRES: náanee'waa'uuj
-     náanee+V+3PL+BIAS+SIMP+PRES: náanee'waa'uujang
-     náanee+V+3PL+RES: náanee'waaäsaa'uujang
-     náanee+V+3PL+BIAS+INTERR+PRES: náanee'waa'us
-     náanee+V+3PL+BIAS+INTERR+PAST: náanee'waa'ujaa
-     náanee+V+3PL+BIAS+INTERR+PAST+HAB: náanee'waa'uujaangaa
-     náanee+V+3PL+BIAS+INTERR+FUT: náanee'waaäsaa'us
-     náanee+V+3PL+CERT+PRES: náanee'waa'ahlanggang
-     náanee+V+3PL+CERT+PAST: náanee'waa'ahlanggan
-     náanee+V+3PL+CERT+PAST+HAB: náanee'waa'ahlanggiinii
-     náanee+V+3PL+CERT+FUT: náanee'waaäsaa'ahlans
-     náanee+V+3PL+CERT+REL: náanee'waa'ahlans
-     náanee+V+3PL+INTS+PAST: náanee'aawaa'ahlang
-     náanee+V+3PL+CONT: náanee'aawaa'ahlanggaa
-     náanee+V+3PL+CTFACT+PRES: náanee'aawaa'ahlanggang
-     náanee+V+3PL+RFLX: náanee'waa'ahl
-     náanee+V+3PL+FUT+RFLX+INTERR: náanee'waaäseehl
-     náanee+V+NEG+SG+IMPV: náanee'ang
-     náanee+V+NEG+IMM+PRES: náanee'angga
-     náanee+V+NEG+INTERR+SIMP+PRES: náanee'ang
-     náanee+V+NEG+SIMP+PRES: náanee'anggang
-     náanee+V+NEG+DIR+PAST: náanee'anggan
-     náanee+V+NEG+INTERR+PAST: náanee'aangaa
-     náanee+V+NEG+INDIR+PAST: náanee'aangaan
-     náanee+V+NEG+REL: náanee'ans
-     náanee+V+NEG+REL+EVID: náanee'aangaas
-     náanee+V+NEG+NONFACT: náanee'angang
-     náanee+V+NEG+PAST+NONFACT: náanee'aangaa.ang
-     náanee+V+NEG+INTERR+PRES+HAB: náanee'anggang
-     náanee+V+NEG+PRES+HAB: náaneegang'anggang
-     náanee+V+NEG+PRES+HAB+NONFACT: náaneegang'angang
-     náanee+V+NEG+DIR+PAST+HAB: náanee'anggiinii
-     náanee+V+NEG+INTERR+PAST+HAB: náanee'anggaangaa
-     náanee+V+NEG+INDIR+PAST+HAB: náanee'anggaangaan
-     náanee+V+NEG+INTERR+FUT+LONG: náanee'angäsaa
-     náanee+V+NEG+INTERR+FUT+SHORT: náanee'angäs
-     náanee+V+NEG+SIMP+FUT: náanee'angäsaang
-     náanee+V+NEG+IMM+FUT: náanee'angäsga
-     náanee+V+NEG+REL+FUT: náanee'angäsaas
-     náanee+V+NEG+FUT+NONFACT: náanee'angäsaa.ang
-     náanee+V+NEG+INTERR+NEAR+FUT: náanee.ang k̲asaa'áng
-     náanee+V+NEG+NEAR+FUT: náanee.ang k̲asaa'ánggang
-     náanee+V+NEG+INTERR+VNEAR+FUT: náanee.ang k̲asaasdlä'áng
-     náanee+V+NEG+VNEAR+FUT: náanee.ang k̲asaasdlä'ánggang
-     náanee+V+NEG+BIAS+IMM+PRES: náanee'ang'uuj
-     náanee+V+NEG+BIAS+SIMP+PRES: náanee'ang'uujang
-     náanee+V+NEG+RES: náanee'angäsaa'uujang
-     náanee+V+NEG+BIAS+INTERR+PRES: náanee'ang'us
-     náanee+V+NEG+BIAS+INTERR+PAST: náanee'ang'ujaa
-     náanee+V+NEG+BIAS+INTERR+PAST+HAB: náanee'ang'uujaangaa
-     náanee+V+NEG+BIAS+INTERR+FUT: náanee'angäsaa'us
-     náanee+V+NEG+CERT+PRES: náanee'aang'ahlanggang
-     náanee+V+NEG+CERT+PAST: náanee'aang'ahlanggan
-     náanee+V+NEG+CERT+PAST+HAB: náanee'aang'ahlanggiinii
-     náanee+V+NEG+CERT+FUT: náanee'angäsaa'ahlans
-     náanee+V+NEG+CERT+REL: náanee'aang'ahlans
-     náanee+V+NEG+INTS+PAST: náanee'aangaa'ahlang
-     náanee+V+NEG+CONT: náanee'aangaa'ahlanggaa
-     náanee+V+NEG+CTFACT+PRES: náanee'aangaa'ahlanggang
-     náanee+V+NEG+RFLX: náanee'aang'ahl
-     náanee+V+NEG+FUT+RFLX+INTERR: náanee'angäseehl
-     náanee+V+NEG+PL+IMPV: náanee'ang'uu
-     náanee+V+NEG+3PL+IMM+PRES: náanee'ang'waa
-     náanee+V+NEG+3PL+INTERR+SIMP+PRES: náanee'ang'waa
-     náanee+V+NEG+3PL+SIMP+PRES: náanee'ang'waang
-     náanee+V+NEG+3PL+DIR+PAST: náanee'ang'wägan
-     náanee+V+NEG+3PL+INTERR+PAST: náanee'ang'aawaa
-     náanee+V+NEG+3PL+INDIR+PAST: náanee'ang'aawaan
-     náanee+V+NEG+3PL+REL: náanee'ang'waas
-     náanee+V+NEG+3PL+REL+EVID: náanee'ang'aawaas
-     náanee+V+NEG+3PL+NONFACT: náanee'ang'waa.ang
-     náanee+V+NEG+3PL+PAST+NONFACT: náanee'ang'aawaa.ang
-     náanee+V+NEG+3PL+INTERR+PRES+HAB: náaneegang'ang'waa
-     náanee+V+NEG+3PL+PRES+HAB: náaneegang'ang'waang
-     náanee+V+NEG+3PL+PRES+HAB+NONFACT: náaneegang'ang'waa.ang
-     náanee+V+NEG+3PL+DIR+PAST+HAB: náanee'ang'wägiinii
-     náanee+V+NEG+3PL+INTERR+PAST+HAB: náanee'ang'wägaangaa
-     náanee+V+NEG+3PL+INDIR+PAST+HAB: náanee'ang'wägaangaan
-     náanee+V+NEG+3PL+INTERR+FUT+LONG: náanee'ang'waaäsaa
-     náanee+V+NEG+3PL+INTERR+FUT+SHORT: náanee'ang'waaäs
-     náanee+V+NEG+3PL+SIMP+FUT: náanee'ang'waaäsaang
-     náanee+V+NEG+3PL+IMM+FUT: náanee'ang'waaäsga
-     náanee+V+NEG+3PL+REL+FUT: náanee'ang'waaäsaas
-     náanee+V+NEG+3PL+FUT+NONFACT: náanee'ang'waaäsaa.ang
-     náanee+V+NEG+3PL+INTERR+NEAR+FUT: náanee'waa.ang k̲asaa'áng
-     náanee+V+NEG+3PL+NEAR+FUT: náanee'waa.ang k̲asaa'ánggang
-     náanee+V+NEG+3PL+INTERR+VNEAR+FUT: náanee'waa.ang k̲asaasdlä'áng
-     náanee+V+NEG+3PL+VNEAR+FUT: náanee'waa.ang k̲asaasdlä'ánggang
-     náanee+V+NEG+3PL+BIAS+IMM+PRES: náanee'ang'waa'uuj
-     náanee+V+NEG+3PL+BIAS+SIMP+PRES: náanee'ang'waa'uujang
-     náanee+V+NEG+3PL+RES: náanee'ang'waaäsaa'uujang
-     náanee+V+NEG+3PL+BIAS+INTERR+PRES: náanee'ang'waa'us
-     náanee+V+NEG+3PL+BIAS+INTERR+PAST: náanee'ang'waa'ujaa
-     náanee+V+NEG+3PL+BIAS+INTERR+PAST+HAB: náanee'ang'waa'uujaangaa
-     náanee+V+NEG+3PL+BIAS+INTERR+FUT: náanee'ang'waaäsaa'us
-     náanee+V+NEG+3PL+CERT+PRES: náanee'ang'waa'ahlanggang
-     náanee+V+NEG+3PL+CERT+PAST: náanee'ang'waa'ahlanggan
-     náanee+V+NEG+3PL+CERT+PAST+HAB: náanee'ang'waa'ahlanggiinii
-     náanee+V+NEG+3PL+CERT+FUT: náanee'ang'waaäsaa'ahlans
-     náanee+V+NEG+3PL+CERT+REL: náanee'ang'waa'ahlans
-     náanee+V+NEG+3PL+INTS+PAST: náanee'ang'aawaa'ahlang
-     náanee+V+NEG+3PL+CONT: náanee'ang'aawaa'ahlanggaa
-     náanee+V+NEG+3PL+CTFACT+PRES: náanee'ang'aawaa'ahlanggang
-     náanee+V+NEG+3PL+RFLX: náanee'ang'waa'ahl
-     náanee+V+NEG+3PL+FUT+RFLX+INTERR: náanee'ang'waaäseehl
+     náanee+V+Sg+Impv: náanee
+     náanee+V+Imm+Pres: náaneega
+     náanee+V+Interr+Simp+Pres: náanee
+     náanee+V+Simp+Pres: náaneegang
+     náanee+V+Dir+Past: náaneegan
+     náanee+V+Interr+Past: náaneegaa
+     náanee+V+Indir+Past: náaneegaan
+     náanee+V+Rel: náanees
+     náanee+V+Rel+Evid: náaneegaas
+     náanee+V+NonFact: náaneeang
+     náanee+V+Past+NonFact: náaneegaa.ang
+     náanee+V+Interr+Pres+Hab: náaneegang
+     náanee+V+Pres+Hab: náaneeganggang
+     náanee+V+Pres+Hab+NonFact: náaneegangang
+     náanee+V+Dir+Past+Hab: náaneegiinii
+     náanee+V+Interr+Past+Hab: náaneegaangaa
+     náanee+V+Indir+Past+Hab: náaneegaangaan
+     náanee+V+Interr+Fut+Long: náaneeäsaa
+     náanee+V+Interr+Fut+Short: náaneeäs
+     náanee+V+Simp+Fut: náaneeäsaang
+     náanee+V+Imm+Fut: náaneeäsga
+     náanee+V+Rel+Fut: náaneeäsaas
+     náanee+V+Fut+NonFact: náaneeäsaa.ang
+     náanee+V+Interr+Near+Fut: náanee.ang k̲asaʼáa
+     náanee+V+Near+Fut: náanee.ang k̲asaʼáang
+     náanee+V+Interr+VNear+Fut: náanee.ang k̲asaasdláa
+     náanee+V+VNear+Fut: náanee.ang k̲asaasdláang
+     náanee+V+Bias+Imm+Pres: náaneeʼuuj
+     náanee+V+Bias+Simp+Pres: náaneeʼuujang
+     náanee+V+Res: náaneeäsaaʼuujang
+     náanee+V+Bias+Interr+Pres: náaneeʼus
+     náanee+V+Bias+Interr+Past: náaneeʼujaa
+     náanee+V+Bias+Interr+Past+Hab: náaneeʼuujaangaa
+     náanee+V+Bias+Interr+Fut: náaneeäsaaʼus
+     náanee+V+Cert+Pres: náaneeʼahlanggang
+     náanee+V+Cert+Past: náaneeʼahlanggan
+     náanee+V+Cert+Past+Hab: náaneeʼahlanggiinii
+     náanee+V+Cert+Fut: náaneeäsaaʼahlans
+     náanee+V+Cert+Rel: náaneeʼahlans
+     náanee+V+Ints+Past: náaneegaaʼahlang
+     náanee+V+Cont: náaneegaaʼahlanggaa
+     náanee+V+Ctfact+Pres: náaneegaaʼahlanggang
+     náanee+V+Rflx: náaneeʼahl
+     náanee+V+Fut+Rflx+Interr: náaneeäseehl
+     náanee+V+Pl+Impv: náaneeʼuu
+     náanee+V+3pl+Imm+Pres: náaneeʼwaa
+     náanee+V+3pl+Interr+Simp+Pres: náaneeʼwaa
+     náanee+V+3pl+Simp+Pres: náaneeʼwaang
+     náanee+V+3pl+Dir+Past: náaneeʼwägan
+     náanee+V+3pl+Interr+Past: náaneeʼaawaa
+     náanee+V+3pl+Indir+Past: náaneeʼaawaan
+     náanee+V+3pl+Rel: náaneeʼwaas
+     náanee+V+3pl+Rel+Evid: náaneeʼaawaas
+     náanee+V+3pl+NonFact: náaneeʼwaa.ang
+     náanee+V+3pl+Past+NonFact: náaneeʼaawaa.ang
+     náanee+V+3pl+Interr+Pres+Hab: náaneegangʼwaa
+     náanee+V+3pl+Pres+Hab: náaneegangʼwaang
+     náanee+V+3pl+Pres+Hab+NonFact: náaneegangʼwaa.ang
+     náanee+V+3pl+Dir+Past+Hab: náaneeʼwägiinii
+     náanee+V+3pl+Interr+Past+Hab: náaneeʼwägaangaa
+     náanee+V+3pl+Indir+Past+Hab: náaneeʼwägaangaan
+     náanee+V+3pl+Interr+Fut+Long: náaneeʼwaaäsaa
+     náanee+V+3pl+Interr+Fut+Short: náaneeʼwaaäs
+     náanee+V+3pl+Simp+Fut: náaneeʼwaaäsaang
+     náanee+V+3pl+Imm+Fut: náaneeʼwaaäsga
+     náanee+V+3pl+Rel+Fut: náaneeʼwaaäsaas
+     náanee+V+3pl+Fut+NonFact: náaneeʼwaaäsaa.ang
+     náanee+V+3pl+Interr+Near+Fut: náaneeʼwaa.ang k̲asaʼáa
+     náanee+V+3pl+Near+Fut: náaneeʼwaa.ang k̲asaʼáang
+     náanee+V+3pl+Interr+VNear+Fut: náaneeʼwaa.ang k̲asaasdláa
+     náanee+V+3pl+VNear+Fut: náaneeʼwaa.ang k̲asaasdláang
+     náanee+V+3pl+Bias+Imm+Pres: náaneeʼwaaʼuuj
+     náanee+V+3pl+Bias+Simp+Pres: náaneeʼwaaʼuujang
+     náanee+V+3pl+Res: náaneeʼwaaäsaaʼuujang
+     náanee+V+3pl+Bias+Interr+Pres: náaneeʼwaaʼus
+     náanee+V+3pl+Bias+Interr+Past: náaneeʼwaaʼujaa
+     náanee+V+3pl+Bias+Interr+Past+Hab: náaneeʼwaaʼuujaangaa
+     náanee+V+3pl+Bias+Interr+Fut: náaneeʼwaaäsaaʼus
+     náanee+V+3pl+Cert+Pres: náaneeʼwaaʼahlanggang
+     náanee+V+3pl+Cert+Past: náaneeʼwaaʼahlanggan
+     náanee+V+3pl+Cert+Past+Hab: náaneeʼwaaʼahlanggiinii
+     náanee+V+3pl+Cert+Fut: náaneeʼwaaäsaaʼahlans
+     náanee+V+3pl+Cert+Rel: náaneeʼwaaʼahlans
+     náanee+V+3pl+Ints+Past: náaneeʼaawaaʼahlang
+     náanee+V+3pl+Cont: náaneeʼaawaaʼahlanggaa
+     náanee+V+3pl+Ctfact+Pres: náaneeʼaawaaʼahlanggang
+     náanee+V+3pl+Rflx: náaneeʼwaaʼahl
+     náanee+V+3pl+Fut+Rflx+Interr: náaneeʼwaaäseehl
+     náanee+V+Neg+Sg+Impv: náaneeʼang
+     náanee+V+Neg+Imm+Pres: náaneeʼangga
+     náanee+V+Neg+Interr+Simp+Pres: náaneeʼang
+     náanee+V+Neg+Simp+Pres: náaneeʼanggang
+     náanee+V+Neg+Dir+Past: náaneeʼanggan
+     náanee+V+Neg+Interr+Past: náaneeʼaangaa
+     náanee+V+Neg+Indir+Past: náaneeʼaangaan
+     náanee+V+Neg+Rel: náaneeʼans
+     náanee+V+Neg+Rel+Evid: náaneeʼaangaas
+     náanee+V+Neg+NonFact: náaneeʼangang
+     náanee+V+Neg+Past+NonFact: náaneeʼaangaa.ang
+     náanee+V+Neg+Interr+Pres+Hab: náaneeʼanggang
+     náanee+V+Neg+Pres+Hab: náaneegangʼanggang
+     náanee+V+Neg+Pres+Hab+NonFact: náaneegangʼangang
+     náanee+V+Neg+Dir+Past+Hab: náaneeʼanggiinii
+     náanee+V+Neg+Interr+Past+Hab: náaneeʼanggaangaa
+     náanee+V+Neg+Indir+Past+Hab: náaneeʼanggaangaan
+     náanee+V+Neg+Interr+Fut+Long: náaneeʼangäsaa
+     náanee+V+Neg+Interr+Fut+Short: náaneeʼangäs
+     náanee+V+Neg+Simp+Fut: náaneeʼangäsaang
+     náanee+V+Neg+Imm+Fut: náaneeʼangäsga
+     náanee+V+Neg+Rel+Fut: náaneeʼangäsaas
+     náanee+V+Neg+Fut+NonFact: náaneeʼangäsaa.ang
+     náanee+V+Neg+Interr+Near+Fut: náanee.ang k̲asaaʼáng
+     náanee+V+Neg+Near+Fut: náanee.ang k̲asaaʼánggang
+     náanee+V+Neg+Interr+VNear+Fut: náanee.ang k̲asaasdläʼáng
+     náanee+V+Neg+VNear+Fut: náanee.ang k̲asaasdläʼánggang
+     náanee+V+Neg+Bias+Imm+Pres: náaneeʼangʼuuj
+     náanee+V+Neg+Bias+Simp+Pres: náaneeʼangʼuujang
+     náanee+V+Neg+Res: náaneeʼangäsaaʼuujang
+     náanee+V+Neg+Bias+Interr+Pres: náaneeʼangʼus
+     náanee+V+Neg+Bias+Interr+Past: náaneeʼangʼujaa
+     náanee+V+Neg+Bias+Interr+Past+Hab: náaneeʼangʼuujaangaa
+     náanee+V+Neg+Bias+Interr+Fut: náaneeʼangäsaaʼus
+     náanee+V+Neg+Cert+Pres: náaneeʼaangʼahlanggang
+     náanee+V+Neg+Cert+Past: náaneeʼaangʼahlanggan
+     náanee+V+Neg+Cert+Past+Hab: náaneeʼaangʼahlanggiinii
+     náanee+V+Neg+Cert+Fut: náaneeʼangäsaaʼahlans
+     náanee+V+Neg+Cert+Rel: náaneeʼaangʼahlans
+     náanee+V+Neg+Ints+Past: náaneeʼaangaaʼahlang
+     náanee+V+Neg+Cont: náaneeʼaangaaʼahlanggaa
+     náanee+V+Neg+Ctfact+Pres: náaneeʼaangaaʼahlanggang
+     náanee+V+Neg+Rflx: náaneeʼaangʼahl
+     náanee+V+Neg+Fut+Rflx+Interr: náaneeʼangäseehl
+     náanee+V+Neg+Pl+Impv: náaneeʼangʼuu
+     náanee+V+Neg+3pl+Imm+Pres: náaneeʼangʼwaa
+     náanee+V+Neg+3pl+Interr+Simp+Pres: náaneeʼangʼwaa
+     náanee+V+Neg+3pl+Simp+Pres: náaneeʼangʼwaang
+     náanee+V+Neg+3pl+Dir+Past: náaneeʼangʼwägan
+     náanee+V+Neg+3pl+Interr+Past: náaneeʼangʼaawaa
+     náanee+V+Neg+3pl+Indir+Past: náaneeʼangʼaawaan
+     náanee+V+Neg+3pl+Rel: náaneeʼangʼwaas
+     náanee+V+Neg+3pl+Rel+Evid: náaneeʼangʼaawaas
+     náanee+V+Neg+3pl+NonFact: náaneeʼangʼwaa.ang
+     náanee+V+Neg+3pl+Past+NonFact: náaneeʼangʼaawaa.ang
+     náanee+V+Neg+3pl+Interr+Pres+Hab: náaneegangʼangʼwaa
+     náanee+V+Neg+3pl+Pres+Hab: náaneegangʼangʼwaang
+     náanee+V+Neg+3pl+Pres+Hab+NonFact: náaneegangʼangʼwaa.ang
+     náanee+V+Neg+3pl+Dir+Past+Hab: náaneeʼangʼwägiinii
+     náanee+V+Neg+3pl+Interr+Past+Hab: náaneeʼangʼwägaangaa
+     náanee+V+Neg+3pl+Indir+Past+Hab: náaneeʼangʼwägaangaan
+     náanee+V+Neg+3pl+Interr+Fut+Long: náaneeʼangʼwaaäsaa
+     náanee+V+Neg+3pl+Interr+Fut+Short: náaneeʼangʼwaaäs
+     náanee+V+Neg+3pl+Simp+Fut: náaneeʼangʼwaaäsaang
+     náanee+V+Neg+3pl+Imm+Fut: náaneeʼangʼwaaäsga
+     náanee+V+Neg+3pl+Rel+Fut: náaneeʼangʼwaaäsaas
+     náanee+V+Neg+3pl+Fut+NonFact: náaneeʼangʼwaaäsaa.ang
+     náanee+V+Neg+3pl+Interr+Near+Fut: náaneeʼwaa.ang k̲asaaʼáng
+     náanee+V+Neg+3pl+Near+Fut: náaneeʼwaa.ang k̲asaaʼánggang
+     náanee+V+Neg+3pl+Interr+VNear+Fut: náaneeʼwaa.ang k̲asaasdläʼáng
+     náanee+V+Neg+3pl+VNear+Fut: náaneeʼwaa.ang k̲asaasdläʼánggang
+     náanee+V+Neg+3pl+Bias+Imm+Pres: náaneeʼangʼwaaʼuuj
+     náanee+V+Neg+3pl+Bias+Simp+Pres: náaneeʼangʼwaaʼuujang
+     náanee+V+Neg+3pl+Res: náaneeʼangʼwaaäsaaʼuujang
+     náanee+V+Neg+3pl+Bias+Interr+Pres: náaneeʼangʼwaaʼus
+     náanee+V+Neg+3pl+Bias+Interr+Past: náaneeʼangʼwaaʼujaa
+     náanee+V+Neg+3pl+Bias+Interr+Past+Hab: náaneeʼangʼwaaʼuujaangaa
+     náanee+V+Neg+3pl+Bias+Interr+Fut: náaneeʼangʼwaaäsaaʼus
+     náanee+V+Neg+3pl+Cert+Pres: náaneeʼangʼwaaʼahlanggang
+     náanee+V+Neg+3pl+Cert+Past: náaneeʼangʼwaaʼahlanggan
+     náanee+V+Neg+3pl+Cert+Past+Hab: náaneeʼangʼwaaʼahlanggiinii
+     náanee+V+Neg+3pl+Cert+Fut: náaneeʼangʼwaaäsaaʼahlans
+     náanee+V+Neg+3pl+Cert+Rel: náaneeʼangʼwaaʼahlans
+     náanee+V+Neg+3pl+Ints+Past: náaneeʼangʼaawaaʼahlang
+     náanee+V+Neg+3pl+Cont: náaneeʼangʼaawaaʼahlanggaa
+     náanee+V+Neg+3pl+Ctfact+Pres: náaneeʼangʼaawaaʼahlanggang
+     náanee+V+Neg+3pl+Rflx: náaneeʼangʼwaaʼahl
+     náanee+V+Neg+3pl+Fut+Rflx+Interr: náaneeʼangʼwaaäseehl
 

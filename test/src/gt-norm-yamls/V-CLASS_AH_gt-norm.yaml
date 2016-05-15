@@ -11,180 +11,180 @@ Tests:
 
   Verb - dah - ENGLISH : # CLASS_AH
 
-     dah+V+SG+IMPV: dah
-     dah+V+IMM+PRES: dahga
-     dah+V+INTERR+SIMP+PRES: dah
-     dah+V+SIMP+PRES: dahgáng
-     dah+V+DIR+PAST: dahgán
-     dah+V+INTERR+PAST: dahgáa
-     dah+V+INDIR+PAST: dahgáan
-     dah+V+REL: dahs
-     dah+V+REL+EVID: dahgáas
-     dah+V+NONFACT: daháng
-     dah+V+PAST+NONFACT: dahgáa.ang
-     dah+V+INTERR+PRES+HAB: dahgáng
-     dah+V+PRES+HAB: dahgánggang
-     dah+V+PRES+HAB+NONFACT: dahgangáng
-     dah+V+DIR+PAST+HAB: dahgíinii
-     dah+V+INTERR+PAST+HAB: dahgáangaa
-     dah+V+INDIR+PAST+HAB: dahgáangaan
-     dah+V+INTERR+FUT+LONG: dahäsáa
-     dah+V+INTERR+FUT+SHORT: dahäs
-     dah+V+SIMP+FUT: dahäsáang
-     dah+V+IMM+FUT: dahäsga
-     dah+V+REL+FUT: dahäsáas
-     dah+V+FUT+NONFACT: dahäsáa.ang
-     dah+V+INTERR+NEAR+FUT: daháng k̲asa'áa
-     dah+V+NEAR+FUT: daháng k̲asa'áang
-     dah+V+INTERR+VNEAR+FUT: daháng k̲asaasdláa
-     dah+V+VNEAR+FUT: daháng k̲asaasdláang
-     dah+V+BIAS+IMM+PRES: dah'úuj
-     dah+V+BIAS+SIMP+PRES: dah'úujang
-     dah+V+RES: dahäsáa'uujang
-     dah+V+BIAS+INTERR+PRES: dah'us
-     dah+V+BIAS+INTERR+PAST: dah'ujáa
-     dah+V+BIAS+INTERR+PAST+HAB: dah'úujaangaa
-     dah+V+BIAS+INTERR+FUT: dahäsáa'us
-     dah+V+CERT+PRES: dah'ahlánggang
-     dah+V+CERT+PAST: dah'ahlánggan
-     dah+V+CERT+PAST+HAB: dah'ahlánggiinii
-     dah+V+CERT+FUT: dahäsáa'ahlans
-     dah+V+CERT+REL: dah'ahláns
-     dah+V+INTS+PAST: dahgáa'ahlang
-     dah+V+CONT: dahgáa'ahlanggaa
-     dah+V+CTFACT+PRES: dahgáa'ahlanggang
-     dah+V+RFLX: dah'ahl
-     dah+V+FUT+RFLX+INTERR: dahäséehl
-     dah+V+PL+IMPV: dah'úu
-     dah+V+3PL+IMM+PRES: dah'wáa
-     dah+V+3PL+INTERR+SIMP+PRES: dah'wáa
-     dah+V+3PL+SIMP+PRES: dah'wáang
-     dah+V+3PL+DIR+PAST: dah'wägán
-     dah+V+3PL+INTERR+PAST: dah'áawaa
-     dah+V+3PL+INDIR+PAST: dah'áawaan
-     dah+V+3PL+REL: dah'wáas
-     dah+V+3PL+REL+EVID: dah'áawaas
-     dah+V+3PL+NONFACT: dah'wáa.ang
-     dah+V+3PL+PAST+NONFACT: dah'áawaa.ang
-     dah+V+3PL+INTERR+PRES+HAB: dahgáng'waa
-     dah+V+3PL+PRES+HAB: dahgáng'waang
-     dah+V+3PL+PRES+HAB+NONFACT: dahgáng'waa.ang
-     dah+V+3PL+DIR+PAST+HAB: dah'wägíinii
-     dah+V+3PL+INTERR+PAST+HAB: dah'wägáangaa
-     dah+V+3PL+INDIR+PAST+HAB: dah'wägáangaan
-     dah+V+3PL+INTERR+FUT+LONG: dah'wáaäsaa
-     dah+V+3PL+INTERR+FUT+SHORT: dah'wáaäs
-     dah+V+3PL+SIMP+FUT: dah'wáaäsaang
-     dah+V+3PL+IMM+FUT: dah'wáaäsga
-     dah+V+3PL+REL+FUT: dah'wáaäsaas
-     dah+V+3PL+FUT+NONFACT: dah'wáaäsaa.ang
-     dah+V+3PL+INTERR+NEAR+FUT: dah'wáa.ang k̲asa'áa
-     dah+V+3PL+NEAR+FUT: dah'wáa.ang k̲asa'áang
-     dah+V+3PL+INTERR+VNEAR+FUT: dah'wáa.ang k̲asaasdláa
-     dah+V+3PL+VNEAR+FUT: dah'wáa.ang k̲asaasdláang
-     dah+V+3PL+BIAS+IMM+PRES: dah'wáa'uuj
-     dah+V+3PL+BIAS+SIMP+PRES: dah'wáa'uujang
-     dah+V+3PL+RES: dah'wáaäsaa'uujang
-     dah+V+3PL+BIAS+INTERR+PRES: dah'wáa'us
-     dah+V+3PL+BIAS+INTERR+PAST: dah'wáa'ujaa
-     dah+V+3PL+BIAS+INTERR+PAST+HAB: dah'wáa'uujaangaa
-     dah+V+3PL+BIAS+INTERR+FUT: dah'wáaäsaa'us
-     dah+V+3PL+CERT+PRES: dah'wáa'ahlanggang
-     dah+V+3PL+CERT+PAST: dah'wáa'ahlanggan
-     dah+V+3PL+CERT+PAST+HAB: dah'wáa'ahlanggiinii
-     dah+V+3PL+CERT+FUT: dah'wáaäsaa'ahlans
-     dah+V+3PL+CERT+REL: dah'wáa'ahlans
-     dah+V+3PL+INTS+PAST: dah'áawaa'ahlang
-     dah+V+3PL+CONT: dah'áawaa'ahlanggaa
-     dah+V+3PL+CTFACT+PRES: dah'áawaa'ahlanggang
-     dah+V+3PL+RFLX: dah'wáa'ahl
-     dah+V+3PL+FUT+RFLX+INTERR: dah'wáaäseehl
-     dah+V+NEG+SG+IMPV: dah'áng
-     dah+V+NEG+IMM+PRES: dah'ángga
-     dah+V+NEG+INTERR+SIMP+PRES: dah'áng
-     dah+V+NEG+SIMP+PRES: dah'ánggang
-     dah+V+NEG+DIR+PAST: dah'ánggan
-     dah+V+NEG+INTERR+PAST: dah'áangaa
-     dah+V+NEG+INDIR+PAST: dah'áangaan
-     dah+V+NEG+REL: dah'áns
-     dah+V+NEG+REL+EVID: dah'áangaas
-     dah+V+NEG+NONFACT: dah'angáng
-     dah+V+NEG+PAST+NONFACT: dah'áangaa.ang
-     dah+V+NEG+INTERR+PRES+HAB: dah'ánggang
-     dah+V+NEG+PRES+HAB: dahgáng'anggang
-     dah+V+NEG+PRES+HAB+NONFACT: dahgáng'angang
-     dah+V+NEG+DIR+PAST+HAB: dah'ánggiinii
-     dah+V+NEG+INTERR+PAST+HAB: dah'ánggaangaa
-     dah+V+NEG+INDIR+PAST+HAB: dah'ánggaangaan
-     dah+V+NEG+INTERR+FUT+LONG: dah'ángäsaa
-     dah+V+NEG+INTERR+FUT+SHORT: dah'ángäs
-     dah+V+NEG+SIMP+FUT: dah'ángäsaang
-     dah+V+NEG+IMM+FUT: dah'ángäsga
-     dah+V+NEG+REL+FUT: dah'ángäsaas
-     dah+V+NEG+FUT+NONFACT: dah'ángäsaa.ang
-     dah+V+NEG+INTERR+NEAR+FUT: daháng k̲asaa'áng
-     dah+V+NEG+NEAR+FUT: daháng k̲asaa'ánggang
-     dah+V+NEG+INTERR+VNEAR+FUT: daháng k̲asaasdlä'áng
-     dah+V+NEG+VNEAR+FUT: daháng k̲asaasdlä'ánggang
-     dah+V+NEG+BIAS+IMM+PRES: dah'áng'uuj
-     dah+V+NEG+BIAS+SIMP+PRES: dah'áng'uujang
-     dah+V+NEG+RES: dah'ángäsaa'uujang
-     dah+V+NEG+BIAS+INTERR+PRES: dah'áng'us
-     dah+V+NEG+BIAS+INTERR+PAST: dah'áng'ujaa
-     dah+V+NEG+BIAS+INTERR+PAST+HAB: dah'áng'uujaangaa
-     dah+V+NEG+BIAS+INTERR+FUT: dah'ángäsaa'us
-     dah+V+NEG+CERT+PRES: dah'áang'ahlanggang
-     dah+V+NEG+CERT+PAST: dah'áang'ahlanggan
-     dah+V+NEG+CERT+PAST+HAB: dah'áang'ahlanggiinii
-     dah+V+NEG+CERT+FUT: dah'ángäsaa'ahlans
-     dah+V+NEG+CERT+REL: dah'áang'ahlans
-     dah+V+NEG+INTS+PAST: dah'áangaa'ahlang
-     dah+V+NEG+CONT: dah'áangaa'ahlanggaa
-     dah+V+NEG+CTFACT+PRES: dah'áangaa'ahlanggang
-     dah+V+NEG+RFLX: dah'áang'ahl
-     dah+V+NEG+FUT+RFLX+INTERR: dah'ángäseehl
-     dah+V+NEG+PL+IMPV: dah'áng'uu
-     dah+V+NEG+3PL+IMM+PRES: dah'áng'waa
-     dah+V+NEG+3PL+INTERR+SIMP+PRES: dah'áng'waa
-     dah+V+NEG+3PL+SIMP+PRES: dah'áng'waang
-     dah+V+NEG+3PL+DIR+PAST: dah'áng'wägan
-     dah+V+NEG+3PL+INTERR+PAST: dah'áng'aawaa
-     dah+V+NEG+3PL+INDIR+PAST: dah'áng'aawaan
-     dah+V+NEG+3PL+REL: dah'áng'waas
-     dah+V+NEG+3PL+REL+EVID: dah'áng'aawaas
-     dah+V+NEG+3PL+NONFACT: dah'áng'waa.ang
-     dah+V+NEG+3PL+PAST+NONFACT: dah'áng'aawaa.ang
-     dah+V+NEG+3PL+INTERR+PRES+HAB: dahgáng'ang'waa
-     dah+V+NEG+3PL+PRES+HAB: dahgáng'ang'waang
-     dah+V+NEG+3PL+PRES+HAB+NONFACT: dahgáng'ang'waa.ang
-     dah+V+NEG+3PL+DIR+PAST+HAB: dah'áng'wägiinii
-     dah+V+NEG+3PL+INTERR+PAST+HAB: dah'áng'wägaangaa
-     dah+V+NEG+3PL+INDIR+PAST+HAB: dah'áng'wägaangaan
-     dah+V+NEG+3PL+INTERR+FUT+LONG: dah'áng'waaäsaa
-     dah+V+NEG+3PL+INTERR+FUT+SHORT: dah'áng'waaäs
-     dah+V+NEG+3PL+SIMP+FUT: dah'áng'waaäsaang
-     dah+V+NEG+3PL+IMM+FUT: dah'áng'waaäsga
-     dah+V+NEG+3PL+REL+FUT: dah'áng'waaäsaas
-     dah+V+NEG+3PL+FUT+NONFACT: dah'áng'waaäsaa.ang
-     dah+V+NEG+3PL+INTERR+NEAR+FUT: dah'wáa.ang k̲asaa'áng
-     dah+V+NEG+3PL+NEAR+FUT: dah'wáa.ang k̲asaa'ánggang
-     dah+V+NEG+3PL+INTERR+VNEAR+FUT: dah'wáa.ang k̲asaasdlä'áng
-     dah+V+NEG+3PL+VNEAR+FUT: dah'wáa.ang k̲asaasdlä'ánggang
-     dah+V+NEG+3PL+BIAS+IMM+PRES: dah'áng'waa'uuj
-     dah+V+NEG+3PL+BIAS+SIMP+PRES: dah'áng'waa'uujang
-     dah+V+NEG+3PL+RES: dah'áng'waaäsaa'uujang
-     dah+V+NEG+3PL+BIAS+INTERR+PRES: dah'áng'waa'us
-     dah+V+NEG+3PL+BIAS+INTERR+PAST: dah'áng'waa'ujaa
-     dah+V+NEG+3PL+BIAS+INTERR+PAST+HAB: dah'áng'waa'uujaangaa
-     dah+V+NEG+3PL+BIAS+INTERR+FUT: dah'áng'waaäsaa'us
-     dah+V+NEG+3PL+CERT+PRES: dah'áng'waa'ahlanggang
-     dah+V+NEG+3PL+CERT+PAST: dah'áng'waa'ahlanggan
-     dah+V+NEG+3PL+CERT+PAST+HAB: dah'áng'waa'ahlanggiinii
-     dah+V+NEG+3PL+CERT+FUT: dah'áng'waaäsaa'ahlans
-     dah+V+NEG+3PL+CERT+REL: dah'áng'waa'ahlans
-     dah+V+NEG+3PL+INTS+PAST: dah'áng'aawaa'ahlang
-     dah+V+NEG+3PL+CONT: dah'áng'aawaa'ahlanggaa
-     dah+V+NEG+3PL+CTFACT+PRES: dah'áng'aawaa'ahlanggang
-     dah+V+NEG+3PL+RFLX: dah'áng'waa'ahl
-     dah+V+NEG+3PL+FUT+RFLX+INTERR: dah'áng'waaäseehl
+     dah+V+Sg+Impv: dah
+     dah+V+Imm+Pres: dahga
+     dah+V+Interr+Simp+Pres: dah
+     dah+V+Simp+Pres: dahgáng
+     dah+V+Dir+Past: dahgán
+     dah+V+Interr+Past: dahgáa
+     dah+V+Indir+Past: dahgáan
+     dah+V+Rel: dahs
+     dah+V+Rel+Evid: dahgáas
+     dah+V+NonFact: daháng
+     dah+V+Past+NonFact: dahgáa.ang
+     dah+V+Interr+Pres+Hab: dahgáng
+     dah+V+Pres+Hab: dahgánggang
+     dah+V+Pres+Hab+NonFact: dahgangáng
+     dah+V+Dir+Past+Hab: dahgíinii
+     dah+V+Interr+Past+Hab: dahgáangaa
+     dah+V+Indir+Past+Hab: dahgáangaan
+     dah+V+Interr+Fut+Long: dahäsáa
+     dah+V+Interr+Fut+Short: dahäs
+     dah+V+Simp+Fut: dahäsáang
+     dah+V+Imm+Fut: dahäsga
+     dah+V+Rel+Fut: dahäsáas
+     dah+V+Fut+NonFact: dahäsáa.ang
+     dah+V+Interr+Near+Fut: daháng k̲asaʼáa
+     dah+V+Near+Fut: daháng k̲asaʼáang
+     dah+V+Interr+VNear+Fut: daháng k̲asaasdláa
+     dah+V+VNear+Fut: daháng k̲asaasdláang
+     dah+V+Bias+Imm+Pres: dahʼúuj
+     dah+V+Bias+Simp+Pres: dahʼúujang
+     dah+V+Res: dahäsáaʼuujang
+     dah+V+Bias+Interr+Pres: dahʼus
+     dah+V+Bias+Interr+Past: dahʼujáa
+     dah+V+Bias+Interr+Past+Hab: dahʼúujaangaa
+     dah+V+Bias+Interr+Fut: dahäsáaʼus
+     dah+V+Cert+Pres: dahʼahlánggang
+     dah+V+Cert+Past: dahʼahlánggan
+     dah+V+Cert+Past+Hab: dahʼahlánggiinii
+     dah+V+Cert+Fut: dahäsáaʼahlans
+     dah+V+Cert+Rel: dahʼahláns
+     dah+V+Ints+Past: dahgáaʼahlang
+     dah+V+Cont: dahgáaʼahlanggaa
+     dah+V+Ctfact+Pres: dahgáaʼahlanggang
+     dah+V+Rflx: dahʼahl
+     dah+V+Fut+Rflx+Interr: dahäséehl
+     dah+V+Pl+Impv: dahʼúu
+     dah+V+3pl+Imm+Pres: dahʼwáa
+     dah+V+3pl+Interr+Simp+Pres: dahʼwáa
+     dah+V+3pl+Simp+Pres: dahʼwáang
+     dah+V+3pl+Dir+Past: dahʼwägán
+     dah+V+3pl+Interr+Past: dahʼáawaa
+     dah+V+3pl+Indir+Past: dahʼáawaan
+     dah+V+3pl+Rel: dahʼwáas
+     dah+V+3pl+Rel+Evid: dahʼáawaas
+     dah+V+3pl+NonFact: dahʼwáa.ang
+     dah+V+3pl+Past+NonFact: dahʼáawaa.ang
+     dah+V+3pl+Interr+Pres+Hab: dahgángʼwaa
+     dah+V+3pl+Pres+Hab: dahgángʼwaang
+     dah+V+3pl+Pres+Hab+NonFact: dahgángʼwaa.ang
+     dah+V+3pl+Dir+Past+Hab: dahʼwägíinii
+     dah+V+3pl+Interr+Past+Hab: dahʼwägáangaa
+     dah+V+3pl+Indir+Past+Hab: dahʼwägáangaan
+     dah+V+3pl+Interr+Fut+Long: dahʼwáaäsaa
+     dah+V+3pl+Interr+Fut+Short: dahʼwáaäs
+     dah+V+3pl+Simp+Fut: dahʼwáaäsaang
+     dah+V+3pl+Imm+Fut: dahʼwáaäsga
+     dah+V+3pl+Rel+Fut: dahʼwáaäsaas
+     dah+V+3pl+Fut+NonFact: dahʼwáaäsaa.ang
+     dah+V+3pl+Interr+Near+Fut: dahʼwáa.ang k̲asaʼáa
+     dah+V+3pl+Near+Fut: dahʼwáa.ang k̲asaʼáang
+     dah+V+3pl+Interr+VNear+Fut: dahʼwáa.ang k̲asaasdláa
+     dah+V+3pl+VNear+Fut: dahʼwáa.ang k̲asaasdláang
+     dah+V+3pl+Bias+Imm+Pres: dahʼwáaʼuuj
+     dah+V+3pl+Bias+Simp+Pres: dahʼwáaʼuujang
+     dah+V+3pl+Res: dahʼwáaäsaaʼuujang
+     dah+V+3pl+Bias+Interr+Pres: dahʼwáaʼus
+     dah+V+3pl+Bias+Interr+Past: dahʼwáaʼujaa
+     dah+V+3pl+Bias+Interr+Past+Hab: dahʼwáaʼuujaangaa
+     dah+V+3pl+Bias+Interr+Fut: dahʼwáaäsaaʼus
+     dah+V+3pl+Cert+Pres: dahʼwáaʼahlanggang
+     dah+V+3pl+Cert+Past: dahʼwáaʼahlanggan
+     dah+V+3pl+Cert+Past+Hab: dahʼwáaʼahlanggiinii
+     dah+V+3pl+Cert+Fut: dahʼwáaäsaaʼahlans
+     dah+V+3pl+Cert+Rel: dahʼwáaʼahlans
+     dah+V+3pl+Ints+Past: dahʼáawaaʼahlang
+     dah+V+3pl+Cont: dahʼáawaaʼahlanggaa
+     dah+V+3pl+Ctfact+Pres: dahʼáawaaʼahlanggang
+     dah+V+3pl+Rflx: dahʼwáaʼahl
+     dah+V+3pl+Fut+Rflx+Interr: dahʼwáaäseehl
+     dah+V+Neg+Sg+Impv: dahʼáng
+     dah+V+Neg+Imm+Pres: dahʼángga
+     dah+V+Neg+Interr+Simp+Pres: dahʼáng
+     dah+V+Neg+Simp+Pres: dahʼánggang
+     dah+V+Neg+Dir+Past: dahʼánggan
+     dah+V+Neg+Interr+Past: dahʼáangaa
+     dah+V+Neg+Indir+Past: dahʼáangaan
+     dah+V+Neg+Rel: dahʼáns
+     dah+V+Neg+Rel+Evid: dahʼáangaas
+     dah+V+Neg+NonFact: dahʼangáng
+     dah+V+Neg+Past+NonFact: dahʼáangaa.ang
+     dah+V+Neg+Interr+Pres+Hab: dahʼánggang
+     dah+V+Neg+Pres+Hab: dahgángʼanggang
+     dah+V+Neg+Pres+Hab+NonFact: dahgángʼangang
+     dah+V+Neg+Dir+Past+Hab: dahʼánggiinii
+     dah+V+Neg+Interr+Past+Hab: dahʼánggaangaa
+     dah+V+Neg+Indir+Past+Hab: dahʼánggaangaan
+     dah+V+Neg+Interr+Fut+Long: dahʼángäsaa
+     dah+V+Neg+Interr+Fut+Short: dahʼángäs
+     dah+V+Neg+Simp+Fut: dahʼángäsaang
+     dah+V+Neg+Imm+Fut: dahʼángäsga
+     dah+V+Neg+Rel+Fut: dahʼángäsaas
+     dah+V+Neg+Fut+NonFact: dahʼángäsaa.ang
+     dah+V+Neg+Interr+Near+Fut: daháng k̲asaaʼáng
+     dah+V+Neg+Near+Fut: daháng k̲asaaʼánggang
+     dah+V+Neg+Interr+VNear+Fut: daháng k̲asaasdläʼáng
+     dah+V+Neg+VNear+Fut: daháng k̲asaasdläʼánggang
+     dah+V+Neg+Bias+Imm+Pres: dahʼángʼuuj
+     dah+V+Neg+Bias+Simp+Pres: dahʼángʼuujang
+     dah+V+Neg+Res: dahʼángäsaaʼuujang
+     dah+V+Neg+Bias+Interr+Pres: dahʼángʼus
+     dah+V+Neg+Bias+Interr+Past: dahʼángʼujaa
+     dah+V+Neg+Bias+Interr+Past+Hab: dahʼángʼuujaangaa
+     dah+V+Neg+Bias+Interr+Fut: dahʼángäsaaʼus
+     dah+V+Neg+Cert+Pres: dahʼáangʼahlanggang
+     dah+V+Neg+Cert+Past: dahʼáangʼahlanggan
+     dah+V+Neg+Cert+Past+Hab: dahʼáangʼahlanggiinii
+     dah+V+Neg+Cert+Fut: dahʼángäsaaʼahlans
+     dah+V+Neg+Cert+Rel: dahʼáangʼahlans
+     dah+V+Neg+Ints+Past: dahʼáangaaʼahlang
+     dah+V+Neg+Cont: dahʼáangaaʼahlanggaa
+     dah+V+Neg+Ctfact+Pres: dahʼáangaaʼahlanggang
+     dah+V+Neg+Rflx: dahʼáangʼahl
+     dah+V+Neg+Fut+Rflx+Interr: dahʼángäseehl
+     dah+V+Neg+Pl+Impv: dahʼángʼuu
+     dah+V+Neg+3pl+Imm+Pres: dahʼángʼwaa
+     dah+V+Neg+3pl+Interr+Simp+Pres: dahʼángʼwaa
+     dah+V+Neg+3pl+Simp+Pres: dahʼángʼwaang
+     dah+V+Neg+3pl+Dir+Past: dahʼángʼwägan
+     dah+V+Neg+3pl+Interr+Past: dahʼángʼaawaa
+     dah+V+Neg+3pl+Indir+Past: dahʼángʼaawaan
+     dah+V+Neg+3pl+Rel: dahʼángʼwaas
+     dah+V+Neg+3pl+Rel+Evid: dahʼángʼaawaas
+     dah+V+Neg+3pl+NonFact: dahʼángʼwaa.ang
+     dah+V+Neg+3pl+Past+NonFact: dahʼángʼaawaa.ang
+     dah+V+Neg+3pl+Interr+Pres+Hab: dahgángʼangʼwaa
+     dah+V+Neg+3pl+Pres+Hab: dahgángʼangʼwaang
+     dah+V+Neg+3pl+Pres+Hab+NonFact: dahgángʼangʼwaa.ang
+     dah+V+Neg+3pl+Dir+Past+Hab: dahʼángʼwägiinii
+     dah+V+Neg+3pl+Interr+Past+Hab: dahʼángʼwägaangaa
+     dah+V+Neg+3pl+Indir+Past+Hab: dahʼángʼwägaangaan
+     dah+V+Neg+3pl+Interr+Fut+Long: dahʼángʼwaaäsaa
+     dah+V+Neg+3pl+Interr+Fut+Short: dahʼángʼwaaäs
+     dah+V+Neg+3pl+Simp+Fut: dahʼángʼwaaäsaang
+     dah+V+Neg+3pl+Imm+Fut: dahʼángʼwaaäsga
+     dah+V+Neg+3pl+Rel+Fut: dahʼángʼwaaäsaas
+     dah+V+Neg+3pl+Fut+NonFact: dahʼángʼwaaäsaa.ang
+     dah+V+Neg+3pl+Interr+Near+Fut: dahʼwáa.ang k̲asaaʼáng
+     dah+V+Neg+3pl+Near+Fut: dahʼwáa.ang k̲asaaʼánggang
+     dah+V+Neg+3pl+Interr+VNear+Fut: dahʼwáa.ang k̲asaasdläʼáng
+     dah+V+Neg+3pl+VNear+Fut: dahʼwáa.ang k̲asaasdläʼánggang
+     dah+V+Neg+3pl+Bias+Imm+Pres: dahʼángʼwaaʼuuj
+     dah+V+Neg+3pl+Bias+Simp+Pres: dahʼángʼwaaʼuujang
+     dah+V+Neg+3pl+Res: dahʼángʼwaaäsaaʼuujang
+     dah+V+Neg+3pl+Bias+Interr+Pres: dahʼángʼwaaʼus
+     dah+V+Neg+3pl+Bias+Interr+Past: dahʼángʼwaaʼujaa
+     dah+V+Neg+3pl+Bias+Interr+Past+Hab: dahʼángʼwaaʼuujaangaa
+     dah+V+Neg+3pl+Bias+Interr+Fut: dahʼángʼwaaäsaaʼus
+     dah+V+Neg+3pl+Cert+Pres: dahʼángʼwaaʼahlanggang
+     dah+V+Neg+3pl+Cert+Past: dahʼángʼwaaʼahlanggan
+     dah+V+Neg+3pl+Cert+Past+Hab: dahʼángʼwaaʼahlanggiinii
+     dah+V+Neg+3pl+Cert+Fut: dahʼángʼwaaäsaaʼahlans
+     dah+V+Neg+3pl+Cert+Rel: dahʼángʼwaaʼahlans
+     dah+V+Neg+3pl+Ints+Past: dahʼángʼaawaaʼahlang
+     dah+V+Neg+3pl+Cont: dahʼángʼaawaaʼahlanggaa
+     dah+V+Neg+3pl+Ctfact+Pres: dahʼángʼaawaaʼahlanggang
+     dah+V+Neg+3pl+Rflx: dahʼángʼwaaʼahl
+     dah+V+Neg+3pl+Fut+Rflx+Interr: dahʼángʼwaaäseehl
 

@@ -11,168 +11,168 @@ Tests:
 
   Verb - dlán - ENGLISH : # CLASS_AN_STEM_1
 
-     dlán+V+SG+IMPV: dlán
-     dlán+V+IMM+PRES: dlán.ga
-     dlán+V+INTERR+SIMP+PRES: dlán
-     dlán+V+SIMP+PRES: dlán.gang
-     dlán+V+DIR+PAST: dlán.gan
-     dlán+V+REL: dláns
-     dlán+V+NONFACT: dlánang
-     dlán+V+INTERR+PRES+HAB: dlán.gang
-     dlán+V+PRES+HAB: dlán.ganggang
-     dlán+V+PRES+HAB+NONFACT: dlán.gangang
-     dlán+V+DIR+PAST+HAB: dlán.giinii
-     dlán+V+INTERR+PAST+HAB: dlán.gaangaa
-     dlán+V+INDIR+PAST+HAB: dlán.gaangaan
-     dlán+V+INTERR+FUT+LONG: dlánäsaa
-     dlán+V+INTERR+FUT+SHORT: dlánäs
-     dlán+V+SIMP+FUT: dlánäsaang
-     dlán+V+IMM+FUT: dlánäsga
-     dlán+V+REL+FUT: dlánäsaas
-     dlán+V+FUT+NONFACT: dlánäsaa.ang
-     dlán+V+INTERR+NEAR+FUT: dlánang k̲asa'áa
-     dlán+V+NEAR+FUT: dlánang k̲asa'áang
-     dlán+V+INTERR+VNEAR+FUT: dlánang k̲asaasdláa
-     dlán+V+VNEAR+FUT: dlánang k̲asaasdláang
-     dlán+V+BIAS+IMM+PRES: dlán'uuj
-     dlán+V+BIAS+SIMP+PRES: dlán'uujang
-     dlán+V+RES: dlánäsaa'uujang
-     dlán+V+BIAS+INTERR+PRES: dlán'us
-     dlán+V+BIAS+INTERR+PAST: dlán'ujaa
-     dlán+V+BIAS+INTERR+PAST+HAB: dlán'uujaangaa
-     dlán+V+BIAS+INTERR+FUT: dlánäsaa'us
-     dlán+V+CERT+FUT: dlánäsaa'ahlans
-     dlán+V+FUT+RFLX+INTERR: dlánäseehl
-     dlán+V+PL+IMPV: dlán'uu
-     dlán+V+3PL+IMM+PRES: dlán'waa
-     dlán+V+3PL+INTERR+SIMP+PRES: dlán'waa
-     dlán+V+3PL+SIMP+PRES: dlán'waang
-     dlán+V+3PL+DIR+PAST: dlán'wägan
-     dlán+V+3PL+INTERR+PAST: dlán'aawaa
-     dlán+V+3PL+INDIR+PAST: dlán'aawaan
-     dlán+V+3PL+REL: dlán'waas
-     dlán+V+3PL+REL+EVID: dlán'aawaas
-     dlán+V+3PL+NONFACT: dlán'waa.ang
-     dlán+V+3PL+PAST+NONFACT: dlán'aawaa.ang
-     dlán+V+3PL+INTERR+PRES+HAB: dlán.gang'waa
-     dlán+V+3PL+PRES+HAB: dlán.gang'waang
-     dlán+V+3PL+PRES+HAB+NONFACT: dlán.gang'waa.ang
-     dlán+V+3PL+DIR+PAST+HAB: dlán'wägiinii
-     dlán+V+3PL+INTERR+PAST+HAB: dlán'wägaangaa
-     dlán+V+3PL+INDIR+PAST+HAB: dlán'wägaangaan
-     dlán+V+3PL+INTERR+FUT+LONG: dlán'waaäsaa
-     dlán+V+3PL+INTERR+FUT+SHORT: dlán'waaäs
-     dlán+V+3PL+SIMP+FUT: dlán'waaäsaang
-     dlán+V+3PL+IMM+FUT: dlán'waaäsga
-     dlán+V+3PL+REL+FUT: dlán'waaäsaas
-     dlán+V+3PL+FUT+NONFACT: dlán'waaäsaa.ang
-     dlán+V+3PL+INTERR+NEAR+FUT: dlán'waa.ang k̲asa'áa
-     dlán+V+3PL+NEAR+FUT: dlán'waa.ang k̲asa'áang
-     dlán+V+3PL+INTERR+VNEAR+FUT: dlán'waa.ang k̲asaasdláa
-     dlán+V+3PL+VNEAR+FUT: dlán'waa.ang k̲asaasdláang
-     dlán+V+3PL+BIAS+IMM+PRES: dlán'waa'uuj
-     dlán+V+3PL+BIAS+SIMP+PRES: dlán'waa'uujang
-     dlán+V+3PL+RES: dlán'waaäsaa'uujang
-     dlán+V+3PL+BIAS+INTERR+PRES: dlán'waa'us
-     dlán+V+3PL+BIAS+INTERR+PAST: dlán'waa'ujaa
-     dlán+V+3PL+BIAS+INTERR+PAST+HAB: dlán'waa'uujaangaa
-     dlán+V+3PL+BIAS+INTERR+FUT: dlán'waaäsaa'us
-     dlán+V+3PL+CERT+PRES: dlán'waa'ahlanggang
-     dlán+V+3PL+CERT+PAST: dlán'waa'ahlanggan
-     dlán+V+3PL+CERT+PAST+HAB: dlán'waa'ahlanggiinii
-     dlán+V+3PL+CERT+FUT: dlán'waaäsaa'ahlans
-     dlán+V+3PL+CERT+REL: dlán'waa'ahlans
-     dlán+V+3PL+INTS+PAST: dlán'aawaa'ahlang
-     dlán+V+3PL+CONT: dlán'aawaa'ahlanggaa
-     dlán+V+3PL+CTFACT+PRES: dlán'aawaa'ahlanggang
-     dlán+V+3PL+RFLX: dlán'waa'ahl
-     dlán+V+3PL+FUT+RFLX+INTERR: dlán'waaäseehl
-     dlán+V+NEG+SG+IMPV: dlán'ang
-     dlán+V+NEG+IMM+PRES: dlán'angga
-     dlán+V+NEG+INTERR+SIMP+PRES: dlán'ang
-     dlán+V+NEG+SIMP+PRES: dlán'anggang
-     dlán+V+NEG+DIR+PAST: dlán'anggan
-     dlán+V+NEG+INTERR+PAST: dlán'aangaa
-     dlán+V+NEG+INDIR+PAST: dlán'aangaan
-     dlán+V+NEG+REL: dlán'ans
-     dlán+V+NEG+REL+EVID: dlán'aangaas
-     dlán+V+NEG+NONFACT: dlán'angang
-     dlán+V+NEG+PAST+NONFACT: dlán'aangaa.ang
-     dlán+V+NEG+INTERR+PRES+HAB: dlán'anggang
-     dlán+V+NEG+PRES+HAB: dlán.gang'anggang
-     dlán+V+NEG+PRES+HAB+NONFACT: dlán.gang'angang
-     dlán+V+NEG+DIR+PAST+HAB: dlán'anggiinii
-     dlán+V+NEG+INTERR+PAST+HAB: dlán'anggaangaa
-     dlán+V+NEG+INDIR+PAST+HAB: dlán'anggaangaan
-     dlán+V+NEG+INTERR+FUT+LONG: dlán'angäsaa
-     dlán+V+NEG+INTERR+FUT+SHORT: dlán'angäs
-     dlán+V+NEG+SIMP+FUT: dlán'angäsaang
-     dlán+V+NEG+IMM+FUT: dlán'angäsga
-     dlán+V+NEG+REL+FUT: dlán'angäsaas
-     dlán+V+NEG+FUT+NONFACT: dlán'angäsaa.ang
-     dlán+V+NEG+INTERR+NEAR+FUT: dlánang k̲asaa'áng
-     dlán+V+NEG+NEAR+FUT: dlánang k̲asaa'ánggang
-     dlán+V+NEG+INTERR+VNEAR+FUT: dlánang k̲asaasdlä'áng
-     dlán+V+NEG+VNEAR+FUT: dlánang k̲asaasdlä'ánggang
-     dlán+V+NEG+BIAS+IMM+PRES: dlán'ang'uuj
-     dlán+V+NEG+BIAS+SIMP+PRES: dlán'ang'uujang
-     dlán+V+NEG+RES: dlán'angäsaa'uujang
-     dlán+V+NEG+BIAS+INTERR+PRES: dlán'ang'us
-     dlán+V+NEG+BIAS+INTERR+PAST: dlán'ang'ujaa
-     dlán+V+NEG+BIAS+INTERR+PAST+HAB: dlán'ang'uujaangaa
-     dlán+V+NEG+BIAS+INTERR+FUT: dlán'angäsaa'us
-     dlán+V+NEG+CERT+PRES: dlán'aang'ahlanggang
-     dlán+V+NEG+CERT+PAST: dlán'aang'ahlanggan
-     dlán+V+NEG+CERT+PAST+HAB: dlán'aang'ahlanggiinii
-     dlán+V+NEG+CERT+FUT: dlán'angäsaa'ahlans
-     dlán+V+NEG+CERT+REL: dlán'aang'ahlans
-     dlán+V+NEG+INTS+PAST: dlán'aangaa'ahlang
-     dlán+V+NEG+CONT: dlán'aangaa'ahlanggaa
-     dlán+V+NEG+CTFACT+PRES: dlán'aangaa'ahlanggang
-     dlán+V+NEG+RFLX: dlán'aang'ahl
-     dlán+V+NEG+FUT+RFLX+INTERR: dlán'angäseehl
-     dlán+V+NEG+PL+IMPV: dlán'ang'uu
-     dlán+V+NEG+3PL+IMM+PRES: dlán'ang'waa
-     dlán+V+NEG+3PL+INTERR+SIMP+PRES: dlán'ang'waa
-     dlán+V+NEG+3PL+SIMP+PRES: dlán'ang'waang
-     dlán+V+NEG+3PL+DIR+PAST: dlán'ang'wägan
-     dlán+V+NEG+3PL+INTERR+PAST: dlán'ang'aawaa
-     dlán+V+NEG+3PL+INDIR+PAST: dlán'ang'aawaan
-     dlán+V+NEG+3PL+REL: dlán'ang'waas
-     dlán+V+NEG+3PL+REL+EVID: dlán'ang'aawaas
-     dlán+V+NEG+3PL+NONFACT: dlán'ang'waa.ang
-     dlán+V+NEG+3PL+PAST+NONFACT: dlán'ang'aawaa.ang
-     dlán+V+NEG+3PL+INTERR+PRES+HAB: dlán.gang'ang'waa
-     dlán+V+NEG+3PL+PRES+HAB: dlán.gang'ang'waang
-     dlán+V+NEG+3PL+PRES+HAB+NONFACT: dlán.gang'ang'waa.ang
-     dlán+V+NEG+3PL+DIR+PAST+HAB: dlán'ang'wägiinii
-     dlán+V+NEG+3PL+INTERR+PAST+HAB: dlán'ang'wägaangaa
-     dlán+V+NEG+3PL+INDIR+PAST+HAB: dlán'ang'wägaangaan
-     dlán+V+NEG+3PL+INTERR+FUT+LONG: dlán'ang'waaäsaa
-     dlán+V+NEG+3PL+INTERR+FUT+SHORT: dlán'ang'waaäs
-     dlán+V+NEG+3PL+SIMP+FUT: dlán'ang'waaäsaang
-     dlán+V+NEG+3PL+IMM+FUT: dlán'ang'waaäsga
-     dlán+V+NEG+3PL+REL+FUT: dlán'ang'waaäsaas
-     dlán+V+NEG+3PL+FUT+NONFACT: dlán'ang'waaäsaa.ang
-     dlán+V+NEG+3PL+INTERR+NEAR+FUT: dlán'waa.ang k̲asaa'áng
-     dlán+V+NEG+3PL+NEAR+FUT: dlán'waa.ang k̲asaa'ánggang
-     dlán+V+NEG+3PL+INTERR+VNEAR+FUT: dlán'waa.ang k̲asaasdlä'áng
-     dlán+V+NEG+3PL+VNEAR+FUT: dlán'waa.ang k̲asaasdlä'ánggang
-     dlán+V+NEG+3PL+BIAS+IMM+PRES: dlán'ang'waa'uuj
-     dlán+V+NEG+3PL+BIAS+SIMP+PRES: dlán'ang'waa'uujang
-     dlán+V+NEG+3PL+RES: dlán'ang'waaäsaa'uujang
-     dlán+V+NEG+3PL+BIAS+INTERR+PRES: dlán'ang'waa'us
-     dlán+V+NEG+3PL+BIAS+INTERR+PAST: dlán'ang'waa'ujaa
-     dlán+V+NEG+3PL+BIAS+INTERR+PAST+HAB: dlán'ang'waa'uujaangaa
-     dlán+V+NEG+3PL+BIAS+INTERR+FUT: dlán'ang'waaäsaa'us
-     dlán+V+NEG+3PL+CERT+PRES: dlán'ang'waa'ahlanggang
-     dlán+V+NEG+3PL+CERT+PAST: dlán'ang'waa'ahlanggan
-     dlán+V+NEG+3PL+CERT+PAST+HAB: dlán'ang'waa'ahlanggiinii
-     dlán+V+NEG+3PL+CERT+FUT: dlán'ang'waaäsaa'ahlans
-     dlán+V+NEG+3PL+CERT+REL: dlán'ang'waa'ahlans
-     dlán+V+NEG+3PL+INTS+PAST: dlán'ang'aawaa'ahlang
-     dlán+V+NEG+3PL+CONT: dlán'ang'aawaa'ahlanggaa
-     dlán+V+NEG+3PL+CTFACT+PRES: dlán'ang'aawaa'ahlanggang
-     dlán+V+NEG+3PL+RFLX: dlán'ang'waa'ahl
-     dlán+V+NEG+3PL+FUT+RFLX+INTERR: dlán'ang'waaäseehl
+     dlán+V+Sg+Impv: dlán
+     dlán+V+Imm+Pres: dlán.ga
+     dlán+V+Interr+Simp+Pres: dlán
+     dlán+V+Simp+Pres: dlán.gang
+     dlán+V+Dir+Past: dlán.gan
+     dlán+V+Rel: dláns
+     dlán+V+NonFact: dlánang
+     dlán+V+Interr+Pres+Hab: dlán.gang
+     dlán+V+Pres+Hab: dlán.ganggang
+     dlán+V+Pres+Hab+NonFact: dlán.gangang
+     dlán+V+Dir+Past+Hab: dlán.giinii
+     dlán+V+Interr+Past+Hab: dlán.gaangaa
+     dlán+V+Indir+Past+Hab: dlán.gaangaan
+     dlán+V+Interr+Fut+Long: dlánäsaa
+     dlán+V+Interr+Fut+Short: dlánäs
+     dlán+V+Simp+Fut: dlánäsaang
+     dlán+V+Imm+Fut: dlánäsga
+     dlán+V+Rel+Fut: dlánäsaas
+     dlán+V+Fut+NonFact: dlánäsaa.ang
+     dlán+V+Interr+Near+Fut: dlánang k̲asaʼáa
+     dlán+V+Near+Fut: dlánang k̲asaʼáang
+     dlán+V+Interr+VNear+Fut: dlánang k̲asaasdláa
+     dlán+V+VNear+Fut: dlánang k̲asaasdláang
+     dlán+V+Bias+Imm+Pres: dlánʼuuj
+     dlán+V+Bias+Simp+Pres: dlánʼuujang
+     dlán+V+Res: dlánäsaaʼuujang
+     dlán+V+Bias+Interr+Pres: dlánʼus
+     dlán+V+Bias+Interr+Past: dlánʼujaa
+     dlán+V+Bias+Interr+Past+Hab: dlánʼuujaangaa
+     dlán+V+Bias+Interr+Fut: dlánäsaaʼus
+     dlán+V+Cert+Fut: dlánäsaaʼahlans
+     dlán+V+Fut+Rflx+Interr: dlánäseehl
+     dlán+V+Pl+Impv: dlánʼuu
+     dlán+V+3pl+Imm+Pres: dlánʼwaa
+     dlán+V+3pl+Interr+Simp+Pres: dlánʼwaa
+     dlán+V+3pl+Simp+Pres: dlánʼwaang
+     dlán+V+3pl+Dir+Past: dlánʼwägan
+     dlán+V+3pl+Interr+Past: dlánʼaawaa
+     dlán+V+3pl+Indir+Past: dlánʼaawaan
+     dlán+V+3pl+Rel: dlánʼwaas
+     dlán+V+3pl+Rel+Evid: dlánʼaawaas
+     dlán+V+3pl+NonFact: dlánʼwaa.ang
+     dlán+V+3pl+Past+NonFact: dlánʼaawaa.ang
+     dlán+V+3pl+Interr+Pres+Hab: dlán.gangʼwaa
+     dlán+V+3pl+Pres+Hab: dlán.gangʼwaang
+     dlán+V+3pl+Pres+Hab+NonFact: dlán.gangʼwaa.ang
+     dlán+V+3pl+Dir+Past+Hab: dlánʼwägiinii
+     dlán+V+3pl+Interr+Past+Hab: dlánʼwägaangaa
+     dlán+V+3pl+Indir+Past+Hab: dlánʼwägaangaan
+     dlán+V+3pl+Interr+Fut+Long: dlánʼwaaäsaa
+     dlán+V+3pl+Interr+Fut+Short: dlánʼwaaäs
+     dlán+V+3pl+Simp+Fut: dlánʼwaaäsaang
+     dlán+V+3pl+Imm+Fut: dlánʼwaaäsga
+     dlán+V+3pl+Rel+Fut: dlánʼwaaäsaas
+     dlán+V+3pl+Fut+NonFact: dlánʼwaaäsaa.ang
+     dlán+V+3pl+Interr+Near+Fut: dlánʼwaa.ang k̲asaʼáa
+     dlán+V+3pl+Near+Fut: dlánʼwaa.ang k̲asaʼáang
+     dlán+V+3pl+Interr+VNear+Fut: dlánʼwaa.ang k̲asaasdláa
+     dlán+V+3pl+VNear+Fut: dlánʼwaa.ang k̲asaasdláang
+     dlán+V+3pl+Bias+Imm+Pres: dlánʼwaaʼuuj
+     dlán+V+3pl+Bias+Simp+Pres: dlánʼwaaʼuujang
+     dlán+V+3pl+Res: dlánʼwaaäsaaʼuujang
+     dlán+V+3pl+Bias+Interr+Pres: dlánʼwaaʼus
+     dlán+V+3pl+Bias+Interr+Past: dlánʼwaaʼujaa
+     dlán+V+3pl+Bias+Interr+Past+Hab: dlánʼwaaʼuujaangaa
+     dlán+V+3pl+Bias+Interr+Fut: dlánʼwaaäsaaʼus
+     dlán+V+3pl+Cert+Pres: dlánʼwaaʼahlanggang
+     dlán+V+3pl+Cert+Past: dlánʼwaaʼahlanggan
+     dlán+V+3pl+Cert+Past+Hab: dlánʼwaaʼahlanggiinii
+     dlán+V+3pl+Cert+Fut: dlánʼwaaäsaaʼahlans
+     dlán+V+3pl+Cert+Rel: dlánʼwaaʼahlans
+     dlán+V+3pl+Ints+Past: dlánʼaawaaʼahlang
+     dlán+V+3pl+Cont: dlánʼaawaaʼahlanggaa
+     dlán+V+3pl+Ctfact+Pres: dlánʼaawaaʼahlanggang
+     dlán+V+3pl+Rflx: dlánʼwaaʼahl
+     dlán+V+3pl+Fut+Rflx+Interr: dlánʼwaaäseehl
+     dlán+V+Neg+Sg+Impv: dlánʼang
+     dlán+V+Neg+Imm+Pres: dlánʼangga
+     dlán+V+Neg+Interr+Simp+Pres: dlánʼang
+     dlán+V+Neg+Simp+Pres: dlánʼanggang
+     dlán+V+Neg+Dir+Past: dlánʼanggan
+     dlán+V+Neg+Interr+Past: dlánʼaangaa
+     dlán+V+Neg+Indir+Past: dlánʼaangaan
+     dlán+V+Neg+Rel: dlánʼans
+     dlán+V+Neg+Rel+Evid: dlánʼaangaas
+     dlán+V+Neg+NonFact: dlánʼangang
+     dlán+V+Neg+Past+NonFact: dlánʼaangaa.ang
+     dlán+V+Neg+Interr+Pres+Hab: dlánʼanggang
+     dlán+V+Neg+Pres+Hab: dlán.gangʼanggang
+     dlán+V+Neg+Pres+Hab+NonFact: dlán.gangʼangang
+     dlán+V+Neg+Dir+Past+Hab: dlánʼanggiinii
+     dlán+V+Neg+Interr+Past+Hab: dlánʼanggaangaa
+     dlán+V+Neg+Indir+Past+Hab: dlánʼanggaangaan
+     dlán+V+Neg+Interr+Fut+Long: dlánʼangäsaa
+     dlán+V+Neg+Interr+Fut+Short: dlánʼangäs
+     dlán+V+Neg+Simp+Fut: dlánʼangäsaang
+     dlán+V+Neg+Imm+Fut: dlánʼangäsga
+     dlán+V+Neg+Rel+Fut: dlánʼangäsaas
+     dlán+V+Neg+Fut+NonFact: dlánʼangäsaa.ang
+     dlán+V+Neg+Interr+Near+Fut: dlánang k̲asaaʼáng
+     dlán+V+Neg+Near+Fut: dlánang k̲asaaʼánggang
+     dlán+V+Neg+Interr+VNear+Fut: dlánang k̲asaasdläʼáng
+     dlán+V+Neg+VNear+Fut: dlánang k̲asaasdläʼánggang
+     dlán+V+Neg+Bias+Imm+Pres: dlánʼangʼuuj
+     dlán+V+Neg+Bias+Simp+Pres: dlánʼangʼuujang
+     dlán+V+Neg+Res: dlánʼangäsaaʼuujang
+     dlán+V+Neg+Bias+Interr+Pres: dlánʼangʼus
+     dlán+V+Neg+Bias+Interr+Past: dlánʼangʼujaa
+     dlán+V+Neg+Bias+Interr+Past+Hab: dlánʼangʼuujaangaa
+     dlán+V+Neg+Bias+Interr+Fut: dlánʼangäsaaʼus
+     dlán+V+Neg+Cert+Pres: dlánʼaangʼahlanggang
+     dlán+V+Neg+Cert+Past: dlánʼaangʼahlanggan
+     dlán+V+Neg+Cert+Past+Hab: dlánʼaangʼahlanggiinii
+     dlán+V+Neg+Cert+Fut: dlánʼangäsaaʼahlans
+     dlán+V+Neg+Cert+Rel: dlánʼaangʼahlans
+     dlán+V+Neg+Ints+Past: dlánʼaangaaʼahlang
+     dlán+V+Neg+Cont: dlánʼaangaaʼahlanggaa
+     dlán+V+Neg+Ctfact+Pres: dlánʼaangaaʼahlanggang
+     dlán+V+Neg+Rflx: dlánʼaangʼahl
+     dlán+V+Neg+Fut+Rflx+Interr: dlánʼangäseehl
+     dlán+V+Neg+Pl+Impv: dlánʼangʼuu
+     dlán+V+Neg+3pl+Imm+Pres: dlánʼangʼwaa
+     dlán+V+Neg+3pl+Interr+Simp+Pres: dlánʼangʼwaa
+     dlán+V+Neg+3pl+Simp+Pres: dlánʼangʼwaang
+     dlán+V+Neg+3pl+Dir+Past: dlánʼangʼwägan
+     dlán+V+Neg+3pl+Interr+Past: dlánʼangʼaawaa
+     dlán+V+Neg+3pl+Indir+Past: dlánʼangʼaawaan
+     dlán+V+Neg+3pl+Rel: dlánʼangʼwaas
+     dlán+V+Neg+3pl+Rel+Evid: dlánʼangʼaawaas
+     dlán+V+Neg+3pl+NonFact: dlánʼangʼwaa.ang
+     dlán+V+Neg+3pl+Past+NonFact: dlánʼangʼaawaa.ang
+     dlán+V+Neg+3pl+Interr+Pres+Hab: dlán.gangʼangʼwaa
+     dlán+V+Neg+3pl+Pres+Hab: dlán.gangʼangʼwaang
+     dlán+V+Neg+3pl+Pres+Hab+NonFact: dlán.gangʼangʼwaa.ang
+     dlán+V+Neg+3pl+Dir+Past+Hab: dlánʼangʼwägiinii
+     dlán+V+Neg+3pl+Interr+Past+Hab: dlánʼangʼwägaangaa
+     dlán+V+Neg+3pl+Indir+Past+Hab: dlánʼangʼwägaangaan
+     dlán+V+Neg+3pl+Interr+Fut+Long: dlánʼangʼwaaäsaa
+     dlán+V+Neg+3pl+Interr+Fut+Short: dlánʼangʼwaaäs
+     dlán+V+Neg+3pl+Simp+Fut: dlánʼangʼwaaäsaang
+     dlán+V+Neg+3pl+Imm+Fut: dlánʼangʼwaaäsga
+     dlán+V+Neg+3pl+Rel+Fut: dlánʼangʼwaaäsaas
+     dlán+V+Neg+3pl+Fut+NonFact: dlánʼangʼwaaäsaa.ang
+     dlán+V+Neg+3pl+Interr+Near+Fut: dlánʼwaa.ang k̲asaaʼáng
+     dlán+V+Neg+3pl+Near+Fut: dlánʼwaa.ang k̲asaaʼánggang
+     dlán+V+Neg+3pl+Interr+VNear+Fut: dlánʼwaa.ang k̲asaasdläʼáng
+     dlán+V+Neg+3pl+VNear+Fut: dlánʼwaa.ang k̲asaasdläʼánggang
+     dlán+V+Neg+3pl+Bias+Imm+Pres: dlánʼangʼwaaʼuuj
+     dlán+V+Neg+3pl+Bias+Simp+Pres: dlánʼangʼwaaʼuujang
+     dlán+V+Neg+3pl+Res: dlánʼangʼwaaäsaaʼuujang
+     dlán+V+Neg+3pl+Bias+Interr+Pres: dlánʼangʼwaaʼus
+     dlán+V+Neg+3pl+Bias+Interr+Past: dlánʼangʼwaaʼujaa
+     dlán+V+Neg+3pl+Bias+Interr+Past+Hab: dlánʼangʼwaaʼuujaangaa
+     dlán+V+Neg+3pl+Bias+Interr+Fut: dlánʼangʼwaaäsaaʼus
+     dlán+V+Neg+3pl+Cert+Pres: dlánʼangʼwaaʼahlanggang
+     dlán+V+Neg+3pl+Cert+Past: dlánʼangʼwaaʼahlanggan
+     dlán+V+Neg+3pl+Cert+Past+Hab: dlánʼangʼwaaʼahlanggiinii
+     dlán+V+Neg+3pl+Cert+Fut: dlánʼangʼwaaäsaaʼahlans
+     dlán+V+Neg+3pl+Cert+Rel: dlánʼangʼwaaʼahlans
+     dlán+V+Neg+3pl+Ints+Past: dlánʼangʼaawaaʼahlang
+     dlán+V+Neg+3pl+Cont: dlánʼangʼaawaaʼahlanggaa
+     dlán+V+Neg+3pl+Ctfact+Pres: dlánʼangʼaawaaʼahlanggang
+     dlán+V+Neg+3pl+Rflx: dlánʼangʼwaaʼahl
+     dlán+V+Neg+3pl+Fut+Rflx+Interr: dlánʼangʼwaaäseehl
 

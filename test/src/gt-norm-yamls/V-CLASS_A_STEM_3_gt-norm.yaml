@@ -11,45 +11,45 @@ Tests:
 
   Verb - k̲íiya - ENGLISH : # CLASS_A_STEM_3
 
-     k̲íiya+V+SG+IMPV: k̲íiyaa
-     k̲íiya+V+IMM+PRES: k̲íiyaa
-     k̲íiya+V+INTERR+SIMP+PRES: k̲íiyaa
-     k̲íiya+V+SIMP+PRES: k̲íiyaang
-     k̲íiya+V+INTERR+PAST: k̲íiyaayaa
-     k̲íiya+V+INDIR+PAST: k̲íiyaayaan
-     k̲íiya+V+REL: k̲íiyaas
-     k̲íiya+V+REL+EVID: k̲íiyaayaas
-     k̲íiya+V+NONFACT: k̲íiyaa.ang
-     k̲íiya+V+PAST+NONFACT: k̲íiyaayaa.ang
-     k̲íiya+V+INTERR+FUT+LONG: k̲íiyaaäsaa
-     k̲íiya+V+INTERR+FUT+SHORT: k̲íiyaaäs
-     k̲íiya+V+SIMP+FUT: k̲íiyaaäsaang
-     k̲íiya+V+IMM+FUT: k̲íiyaaäsga
-     k̲íiya+V+REL+FUT: k̲íiyaaäsaas
-     k̲íiya+V+FUT+NONFACT: k̲íiyaaäsaa.ang
-     k̲íiya+V+INTERR+NEAR+FUT: k̲íiyaa.ang k̲asa'áa
-     k̲íiya+V+NEAR+FUT: k̲íiyaa.ang k̲asa'áang
-     k̲íiya+V+INTERR+VNEAR+FUT: k̲íiyaa.ang k̲asaasdláa
-     k̲íiya+V+VNEAR+FUT: k̲íiyaa.ang k̲asaasdláang
-     k̲íiya+V+BIAS+IMM+PRES: k̲íiyaa'uuj
-     k̲íiya+V+BIAS+SIMP+PRES: k̲íiyaa'uujang
-     k̲íiya+V+RES: k̲íiyaaäsaa'uujang
-     k̲íiya+V+BIAS+INTERR+PRES: k̲íiyaa'us
-     k̲íiya+V+BIAS+INTERR+PAST: k̲íiyaa'ujaa
-     k̲íiya+V+BIAS+INTERR+PAST+HAB: k̲íiyaa'uujaangaa
-     k̲íiya+V+BIAS+INTERR+FUT: k̲íiyaaäsaa'us
-     k̲íiya+V+CERT+PRES: k̲íiyaa'ahlanggang
-     k̲íiya+V+CERT+PAST: k̲íiyaa'ahlanggan
-     k̲íiya+V+CERT+PAST+HAB: k̲íiyaa'ahlanggiinii
-     k̲íiya+V+CERT+FUT: k̲íiyaaäsaa'ahlans
-     k̲íiya+V+CERT+REL: k̲íiyaa'ahlans
-     k̲íiya+V+INTS+PAST: k̲íiyaayaa'ahlang
-     k̲íiya+V+CONT: k̲íiyaayaa'ahlanggaa
-     k̲íiya+V+CTFACT+PRES: k̲íiyaayaa'ahlanggang
-     k̲íiya+V+RFLX: k̲íiyaa'ahl
-     k̲íiya+V+FUT+RFLX+INTERR: k̲íiyaaäseehl
-     k̲íiya+V+NEG+INTERR+NEAR+FUT: k̲íiyaa.ang k̲asaa'áng
-     k̲íiya+V+NEG+NEAR+FUT: k̲íiyaa.ang k̲asaa'ánggang
-     k̲íiya+V+NEG+INTERR+VNEAR+FUT: k̲íiyaa.ang k̲asaasdlä'áng
-     k̲íiya+V+NEG+VNEAR+FUT: k̲íiyaa.ang k̲asaasdlä'ánggang
+     k̲íiya+V+Sg+Impv: k̲íiyaa
+     k̲íiya+V+Imm+Pres: k̲íiyaa
+     k̲íiya+V+Interr+Simp+Pres: k̲íiyaa
+     k̲íiya+V+Simp+Pres: k̲íiyaang
+     k̲íiya+V+Interr+Past: k̲íiyaayaa
+     k̲íiya+V+Indir+Past: k̲íiyaayaan
+     k̲íiya+V+Rel: k̲íiyaas
+     k̲íiya+V+Rel+Evid: k̲íiyaayaas
+     k̲íiya+V+NonFact: k̲íiyaa.ang
+     k̲íiya+V+Past+NonFact: k̲íiyaayaa.ang
+     k̲íiya+V+Interr+Fut+Long: k̲íiyaaäsaa
+     k̲íiya+V+Interr+Fut+Short: k̲íiyaaäs
+     k̲íiya+V+Simp+Fut: k̲íiyaaäsaang
+     k̲íiya+V+Imm+Fut: k̲íiyaaäsga
+     k̲íiya+V+Rel+Fut: k̲íiyaaäsaas
+     k̲íiya+V+Fut+NonFact: k̲íiyaaäsaa.ang
+     k̲íiya+V+Interr+Near+Fut: k̲íiyaa.ang k̲asaʼáa
+     k̲íiya+V+Near+Fut: k̲íiyaa.ang k̲asaʼáang
+     k̲íiya+V+Interr+VNear+Fut: k̲íiyaa.ang k̲asaasdláa
+     k̲íiya+V+VNear+Fut: k̲íiyaa.ang k̲asaasdláang
+     k̲íiya+V+Bias+Imm+Pres: k̲íiyaaʼuuj
+     k̲íiya+V+Bias+Simp+Pres: k̲íiyaaʼuujang
+     k̲íiya+V+Res: k̲íiyaaäsaaʼuujang
+     k̲íiya+V+Bias+Interr+Pres: k̲íiyaaʼus
+     k̲íiya+V+Bias+Interr+Past: k̲íiyaaʼujaa
+     k̲íiya+V+Bias+Interr+Past+Hab: k̲íiyaaʼuujaangaa
+     k̲íiya+V+Bias+Interr+Fut: k̲íiyaaäsaaʼus
+     k̲íiya+V+Cert+Pres: k̲íiyaaʼahlanggang
+     k̲íiya+V+Cert+Past: k̲íiyaaʼahlanggan
+     k̲íiya+V+Cert+Past+Hab: k̲íiyaaʼahlanggiinii
+     k̲íiya+V+Cert+Fut: k̲íiyaaäsaaʼahlans
+     k̲íiya+V+Cert+Rel: k̲íiyaaʼahlans
+     k̲íiya+V+Ints+Past: k̲íiyaayaaʼahlang
+     k̲íiya+V+Cont: k̲íiyaayaaʼahlanggaa
+     k̲íiya+V+Ctfact+Pres: k̲íiyaayaaʼahlanggang
+     k̲íiya+V+Rflx: k̲íiyaaʼahl
+     k̲íiya+V+Fut+Rflx+Interr: k̲íiyaaäseehl
+     k̲íiya+V+Neg+Interr+Near+Fut: k̲íiyaa.ang k̲asaaʼáng
+     k̲íiya+V+Neg+Near+Fut: k̲íiyaa.ang k̲asaaʼánggang
+     k̲íiya+V+Neg+Interr+VNear+Fut: k̲íiyaa.ang k̲asaasdläʼáng
+     k̲íiya+V+Neg+VNear+Fut: k̲íiyaa.ang k̲asaasdläʼánggang
 

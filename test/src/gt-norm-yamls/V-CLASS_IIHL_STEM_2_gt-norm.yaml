@@ -11,30 +11,30 @@ Tests:
 
   Verb - níihl - ENGLISH : # CLASS_IIHL_STEM_2
 
-     níihl+V+IMM+PRES: nílga
-     níihl+V+SIMP+PRES: nílgang
-     níihl+V+DIR+PAST: nílgan
-     níihl+V+NONFACT: níl.ang
-     níihl+V+INTERR+PRES+HAB: nílgang
-     níihl+V+PRES+HAB: nílganggang
-     níihl+V+PRES+HAB+NONFACT: nílgangang
-     níihl+V+DIR+PAST+HAB: nílgiinii
-     níihl+V+INTERR+PAST+HAB: nílgaangaa
-     níihl+V+INDIR+PAST+HAB: nílgaangaan
-     níihl+V+INTERR+NEAR+FUT: nílang k̲asa'áa
-     níihl+V+NEAR+FUT: nílang k̲asa'áang
-     níihl+V+INTERR+VNEAR+FUT: nílang k̲asaasdláa
-     níihl+V+VNEAR+FUT: nílang k̲asaasdláang
-     níihl+V+3PL+INTERR+PRES+HAB: nílgang'waa
-     níihl+V+3PL+PRES+HAB: nílgang'waang
-     níihl+V+3PL+PRES+HAB+NONFACT: nílgang'waa.ang
-     níihl+V+NEG+PRES+HAB: nílgang'anggang
-     níihl+V+NEG+PRES+HAB+NONFACT: nílgang'angang
-     níihl+V+NEG+INTERR+NEAR+FUT: nílang k̲asaa'áng
-     níihl+V+NEG+NEAR+FUT: nílang k̲asaa'ánggang
-     níihl+V+NEG+INTERR+VNEAR+FUT: nílang k̲asaasdlä'áng
-     níihl+V+NEG+VNEAR+FUT: nílang k̲asaasdlä'ánggang
-     níihl+V+NEG+3PL+INTERR+PRES+HAB: nílgang'ang'waa
-     níihl+V+NEG+3PL+PRES+HAB: nílgang'ang'waang
-     níihl+V+NEG+3PL+PRES+HAB+NONFACT: nílgang'ang'waa.ang
+     níihl+V+Imm+Pres: nílga
+     níihl+V+Simp+Pres: nílgang
+     níihl+V+Dir+Past: nílgan
+     níihl+V+NonFact: níl.ang
+     níihl+V+Interr+Pres+Hab: nílgang
+     níihl+V+Pres+Hab: nílganggang
+     níihl+V+Pres+Hab+NonFact: nílgangang
+     níihl+V+Dir+Past+Hab: nílgiinii
+     níihl+V+Interr+Past+Hab: nílgaangaa
+     níihl+V+Indir+Past+Hab: nílgaangaan
+     níihl+V+Interr+Near+Fut: nílang k̲asaʼáa
+     níihl+V+Near+Fut: nílang k̲asaʼáang
+     níihl+V+Interr+VNear+Fut: nílang k̲asaasdláa
+     níihl+V+VNear+Fut: nílang k̲asaasdláang
+     níihl+V+3pl+Interr+Pres+Hab: nílgangʼwaa
+     níihl+V+3pl+Pres+Hab: nílgangʼwaang
+     níihl+V+3pl+Pres+Hab+NonFact: nílgangʼwaa.ang
+     níihl+V+Neg+Pres+Hab: nílgangʼanggang
+     níihl+V+Neg+Pres+Hab+NonFact: nílgangʼangang
+     níihl+V+Neg+Interr+Near+Fut: nílang k̲asaaʼáng
+     níihl+V+Neg+Near+Fut: nílang k̲asaaʼánggang
+     níihl+V+Neg+Interr+VNear+Fut: nílang k̲asaasdläʼáng
+     níihl+V+Neg+VNear+Fut: nílang k̲asaasdläʼánggang
+     níihl+V+Neg+3pl+Interr+Pres+Hab: nílgangʼangʼwaa
+     níihl+V+Neg+3pl+Pres+Hab: nílgangʼangʼwaang
+     níihl+V+Neg+3pl+Pres+Hab+NonFact: nílgangʼangʼwaa.ang
 

@@ -11,168 +11,168 @@ Tests:
 
   Verb - kyáambda ín - ENGLISH : # CLASS_IN_STEM_1
 
-     kyáambda ín+V+SG+IMPV: kyáambda ín
-     kyáambda ín+V+IMM+PRES: kyáambda ín.ga
-     kyáambda ín+V+INTERR+SIMP+PRES: kyáambda ín
-     kyáambda ín+V+SIMP+PRES: kyáambda ín.gang
-     kyáambda ín+V+DIR+PAST: kyáambda ín.gan
-     kyáambda ín+V+REL: kyáambda íns
-     kyáambda ín+V+NONFACT: kyáambda ínang
-     kyáambda ín+V+INTERR+PRES+HAB: kyáambda ín.gang
-     kyáambda ín+V+PRES+HAB: kyáambda ín.ganggang
-     kyáambda ín+V+PRES+HAB+NONFACT: kyáambda ín.gangang
-     kyáambda ín+V+DIR+PAST+HAB: kyáambda ín.giinii
-     kyáambda ín+V+INTERR+PAST+HAB: kyáambda ín.gaangaa
-     kyáambda ín+V+INDIR+PAST+HAB: kyáambda ín.gaangaan
-     kyáambda ín+V+INTERR+FUT+LONG: kyáambda ínäsaa
-     kyáambda ín+V+INTERR+FUT+SHORT: kyáambda ínäs
-     kyáambda ín+V+SIMP+FUT: kyáambda ínäsaang
-     kyáambda ín+V+IMM+FUT: kyáambda ínäsga
-     kyáambda ín+V+REL+FUT: kyáambda ínäsaas
-     kyáambda ín+V+FUT+NONFACT: kyáambda ínäsaa.ang
-     kyáambda ín+V+INTERR+NEAR+FUT: kyáambda ínang k̲asa'áa
-     kyáambda ín+V+NEAR+FUT: kyáambda ínang k̲asa'áang
-     kyáambda ín+V+INTERR+VNEAR+FUT: kyáambda ínang k̲asaasdláa
-     kyáambda ín+V+VNEAR+FUT: kyáambda ínang k̲asaasdláang
-     kyáambda ín+V+BIAS+IMM+PRES: kyáambda ín'uuj
-     kyáambda ín+V+BIAS+SIMP+PRES: kyáambda ín'uujang
-     kyáambda ín+V+RES: kyáambda ínäsaa'uujang
-     kyáambda ín+V+BIAS+INTERR+PRES: kyáambda ín'us
-     kyáambda ín+V+BIAS+INTERR+PAST: kyáambda ín'ujaa
-     kyáambda ín+V+BIAS+INTERR+PAST+HAB: kyáambda ín'uujaangaa
-     kyáambda ín+V+BIAS+INTERR+FUT: kyáambda ínäsaa'us
-     kyáambda ín+V+CERT+FUT: kyáambda ínäsaa'ahlans
-     kyáambda ín+V+FUT+RFLX+INTERR: kyáambda ínäseehl
-     kyáambda ín+V+PL+IMPV: kyáambda ín'uu
-     kyáambda ín+V+3PL+IMM+PRES: kyáambda ín'waa
-     kyáambda ín+V+3PL+INTERR+SIMP+PRES: kyáambda ín'waa
-     kyáambda ín+V+3PL+SIMP+PRES: kyáambda ín'waang
-     kyáambda ín+V+3PL+DIR+PAST: kyáambda ín'wägan
-     kyáambda ín+V+3PL+INTERR+PAST: kyáambda ín'aawaa
-     kyáambda ín+V+3PL+INDIR+PAST: kyáambda ín'aawaan
-     kyáambda ín+V+3PL+REL: kyáambda ín'waas
-     kyáambda ín+V+3PL+REL+EVID: kyáambda ín'aawaas
-     kyáambda ín+V+3PL+NONFACT: kyáambda ín'waa.ang
-     kyáambda ín+V+3PL+PAST+NONFACT: kyáambda ín'aawaa.ang
-     kyáambda ín+V+3PL+INTERR+PRES+HAB: kyáambda ín.gang'waa
-     kyáambda ín+V+3PL+PRES+HAB: kyáambda ín.gang'waang
-     kyáambda ín+V+3PL+PRES+HAB+NONFACT: kyáambda ín.gang'waa.ang
-     kyáambda ín+V+3PL+DIR+PAST+HAB: kyáambda ín'wägiinii
-     kyáambda ín+V+3PL+INTERR+PAST+HAB: kyáambda ín'wägaangaa
-     kyáambda ín+V+3PL+INDIR+PAST+HAB: kyáambda ín'wägaangaan
-     kyáambda ín+V+3PL+INTERR+FUT+LONG: kyáambda ín'waaäsaa
-     kyáambda ín+V+3PL+INTERR+FUT+SHORT: kyáambda ín'waaäs
-     kyáambda ín+V+3PL+SIMP+FUT: kyáambda ín'waaäsaang
-     kyáambda ín+V+3PL+IMM+FUT: kyáambda ín'waaäsga
-     kyáambda ín+V+3PL+REL+FUT: kyáambda ín'waaäsaas
-     kyáambda ín+V+3PL+FUT+NONFACT: kyáambda ín'waaäsaa.ang
-     kyáambda ín+V+3PL+INTERR+NEAR+FUT: kyáambda ín'waa.ang k̲asa'áa
-     kyáambda ín+V+3PL+NEAR+FUT: kyáambda ín'waa.ang k̲asa'áang
-     kyáambda ín+V+3PL+INTERR+VNEAR+FUT: kyáambda ín'waa.ang k̲asaasdláa
-     kyáambda ín+V+3PL+VNEAR+FUT: kyáambda ín'waa.ang k̲asaasdláang
-     kyáambda ín+V+3PL+BIAS+IMM+PRES: kyáambda ín'waa'uuj
-     kyáambda ín+V+3PL+BIAS+SIMP+PRES: kyáambda ín'waa'uujang
-     kyáambda ín+V+3PL+RES: kyáambda ín'waaäsaa'uujang
-     kyáambda ín+V+3PL+BIAS+INTERR+PRES: kyáambda ín'waa'us
-     kyáambda ín+V+3PL+BIAS+INTERR+PAST: kyáambda ín'waa'ujaa
-     kyáambda ín+V+3PL+BIAS+INTERR+PAST+HAB: kyáambda ín'waa'uujaangaa
-     kyáambda ín+V+3PL+BIAS+INTERR+FUT: kyáambda ín'waaäsaa'us
-     kyáambda ín+V+3PL+CERT+PRES: kyáambda ín'waa'ahlanggang
-     kyáambda ín+V+3PL+CERT+PAST: kyáambda ín'waa'ahlanggan
-     kyáambda ín+V+3PL+CERT+PAST+HAB: kyáambda ín'waa'ahlanggiinii
-     kyáambda ín+V+3PL+CERT+FUT: kyáambda ín'waaäsaa'ahlans
-     kyáambda ín+V+3PL+CERT+REL: kyáambda ín'waa'ahlans
-     kyáambda ín+V+3PL+INTS+PAST: kyáambda ín'aawaa'ahlang
-     kyáambda ín+V+3PL+CONT: kyáambda ín'aawaa'ahlanggaa
-     kyáambda ín+V+3PL+CTFACT+PRES: kyáambda ín'aawaa'ahlanggang
-     kyáambda ín+V+3PL+RFLX: kyáambda ín'waa'ahl
-     kyáambda ín+V+3PL+FUT+RFLX+INTERR: kyáambda ín'waaäseehl
-     kyáambda ín+V+NEG+SG+IMPV: kyáambda ín'ang
-     kyáambda ín+V+NEG+IMM+PRES: kyáambda ín'angga
-     kyáambda ín+V+NEG+INTERR+SIMP+PRES: kyáambda ín'ang
-     kyáambda ín+V+NEG+SIMP+PRES: kyáambda ín'anggang
-     kyáambda ín+V+NEG+DIR+PAST: kyáambda ín'anggan
-     kyáambda ín+V+NEG+INTERR+PAST: kyáambda ín'aangaa
-     kyáambda ín+V+NEG+INDIR+PAST: kyáambda ín'aangaan
-     kyáambda ín+V+NEG+REL: kyáambda ín'ans
-     kyáambda ín+V+NEG+REL+EVID: kyáambda ín'aangaas
-     kyáambda ín+V+NEG+NONFACT: kyáambda ín'angang
-     kyáambda ín+V+NEG+PAST+NONFACT: kyáambda ín'aangaa.ang
-     kyáambda ín+V+NEG+INTERR+PRES+HAB: kyáambda ín'anggang
-     kyáambda ín+V+NEG+PRES+HAB: kyáambda ín.gang'anggang
-     kyáambda ín+V+NEG+PRES+HAB+NONFACT: kyáambda ín.gang'angang
-     kyáambda ín+V+NEG+DIR+PAST+HAB: kyáambda ín'anggiinii
-     kyáambda ín+V+NEG+INTERR+PAST+HAB: kyáambda ín'anggaangaa
-     kyáambda ín+V+NEG+INDIR+PAST+HAB: kyáambda ín'anggaangaan
-     kyáambda ín+V+NEG+INTERR+FUT+LONG: kyáambda ín'angäsaa
-     kyáambda ín+V+NEG+INTERR+FUT+SHORT: kyáambda ín'angäs
-     kyáambda ín+V+NEG+SIMP+FUT: kyáambda ín'angäsaang
-     kyáambda ín+V+NEG+IMM+FUT: kyáambda ín'angäsga
-     kyáambda ín+V+NEG+REL+FUT: kyáambda ín'angäsaas
-     kyáambda ín+V+NEG+FUT+NONFACT: kyáambda ín'angäsaa.ang
-     kyáambda ín+V+NEG+INTERR+NEAR+FUT: kyáambda ínang k̲asaa'áng
-     kyáambda ín+V+NEG+NEAR+FUT: kyáambda ínang k̲asaa'ánggang
-     kyáambda ín+V+NEG+INTERR+VNEAR+FUT: kyáambda ínang k̲asaasdlä'áng
-     kyáambda ín+V+NEG+VNEAR+FUT: kyáambda ínang k̲asaasdlä'ánggang
-     kyáambda ín+V+NEG+BIAS+IMM+PRES: kyáambda ín'ang'uuj
-     kyáambda ín+V+NEG+BIAS+SIMP+PRES: kyáambda ín'ang'uujang
-     kyáambda ín+V+NEG+RES: kyáambda ín'angäsaa'uujang
-     kyáambda ín+V+NEG+BIAS+INTERR+PRES: kyáambda ín'ang'us
-     kyáambda ín+V+NEG+BIAS+INTERR+PAST: kyáambda ín'ang'ujaa
-     kyáambda ín+V+NEG+BIAS+INTERR+PAST+HAB: kyáambda ín'ang'uujaangaa
-     kyáambda ín+V+NEG+BIAS+INTERR+FUT: kyáambda ín'angäsaa'us
-     kyáambda ín+V+NEG+CERT+PRES: kyáambda ín'aang'ahlanggang
-     kyáambda ín+V+NEG+CERT+PAST: kyáambda ín'aang'ahlanggan
-     kyáambda ín+V+NEG+CERT+PAST+HAB: kyáambda ín'aang'ahlanggiinii
-     kyáambda ín+V+NEG+CERT+FUT: kyáambda ín'angäsaa'ahlans
-     kyáambda ín+V+NEG+CERT+REL: kyáambda ín'aang'ahlans
-     kyáambda ín+V+NEG+INTS+PAST: kyáambda ín'aangaa'ahlang
-     kyáambda ín+V+NEG+CONT: kyáambda ín'aangaa'ahlanggaa
-     kyáambda ín+V+NEG+CTFACT+PRES: kyáambda ín'aangaa'ahlanggang
-     kyáambda ín+V+NEG+RFLX: kyáambda ín'aang'ahl
-     kyáambda ín+V+NEG+FUT+RFLX+INTERR: kyáambda ín'angäseehl
-     kyáambda ín+V+NEG+PL+IMPV: kyáambda ín'ang'uu
-     kyáambda ín+V+NEG+3PL+IMM+PRES: kyáambda ín'ang'waa
-     kyáambda ín+V+NEG+3PL+INTERR+SIMP+PRES: kyáambda ín'ang'waa
-     kyáambda ín+V+NEG+3PL+SIMP+PRES: kyáambda ín'ang'waang
-     kyáambda ín+V+NEG+3PL+DIR+PAST: kyáambda ín'ang'wägan
-     kyáambda ín+V+NEG+3PL+INTERR+PAST: kyáambda ín'ang'aawaa
-     kyáambda ín+V+NEG+3PL+INDIR+PAST: kyáambda ín'ang'aawaan
-     kyáambda ín+V+NEG+3PL+REL: kyáambda ín'ang'waas
-     kyáambda ín+V+NEG+3PL+REL+EVID: kyáambda ín'ang'aawaas
-     kyáambda ín+V+NEG+3PL+NONFACT: kyáambda ín'ang'waa.ang
-     kyáambda ín+V+NEG+3PL+PAST+NONFACT: kyáambda ín'ang'aawaa.ang
-     kyáambda ín+V+NEG+3PL+INTERR+PRES+HAB: kyáambda ín.gang'ang'waa
-     kyáambda ín+V+NEG+3PL+PRES+HAB: kyáambda ín.gang'ang'waang
-     kyáambda ín+V+NEG+3PL+PRES+HAB+NONFACT: kyáambda ín.gang'ang'waa.ang
-     kyáambda ín+V+NEG+3PL+DIR+PAST+HAB: kyáambda ín'ang'wägiinii
-     kyáambda ín+V+NEG+3PL+INTERR+PAST+HAB: kyáambda ín'ang'wägaangaa
-     kyáambda ín+V+NEG+3PL+INDIR+PAST+HAB: kyáambda ín'ang'wägaangaan
-     kyáambda ín+V+NEG+3PL+INTERR+FUT+LONG: kyáambda ín'ang'waaäsaa
-     kyáambda ín+V+NEG+3PL+INTERR+FUT+SHORT: kyáambda ín'ang'waaäs
-     kyáambda ín+V+NEG+3PL+SIMP+FUT: kyáambda ín'ang'waaäsaang
-     kyáambda ín+V+NEG+3PL+IMM+FUT: kyáambda ín'ang'waaäsga
-     kyáambda ín+V+NEG+3PL+REL+FUT: kyáambda ín'ang'waaäsaas
-     kyáambda ín+V+NEG+3PL+FUT+NONFACT: kyáambda ín'ang'waaäsaa.ang
-     kyáambda ín+V+NEG+3PL+INTERR+NEAR+FUT: kyáambda ín'waa.ang k̲asaa'áng
-     kyáambda ín+V+NEG+3PL+NEAR+FUT: kyáambda ín'waa.ang k̲asaa'ánggang
-     kyáambda ín+V+NEG+3PL+INTERR+VNEAR+FUT: kyáambda ín'waa.ang k̲asaasdlä'áng
-     kyáambda ín+V+NEG+3PL+VNEAR+FUT: kyáambda ín'waa.ang k̲asaasdlä'ánggang
-     kyáambda ín+V+NEG+3PL+BIAS+IMM+PRES: kyáambda ín'ang'waa'uuj
-     kyáambda ín+V+NEG+3PL+BIAS+SIMP+PRES: kyáambda ín'ang'waa'uujang
-     kyáambda ín+V+NEG+3PL+RES: kyáambda ín'ang'waaäsaa'uujang
-     kyáambda ín+V+NEG+3PL+BIAS+INTERR+PRES: kyáambda ín'ang'waa'us
-     kyáambda ín+V+NEG+3PL+BIAS+INTERR+PAST: kyáambda ín'ang'waa'ujaa
-     kyáambda ín+V+NEG+3PL+BIAS+INTERR+PAST+HAB: kyáambda ín'ang'waa'uujaangaa
-     kyáambda ín+V+NEG+3PL+BIAS+INTERR+FUT: kyáambda ín'ang'waaäsaa'us
-     kyáambda ín+V+NEG+3PL+CERT+PRES: kyáambda ín'ang'waa'ahlanggang
-     kyáambda ín+V+NEG+3PL+CERT+PAST: kyáambda ín'ang'waa'ahlanggan
-     kyáambda ín+V+NEG+3PL+CERT+PAST+HAB: kyáambda ín'ang'waa'ahlanggiinii
-     kyáambda ín+V+NEG+3PL+CERT+FUT: kyáambda ín'ang'waaäsaa'ahlans
-     kyáambda ín+V+NEG+3PL+CERT+REL: kyáambda ín'ang'waa'ahlans
-     kyáambda ín+V+NEG+3PL+INTS+PAST: kyáambda ín'ang'aawaa'ahlang
-     kyáambda ín+V+NEG+3PL+CONT: kyáambda ín'ang'aawaa'ahlanggaa
-     kyáambda ín+V+NEG+3PL+CTFACT+PRES: kyáambda ín'ang'aawaa'ahlanggang
-     kyáambda ín+V+NEG+3PL+RFLX: kyáambda ín'ang'waa'ahl
-     kyáambda ín+V+NEG+3PL+FUT+RFLX+INTERR: kyáambda ín'ang'waaäseehl
+     kyáambda ín+V+Sg+Impv: kyáambda ín
+     kyáambda ín+V+Imm+Pres: kyáambda ín.ga
+     kyáambda ín+V+Interr+Simp+Pres: kyáambda ín
+     kyáambda ín+V+Simp+Pres: kyáambda ín.gang
+     kyáambda ín+V+Dir+Past: kyáambda ín.gan
+     kyáambda ín+V+Rel: kyáambda íns
+     kyáambda ín+V+NonFact: kyáambda ínang
+     kyáambda ín+V+Interr+Pres+Hab: kyáambda ín.gang
+     kyáambda ín+V+Pres+Hab: kyáambda ín.ganggang
+     kyáambda ín+V+Pres+Hab+NonFact: kyáambda ín.gangang
+     kyáambda ín+V+Dir+Past+Hab: kyáambda ín.giinii
+     kyáambda ín+V+Interr+Past+Hab: kyáambda ín.gaangaa
+     kyáambda ín+V+Indir+Past+Hab: kyáambda ín.gaangaan
+     kyáambda ín+V+Interr+Fut+Long: kyáambda ínäsaa
+     kyáambda ín+V+Interr+Fut+Short: kyáambda ínäs
+     kyáambda ín+V+Simp+Fut: kyáambda ínäsaang
+     kyáambda ín+V+Imm+Fut: kyáambda ínäsga
+     kyáambda ín+V+Rel+Fut: kyáambda ínäsaas
+     kyáambda ín+V+Fut+NonFact: kyáambda ínäsaa.ang
+     kyáambda ín+V+Interr+Near+Fut: kyáambda ínang k̲asaʼáa
+     kyáambda ín+V+Near+Fut: kyáambda ínang k̲asaʼáang
+     kyáambda ín+V+Interr+VNear+Fut: kyáambda ínang k̲asaasdláa
+     kyáambda ín+V+VNear+Fut: kyáambda ínang k̲asaasdláang
+     kyáambda ín+V+Bias+Imm+Pres: kyáambda ínʼuuj
+     kyáambda ín+V+Bias+Simp+Pres: kyáambda ínʼuujang
+     kyáambda ín+V+Res: kyáambda ínäsaaʼuujang
+     kyáambda ín+V+Bias+Interr+Pres: kyáambda ínʼus
+     kyáambda ín+V+Bias+Interr+Past: kyáambda ínʼujaa
+     kyáambda ín+V+Bias+Interr+Past+Hab: kyáambda ínʼuujaangaa
+     kyáambda ín+V+Bias+Interr+Fut: kyáambda ínäsaaʼus
+     kyáambda ín+V+Cert+Fut: kyáambda ínäsaaʼahlans
+     kyáambda ín+V+Fut+Rflx+Interr: kyáambda ínäseehl
+     kyáambda ín+V+Pl+Impv: kyáambda ínʼuu
+     kyáambda ín+V+3pl+Imm+Pres: kyáambda ínʼwaa
+     kyáambda ín+V+3pl+Interr+Simp+Pres: kyáambda ínʼwaa
+     kyáambda ín+V+3pl+Simp+Pres: kyáambda ínʼwaang
+     kyáambda ín+V+3pl+Dir+Past: kyáambda ínʼwägan
+     kyáambda ín+V+3pl+Interr+Past: kyáambda ínʼaawaa
+     kyáambda ín+V+3pl+Indir+Past: kyáambda ínʼaawaan
+     kyáambda ín+V+3pl+Rel: kyáambda ínʼwaas
+     kyáambda ín+V+3pl+Rel+Evid: kyáambda ínʼaawaas
+     kyáambda ín+V+3pl+NonFact: kyáambda ínʼwaa.ang
+     kyáambda ín+V+3pl+Past+NonFact: kyáambda ínʼaawaa.ang
+     kyáambda ín+V+3pl+Interr+Pres+Hab: kyáambda ín.gangʼwaa
+     kyáambda ín+V+3pl+Pres+Hab: kyáambda ín.gangʼwaang
+     kyáambda ín+V+3pl+Pres+Hab+NonFact: kyáambda ín.gangʼwaa.ang
+     kyáambda ín+V+3pl+Dir+Past+Hab: kyáambda ínʼwägiinii
+     kyáambda ín+V+3pl+Interr+Past+Hab: kyáambda ínʼwägaangaa
+     kyáambda ín+V+3pl+Indir+Past+Hab: kyáambda ínʼwägaangaan
+     kyáambda ín+V+3pl+Interr+Fut+Long: kyáambda ínʼwaaäsaa
+     kyáambda ín+V+3pl+Interr+Fut+Short: kyáambda ínʼwaaäs
+     kyáambda ín+V+3pl+Simp+Fut: kyáambda ínʼwaaäsaang
+     kyáambda ín+V+3pl+Imm+Fut: kyáambda ínʼwaaäsga
+     kyáambda ín+V+3pl+Rel+Fut: kyáambda ínʼwaaäsaas
+     kyáambda ín+V+3pl+Fut+NonFact: kyáambda ínʼwaaäsaa.ang
+     kyáambda ín+V+3pl+Interr+Near+Fut: kyáambda ínʼwaa.ang k̲asaʼáa
+     kyáambda ín+V+3pl+Near+Fut: kyáambda ínʼwaa.ang k̲asaʼáang
+     kyáambda ín+V+3pl+Interr+VNear+Fut: kyáambda ínʼwaa.ang k̲asaasdláa
+     kyáambda ín+V+3pl+VNear+Fut: kyáambda ínʼwaa.ang k̲asaasdláang
+     kyáambda ín+V+3pl+Bias+Imm+Pres: kyáambda ínʼwaaʼuuj
+     kyáambda ín+V+3pl+Bias+Simp+Pres: kyáambda ínʼwaaʼuujang
+     kyáambda ín+V+3pl+Res: kyáambda ínʼwaaäsaaʼuujang
+     kyáambda ín+V+3pl+Bias+Interr+Pres: kyáambda ínʼwaaʼus
+     kyáambda ín+V+3pl+Bias+Interr+Past: kyáambda ínʼwaaʼujaa
+     kyáambda ín+V+3pl+Bias+Interr+Past+Hab: kyáambda ínʼwaaʼuujaangaa
+     kyáambda ín+V+3pl+Bias+Interr+Fut: kyáambda ínʼwaaäsaaʼus
+     kyáambda ín+V+3pl+Cert+Pres: kyáambda ínʼwaaʼahlanggang
+     kyáambda ín+V+3pl+Cert+Past: kyáambda ínʼwaaʼahlanggan
+     kyáambda ín+V+3pl+Cert+Past+Hab: kyáambda ínʼwaaʼahlanggiinii
+     kyáambda ín+V+3pl+Cert+Fut: kyáambda ínʼwaaäsaaʼahlans
+     kyáambda ín+V+3pl+Cert+Rel: kyáambda ínʼwaaʼahlans
+     kyáambda ín+V+3pl+Ints+Past: kyáambda ínʼaawaaʼahlang
+     kyáambda ín+V+3pl+Cont: kyáambda ínʼaawaaʼahlanggaa
+     kyáambda ín+V+3pl+Ctfact+Pres: kyáambda ínʼaawaaʼahlanggang
+     kyáambda ín+V+3pl+Rflx: kyáambda ínʼwaaʼahl
+     kyáambda ín+V+3pl+Fut+Rflx+Interr: kyáambda ínʼwaaäseehl
+     kyáambda ín+V+Neg+Sg+Impv: kyáambda ínʼang
+     kyáambda ín+V+Neg+Imm+Pres: kyáambda ínʼangga
+     kyáambda ín+V+Neg+Interr+Simp+Pres: kyáambda ínʼang
+     kyáambda ín+V+Neg+Simp+Pres: kyáambda ínʼanggang
+     kyáambda ín+V+Neg+Dir+Past: kyáambda ínʼanggan
+     kyáambda ín+V+Neg+Interr+Past: kyáambda ínʼaangaa
+     kyáambda ín+V+Neg+Indir+Past: kyáambda ínʼaangaan
+     kyáambda ín+V+Neg+Rel: kyáambda ínʼans
+     kyáambda ín+V+Neg+Rel+Evid: kyáambda ínʼaangaas
+     kyáambda ín+V+Neg+NonFact: kyáambda ínʼangang
+     kyáambda ín+V+Neg+Past+NonFact: kyáambda ínʼaangaa.ang
+     kyáambda ín+V+Neg+Interr+Pres+Hab: kyáambda ínʼanggang
+     kyáambda ín+V+Neg+Pres+Hab: kyáambda ín.gangʼanggang
+     kyáambda ín+V+Neg+Pres+Hab+NonFact: kyáambda ín.gangʼangang
+     kyáambda ín+V+Neg+Dir+Past+Hab: kyáambda ínʼanggiinii
+     kyáambda ín+V+Neg+Interr+Past+Hab: kyáambda ínʼanggaangaa
+     kyáambda ín+V+Neg+Indir+Past+Hab: kyáambda ínʼanggaangaan
+     kyáambda ín+V+Neg+Interr+Fut+Long: kyáambda ínʼangäsaa
+     kyáambda ín+V+Neg+Interr+Fut+Short: kyáambda ínʼangäs
+     kyáambda ín+V+Neg+Simp+Fut: kyáambda ínʼangäsaang
+     kyáambda ín+V+Neg+Imm+Fut: kyáambda ínʼangäsga
+     kyáambda ín+V+Neg+Rel+Fut: kyáambda ínʼangäsaas
+     kyáambda ín+V+Neg+Fut+NonFact: kyáambda ínʼangäsaa.ang
+     kyáambda ín+V+Neg+Interr+Near+Fut: kyáambda ínang k̲asaaʼáng
+     kyáambda ín+V+Neg+Near+Fut: kyáambda ínang k̲asaaʼánggang
+     kyáambda ín+V+Neg+Interr+VNear+Fut: kyáambda ínang k̲asaasdläʼáng
+     kyáambda ín+V+Neg+VNear+Fut: kyáambda ínang k̲asaasdläʼánggang
+     kyáambda ín+V+Neg+Bias+Imm+Pres: kyáambda ínʼangʼuuj
+     kyáambda ín+V+Neg+Bias+Simp+Pres: kyáambda ínʼangʼuujang
+     kyáambda ín+V+Neg+Res: kyáambda ínʼangäsaaʼuujang
+     kyáambda ín+V+Neg+Bias+Interr+Pres: kyáambda ínʼangʼus
+     kyáambda ín+V+Neg+Bias+Interr+Past: kyáambda ínʼangʼujaa
+     kyáambda ín+V+Neg+Bias+Interr+Past+Hab: kyáambda ínʼangʼuujaangaa
+     kyáambda ín+V+Neg+Bias+Interr+Fut: kyáambda ínʼangäsaaʼus
+     kyáambda ín+V+Neg+Cert+Pres: kyáambda ínʼaangʼahlanggang
+     kyáambda ín+V+Neg+Cert+Past: kyáambda ínʼaangʼahlanggan
+     kyáambda ín+V+Neg+Cert+Past+Hab: kyáambda ínʼaangʼahlanggiinii
+     kyáambda ín+V+Neg+Cert+Fut: kyáambda ínʼangäsaaʼahlans
+     kyáambda ín+V+Neg+Cert+Rel: kyáambda ínʼaangʼahlans
+     kyáambda ín+V+Neg+Ints+Past: kyáambda ínʼaangaaʼahlang
+     kyáambda ín+V+Neg+Cont: kyáambda ínʼaangaaʼahlanggaa
+     kyáambda ín+V+Neg+Ctfact+Pres: kyáambda ínʼaangaaʼahlanggang
+     kyáambda ín+V+Neg+Rflx: kyáambda ínʼaangʼahl
+     kyáambda ín+V+Neg+Fut+Rflx+Interr: kyáambda ínʼangäseehl
+     kyáambda ín+V+Neg+Pl+Impv: kyáambda ínʼangʼuu
+     kyáambda ín+V+Neg+3pl+Imm+Pres: kyáambda ínʼangʼwaa
+     kyáambda ín+V+Neg+3pl+Interr+Simp+Pres: kyáambda ínʼangʼwaa
+     kyáambda ín+V+Neg+3pl+Simp+Pres: kyáambda ínʼangʼwaang
+     kyáambda ín+V+Neg+3pl+Dir+Past: kyáambda ínʼangʼwägan
+     kyáambda ín+V+Neg+3pl+Interr+Past: kyáambda ínʼangʼaawaa
+     kyáambda ín+V+Neg+3pl+Indir+Past: kyáambda ínʼangʼaawaan
+     kyáambda ín+V+Neg+3pl+Rel: kyáambda ínʼangʼwaas
+     kyáambda ín+V+Neg+3pl+Rel+Evid: kyáambda ínʼangʼaawaas
+     kyáambda ín+V+Neg+3pl+NonFact: kyáambda ínʼangʼwaa.ang
+     kyáambda ín+V+Neg+3pl+Past+NonFact: kyáambda ínʼangʼaawaa.ang
+     kyáambda ín+V+Neg+3pl+Interr+Pres+Hab: kyáambda ín.gangʼangʼwaa
+     kyáambda ín+V+Neg+3pl+Pres+Hab: kyáambda ín.gangʼangʼwaang
+     kyáambda ín+V+Neg+3pl+Pres+Hab+NonFact: kyáambda ín.gangʼangʼwaa.ang
+     kyáambda ín+V+Neg+3pl+Dir+Past+Hab: kyáambda ínʼangʼwägiinii
+     kyáambda ín+V+Neg+3pl+Interr+Past+Hab: kyáambda ínʼangʼwägaangaa
+     kyáambda ín+V+Neg+3pl+Indir+Past+Hab: kyáambda ínʼangʼwägaangaan
+     kyáambda ín+V+Neg+3pl+Interr+Fut+Long: kyáambda ínʼangʼwaaäsaa
+     kyáambda ín+V+Neg+3pl+Interr+Fut+Short: kyáambda ínʼangʼwaaäs
+     kyáambda ín+V+Neg+3pl+Simp+Fut: kyáambda ínʼangʼwaaäsaang
+     kyáambda ín+V+Neg+3pl+Imm+Fut: kyáambda ínʼangʼwaaäsga
+     kyáambda ín+V+Neg+3pl+Rel+Fut: kyáambda ínʼangʼwaaäsaas
+     kyáambda ín+V+Neg+3pl+Fut+NonFact: kyáambda ínʼangʼwaaäsaa.ang
+     kyáambda ín+V+Neg+3pl+Interr+Near+Fut: kyáambda ínʼwaa.ang k̲asaaʼáng
+     kyáambda ín+V+Neg+3pl+Near+Fut: kyáambda ínʼwaa.ang k̲asaaʼánggang
+     kyáambda ín+V+Neg+3pl+Interr+VNear+Fut: kyáambda ínʼwaa.ang k̲asaasdläʼáng
+     kyáambda ín+V+Neg+3pl+VNear+Fut: kyáambda ínʼwaa.ang k̲asaasdläʼánggang
+     kyáambda ín+V+Neg+3pl+Bias+Imm+Pres: kyáambda ínʼangʼwaaʼuuj
+     kyáambda ín+V+Neg+3pl+Bias+Simp+Pres: kyáambda ínʼangʼwaaʼuujang
+     kyáambda ín+V+Neg+3pl+Res: kyáambda ínʼangʼwaaäsaaʼuujang
+     kyáambda ín+V+Neg+3pl+Bias+Interr+Pres: kyáambda ínʼangʼwaaʼus
+     kyáambda ín+V+Neg+3pl+Bias+Interr+Past: kyáambda ínʼangʼwaaʼujaa
+     kyáambda ín+V+Neg+3pl+Bias+Interr+Past+Hab: kyáambda ínʼangʼwaaʼuujaangaa
+     kyáambda ín+V+Neg+3pl+Bias+Interr+Fut: kyáambda ínʼangʼwaaäsaaʼus
+     kyáambda ín+V+Neg+3pl+Cert+Pres: kyáambda ínʼangʼwaaʼahlanggang
+     kyáambda ín+V+Neg+3pl+Cert+Past: kyáambda ínʼangʼwaaʼahlanggan
+     kyáambda ín+V+Neg+3pl+Cert+Past+Hab: kyáambda ínʼangʼwaaʼahlanggiinii
+     kyáambda ín+V+Neg+3pl+Cert+Fut: kyáambda ínʼangʼwaaäsaaʼahlans
+     kyáambda ín+V+Neg+3pl+Cert+Rel: kyáambda ínʼangʼwaaʼahlans
+     kyáambda ín+V+Neg+3pl+Ints+Past: kyáambda ínʼangʼaawaaʼahlang
+     kyáambda ín+V+Neg+3pl+Cont: kyáambda ínʼangʼaawaaʼahlanggaa
+     kyáambda ín+V+Neg+3pl+Ctfact+Pres: kyáambda ínʼangʼaawaaʼahlanggang
+     kyáambda ín+V+Neg+3pl+Rflx: kyáambda ínʼangʼwaaʼahl
+     kyáambda ín+V+Neg+3pl+Fut+Rflx+Interr: kyáambda ínʼangʼwaaäseehl
 
