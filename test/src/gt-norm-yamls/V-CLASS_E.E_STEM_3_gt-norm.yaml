@@ -11,45 +11,45 @@ Tests:
 
   Verb - k̲e.e - ENGLISH : # CLASS_E.E_STEM_3
 
-     k̲e.e+V+Sg+Impv: k̲e.ée
-     k̲e.e+V+Imm+Pres: k̲e.ée
-     k̲e.e+V+Interr+Simp+Pres: k̲e.ée
-     k̲e.e+V+Simp+Pres: k̲e.éeng
-     k̲e.e+V+Interr+Past: k̲e.éeyaa
-     k̲e.e+V+Indir+Past: k̲e.éeyaan
-     k̲e.e+V+Rel: k̲e.ées
-     k̲e.e+V+Rel+Evid: k̲e.éeyaas
-     k̲e.e+V+NonFact: k̲e.ée.ang
-     k̲e.e+V+Past+NonFact: k̲e.éeyaa.ang
-     k̲e.e+V+Interr+Fut+Long: k̲e.éeäsaa
-     k̲e.e+V+Interr+Fut+Short: k̲e.éeäs
-     k̲e.e+V+Simp+Fut: k̲e.éeäsaang
-     k̲e.e+V+Imm+Fut: k̲e.éeäsga
-     k̲e.e+V+Rel+Fut: k̲e.éeäsaas
-     k̲e.e+V+Fut+NonFact: k̲e.éeäsaa.ang
-     k̲e.e+V+Interr+Near+Fut: k̲e.ée.ang k̲asaʼáa
-     k̲e.e+V+Near+Fut: k̲e.ée.ang k̲asaʼáang
-     k̲e.e+V+Interr+VNear+Fut: k̲e.ée.ang k̲asaasdláa
-     k̲e.e+V+VNear+Fut: k̲e.ée.ang k̲asaasdláang
-     k̲e.e+V+Bias+Imm+Pres: k̲e.éeʼuuj
-     k̲e.e+V+Bias+Simp+Pres: k̲e.éeʼuujang
-     k̲e.e+V+Res: k̲e.éeäsaaʼuujang
-     k̲e.e+V+Bias+Interr+Pres: k̲e.éeʼus
-     k̲e.e+V+Bias+Interr+Past: k̲e.éeʼujaa
-     k̲e.e+V+Bias+Interr+Past+Hab: k̲e.éeʼuujaangaa
-     k̲e.e+V+Bias+Interr+Fut: k̲e.éeäsaaʼus
-     k̲e.e+V+Cert+Pres: k̲e.éeʼahlanggang
-     k̲e.e+V+Cert+Past: k̲e.éeʼahlanggan
-     k̲e.e+V+Cert+Past+Hab: k̲e.éeʼahlanggiinii
-     k̲e.e+V+Cert+Fut: k̲e.éeäsaaʼahlans
-     k̲e.e+V+Cert+Rel: k̲e.éeʼahlans
-     k̲e.e+V+Ints+Past: k̲e.éeyaaʼahlang
-     k̲e.e+V+Cont: k̲e.éeyaaʼahlanggaa
-     k̲e.e+V+Ctfact+Pres: k̲e.éeyaaʼahlanggang
-     k̲e.e+V+Rflx: k̲e.éeʼahl
-     k̲e.e+V+Fut+Rflx+Interr: k̲e.éeäseehl
-     k̲e.e+V+Neg+Interr+Near+Fut: k̲e.ée.ang k̲asaaʼáng
-     k̲e.e+V+Neg+Near+Fut: k̲e.ée.ang k̲asaaʼánggang
-     k̲e.e+V+Neg+Interr+VNear+Fut: k̲e.ée.ang k̲asaasdläʼáng
-     k̲e.e+V+Neg+VNear+Fut: k̲e.ée.ang k̲asaasdläʼánggang
+     k̲e.e+V+Sg+Impv: k̲eʼée
+     k̲e.e+V+Imm+Pres: k̲eʼée
+     k̲e.e+V+Interr+Simp+Pres: k̲eʼée
+     k̲e.e+V+Simp+Pres: k̲eʼéeng
+     k̲e.e+V+Interr+Past: k̲eʼéeyaa
+     k̲e.e+V+Indir+Past: k̲eʼéeyaan
+     k̲e.e+V+Rel: k̲eʼées
+     k̲e.e+V+Rel+Evid: k̲eʼéeyaas
+     k̲e.e+V+NonFact: k̲eʼée.ang
+     k̲e.e+V+Past+NonFact: k̲eʼéeyaa.ang
+     k̲e.e+V+Interr+Fut+Long: k̲eʼéeäsaa
+     k̲e.e+V+Interr+Fut+Short: k̲eʼéeäs
+     k̲e.e+V+Simp+Fut: k̲eʼéeäsaang
+     k̲e.e+V+Imm+Fut: k̲eʼéeäsga
+     k̲e.e+V+Rel+Fut: k̲eʼéeäsaas
+     k̲e.e+V+Fut+NonFact: k̲eʼéeäsaa.ang
+     k̲e.e+V+Interr+Near+Fut: k̲eʼée.ang k̲asaʼáa
+     k̲e.e+V+Near+Fut: k̲eʼée.ang k̲asaʼáang
+     k̲e.e+V+Interr+VNear+Fut: k̲eʼée.ang k̲asaasdláa
+     k̲e.e+V+VNear+Fut: k̲eʼée.ang k̲asaasdláang
+     k̲e.e+V+Bias+Imm+Pres: k̲eʼéeʼuuj
+     k̲e.e+V+Bias+Simp+Pres: k̲eʼéeʼuujang
+     k̲e.e+V+Res: k̲eʼéeäsaaʼuujang
+     k̲e.e+V+Bias+Interr+Pres: k̲eʼéeʼus
+     k̲e.e+V+Bias+Interr+Past: k̲eʼéeʼujaa
+     k̲e.e+V+Bias+Interr+Past+Hab: k̲eʼéeʼuujaangaa
+     k̲e.e+V+Bias+Interr+Fut: k̲eʼéeäsaaʼus
+     k̲e.e+V+Cert+Pres: k̲eʼéeʼahlanggang
+     k̲e.e+V+Cert+Past: k̲eʼéeʼahlanggan
+     k̲e.e+V+Cert+Past+Hab: k̲eʼéeʼahlanggiinii
+     k̲e.e+V+Cert+Fut: k̲eʼéeäsaaʼahlans
+     k̲e.e+V+Cert+Rel: k̲eʼéeʼahlans
+     k̲e.e+V+Ints+Past: k̲eʼéeyaaʼahlang
+     k̲e.e+V+Cont: k̲eʼéeyaaʼahlanggaa
+     k̲e.e+V+Ctfact+Pres: k̲eʼéeyaaʼahlanggang
+     k̲e.e+V+Rflx: k̲eʼéeʼahl
+     k̲e.e+V+Fut+Rflx+Interr: k̲eʼéeäseehl
+     k̲e.e+V+Neg+Interr+Near+Fut: k̲eʼée.ang k̲asaaʼáng
+     k̲e.e+V+Neg+Near+Fut: k̲eʼée.ang k̲asaaʼánggang
+     k̲e.e+V+Neg+Interr+VNear+Fut: k̲eʼée.ang k̲asaasdläʼáng
+     k̲e.e+V+Neg+VNear+Fut: k̲eʼée.ang k̲asaasdläʼánggang
 

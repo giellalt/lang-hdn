@@ -12,20 +12,20 @@ Tests:
   Verb - k̲ʼíinaan - ENGLISH : # CLASS_AAN
 
      k̲ʼíinaan+V+Sg+Impv: k̲ʼíinaan
-     k̲ʼíinaan+V+Imm+Pres: k̲ʼíinaan.ga
+     k̲ʼíinaan+V+Imm+Pres: k̲ʼíinaan-ga
      k̲ʼíinaan+V+Interr+Simp+Pres: k̲ʼíinaan
-     k̲ʼíinaan+V+Simp+Pres: k̲ʼíinaan.gang
-     k̲ʼíinaan+V+Dir+Past: k̲ʼíinaan.gan
-     k̲ʼíinaan+V+Interr+Past: k̲ʼíinaan.gaa
+     k̲ʼíinaan+V+Simp+Pres: k̲ʼíinaan-gang
+     k̲ʼíinaan+V+Dir+Past: k̲ʼíinaan-gan
+     k̲ʼíinaan+V+Interr+Past: k̲ʼíinaan-gaa
      k̲ʼíinaan+V+Indir+Past: k̲ʼíinaanaan
      k̲ʼíinaan+V+Rel: k̲ʼíinaans
      k̲ʼíinaan+V+Rel+Evid: k̲ʼíinaanaas
      k̲ʼíinaan+V+NonFact: k̲ʼíinaanang
      k̲ʼíinaan+V+Past+NonFact: k̲ʼíinaanaa.ang
-     k̲ʼíinaan+V+Interr+Pres+Hab: k̲ʼíinaan.gang
-     k̲ʼíinaan+V+Pres+Hab: k̲ʼíinaan.ganggang
-     k̲ʼíinaan+V+Pres+Hab+NonFact: k̲ʼíinaan.gangang
-     k̲ʼíinaan+V+Dir+Past+Hab: k̲ʼíinaan.giinii
+     k̲ʼíinaan+V+Interr+Pres+Hab: k̲ʼíinaan-gang
+     k̲ʼíinaan+V+Pres+Hab: k̲ʼíinaan-ganggang
+     k̲ʼíinaan+V+Pres+Hab+NonFact: k̲ʼíinaan-gangang
+     k̲ʼíinaan+V+Dir+Past+Hab: k̲ʼíinaan-giinii
      k̲ʼíinaan+V+Interr+Past+Hab: k̲ʼíinaanaangaa
      k̲ʼíinaan+V+Indir+Past+Hab: k̲ʼíinaanaangaan
      k̲ʼíinaan+V+Interr+Fut+Long: k̲ʼíinaanäsaa
@@ -66,9 +66,9 @@ Tests:
      k̲ʼíinaan+V+3pl+Rel+Evid: k̲ʼíinaanʼaawaas
      k̲ʼíinaan+V+3pl+NonFact: k̲ʼíinaanʼwaa.ang
      k̲ʼíinaan+V+3pl+Past+NonFact: k̲ʼíinaanʼaawaa.ang
-     k̲ʼíinaan+V+3pl+Interr+Pres+Hab: k̲ʼíinaan.gangʼwaa
-     k̲ʼíinaan+V+3pl+Pres+Hab: k̲ʼíinaan.gangʼwaang
-     k̲ʼíinaan+V+3pl+Pres+Hab+NonFact: k̲ʼíinaan.gangʼwaa.ang
+     k̲ʼíinaan+V+3pl+Interr+Pres+Hab: k̲ʼíinaan-gangʼwaa
+     k̲ʼíinaan+V+3pl+Pres+Hab: k̲ʼíinaan-gangʼwaang
+     k̲ʼíinaan+V+3pl+Pres+Hab+NonFact: k̲ʼíinaan-gangʼwaa.ang
      k̲ʼíinaan+V+3pl+Dir+Past+Hab: k̲ʼíinaanʼwägiinii
      k̲ʼíinaan+V+3pl+Interr+Past+Hab: k̲ʼíinaanʼwägaangaa
      k̲ʼíinaan+V+3pl+Indir+Past+Hab: k̲ʼíinaanʼwägaangaan
@@ -111,8 +111,8 @@ Tests:
      k̲ʼíinaan+V+Neg+NonFact: k̲ʼíinaanʼangang
      k̲ʼíinaan+V+Neg+Past+NonFact: k̲ʼíinaanʼaangaa.ang
      k̲ʼíinaan+V+Neg+Interr+Pres+Hab: k̲ʼíinaanʼanggang
-     k̲ʼíinaan+V+Neg+Pres+Hab: k̲ʼíinaan.gangʼanggang
-     k̲ʼíinaan+V+Neg+Pres+Hab+NonFact: k̲ʼíinaan.gangʼangang
+     k̲ʼíinaan+V+Neg+Pres+Hab: k̲ʼíinaan-gangʼanggang
+     k̲ʼíinaan+V+Neg+Pres+Hab+NonFact: k̲ʼíinaan-gangʼangang
      k̲ʼíinaan+V+Neg+Dir+Past+Hab: k̲ʼíinaanʼanggiinii
      k̲ʼíinaan+V+Neg+Interr+Past+Hab: k̲ʼíinaanʼanggaangaa
      k̲ʼíinaan+V+Neg+Indir+Past+Hab: k̲ʼíinaanʼanggaangaan
@@ -154,9 +154,9 @@ Tests:
      k̲ʼíinaan+V+Neg+3pl+Rel+Evid: k̲ʼíinaanʼangʼaawaas
      k̲ʼíinaan+V+Neg+3pl+NonFact: k̲ʼíinaanʼangʼwaa.ang
      k̲ʼíinaan+V+Neg+3pl+Past+NonFact: k̲ʼíinaanʼangʼaawaa.ang
-     k̲ʼíinaan+V+Neg+3pl+Interr+Pres+Hab: k̲ʼíinaan.gangʼangʼwaa
-     k̲ʼíinaan+V+Neg+3pl+Pres+Hab: k̲ʼíinaan.gangʼangʼwaang
-     k̲ʼíinaan+V+Neg+3pl+Pres+Hab+NonFact: k̲ʼíinaan.gangʼangʼwaa.ang
+     k̲ʼíinaan+V+Neg+3pl+Interr+Pres+Hab: k̲ʼíinaan-gangʼangʼwaa
+     k̲ʼíinaan+V+Neg+3pl+Pres+Hab: k̲ʼíinaan-gangʼangʼwaang
+     k̲ʼíinaan+V+Neg+3pl+Pres+Hab+NonFact: k̲ʼíinaan-gangʼangʼwaa.ang
      k̲ʼíinaan+V+Neg+3pl+Dir+Past+Hab: k̲ʼíinaanʼangʼwägiinii
      k̲ʼíinaan+V+Neg+3pl+Interr+Past+Hab: k̲ʼíinaanʼangʼwägaangaa
      k̲ʼíinaan+V+Neg+3pl+Indir+Past+Hab: k̲ʼíinaanʼangʼwägaangaan

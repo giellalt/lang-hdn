@@ -749,7 +749,7 @@ gajgad:gajg CLASS-AD "for S to try their best to please O" ;
 galagúng:galag CLASS-UNG "for S (pl) {ga} to fall through the air" ;
 gangáa CLASS-AA "for S to be (measure) thick (comparative)" ;
 gatagáa CLASS-AA "for S to have had something eat part of it, to be partly eaten by something" ;
-gatáa+VAL/A:gatáa CLASS-AA "for S to eat" ;
+gatáa:gatáa CLASS-AA "for S to eat" ;
 gatáa% dlaahlaláng:gatáa% dlaahlalá CLASS-ANG "for S (pl) to eat one by one" ;
 gatáada:gatáad CLASS-A "for S to feed C" ;
 gatáawaa CLASS-AA "for S to be some kind of fork" ;
@@ -7366,7 +7366,7 @@ skyaala:skyaal CLASS-A "for S to be stunted and a have a single black mark [said
 skyáada:skyáad CLASS-A "for S to turn O [said of a threaded object, such as a screw or lid]" ;
 skyáadä% g̲asdla:skyáadä% g̲asdl CLASS-A "for S to open O [said of containers with a threaded lid]" ;
 skyáadä% g̲asgad:skyáadä% g̲asg CLASS-AD "for S to close O [said of containers with a threaded lid]" ;
-skyáahl:skyáahl CLASS-AAHL "for S to be lucky [said of a man or of hunting/fishing tools (but not a gun)]" ;
+skyáahl:skyáa CLASS-AAHL "for S to be lucky [said of a man or of hunting/fishing tools (but not a gun)]" ;
 skyáana:skyáan CLASS-A "for S to be awake, stay awake, stay awake to keep watch (on X)" ;
 skyáanaa% ʼlaʼáaygaa CLASS-AA "for S to be a watchman" ;
 skyáanaaga:skyáanaag CLASS-A "for S to habitually stay awake, be an insomniac" ;

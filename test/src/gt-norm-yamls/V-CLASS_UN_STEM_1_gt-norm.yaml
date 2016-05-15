@@ -12,18 +12,18 @@ Tests:
   Verb - ta kún - ENGLISH : # CLASS_UN_STEM_1
 
      ta kún+V+Sg+Impv: ta kún
-     ta kún+V+Imm+Pres: ta kún.ga
+     ta kún+V+Imm+Pres: ta kún-ga
      ta kún+V+Interr+Simp+Pres: ta kún
-     ta kún+V+Simp+Pres: ta kún.gang
-     ta kún+V+Dir+Past: ta kún.gan
+     ta kún+V+Simp+Pres: ta kún-gang
+     ta kún+V+Dir+Past: ta kún-gan
      ta kún+V+Rel: ta kúns
      ta kún+V+NonFact: ta kúnang
-     ta kún+V+Interr+Pres+Hab: ta kún.gang
-     ta kún+V+Pres+Hab: ta kún.ganggang
-     ta kún+V+Pres+Hab+NonFact: ta kún.gangang
-     ta kún+V+Dir+Past+Hab: ta kún.giinii
-     ta kún+V+Interr+Past+Hab: ta kún.gaangaa
-     ta kún+V+Indir+Past+Hab: ta kún.gaangaan
+     ta kún+V+Interr+Pres+Hab: ta kún-gang
+     ta kún+V+Pres+Hab: ta kún-ganggang
+     ta kún+V+Pres+Hab+NonFact: ta kún-gangang
+     ta kún+V+Dir+Past+Hab: ta kún-giinii
+     ta kún+V+Interr+Past+Hab: ta kún-gaangaa
+     ta kún+V+Indir+Past+Hab: ta kún-gaangaan
      ta kún+V+Interr+Fut+Long: ta kúnäsaa
      ta kún+V+Interr+Fut+Short: ta kúnäs
      ta kún+V+Simp+Fut: ta kúnäsaang
@@ -54,9 +54,9 @@ Tests:
      ta kún+V+3pl+Rel+Evid: ta kúnʼaawaas
      ta kún+V+3pl+NonFact: ta kúnʼwaa.ang
      ta kún+V+3pl+Past+NonFact: ta kúnʼaawaa.ang
-     ta kún+V+3pl+Interr+Pres+Hab: ta kún.gangʼwaa
-     ta kún+V+3pl+Pres+Hab: ta kún.gangʼwaang
-     ta kún+V+3pl+Pres+Hab+NonFact: ta kún.gangʼwaa.ang
+     ta kún+V+3pl+Interr+Pres+Hab: ta kún-gangʼwaa
+     ta kún+V+3pl+Pres+Hab: ta kún-gangʼwaang
+     ta kún+V+3pl+Pres+Hab+NonFact: ta kún-gangʼwaa.ang
      ta kún+V+3pl+Dir+Past+Hab: ta kúnʼwägiinii
      ta kún+V+3pl+Interr+Past+Hab: ta kúnʼwägaangaa
      ta kún+V+3pl+Indir+Past+Hab: ta kúnʼwägaangaan
@@ -99,8 +99,8 @@ Tests:
      ta kún+V+Neg+NonFact: ta kúnʼangang
      ta kún+V+Neg+Past+NonFact: ta kúnʼaangaa.ang
      ta kún+V+Neg+Interr+Pres+Hab: ta kúnʼanggang
-     ta kún+V+Neg+Pres+Hab: ta kún.gangʼanggang
-     ta kún+V+Neg+Pres+Hab+NonFact: ta kún.gangʼangang
+     ta kún+V+Neg+Pres+Hab: ta kún-gangʼanggang
+     ta kún+V+Neg+Pres+Hab+NonFact: ta kún-gangʼangang
      ta kún+V+Neg+Dir+Past+Hab: ta kúnʼanggiinii
      ta kún+V+Neg+Interr+Past+Hab: ta kúnʼanggaangaa
      ta kún+V+Neg+Indir+Past+Hab: ta kúnʼanggaangaan
@@ -142,9 +142,9 @@ Tests:
      ta kún+V+Neg+3pl+Rel+Evid: ta kúnʼangʼaawaas
      ta kún+V+Neg+3pl+NonFact: ta kúnʼangʼwaa.ang
      ta kún+V+Neg+3pl+Past+NonFact: ta kúnʼangʼaawaa.ang
-     ta kún+V+Neg+3pl+Interr+Pres+Hab: ta kún.gangʼangʼwaa
-     ta kún+V+Neg+3pl+Pres+Hab: ta kún.gangʼangʼwaang
-     ta kún+V+Neg+3pl+Pres+Hab+NonFact: ta kún.gangʼangʼwaa.ang
+     ta kún+V+Neg+3pl+Interr+Pres+Hab: ta kún-gangʼangʼwaa
+     ta kún+V+Neg+3pl+Pres+Hab: ta kún-gangʼangʼwaang
+     ta kún+V+Neg+3pl+Pres+Hab+NonFact: ta kún-gangʼangʼwaa.ang
      ta kún+V+Neg+3pl+Dir+Past+Hab: ta kúnʼangʼwägiinii
      ta kún+V+Neg+3pl+Interr+Past+Hab: ta kúnʼangʼwägaangaa
      ta kún+V+Neg+3pl+Indir+Past+Hab: ta kúnʼangʼwägaangaan

@@ -6985,11 +6985,11 @@ LEXICON CLASS-AHL-INFL !!= @CODE@
 +Res:%>%^ENDCäsáaʼuujang # ;
 +Simp+Fut:%>%^ENDCäsáang # ;
 +Sg+Impv:%>%^ENDC # ;
-+Cert+Past:%>%^ENDDʼahlánggan # ;
-+Cert+Past+Hab:%>%^ENDDʼahlánggiinii # ;
-+Cert+Pres:%>%^ENDDʼahlánggang # ; 
-+Cert+Rel:%>%^ENDDʼahláns # ; 
-+Rflx:%>%^ENDDʼahl # ;
++Cert+Past:%>%^ENDEʼahlánggan # ;
++Cert+Past+Hab:%>%^ENDEʼahlánggiinii # ;
++Cert+Pres:%>%^ENDEʼahlánggang # ; 
++Cert+Rel:%>%^ENDEʼahláns # ; 
++Rflx:%>%^ENDEʼahl # ;
 +Imm+Pres:%>%^ENDFga # ;
 +Simp+Pres:%>%^ENDGgáng # ;
 +Interr+Near+Fut:%>%^ENDHáng% k̲asaʼáa # ;
