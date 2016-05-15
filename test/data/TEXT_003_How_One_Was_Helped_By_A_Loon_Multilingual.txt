@@ -1,0 +1,1977 @@
+!! How One was Helped by a Loon
+!! Swanton page 93 = 353
+!! Optimized for Haida spellchecker, with big underlines g̲k̲x̲ and curly apostʼrophes
+!! Version -- May 15, 2016
+
+
+\cit 003:001
+\swa Qaik! lnagaˊ-i gᵘ nᴀñ īˊłiña x̣ūˊᴀdjî da xᴀˊlaᵋāˊ-iyagan lʼ hit!ᴀˊn-īnaˊs ʟ̣ū ᴀ.
+\mod K̲áaykʼ ʼlan-gáay gu nang íihlangaa xúuj da x̲aláa g̲áayaagaan, ʼll hatʼán ináas dluu aa.
+\eng At Qaik! lived a man who had been a very good grisly-bear hunter when he was young.
+\src 0353:03
+
+\cit 003:002
+\swa Lʼ ʟ!dagīˊ-īgañan. 
+\mod ʼLl tlʼadáa gíigaangaan.
+\eng He always killed them.
+\src 0353:04
+
+\cit 003:003
+\swa ʟēł tc!îˊnłᴀwañ; stᴀˊnsîñ lʼ tc!îˊnłᴀwañ. 
+\mod Tléehl tsʼánhlaawaan; stánsang ʼll tsʼánhlaawaan.
+\eng Sometimes he shot five; sometimes he shot four.
+\src 0353:05
+
+\cit 003:004
+\swa Hîn lʼ wᴀgīˊ-īgañan. 
+\mod Hín ʼll ʼwáa gíigaangaan.
+\eng He kept on doing it.
+\src 0353:06
+
+\cit 003:005
+\swa Wᴀˊgiên ᵋa-i lʼ q!aiyᵋēˊlan.
+\mod ʼWáagyaan g̲íi ʼll k̲ʼáyʼeelaan.
+\eng And he grew old in (the profession).
+\src 0353:07
+
+\cit 003:006
+\swa Waˊʟ̣u Qaik! lnagaˊ-i gᵘ gᴀm lagᵃ ʟ! gīˊdᵋañūgañan. 
+\mod ʼWáadluu k̲áykʼ ʼLan-gáay gw gám ʼláa gä tlʼ gíidaʼangʼugaangaan.
+\eng Then they did not give food to him at the town of Qaik!.
+\src 0353:08
+
+\cit 003:007
+\swa Waˊʟ̣u ʟᴀgᴀˊnłañē lʼ tc!îˊte-îdan x̣ūˊᴀdjî dᴀ giagᵘ lʼ îˊsīgᴀñ-gañan ᵋa ᴀ. 
+\mod ʼWáadluu tlagánhlangee ʼll tsʼatéedaan, xúuwajii dä gyáagw ʼll isigánggaangaan g̲aa aa.
+\eng And he went to live in an uninhabited place where he used to hunt grisly bear.
+\src 0353:09
+
+\cit 003:008
+\swa Djaˊᵋᴀñ ᴀł lʼ stᴀˊñyak!agan.
+\mod Jáaʼang ahl ʼll sdáng yahkʼáagaan.
+\eng He and his wife were the only two there.
+\src 0353:10
+
+\cit 003:009
+\swa Wᴀgiêˊn gᵘ lʼ isāˊᵋawan. 
+\mod ʼWáagyaan gu ʼll isáaʼaawaan.
+\eng And there they continued to live.
+\src 0353:11
+
+\cit 003:010
+\swa Na-i wᴀgᵘ lᵋāˊña k!ūˊdagīgañan. 
+\mod Náay ʼwáa gw ʼláangaa kʼúudaa gíigaangaan.
+\eng His house always stood there.
+\src 0353:12
+
+\cit 003:011
+\swa Gᴀm gîn tāˊłiñē qäñgāˊñan. 
+\mod Gám gin táa hlangée k̲éenggaaʼaangaan.
+\eng Nothing that they might eat was to be seen.
+\src 0353:13
+
+\cit 003:012
+\swa Tāˊwē hīˊlawan. 
+\mod Táawaay híilaawaan.
+\eng The food was consumed.
+\src 0353:14
+
+\cit 003:013
+\swa Tcaˊʼa-wᵋełs ʟ̣ū k!iū sᵋōˊnan lʼ łᵃāˊ-igañan.
+\mod Chaawéehls dluu, kʼyúu sg̲únaan ʼll hlg̲áygaangaan.
+\eng When the tide was low, she dug clams.
+\src 0353:15
+
+\cit 003:014
+\swa Wᴀˊgiên qēgᵘ x̣ᴀˊdjuwa-i ᵋa-i k!īˊwē lʼ x̣ᴀsūˊgañan k!aˊga dᴀˊñᴀłan îˊsîn. 
+\mod ʼWáagyaan k̲igw xajuwáay g̲íi kʼyuwáay ʼll xasúugaangaan, kʼáagä dángahlan isán.
+\eng Then she put the large (Saxidomus squalidus) and the small clams into a little basket.
+\src 0353:16
+
+\cit 003:015
+\swa Wᴀˊ-giên dᴀˊñᴀł lʼ qāˊgalgañan. 
+\mod ʼWáagyaan dángahl ʼll k̲áagalgaangaan.
+\eng And she went up to the house with them.
+\src 0353:17
+
+\cit 003:016
+\swa Gᴀm lʼ st!aˊdaᵋañgañan. 
+\mod Gám ʼll stʼahdáaʼanggaangaan.
+\eng It (the basket) was not full.
+\src 0353:18
+
+\cit 003:017
+\swa Wᴀˊgiên tc!āˊanusi lʼ x̣ᴀˊîsigañan. 
+\mod ʼWáagyaan tsʼáanuus ii ʼll xa_isíigaangaan.
+\eng And she put them into the fire.
+\src 0353:19
+
+\cit 003:018
+\swa Lʼ djā ʟ!ao ʟīˊdᴀgwiᴀgan.
+\mod ʼLl jáa tlʼaa uu tlíi daguyáagaan.
+\eng His wife was strong.
+\src 0353:20
+
+\cit 003:019
+\swa Lᴀ ʟ!ao ᵋagāˊlan. 
+\mod ʼLáa tlʼaa uu g̲agáalaan.
+\eng He, however, was weak.
+\src 0353:21
+
+\cit 003:020
+\swa ᵋaˊlᴀnsʟasi giên ʟāˊ-lᴀñ xētgᵘ lʼ îˊsdagañan.
+\mod g̲aalánsdlaas ii gyaan, tláalang x̲idgw ʼll isdagáangaan.
+\eng When they were cooked, she set them before her husband.
+\src 0353:22
+
+\cit 003:021
+\swa Wᴀˊgiên lʼ dōˊsi giên lʼ ʟᴀgudᴀˊnsi giên lʼ tāˊ-āgan.
+\mod ʼWáagyaan ʼll dúus ii gyaan, ʼll tlagwdángs ii gyaan, ʼll táagaan.
+\eng Then he took them, felt of them, and ate.
+\src 0353:23
+
+\cit 003:022
+\swa Lʼ taˊᵋodjusi giên q!al lʼ djā gîn ᵋa-i îsdaˊs giên kiagᵃ lʼ îˊsdagañan. 
+\mod ʼLl táa g̲ujúus ii gyaan, k̲ʼál ʼll jáa gin g̲íi isdáas gyaan, kyáaga ʼll isdagáangaan.
+\eng After he had eaten all, his wife put the shells into something and set them outside.
+\src 0353:24
+
+\cit 003:023
+\swa Sîˊñias giên ʟāˊlᴀñ ga ᵋᴀnʟ̣ îˊsdagīs stʼ lʼ tēˊ-k!wᴀnsʟgañan.
+\mod Sángyaas gyaan tláalang gä g̲ándl isdä gíis sdä, ʼll tíi_kʼwánsdlagaangaan.
+\eng When evening came, and she had given her husband water, they went to bed.
+\src 0353:25
+
+!! Swanton page 94 = 354
+
+\cit 003:024
+\swa Wᴀˊgiên tc!āˊanuwē la q!ātgᵘx̣aˊodᵋōgañan.
+\mod ʼWáagyaan tsʼáanuwaay ʼláa k̲ʼadgw xáwdaʼugaangaan.
+\eng And there was a little fire in front of them.
+\src 0354:01
+
+\cit 003:025
+\swa Wᴀˊdaalēkᵘ lʼ tīˊyañᵋū qaod saˊnʟ̣ans giên qēˊgu tc!îˊqōna lʼ untcīˊidañan.
+\mod ʼWáa daalíigw ʼll tíiyaangʼuu k̲áwd, sáandlaans gyaan, k̲igw cha_k̲úunaa ʼll ún_chiidáangaan.
+\eng Next day, after they had lain abed for a while, and morning had dawned, she put a large basket on her back.
+\src 0354:02
+
+\cit 003:026
+\swa Q!oˊdju lʼ qēx̣uˊstᴀ ᵋᴀn lʼ īˊdjañan. 
+\mod k̲ʼúujuu ʼll k̲íi xúusdä g̲an ʼll íijaangaan.
+\eng She went to find decayed bark on rotten trees.
+\src 0354:03
+
+\cit 003:027
+\swa Lʼ staˊdasi giên lʼ uˊntciîdañan. 
+\mod ʼLl stahdáas ii gyaan, ʼll ún_chiidáangaan.
+\eng When it (the basket) was full, she put it on her back.
+\src 0353:04
+
+\cit 003:028
+\swa Wᴀˊgiên lʼ qāˊʟ!agañan. 
+\mod ʼWáagyaan ʼll k̲áatlʼaagaangaan.
+\eng Then she came home.
+\src 0354:05
+
+\cit 003:029
+\swa Wᴀˊgiên sîˊñias giên lʼ tēˊsʟaᵋōgañan.
+\mod ʼWáagyaan sángyaas gyaan, ʼll tíisdläʼugaangaan.
+\eng And at evening they went to bed.
+\src 0354:06
+
+\cit 003:030
+\swa Wᴀˊgiên lʼ tēˊyañwas ʟ̣ū hîn djaˊᵋᴀñ lʼ sūˊdaian, “Dᴀñ wāˊnasᵋaˊs ʟ̣ū āˊdjgui ʟ! gwāˊsañgᵃ. 
+\mod ʼWáagyaan ʼll tíiyaangʼwaas dluu, hín jáaʼang ʼll súudaayaan, "Dáng ʼwáanaasʼaas dluu, áajgwii tlʼ gwáasaanggaa.
+\eng And after they had gone to bed, he said to his wife, "When you go after clams, look for something over there" (indicating the direction with his hand).
+\src 0353:07
+
+\cit 003:031
+\swa Āˊdjgui hᴀn îsîˊn ʟ! gwāˊsañgī-īga.” 
+\mod Áajgwii hánïsan tlʼ gwáasaang gíigaa.
+\eng "Also keep looking for something over there."
+\src 0354:08
+
+\cit 003:032
+\swa Wᴀˊgiên lʼ wāˊnasᵋaian.
+\mod ʼWáagyaan ʼll ʼwáanaasʼaayaan.
+\eng Then she went for clams.
+\src 0354:09
+
+\cit 003:033
+\swa Wᴀˊgiên la lʼ sūdaiˊan gîñaˊn āˊdjgui lʼ qêˊñgwañan. 
+\mod ʼWáagyaan ʼláa ʼll súudaayaan gingáan áajgwii ʼll k̲éenggwaangaan.
+\eng And she looked around where he had directed her.
+\src 0354:10
+
+\cit 003:034
+\swa Āˊdjgui hᴀn îˊsîn lʼ qêˊñgañan. 
+\mod Áajgwii hánïsan ʼll k̲éenggaangaan.
+\eng She also looked in the other place.
+\src 0354:11
+
+\cit 003:035
+\swa Waˊʟ̣u k!īwēˊ lʼ łᵋāˊ-igañan.
+\mod ʼWáadluu kʼyuwáay ʼll hlg̲áaygaangaan.
+\eng Then she dug the clams.
+\src 0354:12
+
+\cit 003:036
+\swa Hawaˊn lʼ qêˊñgᴀndan x̣udj giaˊns lʼ qäˊñᴀn. 
+\mod Hawáan ʼll k̲ínggan dáan, xúuj gyáangs ʼll k̲éengaan.
+\eng As she was digging, she saw a grisly bear standing there.
+\src 0354:13
+\note Translation seems a bit off.
+
+\cit 003:037
+\swa Waˊʟ̣u ʟ!ao hit!ᴀˊn ʟāˊlᴀñ ᵋa lʼ kîˊndaian. 
+\mod ʼWáadluu tlʼaa uu hatʼán tláalang g̲aa ʼll kíndaayaan.
+\eng But then she told her husband.
+\src 0354:14
+
+\cit 003:038
+\swa Lʼ qatc!aˊs ʟ̣ū, “Āˊdjgua x̣ūdj qāˊʟ!añgua,” hîn ʟāˊlᴀñ lʼ sūdaiˊan.
+\mod ʼLl k̲atsʼáas dluu, "Áajgwaa xúuj k̲áatlʼaʼaang gwaa," hín tláalang ʼll súudaayaan.
+\eng When she entered, she said to her husband, "Over yonder there is a grisly bear coming out of the woods."
+\src 0354:15
+
+\cit 003:039
+\swa “La gu daˊhōñus.” 
+\mod "ʼLáa gw dahúngʼus?"
+\eng "Is it near?"
+\src 0354:16
+
+\cit 003:040
+\swa Wᴀˊgiên lagᵃ lʼ āˊñan. 
+\mod ʼWáagyaan ʼláa gä ʼll áangaan.
+\eng She said it was.
+\src 0354:17
+
+\cit 003:041
+\swa “ʟ̣djigao ł dīgᵃ îˊsdi,” hîn djaˊᵋᴀñ lʼ sūdaiˊan. 
+\mod "Dlajgáaw hl díi gä isdíi," hín jáaʼang ʼll súudaayaan.
+\eng "Give me a belt," he said to his wife.
+\src 0354:18
+
+\cit 003:042
+\swa Waˊʟ̣u hit!ᴀˊn qwaˊa-i lagᵃ lʼ djā îsdaˊs ʟ̣ū ᵋᴀñ lʼ ʟ̣ˊdjigusʟaian.
+\mod ʼWáadluu hatʼán k̲wáay ʼláa gä ʼll jáa isdáas dluu, áng ʼll dlajgusdláayaan.
+\eng And when she had given him a piece of cord, he girded himself.
+\src 0354:19
+
+\cit 003:043
+\swa “Łᵋēˊdē ł dīgᵃ dīˊna îˊsda tc!īˊdalᴀña-i hᴀn îˊsîn,” hîn djāˊᵋᴀñ lʼ sūdaiˊan.
+\mod "Hlg̲íidaay hl díi gä díinaa isdáa, tsʼatʼalangáay hánïsan," hín jáaʼang ʼll súudaayaan.
+\eng "Give me my bow and arrows," he said to his wife.
+\src 0354:20
+
+\cit 003:044
+\swa Wᴀˊgiên sa łᵋēˊdē lᵋāˊña idjaˊni. 
+\mod ʼWáagyaan sáa hlg̲íidaay ʼláangaa ijáan ii.
+\eng His bow was hanging up.
+\src 0354:21
+
+\cit 003:045
+\swa Wᴀˊgiên lʼ djā dᴀñxāˊst!aalan giên lagᵃ lʼ îˊsdaian. 
+\mod ʼWáagyaan ʼll jáa dáng_x̲astʼáalaan gyaan, ʼláa gä ʼll isdáayaan.
+\eng And when his wife had pulled it down, she gave it to him.
+\src 0354:22
+
+\cit 003:046
+\swa Wᴀˊgiên “Tc!îˊdalᴀñē sq!aˊstᴀñ hīk!aˊ ł hᴀˊłgwīgᵃ îˊsda,” hîn djāˊᵋᴀñ lʼ sūdaiˊan. 
+\mod ʼWáagyaan, "Tsʼatʼalangáay sk̲ʼáasdang hikʼáa hl hahlgwíi gä isdáa," hín jáaʼang ʼll súudaayaan.
+\eng Then he said to his wife, "Bring me two arrows only."
+\src 0354:23
+
+\cit 003:047
+\swa Wᴀˊgiên sq!aˊstᴀñ lagᵃ lʼ xāˊsʟaian. 
+\mod ʼWáagyaan sk̲ʼáasdang ʼláa gä ʼll x̲asdláayaan.
+\eng And she handed him two.
+\src 0354:24
+
+\cit 003:048
+\swa “Ha-i gᴀm gᵘ laᵋa dᴀñ ł ᵋᴀˊlʟ̣te-îtłiñan,” hîn ʟāˊlᴀñ lʼ sūdaiˊan. 
+\mod "Háay gám gw ʼláa g̲áadang Hl g̲ál_dladíid hlangaan," hín tláalang ʼll súudaayaan.
+\eng "Now shall I lead you?" she said to her husband.
+\src 0354:25
+
+\cit 003:049
+\swa “Ditᴀgwaˊ-i-i ł dī ᵋᴀˊlʟ̣dalan.
+\mod "Didgwáay hl díi g̲ál_dladáalaan.
+\eng "Lead me to the woods.
+\src 0354:26
+
+\cit 003:050
+\swa Sq!āˊño îsîˊn ł wᴀ îñgᵘ tc!îˊdalᴀña-i sq!ᴀˊłan ᵋᴀn t!ᴀˊsq!aʟañ kun sq!astᴀˊnsîñ ᴀ,” hîn djāˊᵋāñ lʼ sūdaiˊan. 
+\mod Sk̲ʼáangw isán hl ʼwáa ínggw tsʼatʼalangáay sk̲ʼahláan g̲an tʼa_sk̲ʼáalaang, kún sk̲ʼáa stánsang aa," hín jáaʼang ʼll súudaayaan.
+\eng Also break a two-pointed stick on which to place the arrows," he said to his wife.
+\src 0354:27
+\note Translation seems off here.
+
+\cit 003:051
+\swa Wᴀˊgiên hit!ᴀˊn qēˊdē qāˊłgut la lʼ îˊsdalᵋawan.
+\mod ʼWáagyaan hatʼán k̲íidaay k̲áahlguud ʼláa ʼll isdáalʼaawaan.
+\eng Then they went together into the woods.
+\src 0354:28
+
+\cit 003:052
+\swa Wᴀˊgiên lʼ giaˊns la dīˊtgu lʼ îˊsʟ!aᵋawan. 
+\mod ʼWáagyaan ʼll gyáangs ʼláa didgw ʼll istlʼáaʼaawaan.
+\eng And they came behind the place where it (the bear) stood.
+\src 0354:29
+
+\cit 003:053
+\swa Wᴀgiêˊn gᵘ lʼ ʟ!aˊoᵋawan.
+\mod ʼWáagyaan gu ʼll tlʼáawʼaawaan.
+\eng And they sat down there.
+\src 0354:30
+
+
+!! Swanton page 95 = 355
+
+\cit 003:054
+\swa Waˊʟ̣u ʟ!ao hîn djāˊᵋᴀñ lʼ sūdaiˊan “Sq!āˊñwē ł aʟ̣n gīˊtc!a. 
+\mod ʼWáadluu tlʼaa uu hín jáaʼang ʼll súudaayaan, "Sk̲ʼáangwaay hl áatlʼan gíitsʼaa.
+\eng But then he said to his wife, "Push the stick down here.
+\src 0355:01
+
+\cit 003:055
+\swa Lʼ giêˊns yä ł îˊsda,” hîn djāˊᵋᴀñ lʼ sūdaiˊan. 
+\mod ʼLl gyáangs yáa hl isdáa," hín jáaʼang ʼll súudaayaan.
+\eng Place it directly opposite the place where it is standing."
+\src 0355:02
+
+\cit 003:056
+\swa Wᴀˊgiên anᴀˊñ īˊłiña q!ēˊyas łᵋēˊdē ᴀˊñᵋa lʼ xagāˊñan. 
+\mod ʼWáagyaan a nang íihlangaa k̲ʼayáas angáa ʼll x̲áagaangaan.
+\eng And the old man held his bow in his hands.
+\src 0355:03
+
+\cit 003:057
+\swa Waˊʟ̣u hit!ᴀˊn “Aˊdji îñgᵘ ł tc!îˊdalᴀña-i sq!ᴀˊłina la yä ł kuˊndjudañ,” hîn djāˊᵋᴀñ lʼ sūdaiˊan. 
+\mod ʼWáadluu hatʼán, "Áajii ínggw hl tsʼatʼalangáay sk̲ʼahlänáa ʼláa yáa hl kúnjuudaang," hín jáaʼang ʼll súudaayaan.
+\eng Then he said to his wife, "Aim the arrow straight at it between the two points."
+\src 0355:04
+
+\cit 003:058
+\swa Wᴀˊgiên wᴀ îñgᵘ lʼ sq!ᴀˊłnagan. 
+\mod ʼWáagyaan ʼwáa ínggw ʼll sk̲ʼahlänáagaan.
+\eng And she put it between them.
+\src 0355:05
+
+\cit 003:059
+\swa Waˊʟ̣u hit!ᴀˊn dᴀ lʼ dᴀˊnteitsi ʟ̣ū wᴀˊgiên “Waiˊya-a lᵋāˊña îˊsîn lagᵃ lʼ sūs ʟ̣ū lʼ ʟîˊk!ataian.
+\mod ʼWáadluu hatʼán dä ʼll dáng tíids ii dluu, ʼwáagyaan, "Wáay yáa ʼláangaa isán ʼláa gä ʼll súus dluu, ʼll tla_kʼáatʼaayaan.
+\eng After he had drawn the bowstring, and she had said to him, "It is aimed exactly right," he let it go.
+\src 0355:06
+\note Not clear where the quoted material ends -- missing closing quote in Swanton original
+
+\cit 003:060
+\swa Wᴀˊgiên q!āˊtgui lʼ ᵋāˊsᴀgᴀñasᵋaian.
+\mod ʼWáagyaan k̲ʼadgwíi ʼll g̲aasagangaasʼaayaan
+\eng Then (the bear) ran towards the sea.
+\src 0355:07
+
+\cit 003:061
+\swa Lʼ ʟik!āˊtas ʟ̣ū lʼ ᵋei āˊdawasi ʟ̣ū, “Hū dī īnaˊdals ʟ̣ū x̣ūˊᴀdj ł tc!igīˊni gîñaˊn ł ᵋāˊndᴀñgᴀñ,” hîn lʼ sāˊwan. 
+\mod ʼLl tla_kʼáatʼaas dluu, ʼll g̲íi áadaawaas ii dluu, "Húu! Díi ináadaals dluu xúuwajii Hl tsʼagíinii gingáan Hl g̲áandanggang," hín ʼll sáawaan.
+\eng When he let go, (the arrow) went through it, and he said, "Hū! I feel as I used to when I shot a grisly bear in my youth."
+\src 0355:08
+
+\cit 003:062
+\swa “Hao lᴀ  dᴀñ ᵋaˊʟ̣ao stᴀʼdāˊlgᴀñ. 
+\mod "Húu ʼláa dáng g̲aatlʼaaw stahdáalgang.
+\eng His wife said to him, "You missed it, bad one!
+\src 0355:09
+
+\cit 003:063
+\swa Hao lʼ ᵋāˊtagᴀlgᴀña,” hîn lʼ djā lʼ sūdaiˊan. 
+\mod Húu ʼll g̲áataagalgangaa," hín ʼll jáa ʼll súudaayaan.
+\eng It ran into the woods."
+\src 0355:10
+
+\cit 003:064
+\swa La lʼ x̣îˊᵋot!ᴀłdaian. 
+\mod ʼLáa ʼll xi_g̲utʼahldáayaan.
+\eng She pushed him down.
+\src 0355:11
+
+\cit 003:065
+\swa Wᴀˊgiên lʼ ʟ̣āˊst!aian.
+\mod ʼWáagyaan ʼll dláastʼaayaan.
+\eng Then he fell on his back.
+\src 0355:12
+
+\cit 003:066
+\swa Wᴀˊgien ʟa-aˊ gᵘ lʼ ʟ̣ūˊdagañan.
+\mod ʼWáagyaan tlʼaa gu ʼll dlúudägaangaan.
+\eng And he lay there a long time.
+\src 0355:13
+
+\cit 003:067
+\swa ʟāˊlᴀñ lʼ gîñqōˊnañan. 
+\mod Tláalang ʼll gíng_k̲úunaangaan.
+\eng She had lied to her husband.
+\src 0355:14
+
+\cit 003:068
+\swa Gᵘ lʼ ʟ̣ūˊdasi
+t!ał lʼ djā la qasᵋaiˊan. 
+\mod Gu ʼll dlúudaas ii tʼáahl, ʼll jáa ʼláa k̲áasʼaayaan.
+\eng While he lay there, his wife went down to it.
+\src 0355:15
+
+\cit 003:069
+\swa Xūˊᴀdji k!ōˊt!alani. 
+\mod Xúuwajii kʼutʼáalaan ii.
+\eng The grisly bear was dead.
+\src 0355:16
+
+\cit 003:070
+\swa Waˊʟ̣u lʼ ʟāl q!ałūˊs ʟ̣ū, lagᵃ lʼ kīˊagañîdan. 
+\mod ʼWáadluu ʼll tláal k̲ʼáahluus dluu, ʼláa gä ʼll kyáagaangʼidaan.
+\eng And when her husband got up he began to call to her.
+\src 0355:17
+
+\cit 003:071
+\swa Wᴀˊgiên lagᵃ lʼ kiaˊgans giên gᴀm lʼ añsᵋwāˊnᴀñᵋañan.
+\mod ʼWáagyaan ʼláa gä ʼll kyáagangs gyaan, gám ʼll áng sg̲wáanangʼaangaan.
+\eng And when he called to her, she did not reply.
+\src 0355:18
+
+\cit 003:072
+\swa ʟ̣āˊlᴀñ gᵃ lʼ gwaˊgālan. 
+\mod Tláalang gä ʼll gwáagaalaan.
+\eng She abandoned her husband.
+\src 0355:19
+
+\cit 003:073
+\swa Waˊʟ̣u la lʼ q!eˊitʟ̣sʟas ʟ̣ū nagᵃ la lʼ q!ēˊłᴀñîdan.
+\mod ʼWáadluu ʼláa ʼll k̲ʼíid dlasdláas dluu, náagä ʼláa ʼll k̲ʼíihlangidaan.
+\eng And after she had cut it up, she began to bring it into the house.
+\src 0355:20
+
+\cit 003:074
+\swa La lʼ uˊnłᴀñgañan. 
+\mod ʼLáa ʼll ún_hlánggaangaan
+\eng She put it on her back.
+\src 0355:21
+
+\cit 003:075
+\swa Wᴀˊk!iał lʼ ʟāl lagᵃ kiäˊgañgañan. 
+\mod ʼWáakʼyaahl ʼll tláal ʼláa gä kyáagaanggaangaan.
+\eng Meanwhile her husband was calling to her.
+\src 0355:22
+\note Original English for these last two Haida lines: While she was putting it on her back, her husband was calling to her.
+
+\cit 003:076
+\swa Wᴀˊgiên lêˊstᴀ kīˊlᴀñ lʼ sᵋāˊlgañan. 
+\mod ʼWáagyaan ʼléesdä kíilang ʼll sg̲álgaangaan.
+\eng And she hid her voice from him.
+\src 0355:23
+
+\cit 003:077
+\swa Wᴀˊgiên nagᵃ lᵋāˊña lʼ ᵋoˊstᴀtc!adaiani.
+\mod ʼWáagyaan náagä ʼláangaa ʼll g̲usdatsʼädáayaan ii.
+\eng Then she brought all of the meat into the house.
+\src 0355:24
+
+\cit 003:078
+\swa Wᴀˊgiên lʼ ʟāl lagᵃ kiāˊ-āgañgañgan.
+\mod ʼWáagyaan ʼll tláal ʼláa gä kyáagaanggaangaan.
+\eng And her husband called about for her.
+\src 0355:25
+
+\cit 003:079
+\swa Wᴀˊgiên sîˊñiaiyᴀn. 
+\mod ʼWáagyaan sángyaayaan.
+\eng Then evening came.
+\src 0355:26
+
+\cit 003:080
+\swa Wᴀgiêˊn gᵘ lʼ q!ᴀo qaod ᵋāˊlga-iᵋēłs lʼ ᵋāˊndañan. 
+\mod ʼWáagyaan gu ʼll k̲ʼáw k̲áwd, g̲áalgeeʼeehls ʼll g̲áandaangaan.
+\eng And after he had sat there for a while, he perceived that night had come on.
+\src 0355:27
+
+\cit 003:081
+\swa Waˊʟ̣u hit!ᴀˊn ʟᴀq!oaˊnᴀn lʼ ʟūgwāˊñedan.
+\mod ʼWáadluu hatʼán tlak̲ʼwáanaan ʼll tlúu_gwáangiidaan.
+\eng Then he crept about in the woods.
+\src 0355:28
+\note Translation??
+
+\cit 003:082
+\swa Wᴀˊgiên ʟan lʼ kiäˊgañan. 
+\mod ʼWáagyaan tláan ʼll kyáagaangaan.
+\eng And he stopped calling.
+\src 0355:29
+
+\cit 003:083
+\swa Hawaˊn lʼ ʟiᵋūñgwᴀˊñgᴀndan k!iūˊ ᵋᴀn lʼ ʟūˊʟ!agan.
+\mod Hawáan ʼll tlaʼúnggwaanggan dáan, kʼyúu g̲an ʼll tlúutlʼaagaan.
+\eng While he was creeping about, he crept to a trail.
+\src 0355:30
+
+\cit 003:084
+\swa Łᵋēˊdē giagᵘ la lʼ tc!îˊgangwan lʼ dāˊñani. 
+\mod Hlg̲íidaay gyáagw ʼláa ʼll tsʼagángwaan ʼll dáangaan ii.
+\eng He left the bow where he had shot.
+\src 0355:31
+
+\cit 003:085
+\swa Waˊʟ̣u k!iwēˊ gut lʼ ʟ!ūˊwe-îdani.
+\mod ʼWáadluu kʼyuwáay gúud ʼll tlʼúuweeʼidaan ii.
+\eng Then he began to crawl along the trail.
+\src 0355:32
+
+\cit 003:086
+\swa Dītgᵃ lʼ îs ᵋᴀn gᴀm lʼ uˊnsᴀdaᵋañan.
+\mod Didgä ʼll is g̲an, gám ʼll únsadaaʼaangaan.
+\eng He did not know that he was crawling into the woods.
+\src 0355:33
+
+!! Swanton page 96 = 356
+
+\cit 003:087
+\swa Hawaˊn lʼ ʟ̣ūˊgᴀndan tcān gᵃ lʼ sʟ!ē lᵋāˊña xawīˊgaian. 
+\mod Hawáan ʼll dlúugan dáan, cháan gä ʼll stláay ʼláangaa x̲awíigaayaan.
+\eng After he had crept along for a while, his hands went into water.
+\src 0356:01
+
+\cit 003:088
+\swa Wᴀˊgiên lʼ qōˊkᵘdañan. 
+\mod ʼWáagyaan ʼll k̲ugwdáangaan.
+\eng And he tasted it.
+\src 0356:02
+
+\cit 003:089
+\swa “Tᴀˊño îˊsîñ,” lʼ gudāˊñan.
+\mod "Táng uu íisang," ʼll gudáangaan.
+\eng "It is salt water," he thought.
+\src 0356:03
+\note Either a weird typo for íijang, or one of those surmising-hypothetical-deductive suffixes
+
+\cit 003:090
+\swa Wᴀˊgiên ᵋᴀˊnʟ̣agan. 
+\mod ʼWáagyaan g̲ándlaagaan.
+\eng And it was fresh water.
+\src 0356:04
+
+\cit 003:091
+\swa Waˊʟ̣u ʟ!ao āˊdji da lʼ xadjūˊgañan. 
+\mod ʼWáadluu tlʼaa uu áajii dä ʼll x̲ajúugaangaan.
+\eng Then he wanted to feel of it.
+\src 0356:05
+
+\cit 003:092
+\swa Gîn giaˊñ lʼ ʟ!ᴀˊgudañan. 
+\mod Gin gyáang ʼll tlʼagwdaangaan.
+\eng He crept to something standing (that is, a tree).
+\src 0356:06
+
+\cit 003:093
+\swa Wᴀˊgiên ʟᴀˊk!alañ lʼ ᵋāˊndᴀns ʟ̣ū gᵘ lʼ q!āˊwan. 
+\mod ʼWáagyaan tlakʼáalaang ʼll g̲áandangs dluu, gu ʼll k̲ʼáawaan.
+\eng And when he felt himself under the shelter of its branches, he sat down there.
+\src 0356:07
+
+\cit 003:094
+\swa Ao ʟīˊ-īsi ʟ̣ū lʼ sᵋāˊ-iłaian. 
+\mod Áa uu tlíis ii dluu, ʼll sg̲áyhlaayaan.
+\eng At this time he wept.
+\src 0356:08
+
+\cit 003:095
+\swa Lʼ sᵋāˊ-iłas, lʼ sᵋāˊ-iłas. 
+\mod ʼLl sg̲áyhlaas, ʼll sg̲áyhlaas.
+\eng He wept, wept.
+\src 0356:09
+
+\cit 003:096
+\swa Lʼ sᵋāˊ-ił qaod lʼ tēˊgan.
+\mod ʼLl sg̲áyhlä k̲áwd, ʼll tíigaan.
+\eng After he had wept for a while, he lay down.
+\src 0356:10
+
+\cit 003:097
+\swa Lʼ tēˊgᴀndan îˊngua ᵋaguiˊ xetîˊt kîˊndaiᴀn. 
+\mod ʼLl tíigan dáan, íinggwaa g̲agwíi x̲itʼíid kíndaayaan.
+\eng Just as he lay down, far away on the other side a bird called.
+\src 0356:11
+
+\cit 003:098
+\swa Tāʟ̣ū sāˊwan. 
+\mod Táadl uu sáawaan.
+\eng It was a Loon that cried.
+\src 0356:12
+
+\cit 003:099
+\swa Waˊʟ̣u sūwēˊ yūˊᴀnsi lʼ ᵋāˊndañan. 
+\mod ʼWáadluu súuwaay íiwaans ii ʼll g̲áandaangaan.
+\eng Then he perceived that the lake was large.
+\src 0356:13
+
+\cit 003:100
+\swa Waˊʟ̣u ᴀłdjīˊ lʼ gudᴀˊn-ndi qaod aāˊnan îsîˊn lʼ kîndaiˊan. 
+\mod ʼWáadluu ahljíi ʼll gudándii k̲áwd, aʼáanaan isán ʼll kíndaayaan,
+\eng And after he had listened for this for a while, it called nearer.
+\src 0356:14
+
+\cit 003:101
+\swa Waˊʟ̣u lʼ ʟ̣ūˊᴀdagᴀndan lʼ xetgᵘ gūˊdᴀñagan.
+\mod ʼWáadluu ʼll dlúuwadaagan dáan ʼll x̲idgw gudangáagaan.
+\eng And as he lay there it was heard below him.
+\src 0356:15
+
+\cit 003:102
+\swa Wᴀgiêˊn lʼ ʟ̣îˊgadadjan lʼ xetgᵘ ᴀ.
+\mod ʼWáagyaan ʼll dlagadáajaan, ʼll x̲idgw aa.
+\eng Then it came out of the water below him.
+\src 0356:16
+\note Interesting use of ʼll instead of ʼláa here.
+
+\cit 003:103
+\swa Waˊʟ̣u hîn anᴀˊñ xāˊdas tāˊʟ̣ē sūdaiˊan “Dīˊgu-ē ł qāˊʟ̣ī.” 
+\mod ʼWáadluu hín a nang x̲aadáas táadlaay súudaayaan, "Díi gwee hl k̲áadlii."
+\eng At that time the Loon said to this man, "Get on my back."
+\src 0356:17
+
+\cit 003:104
+\swa Wᴀˊgiên la lʼ ᵋoˊdalsᵋaian. 
+\mod ʼWáagyaan ʼláa ʼll g̲udáalsʼaayaan.
+\eng And he crawled down to it.
+\src 0356:18
+
+\cit 003:105
+\swa Wᴀˊgiên la lʼ ʟîˊgudᴀñgañan.
+\mod ʼWáagyaan ʼláa ʼll tlagwdánggaangaan.
+\eng And he felt of it.
+\src 0356:19
+
+\cit 003:106
+\swa “Lʼ tc!ūˊdju-idᴀn.  
+\mod "ʼLl tsʼúujuuʼiidang.
+\eng "It is too small.
+\src 0356:20
+
+\cit 003:107
+\swa Laᵋa ł t!ᴀˊdjaʟ̣adaasañ,” hîn lʼ gudāˊñan.
+\mod ʼLáa g̲aa Hl tʼajáadlaadaaäsaang," hín ʼll gudáangaan.
+\eng I shall sink on it," he thought.
+\src 0353:21
+\note Original English for the last two lines: He thought, "It is too small. I shall sink on it."
+
+\cit 003:108
+\swa Waˊʟu āˊnᴀñ xāˊdas gudᴀñaˊ-i lʼ qêˊñgañan. 
+\mod ʼWáadluu áa nang x̲aadáas gudangáay ʼll k̲éenggaangaan.
+\eng Then it saw this person's thought.
+\src 0353:22
+
+\cit 003:109
+\swa Waˊʟ̣u “Gaˊano gᴀm tcān dī dᴀñ tᴀˊʟ̣łᴀgañasañ.
+\mod ʼWáadluu, "Gáaʼanuu, gám cháan díi dáng ta_dlahlagáangaasaang.
+\eng Then, "No, indeed! You will not sink under water with me.
+\src 0356:23
+
+\cit 003:110
+\swa Qāʟ̣īˊ ła,” hîn taʟ̣ēˊ sāˊwan. 
+\mod k̲áadlii hlaa," hín tadláay sáawaan. 
+\eng Get upon me," the Loon said.
+\src 0356:24
+\note Original English for the last two lines: Then the Loon said, "No, indeed! You will not sink under water with me. Get upon me."
+
+\cit 003:111
+\swa Waˊʟ̣u ʟ!ao hao îsîˊn la lʼ ʟᴀgudāˊñgaian.
+\mod ʼWáadluu tlʼaa uu háwïsan ʼláa ʼll tlagwdáangaayaan.
+\eng So he felt of it again.
+\src 0356:25
+
+\cit 003:112
+\swa Waˊʟ̣u hit!ᴀˊn la îˊñgui lʼ t!ᴀˊt!ᴀłdaian.
+\mod ʼWáadluu hatʼán ʼláa ínggwii ʼll tʼa_tʼahldáayaan.
+\eng Then he stepped upon it.
+\src 0356:26
+
+\cit 003:113
+\swa Wᴀˊgiên gᴀm lʼ tcāˊʟ̣adaᵋañan. 
+\mod ʼWáagyaan gám ʼll cháadlaadaaʼaangaan.
+\eng And it did not sink.
+\src 0356:27
+
+\cit 003:114
+\swa ʟū yūˊᴀn gîñaˊn lʼ ʟāˊdjigagan. 
+\mod Tlúu íiwaan gingáan ʼll tláatsʼägaagaan.
+\eng It was as strong as a big canoe.
+\src 0356:28
+
+\cit 003:115
+\swa Wᴀˊgiên la îñgᵘ lʼ q!āˊwan. 
+\mod ʼWáagyaan ínggw ʼll k̲ʼáawaan.
+\eng And he sat upon it.
+\src 0356:29
+\note Swanton line was missing the period here.
+
+\cit 003:116
+\swa “Dī t!āˊwun qāˊłi ya ł tcanᴀˊnsgᴀt,” hîn la lʼ sūdaiˊan. 
+\mod "Díi tʼáawun k̲áahlii yáa hl cháanansgad," hín ʼláa ʼll súudaayaan.
+\eng "Put your head under my feathers," it said to him.
+\src 0356:30
+
+\cit 003:117
+\swa Wᴀˊgiên t!āˊwun xetiˊt la lʼ ᴀˊnłtc!aian.
+\mod ʼWáagyaan tʼáawun x̲idíid ʼláa ʼll ánhlätsʼaayaan.
+\eng And he put his head under the feathers.
+\src 0356:31
+
+\cit 003:118
+\swa “Dīgᵃ ł agᴀˊñ sq!ōˊʟ̣t!ᴀsyuanᴀn,” hîn la lʼ sudaiˊan. 
+\mod "Díi gä hl agáng sk̲ʼáwdlätʼas íiwaanan," hín ʼláa ʼll súudaayaan.
+\eng "Put your arms around me," it said to him.
+\src 0356:32
+
+\cit 003:119
+\swa Wᴀˊgiên lagᵃ agᴀˊñ lʼ sq!oˊʟ̣sgadan. 
+\mod ʼWáagyaan ʼláa gä agáng ʼll sk̲ʼáwdläsgaadaan.
+\eng And he put his arms around it.
+\src 0356:33
+
+\cit 003:120
+\swa “Dᴀñ qagᴀˊndjuᵋaˊʼgałs ʟ̣ū ł dī q!ᴀl xāˊłdañ,” hîn la lʼ kîˊñgugᴀnʟdjawan.
+\mod "Dáng k̲agánjuu g̲ahgahls dluu hl, díi k̲ʼál x̲áahldaang," hín ʼláa ʼll kínggwgang dläjáawaan.
+\eng It instructed him, (saying,) "When your throat gets tired, scratch my skin."
+\src 0356:34
+
+\cit 003:121
+\swa Waˊʟ̣u ʟ!ao lʼ kîˊndaiᴀn.  
+\mod ʼWáadluu tlʼaa uu ʼll kíndaayaan.
+\eng But then it cried.
+\src 0356:35
+\note Swanton original was missing the final period here.
+
+\cit 003:122
+\swa “Wa-a-a hō!” hîn lʼ kîˊndaʟdjawan.
+\mod "Wáa háw!" hín ʼll kíndaa dlajáawaan.
+\eng "Wa-a-a hō!" it cried.
+\src 0356:36
+
+\cit 003:123
+\swa Wᴀˊgiên lʼ ᵋāˊʟāgan. 
+\mod ʼWáagyaan ʼll g̲áatlʼaagaan.
+\eng And it dived.
+\src 0356:37
+
+\cit 003:124
+\swa Wᴀˊgiên sūˊwē yūˊᴀnsi k!iên ᵋadōˊ lᴀ dᴀˊñᴀł lʼ gīˊgan.
+\mod ʼWáagyaan suwáay íiwaans ii kʼyaan, g̲adúu ʼláa dángahl ʼll gíigaan.
+\eng And although the lake was big, it swam around with him.
+\src 0356:38
+
+!! Swanton page 97 = 357
+
+\cit 003:125
+\swa Wᴀˊgiên lʼ gīs, lʼ gīs, lʼ gīs. 
+\mod ʼWáagyaan ʼll gíis, ʼll gíis, ʼll gíis.
+\eng And it swam, it swam, it swam-m.
+\src 0357:01
+
+\cit 003:126
+\swa Giaˊgᵘ lʼ q!aˊowaiyan gᵘ lᴀ dᴀˊñᴀł lˊ ʟ̣îˊgadadjan. 
+\mod Gyáagw ʼll k̲ʼáwaayaan gw ʼláa dángahl ʼll dlagáadaajaan.
+\eng It came out with him where the man had been sitting.
+\src 0357:02
+
+\cit 003:127
+\swa Gᴀm la lʼ xāˊłdaᵋañan. 
+\mod Gám ʼláa ʼll x̲áahldäʼaangaan.
+\eng He did not scratch it.
+\src 0357:03
+
+\cit 003:128
+\swa Lʼ qagᴀˊndju hawᴀˊn ʟāˊdjigagān.
+\mod ʼLl k̲agánjuu hawáan tláatsʼägaagaan.
+\eng His throat was still strong.
+\src 0357:04
+
+\cit 003:129
+\swa Lʼ ʟ̣îˊgadadjan ʟ̣ū hîn la lʼ sūdaiˊan, “K!wē ł gᴀm qeˊîłᵋañ.” 
+\mod ʼLl dlagáadaajaan dluu, hín ʼláa ʼll súudaayaan, "Kʼwáay hl gám k̲éehläʼang."
+\eng When it came out, it said to him, "Don't look up."
+\src 0357:05
+
+\cit 003:130
+\swa Wᴀgîñaˊn ū lʼ ᵋedaˊn. 
+\mod ʼWáa gingáan uu ʼll g̲éedaan.
+\eng He obeyed.
+\src 0357:06
+
+\cit 003:131
+\swa Waˊʟ̣u haˊoîsîn lᴀ dᴀˊñᴀł lʼ ᵋāˊʟaᵋᴀñqasagan. 
+\mod ʼWáadluu háwsan ʼláa dángahl ʼll g̲áadlaaʼang k̲asaʼáayaan.
+\eng Then it again went down with him.
+\src 0357:07
+\note Translation seems off.  Also, we changed -gaan to -yaan here to make the FST happy, but we should update.
+
+\cit 003:132
+\swa Taʟ̣ēˊ qagᴀˊndju dᴀˊ-
+guiᵋēłs ʟ̣ū haˊoîsîn lʼ kîˊndaian. 
+\mod Tadláay k̲aǵanjuu daguyéehls dluu, háwsan ʼll kíndaayaan.
+\eng When the Loon's throat became strong, it called again.
+\src 0357:08
+
+\cit 003:133
+\swa “Wa-a
+hao!” hîn lʼ kîñāˊñan. 
+\mod "Wáa háw!" hín ʼll kingáangaan.
+\eng "Wa-a-a ho!" it called.
+\src 0357:09
+
+\cit 003:134
+\swa Waˊʟ̣u ʟ!ao hit!ᴀˊn lʼ ᵋāˊʟ!agan. 
+\mod ʼWáadluu tlʼaa uu hatʼán ʼll g̲áatlʼaagaan.
+\eng At once it dived.
+\src 0357:10
+
+\cit 003:135
+\swa Waˊʟ̣u haˊoîsîn sūwēˊ ᵋadōˊ la dᴀˊñᴀł lʼ gaˊ-idᴀn. 
+\mod ʼWáadluu háwsan suwáay g̲adúu ʼláa dángahl ʼll gáaydaan.
+\eng Then it again swam around the lake with him.
+\src 0357:11
+
+\cit 003:136
+\swa Wᴀˊgiên haˊoîsîn îʼsîn lʼ q!awaiˊan xetgᵘ lʼ ʟ̣gadadjan. 
+\mod ʼWáagyaan háwsan isán ʼll k̲ʼáwaayaan x̲idgw ʼll dlagáadaajaan.
+\eng And again it came below the place where he had been sitting.
+\src 0357:12
+
+\cit 003:137
+\swa “Ha-i qeˊiła ła,” hîn la lʼ sudaiˊan. 
+\mod "Háay k̲éehlaa hlaa," hín ʼláa ʼll súudaayaan.
+\eng "Now look up," it said to him.
+\src 0357:13
+
+\cit 003:138
+\swa Waˊʟ̣u lʼ ᵋᴀˊnstᴀ ʟ!aˊgan giên lʼ qeˊiʟ!agan. 
+\mod ʼWáadluu ʼll g̲ánsdä tlʼáagaan gyaan ʼll k̲éetlʼaagaan.
+\eng Then he took his head out and tried to open his eyes.
+\src 0357:14
+
+\cit 003:139
+\swa Wᴀˊgiên hîn la lʼ sudaiˊan “Wāˊdjgua ʟᴀgᵃ kuˊndjus ł qêˊnʟagan.
+\mod ʼWáagyaan hín ʼláa ʼll súudaayaan, "Wáajgwaa tlagä kúnjuus hl k̲íng tláagaan."
+\eng And it said to him, "Look first at that point of land yonder."
+\src 0357:15
+
+\cit 003:140
+\swa Waˊʟ̣u lagᵃ lʼ qēˊyaiyan. 
+\mod ʼWáadluu ʼláa gä ʼll k̲íiyaayaan.
+\eng Then he looked at it.
+\src 0357:16
+
+\cit 003:141
+\swa Wᴀˊgiên la xetīˊt lʼ qêˊnsgiênsᵋwāˊnañan. 
+\mod ʼWáagyaan ʼláa x̲itʼíid ʼll k̲ínsgyaan sg̲wáanaangaan.
+\eng And he saw through under it.
+\src 0357:17
+
+\cit 003:142
+\swa “U ʟdao q!aos ł qêñ. 
+\mod "Úu tlatʼaʼáaw k̲ʼáaws hl k̲íng.
+\eng "Look at those mountains.
+\src 0357:18
+
+\cit 003:143
+\swa Gut gîn isīˊ îˊsîn ł qêñ,” hîn la lʼ sudaiˊan. 
+\mod Gúud gin is íi isán hl k̲íng," hín ʼláa ʼll súudaayaan.
+\eng Look at the things upon them," it said to him.
+\src 0357:19
+
+\cit 003:144
+\swa Wᴀˊgîñan gui lʼ qêns ʟ̣ū gîn teˊiga gut îˊsi lʼ qêˊñgañan.
+\mod ʼWáa gingáan gwíi ʼll k̲íngs dluu, gin tíigaa gúud is íi ʼll k̲ínggaangaan.
+\eng And when he looked towards them, he saw the animals upon them.
+\src 0357:20
+
+\cit 003:145
+\swa X̣ūˊᴀdj îˊsgiên tān îˊsîn īdjāˊñan. 
+\mod Xúuwajii isgyáan táan isán ijáangaan.
+\eng There were grisly bears and black bears.
+\src 0357:21
+
+\cit 003:146
+\swa Mᴀt gia îˊsîn īdjāˊñan. 
+\mod Madgyáa isán ijáangaan.
+\eng There were also mountain-goats.
+\src 0357:22
+\note Translation seems off.
+
+\cit 003:147
+\swa K!ūˊ gia îsîˊn.
+\mod Kʼúugyaa isán.
+\eng Marten, too.
+\src 0357:23
+\note Original English translation of the last two lines: There were also mountain-goats and marten.
+
+\cit 003:148
+\swa Wāˊdji gîn teˊigas gᵘ dᴀñ qêñ,” hîn la lʼ sudaiˊan. 
+\mod "Wáajii gin tíigaas gw dáng k̲íng?" hín ʼláa ʼll súudaayaan.
+\eng "Do you see those animals there?" it said to him.
+\src 0357:24
+\note Swanton original is missing the open quote.
+
+\cit 003:149
+\swa Wᴀˊgiên lʼ qêˊñᴀñ lʼ sāˊwani.
+\mod ʼWáagyaan ʼll k̲íngang ʼll sáawaan ii.
+\eng And he said he saw them.
+\src 0357:25
+\note Nice zero-pronoun non-3pl object
+
+\cit 003:150
+\swa Wᴀg̣iêˊn hawaˊn lᴀˊgua lʼ tc!āˊ-añgañan. 
+\mod ʼWáagyaan hawáan ʼláa gwaa ʼll tsʼáa_ánggaangaan.
+\eng And he was still sitting upon (the Loon).
+\src 0357:26
+
+\cit 003:151
+\swa Waˊʟ̣u ʟ!ao hit!ᴀˊn la lʼ qāˊᴀłālan.
+\mod ʼWáadluu tlʼaa uu hatʼán ʼláa ʼll k̲áaʼahlaalaan.
+\eng Then, however, it told him to get off.
+\src 0357:27
+
+\cit 003:152
+\swa “Ha-i qāˊᴀła,” hîn la lʼ sudaiˊan. 
+\mod "Háay k̲áaʼahlaa," hín ʼláa ʼll súudaayaan.
+\eng "Now get off," it said to him.
+\src 0357:28
+\note Interesting lack of the imperative clitic after a verb ending in -hlaa.
+
+\cit 003:153
+\swa Waˊʟ̣u ʟ!ao lêˊstᴀ lʼ qaaˊlan. 
+\mod ʼWáadluu tlʼ aa uu ʼléesdä ʼll k̲áaʼaalaan.
+\eng At once he got off.
+\src 0357:29
+
+\cit 003:154
+\swa Lʼ qaˊalan ʟ̣ū hîn la lʼ sudaiˊan, “K!wai ł haoʟ̣n q!ao dᴀñ ł kîˊñgugᴀñē ᵋᴀn ᴀ.” 
+\mod ʼLl k̲áaʼaalaan dluu, hín ʼláa ʼll súudaayaan, "Kʼwáay hl húutlʼan k̲ʼáawdang, Hl kínggwgangee g̲an aa.
+\eng When he got off, it said to him, "Sit there, so that I may give you directions."
+\src 0357:30
+
+\cit 003:155
+\swa Wᴀˊgiên la îsîˊn gᵘ q!āˊwani. 
+\mod ʼWáagyaan ʼláa isán gu k̲ʼáawaan ii.
+\eng And he sat in his former place.
+\src 0357:31
+
+\cit 003:156
+\swa “Dᴀñ qāˊʟ̣!as ʟ̣ū ł na-i ᵋa ᴀˊñᵋa qāñ. 
+\mod "Dáng k̲áatlʼaas dluu hl, náa g̲áa angáa káa.ang.
+\eng "When you get home, go to your house.
+\src 0357:32
+\note Delayed imperative!
+
+\cit 003:157
+\swa Wᴀˊgiên x̣ūˊᴀdji qāˊdji lʼ gītc!āˊdᴀs ʟ̣ū hîn laˊᵋᴀn guˊdᴀñan, ‘Wēd ʟ!wāˊdji lʼ xᴀñgᵃ agᴀˊñ q!oq!ēˊsgada-añ.ʼ” 
+\mod ʼWáagyaan xúuwajii k̲áajii ʼll gíi_tsʼáadaas dluu, hín ʼláa g̲an gudángang, 'Wéed tlʼawáajii ʼll x̲áng agáng k̲ʼu_k̲ʼíisgadaaʼaang.'"
+\eng And when (your wife) cooks a grisly-bearhead, think as follows, 'Now let it bite her face.'"
+\src 0357:33
+
+\cit 003:158
+\swa Wᴀgiêˊn lêˊstᴀ lʼ qāˊ-idan. 
+\mod ʼWáagyaan ʼléesdä ʼll k̲áaydaan.
+\eng And afterwards he started.
+\src 0357:34
+
+\cit 003:159
+\swa “Hao qaˊ-it ła,” hîn la lʼ sudaiˊan.
+\mod "Háaw, k̲áayd hlaa," hín ʼláa ʼll súudaayaan.
+\eng "Now go home," it said to him.
+\src 0357:35
+
+\cit 003:160
+\swa Wᴀˊgiên lʼ qāˊʟ!as ʟ̣ū na-i ᵋa ᴀˊñᵋa lʼ qāˊgan. 
+\mod ʼWáagyaan ʼll k̲áatlʼaas dluu, náay g̲aa angáa ʼll k̲áagaan.
+\eng And when he arrived, he went to his house.
+\src 0357:36
+
+
+!! Swanton page 98 = 358
+
+\cit 003:161
+\swa “Gᴀm djāˊᵋᴀñ agᴀˊñ ʟ! qêndāˊᵋañgᵃ, hîn la lʼ sudaiˊan. 
+\mod "Gám jáaʼang agáng tlʼ k̲índäʼanggaa," hín ʼláa ʼll súudaayaan.
+\eng It had said to him, "Do not let your wife see you."
+\src 0358:01
+
+\cit 003:162
+\swa Wᴀˊgiên djāˊᵋᴀñ lʼ qêˊñq!ołtc!îgañan ʟ!dᴀlaˊsi ᵋa-i ᴀ. 
+\mod ʼWáagyaan jáaʼang ʼll k̲íng k̲ʼuhltsʼägáangaan, tlʼadaláasii g̲áay aa.
+\eng Then he looked stealthily at his wife through a small hole.
+\src 0358:02
+
+\cit 003:163
+\swa Wᴀˊgiên laˊᵋᴀn lʼ gūˊłîłidan la lʼ kîˊñgugañan gîñaˊn ᴀ. 
+\mod ʼWáagyaan ʼláa g̲an ʼll guhlahlíidaan, ʼláa ʼll kínggwgaangaan gingáan aa.
+\eng And he began to think about her as it had given him instructions.
+\src 0358:03
+
+\cit 003:164
+\swa Wᴀˊgiên hawaˊn “Wēd ʟ!wāˊdji lʼ xᴀñgʼ agᴀˊñ q!oq!ēˊsgᴀt,” hîn lʼ gudᴀˊñgᴀndan x̣ūˊᴀdj qātc x̣āˊłteidan. 
+\mod ʼWáagyaan hawáan, "Wéed tlʼaẃaajii ʼll x̲ánggä agáng k̲ʼu_k̲ʼíisgad," hín ʼll gudánggan dáan, xúuwajii k̲aj xáahldiidaan.
+\eng And as he thought, "Now let it bite her face," the grisly-bear head howled [...]
+\src 0358:04
+
+\cit 003:165
+\swa Wᴀˊgien lʼ xᴀñgᵃ ᵋañ q!oq!ēˊsgadan. 
+\mod ʼWáagyaan ʼll x̲ánggä g̲áng k̲ʼu_k̲ʼíisgaadaan.
+\eng [...] and bit into her face
+\src 0358:05
+
+\cit 003:166
+\swa Waˊʟ̣u lʼ q!ēˊyunᴀñidan.
+\mod ʼWáadluu ʼll k̲ʼíi_yúunangiidaan.
+\eng Then she was rolling about.
+\src 0358:06
+
+\cit 003:167
+\swa Waˊʟ̣u ʟ!ao nagᵃ djāˊᵋᴀñ lʼ dōˊᵋatc!aian.
+\mod ʼWáadluu tlʼaa uu náagä jáaʼang ʼll dúu g̲atsʼáayaan.
+\eng But then he ran into the house to his wife.
+\src 0358:07
+
+\cit 003:168
+\swa Waˊʟ̣u djāˊᵋᴀñ lʼ gīˊdjigīłdas ʟ̣ū kiagᵃ lᴀ dᴀˊñᴀł lʼ ᵋāˊdagan. 
+\mod ʼWáadluu jáaʼang ʼll gíijiigahldaas dluu, kyáagä ʼláa dángahl ʼll g̲áadaagaan.
+\eng And having seized his wife, he ran outside with her.
+\src 0358:08
+
+\cit 003:169
+\swa “Āˊdji ł dī xᴀñ stᴀ îˊsda,” hîn ʟāˊlᴀñ lʼ sudaiˊan. 
+\mod "Áajii hl díi x̲áng sdä isdáa," hín tláalang ʼll śudaayaan.
+\eng She said to her husband, "Take this from my face."
+\src 0358:09
+
+\cit 003:170
+\swa Wᴀk!iêˊnᴀn la dᴀˊñᴀłan q!ᴀtgᵃ la lʼ k!āˊdasᵋaian. 
+\mod ʼWáakʼyaanan ʼláa dángahlan k̲ʼadgä ʼláa ʼll kʼáatʼaasʼaayaan.
+\eng Nevertheless he threw her on the beach with it.
+\src 0358:10
+
+\cit 003:171
+\swa Lᴀ dᴀˊñᴀł lʼ q!ēˊyunᴀñgᴀndan, lʼ k!ōˊt!ᴀłdai-idan.
+\mod ʼLáa dángahl ʼll k̲ʼíi_yúunanggaan dáan, ʼll kʼutʼahldáaʼidaan.
+\eng She rolled about with it. She soon died.
+\src 0358:11
+\note The English translation occurs in two sentences, but the Haida original has a comma.
+
+\cit 003:172
+\swa Wᴀgiêˊn hit!ᴀˊn āˊdji ᴀˊñᵋa lʼ gīˊalᴀñidani. 
+\mod ʼWáagyaan hatʼán áajii angáa ʼll gíiyaalangʼidaan ii.
+\eng And then he began to try the fat out of his bears.
+\src 0358:12
+
+\cit 003:173
+\swa Wᴀˊgiên t!aˊot!a ᵋa-i tō ᴀˊñᵋa lʼ îsdagāˊ-āñ. 
+\mod ʼWáagyaan tʼáwtʼ g̲aay táw angáa ʼll isdagáangaan.
+\eng And he put the grease into boxes.
+\src 0358:13
+
+\cit 003:174
+\swa Wᴀˊgiên kiēˊ îˊsîn lʼ k!ᴀstaiˊgᴀłs ʟ̣ū naˊgut lʼ k!iäˊdagañan.
+\mod ʼWáagyaan kyaʼáay isán ʼll kʼasdáaygahls dluu, náaguud ʼll kʼyáadaagaangaan.
+\eng After he had cut the meat into strips, he hung them up in the house.
+\src 0358:14
+
+\cit 003:175
+\swa Lʼ x̣îˊladañan. 
+\mod ʼLl xiláadaangaan.
+\eng He dried them.
+\src 0358:15
+
+\cit 003:176
+\swa Wᴀˊk!iäł xetgᵘ lʼ tc!āˊanugañan. 
+\mod ʼWáakʼyaahl x̲idgw ʼll tsʼáanuugaangaan.
+\eng All that time he kept up a fire beneath.
+\src 0358:16
+
+\cit 003:177
+\swa Tc!āˊanu ᵋᴀn ᴀˊñᵋa lʼ îˊsdaʟ!asi ʟ̣ū wᴀˊgiên łᵋēˊdē ᵋei gᴀm ᴀˊñᵋa lʼ q!eˊidᴀñgañan. 
+\mod Tsʼáanuu g̲an angáa ʼll isdätlʼáas ii dluu, ʼwáagyaan hlg̲íidaay g̲íi gám angáa ʼll k̲ʼíidʼanggaangaan.
+\eng When he brought the firewood for it, he did not forget his bow.
+\src 0358:17
+
+\cit 003:178
+\swa Wᴀˊgiên kiēˊ dᴀˊñᴀł tō dᴀˊñᴀł lʼ ᵋēˊłgīdaᵋodjawan.
+\mod ʼWáagyaan kyaʼáay dángahl táw dángahl ʼll g̲íihlgiidaa g̲ujáawaan.
+\eng Then he finished preparing all of the meat and grease.
+\src 0358:18
+
+\cit 003:179
+\swa Waˊʟ̣u ʟ!ao tc!îˊdalᴀñ ᴀł x̣ūˊᴀdj lʼ tc!îˊgan, ᴀˊñᵋa lʼ qäˊñᴀn. 
+\mod ʼWáadluu tlʼaa uu tsʼatʼaláng ahl xúuwajii ʼll tsʼagáan angáa ʼll k̲éengaan.
+\eng But at that time he saw the arrow with which he had shot the grisly bear.
+\src 0358:19
+
+\cit 003:180
+\swa Lʼ tīdaiˊan sa lᵋāˊña sqᵋᴀˊtidjani. 
+\mod ʼLl tíidaayaan sáa ʼláangaa sk̲ʼadíijaan ii.
+\eng It was just above the place where he had lain down.
+\src 0358:20
+
+\cit 003:181
+\swa Waˊʟ̣u ʟ!ao hit!ᴀˊn łᵋēˊdē ᵋa-i ᴀˊñᵋa lʼ q!eˊidan āˊnîs lʼ qêns ʟ̣ū ᴀ. 
+\mod ʼWáadluu tlʼaa uu hatʼán hlg̲íidaay g̲aay angáa ʼll k̲ʼíidaan, áaniis ʼll k̲íngs dluu aa.
+\eng When he saw it, however, he remembered his bow.
+\src 0358:21
+
+\cit 003:182
+\swa Waˊʟ̣u hit!ᴀˊn ᴀˊñᵋa lʼ qêñᵋāˊgan. 
+\mod ʼWáadluu hatʼán angáa ʼll k̲íng áagaan.
+\eng Then he went to look for it.
+\src 0358:22
+
+\cit 003:183
+\swa Wᴀˊgiên ᴀˊñᵋa lʼ qêñaˊs giên dīˊtgua tc!idalᴀñaˊ-i dᴀˊñᴀłan lᵋāˊña xagadāˊwan. 
+\mod ʼWáagyaan angáa ʼll k̲íng áas gyaan, didgwáa tsʼatʼalangáay dángahlaan ʼláangaa x̲áagädaawaan.
+\eng And when he saw it, it was standing against something in the woods (a tree or stump), along with the arrows.
+\src 0358:23
+
+\cit 003:184
+\swa Wᴀgiêˊn lʼ nagaˊn gᵘ dᴀˊñᴀł ᴀˊñᵋa lʼ qāˊʟ!agan.
+\mod ʼWáagyaan ʼll náagaan gw dángahl angáa ʼll k̲áatlʼaagaan.
+\eng And he brought them to the place where he lived.
+\src 0358:24
+
+\cit 003:185
+\swa Waˊʟ̣u lʼ qasāˊsʟaian. 
+\mod ʼWáadluu ʼll k̲asáasdlaayaan.
+\eng Then he went off.
+\src 0358:25
+
+\cit 003:186
+\swa Sîˊłgañ lʼ stīłāˊñqasasʟaian. 
+\mod Sahlgáang ʼll sdíihlang_k̲asaʼáasdlaayaan.
+\eng He was going to return (to the town).
+\src 0358:26
+
+\cit 003:187
+\swa Wᴀˊgiên ʟūˊē hit!ᴀˊn tcāngᵃ ᴀˊñᵋa lʼ îsdaiˊan. 
+\mod ʼWáagyaan tluwáay hatʼán cháan gä angáa ʼll isdáayaan.
+\eng Then he put his canoe into the water.
+\src 0358:27
+
+\cit 003:188
+\swa Wᴀˊgiên kiēˊ k!iūˊ k!ūˊñat dᴀ lʼ îˊsdaʟ̣īs giên wᴀˊgui lʼ skiūˊᴀʟ̣īgan. 
+\mod ʼWáagyaan kyaʼáay kʼyuu kʼúungad dä ʼll isdáadliis gyaan, ʼwáa gwíi ʼll skyúuwadliigaan.
+\eng And he laid boards in the bottom of the canoe for the meat, and placed the meat upon them.
+\src 0358:28
+
+\cit 003:189
+\swa Wᴀˊgui lʼ îsdaᵋēˊłgīs ʟ̣ū dᴀˊñᴀł lʼ ʟuqaˊ-idan. 
+\mod ʼWáa gwíi ʼll isdáa g̲íihlgiis dluu, dángahl ʼll tluu_k̲áaydaan.
+\eng After he had laid it all upon them, he went away.
+\src 0358:29
+
+\cit 003:190
+\swa Gᴀm łiñaˊn djāˊᵋᴀñ k!ōˊtgui lʼ qēyaᵋāˊñan. 
+\mod Gám hlangáan jáaʼang kʼúud gwíi ʼll k̲íiyaaʼaangaan.
+\eng He did not pay the least attention to his wife's dead body.
+\src 0358:30
+
+!! Swanton page 99 = 359
+
+\cit 003:191
+\swa Waˊʟ̣u lnagaˊ-i gᵘ lʼ ʟuqāˊʟ!agan.
+\mod ʼWáadluu ʼlan-gáay gw ʼll tluu_k̲áatlʼaagaan.
+\eng Then he came to the town.
+\src 0359:01
+
+\cit 003:192
+\swa Lnagaˊ-i gᵘ lʼ ᵋāˊsgᴀts ʟ̣ū lnagaˊ-i xadēˊ waˊʟ̣uᴀn la ᵋoˊstᴀsᵋaian. 
+\mod ʼLan-gáay gw ʼll g̲áasgads dluu, ʼlan-gáay x̲aadʼáay ʼwáadluwaan ʼláa g̲usdasʼáayaan.
+\eng When he reached the town, all of the town-people came down to meet him.
+\src 0359:02
+
+\cit 003:193
+\swa Laˊᴀł ʟ! guˊdᴀñē lāyuāˊnᴀn. 
+\mod ʼLáa ahl tlʼ gudangáay ʼláa íiwaanaan.
+\eng They were very glad to see him.
+\src 0359:03
+
+\cit 003:194
+\swa Waˊʟ̣u āˊdji kiēˊ ʟ! waˊʟ̣uᴀn nagᵃ lā îˊsdagāñan.
+\mod ʼWáadluu áajii kyaʼáay tlʼ ʼwáadluwaan náagä ʼláa isdägáangaan
+\eng Then all brought his meat up to his house.
+\src 0359:04
+
+\cit 003:195
+\swa Waˊʟ̣u lʼ qatc!aˊs ʟ̣ū hîn lʼ sāˊwan, “ʟ!aˊᵋᴀn ł ᵋāˊyiño āˊdji kiēˊ ʟ! tagaˊ-i ᵋᴀn ᴀ.” 
+\mod ʼWáadluu ʼll k̲atsʼáas dluu, hín ʼll sáawaan, "Tlʼáa g̲an hl g̲áayangʼuu, áajii kyaʼáay tlʼ tagáay g̲an aa."
+\eng After he had entered, he said, "Call the people to eat this meat."
+\src 0359:05
+
+\cit 003:196
+\swa Wᴀˊgiên ʟ!aˊᵋᴀn ʟ! ᵋāˊ-iyañan ʟ̣ū īˊʟ!adē waˊʟ̣uᴀn ᵋoˊstᴀtc!aian. 
+\mod ʼWáagyaan tlʼáa g̲an tlʼ g̲áayaangaan dluu, íitlʼaadée ʼwáadluwaan g̲usdatsʼáayaan.
+\eng And when they called them, all the chiefs came in.
+\src 0359:06
+
+\cit 003:197
+\swa “Haˊodji kiēˊ ł ʟ!aˊᵋᴀn ʟiñᵋalᴀˊñᵋo. 
+\mod "Húujii kyaʼáay hl tlʼáa g̲an tláng_g̲alángʼuu.
+\eng "Cook that meat for them.
+\src 0359:07
+
+\cit 003:198
+\swa Xoaˊłdaᵋo ła.” 
+\mod x̲wáahldäʼuu hlaa."
+\eng Steam it."
+\src 0359:08
+
+\cit 003:199
+\swa Hîn sk!ūˊlas lʼ sūˊdagañan.
+\mod Hín skʼúulaas ʼll súudägaangaan.
+\eng So he told the crowd of people.
+\src 0359:09
+\note Original English for the last three lines: He said to the crowd of people, "Cook that meat for them. Steam it."
+
+\cit 003:200
+\swa Wᴀˊgîñan ʟ! wᴀˊgan. 
+\mod ʼWáa gingáan tlʼ ʼwáagaan.
+\eng They did so.
+\src 0359:10
+
+\cit 003:201
+\swa Tc!āˊanuē ᵋa-i waˊʟ̣u qwā ʟ! sîˊsᴀgañan. 
+\mod Tsʼáanuwaay g̲áay ʼwáadluu k̲waa tlʼ sasägáaangaan.
+\eng They put stones into the fire.
+\src 0359:11
+
+\cit 003:202
+\swa K!īˊnsʟas ʟ̣ū hit!ᴀˊn t!ōˊtē tc!îˊstᴀñ waˊᵋᴀn ʟ! xāˊsʟsᵋaian. 
+\mod Kʼíinäsdlaas dluu, hatʼán tʼáwtʼaay tsʼasdáng ʼwáa g̲an tlʼ x̲áasdläsʼaayaan.
+\eng When they were hot, they brought out two boxes for it.
+\src 0359:12
+
+\cit 003:203
+\swa Waˊʟ̣u hit!ᴀˊn ᵋᴀnʟ̣ āˊdji ᵋei ʟ! gīˊatagas ʟ̣ū kiēˊ wᵋei ʟ! îˊsdagi-edan.
+\mod ʼWáadluu hatʼán g̲ándl áajii gíi tlʼ gíiyaadaagaas dluu, kyaʼáay ʼwée tlʼ isdägíiʼidaan.
+\eng And after they had poured water into them, they began to put the meat in.
+\src 0359:13
+
+\cit 003:204
+\swa Qwāˊa-i îˊsîn wᵋei ʟ! îsdaiˊan. 
+\mod Kwaʼáay isán ʼwée tlʼ isdáayaan.
+\eng They also put stones into them.
+\src 0359:14
+
+\cit 003:205
+\swa Waˊʟ̣u sk!uˊlda qaod ᵋalᴀˊnsʟaiañi. 
+\mod ʼWáadluu skʼáldaa k̲áwd, g̲aalánsdlaayaan ii.
+\eng After they had boiled for a while, the (meat) was cooked.
+\src 0359:15
+
+\cit 003:206
+\swa ᵋalᴀˊnsʟas ʟ̣ū k!eˊiłga ᵋaqōˊna ᵋa-i sʟāˊgwᴀl ᴀł ʟ! kîˊtîʟ!agañan. 
+\mod g̲aalánsdlaas dluu, k̲íihlgaa g̲áa k̲úunaa g̲áay sdáagwaal ahl tlʼ ki_tíitlʼaagaangaan.
+\eng When it was cooked, they put it into a large tray with spoons.
+\src 0359:16
+
+\cit 003:207
+\swa Wᴀˊstō hit!ᴀˊn ʟ!a xetîˊt k!eˊiłga ʟ! îˊsteidᴀn. 
+\mod ʼWáa sdä uu hatʼán tlʼáa x̲idíid kíihlgaa tlʼ istʼiʼíidaan.
+\eng Then they put trays in front of them.
+\src 0359:17
+
+\cit 003:208
+\swa Wᴀˊstō hit!ᴀˊn kiēˊ wᵋei ʟ! îˊsdadālani ᵋa-i dᴀˊñᴀłan îˊsîn. 
+\mod ʼWáasdä uu hatʼán kyaʼáay ʼwée tlʼ isdädáalaan ii, g̲áay dángahlan iśan.
+\eng Afterwards they put the meat into them with the fat.
+\src 0359:18
+
+\cit 003:209
+\swa Waˊʟ̣u ʟ! tāˊgañan.
+\mod ʼWáadluu tlʼ táagaangaan.
+\eng Then they ate.
+\src 0359:19
+
+\cit 003:210
+\swa ʟ! tagīˊgane ʟ̣ū “K!wē gᴀm qagałᵋāˊñᵋō. 
+\mod Tlʼ táa gíigaan ii dluu, "Kʼwáay, gám k̲áagahlʼangʼuu.
+\eng After they were through eating, "Do not go out.
+\src 0359:20
+
+\cit 003:211
+\swa Dalᴀˊñ gᵃ ł giałaˊndaasañ,” hîn ʟ!a lʼ sūdaiˊan. 
+\mod Daláng gä Hl gyaahlándaaäsaang," hín tlʼáa ʼll súudaayaan.
+\eng I will recount (my adventures) to you," he said to them.
+\src 0359:21
+\note Original English for the last two lines: After they were through eating, he said to them, "Do not go out. I will recount (my adventures) to you."
+
+\cit 003:212
+\swa “Āˊdji qaˊoq!alē ł ʟ!a giˊalaᵋo,” hîn łkiaˊgwē dᴀ ga îsgaˊ-i lʼ sudaiˊan. 
+\mod "Áajii k̲áwk̲ʼalaay hl tlʼáa gíiyaalaaʼuu," hín hlkyáagwaay dä isgáay ʼll súudaayaan.
+\eng He said to those around the door (the servants), "Carry home that which is left over."
+\src 0359:22
+
+\cit 003:213
+\swa Wᴀˊgîñan k!eˊiłgē waˊʟ̣uᴀn ʟ!a ʟ! giˊalaᵋodjawan.
+\mod ʼWáa gingáan k̲íihlgaay ʼwáadluwaan tlʼáa tlʼ gíiyaalaa g̲ujáawaan.
+\eng So they took all of the trays to those at home.
+\src 0359:23
+
+\cit 003:214
+\swa Waˊʟ̣u ʟ!ao hit!ᴀˊn ᴀłaˊñ lʼ gīˊałandāˊñqasāgan. 
+\mod ʼWáadluu tlʼaa uu hatʼán ahláng ʼll gyaahlánda.ang_k̲asaʼáagaan.
+\eng But then he was going to tell them about himself.
+\src 0359:24
+
+\cit 003:215
+\swa Waˊʟ̣u laˊᴀł ʟ! kiäˊnāñan.
+\mod ʼWáadluu ʼláa hl tlʼ kyáanaangaan.
+\eng Then they questioned him.
+\src 0359:25
+
+\cit 003:216
+\swa “Dā gᵘ a adjīˊ x̣ūˊᴀdji tīyaiˊya,” hîn lᴀ ʟ! sūdaiˊan. 
+\mod "Dáa gw aa áajii xúuwajii tíiyaayaa?" hín ʼláa tlʼ súudaayaan.
+\eng They said to him, "Did you kill this grisly bear?"
+\src 0359:26
+
+\cit 003:217
+\swa Wᴀˊgiên “Añ” hîn lʼ sāˊwan. 
+\mod ʼWáagyaan, "Áang," hín ʼll sáawaan.
+\eng And he said, "Yes."
+\src 0353:27
+
+\cit 003:218
+\swa “Gasîˊno la dᴀñ teˊ-îdʟdjawañ,” hîn lᴀ ʟ! sūdaiˊan. 
+\mod "Gasán uu ʼláa dáng tíidläjaawaan?" hín ʼláa tlʼ súudaayaan.
+\eng They said to him, "How did you kill it?"
+\src 0359:28
+
+\cit 003:219
+\swa Lʼ xᴀˊñqagāgan ᴀˊłū ʟᴀgᵘ la ʟ! sūdaiˊan. 
+\mod ʼLl x̲áng k̲agáagaan ahl uu, tlagw ʼláa tlʼ súudaayaan. 
+\eng They asked him how, because he had been blind.
+\src 0359:29
+
+\cit 003:220
+\swa Wᴀˊgiên hîn lʼ sāˊwan, “Gaˊano dī djā-o ᵋa dī îˊsdagᴀni. 
+\mod ʼWáagyaan hín ʼll sáawaan, "Gáaʼanuu, díi jáa uu g̲áa díi isdägán ii."
+\eng And he said, "No, indeed! (I did not go by myself). My wife took me to it.
+\src 0359:30
+
+\cit 003:221
+\swa La dītgᵘ dī lʼ ᵋᴀˊlqāʟ!agᴀn.
+\mod ʼLáa didgw díi ʼll g̲ál_k̲áatlʼaagan.
+\eng She led me behind it.
+\src 0359:31
+
+!! Swanton page 100 = 360
+
+\cit 003:222
+\swa Wᴀˊgiên łgatc!āˊñō dī ᵋan lʼ t!ᴀʼsq!ᴀʟgᴀn.
+\mod ʼWáagyaan hlgatsʼáang uu díi g̲an ʼll tʼa_sk̲ʼálgan.
+\eng And she broke off a forked stick for me.
+\src 0360:01
+
+\cit 003:223
+\swa Wᴀˊgiên tc!îˊtalᴀña-i waᵋadāˊ dīˊna lʼ sk!ᴀˊłînāgᴀn. 
+\mod ʼWáagyaan tsʼatʼalangáay ʼwáa g̲adáa díinaa ʼll skʼahlanáagan.
+\eng Then she put my arrow between (the points).
+\src 0360:02
+
+\cit 003:224
+\swa Waˊʟ̣u laiˊya kuˊndjuwuñ lʼ sūs ʟ̣ū la ł tc!îgᴀˊn. 
+\mod ʼWáadluu ʼláa yáa kúnjuuʼwaang; ʼll súus dluu, ʼláa Hl tsʼagán.
+\eng Then she aimed straight at it. When she gave the word, I shot.
+\src 0360:03
+\note There probably should have been a period where I have put a ;
+
+\cit 003:225
+\swa Lᴀ ł tc!îgᴀˊn ʟ̣ū lʼ k!ōˊgē ᵋadāˊwani. 
+\mod ʼLáa Hl tsʼagán dluu, ʼll kʼúugaay g̲adáawaan ii.
+\eng When I shot, it went through its heart.
+\src 0360:04
+\note Kʼúugaay? kʼúug g̲íi?
+
+\cit 003:226
+\swa Wᴀˊgiên lʼ k!ōˊt!alan,” hîn lʼ sāˊwan. 
+\mod ʼWáagyaan ʼll kʼutʼáalaan," hín ʼll sáawaan.
+\eng And it died." That is what he said.
+\src 0360:05
+\note Interesting switch back to Indirect Past.  Also awkwkard original English.
+
+\cit 003:227
+\swa “'Hao la dᴀñ ᵋaʟ̣aˊo stᴀʼdāˊlgᴀñgua,' hîn waˊʟ̣u dī djā dī sūˊdagᴀn. 
+\mod "Háaw ʼláa dáng g̲adáaw sdadáalgang gwaa," hín ʼwáadluu díi jáa díi súudägan.
+\eng "Then my wife said to me, 'You missed it, bad one!'
+\src 0360:06
+
+\cit 003:228
+\swa Dī gᵃ la lʼ q!oˊlgᴀndaiangua. 
+\mod Díi gä ʼláa ʼll k̲ʼúlgandaayaan gwaa.
+\eng She concealed it (the truth) from me.
+\src 0360:07
+
+\cit 003:229
+\swa Wᴀˊgiên lagᵃ ł kiäˊgans giên gᴀm dīgᵃ lʼ āˊñᵋᴀñgīni.
+\mod ʼWáagyaan ʼláa gä Hl kyáagangs gyaan, gám díi gä ʼll áangʼanggiinii.
+\eng And when I called to her, she did not answer me.
+\src 0360:08
+
+\cit 003:230
+\swa Wat!aˊłu lᵋei lʼ q!êˊnanᴀns giên anaˊgᵃ la lʼ îˊsdagāñan. 
+\mod ʼWáa tʼáahl uu ʼlée ʼll k̲ʼinanángs gyaan anáa gä ʼláa ʼll isdägáangaan.
+\eng Meanwhile she cut it up and carried it up to the house.
+\src 0360:09
+
+\cit 003:231
+\swa Wᴀˊgiên giaˊgᵘ xūˊᴀdji ł tc!îˊgᴀn gᵘ ł q!aˊogᴀns stᴀ ʟᴀk!oaˊnᴀn ł ʟ!u-īˊdᴀn. 
+\mod ʼWáagyaan gyáagw xúuwajii Hl tsʼagán gw Hl k̲ʼáwgans sdä tlakʼwáanan Hl tlʼúuwidan.
+\eng And from sitting in the place where I had shot the bear I crept about in the woods.
+\src 0360:10
+
+\cit 003:232
+\swa Waˊʟ̣u k!iūˊ ᵋan ł qāˊʟ!agᴀn.
+\mod ʼWáadluu kʼyúu g̲an Hl k̲áatlʼaagan.
+\eng Then I came to a trail.
+\src 0360:11
+
+\cit 003:233
+\swa Wᴀˊgiên k!iwēˊ gut ł ʟ!u-īˊdᴀn. 
+\mod ʼWáagyaan kʼyuwáay gúud Hl tlʼúuwidan.
+\eng And I crept along upon the trail.
+\src 0360:12
+
+\cit 003:234
+\swa Waˊʟ̣u tcāngᵃ dī sʟ!a-i djîˊłagas ł ᵋāˊndᴀñgᴀn.
+\mod ʼWáadluu chaan gä díi stláay jahlagáas Hl g̲áandanggan.
+\eng At that time I felt my hands go into water.
+\src 0360:13
+
+\cit 003:235
+\swa Tᴀñ îˊsîn ł gudᴀˊns ʟ̣ū ł k!ōˊgudᴀñgᴀñ.
+\mod Táng isán Hl gudángs dluu, Hl kʼugwdánggang.
+\eng Since I thought it was sea-water, I tasted it.
+\src 0360:14
+
+\cit 003:236
+\swa Wᴀˊgiên ᵋᴀnʟ̣ īˊdjîñ ł ʟᴀgudᴀˊñgᴀni ʟ̣ū łᴀ sᵋaˊ-iłīedᴀn.
+\mod ʼWáagyaan g̲ándl íijang Hl tlagwdánggan ii, dlúuhlaa sg̲áyhläʼiidan.
+\eng And when I knew it was fresh water, I began to weep.
+\src 0360:15
+
+\cit 003:237
+\swa “Waˊʟ̣u adjīˊ djîˊngu hawaˊn ł ʟ̣udagᴀˊndan xetîˊt îˊngua ᵋaguiˊ kiñᴀˊns ł gudᴀˊñgᴀn. 
+\mod ʼWáadluu áajii ján gw hawáan Hl dluudägán dáan, x̲idʼíid ínggw g̲agwíi kingáangs Hl gudánggan.
+\eng "And while I was still lying beside it, I heard a bird call far away on the opposite side.
+\src 0360:16
+
+\cit 003:238
+\swa Lʼ sūˊgᴀns stᴀ ᵋet qaod aaˊnᴀn îˊsîn lʼ kiñāˊñgᴀn. 
+\mod ʼLl súugans sdä g̲id k̲áwd, aʼáanaan isán ʼll kingáanggan.
+\eng After a while it began calling again near me.
+\src 0360:17
+
+\cit 003:239
+\swa Wᴀˊstᴀ ᵋet qaod hawaˊn ł ʟ̣udᴀgᴀˊndan dī xetgᵘ lʼ ʟ̣îˊgudᴀs ł ᵋāˊndᴀñgan. 
+\mod ʼWáa sdä g̲id k̲áwd, hawáan Hl dluudägán dáan, díi xidgw ʼll dlagwdáas Hl g̲áandanggan.
+\eng After some time had passed, while I lay there, I perceived that it had come out below me.
+\src 0360:18
+
+\cit 003:240
+\swa Waˊʟ̣u āˊdji xeˊtadē dī ᵋa kîłguˊlgᴀn ‘Dī gwe ł qāˊʟ̣ī,ʼ hîn dī lʼ sūˊdagᴀn. 
+\mod ʼWáadluu áajii xidʼadáay díi g̲áa kihlgúlgan, 'Díi gwee hl k̲áadlii,' hín díi ʼll súudägan.
+\eng Then this bird spoke to me. It said to me, 'Get upon me.'
+\src 0360:19
+
+\cit 003:241
+\swa Wᴀgiêˊn ł ʟᴀgudāˊñagᴀn. 
+\mod ʼWáagyaan Hl tlagwdángägan.
+\eng And I felt of it.
+\src 0360:20
+
+\cit 003:242
+\swa Wᴀˊgiên laˊgue qaʟ̣īˊga-i ᵋa lʼ īx̣ᴀˊdjū-īdan. 
+\mod ʼWáagyaan ʼláa gwee k̲adlíigaay g̲aa ʼll i_xajúuʼiidan.
+\eng And it was too small to get on.
+\src 0353:21
+
+\cit 003:243
+\swa ᴀłdjīˊᴀłu dī łᵋoaˊgagan. 
+\mod Ahljíihl uu díi hlg̲wáagaagan.
+\eng Therefore I was afraid.
+\src 0360:22
+
+\cit 003:244
+\swa Waˊʟ̣u ‘Gaˊano dīˊgwe ł qāˊʟ̣ī,ʼ hîn dī lʼ sūˊdagᴀn. 
+\mod ʼWáadluu, 'Gáaʼanuu, díi gwee hl k̲áadlii,' hín díi ʼll súudägan.
+\eng Then it said to me, 'No, get upon me.'
+\src 0360:23
+
+\cit 003:245
+\swa Waˊʟ̣u laguēˊ ł qaʟ̣īˊgᴀn ʟ̣ū lʼ t!aˊ-on xeˊtgui ł ᵋᴀˊnłtc!îgᴀn. 
+\mod ʼWáadluu ʼláa gwee Hl k̲áadliigan dluu, ʼll tʼáawun xidgwíi Hl g̲ánhlätsʼägan.
+\eng And when I did get upon it, I put my head under its feathers.
+\src 0360:24
+
+\cit 003:246
+\swa Wᴀˊgiên ‘Dīgᵃ ł ᵋᴀnsq!ōˊʟ̣dᴀs,ʼ hîn dī lʼ sūˊdagᴀn. 
+\mod ʼWáagyaan 'Díi gä hl g̲án_sk̲ʼáwdladas,' hín díi ʼll súudägan.
+\eng And it said to me, 'Put your arms around me.
+\src 0360:25
+
+\cit 003:247
+\swa ‘Dᴀñ qagᴀˊndju ᵋāˊgᴀs ʟ̣ū ł dī xāˊłdañ.ʼ 
+\mod 'Dáng k̲agánjuu g̲áagahls dluu hl, díi x̲áahldaang.'
+\eng When your throat gets tired, scratch me.'
+\src 0360:26
+\note added -hl- back into the verb, but let's check this
+
+\cit 003:248
+\swa Waˊʟ̣u dī dᴀˊñᴀł lʼ ᵋäʟ!āˊgᴀn.
+\mod ʼWáadluu díi dángahl ʼll g̲atlʼáagan.
+\eng Then it dived with me.
+\src 0360:27
+
+\cit 003:249
+\swa “Suwēˊ ᵋadōˊ lʼ īdjaˊni. 
+\mod Suwáay g̲adúu ʼll ijáan ii.
+\eng It went around the lake.
+\src 0360:28
+\note Again interesting indirect past
+
+\cit 003:250
+\swa Wᴀˊgiên giagᵘ ł q!aˊogᴀn gᵘ lʼ ʟ̣ᴀˊgadīdjîn. 
+\mod ʼWáagyaan gyáagw Hl k̲ʼáwgan gw ʼll dlagadíijan.
+\eng And it came up in the place where I had sat.
+\src 0360:29
+
+\cit 003:251
+\swa Dī dᴀˊñᴀł lʼ ᵋaʟ!aˊstaˊstᴀñgᴀn. 
+\mod Díi dángahl ʼll g̲atlʼáasdaa sdánggan.
+\eng It dived twice with me.
+\src 0360:30
+
+\cit 003:252
+\swa Waˊʟ̣u ʟ!ao dī lʼ qēˊʟ!axᴀˊlgᴀn. 
+\mod ʼWáadluu tlʼaa uu díi ʼll k̲íitlʼaahalgan.
+\eng But then it told me to look up.
+\src 0360:31
+
+\cit 003:253
+\swa Waˊʟ̣u ł qeˊiagᴀn.
+\mod ʼWáadluu Hl k̲íiyaagan.
+\eng At that time I did look up.
+\src 0360:32
+
+!! Swanton page 101 = 361
+
+\cit 003:254
+\swa Hao xetîˊt îs ū dīgᵃ q!ᴀˊñgᴀn,” hîn ʟ!a lʼ sūdaiˊan.
+\mod Húu x̲idʼíid is uu díi gä k̲ʼánggan," hín tlʼáa ʼll súudaayaan.
+\eng It was that bird that helped me." This is what he told them.
+\src 0361:01
+
+\cit 003:255
+\swa Gaˊ-istᴀ ᵋāl stᴀˊñᵋełs ʟ̣ū k!iäˊlū ʟgaˊʟ!as ʟ! qäˊñᴀn.
+\mod Gáaysdä g̲áal sdángʼiihls dluu, kʼyáaluu tlagáatlʼaas tlʼ k̲éengaan.
+\eng Two nights afterward they saw a Cormorant coming.
+\src 0361:02
+
+\cit 003:256
+\swa Lnagaˊ-i ᵋa lʼ ʟ̣îgᴀˊndalan. 
+\mod ʼLan-gáay g̲áa ʼll dlagándaalaan.
+\eng It swam to the town.
+\src 0361:03
+
+\cit 003:257
+\swa Waˊʟ̣u kiagᵃ lᴀ k!iūˊ ʟ! ᵋēˊdiwagan la dᴀ ʟ! ᵋᴀˊnaguns ʟ̣ū. 
+\mod ʼWáadluu kyáa gä ʼláa kʼyuu tlʼ g̲íidiiʼwaagaan, ʼláa dä tlʼ g̲ánaagans dluu.
+\eng And since all wanted to see it very much, they went outside for it.
+\src 0361:04
+
+\cit 003:258
+\swa Waˊʟ̣u anᴀˊñ q!ēyâˊ x̣ūˊᴀdj tc!îgᴀˊn hîn sāˊwan “Dī ł lʼ k!ᴀtʟāˊgandaᵋo.” 
+\mod ʼWáadluu aa nang k̲ʼayáa xúuwajii tsʼagán hín sáawaan, "Díi hl ʼll kʼad tláagaandäʼuu."
+\eng Then the old man who had shot the grisly bear said, " Let me throw a stone at it first."
+\src 0361:05
+\note nice use of ʼll as object pronoun
+
+\cit 003:259
+\swa Wᴀˊgîñan ʟîgaˊ-itcaˊaiyē ᵋa-i lʼ ᵋēˊdagᴀłs ʟ̣ū qwā dᴀ ʟ! xāˊdaᵋodjawan. 
+\mod ʼWáa gingáan dlagáay cháayaay g̲áay ʼll g̲íidaagahls dluu, k̲waa dä tlʼ x̲áadaa g̲ujáawaan.
+\eng So when it came into shallow water, all took stones [for it].
+\src 0361:06
+
+\cit 003:260
+\swa Wᴀˊgiên âˊnᴀñ q!ēˊya îs lʼ k!ᴀˊtʟāgañan. 
+\mod ʼWáagyaan a nang k̲ʼayáa is ʼll kʼad tláagaangaan.
+\eng And the old man threw at it first.
+\src 0361:07
+
+\cit 003:261
+\swa Wᴀstʼ ʟ!ao hit!ᴀˊn lʼ ᵋei ʟ! k!ᴀˊtaoyūˊanᴀñ.
+\mod ʼWáa sdä tlʼaa uu hatʼán ʼll g̲ée tlʼ kʼadáaw íiwaanaan.
+\eng But afterwards they threw at it a great deal.
+\src 0361:08
+
+\cit 003:262
+\swa Lʼ ᵋei ʟ! k!ᴀˊdaos k!iäˊnᴀn gᴀm lʼ łᵋoaˊgałᵋañan. 
+\mod ʼLl g̲ée tlʼ kʼadáaws kʼyáanan, gám ʼll hlg̲wáagahlʼaangaan.
+\eng Although they threw stones at it, it was not afraid.
+\src 0361:09
+\note ʼll g̲ée is weird, instead of ʼlée
+
+\cit 003:263
+\swa Gᴀm st!ēˊlga-i dᴀ lʼ gudᴀˊñᵋañan. 
+\mod Gám sdílgaay dä ʼll gudángʼaangaan.
+\eng It did not want to go back.
+\src 0361:10
+
+\cit 003:264
+\swa Wᴀˊgiên ʟan lᴀ ʟ! k!ᴀdaˊn. 
+\mod ʼWáagyaan tláan ʼláa tlʼ kʼadáan.
+\eng Then they stopped throwing at it.
+\src 0361:11
+
+\cit 003:265
+\swa Wᴀˊgiên ʟ!a qāˊłgut lʼ qagᴀłsᵋwāˊnañᴀn. 
+\mod ʼWáagyaan tlʼáa k̲áahlguud ʼll k̲áagahl sg̲wáanaangaan.
+\eng And it went straight up among them.
+\src 0361:12
+
+\cit 003:266
+\swa Wᴀˊgiên nᴀñ īˊʟadas gia na-i yakᵘ tīˊyuda-i ᵋa-i lʼ qatc!aiˊan.
+\mod ʼWáagyaan nang íitlʼaadáas gyaa náay yahgw tíiyuudaay g̲áay ʼll k̲atsʼáayaan.
+\eng Then it entered the chief's house, which stood in the middle of the town.
+\src 0361:13
+
+\cit 003:267
+\swa Waˊʟ̣u la ʟ! kiänāˊñan. 
+\mod ʼWáadluu ʼláa tlʼ kyáanaangaan.
+\eng Then they questioned it.
+\src 0361:14
+
+\cit 003:268
+\swa “Gasîˊnʟ!ao dᴀñ īˊdjîñ,” hîn ʟ! sāˊwan. 
+\mod "Gasán tlʼaa uu dáng íijang?" hín tlʼ sáawaan.
+\eng "Why have you come?" they said.
+\src 0361:15
+\note Original English: "Who are you?" they said.
+
+\cit 003:269
+\swa “Dalᴀˊñ gᵃ ł gīˊdīyē ᵋᴀn ᴀ,” hîn lʼ sāˊwan. 
+\mod "Daláng gä Hl gíidayaay g̲an aa," hín ʼll sáawaan.
+\eng "In order to give you food," it said.
+\src 0361:16
+\note Original English: It said "I am one who comes to give you food."
+
+\cit 003:270
+\swa Sao ᴀł lʼ sk!îˊsʟīyagan. 
+\mod Sáaw ahl ʼll skʼisdlayáagaan.
+\eng It was full of olachen.
+\src 0361:17
+
+\cit 003:271
+\swa “ᴀłgui ł ᵋᴀn dīgᵃ gîn îsdaˊᵋo,” hîn lʼ sāˊwan. 
+\mod "Ahlgwíi hl g̲án díi gä gin isdäʼúu," hín ʼll sáawaan.
+\eng "Get me something for these," it said.
+\src 0361:18
+
+\cit 003:272
+\swa Wᴀˊgîñan k!ēˊiłga yūˊᴀn la xetgᵘ ʟ! îsdaiˊan.
+\mod ʼWáa gingáan k̲íihlgaa íiwaan ʼláa x̲idgw tlʼ isdáayaan.
+\eng So they set a big tray in front of it.
+\src 0361:19
+
+\cit 003:273
+\swa Waˊʟ̣u ʟ!ao hit!ᴀˊn sāˊwē lʼ xałīˊ stᴀ k!ēˊiłga-i ᵋa-i îsʟaiˊ-îdani. 
+\mod ʼWáadluu tlʼaa uu hatʼán sáawaay ʼll x̲ahlíi sdä k̲íihlgaay g̲áay isdláahidaan ii.
+\eng But then the olachen began to come out of its mouth into the tray.
+\src 0361:20
+
+\cit 003:274
+\swa Wᴀˊgiên k!ēˊiłga-i staˊgani. 
+\mod ʼWáagyaan k̲íihlgaay stahgáan ii.
+\eng And the tray was filled.
+\src 0361:21
+
+\cit 003:275
+\swa Waˊʟ̣u âˊnᴀñ īˊʟ!adas hîn sāˊwan, “Āˊdji ł gutgᵃ îˊsdaᵋo.”
+\mod ʼWáadluu a nang íitlʼaadáas hín sáawaan, "Áajii hl gud gä isdäʼúu."
+\eng Then the chief said, "Distribute these among yourselves."
+\src 0361:22
+
+\cit 003:276
+\swa Wᴀˊgîñan gutgᵃ ʟ! îˊsdaᵋodjawani.
+\mod ʼWáa gingáan gud gä tlʼ isdä g̲ujáawaan ii.
+\eng So they shared them.
+\src 0361:23
+
+\cit 003:277
+\swa Waˊʟ̣u hîn ʟ!a lʼ sūdaiˊan. 
+\mod ʼWáadluu hín tlʼáa ʼll súudaayaan.
+\eng Then it said to them.
+\src 0361:24
+
+\cit 003:278
+\swa “Haˊoîsîn ł ʟ̣igaˊʟ!at!ᴀs ʟ̣ū ł gᴀm dī k!ᴀdᵋᴀˊñᵋwañ.
+\mod "Háwsan Hl dlagáatlʼaatʼas dluu hl, gám díi kʼadʼángʼwaang.
+\eng "When I come again, do not throw stones at me.
+\src 0361:25
+\note Original English for the last two lines: Then it said to them, "When I come again, do not throw stones at me.  Also, a delayed imperative with 3pl -ʼwa.
+
+\cit 003:279
+\swa Haˊoîsîn dalᴀˊñ ga sao ł îsdaˊasañ.”
+\mod Háwsan daláng gä sáaw Hl isdáaäsaang."
+\eng I will give you olachen again."
+\src 0361:26
+
+\cit 003:280
+\swa Gᵘ ᵋᴀˊnʟ̣si stᴀ lʼ īdjaˊn.
+\mod Gu g̲ándlasii sdä ʼll ijáan.
+\eng It came from Nass River.
+\src 0361:27
+
+\cit 003:281
+\swa Waˊʟ̣u hit!ᴀˊn ʟ!ᴀˊstᴀ lʼ qagāˊlan.
+\mod ʼWáadluu hatʼán tlʼáa sdä ʼll k̲agáalaan.
+\eng Then it went away from them.
+\src 0361:28
+
+\cit 003:282
+\swa Gaˊ-istᴀ ᵋāl stᴀˊñᵋēłs ʟ̣ū haˊoîsîn lʼ ʟ̣ᴀˊgaʟ!agan. 
+\mod Gáaysdä g̲áal sdángʼiihls dluu, hásan ʼll dlagáatlʼaagaan.
+\eng Two nights afterward it came over again.
+\src 0361:29
+
+\cit 003:283
+\swa Waˊʟ̣u ʟ!ao gᴀm la ʟ! k!ᴀˊdaᵋañan.
+\mod ʼWáadluu tlʼaa uu gám ʼláa tlʼ kʼadáaʼaangaan.
+\eng But then they did not throw stones at it.
+\src 0361:30
+
+\cit 003:284
+\swa Wᴀˊgiên hīˊk!wan dᴀˊman lᴀ ʟ! qäˊñan. 
+\mod ʼWáagyaan híikʼwaan dámaan ʼláa tlʼ k̲éengaan.
+\eng And they took good care of it.
+\src 0361:31
+
+\cit 003:285
+\swa Wᴀˊgiên lʼ qagᴀˊłs giên nᴀñ īˊʟ!agidas gia na-i ᵋa-i lʼ qatc!aiˊan.
+\mod ʼWáagyaan ʼll k̲áagahls gyaan, nang íitlʼaagädáas gyaa náay g̲áay ʼll k̲atsʼáayaan.
+\eng And when it went up, it entered the chief's house.
+\src 0361:32
+
+!! Swanton page 102 = 362
+
+\cit 003:286
+\swa Waˊʟ̣u haˊoîsîn giˊnᴀ ᵋa-i ʟ!agᵃ lʼ îsdaiˊani ᵋᴀn lʼ gināˊñan. 
+\mod ʼWáadluu háwsan gin g̲áay tlʼáa gä ʼll isdáayaan ii g̲an ʼll gináangaan.
+\eng Then it again asked for something in which to put them.
+\src 0362:01
+
+\cit 003:287
+\swa Wᴀgîñaˊn la xetgᵘ ʟ! îsdaiˊani. 
+\mod ʼWáa gingáan ʼláa x̲idgw tlʼ isdáayaan ii.
+\eng So they set something in front of it.
+\src 0362:02
+
+\cit 003:288
+\swa Waˊʟ̣u ʟ!ao haˊoîsîn sāˊwē wᵋei lʼ ᵋāˊñani. 
+\mod ʼWáadluu tlʼaa uu háwsan sáawaay ʼwée ʼll g̲áangaan ii.
+\eng But then it disgorged the olachen into it.
+\src 0362:03
+
+\cit 003:289
+\swa Waˊʟ̣u k!ēˊłga-i haˊoîsîn staˊʼgani. 
+\mod ʼWáadluu k̲íihlgaay háwsan stahgáan ii.
+\eng At that time the tray was again filled.
+\src 0362:04
+
+\cit 003:290
+\swa Wᴀˊgiên haˊoîsîn nᴀñ īˊʟ!adas “Āˊdji ł gutgᵃ îˊsdaᵋodju” hîn sāˊwan.
+\mod ʼWáagyaan háwsan nang íitlʼaadáas, "Áajii hl gud gä isdä g̲ujúu," hín sáawaan.
+\eng And again the chief said, "Give all of these to the people."
+\src 0362:05
+
+\cit 003:291
+\swa Waˊʟ̣u gutgᵃ ʟ! îˊsdaᵋodjawanî.
+\mod ʼWáadluu gud gä tlʼ isdä g̲ujáawaan ii.
+\eng Then the people shared them.
+\src 0362:06
+
+\cit 003:292
+\swa Āˊdji ʟ!agᵃ ʟ! îˊsdaᵋēłgīs ʟ̣ū nᴀñ īˊłiña qaʟ!āˊñgua hîn ʟ! sāˊwan. 
+\mod Áajii tlʼáa gä tlʼ isdä g̲íihlgiis dluu, "Nang íihlangaa k̲atlʼaʼáang gwaa," hín tlʼ sáawaan.
+\eng After all had been given to them, they said, "A man is coming."
+\src 0362:07
+\note Swanton original was missing the quotes.
+
+\cit 003:293
+\swa “Gīˊdjisto lʼ qaˊgᴀñ,” hîn ʟ! sāˊwan. 
+\mod "Gíijiisdä uu ʼll k̲áagang?" hín tlʼ sáawaan.
+\eng "Where is he coming from?" they said.
+\src 0362:08
+\note This sentence was missing in the English original.
+
+\cit 003:294
+\swa “Qōñ qāˊʟ!ałgᴀñᴀs gūˊstō lʼ qāˊgᴀn,” hîn ʟ! sāˊwan.
+\mod "k̲úng k̲áatlʼaahlgangas gúusdä uu ʼll k̲áagan," hín tlʼ sáawaan.
+\eng They said, "He is coming from the direction of the moonrise."
+\src 0362:09
+
+\cit 003:295
+\swa Waˊʟ̣u lnagaˊ-i ᵋᴀn lʼ qāˊʟ!agᴀn. 
+\mod ʼWáadluu ʼlan-gáay g̲an ʼll k̲áatlʼaagaan.
+\eng Then he arrived at the town.
+\src 0362:10
+
+\cit 003:296
+\swa Yêł ū îdjaˊn. 
+\mod Yáahl uu ijáan.
+\eng This was Raven.
+\src 0362:11
+
+\cit 003:297
+\swa Waˊᴀłu k!iwēˊ ᵋa-i lʼ qatc!aiˊan.
+\mod ʼWáa ahl uu kʼyuwáay g̲áay ʼll k̲atsʼáayaan.
+\eng Upon this he entered through the doorway.
+\src 0362:12
+
+\cit 003:298
+\swa Waˊʟ̣u āˊdji sāˊwa-i ʟ!a xetiˊt isīˊ lʼ qêˊñgañan. 
+\mod ʼWáadluu áajii sáawaay tlʼáa x̲idíid is íi ʼll k̲ínggaangaan.
+\eng Then he saw these olachen before them.
+\src 0362:13
+
+\cit 003:299
+\swa Agᴀˊñ lʼ xāˊdadaian.
+\mod Agáng ʼll x̲aadʼáadaayaan.
+\eng He made himself into a man.
+\src 0362:14
+
+\cit 003:300
+\swa “Nᴀñ īˊʟ!adas k!wa-i sao dīgᵃ gīˊdada,” nᴀñ īˊʟ!adas lʼ sūdaiˊan. 
+\mod "Nang íitlʼaadáas, kʼwáay sáaw díi gä gíidaadaa," nang íitlʼaadáas ʼll súudaayaan.
+\eng He said to the chief, "Chief, let them give me olachen."
+\src 0362:15
+\note Original English: He said to the chief, "Let them give me olachen."
+
+\cit 003:301
+\swa “Gaˊano ᴀˊñᵋa ʟ! qōyāˊdᵃᵋodjūgᴀñ,” hîn la lʼ sūdaiˊan.
+\mod "Gáaʼanuu, angáa tlʼ k̲uyáadä g̲ujúugang," hín ʼláa ʼll súudaayaan.
+\eng "No, they like it too well," he (the chief) said to him.
+\src 0362:16
+\note Very nice example of final syncope
+
+\cit 003:302
+\swa Wᴀˊgiên haˊoîsîn gîñaˊn la lʼ sūdaiˊan.
+\mod ʼWáagyaan háwsan ginán ʼláa ʼll súudaayaan.
+\eng And he said the same thing to him again.
+\src 0362:17
+
+\cit 003:303
+\swa Wᴀˊgiên ᵋadōˊ lʼ kîˊłᵋesgaiani. 
+\mod ʼWáagyaan g̲adúu ʼll kihl g̲isgáayaan ii.
+\eng And he could not get it by talking.
+\src 0362:18
+
+\cit 003:304
+\swa “Hawaˊn ł qēˊsalgᴀñgua,” hîn lʼ sūs k!iäˊnᴀn gᴀm lagᵃ gīˊdiē da ʟ! gūdᴀˊñᵋᴀñgañan.
+\mod "Hawáan Hl k̲íisalgang gwaa," hín ʼll súus kʼyáanan, gám ʼláa gä gíidayaay dä tlʼ gudángʼanggaangaan.
+\eng He said, "I have eaten nothing since leaving home," but still they did not want to give him food.
+\src 0362:19
+
+\cit 003:305
+\swa “Gūˊstō a dalᴀˊñ ga sao îˊsdagañan,” hîn ʟ!a lʼ sūdaiˊan. 
+\mod "Gúusd uu áa daláng gä sáaw isdagáangaan?" hín tlʼáa ʼll súudaayaan.
+\eng "Who gave the olachen to you?" he said to them.
+\src 0362:20
+\note interesting use of <aa> with a question word, as well as a past-tense-marked wh-question
+
+\cit 003:306
+\swa “A k!iäˊlu q!awāˊs ū wᴀˊgᴀñgua,” hîn lᴀ ʟ! sūdaiˊan.
+\mod "Áa kʼyáaluu k̲ʼáwaas uu ʼwáagan gwaa," hín ʼláa tlʼ súudaayaan.
+\eng "This Cormorant did it," they said to him.
+\src 0362:21
+
+\cit 003:307
+\swa Waˊʟ̣u la-o lʼ qêñ qa-aod gᴀm gᵘ dīgᵃ îˊsîn dᴀñ waˊłiñañ,” hîn la lʼ sūdaiˊan. 
+\mod ʼWáadluu ʼláa uu ʼll k̲íng k̲áwd, "Gám gw díi gä isán dáng ʼwáa hlangáaʼang?" hín ʼláa ʼll súudaayaan.
+\eng And after he had looked at it (the Cormorant) for a while, he said to it, "Will you not give me some also?"
+\src 0362:22
+\note negative yes/no question -- funny ending on verb?
+
+\cit 003:308
+\swa Wᴀgiêˊn ga la lʼ gwaˊwaiyan.
+\mod ʼWáagyaan ga ʼláa ʼll gwáawaayaan.
+\eng And it refused to do so.
+\src 0362:23
+
+\cit 003:309
+\swa “Haoʟ̣naˊn dᴀñ qwaiˊᵋēłsga,” hîn waˊʟ̣u Yêˊlē k!iäˊluwē sūdaiˊan. 
+\mod "Húudlʼanaan dáng k̲waʼáayʼiihlsgaa," hín ʼwáadluu Yáalaay kʼyáaluwaay súudaayaan.
+\eng Then Raven said to the Cormorant, "You shall become stone where you are."
+\src 0362:24
+
+\cit 003:310
+\swa Wᴀˊgiên lʼ qwaaˊ-iᵋelan. 
+\mod ʼWáagyaan ʼll k̲waʼáayʼeelaan.
+\eng And it became a stone.
+\src 0362:25
+
+\cit 003:311
+\swa “Gᴀm ł īʟ! L!ākuˊnsudan, nᴀñ īˊʟ!adas,” hîn la ʟ! sūdaiˊan. 
+\mod "Gám hl íitlʼ tlʼáag únsuudaan, nang íitlʼaadáas," hín ʼláa tlʼ súudaayaan.
+\eng "Do not speak that way to us, chief," they said to him.
+\src 0362:26
+\note the verb, whatever it is, should have Neg suffix on it
+
+\cit 003:312
+\swa Lagᵃ ʟ! łᵋoaˊgalan. 
+\mod ʼLáa gä tlʼ hlg̲wáagaalaan.
+\eng They were afraid of him.
+\src 0362:27
+
+\cit 003:313
+\swa “Wᴀt!ᴀˊlgᵃ hᴀn gᴀm dī dalᴀˊñ gīˊd-aᵋañgᴀñgua. 
+\mod ʼWáa tʼálgä han, "Gám díi daláng gíidäʼanggan gwaa.
+\eng But still, "You did not give me food.
+\src 0362:28
+\note Iʼve moved the quote to start at gám
+
+\cit 003:314
+\swa Dalᴀˊñ îˊsîn qwaˊa-iᵋēłsañ,” hîn ʟ!a lʼ sūdaiˊan. 
+\mod Daláng isán k̲waʼáayʼiihlsaang," hín tlʼáa ʼll súudaayaan.
+\eng You shall also become stones," he said to them.
+\src 0362:29
+\note Original English for the last two lines:  But still he said to them, "You did not give me food. You shall also become stones."
+
+\cit 003:315
+\swa Wᴀˊgiên ʟ! waˊ-aʟ̣uᴀn qwaˊa-iᵋelan. 
+\mod ʼWáagyaan tlʼ ʼwáadluwaan k̲waʼáayʼeelaan.
+\eng And all became stones.
+\src 0362:30
+\note 'wáaaaadluwaan  :)
+
+\cit 003:316
+\swa Saˊwē da lʼ gudᴀˊñs ʟ̣ū lʼ wᴀˊgan. 
+\mod Sáawaay dä ʼll gudángs dluu ʼll ʼwáagaan.
+\eng He did it because he wanted the olachen.
+\src 0362:31
+
+\cit 003:317
+\swa Wᴀk!iêˊnᴀn sawēˊ dᴀˊñᴀłan qwaˊa-iᵋēlani. 
+\mod ʼWáakʼyaanan sáawaay dángahlaan k̲waʼáayʼeelaan ii.
+\eng But yet the olachen turned into stones along with them.
+\src 0362:32
+
+\cit 003:318
+\swa Hao ʟīˊsʟ̣u la kuˊndjuga.
+\mod Háw tlíisdluu ʼláa kúnjuugaa.
+\eng The end.
+\src 0362:33
