@@ -7257,7 +7257,6 @@ LEXICON CLASS-E.E !!= @CODE@
 
 LEXICON CLASS-E.E-STEM-1-INFL !!= @CODE@
 +Cond-Aux1:%> # ;
-+Sg+Impv:%> # ;
 +Dir+Past:%>gán # ;
 +Interr+Pres+Hab:%>gáng # ;
 +Pres+Hab:%>gánggang # ;
