@@ -12,18 +12,18 @@ Tests:
   Verb - dlán - ENGLISH : # CLASS_AN_STEM_1
 
      dlán+V+Sg+Impv: dlán
-     dlán+V+Imm+Pres: dlán.ga
+     dlán+V+Imm+Pres: dlán-ga
      dlán+V+Interr+Simp+Pres: dlán
-     dlán+V+Simp+Pres: dlán.gang
-     dlán+V+Dir+Past: dlán.gan
+     dlán+V+Simp+Pres: dlán-gang
+     dlán+V+Dir+Past: dlán-gan
      dlán+V+Rel: dláns
      dlán+V+NonFact: dlánang
-     dlán+V+Interr+Pres+Hab: dlán.gang
-     dlán+V+Pres+Hab: dlán.ganggang
-     dlán+V+Pres+Hab+NonFact: dlán.gangang
-     dlán+V+Dir+Past+Hab: dlán.giinii
-     dlán+V+Interr+Past+Hab: dlán.gaangaa
-     dlán+V+Indir+Past+Hab: dlán.gaangaan
+     dlán+V+Interr+Pres+Hab: dlán-gang
+     dlán+V+Pres+Hab: dlán-ganggang
+     dlán+V+Pres+Hab+NonFact: dlán-gangang
+     dlán+V+Dir+Past+Hab: dlán-giinii
+     dlán+V+Interr+Past+Hab: dlán-gaangaa
+     dlán+V+Indir+Past+Hab: dlán-gaangaan
      dlán+V+Interr+Fut+Long: dlánäsaa
      dlán+V+Interr+Fut+Short: dlánäs
      dlán+V+Simp+Fut: dlánäsaang
@@ -54,9 +54,9 @@ Tests:
      dlán+V+3pl+Rel+Evid: dlánʼaawaas
      dlán+V+3pl+NonFact: dlánʼwaa.ang
      dlán+V+3pl+Past+NonFact: dlánʼaawaa.ang
-     dlán+V+3pl+Interr+Pres+Hab: dlán.gangʼwaa
-     dlán+V+3pl+Pres+Hab: dlán.gangʼwaang
-     dlán+V+3pl+Pres+Hab+NonFact: dlán.gangʼwaa.ang
+     dlán+V+3pl+Interr+Pres+Hab: dlán-gangʼwaa
+     dlán+V+3pl+Pres+Hab: dlán-gangʼwaang
+     dlán+V+3pl+Pres+Hab+NonFact: dlán-gangʼwaa.ang
      dlán+V+3pl+Dir+Past+Hab: dlánʼwägiinii
      dlán+V+3pl+Interr+Past+Hab: dlánʼwägaangaa
      dlán+V+3pl+Indir+Past+Hab: dlánʼwägaangaan
@@ -99,8 +99,8 @@ Tests:
      dlán+V+Neg+NonFact: dlánʼangang
      dlán+V+Neg+Past+NonFact: dlánʼaangaa.ang
      dlán+V+Neg+Interr+Pres+Hab: dlánʼanggang
-     dlán+V+Neg+Pres+Hab: dlán.gangʼanggang
-     dlán+V+Neg+Pres+Hab+NonFact: dlán.gangʼangang
+     dlán+V+Neg+Pres+Hab: dlán-gangʼanggang
+     dlán+V+Neg+Pres+Hab+NonFact: dlán-gangʼangang
      dlán+V+Neg+Dir+Past+Hab: dlánʼanggiinii
      dlán+V+Neg+Interr+Past+Hab: dlánʼanggaangaa
      dlán+V+Neg+Indir+Past+Hab: dlánʼanggaangaan
@@ -142,9 +142,9 @@ Tests:
      dlán+V+Neg+3pl+Rel+Evid: dlánʼangʼaawaas
      dlán+V+Neg+3pl+NonFact: dlánʼangʼwaa.ang
      dlán+V+Neg+3pl+Past+NonFact: dlánʼangʼaawaa.ang
-     dlán+V+Neg+3pl+Interr+Pres+Hab: dlán.gangʼangʼwaa
-     dlán+V+Neg+3pl+Pres+Hab: dlán.gangʼangʼwaang
-     dlán+V+Neg+3pl+Pres+Hab+NonFact: dlán.gangʼangʼwaa.ang
+     dlán+V+Neg+3pl+Interr+Pres+Hab: dlán-gangʼangʼwaa
+     dlán+V+Neg+3pl+Pres+Hab: dlán-gangʼangʼwaang
+     dlán+V+Neg+3pl+Pres+Hab+NonFact: dlán-gangʼangʼwaa.ang
      dlán+V+Neg+3pl+Dir+Past+Hab: dlánʼangʼwägiinii
      dlán+V+Neg+3pl+Interr+Past+Hab: dlánʼangʼwägaangaa
      dlán+V+Neg+3pl+Indir+Past+Hab: dlánʼangʼwägaangaan
