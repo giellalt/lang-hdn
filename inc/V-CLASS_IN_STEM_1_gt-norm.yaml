@@ -12,18 +12,18 @@ Tests:
   Verb - kyáambda - ENGLISH : # CLASS_IN_STEM_1
 
      ín+V+SINGULAR+IMPERATIVE: kyáambda ín kyáambda
-     ín+V+IMMEDIATE+PRESENT: kyáambda ín.ga kyáambda
+     ín+V+IMMEDIATE+PRESENT: kyáambda ín-ga kyáambda
      ín+V+INTERROGATIVE+SIMPLE+PRESENT: kyáambda ín kyáambda
-     ín+V+SIMPLE+PRESENT: kyáambda ín.gang kyáambda
-     ín+V+DIRECT+PAST: kyáambda ín.gan kyáambda
+     ín+V+SIMPLE+PRESENT: kyáambda ín-gang kyáambda
+     ín+V+DIRECT+PAST: kyáambda ín-gan kyáambda
      ín+V+RELATIVE: kyáambda íns kyáambda
      ín+V+NON_FACTIVE: kyáambda ínang kyáambda
-     ín+V+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín.gang kyáambda
-     ín+V+PRESENT+HABITUAL: kyáambda ín.ganggang kyáambda
-     ín+V+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gangang kyáambda
-     ín+V+DIRECT+PAST+HABITUAL: kyáambda ín.giinii kyáambda
-     ín+V+INTERROGATIVE+PAST+HABITUAL: kyáambda ín.gaangaa kyáambda
-     ín+V+INDIRECT+PAST+HABITUAL: kyáambda ín.gaangaan kyáambda
+     ín+V+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín-gang kyáambda
+     ín+V+PRESENT+HABITUAL: kyáambda ín-ganggang kyáambda
+     ín+V+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín-gangang kyáambda
+     ín+V+DIRECT+PAST+HABITUAL: kyáambda ín-giinii kyáambda
+     ín+V+INTERROGATIVE+PAST+HABITUAL: kyáambda ín-gaangaa kyáambda
+     ín+V+INDIRECT+PAST+HABITUAL: kyáambda ín-gaangaan kyáambda
      ín+V+INTERROGATIVE+FUTURE+LONG: kyáambda ínäsaa kyáambda
      ín+V+INTERROGATIVE+FUTURE+SHORT: kyáambda ínäs kyáambda
      ín+V+SIMPLE+FUTURE: kyáambda ínäsaang kyáambda
@@ -54,9 +54,9 @@ Tests:
      ín+V+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: kyáambda ín'aawaas kyáambda
      ín+V+3rd_PERSON_PLURAL+NON_FACTIVE: kyáambda ín'waa.ang kyáambda
      ín+V+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: kyáambda ín'aawaa.ang kyáambda
-     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín.gang'waa kyáambda
-     ín+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kyáambda ín.gang'waang kyáambda
-     ín+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gang'waa.ang kyáambda
+     ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín-gang'waa kyáambda
+     ín+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kyáambda ín-gang'waang kyáambda
+     ín+V+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín-gang'waa.ang kyáambda
      ín+V+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: kyáambda ín'wägiinii kyáambda
      ín+V+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'wägaangaa kyáambda
      ín+V+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: kyáambda ín'wägaangaan kyáambda
@@ -99,8 +99,8 @@ Tests:
      ín+V+NEGATIVE+NON_FACTIVE: kyáambda ín'angang kyáambda
      ín+V+NEGATIVE+PAST+NON_FACTIVE: kyáambda ín'aangaa.ang kyáambda
      ín+V+NEGATIVE+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín'anggang kyáambda
-     ín+V+NEGATIVE+PRESENT+HABITUAL: kyáambda ín.gang'anggang kyáambda
-     ín+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gang'angang kyáambda
+     ín+V+NEGATIVE+PRESENT+HABITUAL: kyáambda ín-gang'anggang kyáambda
+     ín+V+NEGATIVE+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín-gang'angang kyáambda
      ín+V+NEGATIVE+DIRECT+PAST+HABITUAL: kyáambda ín'anggiinii kyáambda
      ín+V+NEGATIVE+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'anggaangaa kyáambda
      ín+V+NEGATIVE+INDIRECT+PAST+HABITUAL: kyáambda ín'anggaangaan kyáambda
@@ -142,9 +142,9 @@ Tests:
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+RELATIVE+EVIDENTIAL: kyáambda ín'ang'aawaas kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+NON_FACTIVE: kyáambda ín'ang'waa.ang kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+PAST+NON_FACTIVE: kyáambda ín'ang'aawaa.ang kyáambda
-     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín.gang'ang'waa kyáambda
-     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kyáambda ín.gang'ang'waang kyáambda
-     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín.gang'ang'waa.ang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PRESENT+HABITUAL: kyáambda ín-gang'ang'waa kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL: kyáambda ín-gang'ang'waang kyáambda
+     ín+V+NEGATIVE+3rd_PERSON_PLURAL+PRESENT+HABITUAL+NON_FACTIVE: kyáambda ín-gang'ang'waa.ang kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+DIRECT+PAST+HABITUAL: kyáambda ín'ang'wägiinii kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+INTERROGATIVE+PAST+HABITUAL: kyáambda ín'ang'wägaangaa kyáambda
      ín+V+NEGATIVE+3rd_PERSON_PLURAL+INDIRECT+PAST+HABITUAL: kyáambda ín'ang'wägaangaan kyáambda

@@ -12,18 +12,18 @@ Tests:
   Verb - kyáambda ín - ENGLISH : # CLASS_IN_STEM_1
 
      kyáambda ín+V+Sg+Impv: kyáambda ín
-     kyáambda ín+V+Imm+Pres: kyáambda ín.ga
+     kyáambda ín+V+Imm+Pres: kyáambda ín-ga
      kyáambda ín+V+Interr+Simp+Pres: kyáambda ín
-     kyáambda ín+V+Simp+Pres: kyáambda ín.gang
-     kyáambda ín+V+Dir+Past: kyáambda ín.gan
+     kyáambda ín+V+Simp+Pres: kyáambda ín-gang
+     kyáambda ín+V+Dir+Past: kyáambda ín-gan
      kyáambda ín+V+Rel: kyáambda íns
      kyáambda ín+V+NonFact: kyáambda ínang
-     kyáambda ín+V+Interr+Pres+Hab: kyáambda ín.gang
-     kyáambda ín+V+Pres+Hab: kyáambda ín.ganggang
-     kyáambda ín+V+Pres+Hab+NonFact: kyáambda ín.gangang
-     kyáambda ín+V+Dir+Past+Hab: kyáambda ín.giinii
-     kyáambda ín+V+Interr+Past+Hab: kyáambda ín.gaangaa
-     kyáambda ín+V+Indir+Past+Hab: kyáambda ín.gaangaan
+     kyáambda ín+V+Interr+Pres+Hab: kyáambda ín-gang
+     kyáambda ín+V+Pres+Hab: kyáambda ín-ganggang
+     kyáambda ín+V+Pres+Hab+NonFact: kyáambda ín-gangang
+     kyáambda ín+V+Dir+Past+Hab: kyáambda ín-giinii
+     kyáambda ín+V+Interr+Past+Hab: kyáambda ín-gaangaa
+     kyáambda ín+V+Indir+Past+Hab: kyáambda ín-gaangaan
      kyáambda ín+V+Interr+Fut+Long: kyáambda ínäsaa
      kyáambda ín+V+Interr+Fut+Short: kyáambda ínäs
      kyáambda ín+V+Simp+Fut: kyáambda ínäsaang
@@ -54,9 +54,9 @@ Tests:
      kyáambda ín+V+3pl+Rel+Evid: kyáambda ínʼaawaas
      kyáambda ín+V+3pl+NonFact: kyáambda ínʼwaa.ang
      kyáambda ín+V+3pl+Past+NonFact: kyáambda ínʼaawaa.ang
-     kyáambda ín+V+3pl+Interr+Pres+Hab: kyáambda ín.gangʼwaa
-     kyáambda ín+V+3pl+Pres+Hab: kyáambda ín.gangʼwaang
-     kyáambda ín+V+3pl+Pres+Hab+NonFact: kyáambda ín.gangʼwaa.ang
+     kyáambda ín+V+3pl+Interr+Pres+Hab: kyáambda ín-gangʼwaa
+     kyáambda ín+V+3pl+Pres+Hab: kyáambda ín-gangʼwaang
+     kyáambda ín+V+3pl+Pres+Hab+NonFact: kyáambda ín-gangʼwaa.ang
      kyáambda ín+V+3pl+Dir+Past+Hab: kyáambda ínʼwägiinii
      kyáambda ín+V+3pl+Interr+Past+Hab: kyáambda ínʼwägaangaa
      kyáambda ín+V+3pl+Indir+Past+Hab: kyáambda ínʼwägaangaan
@@ -99,8 +99,8 @@ Tests:
      kyáambda ín+V+Neg+NonFact: kyáambda ínʼangang
      kyáambda ín+V+Neg+Past+NonFact: kyáambda ínʼaangaa.ang
      kyáambda ín+V+Neg+Interr+Pres+Hab: kyáambda ínʼanggang
-     kyáambda ín+V+Neg+Pres+Hab: kyáambda ín.gangʼanggang
-     kyáambda ín+V+Neg+Pres+Hab+NonFact: kyáambda ín.gangʼangang
+     kyáambda ín+V+Neg+Pres+Hab: kyáambda ín-gangʼanggang
+     kyáambda ín+V+Neg+Pres+Hab+NonFact: kyáambda ín-gangʼangang
      kyáambda ín+V+Neg+Dir+Past+Hab: kyáambda ínʼanggiinii
      kyáambda ín+V+Neg+Interr+Past+Hab: kyáambda ínʼanggaangaa
      kyáambda ín+V+Neg+Indir+Past+Hab: kyáambda ínʼanggaangaan
@@ -142,9 +142,9 @@ Tests:
      kyáambda ín+V+Neg+3pl+Rel+Evid: kyáambda ínʼangʼaawaas
      kyáambda ín+V+Neg+3pl+NonFact: kyáambda ínʼangʼwaa.ang
      kyáambda ín+V+Neg+3pl+Past+NonFact: kyáambda ínʼangʼaawaa.ang
-     kyáambda ín+V+Neg+3pl+Interr+Pres+Hab: kyáambda ín.gangʼangʼwaa
-     kyáambda ín+V+Neg+3pl+Pres+Hab: kyáambda ín.gangʼangʼwaang
-     kyáambda ín+V+Neg+3pl+Pres+Hab+NonFact: kyáambda ín.gangʼangʼwaa.ang
+     kyáambda ín+V+Neg+3pl+Interr+Pres+Hab: kyáambda ín-gangʼangʼwaa
+     kyáambda ín+V+Neg+3pl+Pres+Hab: kyáambda ín-gangʼangʼwaang
+     kyáambda ín+V+Neg+3pl+Pres+Hab+NonFact: kyáambda ín-gangʼangʼwaa.ang
      kyáambda ín+V+Neg+3pl+Dir+Past+Hab: kyáambda ínʼangʼwägiinii
      kyáambda ín+V+Neg+3pl+Interr+Past+Hab: kyáambda ínʼangʼwägaangaa
      kyáambda ín+V+Neg+3pl+Indir+Past+Hab: kyáambda ínʼangʼwägaangaan
