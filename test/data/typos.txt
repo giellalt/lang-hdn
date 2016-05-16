@@ -33,10 +33,6 @@
 #
 #
 
-Jaabaniigaagang	Jáabäniigaagang
-Kil	Kíl
-Naay	Náay
-Xaad	X̲aad
 aadlʼan	áadlʼan
 aahlgaang	áahlgaang
 aahlgang	áahlgang
@@ -206,7 +202,6 @@ gudangʼwaang	gudángʼwaang
 gudaʼanggang	gudäʼánggang
 gudgasdlagan	gudgasdlägán
 gudʼaandaang	gudʼáandaang
-gudʼaang	gudʼáang
 gusdla	g̲usdlä
 gusdlaa	g̲usdláa
 gusdlaang	g̲usdláang
@@ -286,7 +281,6 @@ ijgaagang	ijgáagang
 ijgaaʼwaang	ijgáaʼwaang
 ilgan	ílgan
 ilgang	ílgang
-in	ín
 inasaang	ínäsaang
 inhaalaa	ínhaalaa
 inhalgan	ínhalgan
@@ -302,6 +296,7 @@ isgyaan	isgyáan
 iswiisagan	iswíisägan
 isʼang	isʼáng
 isʼangang	isʼangáng
+Jaabaniigaagang	Jáabäniigaagang
 jaadaagang	jáadaagang
 jaadaas	jáadaas
 jaadanggan	jaadánggan
@@ -352,7 +347,6 @@ kiihlgaay	k̲íihlgaay
 kiiya	k̲íiyä
 kiiyaa	k̲íiyaa
 kiiyasgaa	k̲íiyäsgaa
-kil	kíl
 king	kíng
 king	k̲íng
 kingaa	kingáa
@@ -368,7 +362,6 @@ kwaanhiidang	k̲wáanhiidang
 kwaanʼanggan	k̲wáanʼanggan
 kwaanʼilgang	k̲wáanʼilgang
 kyaagaang	kyáagaang
-kʼa	k̲ʼa
 kʼaahluudaal	k̲ʼáahluudaal
 kʼaahluuhahlʼuhlagan	k̲ʼáahluuhahlʼuhlägan
 kʼaahluuʼuhlagan	k̲ʼáahluuʼuhlägan
@@ -436,13 +429,13 @@ kʼwaʼaydanghiidan	kʼwaʼáydanghiidan
 kʼwaʼaydangʼang	kʼwaʼáydangʼang
 kʼwiid	k̲ʼwíid
 kʼwiigan	kʼwíigan
-naa	náa
 naanang	náanang
 naang	náang
 naanggwaangʼwaang	náanggwaangʼwaang
 naangʼwagan	náangʼwägan
 naangʼwaʼaangʼwaang	náangʼwaʼaangʼwaang
 naawhlaang	naawhláang
+Naay	Náay
 naay	náay
 nangaagang	nangáagang
 niihl	níihl
@@ -526,7 +519,6 @@ tada	tadä
 tadagan	tadägán
 tangaagang	tangáagang
 tihlwaanggan	tihlwáanggan
-tii	tíi
 tiyagan	tiyägán
 tlaagaang	tláagaang
 tlaagaangaa	tláagaangaa
@@ -574,7 +566,6 @@ tlagaaydagan	tlagáaydägan
 tlang	tláng
 tleehl	tléehl
 tluwaay	tluwáay
-tlʼa	tlʼä
 tlʼaagaa	tlʼaagáa
 tlʼajgusdlagan	tlʼajgusdlägán
 tlʼaʼuhldagan	tlʼaʼuhldägán
@@ -583,7 +574,6 @@ tsʼaanggang	tsʼáanggang
 tsʼaʼaawgang	tsʼaʼáawgang
 tsʼiigagan	tsʼíigägan
 tsʼuuwii	tsʼúuwii
-tʼaahl	tʼáahl
 tʼaawiidan	tʼaawíidan
 tʼalang	tʼaláng
 tʼalga	tʼálgä
@@ -594,6 +584,7 @@ tʼiihla	tʼíihlä
 unsadaa	únsadaa
 unsiidang	únsiidang
 wahdagan	wahdägán
+Xaad	X̲aad
 xaasdla	x̲áasdlä
 xaay	x̲áay
 xaaydang	xaaydáng
