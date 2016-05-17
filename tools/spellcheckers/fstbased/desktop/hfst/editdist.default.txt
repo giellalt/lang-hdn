@@ -75,7 +75,7 @@ Z
 @@
 
 ## Transition pair specifications:
-a	á	2
+a	á	1
 a	ä	3
 e	é	2
 o	ó	2
