@@ -1,4 +1,23 @@
-# Dummy, non-sense replace rule to avoid breaking errors in the compilaton.
-# Replace with something useful, but ALWAYS test the resulting error model,
-# both regarding speed and suggestion quality.
- a -> {a}::0 ;
+# Replace regex for Northern Haida accented char errors (accents etc left out).
+# With this regex + other parts of the error model, we are able to correct
+# 100 % of the errors in the typos list (minus one where the intended correction
+# is not recognised by the speller).
+# The trick is that this limited regex is applied twice for every regular
+# edit distance operation, creating an effective edit distance of four for these
+# changes (and only these).
+ a -> {á}::1 ,
+ a -> {ä}::1 ,
+ e -> {é}::3 ,
+ o -> {ó}::3 ,
+ u -> {ú}::1 ,
+ i -> {í}::3 ,
+ g -> {ĝ}::3 ,
+ g -> {g̲}::1 ,
+ k -> {k̲}::1 ,
+ x -> {x̲}::1 ,
+ x -> {x̂}::1 ,
+ G -> {Ĝ}::1 ,
+ G -> {G̲}::2 ,
+ K -> {K̲}::2 ,
+ X -> {X̲}::2 ,
+ X -> {X̂}::2 ;
