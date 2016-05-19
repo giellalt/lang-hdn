@@ -38,45 +38,45 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 s2 !!= * @CODE@ =
 
 !! Haida has these tags for real, says Jordan.
-+V	!!= * @CODE@ = Verbs
-+N	    !!= * @CODE@ = Nouns
-+Prop	    !!= * @CODE@ = Proper nouns
-+Neg	!!= * @CODE@ = Negative
-+3pl	!!= * @CODE@ = 3rd personal definite plural participant
-+Interr	!!= * @CODE@ = Interrogative
-+Fut	!!= * @CODE@ = Future
-+Past	!!= * @CODE@ = Past
-+Pres	!!= * @CODE@ = Present
-+Hab	!!= * @CODE@ = Habitual
-+Bias	!!= * @CODE@ = Biased
-+Cert	!!= * @CODE@ = Certain
-+Simp	!!= * @CODE@ = Simple
-+Rel	!!= * @CODE@ = Relative
-+NonFact	!!= * @CODE@ = Non_Factive
-+Imm	!!= * @CODE@ = Immediate
-+VNear	!!= * @CODE@ = Very near
-+Rflx	!!= * @CODE@ = Reflexive
-+Near	!!= * @CODE@ =
-+Indir	!!= * @CODE@ = Indirect evidentiality
-+Dir	!!= * @CODE@ = Direct evidentiality
-+Cont	!!= * @CODE@ = Should keep on verbing
-+Short	!!= * @CODE@ =
-+Res	!!= * @CODE@ = Resigned obligation
-+Long	!!= * @CODE@ =
-+Ints	!!= * @CODE@ = Intensive
-+Impv	!!= * @CODE@ = Imperative
-+Evid	!!= * @CODE@ = Evidential
-+Ctfact	!!= * @CODE@ = Counterfactual
-+Sg	!!= * @CODE@ = Singular
-+Pl	!!= * @CODE@ = Plural
-+Def	!!= * @CODE@ =
-+Indef	!!= * @CODE@ =
-+Rfx	!!= * @CODE@ = Used for reflexively possessed body parts and kinterms
-+Abs    !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
-+Pron	    !!= * @CODE@ =
-+Ptcl	    !!= * @CODE@ =
-+Cond-Aux1  !!= * @CODE@ = Used before non-ablauting secondary verbs
-+Cond-Aux2  !!= * @CODE@ = Used before ablauting secondary verbs
++V         !!= * @CODE@ = Verbs
++N         !!= * @CODE@ = Nouns
++Prop      !!= * @CODE@ = Proper nouns
++Neg       !!= * @CODE@ = Negative
++3pl       !!= * @CODE@ = 3rd personal definite plural participant
++Interr    !!= * @CODE@ = Interrogative
++Fut       !!= * @CODE@ = Future
++Past      !!= * @CODE@ = Past
++Pres      !!= * @CODE@ = Present
++Hab       !!= * @CODE@ = Habitual
++Bias      !!= * @CODE@ = Biased
++Cert      !!= * @CODE@ = Certain
++Simp      !!= * @CODE@ = Simple
++Rel       !!= * @CODE@ = Relative
++NonFact   !!= * @CODE@ = Non_Factive
++Imm       !!= * @CODE@ = Immediate
++VNear     !!= * @CODE@ = Very near
++Rflx      !!= * @CODE@ = Reflexive
++Near      !!= * @CODE@ =
++Indir     !!= * @CODE@ = Indirect evidentiality
++Dir       !!= * @CODE@ = Direct evidentiality
++Cont      !!= * @CODE@ = Should keep on verbing
++Short     !!= * @CODE@ =
++Res       !!= * @CODE@ = Resigned obligation
++Long      !!= * @CODE@ =
++Ints      !!= * @CODE@ = Intensive
++Impv      !!= * @CODE@ = Imperative
++Evid      !!= * @CODE@ = Evidential
++Ctfact    !!= * @CODE@ = Counterfactual
++Sg        !!= * @CODE@ = Singular
++Pl        !!= * @CODE@ = Plural
++Def       !!= * @CODE@ =
++Indef     !!= * @CODE@ =
++Rfx       !!= * @CODE@ = Used for reflexively possessed body parts and kinterms
++Abs       !!= * @CODE@ = Non-reflexive forms of body parts and kinterms
++Pron      !!= * @CODE@ =
++Ptcl      !!= * @CODE@ =
++Cond-Aux1 !!= * @CODE@ = Used before non-ablauting secondary verbs
++Cond-Aux2 !!= * @CODE@ = Used before ablauting secondary verbs
 
 !! Quasi-inflectional Tags
 
@@ -94,68 +94,68 @@ s2 !!= * @CODE@ =
 
 !! Valency Tags
 
-+Val/0	     !!= * @CODE@ = Environmental verbs (no subject) [0]
-+Val/I	     !!= * @CODE@ = Impersonal Descriptive verbs [Si]
-+Val/A	     !!= * @CODE@ = Active Descriptive verbs [Sa]
-+Val/P	     !!= * @CODE@ = Passive Descriptive verbs [Sp]
-+Val/AO      !!= * @CODE@ = Active Dynamic verbs [Sa] [O]
-+Val/AOR     !!= * @CODE@ = Active Dynamic Reflexive verbs [Sa] [Or]
-+Val/PO      !!= * @CODE@ = Passive Dynamic verbs [Sp] [O]
-+Val/IO      !!= * @CODE@ = Impersonal Dynamic verbs [Si] [O]
-+Val/AC      !!= * @CODE@ = Active Causative verbs [Sa] [C]
-+Val/ACR     !!= * @CODE@ = Active Causative Reflexive verbs [Sa] [Cr]
-+Val/PC      !!= * @CODE@ = Passive Causative verbs [Sp] [C]
-+Val/IC      !!= * @CODE@ = Impersonal Causative verbs [Si] [C]
-+Val/ACO     !!= * @CODE@ = Active Transcausative verbs [Sa] [C] [O]
-+Val/0X	     !!= * @CODE@ = Extended Environmental verbs (no subject) [0] [X]
-+Val/IX	     !!= * @CODE@ = Extended Impersonal Descriptive verbs [Si] [X]
-+Val/AX	     !!= * @CODE@ = Extended Active Descriptive verbs [Sa] [X]
-+Val/PX	     !!= * @CODE@ = Extended Passive Descriptive verbs [Sp] [X]
-+Val/AOX     !!= * @CODE@ = Extended Active Dynamic verbs [Sa] [O] [X]
-+Val/AORX    !!= * @CODE@ = Extended Active Dynamic Reflexive verbs [Sa] [Or] [X]
-+Val/POX     !!= * @CODE@ = Extended Passive Dynamic verbs [Sp] [O] [X]
-+Val/IOX     !!= * @CODE@ = Extended Impersonal Dynamic verbs [Si] [O] [X]
-+Val/ACX     !!= * @CODE@ = Extended Active Causative verbs [Sa] [C] [X]
-+Val/ACRX    !!= * @CODE@ = Extended Active Causative Reflexive verbs [Sa] [Cr] [X]
-+Val/PCX     !!= * @CODE@ = Extended Passive Causative verbs [Sp] [C] [X]
-+Val/ICX     !!= * @CODE@ = Extended Impersonal Causative verbs [Si] [C] [X]
-+Val/ACOX    !!= * @CODE@ = Extended Active Transcausative verbs [Sa] [C] [O] [X]
++Val/0       !!≈ * @CODE@ = Environmental verbs (no subject) {{(0)}}
++Val/I       !!≈ * @CODE@ = Impersonal Descriptive verbs {{(Si)}}
++Val/A       !!≈ * @CODE@ = Active Descriptive verbs {{(Sa)}}
++Val/P       !!≈ * @CODE@ = Passive Descriptive verbs {{(Sp)}}
++Val/AO      !!≈ * @CODE@ = Active Dynamic verbs {{(Sa) (O)}}
++Val/AOR     !!≈ * @CODE@ = Active Dynamic Reflexive verbs {{(Sa) (Or)}}
++Val/PO      !!≈ * @CODE@ = Passive Dynamic verbs {{(Sp) (O)}}
++Val/IO      !!≈ * @CODE@ = Impersonal Dynamic verbs {{(Si) (O)}}
++Val/AC      !!≈ * @CODE@ = Active Causative verbs {{(Sa) (C)}}
++Val/ACR     !!≈ * @CODE@ = Active Causative Reflexive verbs {{(Sa) (Cr)}}
++Val/PC      !!≈ * @CODE@ = Passive Causative verbs {{(Sp) (C)}}
++Val/IC      !!≈ * @CODE@ = Impersonal Causative verbs {{(Si) (C)}}
++Val/ACO     !!≈ * @CODE@ = Active Transcausative verbs {{(Sa) (C) (O)}}
++Val/0X      !!≈ * @CODE@ = Extended Environmental verbs (no subject) {{(0) (X)}}
++Val/IX      !!≈ * @CODE@ = Extended Impersonal Descriptive verbs {{(Si) (X)}}
++Val/AX      !!≈ * @CODE@ = Extended Active Descriptive verbs {{(Sa) (X)}}
++Val/PX      !!≈ * @CODE@ = Extended Passive Descriptive verbs {{(Sp) (X)}}
++Val/AOX     !!≈ * @CODE@ = Extended Active Dynamic verbs {{(Sa) (O) (X)}}
++Val/AORX    !!≈ * @CODE@ = Extended Active Dynamic Reflexive verbs {{(Sa) (Or) (X)}}
++Val/POX     !!≈ * @CODE@ = Extended Passive Dynamic verbs {{(Sp) (O) (X)}}
++Val/IOX     !!≈ * @CODE@ = Extended Impersonal Dynamic verbs {{(Si) (O) (X)}}
++Val/ACX     !!≈ * @CODE@ = Extended Active Causative verbs {{(Sa) (C) (X)}}
++Val/ACRX    !!≈ * @CODE@ = Extended Active Causative Reflexive verbs {{(Sa) (Cr) (X)}}
++Val/PCX     !!≈ * @CODE@ = Extended Passive Causative verbs {{(Sp) (C) (X)}}
++Val/ICX     !!≈ * @CODE@ = Extended Impersonal Causative verbs {{(Si) (C) (X)}}
++Val/ACOX    !!≈ * @CODE@ = Extended Active Transcausative verbs {{(Sa) (C) (O) (X)}}
 
 
 !! The Human Classifiers
 
-+CL/dla !!= * @CODE@ =
-+CL/hlga !!= * @CODE@ =
-+CL/k’u !!= * @CODE@ =
++CL/dla  !!≈ * @CODE@ =
++CL/hlga !!≈ * @CODE@ =
++CL/k’u  !!≈ * @CODE@ =
 
 !! The Shape Classifiers
 
-+CL/cha !!= * @CODE@ =
-+CL/gáng !!= * @CODE@ =
-+CL/gi !!= * @CODE@ =
-+CL/gu !!= * @CODE@ =
-+CL/g̲a !!= * @CODE@ =
-+CL/hlga !!= * @CODE@ =
-+CL/hlgi !!= * @CODE@ =
-+CL/hlg̲a !!= * @CODE@ =
-+CL/hlk’u !!= * @CODE@ =
-+CL/hlk̲’a !!= * @CODE@ =
-+CL/hlk̲’uhl !!= * @CODE@ =
-+CL/ja !!= * @CODE@ =
-+CL/k̲ʼíi !!= * @CODE@ =
-+CL/sda !!= * @CODE@ =
-+CL/sga !!= * @CODE@ =
-+CL/sg̲a !!= * @CODE@ =
-+CL/skáa !!= * @CODE@ =
-+CL/sk’a !!= * @CODE@ =
-+CL/sk̲’a !!= * @CODE@ =
-+CL/stl’a !!= * @CODE@ =
-+CL/tíi !!= * @CODE@ =
-+CL/tl’a !!= * @CODE@ =
-+CL/ts’as !!= * @CODE@ =
-+CL/t’a !!= * @CODE@ =
-+CL/t’áw !!= * @CODE@ =
-+CL/xa !!= * @CODE@ =
++CL/cha     !!≈ * @CODE@ =
++CL/gáng    !!≈ * @CODE@ =
++CL/gi      !!≈ * @CODE@ =
++CL/gu      !!≈ * @CODE@ =
++CL/g̲a      !!≈ * @CODE@ =
++CL/hlga    !!≈ * @CODE@ =
++CL/hlgi    !!≈ * @CODE@ =
++CL/hlg̲a    !!≈ * @CODE@ =
++CL/hlk’u   !!≈ * @CODE@ =
++CL/hlk̲’a   !!≈ * @CODE@ =
++CL/hlk̲’uhl !!≈ * @CODE@ =
++CL/ja      !!≈ * @CODE@ =
++CL/k̲ʼíi    !!≈ * @CODE@ =
++CL/sda     !!≈ * @CODE@ =
++CL/sga     !!≈ * @CODE@ =
++CL/sg̲a     !!≈ * @CODE@ =
++CL/skáa    !!≈ * @CODE@ =
++CL/sk’a    !!≈ * @CODE@ =
++CL/sk̲’a    !!≈ * @CODE@ =
++CL/stl’a   !!≈ * @CODE@ =
++CL/tíi     !!≈ * @CODE@ =
++CL/tl’a    !!≈ * @CODE@ =
++CL/ts’as   !!≈ * @CODE@ =
++CL/t’a     !!≈ * @CODE@ =
++CL/t’áw    !!≈ * @CODE@ =
++CL/xa      !!≈ * @CODE@ =
 
 !! The Descriptive Classifiers
 
@@ -320,8 +320,8 @@ s2 !!= * @CODE@ =
 
 !! Semantic Tags
 
-+SEM/Kinterm
-+SEM/BodyPart
++Sem/Kinterm
++Sem/BodyPart
 
 !! Dialect Tags
 
