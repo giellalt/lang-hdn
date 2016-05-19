@@ -22,45 +22,45 @@ These are vowel morphophonemes which will lose their accent when they are no lon
  * s2  =
 
 Haida has these tags for real, says Jordan.
- * +V	 = Verbs
- * +N	     = Nouns
- * +Prop	     = Proper nouns
- * +Neg	 = Negative
- * +3pl	 = 3rd personal definite plural participant
- * +Interr	 = Interrogative
- * +Fut	 = Future
- * +Past	 = Past
- * +Pres	 = Present
- * +Hab	 = Habitual
- * +Bias	 = Biased
- * +Cert	 = Certain
- * +Simp	 = Simple
- * +Rel	 = Relative
- * +NonFact	 = Non_Factive
- * +Imm	 = Immediate
- * +VNear	 = Very near
- * +Rflx	 = Reflexive
- * +Near	 =
- * +Indir	 = Indirect evidentiality
- * +Dir	 = Direct evidentiality
- * +Cont	 = Should keep on verbing
- * +Short	 =
- * +Res	 = Resigned obligation
- * +Long	 =
- * +Ints	 = Intensive
- * +Impv	 = Imperative
- * +Evid	 = Evidential
- * +Ctfact	 = Counterfactual
- * +Sg	 = Singular
- * +Pl	 = Plural
- * +Def	 =
- * +Indef	 =
- * +Rfx	 = Used for reflexively possessed body parts and kinterms
- * +Abs     = Non-reflexive forms of body parts and kinterms
- * +Pron	     =
- * +Ptcl	     =
- * +Cond-Aux1   = Used before non-ablauting secondary verbs
- * +Cond-Aux2   = Used before ablauting secondary verbs
+ * +V          = Verbs
+ * +N          = Nouns
+ * +Prop       = Proper nouns
+ * +Neg        = Negative
+ * +3pl        = 3rd personal definite plural participant
+ * +Interr     = Interrogative
+ * +Fut        = Future
+ * +Past       = Past
+ * +Pres       = Present
+ * +Hab        = Habitual
+ * +Bias       = Biased
+ * +Cert       = Certain
+ * +Simp       = Simple
+ * +Rel        = Relative
+ * +NonFact    = Non_Factive
+ * +Imm        = Immediate
+ * +VNear      = Very near
+ * +Rflx       = Reflexive
+ * +Near       =
+ * +Indir      = Indirect evidentiality
+ * +Dir        = Direct evidentiality
+ * +Cont       = Should keep on verbing
+ * +Short      =
+ * +Res        = Resigned obligation
+ * +Long       =
+ * +Ints       = Intensive
+ * +Impv       = Imperative
+ * +Evid       = Evidential
+ * +Ctfact     = Counterfactual
+ * +Sg         = Singular
+ * +Pl         = Plural
+ * +Def        =
+ * +Indef      =
+ * +Rfx        = Used for reflexively possessed body parts and kinterms
+ * +Abs        = Non-reflexive forms of body parts and kinterms
+ * +Pron       =
+ * +Ptcl       =
+ * +Cond-Aux1  = Used before non-ablauting secondary verbs
+ * +Cond-Aux2  = Used before ablauting secondary verbs
 
 Quasi-inflectional Tags
 
@@ -78,69 +78,68 @@ Quasi-inflectional Tags
 
 Valency Tags
 
- * +VAL/0	      = Environmental verbs (no subject) [0]
- * +VAL/I	      = Impersonal Descriptive verbs [Si]
- * +VAL/A	      = Active Descriptive verbs [Sa]
- * +VAL/P	      = Passive Descriptive verbs [Sp]
- * +VAL/AO       = Active Dynamic verbs [Sa] [O]
- * +VAL/AOR      = Active Dynamic Reflexive verbs [Sa] [Or]
- * +VAL/PO       = Passive Dynamic verbs [Sp] [O]
- * +VAL/IO       = Impersonal Dynamic verbs [Si] [O]
- * +VAL/AC       = Active Causative verbs [Sa] [C]
- * +VAL/ACR      = Active Causative Reflexive verbs [Sa] [Cr]
- * +VAL/PC       = Passive Causative verbs [Sp] [C]
- * +VAL/IC       = Impersonal Causative verbs [Si] [C]
- * +VAL/ACO      = Active Transcausative verbs [Sa] [C] [O]
- * +VAL/0X	      = Extended Environmental verbs (no subject) [0] [X]
- * +VAL/IX	      = Extended Impersonal Descriptive verbs [Si] [X]
- * +VAL/AX	      = Extended Active Descriptive verbs [Sa] [X]
- * +VAL/PX	      = Extended Passive Descriptive verbs [Sp] [X]
- * +VAL/AOX      = Extended Active Dynamic verbs [Sa] [O] [X]
- * +VAL/AORX     = Extended Active Dynamic Reflexive verbs [Sa] [Or] [X]
- * +VAL/POX      = Extended Passive Dynamic verbs [Sp] [O] [X]
- * +VAL/IOX      = Extended Impersonal Dynamic verbs [Si] [O] [X]
- * +VAL/ACX      = Extended Active Causative verbs [Sa] [C] [X]
- * +VAL/ACRX     = Extended Active Causative Reflexive verbs [Sa] [Cr] [X]
- * +VAL/PCX      = Extended Passive Causative verbs [Sp] [C] [X]
- * +VAL/ICX      = Extended Impersonal Causative verbs [Si] [C] [X]
- * +VAL/ACOX     = Extended Active Transcausative verbs [Sa] [C] [O] [X]
-
+ * +Val/0 = Environmental verbs (no subject) {{(0)}}
+ * +Val/I = Impersonal Descriptive verbs {{(Si)}}
+ * +Val/A = Active Descriptive verbs {{(Sa)}}
+ * +Val/P = Passive Descriptive verbs {{(Sp)}}
+ * +Val/AO = Active Dynamic verbs {{(Sa) (O)}}
+ * +Val/AOR = Active Dynamic Reflexive verbs {{(Sa) (Or)}}
+ * +Val/PO = Passive Dynamic verbs {{(Sp) (O)}}
+ * +Val/IO = Impersonal Dynamic verbs {{(Si) (O)}}
+ * +Val/AC = Active Causative verbs {{(Sa) (C)}}
+ * +Val/ACR = Active Causative Reflexive verbs {{(Sa) (Cr)}}
+ * +Val/PC = Passive Causative verbs {{(Sp) (C)}}
+ * +Val/IC = Impersonal Causative verbs {{(Si) (C)}}
+ * +Val/ACO = Active Transcausative verbs {{(Sa) (C) (O)}}
+ * +Val/0X = Extended Environmental verbs (no subject) {{(0) (X)}}
+ * +Val/IX = Extended Impersonal Descriptive verbs {{(Si) (X)}}
+ * +Val/AX = Extended Active Descriptive verbs {{(Sa) (X)}}
+ * +Val/PX = Extended Passive Descriptive verbs {{(Sp) (X)}}
+ * +Val/AOX = Extended Active Dynamic verbs {{(Sa) (O) (X)}}
+ * +Val/AORX = Extended Active Dynamic Reflexive verbs {{(Sa) (Or) (X)}}
+ * +Val/POX = Extended Passive Dynamic verbs {{(Sp) (O) (X)}}
+ * +Val/IOX = Extended Impersonal Dynamic verbs {{(Si) (O) (X)}}
+ * +Val/ACX = Extended Active Causative verbs {{(Sa) (C) (X)}}
+ * +Val/ACRX = Extended Active Causative Reflexive verbs {{(Sa) (Cr) (X)}}
+ * +Val/PCX = Extended Passive Causative verbs {{(Sp) (C) (X)}}
+ * +Val/ICX = Extended Impersonal Causative verbs {{(Si) (C) (X)}}
+ * +Val/ACOX = Extended Active Transcausative verbs {{(Sa) (C) (O) (X)}}
 
 
 The Human Classifiers
 
- * +CL/dla  =
- * +CL/hlga  =
- * +CL/k’u  =
+ * +CL/dla =
+ * +CL/hlga =
+ * +CL/k’u =
 
 The Shape Classifiers
 
- * +CL/cha  =
- * +CL/gáng  =
- * +CL/gi  =
- * +CL/gu  =
- * +CL/g̲a  =
- * +CL/hlga  =
- * +CL/hlgi  =
- * +CL/hlg̲a  =
- * +CL/hlk’u  =
- * +CL/hlk̲’a  =
- * +CL/hlk̲’uhl  =
- * +CL/ja  =
- * +CL/k̲ʼíi  =
- * +CL/sda  =
- * +CL/sga  =
- * +CL/sg̲a  =
- * +CL/skáa  =
- * +CL/sk’a  =
- * +CL/sk̲’a  =
- * +CL/stl’a  =
- * +CL/tíi  =
- * +CL/tl’a  =
- * +CL/ts’as  =
- * +CL/t’a  =
- * +CL/t’áw  =
- * +CL/xa  =
+ * +CL/cha =
+ * +CL/gáng =
+ * +CL/gi =
+ * +CL/gu =
+ * +CL/g̲a =
+ * +CL/hlga =
+ * +CL/hlgi =
+ * +CL/hlg̲a =
+ * +CL/hlk’u =
+ * +CL/hlk̲’a =
+ * +CL/hlk̲’uhl =
+ * +CL/ja =
+ * +CL/k̲ʼíi =
+ * +CL/sda =
+ * +CL/sga =
+ * +CL/sg̲a =
+ * +CL/skáa =
+ * +CL/sk’a =
+ * +CL/sk̲’a =
+ * +CL/stl’a =
+ * +CL/tíi =
+ * +CL/tl’a =
+ * +CL/ts’as =
+ * +CL/t’a =
+ * +CL/t’áw =
+ * +CL/xa =
 
 The Descriptive Classifiers
 
