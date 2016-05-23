@@ -40,7 +40,7 @@ Sets
        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; !!= @CODE@
  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; !!= * @CODE@
  Orth = . %- ; 
- Endings =  %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;
+ Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;
  Sgm = Vow Cns Orth   ; !!= * @CODE@
 
  
