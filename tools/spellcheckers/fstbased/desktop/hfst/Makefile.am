@@ -39,7 +39,7 @@ INITIAL_EDITS=no
 # * txt   - use only the txt file as source
 # * regex - use only the regex file as source
 # * both  - use both the txt and regex files as sources
-STRING_EDITS=txt
+STRING_EDITS=both
 # Variable to specify the edit distance for the regex
 # version of the strings file. The total edit distance for those operations is
 # this value multiplied with the value of the DEFAULT_EDIT_DIST variable.
@@ -51,12 +51,12 @@ STRING_REGEX_EDIT_DISTANCE=2
 # * txt   - use only the txt file as source
 # * regex - use only the regex file as source
 # * both  - use both the txt and regex files as sources
-FINAL_STRING_EDITS=no
+FINAL_STRING_EDITS=txt
 
 # Variable to define whether to enable whole-word replacements. Possible values:
 # - yes
 # - no
-WORD_REPLACEMENTS=no
+WORD_REPLACEMENTS=yes
 
 include $(top_srcdir)/am-shared/tools-spellcheckers-fstbased-desktop-hfst-dir-include.am
 
