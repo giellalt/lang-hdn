@@ -44,8 +44,8 @@ To create similar statics, use the {{sum-cg.pl}} script (write ''sum-cg.pl --hel
 !!!Status
 
 * [Words missing from the analyser|data/missing.haidagrammarcorpus]
-* [Grammatical homonymy|grammarambiguity.html]
+* [Grammatical homonymy|data/grammarambiguity.html]
 
-* [Grammar ambiguity| grammarambiguity.html]
+* [Grammar ambiguity|data/grammarambiguity.html]
 * [The list of missing words| missing.haidagrammarcorpus]
 * [Word sense disambiguation|wordambiguity.html]
