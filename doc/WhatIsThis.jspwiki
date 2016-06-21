@@ -4,7 +4,7 @@ This is a grammatical analyser for Northern Haida.
 It contains some postpositions, a handful of nouns, some more verbs, and 
 one verb paradigm.
 
------
+----
 
 The structure of the source file catalogue is the same for all
 the languages, it is documented [here|../../infra/infraremake/NewinfraCatalogues.html].
