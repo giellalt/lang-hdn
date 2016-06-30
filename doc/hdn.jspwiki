@@ -10,6 +10,7 @@
 
 This is free and open source Northern Haida morphology.
 
+Northern Haida morphological analyser                      
 
 This file shows the Northern Haida multichar symbols and initial lexica.
 
@@ -696,7 +697,6 @@ Northern Haida verb affixes
 
  LEXICON CLASS-E.EHL 
 
- !LEXICON CLASS-E.EHL-STEM-1 
 
  LEXICON CLASS-E.EHL-STEM-1-INFL 
 
