@@ -4,137 +4,137 @@
 
 
 LEXICON Common
-+N+Indef: # ;
-+N+Def+Dial/NOT-M:%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:%>%^DEFée # ;
+          +N+Indef:           # ;
+ +N+Def+Dial/NOT-M:%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:%>%^DEFée  # ;
 
 LEXICON Common-AAL
-+N+Indef:áal # ;
-+N+Def+Dial/NOT-M:al%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:al%>%^DEFée # ;
+          +N+Indef:áal          # ;
+ +N+Def+Dial/NOT-M:al%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:al%>%^DEFée  # ;
 
 LEXICON Common-AAN
-+N+Indef:áan # ;
-+N+Def+Dial/NOT-M:an%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:an%>%^DEFée # ;
+          +N+Indef:áan          # ;
+ +N+Def+Dial/NOT-M:an%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:an%>%^DEFée  # ;
 
 LEXICON Common-AANG
-+N+Indef:áang # ;
-+N+Def+Dial/NOT-M:ang%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:ang%>%^DEFée # ;
+          +N+Indef:áang          # ;
+ +N+Def+Dial/NOT-M:ang%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:ang%>%^DEFée  # ;
 
 LEXICON Common-AAD
-+N+Indef:áad # ;
-+N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:ad%>%^DEFée # ;
+          +N+Indef:áad          # ;
+ +N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:ad%>%^DEFée  # ;
 
 LEXICON Common-AAW
-+N+Indef:áaw # ;
-+N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:uw%>%^DEFée # ;
+          +N+Indef:áaw          # ;
+ +N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:uw%>%^DEFée  # ;
 
 LEXICON Common-UU
-+N+Indef:úu # ;
-+N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:uw%>%^DEFée # ;
+          +N+Indef:úu           # ;
+ +N+Def+Dial/NOT-M:uw%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:uw%>%^DEFée  # ;
 
 LEXICON Common-UUD
-+N+Indef:úud # ;
-+N+Def+Dial/NOT-M:ud%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:ud%>%^DEFée # ;
+          +N+Indef:úud          # ;
+ +N+Def+Dial/NOT-M:ud%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:ud%>%^DEFée  # ;
 
 LEXICON Common-IID
-+N+Indef:íid # ;
-+N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:ad%>%^DEFée # ;
+          +N+Indef:íid          # ;
+ +N+Def+Dial/NOT-M:ad%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:ad%>%^DEFée  # ;
 
 LEXICON Common-IIS
-+N+Indef:íis # ;
-+N+Def+Dial/NOT-M:aj%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:aj%>%^DEFée # ;
+          +N+Indef:íis          # ;
+ +N+Def+Dial/NOT-M:aj%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:aj%>%^DEFée  # ;
 
 LEXICON Common-WAANG
-+N+Indef:wáang # ;
-+N+Def+Dial/NOT-M:ung%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:ung%>%^DEFée # ;
+          +N+Indef:wáang         # ;
+ +N+Def+Dial/NOT-M:ung%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:ung%>%^DEFée  # ;
 
 LEXICON Common-WAAN
-+N+Indef:wáan # ;
-+N+Def+Dial/NOT-M:un%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:un%>%^DEFée # ;
+          +N+Indef:wáan         # ;
+ +N+Def+Dial/NOT-M:un%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:un%>%^DEFée  # ;
 
 LEXICON Common-WAAL
-+N+Indef:wáal # ;
-+N+Def+Dial/NOT-M:ul%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:ul%>%^DEFée # ;
+          +N+Indef:wáal         # ;
+ +N+Def+Dial/NOT-M:ul%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:ul%>%^DEFée  # ;
 
 LEXICON Common-II
-+N+Indef:íi # ;
-+N+Def+Dial/NOT-M:iy%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:iy%>%^DEFée # ;
+          +N+Indef:íi           # ;
+ +N+Def+Dial/NOT-M:iy%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:iy%>%^DEFée  # ;
 
 LEXICON Common-HL
-+N+Indef:hl # ;
-+N+Def+Dial/NOT-M:l%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:l%>%^DEFée # ;
+          +N+Indef:hl          # ;
+ +N+Def+Dial/NOT-M:l%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:l%>%^DEFée  # ;
 
 LEXICON Common-S
-+N+Indef:s # ;
-+N+Def+Dial/NOT-M:j%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:j%>%^DEFée # ;
+          +N+Indef:s           # ;
+ +N+Def+Dial/NOT-M:j%>%^DEFáay # ;
+ +N+Def+Dial/NOT-A:j%>%^DEFée  # ;
 
 LEXICON Y-Def
-+N+Indef:áa # ; 
-+N+Def+Dial/NOT-M:%>áa%^DEFy # ;
-+N+Def+Dial/NOT-A:%>%^DEFée # ;
+          +N+Indef:áa         # ;
+ +N+Def+Dial/NOT-M:%>áa%^DEFy # ;
+ +N+Def+Dial/NOT-A:%>%^DEFée  # ;
 
 LEXICON BodyPart
-+N+Abs: # ;
-+N+Rfx:%>áng # ;
+ +N+Abs:      # ;
+ +N+Rfx:%>áng # ;
 
 LEXICON Kinterm
-+N+Sg+Abs: # ;
-+N+Rfx:%>áng # ; !! Does Rfx override Pl, or other way around?
-+N+Pl+Abs:%>äláng # ;
+ +N+Sg+Abs:        # ;
+    +N+Rfx:%>áng   # ; !! Does Rfx override Pl, or other way around?
+ +N+Pl+Abs:%>äláng # ;
 
 LEXICON Indec
-+N+Indef: # ;
-+N+Def: # ; !! Need to make Massett dialect -ee versions for Indec ending in -aay
+ +N+Indef: # ;
+   +N+Def: # ; !! Need to make Massett dialect -ee versions for Indec ending in -aay
 
 LEXICON S-Def
-+N+Indef: # ;
-+N+Def:%>%^DEFs # ;
+ +N+Indef:         # ;
+   +N+Def:%>%^DEFs # ;
 
 LEXICON GAAY
-+N+Indef: # ;
-+N+Def+Dial/NOT-M:%>%^DEFgáay # ; 
-+N+Def+Dial/NOT-A:%>%^DEFgée # ; 
+          +N+Indef:            # ;
+ +N+Def+Dial/NOT-M:%>%^DEFgáay # ;
+ +N+Def+Dial/NOT-A:%>%^DEFgée  # ;
 
 LEXICON GAAY-Short
-+N+Indef:áa # ;
-+N+Def+Dial/NOT-M:%>%^DEFgáay # ; 
-+N+Def+Dial/NOT-A:%>%^DEFgée # ; 
+          +N+Indef:áa          # ;
+ +N+Def+Dial/NOT-M:%>%^DEFgáay # ;
+ +N+Def+Dial/NOT-A:%>%^DEFgée  # ;
 
 LEXICON GAAY-N
-+N+Indef: # ;
-+N+Def+Dial/NOT-M:n-%>%^DEFgáay # ; 
-+N+Def+Dial/NOT-A:n-%>%^DEFgée # ; 
+          +N+Indef:              # ;
+ +N+Def+Dial/NOT-M:n-%>%^DEFgáay # ;
+ +N+Def+Dial/NOT-A:n-%>%^DEFgée  # ;
 
 LEXICON Human
-+N+Sg: # ;
-+N+Pl:%>äláng # ;
+ +N+Sg:        # ;
+ +N+Pl:%>äláng # ;
 
 LEXICON NAAY
-+N+Indef:a # ; 
-+N+Indef+Dial/NOT-M:áay # ; 
-+N+Indef+Dial/NOT-A:ée # ; 
-+N+Def+Dial/NOT-M:%>%^DEFáay # ;
-+N+Def+Dial/NOT-A:%>%^DEFée # ;
-+N+Def+Dial/NOT-M:%>%^DEFagáay # ;
-+N+Def+Dial/NOT-A:%>%^DEFagée # ;
+            +N+Indef:a            # ;
+ +N+Indef+Dial/NOT-M:áay          # ;
+ +N+Indef+Dial/NOT-A:ée           # ;
+   +N+Def+Dial/NOT-M:%>%^DEFáay   # ;
+   +N+Def+Dial/NOT-A:%>%^DEFée    # ;
+   +N+Def+Dial/NOT-M:%>%^DEFagáay # ;
+   +N+Def+Dial/NOT-A:%>%^DEFagée  # ;
 
 LEXICON Proper
-+N: # ;
+ +N: # ;
 
 LEXICON Location
-+N: # ;
+ +N: # ;
