@@ -2,12 +2,6 @@
 args:
 - !!python/name:__builtin__.set ''
 dictitems:
-  Dial: !!set
-    !!python/unicode 'Dial/NOT-A': null
-    !!python/unicode 'Dial/NOT-M': null
-  Sem: !!set
-    !!python/unicode 'Sem/BodyPart': null
-    !!python/unicode 'Sem/Kinterm': null
   Use: !!set
     !!python/unicode 'Use/Circ': null
     !!python/unicode 'Use/Sub': null
