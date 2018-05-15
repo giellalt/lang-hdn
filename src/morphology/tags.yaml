@@ -1,0 +1,87 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:__builtin__.set ''
+dictitems:
+  Dial: !!set
+    !!python/unicode 'Dial/NOT-A': null
+    !!python/unicode 'Dial/NOT-M': null
+  Sem: !!set
+    !!python/unicode 'Sem/BodyPart': null
+    !!python/unicode 'Sem/Kinterm': null
+  Use: !!set
+    !!python/unicode 'Use/Circ': null
+    !!python/unicode 'Use/Sub': null
+  resten: !!set
+    ? !!python/unicode ''
+    : null
+    !!python/unicode '/-': null
+    !!python/unicode 'A': null
+    !!python/unicode 'ABBR': null
+    !!python/unicode 'Acc': null
+    !!python/unicode 'Adv': null
+    !!python/unicode 'CL/Human': null
+    !!python/unicode 'CL/Shape': null
+    !!python/unicode 'CL/cha': null
+    !!python/unicode 'CL/dla': null
+    !!python/unicode 'CL/ga': null
+    "CL/ga\u0331": null
+    !!python/unicode 'CL/gi': null
+    !!python/unicode 'CL/gu': null
+    "CL/g\xE1ng": null
+    "CL/g\u0332a": null
+    !!python/unicode 'CL/hlga': null
+    !!python/unicode 'CL/hlgi': null
+    "CL/hlg\xE1m": null
+    "CL/hlg\u0332a": null
+    "CL/hlk\u02BCu": null
+    "CL/hlk\u0332\u02BCa": null
+    "CL/hlk\u0332\u02BCu": null
+    "CL/hlk\u0332\u02BCuhl": null
+    !!python/unicode 'CL/ja': null
+    "CL/k\xFAn": null
+    "CL/k\u02BCu": null
+    "CL/k\u0332\xE1m": null
+    "CL/k\u0332\u02BCa": null
+    "CL/k\u0332\u02BCuhl": null
+    "CL/k\u0332\u02BC\xEDi": null
+    !!python/unicode 'CL/sda': null
+    "CL/sd\xFAu": null
+    !!python/unicode 'CL/sga': null
+    !!python/unicode 'CL/sgab': null
+    "CL/sg\u0332a": null
+    "CL/sk\xE1a": null
+    "CL/sk\u02BCa": null
+    "CL/sk\u0332\u02BCa": null
+    "CL/sk\u0332\u02BCu": null
+    "CL/stl\u02BCa": null
+    "CL/tl\u02BCa": null
+    "CL/ts\u02BCas": null
+    "CL/t\xEDi": null
+    "CL/t\u02BCa": null
+    "CL/t\u02BC\xE1w": null
+    "CL/t\u02BC\xFAu": null
+    !!python/unicode 'CL/xa': null
+    "CL/x\u0332a": null
+    !!python/unicode 'CLB': null
+    !!python/unicode 'Com': null
+    !!python/unicode 'Ess': null
+    !!python/unicode 'Gen': null
+    !!python/unicode 'Ill': null
+    !!python/unicode 'LEFT': null
+    !!python/unicode 'Loc': null
+    !!python/unicode 'MWE': null
+    !!python/unicode 'N': null
+    !!python/unicode 'Nom': null
+    !!python/unicode 'Num': null
+    !!python/unicode 'PUNCT': null
+    !!python/unicode 'Pl': null
+    !!python/unicode 'Po': null
+    !!python/unicode 'Pron': null
+    !!python/unicode 'Prop': null
+    !!python/unicode 'Ptcl': null
+    !!python/unicode 'RIGHT': null
+    !!python/unicode 'Sg': null
+    !!python/unicode 'VAL/AX': null
+    !!python/unicode 'VAL/P': null
+    "dal\xE4": null
+    "d\xE1m": null
