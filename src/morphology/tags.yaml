@@ -1,55 +1,51 @@
-!!python/object/apply:collections.defaultdict
-args:
-- !!python/name:__builtin__.set ''
-dictitems:
-  resten: !!set
-    !!python/unicode 'CL/Human': null
-    !!python/unicode 'CL/Shape': null
-    !!python/unicode 'CL/cha': null
-    !!python/unicode 'CL/dla': null
-    !!python/unicode 'CL/ga': null
-    "CL/ga\u0331": null
-    !!python/unicode 'CL/gi': null
-    !!python/unicode 'CL/gu': null
-    "CL/g\xE1ng": null
-    "CL/g\u0332a": null
-    !!python/unicode 'CL/hlga': null
-    !!python/unicode 'CL/hlgi': null
-    "CL/hlg\xE1m": null
-    "CL/hlg\u0332a": null
-    "CL/hlk\u02BCu": null
-    "CL/hlk\u0332\u02BCa": null
-    "CL/hlk\u0332\u02BCu": null
-    "CL/hlk\u0332\u02BCuhl": null
-    !!python/unicode 'CL/ja': null
-    "CL/k\xFAn": null
-    "CL/k\u02BCu": null
-    "CL/k\u0332\xE1m": null
-    "CL/k\u0332\u02BCa": null
-    "CL/k\u0332\u02BCuhl": null
-    "CL/k\u0332\u02BC\xEDi": null
-    !!python/unicode 'CL/sda': null
-    "CL/sd\xFAu": null
-    !!python/unicode 'CL/sga': null
-    !!python/unicode 'CL/sgab': null
-    "CL/sg\u0332a": null
-    "CL/sk\xE1a": null
-    "CL/sk\u02BCa": null
-    "CL/sk\u0332\u02BCa": null
-    "CL/sk\u0332\u02BCu": null
-    "CL/stl\u02BCa": null
-    "CL/tl\u02BCa": null
-    "CL/ts\u02BCas": null
-    "CL/t\xEDi": null
-    "CL/t\u02BCa": null
-    "CL/t\u02BC\xE1w": null
-    "CL/t\u02BC\xFAu": null
-    !!python/unicode 'CL/xa': null
-    "CL/x\u0332a": null
-    !!python/unicode 'CLB': null
-    !!python/unicode 'MWE': null
-    !!python/unicode 'PUNCT': null
-    !!python/unicode 'VAL/AX': null
-    !!python/unicode 'VAL/P': null
-    "dal\xE4": null
-    "d\xE1m": null
+resten
+	CL/Human
+	CL/Shape
+	CL/cha
+	CL/dla
+	CL/ga
+	CL/ga̱
+	CL/gi
+	CL/gu
+	CL/gáng
+	CL/g̲a
+	CL/hlga
+	CL/hlgi
+	CL/hlgám
+	CL/hlg̲a
+	CL/hlkʼu
+	CL/hlk̲ʼa
+	CL/hlk̲ʼu
+	CL/hlk̲ʼuhl
+	CL/ja
+	CL/kún
+	CL/kʼu
+	CL/k̲ám
+	CL/k̲ʼa
+	CL/k̲ʼuhl
+	CL/k̲ʼíi
+	CL/sda
+	CL/sdúu
+	CL/sga
+	CL/sgab
+	CL/sg̲a
+	CL/skáa
+	CL/skʼa
+	CL/sk̲ʼa
+	CL/sk̲ʼu
+	CL/stlʼa
+	CL/tlʼa
+	CL/tsʼas
+	CL/tíi
+	CL/tʼa
+	CL/tʼáw
+	CL/tʼúu
+	CL/xa
+	CL/x̲a
+	CLB
+	MWE
+	PUNCT
+	VAL/AX
+	VAL/P
+	dalä
+	dám
