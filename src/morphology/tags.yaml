@@ -2,17 +2,7 @@
 args:
 - !!python/name:__builtin__.set ''
 dictitems:
-  Use: !!set
-    !!python/unicode 'Use/Circ': null
-    !!python/unicode 'Use/Sub': null
   resten: !!set
-    ? !!python/unicode ''
-    : null
-    !!python/unicode '/-': null
-    !!python/unicode 'A': null
-    !!python/unicode 'ABBR': null
-    !!python/unicode 'Acc': null
-    !!python/unicode 'Adv': null
     !!python/unicode 'CL/Human': null
     !!python/unicode 'CL/Shape': null
     !!python/unicode 'CL/cha': null
@@ -57,24 +47,8 @@ dictitems:
     !!python/unicode 'CL/xa': null
     "CL/x\u0332a": null
     !!python/unicode 'CLB': null
-    !!python/unicode 'Com': null
-    !!python/unicode 'Ess': null
-    !!python/unicode 'Gen': null
-    !!python/unicode 'Ill': null
-    !!python/unicode 'LEFT': null
-    !!python/unicode 'Loc': null
     !!python/unicode 'MWE': null
-    !!python/unicode 'N': null
-    !!python/unicode 'Nom': null
-    !!python/unicode 'Num': null
     !!python/unicode 'PUNCT': null
-    !!python/unicode 'Pl': null
-    !!python/unicode 'Po': null
-    !!python/unicode 'Pron': null
-    !!python/unicode 'Prop': null
-    !!python/unicode 'Ptcl': null
-    !!python/unicode 'RIGHT': null
-    !!python/unicode 'Sg': null
     !!python/unicode 'VAL/AX': null
     !!python/unicode 'VAL/P': null
     "dal\xE4": null
