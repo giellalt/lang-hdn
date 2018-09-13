@@ -32,7 +32,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/adverbs.lexc \
 			 stems/postpositions.lexc \
 			 stems/particles.lexc \
-			 stems/punctuation.lexc   \
 			 stems/verbs.lexc \
 			 stems/abbreviations.lexc \
 			 stems/numerals.lexc \
@@ -54,7 +53,8 @@ GT_LEXC_L2_SRCS=\
 			$(L2)
 
 # Set this to the names of all generated lexc files, if any
-GENERATED_LEXC_SRCS=generated_files/eng-$(GTLANG)-propernouns.lexc
+GENERATED_LEXC_SRCS=generated_files/eng-$(GTLANG)-propernouns.lexc \
+					generated_files/punctuation.lexc
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=
