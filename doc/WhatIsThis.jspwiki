@@ -1,8 +1,8 @@
 
 This is a grammatical analyser for Northern Haida.
 
-It contains some postpositions, a handful of nouns, some more verbs, and 
-one verb paradigm.
+It contains the bulk of the standard Haida dictionary (by Jordan Lachler), 
+and a morphological component. It is in use in a spell checker and an e-dictionary.
 
 ----
 
