@@ -535,6 +535,7 @@ LEXICON Root
   Postpositions ;
   Propernouns ;
   Punctuation ;
+  Symbols     ;
   Abbreviation ;
 !  CLASSIFIERS ;
 
