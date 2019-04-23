@@ -14,7 +14,7 @@ The replaced letters ''q, r, f, z, v'' are accessed by
 holding down the alt key and pressing the respective key.
 
 Test versions of this keyboard fro Macintosh may be downloaded, cf.
-[Haida kayboard|https://victorio.uit.no/langtech/trunk/keyboards/layouts/hdn/].
+[Haida kayboard|https://gtsvn.uit.no/langtech/trunk/keyboards/layouts/hdn/].
 
 The two files in the hdn folder must be copied to {{~/Library/Keyboard Layouts}}.
 Thereafter go to Control Panel > Keylayout > Meyboard input method.
