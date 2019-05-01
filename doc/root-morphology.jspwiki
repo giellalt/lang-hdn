@@ -406,6 +406,7 @@ Verbs and pronouns
 
 
  * +ABBR  = Abbreviations
+ * +Symbol = independent symbols in the text stream, like £, €, ©
  * +ACR   = Acronyms
 
 
