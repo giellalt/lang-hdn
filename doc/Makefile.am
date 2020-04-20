@@ -9,7 +9,7 @@
 
 JSP_PAGES=root-morphology.jspwiki \
 		  verbs-affixes.jspwiki          \
-		  hdn-phon-phonology.jspwiki \
+		  phonology-morphology.jspwiki \
 		  verbs-stems.jspwiki              
 # clitics-morphology.jspwiki       \
 # compounding-morphology.jspwiki   \
