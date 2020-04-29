@@ -4,8 +4,8 @@
 !!! Dynamic documentation
 
 * [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/hdn/src/morphology/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/hdn/src/morphology/affixes/] 
+* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/hdn/src/fst/stems/]   
+  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/hdn/src/fst/affixes/] 
   / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/hdn/src/syntax] 
   / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/hdn/src/phonology/hdn-phon.twolc]   
   / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/hdn/test/src/gt-norm-yamls/]
