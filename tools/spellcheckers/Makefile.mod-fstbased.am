@@ -2,9 +2,6 @@
 ## Copyright: Sámediggi/Divvun/UiT
 ## Licence: GPL v3+
 
-# The current dir must be built after the filters, but before the rest.
-SUBDIRS = filters . desktop mobile
-
 ### BEGIN: Local build rules: *.hfst: *.tmp.hfst ###
 
 generator-fstspeller-gt-norm.%: generator-fstspeller-gt-norm.tmp.% \
@@ -23,5 +20,3 @@ generator-fstspeller-gt-norm.%: generator-fstspeller-gt-norm.tmp.% \
 		 quit\n" | $(XFST_TOOL)
 
 #### END: Local build rules: *.hfst: *.tmp.hfst ####
-
-include $(top_srcdir)/am-shared/tools-spellcheckers-fstbased-dir-include.am
