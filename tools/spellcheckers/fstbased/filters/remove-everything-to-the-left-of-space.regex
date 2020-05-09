@@ -1,2 +1,0 @@
-# Delete anything to the left of a space:
-[ ?+ (->) 0 || .#. _ " " ] ;
