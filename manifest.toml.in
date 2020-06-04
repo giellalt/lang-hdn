@@ -1,0 +1,9 @@
+name = "Northern Haida"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.hdn"
+
+[windows]
+system_product_code = "4C74F840-7F3C-475A-8D98-3ABB7A5D9B1C"
+msoffice_product_code = "0B7DDC57-C32C-4A23-95DB-A69D70159423"
