@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/hdndoc/index.html>
+-   <https://giellalt.uit.no/lang/hdn/NorthernHaidaDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
