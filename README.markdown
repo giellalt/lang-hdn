@@ -3,7 +3,7 @@ The Northern Haida morphology and tools
 
 This repository contains finite state source files for the Northern Haida language,
 for building morphological analysers, proofing tools
-and dictionaries. The data and implementation are licenced under __LICENCE__
+and dictionaries. The data and implementation are licenced under __GNU AGPL v. 3.0__
 licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-hdn/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
