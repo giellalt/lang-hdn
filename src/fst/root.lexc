@@ -13,14 +13,14 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!              !!! Northern Haida morphological analyser                      
+!! Northern Haida morphological analyser                      
 ! ========================================================================== !
 
 !! This file shows the Northern Haida multichar symbols and initial lexica.
 
-Multichar_Symbols  !!≈ !!!Definitions for @CODE@
+Multichar_Symbols  !!≈ # Definitions for @CODE@
 
-!! !!Analysis symbols
+!! ## Analysis symbols
 !  ----------------
 !! The morphological analyses of wordforms of Northern Haida are presented
 !! in this system in terms of following symbols.
@@ -94,32 +94,32 @@ s2 !!= * @CODE@ =
 
 !! Valency Tags
 
-+Val/0       !!≈ * @CODE@ = Environmental verbs (no subject) {{(0)}}
-+Val/I       !!≈ * @CODE@ = Impersonal Descriptive verbs {{(Si)}}
-+Val/A       !!≈ * @CODE@ = Active Descriptive verbs {{(Sa)}}
-+Val/P       !!≈ * @CODE@ = Passive Descriptive verbs {{(Sp)}}
-+Val/AO      !!≈ * @CODE@ = Active Dynamic verbs {{(Sa) (O)}}
-+Val/AOR     !!≈ * @CODE@ = Active Dynamic Reflexive verbs {{(Sa) (Or)}}
-+Val/PO      !!≈ * @CODE@ = Passive Dynamic verbs {{(Sp) (O)}}
-+Val/IO      !!≈ * @CODE@ = Impersonal Dynamic verbs {{(Si) (O)}}
-+Val/AC      !!≈ * @CODE@ = Active Causative verbs {{(Sa) (C)}}
-+Val/ACR     !!≈ * @CODE@ = Active Causative Reflexive verbs {{(Sa) (Cr)}}
-+Val/PC      !!≈ * @CODE@ = Passive Causative verbs {{(Sp) (C)}}
-+Val/IC      !!≈ * @CODE@ = Impersonal Causative verbs {{(Si) (C)}}
-+Val/ACO     !!≈ * @CODE@ = Active Transcausative verbs {{(Sa) (C) (O)}}
-+Val/0X      !!≈ * @CODE@ = Extended Environmental verbs (no subject) {{(0) (X)}}
-+Val/IX      !!≈ * @CODE@ = Extended Impersonal Descriptive verbs {{(Si) (X)}}
-+Val/AX      !!≈ * @CODE@ = Extended Active Descriptive verbs {{(Sa) (X)}}
-+Val/PX      !!≈ * @CODE@ = Extended Passive Descriptive verbs {{(Sp) (X)}}
-+Val/AOX     !!≈ * @CODE@ = Extended Active Dynamic verbs {{(Sa) (O) (X)}}
-+Val/AORX    !!≈ * @CODE@ = Extended Active Dynamic Reflexive verbs {{(Sa) (Or) (X)}}
-+Val/POX     !!≈ * @CODE@ = Extended Passive Dynamic verbs {{(Sp) (O) (X)}}
-+Val/IOX     !!≈ * @CODE@ = Extended Impersonal Dynamic verbs {{(Si) (O) (X)}}
-+Val/ACX     !!≈ * @CODE@ = Extended Active Causative verbs {{(Sa) (C) (X)}}
-+Val/ACRX    !!≈ * @CODE@ = Extended Active Causative Reflexive verbs {{(Sa) (Cr) (X)}}
-+Val/PCX     !!≈ * @CODE@ = Extended Passive Causative verbs {{(Sp) (C) (X)}}
-+Val/ICX     !!≈ * @CODE@ = Extended Impersonal Causative verbs {{(Si) (C) (X)}}
-+Val/ACOX    !!≈ * @CODE@ = Extended Active Transcausative verbs {{(Sa) (C) (O) (X)}}
++Val/0       !!≈ * @CODE@ = Environmental verbs (no subject) `(0)`
++Val/I       !!≈ * @CODE@ = Impersonal Descriptive verbs `(Si)`
++Val/A       !!≈ * @CODE@ = Active Descriptive verbs `(Sa)`
++Val/P       !!≈ * @CODE@ = Passive Descriptive verbs `(Sp)`
++Val/AO      !!≈ * @CODE@ = Active Dynamic verbs `(Sa) (O)`
++Val/AOR     !!≈ * @CODE@ = Active Dynamic Reflexive verbs `(Sa) (Or)`
++Val/PO      !!≈ * @CODE@ = Passive Dynamic verbs `(Sp) (O)`
++Val/IO      !!≈ * @CODE@ = Impersonal Dynamic verbs `(Si) (O)`
++Val/AC      !!≈ * @CODE@ = Active Causative verbs `(Sa) (C)`
++Val/ACR     !!≈ * @CODE@ = Active Causative Reflexive verbs `(Sa) (Cr)`
++Val/PC      !!≈ * @CODE@ = Passive Causative verbs `(Sp) (C)`
++Val/IC      !!≈ * @CODE@ = Impersonal Causative verbs `(Si) (C)`
++Val/ACO     !!≈ * @CODE@ = Active Transcausative verbs `(Sa) (C) (O)`
++Val/0X      !!≈ * @CODE@ = Extended Environmental verbs (no subject) `(0) (X)`
++Val/IX      !!≈ * @CODE@ = Extended Impersonal Descriptive verbs `(Si) (X)`
++Val/AX      !!≈ * @CODE@ = Extended Active Descriptive verbs `(Sa) (X)`
++Val/PX      !!≈ * @CODE@ = Extended Passive Descriptive verbs `(Sp) (X)`
++Val/AOX     !!≈ * @CODE@ = Extended Active Dynamic verbs `(Sa) (O) (X)`
++Val/AORX    !!≈ * @CODE@ = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
++Val/POX     !!≈ * @CODE@ = Extended Passive Dynamic verbs `(Sp) (O) (X)`
++Val/IOX     !!≈ * @CODE@ = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
++Val/ACX     !!≈ * @CODE@ = Extended Active Causative verbs `(Sa) (C) (X)`
++Val/ACRX    !!≈ * @CODE@ = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
++Val/PCX     !!≈ * @CODE@ = Extended Passive Causative verbs `(Sp) (C) (X)`
++Val/ICX     !!≈ * @CODE@ = Extended Impersonal Causative verbs `(Si) (C) (X)`
++Val/ACOX    !!≈ * @CODE@ = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
 
 
 !! The Human Classifiers
@@ -495,33 +495,33 @@ s2 !!= * @CODE@ =
 ! á é ó ú í à è ò ù ì
 ! Á É Ó Ú Í À È Ò Ù Ì
 
-!! !!Flag diacritics
+!! ## Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds
 !! with verbs if the verb is further derived into a noun again:
- @P.NeedNoun.ON@    !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
- @D.NeedNoun.ON@    !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
- @C.NeedNoun@       !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
+ @P.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
+ @D.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
+ @C.NeedNoun@       !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
 !! 
 !! For languages that allow compounding, the following flag diacritics are needed
 !! to control position-based compounding restrictions for nominals. Their use is
 !! handled automatically if combined with +CmpN/xxx tags. If not used, they will
 !! do no harm.
- @P.CmpFrst.FALSE@ !!≈ | @CODE@ | Require that words tagged as such only appear first
- @D.CmpPref.TRUE@  !!≈ | @CODE@ | Block such words from entering ENDLEX
- @P.CmpPref.FALSE@ !!≈ | @CODE@ | Block these words from making further compounds
- @D.CmpLast.TRUE@  !!≈ | @CODE@ | Block such words from entering R
- @D.CmpNone.TRUE@  !!≈ | @CODE@ | Combines with the next tag to prohibit compounding
- @U.CmpNone.FALSE@ !!≈ | @CODE@ | Combines with the prev tag to prohibit compounding
- @P.CmpOnly.TRUE@  !!≈ | @CODE@ | Sets a flag to indicate that the word has passed R
- @D.CmpOnly.FALSE@ !!≈ | @CODE@ | Disallow words coming directly from root.
+ @P.CmpFrst.FALSE@ !!≈ |  @CODE@ | Require that words tagged as such only appear first
+ @D.CmpPref.TRUE@  !!≈ |  @CODE@ | Block such words from entering ENDLEX
+ @P.CmpPref.FALSE@ !!≈ |  @CODE@ | Block these words from making further compounds
+ @D.CmpLast.TRUE@  !!≈ |  @CODE@ | Block such words from entering R
+ @D.CmpNone.TRUE@  !!≈ |  @CODE@ | Combines with the next tag to prohibit compounding
+ @U.CmpNone.FALSE@ !!≈ |  @CODE@ | Combines with the prev tag to prohibit compounding
+ @P.CmpOnly.TRUE@  !!≈ |  @CODE@ | Sets a flag to indicate that the word has passed R
+ @D.CmpOnly.FALSE@ !!≈ |  @CODE@ | Disallow words coming directly from root.
 !! 
 !! Use the following flag diacritics to control downcasing of derived proper
 !! nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 !! these flags. There exists a ready-made regex that will do the actual down-casing
 !! given the proper use of these flags.
- @U.Cap.Obl@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
- @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
+ @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
+ @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 LEXICON Root
 !! The word forms in Northern Haida start from the lexeme roots of basic
