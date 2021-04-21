@@ -1,7 +1,7 @@
 # Northern Haida documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-hdn)](https://raw.githubusercontent.com/giellalt/lang-hdn/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-hdn)](https://raw.githubusercontent.com/giellalt/lang-hdn/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/issues)
 [![Build status](https://github.com/giellalt/lang-hdn/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
 
