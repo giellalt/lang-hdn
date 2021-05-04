@@ -1,3 +1,394 @@
+Noun inflection
+Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does Rfx override Pl, or other way around?
+
+Need to make Massett dialect -ee versions for Indec ending in -aay
+
+
+
+
+
+
+
+
+Proper noun inflection
+The Northern Haida language proper nouns inflect in the same cases as regular
+nouns, but with a colon (ʼ:ʼ) as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Northern Haida language adjectives compare.
+
+
+
+
+Northern Haida verb affixes                       
+
+
+
+
+
+
+
+
+ LEXICON CLASS-AA 
+
+
+
+ LEXICON CLASS-AAL 
+
+
+ LEXICON CLASS-AAL-INFL 
+
+ LEXICON CLASS-AAN 
+
+ LEXICON CLASS-AAN-INFL 
+
+ LEXICON CLASS-AANG 
+
+ LEXICON CLASS-AANG-INFL 
+
+ LEXICON CLASS-AAW 
+
+ LEXICON CLASS-AAW-INFL 
+
+ LEXICON CLASS-AAY 
+
+ LEXICON CLASS-AAY-INFL 
+
+ LEXICON CLASS-AH 
+
+ LEXICON CLASS-AH-INFL 
+
+
+ LEXICON CLASS-AYD 
+
+ LEXICON CLASS-AYD-INFL 
+
+
+ LEXICON CLASS-EE 
+
+ LEXICON CLASS-EE-INFL 
+
+ LEXICON CLASS-EED 
+
+ LEXICON CLASS-EED-INFL 
+
+
+ LEXICON CLASS-I 
+
+ LEXICON CLASS-I-INFL 
+
+
+ LEXICON CLASS-IID 
+
+ LEXICON CLASS-IID-INFL 
+
+
+ LEXICON CLASS-U 
+
+ LEXICON CLASS-U-INFL 
+
+
+ LEXICON CLASS-AAHL 
+
+
+
+ LEXICON CLASS-AAHL-STEM-2-INFL 
+
+
+ LEXICON CLASS-AD 
+
+
+ LEXICON CLASS-AD-STEM-1-INFL 
+
+ LEXICON CLASS-AD-STEM-2-INFL 
+
+
+ LEXICON CLASS-AL 
+
+
+ LEXICON CLASS-AL-STEM-1-INFL 
+
+ LEXICON CLASS-AL-STEM-2-INFL 
+
+
+ LEXICON CLASS-AN 
+
+ LEXICON CLASS-AN-STEM-1-INFL 
+
+ LEXICON CLASS-AN-STEM-2-INFL 
+
+ LEXICON CLASS-ANG 
+
+
+ LEXICON CLASS-ANG-STEM-1-INFL 
+
+ LEXICON CLASS-ANG-STEM-2-INFL 
+
+ LEXICON CLASS-AW 
+
+
+ LEXICON CLASS-AW-STEM-1-INFL 
+
+ LEXICON CLASS-AW-STEM-2-INFL 
+
+
+ LEXICON CLASS-AY 
+
+ LEXICON CLASS-AY-STEM-1-INFL 
+
+ LEXICON CLASS-AY-STEM-2-INFL 
+
+
+ LEXICON CLASS-EEHL 
+
+ LEXICON CLASS-EEHL-STEM-1-INFL 
+
+ LEXICON CLASS-EEHL-STEM-2-INFL 
+
+ LEXICON CLASS-ID 
+
+
+ LEXICON CLASS-ID-STEM-1-INFL 
+
+ LEXICON CLASS-ID-STEM-2-INFL 
+
+
+ LEXICON CLASS-II 
+
+ LEXICON CLASS-II-STEM-1-INFL 
+
+ LEXICON CLASS-II-STEM-2-INFL 
+
+ LEXICON CLASS-IN 
+
+ LEXICON CLASS-IN-STEM-1-INFL 
+
+ LEXICON CLASS-IN-STEM-2-INFL 
+
+
+ LEXICON CLASS-ING 
+
+ LEXICON CLASS-ING-STEM-1-INFL 
+
+ LEXICON CLASS-ING-STEM-2-INFL 
+
+
+ LEXICON CLASS-UD 
+
+ LEXICON CLASS-UD-STEM-1-INFL 
+
+ LEXICON CLASS-UD-STEM-2-INFL 
+
+
+ LEXICON CLASS-UN 
+
+ LEXICON CLASS-UN-STEM-1-INFL 
+
+ LEXICON CLASS-UN-STEM-2-INFL 
+
+
+ LEXICON CLASS-UNG 
+
+ LEXICON CLASS-UNG-STEM-1-INFL 
+
+ LEXICON CLASS-UNG-STEM-2-INFL 
+
+
+ LEXICON CLASS-UU 
+
+ LEXICON CLASS-UU-STEM-1-INFL   
+
+ LEXICON CLASS-UU-STEM-2-INFL  
+
+
+ LEXICON CLASS-A 
+
+ LEXICON CLASS-A-STEM-1-INFL  
+
+ LEXICON CLASS-A-STEM-2-INFL 
+
+
+ LEXICON CLASS-A.A 
+
+ LEXICON CLASS-A.A-STEM-1-INFL  
+
+ LEXICON CLASS-A.A-STEM-2-INFL 
+
+
+
+
+
+
+ LEXICON CLASS-AHL 
+
+
+ LEXICON CLASS-AHL-INFL 
+
+
+ LEXICON CLASS-AS 
+
+ LEXICON CLASS-AS-STEM-1-INFL 
+
+ LEXICON CLASS-AS-STEM-2-INFL 
+
+ LEXICON CLASS-AS-STEM-3-INFL 
+
+
+ LEXICON CLASS-E.E 
+
+ LEXICON CLASS-E.E-STEM-1-INFL 
+
+ LEXICON CLASS-E.E-STEM-2-INFL 
+
+
+ LEXICON CLASS-E.EHL 
+
+
+ LEXICON CLASS-E.EHL-STEM-1-INFL 
+
+ LEXICON CLASS-E.EHL-STEM-2-INFL 
+
+
+ LEXICON CLASS-IHL 
+
+ LEXICON CLASS-IHL-STEM-1-INFL 
+
+ LEXICON CLASS-IHL-STEM-2-INFL 
+
+ LEXICON CLASS-IHL-STEM-3-INFL 
+
+
+ LEXICON CLASS-IIHL 
+
+ LEXICON CLASS-IIHL-STEM-1-INFL 
+
+ LEXICON CLASS-IIHL-STEM-2-INFL 
+
+ LEXICON CLASS-IIHL-STEM-3-INFL 
+
+
+ LEXICON CLASS-IS 
+
+ LEXICON CLASS-IS-STEM-1-INFL 
+
+ LEXICON CLASS-IS-STEM-2-INFL 
+
+ LEXICON CLASS-IS-STEM-3-INFL 
+
+
+ LEXICON CLASS-UHL 
+
+ LEXICON CLASS-UHL-STEM-1-INFL 
+
+ LEXICON CLASS-UHL-STEM-2-INFL 
+
+ LEXICON CLASS-UHL-STEM-3-INFL 
+
+
+ LEXICON CLASS-US 
+
+ LEXICON CLASS-US-STEM-1-INFL 
+
+ LEXICON CLASS-US-STEM-2-INFL 
+
+ LEXICON CLASS-US-STEM-3-INFL 
+
+
+ LEXICON CLASS-UUHL 
+
+ LEXICON CLASS-UUHL-STEM-1-INFL 
+
+ LEXICON CLASS-UUHL-STEM-2-INFL 
+
+ LEXICON CLASS-UUHL-STEM-3-INFL 
+
+
+# Northern Haida verbal classifiesrs
+
+There are appr 400 of these, they are pointed to a 
+set of 150 verbs taking classifiers.
+
+
+
+
+
+
+
+
+
+
+
+
+# The Northern Haida morphophonological/twolc rules file 
+
+## Alphabet
+
+ *  %>:0 	 affix boundary
+ *  %^WS:0     white space dummy
+ *  %^DEF:0     white space dummy
+
+
+## Sets
+
+
+ *  Vow = a e i o u y æ ø å  
+        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+ *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
+ *  Sgm = Vow Cns Orth   ; 
+
+
+
+
+## Rules
+
+
+
+**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
+
+
+
+
+
+
+
+
+
+
+**Destressing rule** - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
+
+
 
 Northern Haida morphological analyser                      
 
@@ -464,327 +855,132 @@ word classes, or optionally from prefixes:
 
 
 
-Northern Haida verb affixes                       
 
+Demo from Summer 2015
+chíin+CL/Human+CL/dla:chíin Common "fish" ;
 
+gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
+gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
+dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
+k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
+tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
+x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
+aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
+náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
 
 
 
 
 
+Particles
+Uninflecting particles, conjunctions, quantifiers, etc.
 
- LEXICON CLASS-AA 
 
 
+Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
 
- LEXICON CLASS-AAL 
 
 
- LEXICON CLASS-AAL-INFL 
 
- LEXICON CLASS-AAN 
+Pronouns
+Pronouns in the Northern Haida language are references to things.
 
- LEXICON CLASS-AAN-INFL 
 
- LEXICON CLASS-AANG 
 
- LEXICON CLASS-AANG-INFL 
+Northern Haida postpositions
+Still need to add any distributive and reflexive forms
+as well as demonstratives formed from PPs, etc.
 
- LEXICON CLASS-AAW 
 
- LEXICON CLASS-AAW-INFL 
 
- LEXICON CLASS-AAY 
+# File containing abbreviations 
 
- LEXICON CLASS-AAY-INFL 
+## Lexica for adding tags and periods
 
- LEXICON CLASS-AH 
+Splitting in 4 + 1  groups, because of the preprocessor
 
- LEXICON CLASS-AH-INFL 
+ * **LEXICON Abbreviation   **
+ 1. The ITRAB ;	    lexicon (intransitive abbrs)
+ 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
 
+## The sublexica
+### Dividing between abbreviations with and witout final period
 
- LEXICON CLASS-AYD 
+ * **LEXICON ab-noun   **
 
- LEXICON CLASS-AYD-INFL 
+ * **LEXICON ab-adv   **
 
+### The lexicons that add tags
 
- LEXICON CLASS-EE 
+ * **LEXICON ab-nodot-noun   **  The bulk
 
- LEXICON CLASS-EE-INFL 
+ * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
 
- LEXICON CLASS-EED 
+ * **LEXICON ab-nodot-adv   **
 
- LEXICON CLASS-EED-INFL 
+ * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
 
+ * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
 
- LEXICON CLASS-I 
 
- LEXICON CLASS-I-INFL 
 
+## The abbreviation lexicon itself
 
- LEXICON CLASS-IID 
 
- LEXICON CLASS-IID-INFL 
+ * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
 
 
- LEXICON CLASS-U 
 
- LEXICON CLASS-U-INFL 
+ * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
 
 
- LEXICON CLASS-AAHL 
 
 
 
- LEXICON CLASS-AAHL-STEM-2-INFL 
 
 
- LEXICON CLASS-AD 
 
+ * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
 
- LEXICON CLASS-AD-STEM-1-INFL 
+For abbrs for which numerals are complements, but other
+words not necessarily are. This group treats arabic numerals as
+if it were transitive but letters as if it were intransitive.
 
- LEXICON CLASS-AD-STEM-2-INFL 
 
 
- LEXICON CLASS-AL 
 
 
- LEXICON CLASS-AL-STEM-1-INFL 
 
- LEXICON CLASS-AL-STEM-2-INFL 
 
+ * **LEXICON TRAB   ** contains transitive abbreviations
 
- LEXICON CLASS-AN 
+This lexicon is for abbrs that always have a constituent following it.
 
- LEXICON CLASS-AN-STEM-1-INFL 
 
- LEXICON CLASS-AN-STEM-2-INFL 
 
- LEXICON CLASS-ANG 
 
 
- LEXICON CLASS-ANG-STEM-1-INFL 
 
- LEXICON CLASS-ANG-STEM-2-INFL 
 
- LEXICON CLASS-AW 
 
 
- LEXICON CLASS-AW-STEM-1-INFL 
 
- LEXICON CLASS-AW-STEM-2-INFL 
 
 
- LEXICON CLASS-AY 
 
- LEXICON CLASS-AY-STEM-1-INFL 
 
- LEXICON CLASS-AY-STEM-2-INFL 
 
+Adverbs
+Still need to add any potential distributive forms, reflexive forms, etc.
 
- LEXICON CLASS-EEHL 
 
- LEXICON CLASS-EEHL-STEM-1-INFL 
 
- LEXICON CLASS-EEHL-STEM-2-INFL 
 
- LEXICON CLASS-ID 
-
-
- LEXICON CLASS-ID-STEM-1-INFL 
-
- LEXICON CLASS-ID-STEM-2-INFL 
-
-
- LEXICON CLASS-II 
-
- LEXICON CLASS-II-STEM-1-INFL 
-
- LEXICON CLASS-II-STEM-2-INFL 
-
- LEXICON CLASS-IN 
-
- LEXICON CLASS-IN-STEM-1-INFL 
-
- LEXICON CLASS-IN-STEM-2-INFL 
-
-
- LEXICON CLASS-ING 
-
- LEXICON CLASS-ING-STEM-1-INFL 
-
- LEXICON CLASS-ING-STEM-2-INFL 
-
-
- LEXICON CLASS-UD 
-
- LEXICON CLASS-UD-STEM-1-INFL 
-
- LEXICON CLASS-UD-STEM-2-INFL 
-
-
- LEXICON CLASS-UN 
-
- LEXICON CLASS-UN-STEM-1-INFL 
-
- LEXICON CLASS-UN-STEM-2-INFL 
-
-
- LEXICON CLASS-UNG 
-
- LEXICON CLASS-UNG-STEM-1-INFL 
-
- LEXICON CLASS-UNG-STEM-2-INFL 
-
-
- LEXICON CLASS-UU 
-
- LEXICON CLASS-UU-STEM-1-INFL   
-
- LEXICON CLASS-UU-STEM-2-INFL  
-
-
- LEXICON CLASS-A 
-
- LEXICON CLASS-A-STEM-1-INFL  
-
- LEXICON CLASS-A-STEM-2-INFL 
-
-
- LEXICON CLASS-A.A 
-
- LEXICON CLASS-A.A-STEM-1-INFL  
-
- LEXICON CLASS-A.A-STEM-2-INFL 
-
-
-
-
-
-
- LEXICON CLASS-AHL 
-
-
- LEXICON CLASS-AHL-INFL 
-
-
- LEXICON CLASS-AS 
-
- LEXICON CLASS-AS-STEM-1-INFL 
-
- LEXICON CLASS-AS-STEM-2-INFL 
-
- LEXICON CLASS-AS-STEM-3-INFL 
-
-
- LEXICON CLASS-E.E 
-
- LEXICON CLASS-E.E-STEM-1-INFL 
-
- LEXICON CLASS-E.E-STEM-2-INFL 
-
-
- LEXICON CLASS-E.EHL 
-
-
- LEXICON CLASS-E.EHL-STEM-1-INFL 
-
- LEXICON CLASS-E.EHL-STEM-2-INFL 
-
-
- LEXICON CLASS-IHL 
-
- LEXICON CLASS-IHL-STEM-1-INFL 
-
- LEXICON CLASS-IHL-STEM-2-INFL 
-
- LEXICON CLASS-IHL-STEM-3-INFL 
-
-
- LEXICON CLASS-IIHL 
-
- LEXICON CLASS-IIHL-STEM-1-INFL 
-
- LEXICON CLASS-IIHL-STEM-2-INFL 
-
- LEXICON CLASS-IIHL-STEM-3-INFL 
-
-
- LEXICON CLASS-IS 
-
- LEXICON CLASS-IS-STEM-1-INFL 
-
- LEXICON CLASS-IS-STEM-2-INFL 
-
- LEXICON CLASS-IS-STEM-3-INFL 
-
-
- LEXICON CLASS-UHL 
-
- LEXICON CLASS-UHL-STEM-1-INFL 
-
- LEXICON CLASS-UHL-STEM-2-INFL 
-
- LEXICON CLASS-UHL-STEM-3-INFL 
-
-
- LEXICON CLASS-US 
-
- LEXICON CLASS-US-STEM-1-INFL 
-
- LEXICON CLASS-US-STEM-2-INFL 
-
- LEXICON CLASS-US-STEM-3-INFL 
-
-
- LEXICON CLASS-UUHL 
-
- LEXICON CLASS-UUHL-STEM-1-INFL 
-
- LEXICON CLASS-UUHL-STEM-2-INFL 
-
- LEXICON CLASS-UUHL-STEM-3-INFL 
-
-
-# The Northern Haida morphophonological/twolc rules file 
-
-## Alphabet
-
- *  %>:0 	 affix boundary
- *  %^WS:0     white space dummy
- *  %^DEF:0     white space dummy
-
-
-## Sets
-
-
- *  Vow = a e i o u y æ ø å  
-        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
- *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
- *  Sgm = Vow Cns Orth   ; 
-
-
-
-
-## Rules
-
-
-
-**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
-
-
-
-
-
-
-
-
-
-
-**Destressing rule** - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
-
-
+Adjectives
+Adjectives in the Northern Haida language describe things.
 
 
 
@@ -815,5 +1011,25 @@ V2
 V2
 V2
 
+
+
+Numerals
+Numerals in Haida?
+
+
+
+
+
+We describe here how abbreviations are in Northern Haida are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
