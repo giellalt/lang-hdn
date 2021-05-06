@@ -1,3 +1,213 @@
+Northern Haida postpositions
+Still need to add any distributive and reflexive forms
+as well as demonstratives formed from PPs, etc.
+
+
+
+# File containing abbreviations 
+
+## Lexica for adding tags and periods
+
+Splitting in 4 + 1  groups, because of the preprocessor
+
+ * **LEXICON Abbreviation   **
+ 1. The ITRAB ;	    lexicon (intransitive abbrs)
+ 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
+
+## The sublexica
+### Dividing between abbreviations with and witout final period
+
+ * **LEXICON ab-noun   **
+
+ * **LEXICON ab-adv   **
+
+### The lexicons that add tags
+
+ * **LEXICON ab-nodot-noun   **  The bulk
+
+ * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
+
+ * **LEXICON ab-nodot-adv   **
+
+ * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
+
+ * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
+
+
+
+## The abbreviation lexicon itself
+
+
+ * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
+
+
+
+ * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
+
+
+
+
+
+
+
+
+ * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
+
+For abbrs for which numerals are complements, but other
+words not necessarily are. This group treats arabic numerals as
+if it were transitive but letters as if it were intransitive.
+
+
+
+
+
+
+
+ * **LEXICON TRAB   ** contains transitive abbreviations
+
+This lexicon is for abbrs that always have a constituent following it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demo from Summer 2015
+chíin+CL/Human+CL/dla:chíin Common "fish" ;
+
+gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
+gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
+dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
+k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
+tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
+x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
+aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
+náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
+
+
+
+
+
+Numerals
+Numerals in Haida?
+
+
+Adverbs
+Still need to add any potential distributive forms, reflexive forms, etc.
+
+
+
+
+
+Northern Haida verb stems                       
+
+
+
+
+
+
+ LEXICON VERBS 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
+
+
+Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
+
+
+
+
+Adjectives
+Adjectives in the Northern Haida language describe things.
+
+
+Pronouns
+Pronouns in the Northern Haida language are references to things.
+
+
+
+Particles
+Uninflecting particles, conjunctions, quantifiers, etc.
+
+
+
+# The Northern Haida morphophonological/twolc rules file 
+
+## Alphabet
+
+ *  %>:0 	 affix boundary
+ *  %^WS:0     white space dummy
+ *  %^DEF:0     white space dummy
+
+
+## Sets
+
+
+ *  Vow = a e i o u y æ ø å  
+        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+ *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
+ *  Sgm = Vow Cns Orth   ; 
+
+
+
+
+## Rules
+
+
+
+**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
+
+
+
+
+
+
+
+
+
+
+**Destressing rule** - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
 Noun inflection
 Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
 
@@ -31,21 +241,25 @@ Need to make Massett dialect -ee versions for Indec ending in -aay
 
 
 
+# Northern Haida verbal classifiesrs
+
+There are appr 400 of these, they are pointed to a 
+set of 150 verbs taking classifiers.
+
+
+
+
+
+
+
+
+
+
+
+
 Proper noun inflection
 The Northern Haida language proper nouns inflect in the same cases as regular
 nouns, but with a colon (ʼ:ʼ) as separator.
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-Adjective inflection
-The Northern Haida language adjectives compare.
 
 
 
@@ -333,59 +547,8 @@ Northern Haida verb affixes
  LEXICON CLASS-UUHL-STEM-3-INFL 
 
 
-# Northern Haida verbal classifiesrs
-
-There are appr 400 of these, they are pointed to a 
-set of 150 verbs taking classifiers.
-
-
-
-
-
-
-
-
-
-
-
-
-# The Northern Haida morphophonological/twolc rules file 
-
-## Alphabet
-
- *  %>:0 	 affix boundary
- *  %^WS:0     white space dummy
- *  %^DEF:0     white space dummy
-
-
-## Sets
-
-
- *  Vow = a e i o u y æ ø å  
-        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
- *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
- *  Sgm = Vow Cns Orth   ; 
-
-
-
-
-## Rules
-
-
-
-**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
-
-
-
-
-
-
-
-
-
-
-**Destressing rule** - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
-
+Adjective inflection
+The Northern Haida language adjectives compare.
 
 
 
@@ -852,169 +1015,6 @@ given the proper use of these flags.
 The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
  *   VERB_ROOT  ;     
-
-
-
-
-Demo from Summer 2015
-chíin+CL/Human+CL/dla:chíin Common "fish" ;
-
-gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
-gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
-dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
-k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
-tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
-x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
-aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
-náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
-
-
-
-
-
-Particles
-Uninflecting particles, conjunctions, quantifiers, etc.
-
-
-
-Prefixes
-Prefixes in the Northern Haida language are bound to beginning of other words.
-
-
-
-
-Pronouns
-Pronouns in the Northern Haida language are references to things.
-
-
-
-Northern Haida postpositions
-Still need to add any distributive and reflexive forms
-as well as demonstratives formed from PPs, etc.
-
-
-
-# File containing abbreviations 
-
-## Lexica for adding tags and periods
-
-Splitting in 4 + 1  groups, because of the preprocessor
-
- * **LEXICON Abbreviation   **
- 1. The ITRAB ;	    lexicon (intransitive abbrs)
- 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
-
-## The sublexica
-### Dividing between abbreviations with and witout final period
-
- * **LEXICON ab-noun   **
-
- * **LEXICON ab-adv   **
-
-### The lexicons that add tags
-
- * **LEXICON ab-nodot-noun   **  The bulk
-
- * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
-
- * **LEXICON ab-nodot-adv   **
-
- * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
-
- * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
-
-
-
-## The abbreviation lexicon itself
-
-
- * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
-
-
-
- * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
-
-
-
-
-
-
-
-
- * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
-
-For abbrs for which numerals are complements, but other
-words not necessarily are. This group treats arabic numerals as
-if it were transitive but letters as if it were intransitive.
-
-
-
-
-
-
-
- * **LEXICON TRAB   ** contains transitive abbreviations
-
-This lexicon is for abbrs that always have a constituent following it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Adverbs
-Still need to add any potential distributive forms, reflexive forms, etc.
-
-
-
-
-Adjectives
-Adjectives in the Northern Haida language describe things.
-
-
-
-Northern Haida verb stems                       
-
-
-
-
-
-
- LEXICON VERBS 
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2 
-V2
-V2
-
-
-
-Numerals
-Numerals in Haida?
 
 
 
