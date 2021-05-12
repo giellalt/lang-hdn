@@ -1,3 +1,4 @@
+* [functions-cg3-src.md](functions-cg3-src.md)
 * [postpositions-stems-fst-src.md](postpositions-stems-fst-src.md)
 * [abbreviations-stems-fst-src.md](abbreviations-stems-fst-src.md)
 * [nouns-stems-fst-src.md](nouns-stems-fst-src.md)
@@ -17,3 +18,4 @@
 * [adjectives-affixes-fst-src.md](adjectives-affixes-fst-src.md)
 * [root-fst-src.md](root-fst-src.md)
 * [transcriptor-abbrevs2text-transcriptions-src.md](transcriptor-abbrevs2text-transcriptions-src.md)
+* [grammarchecker-grammarcheckers-tools.md](grammarchecker-grammarcheckers-tools.md)
