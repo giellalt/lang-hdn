@@ -4,31 +4,31 @@
 
 !! ## Alphabet
 Alphabet
- a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-
- g̲ k̲ x̲
+ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å   !!= * @CODE@ 
+ á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-  !!= * @CODE@ 
+ g̲ k̲ x̲  !!= * @CODE@ 
 
- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
- Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
- G̲ K̲ X̲
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å  !!= * @CODE@ 
+ Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð  !!= * @CODE@ 
+ G̲ K̲ X̲  !!= * @CODE@ 
  %  ! this is a space
  %>:0 	!!= * @CODE@ affix boundary
  %^WS:0    !!= * @CODE@ white space dummy
  %^DEF:0    !!= * @CODE@ white space dummy
- %^ENDA:0
- %^ENDB:0
- %^ENDC:0
- %^ENDD:0
- %^ENDE:0
- %^ENDF:0
- %^ENDG:0
- %^ENDH:0
- s2:s
- ú2:ú
- á2:á
- é2:é
- í2:í
- ú2:ú
+ %^ENDA:0  !!= * @CODE@ 
+ %^ENDB:0  !!= * @CODE@ 
+ %^ENDC:0  !!= * @CODE@ 
+ %^ENDD:0  !!= * @CODE@ 
+ %^ENDE:0  !!= * @CODE@ 
+ %^ENDF:0  !!= * @CODE@ 
+ %^ENDG:0  !!= * @CODE@ 
+ %^ENDH:0  !!= * @CODE@ 
+ s2:s  !!= * @CODE@ 
+ ú2:ú  !!= * @CODE@ 
+ á2:á  !!= * @CODE@ 
+ é2:é  !!= * @CODE@ 
+ í2:í  !!= * @CODE@ 
+ ú2:ú  !!= * @CODE@ 
 
 ;
 
@@ -39,20 +39,21 @@ Sets
  Vow = a e i o u y æ ø å  !!= * @CODE@
        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; !!= @CODE@
  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; !!= * @CODE@
- Orth = . %- ; 
- Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;
+ Orth = . %- ;     !!= * @CODE@ 
+ Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;    !!= * @CODE@ 
  Sgm = Vow Cns Orth   ; !!= * @CODE@
 
  
 Definitions 
 
- WS = :* %^WS:0  :* ; 
- AccVow =  [ á: | é: | í: | ó: | ú: ]  ;
-  
+ WS = :* %^WS:0  :* ;   !!= * @CODE@ 
+ AccVow =  [ á: | é: | í: | ó: | ú: ]  ;     !!= * @CODE@ 
+   
 !! ## Rules
 
 Rules
 
+!! ### ahl rules
 
 "ahl to ál, ahl to áal"
 !! **@RULENAME@** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
@@ -60,6 +61,7 @@ Rules
 a:á <=> \AccVow Cns Cns _ h:0 l %>: [ %^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 | %^ENDD:0 | %^ENDE:0 ] ;
 
 "ahl to ál, ahl to áal"
+!! **@RULENAME@** 
 !h:0 <=> a: _ l %>: [%^ENDB:0 | %^ENDF:0 | %^ENDG:0 | %^ENDH:0 ] ;
 !        a: 0: _ l %>: [ %^ENDD:0 | %^ENDE:0 ] ;
 !        _ l %>: %^DEF:0 ;
@@ -70,19 +72,22 @@ h:0 <=>  á: a  _ l  %>: (Endings:) [ g | á: a | %. á: ]  ; ! skyáalga
 
 
 "ahl to áal, part 2"
+!! **@RULENAME@** 
 0:a <=> a: _ h: l %>: [ %^ENDD:0 | %^ENDE:0 ] ; !
 
 "s2 to j for DEF"
+!! **@RULENAME@** 
 s2:j <=> _ Sgm:* %>: %^DEF:0 ; 
 
 "aa to a for DEF"
+!! **@RULENAME@** 
 a:0 <=> a _ Cns: %>: %^DEF:0 ; 
  
  
-! Destressing
+!! ### Destressing
 
 "Destressing rule"
-!! **@RULENAME@** - this should be a general rule, but we have problems of getting the variables to accept 0:Vow
+!! **@RULENAME@** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
 Vx:Vy <=> [ á: | é: | í: | ó: | ú: ] Sgm:*  %>:  (Endings:) Sgm:* _  ;
           [ á: | é: | í: | ó: | ú: ] Sgm:* Vow: 0:Vow  Cns:+  %>:  (Endings:) Sgm:* _  ; 
           [ á: | é: | í: | ó: | ú: ] Sgm:* _ Sgm:* [ %>: | .#. ] ; !kúníida
