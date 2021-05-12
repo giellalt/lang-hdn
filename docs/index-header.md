@@ -5,11 +5,11 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/issues)
 [![Build status](https://github.com/giellalt/lang-hdn/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
 
-This page documents the work on the **Northern Haida language model**. 
+This page documents the work on the [Northern Haida language model](http://github.com/giellalt/lang-hdn). 
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
 
 # In-source documentation
 
