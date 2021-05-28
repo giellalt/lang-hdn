@@ -958,6 +958,8 @@ Need to make Massett dialect -ee versions for Indec ending in -aay
 
 # The Northern Haida morphophonological/twolc rules file 
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
+
 ## Alphabet
  *  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
  *  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
