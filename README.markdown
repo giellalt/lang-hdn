@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-hdn.git/trunk lang-hdn
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-hdn/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-hdn/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
