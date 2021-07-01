@@ -282,3 +282,5 @@ Northern Haida verb affixes
  LEXICON CLASS-UUHL-STEM-3-INFL 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>

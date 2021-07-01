@@ -76,3 +76,5 @@ This lexicon is for abbrs that always have a constituent following it.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>
