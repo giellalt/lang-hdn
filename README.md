@@ -3,7 +3,7 @@ The Northern Haida morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/issues)
 [![Build Status](https://github.com/giellalt/lang-hdn/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-hdn)](https://raw.githubusercontent.com/giellalt/lang-hdn/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/blob/main/LICENSE)
 
 This repository contains finite state source files for the Northern Haida language,
 for building morphological analysers, proofing tools
