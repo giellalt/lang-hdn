@@ -606,7 +606,180 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-hdn/blob/main/../src/cg3/functions.cg3)</small># The Northern Haida morphophonological/twolc rules file 
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-hdn/blob/main/../src/cg3/functions.cg3)</small>
+
+Demo from Summer 2015
+chíin+CL/Human+CL/dla:chíin Common "fish" ;
+
+gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
+gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
+dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
+k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
+tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
+x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
+aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
+náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>
+# File containing abbreviations 
+
+## Lexica for adding tags and periods
+
+Splitting in 4 + 1  groups, because of the preprocessor
+
+ * **LEXICON Abbreviation   **
+ 1. The ITRAB ;	    lexicon (intransitive abbrs)
+ 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
+
+## The sublexica
+### Dividing between abbreviations with and witout final period
+
+ * **LEXICON ab-noun   **
+
+ * **LEXICON ab-adv   **
+
+### The lexicons that add tags
+
+ * **LEXICON ab-nodot-noun   **  The bulk
+
+ * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
+
+ * **LEXICON ab-nodot-adv   **
+
+ * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
+
+ * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
+
+
+
+## The abbreviation lexicon itself
+
+
+ * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
+
+
+
+ * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
+
+
+
+
+
+
+
+
+ * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
+
+For abbrs for which numerals are complements, but other
+words not necessarily are. This group treats arabic numerals as
+if it were transitive but letters as if it were intransitive.
+
+
+
+
+
+
+
+ * **LEXICON TRAB   ** contains transitive abbreviations
+
+This lexicon is for abbrs that always have a constituent following it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>Northern Haida postpositions
+Still need to add any distributive and reflexive forms
+as well as demonstratives formed from PPs, etc.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>Adverbs
+Still need to add any potential distributive forms, reflexive forms, etc.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>Adjectives
+Adjectives in the Northern Haida language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>
+Northern Haida verb stems                       
+
+
+
+
+
+
+ LEXICON VERBS 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
+Numerals in Haida?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
+Pronouns in the Northern Haida language are references to things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>Particles
+Uninflecting particles, conjunctions, quantifiers, etc.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small># The Northern Haida morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
 
@@ -713,14 +886,21 @@ Need to make Massett dialect -ee versions for Indec ending in -aay
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
-The Northern Haida language proper nouns inflect in the same cases as regular
-nouns, but with a colon (ʼ:ʼ) as separator.
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
+The Northern Haida language adjectives compare.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 Northern Haida verb affixes                       
 
 
@@ -1005,13 +1185,14 @@ Northern Haida verb affixes
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
-The Northern Haida language adjectives compare.
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
+The Northern Haida language proper nouns inflect in the same cases as regular
+nouns, but with a colon (ʼ:ʼ) as separator.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small># Northern Haida verbal classifiesrs
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small># Northern Haida verbal classifiesrs
 
 There are appr 400 of these, they are pointed to a 
 set of 150 verbs taking classifiers.
@@ -1029,14 +1210,6 @@ set of 150 verbs taking classifiers.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/symbols.lexc)</small>
 Northern Haida morphological analyser                      
 
 This file shows the Northern Haida multichar symbols and initial lexica.
@@ -1502,180 +1675,7 @@ word classes, or optionally from prefixes:
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/root.lexc)</small>Adverbs
-Still need to add any potential distributive forms, reflexive forms, etc.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>
-
-Demo from Summer 2015
-chíin+CL/Human+CL/dla:chíin Common "fish" ;
-
-gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
-gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
-dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
-k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
-tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
-x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
-aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
-náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>
-Northern Haida verb stems                       
-
-
-
-
-
-
- LEXICON VERBS 
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2 
-V2
-V2
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Adjectives
-Adjectives in the Northern Haida language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>
-# File containing abbreviations 
-
-## Lexica for adding tags and periods
-
-Splitting in 4 + 1  groups, because of the preprocessor
-
- * **LEXICON Abbreviation   **
- 1. The ITRAB ;	    lexicon (intransitive abbrs)
- 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
-
-## The sublexica
-### Dividing between abbreviations with and witout final period
-
- * **LEXICON ab-noun   **
-
- * **LEXICON ab-adv   **
-
-### The lexicons that add tags
-
- * **LEXICON ab-nodot-noun   **  The bulk
-
- * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
-
- * **LEXICON ab-nodot-adv   **
-
- * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
-
- * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
-
-
-
-## The abbreviation lexicon itself
-
-
- * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
-
-
-
- * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
-
-
-
-
-
-
-
-
- * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
-
-For abbrs for which numerals are complements, but other
-words not necessarily are. This group treats arabic numerals as
-if it were transitive but letters as if it were intransitive.
-
-
-
-
-
-
-
- * **LEXICON TRAB   ** contains transitive abbreviations
-
-This lexicon is for abbrs that always have a constituent following it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Numerals
-Numerals in Haida?
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>Northern Haida postpositions
-Still need to add any distributive and reflexive forms
-as well as demonstratives formed from PPs, etc.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>Prefixes
-Prefixes in the Northern Haida language are bound to beginning of other words.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>Particles
-Uninflecting particles, conjunctions, quantifiers, etc.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>Pronouns
-Pronouns in the Northern Haida language are references to things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/root.lexc)</small>
 
 
 We describe here how abbreviations are in Northern Haida are read out, e.g.
