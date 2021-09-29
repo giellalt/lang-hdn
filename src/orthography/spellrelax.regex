@@ -33,18 +33,14 @@ k̲ (->) ḵ , # 1E35 small letter k with line below
 ä (->) a ,
 ï (->) i ,
 
+%ʼ (->) %' , # Variants of apostrophe/single quoe
+
 %  (->) %- , # group multipart words with hyphen instead of space
 %  (->) %_   # group multipart words with underscore instead of space
 ;
 
 # Explanation:
 # lexical side (->) input 
-
-# Future thought:
-# A posible change is to split this file into lg-specific files.
-# As the number of language grow, this might be more relevant.
-# Especially conflicting rules a -> b, b -> a in different lgs
-# might force a split of this file.
 
 # Note:
 # Some of the lines above seem to contain identical letters, 
