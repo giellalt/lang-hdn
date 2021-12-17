@@ -679,426 +679,13 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-h
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small># Northern Haida verbal classifiesrs
-
-There are appr 400 of these, they are pointed to a 
-set of 150 verbs taking classifiers.
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small>
-Northern Haida verb affixes                       
-
-
-
-
-
-
-
-
- LEXICON CLASS-AA 
-
-
-
- LEXICON CLASS-AAL 
-
-
- LEXICON CLASS-AAL-INFL 
-
- LEXICON CLASS-AAN 
-
- LEXICON CLASS-AAN-INFL 
-
- LEXICON CLASS-AANG 
-
- LEXICON CLASS-AANG-INFL 
-
- LEXICON CLASS-AAW 
-
- LEXICON CLASS-AAW-INFL 
-
- LEXICON CLASS-AAY 
-
- LEXICON CLASS-AAY-INFL 
-
- LEXICON CLASS-AH 
-
- LEXICON CLASS-AH-INFL 
-
-
- LEXICON CLASS-AYD 
-
- LEXICON CLASS-AYD-INFL 
-
-
- LEXICON CLASS-EE 
-
- LEXICON CLASS-EE-INFL 
-
- LEXICON CLASS-EED 
-
- LEXICON CLASS-EED-INFL 
-
-
- LEXICON CLASS-I 
-
- LEXICON CLASS-I-INFL 
-
-
- LEXICON CLASS-IID 
-
- LEXICON CLASS-IID-INFL 
-
-
- LEXICON CLASS-U 
-
- LEXICON CLASS-U-INFL 
-
-
- LEXICON CLASS-AAHL 
-
-
-
- LEXICON CLASS-AAHL-STEM-2-INFL 
-
-
- LEXICON CLASS-AD 
-
-
- LEXICON CLASS-AD-STEM-1-INFL 
-
- LEXICON CLASS-AD-STEM-2-INFL 
-
-
- LEXICON CLASS-AL 
-
-
- LEXICON CLASS-AL-STEM-1-INFL 
-
- LEXICON CLASS-AL-STEM-2-INFL 
-
-
- LEXICON CLASS-AN 
-
- LEXICON CLASS-AN-STEM-1-INFL 
-
- LEXICON CLASS-AN-STEM-2-INFL 
-
- LEXICON CLASS-ANG 
-
-
- LEXICON CLASS-ANG-STEM-1-INFL 
-
- LEXICON CLASS-ANG-STEM-2-INFL 
-
- LEXICON CLASS-AW 
-
-
- LEXICON CLASS-AW-STEM-1-INFL 
-
- LEXICON CLASS-AW-STEM-2-INFL 
-
-
- LEXICON CLASS-AY 
-
- LEXICON CLASS-AY-STEM-1-INFL 
-
- LEXICON CLASS-AY-STEM-2-INFL 
-
-
- LEXICON CLASS-EEHL 
-
- LEXICON CLASS-EEHL-STEM-1-INFL 
-
- LEXICON CLASS-EEHL-STEM-2-INFL 
-
- LEXICON CLASS-ID 
-
-
- LEXICON CLASS-ID-STEM-1-INFL 
-
- LEXICON CLASS-ID-STEM-2-INFL 
-
-
- LEXICON CLASS-II 
-
- LEXICON CLASS-II-STEM-1-INFL 
-
- LEXICON CLASS-II-STEM-2-INFL 
-
- LEXICON CLASS-IN 
-
- LEXICON CLASS-IN-STEM-1-INFL 
-
- LEXICON CLASS-IN-STEM-2-INFL 
-
-
- LEXICON CLASS-ING 
-
- LEXICON CLASS-ING-STEM-1-INFL 
-
- LEXICON CLASS-ING-STEM-2-INFL 
-
-
- LEXICON CLASS-UD 
-
- LEXICON CLASS-UD-STEM-1-INFL 
-
- LEXICON CLASS-UD-STEM-2-INFL 
-
-
- LEXICON CLASS-UN 
-
- LEXICON CLASS-UN-STEM-1-INFL 
-
- LEXICON CLASS-UN-STEM-2-INFL 
-
-
- LEXICON CLASS-UNG 
-
- LEXICON CLASS-UNG-STEM-1-INFL 
-
- LEXICON CLASS-UNG-STEM-2-INFL 
-
-
- LEXICON CLASS-UU 
-
- LEXICON CLASS-UU-STEM-1-INFL   
-
- LEXICON CLASS-UU-STEM-2-INFL  
-
-
- LEXICON CLASS-A 
-
- LEXICON CLASS-A-STEM-1-INFL  
-
- LEXICON CLASS-A-STEM-2-INFL 
-
-
- LEXICON CLASS-A.A 
-
- LEXICON CLASS-A.A-STEM-1-INFL  
-
- LEXICON CLASS-A.A-STEM-2-INFL 
-
-
-
-
-
-
- LEXICON CLASS-AHL 
-
-
- LEXICON CLASS-AHL-INFL 
-
-
- LEXICON CLASS-AS 
-
- LEXICON CLASS-AS-STEM-1-INFL 
-
- LEXICON CLASS-AS-STEM-2-INFL 
-
- LEXICON CLASS-AS-STEM-3-INFL 
-
-
- LEXICON CLASS-E.E 
-
- LEXICON CLASS-E.E-STEM-1-INFL 
-
- LEXICON CLASS-E.E-STEM-2-INFL 
-
-
- LEXICON CLASS-E.EHL 
-
-
- LEXICON CLASS-E.EHL-STEM-1-INFL 
-
- LEXICON CLASS-E.EHL-STEM-2-INFL 
-
-
- LEXICON CLASS-IHL 
-
- LEXICON CLASS-IHL-STEM-1-INFL 
-
- LEXICON CLASS-IHL-STEM-2-INFL 
-
- LEXICON CLASS-IHL-STEM-3-INFL 
-
-
- LEXICON CLASS-IIHL 
-
- LEXICON CLASS-IIHL-STEM-1-INFL 
-
- LEXICON CLASS-IIHL-STEM-2-INFL 
-
- LEXICON CLASS-IIHL-STEM-3-INFL 
-
-
- LEXICON CLASS-IS 
-
- LEXICON CLASS-IS-STEM-1-INFL 
-
- LEXICON CLASS-IS-STEM-2-INFL 
-
- LEXICON CLASS-IS-STEM-3-INFL 
-
-
- LEXICON CLASS-UHL 
-
- LEXICON CLASS-UHL-STEM-1-INFL 
-
- LEXICON CLASS-UHL-STEM-2-INFL 
-
- LEXICON CLASS-UHL-STEM-3-INFL 
-
-
- LEXICON CLASS-US 
-
- LEXICON CLASS-US-STEM-1-INFL 
-
- LEXICON CLASS-US-STEM-2-INFL 
-
- LEXICON CLASS-US-STEM-3-INFL 
-
-
- LEXICON CLASS-UUHL 
-
- LEXICON CLASS-UUHL-STEM-1-INFL 
-
- LEXICON CLASS-UUHL-STEM-2-INFL 
-
- LEXICON CLASS-UUHL-STEM-3-INFL 
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
-The Northern Haida language proper nouns inflect in the same cases as regular
-nouns, but with a colon (ʼ:ʼ) as separator.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
-Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Does Rfx override Pl, or other way around?
-
-Need to make Massett dialect -ee versions for Indec ending in -aay
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
-The Northern Haida language adjectives compare.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small>Particles
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small>Particles
 Uninflecting particles, conjunctions, quantifiers, etc.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>Adverbs
-Still need to add any potential distributive forms, reflexive forms, etc.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>Pronouns
-Pronouns in the Northern Haida language are references to things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>Numerals
-Numerals in Haida?
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>
-Northern Haida verb stems                       
-
-
-
-
-
-
- LEXICON VERBS 
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2 
-V2
-V2
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Prefixes
-Prefixes in the Northern Haida language are bound to beginning of other words.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>
 
 Demo from Summer 2015
 chíin+CL/Human+CL/dla:chíin Common "fish" ;
@@ -1119,7 +706,14 @@ juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>Adverbs
+Still need to add any potential distributive forms, reflexive forms, etc.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>
 # File containing abbreviations 
 
 ## Lexica for adding tags and periods
@@ -1198,18 +792,67 @@ This lexicon is for abbrs that always have a constituent following it.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Northern Haida postpositions
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Numerals
+Numerals in Haida?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>Adjectives
+Adjectives in the Northern Haida language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>Pronouns
+Pronouns in the Northern Haida language are references to things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>
+Northern Haida verb stems                       
+
+
+
+
+
+
+ LEXICON VERBS 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Northern Haida postpositions
 Still need to add any distributive and reflexive forms
 as well as demonstratives formed from PPs, etc.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>Adjectives
-Adjectives in the Northern Haida language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>
 Northern Haida morphological analyser                      
 
 This file shows the Northern Haida multichar symbols and initial lexica.
@@ -1676,6 +1319,363 @@ word classes, or optionally from prefixes:
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/root.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/symbols.lexc)</small>Noun inflection
+Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does Rfx override Pl, or other way around?
+
+Need to make Massett dialect -ee versions for Indec ending in -aay
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/nouns.lexc)</small>Adjective inflection
+The Northern Haida language adjectives compare.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small># Northern Haida verbal classifiesrs
+
+There are appr 400 of these, they are pointed to a 
+set of 150 verbs taking classifiers.
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small>
+Northern Haida verb affixes                       
+
+
+
+
+
+
+
+
+ LEXICON CLASS-AA 
+
+
+
+ LEXICON CLASS-AAL 
+
+
+ LEXICON CLASS-AAL-INFL 
+
+ LEXICON CLASS-AAN 
+
+ LEXICON CLASS-AAN-INFL 
+
+ LEXICON CLASS-AANG 
+
+ LEXICON CLASS-AANG-INFL 
+
+ LEXICON CLASS-AAW 
+
+ LEXICON CLASS-AAW-INFL 
+
+ LEXICON CLASS-AAY 
+
+ LEXICON CLASS-AAY-INFL 
+
+ LEXICON CLASS-AH 
+
+ LEXICON CLASS-AH-INFL 
+
+
+ LEXICON CLASS-AYD 
+
+ LEXICON CLASS-AYD-INFL 
+
+
+ LEXICON CLASS-EE 
+
+ LEXICON CLASS-EE-INFL 
+
+ LEXICON CLASS-EED 
+
+ LEXICON CLASS-EED-INFL 
+
+
+ LEXICON CLASS-I 
+
+ LEXICON CLASS-I-INFL 
+
+
+ LEXICON CLASS-IID 
+
+ LEXICON CLASS-IID-INFL 
+
+
+ LEXICON CLASS-U 
+
+ LEXICON CLASS-U-INFL 
+
+
+ LEXICON CLASS-AAHL 
+
+
+
+ LEXICON CLASS-AAHL-STEM-2-INFL 
+
+
+ LEXICON CLASS-AD 
+
+
+ LEXICON CLASS-AD-STEM-1-INFL 
+
+ LEXICON CLASS-AD-STEM-2-INFL 
+
+
+ LEXICON CLASS-AL 
+
+
+ LEXICON CLASS-AL-STEM-1-INFL 
+
+ LEXICON CLASS-AL-STEM-2-INFL 
+
+
+ LEXICON CLASS-AN 
+
+ LEXICON CLASS-AN-STEM-1-INFL 
+
+ LEXICON CLASS-AN-STEM-2-INFL 
+
+ LEXICON CLASS-ANG 
+
+
+ LEXICON CLASS-ANG-STEM-1-INFL 
+
+ LEXICON CLASS-ANG-STEM-2-INFL 
+
+ LEXICON CLASS-AW 
+
+
+ LEXICON CLASS-AW-STEM-1-INFL 
+
+ LEXICON CLASS-AW-STEM-2-INFL 
+
+
+ LEXICON CLASS-AY 
+
+ LEXICON CLASS-AY-STEM-1-INFL 
+
+ LEXICON CLASS-AY-STEM-2-INFL 
+
+
+ LEXICON CLASS-EEHL 
+
+ LEXICON CLASS-EEHL-STEM-1-INFL 
+
+ LEXICON CLASS-EEHL-STEM-2-INFL 
+
+ LEXICON CLASS-ID 
+
+
+ LEXICON CLASS-ID-STEM-1-INFL 
+
+ LEXICON CLASS-ID-STEM-2-INFL 
+
+
+ LEXICON CLASS-II 
+
+ LEXICON CLASS-II-STEM-1-INFL 
+
+ LEXICON CLASS-II-STEM-2-INFL 
+
+ LEXICON CLASS-IN 
+
+ LEXICON CLASS-IN-STEM-1-INFL 
+
+ LEXICON CLASS-IN-STEM-2-INFL 
+
+
+ LEXICON CLASS-ING 
+
+ LEXICON CLASS-ING-STEM-1-INFL 
+
+ LEXICON CLASS-ING-STEM-2-INFL 
+
+
+ LEXICON CLASS-UD 
+
+ LEXICON CLASS-UD-STEM-1-INFL 
+
+ LEXICON CLASS-UD-STEM-2-INFL 
+
+
+ LEXICON CLASS-UN 
+
+ LEXICON CLASS-UN-STEM-1-INFL 
+
+ LEXICON CLASS-UN-STEM-2-INFL 
+
+
+ LEXICON CLASS-UNG 
+
+ LEXICON CLASS-UNG-STEM-1-INFL 
+
+ LEXICON CLASS-UNG-STEM-2-INFL 
+
+
+ LEXICON CLASS-UU 
+
+ LEXICON CLASS-UU-STEM-1-INFL   
+
+ LEXICON CLASS-UU-STEM-2-INFL  
+
+
+ LEXICON CLASS-A 
+
+ LEXICON CLASS-A-STEM-1-INFL  
+
+ LEXICON CLASS-A-STEM-2-INFL 
+
+
+ LEXICON CLASS-A.A 
+
+ LEXICON CLASS-A.A-STEM-1-INFL  
+
+ LEXICON CLASS-A.A-STEM-2-INFL 
+
+
+
+
+
+
+ LEXICON CLASS-AHL 
+
+
+ LEXICON CLASS-AHL-INFL 
+
+
+ LEXICON CLASS-AS 
+
+ LEXICON CLASS-AS-STEM-1-INFL 
+
+ LEXICON CLASS-AS-STEM-2-INFL 
+
+ LEXICON CLASS-AS-STEM-3-INFL 
+
+
+ LEXICON CLASS-E.E 
+
+ LEXICON CLASS-E.E-STEM-1-INFL 
+
+ LEXICON CLASS-E.E-STEM-2-INFL 
+
+
+ LEXICON CLASS-E.EHL 
+
+
+ LEXICON CLASS-E.EHL-STEM-1-INFL 
+
+ LEXICON CLASS-E.EHL-STEM-2-INFL 
+
+
+ LEXICON CLASS-IHL 
+
+ LEXICON CLASS-IHL-STEM-1-INFL 
+
+ LEXICON CLASS-IHL-STEM-2-INFL 
+
+ LEXICON CLASS-IHL-STEM-3-INFL 
+
+
+ LEXICON CLASS-IIHL 
+
+ LEXICON CLASS-IIHL-STEM-1-INFL 
+
+ LEXICON CLASS-IIHL-STEM-2-INFL 
+
+ LEXICON CLASS-IIHL-STEM-3-INFL 
+
+
+ LEXICON CLASS-IS 
+
+ LEXICON CLASS-IS-STEM-1-INFL 
+
+ LEXICON CLASS-IS-STEM-2-INFL 
+
+ LEXICON CLASS-IS-STEM-3-INFL 
+
+
+ LEXICON CLASS-UHL 
+
+ LEXICON CLASS-UHL-STEM-1-INFL 
+
+ LEXICON CLASS-UHL-STEM-2-INFL 
+
+ LEXICON CLASS-UHL-STEM-3-INFL 
+
+
+ LEXICON CLASS-US 
+
+ LEXICON CLASS-US-STEM-1-INFL 
+
+ LEXICON CLASS-US-STEM-2-INFL 
+
+ LEXICON CLASS-US-STEM-3-INFL 
+
+
+ LEXICON CLASS-UUHL 
+
+ LEXICON CLASS-UUHL-STEM-1-INFL 
+
+ LEXICON CLASS-UUHL-STEM-2-INFL 
+
+ LEXICON CLASS-UUHL-STEM-3-INFL 
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
+The Northern Haida language proper nouns inflect in the same cases as regular
+nouns, but with a colon (ʼ:ʼ) as separator.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small>
 
 
 We describe here how abbreviations are in Northern Haida are read out, e.g.
