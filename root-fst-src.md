@@ -3,7 +3,7 @@ Northern Haida morphological analyser
 
 This file shows the Northern Haida multichar symbols and initial lexica.
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols@CODE@
 
 ## Analysis symbols
 The morphological analyses of wordforms of Northern Haida are presented
@@ -78,68 +78,68 @@ Quasi-inflectional Tags
 
 Valency Tags
 
- * +Val/0 = Environmental verbs (no subject) `(0)`
- * +Val/I = Impersonal Descriptive verbs `(Si)`
- * +Val/A = Active Descriptive verbs `(Sa)`
- * +Val/P = Passive Descriptive verbs `(Sp)`
- * +Val/AO = Active Dynamic verbs `(Sa) (O)`
- * +Val/AOR = Active Dynamic Reflexive verbs `(Sa) (Or)`
- * +Val/PO = Passive Dynamic verbs `(Sp) (O)`
- * +Val/IO = Impersonal Dynamic verbs `(Si) (O)`
- * +Val/AC = Active Causative verbs `(Sa) (C)`
- * +Val/ACR = Active Causative Reflexive verbs `(Sa) (Cr)`
- * +Val/PC = Passive Causative verbs `(Sp) (C)`
- * +Val/IC = Impersonal Causative verbs `(Si) (C)`
- * +Val/ACO = Active Transcausative verbs `(Sa) (C) (O)`
- * +Val/0X = Extended Environmental verbs (no subject) `(0) (X)`
- * +Val/IX = Extended Impersonal Descriptive verbs `(Si) (X)`
- * +Val/AX = Extended Active Descriptive verbs `(Sa) (X)`
- * +Val/PX = Extended Passive Descriptive verbs `(Sp) (X)`
- * +Val/AOX = Extended Active Dynamic verbs `(Sa) (O) (X)`
- * +Val/AORX = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
- * +Val/POX = Extended Passive Dynamic verbs `(Sp) (O) (X)`
- * +Val/IOX = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
- * +Val/ACX = Extended Active Causative verbs `(Sa) (C) (X)`
- * +Val/ACRX = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
- * +Val/PCX = Extended Passive Causative verbs `(Sp) (C) (X)`
- * +Val/ICX = Extended Impersonal Causative verbs `(Si) (C) (X)`
- * +Val/ACOX = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
+* +Val/0`(0)` = Environmental verbs (no subject) `(0)`
+* +Val/I`(Si)` = Impersonal Descriptive verbs `(Si)`
+* +Val/A`(Sa)` = Active Descriptive verbs `(Sa)`
+* +Val/P`(Sp)` = Passive Descriptive verbs `(Sp)`
+* +Val/AO(O)` = Active Dynamic verbs `(Sa) (O)`
+* +Val/AOR(Or)` = Active Dynamic Reflexive verbs `(Sa) (Or)`
+* +Val/PO(O)` = Passive Dynamic verbs `(Sp) (O)`
+* +Val/IO(O)` = Impersonal Dynamic verbs `(Si) (O)`
+* +Val/AC(C)` = Active Causative verbs `(Sa) (C)`
+* +Val/ACR(Cr)` = Active Causative Reflexive verbs `(Sa) (Cr)`
+* +Val/PC(C)` = Passive Causative verbs `(Sp) (C)`
+* +Val/IC(C)` = Impersonal Causative verbs `(Si) (C)`
+* +Val/ACO(O)` = Active Transcausative verbs `(Sa) (C) (O)`
+* +Val/0X(X)` = Extended Environmental verbs (no subject) `(0) (X)`
+* +Val/IX(X)` = Extended Impersonal Descriptive verbs `(Si) (X)`
+* +Val/AX(X)` = Extended Active Descriptive verbs `(Sa) (X)`
+* +Val/PX(X)` = Extended Passive Descriptive verbs `(Sp) (X)`
+* +Val/AOX(X)` = Extended Active Dynamic verbs `(Sa) (O) (X)`
+* +Val/AORX(X)` = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
+* +Val/POX(X)` = Extended Passive Dynamic verbs `(Sp) (O) (X)`
+* +Val/IOX(X)` = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
+* +Val/ACX(X)` = Extended Active Causative verbs `(Sa) (C) (X)`
+* +Val/ACRX(X)` = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
+* +Val/PCX(X)` = Extended Passive Causative verbs `(Sp) (C) (X)`
+* +Val/ICX(X)` = Extended Impersonal Causative verbs `(Si) (C) (X)`
+* +Val/ACOX(X)` = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
 
 
 The Human Classifiers
 
- * +CL/dla =
- * +CL/hlga =
- * +CL/k’u =
+* +CL/dla= =
+* +CL/hlga= =
+* +CL/k’u= =
 
 The Shape Classifiers
 
- * +CL/cha =
- * +CL/gáng =
- * +CL/gi =
- * +CL/gu =
- * +CL/g̲a =
- * +CL/hlga =
- * +CL/hlgi =
- * +CL/hlg̲a =
- * +CL/hlk’u =
- * +CL/hlk̲’a =
- * +CL/hlk̲’uhl =
- * +CL/ja =
- * +CL/k̲ʼíi =
- * +CL/sda =
- * +CL/sga =
- * +CL/sg̲a =
- * +CL/skáa =
- * +CL/sk’a =
- * +CL/sk̲’a =
- * +CL/stl’a =
- * +CL/tíi =
- * +CL/tl’a =
- * +CL/ts’as =
- * +CL/t’a =
- * +CL/t’áw =
- * +CL/xa =
+* +CL/cha= =
+* +CL/gáng= =
+* +CL/gi= =
+* +CL/gu= =
+* +CL/g̲a= =
+* +CL/hlga= =
+* +CL/hlgi= =
+* +CL/hlg̲a= =
+* +CL/hlk’u= =
+* +CL/hlk̲’a= =
+* +CL/hlk̲’uhl= =
+* +CL/ja= =
+* +CL/k̲ʼíi= =
+* +CL/sda= =
+* +CL/sga= =
+* +CL/sg̲a= =
+* +CL/skáa= =
+* +CL/sk’a= =
+* +CL/sk̲’a= =
+* +CL/stl’a= =
+* +CL/tíi= =
+* +CL/tl’a= =
+* +CL/ts’as= =
+* +CL/t’a= =
+* +CL/t’áw= =
+* +CL/xa= =
 
 The Descriptive Classifiers
 
@@ -406,7 +406,7 @@ Verbs and pronouns
 
 
  * +ABBR  = Abbreviations
- * +Symbol = independent symbols in the text stream, like £, €, ©
+* +Symbol© = independent symbols in the text stream, like £, €, ©
  * +ACR   = Acronyms
 
 
@@ -434,29 +434,29 @@ Composite UTF-8 characters, i.e. g, k, and x with
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
- |  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@nominalised | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
- |  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
- |  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
- |  @P.CmpPref.FALSE@ | Block these words from making further compounds
- |  @D.CmpLast.TRUE@ | Block such words from entering R
- |  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
- |  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
- |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
- |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@first | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ENDLEX | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@compounds | Block these words from making further compounds
+|  @D.CmpLast.TRUE@R | Block such words from entering R
+|  @D.CmpNone.TRUE@compounding | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@compounding | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@R | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@root. | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
- |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
- |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:

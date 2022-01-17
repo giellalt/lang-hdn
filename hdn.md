@@ -606,258 +606,12 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-hdn/blob/main/../src/cg3/functions.cg3)</small># The Northern Haida morphophonological/twolc rules file 
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
-
-## Alphabet
- *  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
- *  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
- *  g̲ k̲ x̲   
-
- *  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
- *  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
- *  G̲ K̲ X̲   
- *  %>:0 	 affix boundary
- *  %^WS:0     white space dummy
- *  %^DEF:0     white space dummy
- *  %^ENDA:0   
- *  %^ENDB:0   
- *  %^ENDC:0   
- *  %^ENDD:0   
- *  %^ENDE:0   
- *  %^ENDF:0   
- *  %^ENDG:0   
- *  %^ENDH:0   
- *  s2:s   
- *  ú2:ú   
- *  á2:á   
- *  é2:é   
- *  í2:í   
- *  ú2:ú   
-
-
-## Sets
-
-
- *  Vow = a e i o u y æ ø å  
-        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
- *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
- *  Orth = . %- ;      
- *  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
- *  Sgm = Vow Cns Orth   ; 
-
-
-
- *  WS = :* %^WS:0  :* ;    
- *  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
-
-## Rules
-
-
-### ahl rules
-
-**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
-
-
-**ahl to ál, ahl to áal** 
-
-
-
-**ahl to áal, part 2** 
-
-**s2 to j for DEF** 
-
-**aa to a for DEF** 
-
-
-### Destressing
-
-**Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small>Particles
-Uninflecting particles, conjunctions, quantifiers, etc.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>
-
-Demo from Summer 2015
-chíin+CL/Human+CL/dla:chíin Common "fish" ;
-
-gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
-gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
-dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
-k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
-tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
-x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
-aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
-náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>Adverbs
-Still need to add any potential distributive forms, reflexive forms, etc.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>
-# File containing abbreviations 
-
-## Lexica for adding tags and periods
-
-Splitting in 4 + 1  groups, because of the preprocessor
-
- * **LEXICON Abbreviation   **
- 1. The ITRAB ;	    lexicon (intransitive abbrs)
- 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
-
-## The sublexica
-### Dividing between abbreviations with and witout final period
-
- * **LEXICON ab-noun   **
-
- * **LEXICON ab-adv   **
-
-### The lexicons that add tags
-
- * **LEXICON ab-nodot-noun   **  The bulk
-
- * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
-
- * **LEXICON ab-nodot-adv   **
-
- * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
-
- * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
-
-
-
-## The abbreviation lexicon itself
-
-
- * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
-
-
-
- * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
-
-
-
-
-
-
-
-
- * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
-
-For abbrs for which numerals are complements, but other
-words not necessarily are. This group treats arabic numerals as
-if it were transitive but letters as if it were intransitive.
-
-
-
-
-
-
-
- * **LEXICON TRAB   ** contains transitive abbreviations
-
-This lexicon is for abbrs that always have a constituent following it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Numerals
-Numerals in Haida?
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>Adjectives
-Adjectives in the Northern Haida language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>Prefixes
-Prefixes in the Northern Haida language are bound to beginning of other words.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>Pronouns
-Pronouns in the Northern Haida language are references to things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>
-Northern Haida verb stems                       
-
-
-
-
-
-
- LEXICON VERBS 
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2 
-V2
-V2
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Northern Haida postpositions
-Still need to add any distributive and reflexive forms
-as well as demonstratives formed from PPs, etc.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-hdn/blob/main/../src/cg3/functions.cg3)</small>
 Northern Haida morphological analyser                      
 
 This file shows the Northern Haida multichar symbols and initial lexica.
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols@CODE@
 
 ## Analysis symbols
 The morphological analyses of wordforms of Northern Haida are presented
@@ -932,68 +686,68 @@ Quasi-inflectional Tags
 
 Valency Tags
 
- * +Val/0 = Environmental verbs (no subject) `(0)`
- * +Val/I = Impersonal Descriptive verbs `(Si)`
- * +Val/A = Active Descriptive verbs `(Sa)`
- * +Val/P = Passive Descriptive verbs `(Sp)`
- * +Val/AO = Active Dynamic verbs `(Sa) (O)`
- * +Val/AOR = Active Dynamic Reflexive verbs `(Sa) (Or)`
- * +Val/PO = Passive Dynamic verbs `(Sp) (O)`
- * +Val/IO = Impersonal Dynamic verbs `(Si) (O)`
- * +Val/AC = Active Causative verbs `(Sa) (C)`
- * +Val/ACR = Active Causative Reflexive verbs `(Sa) (Cr)`
- * +Val/PC = Passive Causative verbs `(Sp) (C)`
- * +Val/IC = Impersonal Causative verbs `(Si) (C)`
- * +Val/ACO = Active Transcausative verbs `(Sa) (C) (O)`
- * +Val/0X = Extended Environmental verbs (no subject) `(0) (X)`
- * +Val/IX = Extended Impersonal Descriptive verbs `(Si) (X)`
- * +Val/AX = Extended Active Descriptive verbs `(Sa) (X)`
- * +Val/PX = Extended Passive Descriptive verbs `(Sp) (X)`
- * +Val/AOX = Extended Active Dynamic verbs `(Sa) (O) (X)`
- * +Val/AORX = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
- * +Val/POX = Extended Passive Dynamic verbs `(Sp) (O) (X)`
- * +Val/IOX = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
- * +Val/ACX = Extended Active Causative verbs `(Sa) (C) (X)`
- * +Val/ACRX = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
- * +Val/PCX = Extended Passive Causative verbs `(Sp) (C) (X)`
- * +Val/ICX = Extended Impersonal Causative verbs `(Si) (C) (X)`
- * +Val/ACOX = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
+* +Val/0`(0)` = Environmental verbs (no subject) `(0)`
+* +Val/I`(Si)` = Impersonal Descriptive verbs `(Si)`
+* +Val/A`(Sa)` = Active Descriptive verbs `(Sa)`
+* +Val/P`(Sp)` = Passive Descriptive verbs `(Sp)`
+* +Val/AO(O)` = Active Dynamic verbs `(Sa) (O)`
+* +Val/AOR(Or)` = Active Dynamic Reflexive verbs `(Sa) (Or)`
+* +Val/PO(O)` = Passive Dynamic verbs `(Sp) (O)`
+* +Val/IO(O)` = Impersonal Dynamic verbs `(Si) (O)`
+* +Val/AC(C)` = Active Causative verbs `(Sa) (C)`
+* +Val/ACR(Cr)` = Active Causative Reflexive verbs `(Sa) (Cr)`
+* +Val/PC(C)` = Passive Causative verbs `(Sp) (C)`
+* +Val/IC(C)` = Impersonal Causative verbs `(Si) (C)`
+* +Val/ACO(O)` = Active Transcausative verbs `(Sa) (C) (O)`
+* +Val/0X(X)` = Extended Environmental verbs (no subject) `(0) (X)`
+* +Val/IX(X)` = Extended Impersonal Descriptive verbs `(Si) (X)`
+* +Val/AX(X)` = Extended Active Descriptive verbs `(Sa) (X)`
+* +Val/PX(X)` = Extended Passive Descriptive verbs `(Sp) (X)`
+* +Val/AOX(X)` = Extended Active Dynamic verbs `(Sa) (O) (X)`
+* +Val/AORX(X)` = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
+* +Val/POX(X)` = Extended Passive Dynamic verbs `(Sp) (O) (X)`
+* +Val/IOX(X)` = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
+* +Val/ACX(X)` = Extended Active Causative verbs `(Sa) (C) (X)`
+* +Val/ACRX(X)` = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
+* +Val/PCX(X)` = Extended Passive Causative verbs `(Sp) (C) (X)`
+* +Val/ICX(X)` = Extended Impersonal Causative verbs `(Si) (C) (X)`
+* +Val/ACOX(X)` = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
 
 
 The Human Classifiers
 
- * +CL/dla =
- * +CL/hlga =
- * +CL/k’u =
+* +CL/dla= =
+* +CL/hlga= =
+* +CL/k’u= =
 
 The Shape Classifiers
 
- * +CL/cha =
- * +CL/gáng =
- * +CL/gi =
- * +CL/gu =
- * +CL/g̲a =
- * +CL/hlga =
- * +CL/hlgi =
- * +CL/hlg̲a =
- * +CL/hlk’u =
- * +CL/hlk̲’a =
- * +CL/hlk̲’uhl =
- * +CL/ja =
- * +CL/k̲ʼíi =
- * +CL/sda =
- * +CL/sga =
- * +CL/sg̲a =
- * +CL/skáa =
- * +CL/sk’a =
- * +CL/sk̲’a =
- * +CL/stl’a =
- * +CL/tíi =
- * +CL/tl’a =
- * +CL/ts’as =
- * +CL/t’a =
- * +CL/t’áw =
- * +CL/xa =
+* +CL/cha= =
+* +CL/gáng= =
+* +CL/gi= =
+* +CL/gu= =
+* +CL/g̲a= =
+* +CL/hlga= =
+* +CL/hlgi= =
+* +CL/hlg̲a= =
+* +CL/hlk’u= =
+* +CL/hlk̲’a= =
+* +CL/hlk̲’uhl= =
+* +CL/ja= =
+* +CL/k̲ʼíi= =
+* +CL/sda= =
+* +CL/sga= =
+* +CL/sg̲a= =
+* +CL/skáa= =
+* +CL/sk’a= =
+* +CL/sk̲’a= =
+* +CL/stl’a= =
+* +CL/tíi= =
+* +CL/tl’a= =
+* +CL/ts’as= =
+* +CL/t’a= =
+* +CL/t’áw= =
+* +CL/xa= =
 
 The Descriptive Classifiers
 
@@ -1260,7 +1014,7 @@ Verbs and pronouns
 
 
  * +ABBR  = Abbreviations
- * +Symbol = independent symbols in the text stream, like £, €, ©
+* +Symbol© = independent symbols in the text stream, like £, €, ©
  * +ACR   = Acronyms
 
 
@@ -1288,29 +1042,29 @@ Composite UTF-8 characters, i.e. g, k, and x with
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
- |  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@nominalised | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
- |  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
- |  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
- |  @P.CmpPref.FALSE@ | Block these words from making further compounds
- |  @D.CmpLast.TRUE@ | Block such words from entering R
- |  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
- |  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
- |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
- |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@first | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ENDLEX | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@compounds | Block these words from making further compounds
+|  @D.CmpLast.TRUE@R | Block such words from entering R
+|  @D.CmpNone.TRUE@compounding | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@compounding | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@R | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@root. | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
- |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
- |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
@@ -1366,24 +1120,7 @@ The Northern Haida language adjectives compare.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small># Northern Haida verbal classifiesrs
-
-There are appr 400 of these, they are pointed to a 
-set of 150 verbs taking classifiers.
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 Northern Haida verb affixes                       
 
 
@@ -1675,7 +1412,270 @@ nouns, but with a colon (ʼ:ʼ) as separator.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small># Northern Haida verbal classifiesrs
+
+There are appr 400 of these, they are pointed to a 
+set of 150 verbs taking classifiers.
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small># The Northern Haida morphophonological/twolc rules file 
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
+
+## Alphabet
+ *  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
+ *  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
+ *  g̲ k̲ x̲   
+
+ *  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
+ *  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
+ *  G̲ K̲ X̲   
+ *  %>:0 	 affix boundary
+ *  %^WS:0     white space dummy
+ *  %^DEF:0     white space dummy
+ *  %^ENDA:0   
+ *  %^ENDB:0   
+ *  %^ENDC:0   
+ *  %^ENDD:0   
+ *  %^ENDE:0   
+ *  %^ENDF:0   
+ *  %^ENDG:0   
+ *  %^ENDH:0   
+ *  s2:s   
+ *  ú2:ú   
+ *  á2:á   
+ *  é2:é   
+ *  í2:í   
+ *  ú2:ú   
+
+
+## Sets
+
+
+ *  Vow = a e i o u y æ ø å  
+        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+ *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
+ *  Orth = . %- ;      
+ *  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
+ *  Sgm = Vow Cns Orth   ; 
+
+
+
+ *  WS = :* %^WS:0  :* ;    
+ *  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
+
+## Rules
+
+
+### ahl rules
+
+**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
+
+
+**ahl to ál, ahl to áal** 
+
+
+
+**ahl to áal, part 2** 
+
+**s2 to j for DEF** 
+
+**aa to a for DEF** 
+
+
+### Destressing
+
+**Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small>Northern Haida postpositions
+Still need to add any distributive and reflexive forms
+as well as demonstratives formed from PPs, etc.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>
+# File containing abbreviations 
+
+## Lexica for adding tags and periods
+
+Splitting in 4 + 1  groups, because of the preprocessor
+
+ * **LEXICON Abbreviation   **
+ 1. The ITRAB ;	    lexicon (intransitive abbrs)
+ 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
+
+## The sublexica
+### Dividing between abbreviations with and witout final period
+
+ * **LEXICON ab-noun   **
+
+ * **LEXICON ab-adv   **
+
+### The lexicons that add tags
+
+ * **LEXICON ab-nodot-noun   **  The bulk
+
+ * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
+
+ * **LEXICON ab-nodot-adv   **
+
+ * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
+
+ * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
+
+
+
+## The abbreviation lexicon itself
+
+
+ * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
+
+
+
+ * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
+
+
+
+
+
+
+
+
+ * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
+
+For abbrs for which numerals are complements, but other
+words not necessarily are. This group treats arabic numerals as
+if it were transitive but letters as if it were intransitive.
+
+
+
+
+
+
+
+ * **LEXICON TRAB   ** contains transitive abbreviations
+
+This lexicon is for abbrs that always have a constituent following it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Particles
+Uninflecting particles, conjunctions, quantifiers, etc.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>
+
+Demo from Summer 2015
+chíin+CL/Human+CL/dla:chíin Common "fish" ;
+
+gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
+gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
+dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
+k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
+tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
+x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
+aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
+náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>Adjectives
+Adjectives in the Northern Haida language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>Pronouns
+Pronouns in the Northern Haida language are references to things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>
+Northern Haida verb stems                       
+
+
+
+
+
+
+ LEXICON VERBS 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
+Numerals in Haida?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>Adverbs
+Still need to add any potential distributive forms, reflexive forms, etc.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>
 
 
 We describe here how abbreviations are in Northern Haida are read out, e.g.
