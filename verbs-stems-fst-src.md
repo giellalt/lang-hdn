@@ -6,7 +6,7 @@ Northern Haida verb stems
 
 
 
- LEXICON VERBS 
+LEXICON VERBS 
 V2
 V2
 V2

@@ -611,7 +611,7 @@ Northern Haida morphological analyser
 
 This file shows the Northern Haida multichar symbols and initial lexica.
 
-# Definitions for Multichar_Symbols@CODE@
+# Definitions for Multichar_Symbols
 
 ## Analysis symbols
 The morphological analyses of wordforms of Northern Haida are presented
@@ -623,266 +623,266 @@ The parts-of-speech could perhaps also be (remove irrelevant):
 
 These are vowel morphophonemes which will lose their accent when they are no long in closed syllables
 
- * á2  = 
- * é2  =
- * í2  =
- * ú2  =
- * s2  =
+* á2  = 
+* é2  =
+* í2  =
+* ú2  =
+* s2  =
 
 Haida has these tags for real, says Jordan.
- * +V          = Verbs
- * +N          = Nouns
- * +Prop       = Proper nouns
- * +Neg        = Negative
- * +3pl        = 3rd personal definite plural participant
- * +Interr     = Interrogative
- * +Fut        = Future
- * +Past       = Past
- * +Pres       = Present
- * +Hab        = Habitual
- * +Bias       = Biased
- * +Cert       = Certain
- * +Simp       = Simple
- * +Rel        = Relative
- * +NonFact    = Non_Factive
- * +Imm        = Immediate
- * +VNear      = Very near
- * +Rflx       = Reflexive
- * +Near       =
- * +Indir      = Indirect evidentiality
- * +Dir        = Direct evidentiality
- * +Cont       = Should keep on verbing
- * +Short      =
- * +Res        = Resigned obligation
- * +Long       =
- * +Ints       = Intensive
- * +Impv       = Imperative
- * +Evid       = Evidential
- * +Ctfact     = Counterfactual
- * +Sg         = Singular
- * +Pl         = Plural
- * +Def        =
- * +Indef      =
- * +Rfx        = Used for reflexively possessed body parts and kinterms
- * +Abs        = Non-reflexive forms of body parts and kinterms
- * +Pron       =
- * +Ptcl       =
- * +Cond-Aux1  = Used before non-ablauting secondary verbs
- * +Cond-Aux2  = Used before ablauting secondary verbs
+* +V          = Verbs
+* +N          = Nouns
+* +Prop       = Proper nouns
+* +Neg        = Negative
+* +3pl        = 3rd personal definite plural participant
+* +Interr     = Interrogative
+* +Fut        = Future
+* +Past       = Past
+* +Pres       = Present
+* +Hab        = Habitual
+* +Bias       = Biased
+* +Cert       = Certain
+* +Simp       = Simple
+* +Rel        = Relative
+* +NonFact    = Non_Factive
+* +Imm        = Immediate
+* +VNear      = Very near
+* +Rflx       = Reflexive
+* +Near       =
+* +Indir      = Indirect evidentiality
+* +Dir        = Direct evidentiality
+* +Cont       = Should keep on verbing
+* +Short      =
+* +Res        = Resigned obligation
+* +Long       =
+* +Ints       = Intensive
+* +Impv       = Imperative
+* +Evid       = Evidential
+* +Ctfact     = Counterfactual
+* +Sg         = Singular
+* +Pl         = Plural
+* +Def        =
+* +Indef      =
+* +Rfx        = Used for reflexively possessed body parts and kinterms
+* +Abs        = Non-reflexive forms of body parts and kinterms
+* +Pron       =
+* +Ptcl       =
+* +Cond-Aux1  = Used before non-ablauting secondary verbs
+* +Cond-Aux2  = Used before ablauting secondary verbs
 
 Quasi-inflectional Tags
 
- * +Ext         = Extensional suffix -dáal
- * +Circum      = Circumambulative singular suffix -gwáang
- * +Stand-Sg    = Singular standing quasi-infl suffix -gyaʼáng
- * +Stand-Pl    = Plural standing quasi-infl suffix -gyaʼáang
- * +Order       = Quasi-infl suffix -hahl "tell to V"
- * +Incep       = Quasi-infl suffix -hid "start to V"
- * +Almost      = Quasi-infl suffix -sgä "almost V"
- * +Nocturn     = Quasi-infl suffix -ʼuhla "V all night"
- * +Sit-Sg      = Quasi-infl suffix -ʼwä "V sitting (sg)"
- * +Sit-Pl      = Quasi-infl suffix -ʼwaʼáang "V sitting (pl)"
- * +Distrib     = Quasi-infl suffix -agang "each" 
+* +Ext         = Extensional suffix -dáal
+* +Circum      = Circumambulative singular suffix -gwáang
+* +Stand-Sg    = Singular standing quasi-infl suffix -gyaʼáng
+* +Stand-Pl    = Plural standing quasi-infl suffix -gyaʼáang
+* +Order       = Quasi-infl suffix -hahl "tell to V"
+* +Incep       = Quasi-infl suffix -hid "start to V"
+* +Almost      = Quasi-infl suffix -sgä "almost V"
+* +Nocturn     = Quasi-infl suffix -ʼuhla "V all night"
+* +Sit-Sg      = Quasi-infl suffix -ʼwä "V sitting (sg)"
+* +Sit-Pl      = Quasi-infl suffix -ʼwaʼáang "V sitting (pl)"
+* +Distrib     = Quasi-infl suffix -agang "each" 
 
 Valency Tags
 
-* +Val/0`(0)` = Environmental verbs (no subject) `(0)`
-* +Val/I`(Si)` = Impersonal Descriptive verbs `(Si)`
-* +Val/A`(Sa)` = Active Descriptive verbs `(Sa)`
-* +Val/P`(Sp)` = Passive Descriptive verbs `(Sp)`
-* +Val/AO(O)` = Active Dynamic verbs `(Sa) (O)`
-* +Val/AOR(Or)` = Active Dynamic Reflexive verbs `(Sa) (Or)`
-* +Val/PO(O)` = Passive Dynamic verbs `(Sp) (O)`
-* +Val/IO(O)` = Impersonal Dynamic verbs `(Si) (O)`
-* +Val/AC(C)` = Active Causative verbs `(Sa) (C)`
-* +Val/ACR(Cr)` = Active Causative Reflexive verbs `(Sa) (Cr)`
-* +Val/PC(C)` = Passive Causative verbs `(Sp) (C)`
-* +Val/IC(C)` = Impersonal Causative verbs `(Si) (C)`
-* +Val/ACO(O)` = Active Transcausative verbs `(Sa) (C) (O)`
-* +Val/0X(X)` = Extended Environmental verbs (no subject) `(0) (X)`
-* +Val/IX(X)` = Extended Impersonal Descriptive verbs `(Si) (X)`
-* +Val/AX(X)` = Extended Active Descriptive verbs `(Sa) (X)`
-* +Val/PX(X)` = Extended Passive Descriptive verbs `(Sp) (X)`
-* +Val/AOX(X)` = Extended Active Dynamic verbs `(Sa) (O) (X)`
-* +Val/AORX(X)` = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
-* +Val/POX(X)` = Extended Passive Dynamic verbs `(Sp) (O) (X)`
-* +Val/IOX(X)` = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
-* +Val/ACX(X)` = Extended Active Causative verbs `(Sa) (C) (X)`
-* +Val/ACRX(X)` = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
-* +Val/PCX(X)` = Extended Passive Causative verbs `(Sp) (C) (X)`
-* +Val/ICX(X)` = Extended Impersonal Causative verbs `(Si) (C) (X)`
-* +Val/ACOX(X)` = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
+* +Val/0 = Environmental verbs (no subject) `(0)`
+* +Val/I = Impersonal Descriptive verbs `(Si)`
+* +Val/A = Active Descriptive verbs `(Sa)`
+* +Val/P = Passive Descriptive verbs `(Sp)`
+* +Val/AO = Active Dynamic verbs `(Sa) (O)`
+* +Val/AOR = Active Dynamic Reflexive verbs `(Sa) (Or)`
+* +Val/PO = Passive Dynamic verbs `(Sp) (O)`
+* +Val/IO = Impersonal Dynamic verbs `(Si) (O)`
+* +Val/AC = Active Causative verbs `(Sa) (C)`
+* +Val/ACR = Active Causative Reflexive verbs `(Sa) (Cr)`
+* +Val/PC = Passive Causative verbs `(Sp) (C)`
+* +Val/IC = Impersonal Causative verbs `(Si) (C)`
+* +Val/ACO = Active Transcausative verbs `(Sa) (C) (O)`
+* +Val/0X = Extended Environmental verbs (no subject) `(0) (X)`
+* +Val/IX = Extended Impersonal Descriptive verbs `(Si) (X)`
+* +Val/AX = Extended Active Descriptive verbs `(Sa) (X)`
+* +Val/PX = Extended Passive Descriptive verbs `(Sp) (X)`
+* +Val/AOX = Extended Active Dynamic verbs `(Sa) (O) (X)`
+* +Val/AORX = Extended Active Dynamic Reflexive verbs `(Sa) (Or) (X)`
+* +Val/POX = Extended Passive Dynamic verbs `(Sp) (O) (X)`
+* +Val/IOX = Extended Impersonal Dynamic verbs `(Si) (O) (X)`
+* +Val/ACX = Extended Active Causative verbs `(Sa) (C) (X)`
+* +Val/ACRX = Extended Active Causative Reflexive verbs `(Sa) (Cr) (X)`
+* +Val/PCX = Extended Passive Causative verbs `(Sp) (C) (X)`
+* +Val/ICX = Extended Impersonal Causative verbs `(Si) (C) (X)`
+* +Val/ACOX = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
 
 
 The Human Classifiers
 
-* +CL/dla= =
-* +CL/hlga= =
-* +CL/k’u= =
+* +CL/dla =
+* +CL/hlga =
+* +CL/k’u =
 
 The Shape Classifiers
 
-* +CL/cha= =
-* +CL/gáng= =
-* +CL/gi= =
-* +CL/gu= =
-* +CL/g̲a= =
-* +CL/hlga= =
-* +CL/hlgi= =
-* +CL/hlg̲a= =
-* +CL/hlk’u= =
-* +CL/hlk̲’a= =
-* +CL/hlk̲’uhl= =
-* +CL/ja= =
-* +CL/k̲ʼíi= =
-* +CL/sda= =
-* +CL/sga= =
-* +CL/sg̲a= =
-* +CL/skáa= =
-* +CL/sk’a= =
-* +CL/sk̲’a= =
-* +CL/stl’a= =
-* +CL/tíi= =
-* +CL/tl’a= =
-* +CL/ts’as= =
-* +CL/t’a= =
-* +CL/t’áw= =
-* +CL/xa= =
+* +CL/cha =
+* +CL/gáng =
+* +CL/gi =
+* +CL/gu =
+* +CL/g̲a =
+* +CL/hlga =
+* +CL/hlgi =
+* +CL/hlg̲a =
+* +CL/hlk’u =
+* +CL/hlk̲’a =
+* +CL/hlk̲’uhl =
+* +CL/ja =
+* +CL/k̲ʼíi =
+* +CL/sda =
+* +CL/sga =
+* +CL/sg̲a =
+* +CL/skáa =
+* +CL/sk’a =
+* +CL/sk̲’a =
+* +CL/stl’a =
+* +CL/tíi =
+* +CL/tl’a =
+* +CL/ts’as =
+* +CL/t’a =
+* +CL/t’áw =
+* +CL/xa =
 
 The Descriptive Classifiers
 
- * +CL/cháam  =
- * +CL/chab  =
- * +CL/dab  =
- * +CL/dám  =
- * +CL/dláam  =
- * +CL/dlál  =
- * +CL/gám  =
- * +CL/gáw  =
- * +CL/gyáam  =
- * +CL/g̲áam  =
- * +CL/ĝám  =
- * +CL/hám  =
- * +CL/hlgáam  =
- * +CL/hlgám  =
- * +CL/hlgi  =
- * +CL/hlg̲áam  =
- * +CL/hlg̲áy  =
- * +CL/hlĝám  =
- * +CL/hlku  =
- * +CL/hlkuhl  =
- * +CL/hlkʼu  =
- * +CL/hlk̲ám  =
- * +CL/hlk̲ʼáam  =
- * +CL/hlk̲ʼuhl  =
- * +CL/hlk̲ʼwáahl  =
- * +CL/hltab  =
- * +CL/hltám  =
- * +CL/hltʼáam  =
- * +CL/hltʼab  =
- * +CL/hltʼahl  =
- * +CL/id  =
- * +CL/is  =
- * +CL/ja  =
- * +CL/jah  =
- * +CL/jíi  =
- * +CL/káa  =
- * +CL/kál  =
- * +CL/kám  =
- * +CL/ki  =
- * +CL/kún  =
- * +CL/kʼu  =
- * +CL/kʼúl  =
- * +CL/k̲ám  =
- * +CL/k̲áw  =
- * +CL/k̲ʼa  =
- * +CL/k̲ʼáam  =
- * +CL/k̲ʼéem  =
- * +CL/k̲ʼuhl  =
- * +CL/k̲ʼún  =
- * +CL/k̲ʼwáahl  =
- * +CL/mál  =
- * +CL/sdáam  =
- * +CL/sdah  =
- * +CL/sdúu  =
- * +CL/sga  =
- * +CL/sgab  =
- * +CL/sgáam  =
- * +CL/sgám  =
- * +CL/sgíl  =
- * +CL/sgún  =
- * +CL/sg̲áam  =
- * +CL/skám  =
- * +CL/skʼáam  =
- * +CL/skʼál  =
- * +CL/sk̲ʼáam  =
- * +CL/sk̲ʼihl  =
- * +CL/smál  =
- * +CL/stad  =
- * +CL/stlúu  =
- * +CL/stlʼáam  =
- * +CL/sʼahl  =
- * +CL/tlúu  =
- * +CL/tlʼáam  =
- * +CL/tlʼab  =
- * +CL/tlʼad  =
- * +CL/tlʼúu  =
- * +CL/tsʼúu  =
- * +CL/tʼáam  =
- * +CL/tʼab  =
- * +CL/tʼám  =
- * +CL/xab  =
- * +CL/xáw  =
- * +CL/x̲a  =
+* +CL/cháam  =
+* +CL/chab  =
+* +CL/dab  =
+* +CL/dám  =
+* +CL/dláam  =
+* +CL/dlál  =
+* +CL/gám  =
+* +CL/gáw  =
+* +CL/gyáam  =
+* +CL/g̲áam  =
+* +CL/ĝám  =
+* +CL/hám  =
+* +CL/hlgáam  =
+* +CL/hlgám  =
+* +CL/hlgi  =
+* +CL/hlg̲áam  =
+* +CL/hlg̲áy  =
+* +CL/hlĝám  =
+* +CL/hlku  =
+* +CL/hlkuhl  =
+* +CL/hlkʼu  =
+* +CL/hlk̲ám  =
+* +CL/hlk̲ʼáam  =
+* +CL/hlk̲ʼuhl  =
+* +CL/hlk̲ʼwáahl  =
+* +CL/hltab  =
+* +CL/hltám  =
+* +CL/hltʼáam  =
+* +CL/hltʼab  =
+* +CL/hltʼahl  =
+* +CL/id  =
+* +CL/is  =
+* +CL/ja  =
+* +CL/jah  =
+* +CL/jíi  =
+* +CL/káa  =
+* +CL/kál  =
+* +CL/kám  =
+* +CL/ki  =
+* +CL/kún  =
+* +CL/kʼu  =
+* +CL/kʼúl  =
+* +CL/k̲ám  =
+* +CL/k̲áw  =
+* +CL/k̲ʼa  =
+* +CL/k̲ʼáam  =
+* +CL/k̲ʼéem  =
+* +CL/k̲ʼuhl  =
+* +CL/k̲ʼún  =
+* +CL/k̲ʼwáahl  =
+* +CL/mál  =
+* +CL/sdáam  =
+* +CL/sdah  =
+* +CL/sdúu  =
+* +CL/sga  =
+* +CL/sgab  =
+* +CL/sgáam  =
+* +CL/sgám  =
+* +CL/sgíl  =
+* +CL/sgún  =
+* +CL/sg̲áam  =
+* +CL/skám  =
+* +CL/skʼáam  =
+* +CL/skʼál  =
+* +CL/sk̲ʼáam  =
+* +CL/sk̲ʼihl  =
+* +CL/smál  =
+* +CL/stad  =
+* +CL/stlúu  =
+* +CL/stlʼáam  =
+* +CL/sʼahl  =
+* +CL/tlúu  =
+* +CL/tlʼáam  =
+* +CL/tlʼab  =
+* +CL/tlʼad  =
+* +CL/tlʼúu  =
+* +CL/tsʼúu  =
+* +CL/tʼáam  =
+* +CL/tʼab  =
+* +CL/tʼám  =
+* +CL/xab  =
+* +CL/xáw  =
+* +CL/x̲a  =
 
 Restricted Descriptive Classifiers
 
- * +CL/ga  =
- * +CL/gáam  =
- * +CL/gab  =
- * +CL/gáng  =
- * +CL/gu  =
- * +CL/gúl  =
- * +CL/hlkwáahl  =
- * +CL/hlkʼib  =
- * +CL/hlk̲áa  =
- * +CL/hlk̲íl  =
- * +CL/hltáam  =
- * +CL/hltab  =
- * +CL/hltʼah  =
- * +CL/hltʼab  =
- * +CL/jám  =
- * +CL/jíi  =
- * +CL/jíihl  =
- * +CL/kám  =
- * +CL/kún  =
- * +CL/kʼwáa  =
- * +CL/kʼwáahl  =
- * +CL/k̲ab  =
- * +CL/k̲ʼa  =
- * +CL/k̲ʼah  =
- * +CL/síi  =
- * +CL/skáy  =
- * +CL/sk̲ʼéehl  =
- * +CL/stláam  =
- * +CL/stlab  =
- * +CL/stlʼúu  =
- * +CL/sʼab  =
- * +CL/sʼyúu  =
- * +CL/tláa  =
- * +CL/tlʼáahl  =
- * +CL/tlʼán  =
- * +CL/tlʼál  =
- * +CL/tsʼám  =
- * +CL/tʼab  =
- * +CL/xáam  =
- * +CL/xwáad  =
- * +CL/x̲a  =
- * +CL/x̲ab  =
- * +CL/x̲aw  =
- * +CL/x̲áam  =
- * +CL/x̲ún  =
- * +CL/x̲úl  =
+* +CL/ga  =
+* +CL/gáam  =
+* +CL/gab  =
+* +CL/gáng  =
+* +CL/gu  =
+* +CL/gúl  =
+* +CL/hlkwáahl  =
+* +CL/hlkʼib  =
+* +CL/hlk̲áa  =
+* +CL/hlk̲íl  =
+* +CL/hltáam  =
+* +CL/hltab  =
+* +CL/hltʼah  =
+* +CL/hltʼab  =
+* +CL/jám  =
+* +CL/jíi  =
+* +CL/jíihl  =
+* +CL/kám  =
+* +CL/kún  =
+* +CL/kʼwáa  =
+* +CL/kʼwáahl  =
+* +CL/k̲ab  =
+* +CL/k̲ʼa  =
+* +CL/k̲ʼah  =
+* +CL/síi  =
+* +CL/skáy  =
+* +CL/sk̲ʼéehl  =
+* +CL/stláam  =
+* +CL/stlab  =
+* +CL/stlʼúu  =
+* +CL/sʼab  =
+* +CL/sʼyúu  =
+* +CL/tláa  =
+* +CL/tlʼáahl  =
+* +CL/tlʼán  =
+* +CL/tlʼál  =
+* +CL/tsʼám  =
+* +CL/tʼab  =
+* +CL/xáam  =
+* +CL/xwáad  =
+* +CL/x̲a  =
+* +CL/x̲ab  =
+* +CL/x̲aw  =
+* +CL/x̲áam  =
+* +CL/x̲ún  =
+* +CL/x̲úl  =
 
 Rare Classifiers (SKIPPED, LEXICALIZE THESE)
 
@@ -892,23 +892,23 @@ Human Classifers (to be added)
 
 The pre-verb classifiers
 
- *  CL/Shape+  = 
- *  CL/Manner+  = 
- *  CL/Human+  = 
- *  CL/Human_Male+  = 
- *  CL/Human_Female+  = 
- *  CL/Descriptive+  = 
- *  CL/Sound+  = 
- *  CL/Color+  = 
+*  CL/Shape+  = 
+*  CL/Manner+  = 
+*  CL/Human+  = 
+*  CL/Human_Male+  = 
+*  CL/Human_Female+  = 
+*  CL/Descriptive+  = 
+*  CL/Sound+  = 
+*  CL/Color+  = 
 
- *  +CL/Shape  = 
- *  +CL/Manner  = 
- *  +CL/Human  = 
- *  +CL/Human_Male  = 
- *  +CL/Human_Female  = 
- *  +CL/Descriptive  = 
- *  +CL/Sound  = 
- *  +CL/Color  = 
+*  +CL/Shape  = 
+*  +CL/Manner  = 
+*  +CL/Human  = 
+*  +CL/Human_Male  = 
+*  +CL/Human_Female  = 
+*  +CL/Descriptive  = 
+*  +CL/Sound  = 
+*  +CL/Color  = 
 
 Semantic Tags
 
@@ -923,66 +923,66 @@ Triggers
 
 The parts-of-speech could perhaps also be (remove irrelevant):
 
- * +A	     =
- * +Adv     =
- * +Pron    =
- * +CS	     =
- * +CC	     =
- * +Adp     =
- * +Po	     =
- * +Pr	     =
- * +Interj  =
- * +Pcle    =
- * +Num     =
+* +A	     =
+* +Adv     =
+* +Pron    =
+* +CS	     =
+* +CC	     =
+* +Adp     =
+* +Po	     =
+* +Pr	     =
+* +Interj  =
+* +Pcle    =
+* +Num     =
 
- * +Def   =
- * +Indef  =
+* +Def   =
+* +Indef  =
 
 The parts of speech are further split up into:
 
- * +Prop    =
- * +Pers    =
- * +Dem     =
- * +Interr  =
- * +Refl    =
- * +Recipr  =
- * +Rel     =
- * +Indef   =
+* +Prop    =
+* +Pers    =
+* +Dem     =
+* +Interr  =
+* +Refl    =
+* +Recipr  =
+* +Rel     =
+* +Indef   =
 
 The Usage extents are marked using the following tags:
- *  +Err/Orth      = Substandard forms
- *  +Use/-Spell   = Not included in speller
+*  +Err/Orth      = Substandard forms
+*  +Use/-Spell   = Not included in speller
 
 The nominals are inflected in the following Number
 
- * +Sg    =
- * +Pl    =
- * +Indef  =
- * +Def   =
- * +Abs  =
- * +Rfx  =
+* +Sg    =
+* +Pl    =
+* +Indef  =
+* +Def   =
+* +Abs  =
+* +Rfx  =
 
 The verbs can have the following morphological features:
 
- * +1sg    =
- * +2dl    =
- * +2pl    =
- * +2sg    =
- * +3pl    =
- * +3sg    =
- * +Edl    =
- * +Epl    =
- * +Fut    =
- * +FutImp    =
- * +Hab    =
- * +Idl    =
- * +ImmPast    =
- * +Inf    =
- * +Ipl    =
- * +Prs    =
- * +PrsImp    =
- * +RemPast    =
- * +RepPast    =
+* +1sg    =
+* +2dl    =
+* +2pl    =
+* +2sg    =
+* +3pl    =
+* +3sg    =
+* +Edl    =
+* +Epl    =
+* +Fut    =
+* +FutImp    =
+* +Hab    =
+* +Idl    =
+* +ImmPast    =
+* +Inf    =
+* +Ipl    =
+* +Prs    =
+* +PrsImp    =
+* +RemPast    =
+* +RepPast    =
 
 Verb prefixes
 
@@ -998,41 +998,41 @@ The TAM flags
 
 
 Verbs and prnouns
- * +1Sg     first singular
- * +2Sg     etc
- * +3Sg     third singular
+* +1Sg     first singular
+* +2Sg     etc
+* +3Sg     third singular
 
 Verbs and pronouns
- * +1Sg     = first person singular
- * +2Sg     = second person singular
- * +3Sg     = third person singular
+* +1Sg     = first person singular
+* +2Sg     = second person singular
+* +3Sg     = third person singular
 
- * +1Pl     = first person plural
- * +2Pl     = second person plural
- * +3Pl     = third person plural
+* +1Pl     = first person plural
+* +2Pl     = second person plural
+* +3Pl     = third person plural
 
 
 
- * +ABBR  = Abbreviations
-* +Symbol© = independent symbols in the text stream, like £, €, ©
- * +ACR   = Acronyms
+* +ABBR  = Abbreviations
+* +Symbol = independent symbols in the text stream, like £, €, ©
+* +ACR   = Acronyms
 
 
 Special symbols are classified with:
- * +CLB    = Clause boundary symbols
- * +PUNCT  = Other punctuation marks
- * +LEFT   = Left part of paired symbols
- * +RIGHT  = Right part of paired symbols
+* +CLB    = Clause boundary symbols
+* +PUNCT  = Other punctuation marks
+* +LEFT   = Left part of paired symbols
+* +RIGHT  = Right part of paired symbols
 
 The verbs are syntactically split according to transitivity:
- * +TV  
- * +IV  
+* +TV  
+* +IV  
 
 Special multiword units are analysed with:
- *  +Multi  
+*  +Multi  
 
 Non-dictionary words can be recognised with:
- *  +Guess  
+*  +Guess  
 
 
 Composite UTF-8 characters, i.e. g, k, and x with
@@ -1042,33 +1042,33 @@ Composite UTF-8 characters, i.e. g, k, and x with
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
-|  @P.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @D.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @C.NeedNoun@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
-|  @P.CmpFrst.FALSE@first | Require that words tagged as such only appear first
-|  @D.CmpPref.TRUE@ENDLEX | Block such words from entering ENDLEX
-|  @P.CmpPref.FALSE@compounds | Block these words from making further compounds
-|  @D.CmpLast.TRUE@R | Block such words from entering R
-|  @D.CmpNone.TRUE@compounding | Combines with the next tag to prohibit compounding
-|  @U.CmpNone.FALSE@compounding | Combines with the prev tag to prohibit compounding
-|  @P.CmpOnly.TRUE@R | Sets a flag to indicate that the word has passed R
-|  @D.CmpOnly.FALSE@root. | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@ | Block these words from making further compounds
+|  @D.CmpLast.TRUE@ | Block such words from entering R
+|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
-|  @U.Cap.Obl@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
-|  @U.Cap.Opt@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
- *   VERB_ROOT  ;     
+*   VERB_ROOT  ;     
 
 
 * * *
@@ -1130,278 +1130,278 @@ Northern Haida verb affixes
 
 
 
- LEXICON CLASS-AA 
+LEXICON CLASS-AA 
 
 
 
- LEXICON CLASS-AAL 
+LEXICON CLASS-AAL 
 
 
- LEXICON CLASS-AAL-INFL 
+LEXICON CLASS-AAL-INFL 
 
- LEXICON CLASS-AAN 
+LEXICON CLASS-AAN 
 
- LEXICON CLASS-AAN-INFL 
+LEXICON CLASS-AAN-INFL 
 
- LEXICON CLASS-AANG 
+LEXICON CLASS-AANG 
 
- LEXICON CLASS-AANG-INFL 
+LEXICON CLASS-AANG-INFL 
 
- LEXICON CLASS-AAW 
+LEXICON CLASS-AAW 
 
- LEXICON CLASS-AAW-INFL 
+LEXICON CLASS-AAW-INFL 
 
- LEXICON CLASS-AAY 
+LEXICON CLASS-AAY 
 
- LEXICON CLASS-AAY-INFL 
+LEXICON CLASS-AAY-INFL 
 
- LEXICON CLASS-AH 
+LEXICON CLASS-AH 
 
- LEXICON CLASS-AH-INFL 
+LEXICON CLASS-AH-INFL 
 
 
- LEXICON CLASS-AYD 
+LEXICON CLASS-AYD 
 
- LEXICON CLASS-AYD-INFL 
+LEXICON CLASS-AYD-INFL 
 
 
- LEXICON CLASS-EE 
+LEXICON CLASS-EE 
 
- LEXICON CLASS-EE-INFL 
+LEXICON CLASS-EE-INFL 
 
- LEXICON CLASS-EED 
+LEXICON CLASS-EED 
 
- LEXICON CLASS-EED-INFL 
+LEXICON CLASS-EED-INFL 
 
 
- LEXICON CLASS-I 
+LEXICON CLASS-I 
 
- LEXICON CLASS-I-INFL 
+LEXICON CLASS-I-INFL 
 
 
- LEXICON CLASS-IID 
+LEXICON CLASS-IID 
 
- LEXICON CLASS-IID-INFL 
+LEXICON CLASS-IID-INFL 
 
 
- LEXICON CLASS-U 
+LEXICON CLASS-U 
 
- LEXICON CLASS-U-INFL 
+LEXICON CLASS-U-INFL 
 
 
- LEXICON CLASS-AAHL 
+LEXICON CLASS-AAHL 
 
 
 
- LEXICON CLASS-AAHL-STEM-2-INFL 
+LEXICON CLASS-AAHL-STEM-2-INFL 
 
 
- LEXICON CLASS-AD 
+LEXICON CLASS-AD 
 
 
- LEXICON CLASS-AD-STEM-1-INFL 
+LEXICON CLASS-AD-STEM-1-INFL 
 
- LEXICON CLASS-AD-STEM-2-INFL 
+LEXICON CLASS-AD-STEM-2-INFL 
 
 
- LEXICON CLASS-AL 
+LEXICON CLASS-AL 
 
 
- LEXICON CLASS-AL-STEM-1-INFL 
+LEXICON CLASS-AL-STEM-1-INFL 
 
- LEXICON CLASS-AL-STEM-2-INFL 
+LEXICON CLASS-AL-STEM-2-INFL 
 
 
- LEXICON CLASS-AN 
+LEXICON CLASS-AN 
 
- LEXICON CLASS-AN-STEM-1-INFL 
+LEXICON CLASS-AN-STEM-1-INFL 
 
- LEXICON CLASS-AN-STEM-2-INFL 
+LEXICON CLASS-AN-STEM-2-INFL 
 
- LEXICON CLASS-ANG 
+LEXICON CLASS-ANG 
 
 
- LEXICON CLASS-ANG-STEM-1-INFL 
+LEXICON CLASS-ANG-STEM-1-INFL 
 
- LEXICON CLASS-ANG-STEM-2-INFL 
+LEXICON CLASS-ANG-STEM-2-INFL 
 
- LEXICON CLASS-AW 
+LEXICON CLASS-AW 
 
 
- LEXICON CLASS-AW-STEM-1-INFL 
+LEXICON CLASS-AW-STEM-1-INFL 
 
- LEXICON CLASS-AW-STEM-2-INFL 
+LEXICON CLASS-AW-STEM-2-INFL 
 
 
- LEXICON CLASS-AY 
+LEXICON CLASS-AY 
 
- LEXICON CLASS-AY-STEM-1-INFL 
+LEXICON CLASS-AY-STEM-1-INFL 
 
- LEXICON CLASS-AY-STEM-2-INFL 
+LEXICON CLASS-AY-STEM-2-INFL 
 
 
- LEXICON CLASS-EEHL 
+LEXICON CLASS-EEHL 
 
- LEXICON CLASS-EEHL-STEM-1-INFL 
+LEXICON CLASS-EEHL-STEM-1-INFL 
 
- LEXICON CLASS-EEHL-STEM-2-INFL 
+LEXICON CLASS-EEHL-STEM-2-INFL 
 
- LEXICON CLASS-ID 
+LEXICON CLASS-ID 
 
 
- LEXICON CLASS-ID-STEM-1-INFL 
+LEXICON CLASS-ID-STEM-1-INFL 
 
- LEXICON CLASS-ID-STEM-2-INFL 
+LEXICON CLASS-ID-STEM-2-INFL 
 
 
- LEXICON CLASS-II 
+LEXICON CLASS-II 
 
- LEXICON CLASS-II-STEM-1-INFL 
+LEXICON CLASS-II-STEM-1-INFL 
 
- LEXICON CLASS-II-STEM-2-INFL 
+LEXICON CLASS-II-STEM-2-INFL 
 
- LEXICON CLASS-IN 
+LEXICON CLASS-IN 
 
- LEXICON CLASS-IN-STEM-1-INFL 
+LEXICON CLASS-IN-STEM-1-INFL 
 
- LEXICON CLASS-IN-STEM-2-INFL 
+LEXICON CLASS-IN-STEM-2-INFL 
 
 
- LEXICON CLASS-ING 
+LEXICON CLASS-ING 
 
- LEXICON CLASS-ING-STEM-1-INFL 
+LEXICON CLASS-ING-STEM-1-INFL 
 
- LEXICON CLASS-ING-STEM-2-INFL 
+LEXICON CLASS-ING-STEM-2-INFL 
 
 
- LEXICON CLASS-UD 
+LEXICON CLASS-UD 
 
- LEXICON CLASS-UD-STEM-1-INFL 
+LEXICON CLASS-UD-STEM-1-INFL 
 
- LEXICON CLASS-UD-STEM-2-INFL 
+LEXICON CLASS-UD-STEM-2-INFL 
 
 
- LEXICON CLASS-UN 
+LEXICON CLASS-UN 
 
- LEXICON CLASS-UN-STEM-1-INFL 
+LEXICON CLASS-UN-STEM-1-INFL 
 
- LEXICON CLASS-UN-STEM-2-INFL 
+LEXICON CLASS-UN-STEM-2-INFL 
 
 
- LEXICON CLASS-UNG 
+LEXICON CLASS-UNG 
 
- LEXICON CLASS-UNG-STEM-1-INFL 
+LEXICON CLASS-UNG-STEM-1-INFL 
 
- LEXICON CLASS-UNG-STEM-2-INFL 
+LEXICON CLASS-UNG-STEM-2-INFL 
 
 
- LEXICON CLASS-UU 
+LEXICON CLASS-UU 
 
- LEXICON CLASS-UU-STEM-1-INFL   
+LEXICON CLASS-UU-STEM-1-INFL   
 
- LEXICON CLASS-UU-STEM-2-INFL  
+LEXICON CLASS-UU-STEM-2-INFL  
 
 
- LEXICON CLASS-A 
+LEXICON CLASS-A 
 
- LEXICON CLASS-A-STEM-1-INFL  
+LEXICON CLASS-A-STEM-1-INFL  
 
- LEXICON CLASS-A-STEM-2-INFL 
+LEXICON CLASS-A-STEM-2-INFL 
 
 
- LEXICON CLASS-A.A 
+LEXICON CLASS-A.A 
 
- LEXICON CLASS-A.A-STEM-1-INFL  
+LEXICON CLASS-A.A-STEM-1-INFL  
 
- LEXICON CLASS-A.A-STEM-2-INFL 
+LEXICON CLASS-A.A-STEM-2-INFL 
 
 
 
 
 
 
- LEXICON CLASS-AHL 
+LEXICON CLASS-AHL 
 
 
- LEXICON CLASS-AHL-INFL 
+LEXICON CLASS-AHL-INFL 
 
 
- LEXICON CLASS-AS 
+LEXICON CLASS-AS 
 
- LEXICON CLASS-AS-STEM-1-INFL 
+LEXICON CLASS-AS-STEM-1-INFL 
 
- LEXICON CLASS-AS-STEM-2-INFL 
+LEXICON CLASS-AS-STEM-2-INFL 
 
- LEXICON CLASS-AS-STEM-3-INFL 
+LEXICON CLASS-AS-STEM-3-INFL 
 
 
- LEXICON CLASS-E.E 
+LEXICON CLASS-E.E 
 
- LEXICON CLASS-E.E-STEM-1-INFL 
+LEXICON CLASS-E.E-STEM-1-INFL 
 
- LEXICON CLASS-E.E-STEM-2-INFL 
+LEXICON CLASS-E.E-STEM-2-INFL 
 
 
- LEXICON CLASS-E.EHL 
+LEXICON CLASS-E.EHL 
 
 
- LEXICON CLASS-E.EHL-STEM-1-INFL 
+LEXICON CLASS-E.EHL-STEM-1-INFL 
 
- LEXICON CLASS-E.EHL-STEM-2-INFL 
+LEXICON CLASS-E.EHL-STEM-2-INFL 
 
 
- LEXICON CLASS-IHL 
+LEXICON CLASS-IHL 
 
- LEXICON CLASS-IHL-STEM-1-INFL 
+LEXICON CLASS-IHL-STEM-1-INFL 
 
- LEXICON CLASS-IHL-STEM-2-INFL 
+LEXICON CLASS-IHL-STEM-2-INFL 
 
- LEXICON CLASS-IHL-STEM-3-INFL 
+LEXICON CLASS-IHL-STEM-3-INFL 
 
 
- LEXICON CLASS-IIHL 
+LEXICON CLASS-IIHL 
 
- LEXICON CLASS-IIHL-STEM-1-INFL 
+LEXICON CLASS-IIHL-STEM-1-INFL 
 
- LEXICON CLASS-IIHL-STEM-2-INFL 
+LEXICON CLASS-IIHL-STEM-2-INFL 
 
- LEXICON CLASS-IIHL-STEM-3-INFL 
+LEXICON CLASS-IIHL-STEM-3-INFL 
 
 
- LEXICON CLASS-IS 
+LEXICON CLASS-IS 
 
- LEXICON CLASS-IS-STEM-1-INFL 
+LEXICON CLASS-IS-STEM-1-INFL 
 
- LEXICON CLASS-IS-STEM-2-INFL 
+LEXICON CLASS-IS-STEM-2-INFL 
 
- LEXICON CLASS-IS-STEM-3-INFL 
+LEXICON CLASS-IS-STEM-3-INFL 
 
 
- LEXICON CLASS-UHL 
+LEXICON CLASS-UHL 
 
- LEXICON CLASS-UHL-STEM-1-INFL 
+LEXICON CLASS-UHL-STEM-1-INFL 
 
- LEXICON CLASS-UHL-STEM-2-INFL 
+LEXICON CLASS-UHL-STEM-2-INFL 
 
- LEXICON CLASS-UHL-STEM-3-INFL 
+LEXICON CLASS-UHL-STEM-3-INFL 
 
 
- LEXICON CLASS-US 
+LEXICON CLASS-US 
 
- LEXICON CLASS-US-STEM-1-INFL 
+LEXICON CLASS-US-STEM-1-INFL 
 
- LEXICON CLASS-US-STEM-2-INFL 
+LEXICON CLASS-US-STEM-2-INFL 
 
- LEXICON CLASS-US-STEM-3-INFL 
+LEXICON CLASS-US-STEM-3-INFL 
 
 
- LEXICON CLASS-UUHL 
+LEXICON CLASS-UUHL 
 
- LEXICON CLASS-UUHL-STEM-1-INFL 
+LEXICON CLASS-UUHL-STEM-1-INFL 
 
- LEXICON CLASS-UUHL-STEM-2-INFL 
+LEXICON CLASS-UUHL-STEM-2-INFL 
 
- LEXICON CLASS-UUHL-STEM-3-INFL 
+LEXICON CLASS-UUHL-STEM-3-INFL 
 
 
 * * *
@@ -1434,46 +1434,46 @@ set of 150 verbs taking classifiers.
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
 
 ## Alphabet
- *  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
- *  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
- *  g̲ k̲ x̲   
+*  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
+*  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
+*  g̲ k̲ x̲   
 
- *  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
- *  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
- *  G̲ K̲ X̲   
- *  %>:0 	 affix boundary
- *  %^WS:0     white space dummy
- *  %^DEF:0     white space dummy
- *  %^ENDA:0   
- *  %^ENDB:0   
- *  %^ENDC:0   
- *  %^ENDD:0   
- *  %^ENDE:0   
- *  %^ENDF:0   
- *  %^ENDG:0   
- *  %^ENDH:0   
- *  s2:s   
- *  ú2:ú   
- *  á2:á   
- *  é2:é   
- *  í2:í   
- *  ú2:ú   
+*  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
+*  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
+*  G̲ K̲ X̲   
+*  %>:0 	 affix boundary
+*  %^WS:0     white space dummy
+*  %^DEF:0     white space dummy
+*  %^ENDA:0   
+*  %^ENDB:0   
+*  %^ENDC:0   
+*  %^ENDD:0   
+*  %^ENDE:0   
+*  %^ENDF:0   
+*  %^ENDG:0   
+*  %^ENDH:0   
+*  s2:s   
+*  ú2:ú   
+*  á2:á   
+*  é2:é   
+*  í2:í   
+*  ú2:ú   
 
 
 ## Sets
 
 
- *  Vow = a e i o u y æ ø å  
-        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
- *  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
- *  Orth = . %- ;      
- *  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
- *  Sgm = Vow Cns Orth   ; 
+*  Vow = a e i o u y æ ø å  
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+*  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
+*  Orth = . %- ;      
+*  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
+*  Sgm = Vow Cns Orth   ; 
 
 
 
- *  WS = :* %^WS:0  :* ;    
- *  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
+*  WS = :* %^WS:0  :* ;    
+*  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
 
 ## Rules
 
@@ -1522,48 +1522,48 @@ Prefixes in the Northern Haida language are bound to beginning of other words.
 
 Splitting in 4 + 1  groups, because of the preprocessor
 
- * **LEXICON Abbreviation   **
- 1. The ITRAB ;	    lexicon (intransitive abbrs)
- 1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
+* **LEXICON Abbreviation   **
+1. The ITRAB ;	    lexicon (intransitive abbrs)
+1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
 
 ## The sublexica
 ### Dividing between abbreviations with and witout final period
 
- * **LEXICON ab-noun   **
+* **LEXICON ab-noun   **
 
- * **LEXICON ab-adv   **
+* **LEXICON ab-adv   **
 
 ### The lexicons that add tags
 
- * **LEXICON ab-nodot-noun   **  The bulk
+* **LEXICON ab-nodot-noun   **  The bulk
 
- * **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
+* **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
 
- * **LEXICON ab-nodot-adv   **
+* **LEXICON ab-nodot-adv   **
 
- * **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
+* **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
 
- * **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
+* **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
 
 
 
 ## The abbreviation lexicon itself
 
 
- * **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
+* **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
 
 
 
- * **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
-
-
-
-
+* **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
 
 
 
 
- * **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
+
+
+
+
+* **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
 
 For abbrs for which numerals are complements, but other
 words not necessarily are. This group treats arabic numerals as
@@ -1575,7 +1575,7 @@ if it were transitive but letters as if it were intransitive.
 
 
 
- * **LEXICON TRAB   ** contains transitive abbreviations
+* **LEXICON TRAB   ** contains transitive abbreviations
 
 This lexicon is for abbrs that always have a constituent following it.
 
@@ -1640,7 +1640,7 @@ Northern Haida verb stems
 
 
 
- LEXICON VERBS 
+LEXICON VERBS 
 V2
 V2
 V2
@@ -1683,12 +1683,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *
