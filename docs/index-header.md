@@ -6,10 +6,20 @@
 [![Build status](https://github.com/giellalt/lang-hdn/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
 
 This page documents the work on the [Northern Haida language model](http://github.com/giellalt/lang-hdn). 
+It contains the bulk of the standard Haida dictionary (by Jordan Lachler), 
+and a morphological component. It is in use in a beta quality spell checker and an e-dictionary.
 
 # Project documentation
 
-* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
+* [Alberta Language Technology Lab](http://altlab.artsrn.ualberta.ca/)
+* [Orthographic variation](LetterEncoding.html)
+* [Haida keyboard suggestion](HaidaKeyboardSuggestion.html)
+
+#  Grammatical issues
+
+* [Classifiers, an overview (Jordan Lachler)](classifiers.pdf)
+* [On Northern Haida disambiguation](NorthernHaidaDisambiguation.html)
+* [Northern Haida pronoun table](HaidaPronouns.html)
 
 # In-source documentation
 
