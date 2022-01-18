@@ -12,14 +12,14 @@ and a morphological component. It is in use in a beta quality spell checker and 
 # Project documentation
 
 * [Alberta Language Technology Lab](http://altlab.artsrn.ualberta.ca/)
-* [Orthographic variation](LetterEncoding.html)
-* [Haida keyboard suggestion](HaidaKeyboardSuggestion.html)
+* [Orthographic variation](LetterEncoding.md)
+* [Haida keyboard suggestion](HaidaKeyboardSuggestion.md)
 
 #  Grammatical issues
 
 * [Classifiers, an overview (Jordan Lachler)](classifiers.pdf)
-* [On Northern Haida disambiguation](NorthernHaidaDisambiguation.html)
-* [Northern Haida pronoun table](HaidaPronouns.html)
+* [On Northern Haida disambiguation](NorthernHaidaDisambiguation.md)
+* [Northern Haida pronoun table](HaidaPronouns.md)
 
 # In-source documentation
 
