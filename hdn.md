@@ -606,7 +606,80 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-hdn/blob/main/../src/cg3/functions.cg3)</small>
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-hdn/blob/main/../src/cg3/functions.cg3)</small># The Northern Haida morphophonological/twolc rules file 
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
+
+## Alphabet
+*  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
+*  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
+*  g̲ k̲ x̲   
+
+*  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
+*  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
+*  G̲ K̲ X̲   
+*  %>:0 	 affix boundary
+*  %^WS:0     white space dummy
+*  %^DEF:0     white space dummy
+*  %^ENDA:0   
+*  %^ENDB:0   
+*  %^ENDC:0   
+*  %^ENDD:0   
+*  %^ENDE:0   
+*  %^ENDF:0   
+*  %^ENDG:0   
+*  %^ENDH:0   
+*  s2:s   
+*  ú2:ú   
+*  á2:á   
+*  é2:é   
+*  í2:í   
+*  ú2:ú   
+
+
+## Sets
+
+
+*  Vow = a e i o u y æ ø å  
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+*  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
+*  Orth = . %- ;      
+*  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
+*  Sgm = Vow Cns Orth   ; 
+
+
+
+*  WS = :* %^WS:0  :* ;    
+*  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
+
+## Rules
+
+
+### ahl rules
+
+**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
+
+
+**ahl to ál, ahl to áal** 
+
+
+
+**ahl to áal, part 2** 
+
+**s2 to j for DEF** 
+
+**aa to a for DEF** 
+
+
+### Destressing
+
+**Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small>
 Northern Haida morphological analyser                      
 
 This file shows the Northern Haida multichar symbols and initial lexica.
@@ -1080,47 +1153,14 @@ word classes, or optionally from prefixes:
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/symbols.lexc)</small>Noun inflection
-Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Does Rfx override Pl, or other way around?
-
-Need to make Massett dialect -ee versions for Indec ending in -aay
-
-
-
-
-
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/symbols.lexc)</small>Proper noun inflection
+The Northern Haida language proper nouns inflect in the same cases as regular
+nouns, but with a colon (ʼ:ʼ) as separator.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/nouns.lexc)</small>Adjective inflection
-The Northern Haida language adjectives compare.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small>
 Northern Haida verb affixes                       
 
 
@@ -1405,14 +1445,13 @@ LEXICON CLASS-UUHL-STEM-3-INFL
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
-The Northern Haida language proper nouns inflect in the same cases as regular
-nouns, but with a colon (ʼ:ʼ) as separator.
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
+The Northern Haida language adjectives compare.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/propernouns.lexc)</small># Northern Haida verbal classifiesrs
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/adjectives.lexc)</small># Northern Haida verbal classifiesrs
 
 There are appr 400 of these, they are pointed to a 
 set of 150 verbs taking classifiers.
@@ -1429,93 +1468,103 @@ set of 150 verbs taking classifiers.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small># The Northern Haida morphophonological/twolc rules file 
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
-
-## Alphabet
-*  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
-*  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
-*  g̲ k̲ x̲   
-
-*  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
-*  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
-*  G̲ K̲ X̲   
-*  %>:0 	 affix boundary
-*  %^WS:0     white space dummy
-*  %^DEF:0     white space dummy
-*  %^ENDA:0   
-*  %^ENDB:0   
-*  %^ENDC:0   
-*  %^ENDD:0   
-*  %^ENDE:0   
-*  %^ENDF:0   
-*  %^ENDG:0   
-*  %^ENDH:0   
-*  s2:s   
-*  ú2:ú   
-*  á2:á   
-*  é2:é   
-*  í2:í   
-*  ú2:ú   
-
-
-## Sets
-
-
-*  Vow = a e i o u y æ ø å  
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
-*  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
-*  Orth = . %- ;      
-*  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
-*  Sgm = Vow Cns Orth   ; 
+<small>This (part of) documentation was generated from [../src/fst/affixes/classifiers.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/classifiers.lexc)</small>Noun inflection
+Northern Haida nouns can inflect for definiteness, reflexive possession and plurality.
 
 
 
-*  WS = :* %^WS:0  :* ;    
-*  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
-
-## Rules
-
-
-### ahl rules
-
-**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
-
-
-**ahl to ál, ahl to áal** 
 
 
 
-**ahl to áal, part 2** 
-
-**s2 to j for DEF** 
-
-**aa to a for DEF** 
 
 
-### Destressing
 
-**Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
+
+
+
+
+
+
+
+
+
+
+
+Does Rfx override Pl, or other way around?
+
+Need to make Massett dialect -ee versions for Indec ending in -aay
+
+
+
+
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small>Northern Haida postpositions
-Still need to add any distributive and reflexive forms
-as well as demonstratives formed from PPs, etc.
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/affixes/nouns.lexc)</small>
+Northern Haida verb stems                       
+
+
+
+
+
+
+LEXICON VERBS 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>Prefixes
-Prefixes in the Northern Haida language are bound to beginning of other words.
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Adjectives
+Adjectives in the Northern Haida language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>Numerals
+Numerals in Haida?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>
+
+Demo from Summer 2015
+chíin+CL/Human+CL/dla:chíin Common "fish" ;
+
+gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
+gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
+dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
+k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
+tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
+x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
+aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
+náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
+
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>
 # File containing abbreviations 
 
 ## Lexica for adding tags and periods
@@ -1594,88 +1643,39 @@ This lexicon is for abbrs that always have a constituent following it.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Particles
-Uninflecting particles, conjunctions, quantifiers, etc.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>
-
-Demo from Summer 2015
-chíin+CL/Human+CL/dla:chíin Common "fish" ;
-
-gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
-gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
-dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
-k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
-tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
-x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
-aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
-náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>Adjectives
-Adjectives in the Northern Haida language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adjectives.lexc)</small>Pronouns
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/abbreviations.lexc)</small>Pronouns
 Pronouns in the Northern Haida language are references to things.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>
-Northern Haida verb stems                       
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/pronouns.lexc)</small>Northern Haida postpositions
+Still need to add any distributive and reflexive forms
+as well as demonstratives formed from PPs, etc.
 
 
-
-
-
-
-LEXICON VERBS 
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2 
-V2
-V2
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/postpositions.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/postpositions.lexc)</small>Particles
+Uninflecting particles, conjunctions, quantifiers, etc.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
-Numerals in Haida?
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/numerals.lexc)</small>Adverbs
+<small>This (part of) documentation was generated from [../src/fst/stems/particles.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/particles.lexc)</small>Adverbs
 Still need to add any potential distributive forms, reflexive forms, etc.
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/adverbs.lexc)</small>Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/prefixes.lexc)</small>
 
 
 We describe here how abbreviations are in Northern Haida are read out, e.g.
