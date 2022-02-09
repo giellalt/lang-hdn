@@ -28,9 +28,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-h
 *  í2:í   
 *  ú2:ú   
 
-
 ## Sets
-
 
 *  Vow = a e i o u y æ ø å  
        á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
@@ -39,22 +37,16 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-h
 *  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
 *  Sgm = Vow Cns Orth   ; 
 
-
-
 *  WS = :* %^WS:0  :* ;    
 *  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
 
 ## Rules
 
-
 ### ahl rules
 
 **ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
 
-
 **ahl to ál, ahl to áal** 
-
-
 
 **ahl to áal, part 2** 
 
@@ -62,13 +54,13 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-h
 
 **aa to a for DEF** 
 
-
 ### Destressing
 
 **Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

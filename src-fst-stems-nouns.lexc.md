@@ -14,9 +14,9 @@ náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
 juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
 juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/stems/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/nouns.lexc)</small>
+
+---
+

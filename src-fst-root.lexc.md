@@ -105,7 +105,6 @@ Valency Tags
 * +Val/ICX = Extended Impersonal Causative verbs `(Si) (C) (X)`
 * +Val/ACOX = Extended Active Transcausative verbs `(Sa) (C) (O) (X)`
 
-
 The Human Classifiers
 
 * +CL/dla =
@@ -304,14 +303,9 @@ The pre-verb classifiers
 
 Semantic Tags
 
-
 Dialect Tags
 
-
-
 Triggers
-
-
 
 The parts-of-speech could perhaps also be (remove irrelevant):
 
@@ -378,16 +372,11 @@ The verbs can have the following morphological features:
 
 Verb prefixes
 
-
 Muilti word expressions
 
 tag for generating the MWE for abbr 
 
 The TAM flags
-
-
-
-
 
 Verbs and prnouns
 * +1Sg     first singular
@@ -403,12 +392,9 @@ Verbs and pronouns
 * +2Pl     = second person plural
 * +3Pl     = third person plural
 
-
-
 * +ABBR  = Abbreviations
 * +Symbol = independent symbols in the text stream, like £, €, ©
 * +ACR   = Acronyms
-
 
 Special symbols are classified with:
 * +CLB    = Clause boundary symbols
@@ -426,9 +412,7 @@ Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 *  +Guess  
 
-
 Composite UTF-8 characters, i.e. g, k, and x with
-
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -462,6 +446,9 @@ The word forms in Northern Haida start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 *   VERB_ROOT  ;     
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-hdn/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/root.lexc)</small>
+
+---
+
