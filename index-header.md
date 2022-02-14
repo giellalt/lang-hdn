@@ -13,7 +13,7 @@ and a morphological component. It is in use in a beta quality spell checker and 
 
 * [Alberta Language Technology Lab](http://altlab.artsrn.ualberta.ca/)
 * [Orthographic variation](LetterEncoding.md)
-* [Haida keyboard suggestion](HaidaKeyboardSuggestion.md)
+* [Haida keyboard](/keyboard-hdn/)
 
 #  Grammatical issues
 

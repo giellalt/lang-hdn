@@ -170,241 +170,23 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-hdn/blob/main/src/cg3/functions.cg3)</small>
-
----
-
-# The Northern Haida morphophonological/twolc rules file 
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
-
-## Alphabet
-*  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
-*  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
-*  g̲ k̲ x̲   
-
-*  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
-*  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
-*  G̲ K̲ X̲   
-*  %>:0 	 affix boundary
-*  %^WS:0     white space dummy
-*  %^DEF:0     white space dummy
-*  %^ENDA:0   
-*  %^ENDB:0   
-*  %^ENDC:0   
-*  %^ENDD:0   
-*  %^ENDE:0   
-*  %^ENDF:0   
-*  %^ENDG:0   
-*  %^ENDH:0   
-*  s2:s   
-*  ú2:ú   
-*  á2:á   
-*  é2:é   
-*  í2:í   
-*  ú2:ú   
-
-## Sets
-
-*  Vow = a e i o u y æ ø å  
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
-*  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
-*  Orth = . %- ;      
-*  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
-*  Sgm = Vow Cns Orth   ; 
-
-*  WS = :* %^WS:0  :* ;    
-*  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
-
-## Rules
-
-### ahl rules
-
-**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
-
-**ahl to ál, ahl to áal** 
-
-**ahl to áal, part 2** 
-
-**s2 to j for DEF** 
-
-**aa to a for DEF** 
-
-### Destressing
-
-**Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-hdn/blob/main/src/cg3/functions.cg3)</small>Adjective inflection
+The Northern Haida language adjectives compare.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/adjectives.lexc)</small>
 
 ---
 
+# Northern Haida verbal classifiesrs
 
-
-Demo from Summer 2015
-chíin+CL/Human+CL/dla:chíin Common "fish" ;
-
-gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
-gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
-dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
-k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
-tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
-x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
-aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
-náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
-juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
+There are appr 400 of these, they are pointed to a 
+set of 150 verbs taking classifiers.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/nouns.lexc)</small>
-
----
-
-Particles
-Uninflecting particles, conjunctions, quantifiers, etc.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/particles.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/particles.lexc)</small>
-
----
-
-Adverbs
-Still need to add any potential distributive forms, reflexive forms, etc.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adverbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/adverbs.lexc)</small>
-
----
-
-Pronouns
-Pronouns in the Northern Haida language are references to things.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/pronouns.lexc)</small>
-
----
-
-Numerals
-Numerals in Haida?
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/numerals.lexc)</small>
-
----
-
-Northern Haida postpositions
-Still need to add any distributive and reflexive forms
-as well as demonstratives formed from PPs, etc.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/postpositions.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/postpositions.lexc)</small>
-
----
-
-Adjectives
-Adjectives in the Northern Haida language describe things.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/adjectives.lexc)</small>
-
----
-
-Prefixes
-Prefixes in the Northern Haida language are bound to beginning of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/prefixes.lexc)</small>
-
----
-
-
-Northern Haida verb stems                       
-
-LEXICON VERBS 
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2
-V2 
-V2
-V2
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/verbs.lexc)</small>
-
----
-
-
-# File containing abbreviations 
-
-## Lexica for adding tags and periods
-
-Splitting in 4 + 1  groups, because of the preprocessor
-
-* **LEXICON Abbreviation   **
-1. The ITRAB ;	    lexicon (intransitive abbrs)
-1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
-
-## The sublexica
-### Dividing between abbreviations with and witout final period
-
-* **LEXICON ab-noun   **
-
-* **LEXICON ab-adv   **
-
-### The lexicons that add tags
-
-* **LEXICON ab-nodot-noun   **  The bulk
-
-* **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
-
-* **LEXICON ab-nodot-adv   **
-
-* **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
-
-* **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
-
-## The abbreviation lexicon itself
-
-* **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
-
-* **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
-
-* **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
-
-For abbrs for which numerals are complements, but other
-words not necessarily are. This group treats arabic numerals as
-if it were transitive but letters as if it were intransitive.
-
-* **LEXICON TRAB   ** contains transitive abbreviations
-
-This lexicon is for abbrs that always have a constituent following it.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/abbreviations.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/abbreviations.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/classifiers.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/classifiers.lexc)</small>
 
 ---
 
@@ -421,17 +203,6 @@ Need to make Massett dialect -ee versions for Indec ending in -aay
 
 ---
 
-# Northern Haida verbal classifiesrs
-
-There are appr 400 of these, they are pointed to a 
-set of 150 verbs taking classifiers.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/classifiers.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/classifiers.lexc)</small>
-
----
-
 Proper noun inflection
 The Northern Haida language proper nouns inflect in the same cases as regular
 nouns, but with a colon (ʼ:ʼ) as separator.
@@ -442,12 +213,12 @@ nouns, but with a colon (ʼ:ʼ) as separator.
 
 ---
 
-Adjective inflection
-The Northern Haida language adjectives compare.
+
+# Symbol affixes
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/symbols.lexc)</small>
 
 ---
 
@@ -688,12 +459,69 @@ LEXICON CLASS-UUHL-STEM-3-INFL
 
 ---
 
+# The Northern Haida morphophonological/twolc rules file 
 
-# Symbol affixes
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc) 
+
+## Alphabet
+*  a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å    
+*  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç ' ʼ . %-   
+*  g̲ k̲ x̲   
+
+*  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å   
+*  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   
+*  G̲ K̲ X̲   
+*  %>:0 	 affix boundary
+*  %^WS:0     white space dummy
+*  %^DEF:0     white space dummy
+*  %^ENDA:0   
+*  %^ENDB:0   
+*  %^ENDC:0   
+*  %^ENDD:0   
+*  %^ENDE:0   
+*  %^ENDF:0   
+*  %^ENDG:0   
+*  %^ENDH:0   
+*  s2:s   
+*  ú2:ú   
+*  á2:á   
+*  é2:é   
+*  í2:í   
+*  ú2:ú   
+
+## Sets
+
+*  Vow = a e i o u y æ ø å  
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã  ; 
+*  Cns = b c d f g h j k l m n p q r s t v w x z ð þ ' ʼ ç ý ñ ; 
+*  Orth = . %- ;      
+*  Endings = %^DEF %^ENDA  %^ENDB  %^ENDC  %^ENDD  %^ENDE  %^ENDF  %^ENDG  %^ENDH ;     
+*  Sgm = Vow Cns Orth   ; 
+
+*  WS = :* %^WS:0  :* ;    
+*  AccVow =  [ á: | é: | í: | ó: | ú: ]  ;      
+
+## Rules
+
+### ahl rules
+
+**ahl to ál, ahl to áal** ahl changes to ál at the end of a stem verb when it is followed by an ending belonging to Set B, F, G or H
+
+**ahl to ál, ahl to áal** 
+
+**ahl to áal, part 2** 
+
+**s2 to j for DEF** 
+
+**aa to a for DEF** 
+
+### Destressing
+
+**Destressing rule** - The rule removes accents from vowels. This should be a general rule, but we have problems of getting the variables to accept 0:Vow
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc)</small>
 
 ---
 
@@ -1152,6 +980,173 @@ word classes, or optionally from prefixes:
 ---
 
 
+# File containing abbreviations 
+
+## Lexica for adding tags and periods
+
+Splitting in 4 + 1  groups, because of the preprocessor
+
+* **LEXICON Abbreviation   **
+1. The ITRAB ;	    lexicon (intransitive abbrs)
+1. The TRNUMAB ;   lexicon (abbrs trans wrt. numberals)
+
+## The sublexica
+### Dividing between abbreviations with and witout final period
+
+* **LEXICON ab-noun   **
+
+* **LEXICON ab-adv   **
+
+### The lexicons that add tags
+
+* **LEXICON ab-nodot-noun   **  The bulk
+
+* **LEXICON ab-dot-noun   **  This is the lexicon for abbrs that must have a period.
+
+* **LEXICON ab-nodot-adv   **
+
+* **LEXICON ab-dot-adv   **  This is the lexicon for abbrs that must have a period.
+
+* **LEXICON ab-dot-adj   **  This is the lexicon for abbrs that must have a period.
+
+## The abbreviation lexicon itself
+
+* **LEXICON SYMBOLS   ** is for iscellaneous abbr symbols
+
+* **LEXICON ITRAB   ** are intransitive abbreviations, Ltd. etc.
+
+* **LEXICON TRNUMAB   ** contains abbreviations who are transitive in front of numerals 
+
+For abbrs for which numerals are complements, but other
+words not necessarily are. This group treats arabic numerals as
+if it were transitive but letters as if it were intransitive.
+
+* **LEXICON TRAB   ** contains transitive abbreviations
+
+This lexicon is for abbrs that always have a constituent following it.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/abbreviations.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/abbreviations.lexc)</small>
+
+---
+
+Adjectives
+Adjectives in the Northern Haida language describe things.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/adjectives.lexc)</small>
+
+---
+
+Adverbs
+Still need to add any potential distributive forms, reflexive forms, etc.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adverbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/adverbs.lexc)</small>
+
+---
+
+
+
+Demo from Summer 2015
+chíin+CL/Human+CL/dla:chíin Common "fish" ;
+
+gatáadaan+CL/Shape+CL/hlga:gatáadaan Common "table" ;
+gwáahl+CL/Shape+CL/cha:gwáahl Common "bag" ;
+dúus+CL/Human+CL/dla:dúus2 Common "cat" ;
+k̲úng+CL/Shape+CL/k̲ʼíi:k̲ú2ng Common "moon";
+tʼáangal+Sem/BodyPart:tʼáangal Body_Part "tongue" ;
+x̲áng+Sem/BodyPart:x̲áng Body_Part "eye" ;
+aw+CL/Human+CL/dla+Sem/Kinterm:aw Kinterm "mother, motherʼs sister" ;
+náan+CL/Human+CL/dla+Sem/Kinterm:náan Kinterm "grandmother" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-M:juuyáay Indec "sun" ;
+juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/nouns.lexc)</small>
+
+---
+
+Numerals
+Numerals in Haida?
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+Particles
+Uninflecting particles, conjunctions, quantifiers, etc.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/particles.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/particles.lexc)</small>
+
+---
+
+Northern Haida postpositions
+Still need to add any distributive and reflexive forms
+as well as demonstratives formed from PPs, etc.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/postpositions.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/postpositions.lexc)</small>
+
+---
+
+Prefixes
+Prefixes in the Northern Haida language are bound to beginning of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/prefixes.lexc)</small>
+
+---
+
+Pronouns
+Pronouns in the Northern Haida language are references to things.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/pronouns.lexc)</small>
+
+---
+
+
+Northern Haida verb stems                       
+
+LEXICON VERBS 
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2
+V2 
+V2
+V2
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/verbs.lexc)</small>
+
+---
+
+
 
 retroflex plosive, voiceless			t`  ʈ	    0288, 648 (` = ASCII 096)
 retroflex plosive, voiced			d`	ɖ		0256, 598
@@ -1376,7 +1371,6 @@ CLB
 LEFT
 RIGHT
 WEB
-QMARK
 PPUNCT
 PUNCT
 
@@ -1490,9 +1484,6 @@ Sem/Txt
 
 HUMAN
 
-HAB-ACTOR
-HAB-ACTOR-NOT-HUMAN
-
 PROP-ATTR
 PROP-SUR
 
@@ -1581,8 +1572,6 @@ INITIAL
 ### Sets for word or not
 
 WORD
-REAL-WORD
-REAL-WORD-NOT-ABBR
 NOT-COMMA
 
 ### Case sets
@@ -1641,8 +1630,69 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-hdn/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for hdn
 
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-hdn/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+Usage:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1. unknown word-like forms, and
+2. unmatched strings
+We want to give 1) a match, but let 2) be treated specially by
+`hfst-tokenise -a`
+Unknowns are made of:
+* lower-case ASCII
+* upper-case ASCII
+* select extended latin symbols
+* hdn specific symbols
+
+ASCII digits
+* select symbols
+* Combining diacritics as individual symbols,
+
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+## Unknown handling
+Unknowns are tagged ?? and treated specially with `hfst-tokenise`
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-hdn/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
 
@@ -1706,72 +1756,6 @@ Finally we mark as a token any sequence making up a:
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-hdn/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
-# Tokeniser for hdn
-
-Usage:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1. unknown word-like forms, and
-2. unmatched strings
-We want to give 1) a match, but let 2) be treated specially by
-`hfst-tokenise -a`
-Unknowns are made of:
-* lower-case ASCII
-* upper-case ASCII
-* select extended latin symbols
-* hdn specific symbols
-
-ASCII digits
-* select symbols
-* Combining diacritics as individual symbols,
-
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-## Unknown handling
-Unknowns are tagged ?? and treated specially with `hfst-tokenise`
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-hdn/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
 
