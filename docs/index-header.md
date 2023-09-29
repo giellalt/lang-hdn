@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-hdn/main/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-hdn/main/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
 
 This page documents the work on the [Northern Haida language model](http://github.com/giellalt/lang-hdn). 
 It contains the bulk of the standard Haida dictionary (by Jordan Lachler), 
