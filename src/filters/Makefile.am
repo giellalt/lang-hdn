@@ -22,7 +22,11 @@
 GIELLA_FILTER_LOCAL_REGEX_SRCS=\
 					downcase_UCletters.regex \
 					reorder-tags.hdn.regex   \
-					make_optional-Val-tags.regex
+					make_optional-Val-tags.regex \
+					remove-DNorm-tags.regex \
+					remove-derivation-position-tags.regex \
+					remove-norm-comp-tags.regex \
+					rename-POS_before_Der-tags.regex
 
 # List any local filter xfscript files here:
 GIELLA_FILTER_LOCAL_XFSCRIPT_SRCS=
