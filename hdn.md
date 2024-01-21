@@ -175,7 +175,7 @@ The Northern Haida language adjectives compare.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
 
@@ -186,7 +186,7 @@ set of 150 verbs taking classifiers.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/classifiers.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/classifiers.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/classifiers.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/affixes/classifiers.lexc)</small>
 
 ---
 
@@ -199,7 +199,7 @@ Need to make Massett dialect -ee versions for Indec ending in -aay
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
 
@@ -209,7 +209,7 @@ nouns, but with a colon (ʼ:ʼ) as separator.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
 
@@ -218,7 +218,7 @@ nouns, but with a colon (ʼ:ʼ) as separator.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -455,7 +455,7 @@ LEXICON CLASS-UUHL-STEM-3-INFL
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
 
@@ -521,7 +521,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-h
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 
@@ -975,7 +975,7 @@ word classes, or optionally from prefixes:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -1027,7 +1027,7 @@ This lexicon is for abbrs that always have a constituent following it.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/abbreviations.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/abbreviations.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/abbreviations.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/abbreviations.lexc)</small>
 
 ---
 
@@ -1036,7 +1036,7 @@ Adjectives in the Northern Haida language describe things.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/adjectives.lexc)</small>
 
 ---
 
@@ -1045,7 +1045,7 @@ Still need to add any potential distributive forms, reflexive forms, etc.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adverbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/adverbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adverbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/adverbs.lexc)</small>
 
 ---
 
@@ -1067,7 +1067,7 @@ juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
 
 ---
 
@@ -1076,7 +1076,7 @@ Numerals in Haida?
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
 
@@ -1085,7 +1085,7 @@ Uninflecting particles, conjunctions, quantifiers, etc.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/particles.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/particles.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/particles.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/particles.lexc)</small>
 
 ---
 
@@ -1095,7 +1095,7 @@ as well as demonstratives formed from PPs, etc.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/postpositions.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/postpositions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/postpositions.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/postpositions.lexc)</small>
 
 ---
 
@@ -1104,7 +1104,7 @@ Prefixes in the Northern Haida language are bound to beginning of other words.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/prefixes.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 
@@ -1113,7 +1113,7 @@ Pronouns in the Northern Haida language are references to things.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/pronouns.lexc)</small>
 
 ---
 
@@ -1142,7 +1142,7 @@ V2
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/stems/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
 
 ---
 
@@ -1309,7 +1309,7 @@ retracted tongue root			_q
 
 * * *
 
-<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-hdn/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-hdn/blob/main/src/fst/phonetics/txt2ipa.xfscript)</small>
 
 ---
 
@@ -1329,7 +1329,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 
