@@ -17,6 +17,3 @@ juuyáay+CL/Shape+CL/k̲ʼíi+Dial/NOT-A:juuyée Indec "sun" ;
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-hdn/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
-
----
-
