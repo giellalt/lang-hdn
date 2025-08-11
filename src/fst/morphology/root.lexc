@@ -450,7 +450,7 @@ s2 !!= * @CODE@ =
 +CLB   !!= * @CODE@ = Clause boundary symbols
 +PUNCT !!= * @CODE@ = Other punctuation marks
 +LEFT  !!= * @CODE@ = Left part of paired symbols
-+RIGHT !!= * @CODE@ = Right part of paired symbols
++RIGHT +MIDDLE !!= * @CODE@ = Right part of paired symbols
 
 !! The verbs are syntactically split according to transitivity:
 +TV !!= * @CODE@ 
