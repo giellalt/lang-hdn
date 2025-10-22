@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-hdn%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-hdn/main/badge.svg)](https://github.com/giellalt/lang-hdn/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-hdn?label=CI)](https://builds.giellalt.org/pipelines/lang-hdn/builds/latest)
 
 This page documents the work on the [Northern Haida language model](http://github.com/giellalt/lang-hdn). 
 It contains the bulk of the standard Haida dictionary (by Jordan Lachler), 
