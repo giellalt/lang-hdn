@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-hdn)](https://github.com/giellalt/lang-hdn/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-hdn?label=CI)](https://builds.giellalt.org/pipelines/lang-hdn/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the [Northern Haida language model](http://github.com/giellalt/lang-hdn). 
 It contains the bulk of the standard Haida dictionary (by Jordan Lachler), 
