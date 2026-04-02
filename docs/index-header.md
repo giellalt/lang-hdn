@@ -18,6 +18,7 @@ Center location data taken from [Glottolog](https://glottolog.org/). Area extent
 
 </div>
 
+
 This page documents the work on the [Northern Haida language model](http://github.com/giellalt/lang-hdn). 
 It contains the bulk of the standard Haida dictionary (by Jordan Lachler), 
 and a morphological component. It is in use in a beta quality spell checker and an e-dictionary.
