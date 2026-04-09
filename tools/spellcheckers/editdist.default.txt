@@ -66,9 +66,11 @@ X̂
 Y
 Z
 -
+ʼ
 .
 ʼ
 :
+̲
 
 
 ## Transition pairs + weight - section separator:
@@ -76,11 +78,11 @@ Z
 
 ## Transition pair specifications:
 a	á	1
-a	ä	3
-e	é	2
-o	ó	2
-u	ú	2
-i	í	2
+a	ä	1
+e	é	1
+o	ó	1
+u	ú	1
+i	í	1
 '	ʼ	0
 
 ## Swaps. NB! Please note that these depend on the variable
