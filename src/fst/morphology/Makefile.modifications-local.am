@@ -19,7 +19,7 @@
 
 if HAVE_SHARED_ENG
 generated_files/eng-propernouns.lexc: \
-			$(gt_SHARED_eng)/src/fst/stems/eng-propernouns.lexc
+			$(gt_SHARED_eng)/src/fst/morphology/stems/eng-propernouns.lexc
 	$(AM_V_at)$(MKDIR_P) generated_files
 	$(AM_V_GEN)cp -f $< $@
 
